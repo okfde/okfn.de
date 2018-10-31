@@ -1,0 +1,99 @@
+---
+author: Daniel Dietrich
+date: 2013-04-14 12:10:53
+image:
+  src: /files/blog/2013/02/Open_data.png
+layout: post
+tags:
+- OKFN DE
+title: OKF DE Tätigkeitsbericht März 2013
+type: post
+---
+
+**Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 
+
+Das wohl wichtigste Ereignis im März 2013 war unser erster Retreat. Team und Vorstand haben sich ein Wochenende Zeit genommen, um über die OKF DE, unsere Ziele, Schwerpunkt und Fokus unserer Arbeit, sowie über unseren Handlungsansatz und unsere Arbeitsweise und Struktur zu reden. Wir haben sicherlich nicht alle Probleme gelöst. Wichtig ist aber, dass wir alle einen besseren Überblick über laufende Aktivitäten und ein besseres Verständnis für die Herausforderungen gewonnen haben. So haben wir wichtige Fragen Aufgeworfen und konkrete Aufgaben zu deren Beantwortung verteilt. Wir sind zuversichtlich, gemeinsam ein gutes Stück weiter gekommen zu sein.
+
+Neben der Arbeit an laufenden Projekten bemühen wir uns derzeit um drei große neue Projekte. Eines davon ist Young Rewired State (YRS) Berlin und wir freuen uns es heute ankündigen zu können. Mehr dazu auf der [YRS Webseite](https://youngrewiredstate.org/yrs-everywhere/yrs-berlin/). 
+
+> Gemeinsam organisieren Open Knowledge Foundation Deutschland und YRS den ersten ersten Young Rewired State Hackday in Deutschland. Young Rewired State ist ein Netzwerk aus jungen Software-Entwicklern die sich einmal im Jahr zu einem großen Hackday treffen und Anwendungen aus den offenen Daten ihrer Stadt bauen.
+> 
+> Für den Hackday suchen wir Kinder und Jugendliche von 7 bis 18 Jahre die in ihrer Freizeit gerne Code schreiben. Alle sind willkommen – egal, ob ihr erste HTML-Kenntnisse besitzt oder bereits komplexe Software in verschiedenen Sprachen programmieren könnt. Ziel von YRS ist es jugendliche Software-Entwickler zu vernetzen und sie dabei zu unterstützen ihre Fähigkeiten weiterzuentwickeln.
+> 
+> Am 7. und 8. September 2013 laden wir 50 Jugendliche aus Berlin ein, Werkzeuge und Anwendungen zu entwickeln, die offene Daten ihrere Stadt (Kriminalitätsdaten, Verkehrsdaten usw.) nutzbar machen, um die Welt ein kleines bisschen besser zu machen. Dabei werdet ihr von erfahrenen Entwicklern als Mentoren unterstützt. Zusammen wollen wir mehr und besser coden lernen und vor allem viel Spaß haben.
+
+Damit wir unsere Arbeit weiterhin gut machen können, sind wir auf Deine Hilfe angewiesen. Es gibt verschiedene Möglichkeiten uns zu unterstützen: Sei es durch aktive Mitarbeit in unseren Projekten oder durch eine [Spende](/spenden/)! Wir freuen uns über Fragen, Anregungen und Kritik and info@okfn.de. Im folgenden nun die Übersicht unserer Aktivitäten im März 2013.
+
+### Fundraising  
+* Gespräche zum und Anpassungen am Antrag für die OGP-Kampagne  
+* Entwurf Anschreiben weitere Sponsoren und Unterstützer für die OGP-Kampagne  
+* 2 Knight OpenGov submissions eingereicht: 1) [Kleine Anfragen](https://www.newschallenge.org/open/open-government/submission/citizen-experts-and-mps-keeping-government-in-check-together/) und 2) [OpenPPP](https://www.newschallenge.org/open/open-government/submission/putting-the-open-in-public-private-partnerships-ppps/)  
+* OKF DE und unsere Arbeit bei der Bewegungsstiftung vorgestellt  
+* Erfolgreicher Abschluss der Fördermitgliedschaften: regio IT und AKSW  
+* Jugend hackt Projektantrag bei Jugend Demokratiefonds Berlin eingereicht  
+* Gespräche mit 2 MdBs und 1 MdB-WiMi zum Projekt Kleine Anfragen
+
+### Frag den Staat  
+* Release der Version 3.0 der Software von Frag den Staat ([FROIDE](https://github.com/stefanw/froide))  
+* Gespräche über die Ausweitung von FragdenStaat auf weitere Bundesländer
+
+### Energiehackday  
+* Treffen mit dem Moderationsteam (Besprechung Ablauf etc.), Vorbereitung für den Expertenworkshop  
+* Besichtigung des UW Alte Jakobstraße (mögl. Location für den Hackday), das UW eignet sich nicht- kein Internet  
+* Angebote einholen für andere Locations die in Frage kommen (BetaHaus, Supermarkt etc.), betahaus wird die location sein  
+* Vorbereitung und Durchführung des Expertenworkshops am 22. März im Betahaus Berlin siehe [Fotos](https://drive.google.com/#folders/0By05tjt1Gu2saFNzelY2Mm5Za3c). Fast alle eingeladenen Gäste waren anwesend, die Resonanz war sehr positiv  
+* Koordination der Videoproduktion, Video ist fast fertig  
+* Next steps: thematisches Framing des Hackdays und aufsetzen einer Website samt Design
+
+### Stadt, Land, Code  
+* Betreuung der Stipendiaten zum Fortschritt ihrer Projekte  
+* Berichte über den Fortschritt der Projekte auf dem [Projektblog](http://stadtlandcode.de/blog/) und Dissemination via Social Media  
+* Arbeitstreffen mit Stipendiaten und Mentoren zum Fortschritt der Projekte im OKF DE Office am 19. März
+
+### YRS Berlin - Jugend hackt  
+* Erste Gespräche mit den Organisatoren von Young Rewired State (YRS)  
+* Recherche  
+* Entwurf Konzept für YRS Berlin  
+* Weitere Gespräche und Einigung mit YRS über Partnerschaft!  
+* Übersetzung und Anpassung Texte für [Webseite](https://youngrewiredstate.org/yrs-everywhere/yrs-berlin)
+
+### Apps for Europe  
+* Planung von Hackdays und Apps-Wettbewerben in Deutschland  
+* Draft 1-Seiter zu Apps for Europe, Appswettbewerben allgemein, Business Launch  
+* Recherche zu möglichen Events, Partnern und Sponsoren  
+* Entwurf Anschreiben Partner und Sponsoren  
+* Teilnahme am monatlichen Call von work package 2
+
+### BIG Data - Public Private Forum  
+* Studium relevanter Entwicklungen rund um BIG Data  
+* Identification von Quellen für die Dissemination  
+* Suche und Publikation von relevanten Big Data blogposts, news, tweets  
+* Entwurf Flyertemplate für stakeholder engagement der technischen Arbeitsgruppen und Sektorenforen  
+* Interviews mit Projektpartnern über Fortschritt und Probleme zu "Stakeholder Engagement"  
+* Suche nach key Stakeholder für die BIG Sector Forums und technischen Arbeitsgruppen  
+* Finalisierung des Calls für "Doing Good by Linking Entities Challenge", sponsored by BIG  
+* Finalisierung des "Web of Linked Entities workshop paper submission process"
+
+### Europeana Cloud  
+* Teilnahme am Kick-off-meeting am 4.&5\. März in Den Hague  
+* Abstimmung zu möglichen Kooperationen mit OKFN Projekten, wie DM2E, Textus und den Arbeitsgruppen Open GLAM und Open Literature  
+* Teilnahme am wöchentlichen Call von Work Package 2  
+* Absprache mit Konsortialpartnern über Vorgehen und Arbeitsteilung in WP2  
+* Entwicklung von Persona und Szenarien  
+* Sammlung von relevanten Tools und Werkzeugen für die Evaluation
+
+## Veranstaltungen
+
+  * 8\. & 9\. März: Retreat für OKF DE Team und Vorstand
+  * 21\. März: Expertenworkshop zum Energyhackday im Betahaus in Berlin
+  * 22\. März: Apps and the City | [Präsentation von Apps und Daten](/blog/2013/04/apps-and-the-city-prasentation-daten-workshop/), beim VBB in Berlin
+  * 26\. & 27\. März: School of Data: [Wrangling for Watchdogs Workshop](http://www.supermarkt-berlin.net/content/wrangling-watchdogs-school-data-workshop), im Supermarkt Berlin
+
+## Sonstiges
+
+  * Blogpost zum [Transparenzportal KfW-Entwicklungsbank](/blog/2013/03/transparenz-portal-kfw-entwicklungsbank/)
+  * Übersetzung und Veröffentlichung der [Erklärung zur Parlamentarischen Offenheit](/blog/2013/03/erklaerung-zur-parlamentarischen-offenheit/) ([Declaration on Parliamentary Openness](http://www.openingparliament.org/))
+
+ 
+
+ 

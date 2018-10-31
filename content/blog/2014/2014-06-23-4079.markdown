@@ -1,0 +1,77 @@
+---
+author: Gero Nagel
+date: 2014-06-23 14:46:36
+image:
+  src: /files/blog/2014/06/14159657713_b0d14ac5ec_o-150x99.jpg
+  title: republica 2014, Tag 2
+layout: post
+tags:
+- Monatsrückblick
+- Code for Germany
+- Coding Da Vinci
+- Jugend hackt
+- republica
+title: Aktivitäten und Projekte im Mai 2014
+type: post
+---
+
+#### Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland:
+
+Code for Germany wird zum OKFestival offiziell gelauncht, und für Jugend hackt im September könnt ihr euch jetzt anmelden. Anmelden solltet ihr euch auch für die Preisverleihung von Coding da Vinci, wenn erstmals Apps & Co. für den Kulturbereich von den teilnehmenden Teams präsentiert werden! Weitere Neuigkeiten gibt es in diesem Newsletter.
+
+#### Rückblick in den Mai:
+
+Auf der re:publica 2014 haben wir mehrere Talks gehalten. Aufzeichnungen gibt es von “[Wie geht’s dir, Kinderzimmerprogrammierer/in?](https://www.youtube.com/watch?v=4TQon4hnGS8&index=76&list=PLAR_6-tD7IZV--8ydJQRCZNEWOp9vf6PY)” von Maria Reimer sowie von “[Civic Tech -- of the people, by the people, for the people](https://www.youtube.com/watch?v=kwmuQwNNJhQ)” von Julia Kloiber und Stefan Kaufmann.
+
+ 
+
+#### Coding Da Vinci:![codingdavincinl](/files/blog/2014/04/codungdavincinl.png)
+
+Zu gewinnen gibt es beispielsweise: [Arduinos mit Open Source Sensoren, ein Coaching mit Prof. Dr. Marian Dörk (FH-Potsdam, Information Visualization) und Reisen zum diesjährigen 30C3, nach Amsterdam und nach Weimar.](http://codingdavinci.de/#preise) Alle Interessierten sind herzlich zur Abschlussveranstaltung im Jüdischen Museum Berlin (Lindenstr. 9-14) eingeladen. Los geht es ab 10:30 Uhr, wir bitten um eine vorherige [Anmeldung](http://codingdavinci.de/anmeldung/).
+
+#### 
+
+#### Jugend hackt:![jugendhackt](/files/blog/2014/06/jugendhackt_fb-150x150.jpg)
+
+Vor allem für die Junghaecksen und -hacker unter uns: Wir haben die Anmeldung für [Jugend hackt geöffnet und die Webseite aktualisiert](http://jugendhackt.de/). Wer sich für Computer interessiert, Gleichgesinnte treffen will und zwischen 12 und 18 Jahre alt ist, ist herzlich eingeladen. Besonders freuen wir uns über die Verbreitung des Links unter programmierbegeisterten Mädchen! Das Camp findet vom 12.-14.09. in Berlin statt.
+
+#### 
+
+#### Code for Germany:![Code for Germany](/files/blog/2014/02/CFG_500x500-150x150.jpg)
+
+Seit Februar sind 12 OK Labs in ganz Deutschland aktiv. Die Communities treffen sich regelmäßig zum Austausch und Arbeiten. Sie nutzen Daten ihrer Stadt und entwickeln daraus nützliche Werkzeuge und Visualisierungen für Bürgerinnen. Pünktlich zum OKFestival findet der offizielle Launch des Programms statt. Für alle, die auf dem Laufenden über Entwicklungen und News aus den Labs bleiben möchten: [Hier kann man sich in den (monatlichen) Code for Germany Newsletter eintragen](http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=bb63fcab72).
+
+#### 
+
+#### Was wird spannend?![9501397375_cd4e1541b2_o](/files/blog/2014/06/9501397375_cd4e1541b2_o1-147x150.jpg)
+
+In Berlin findet das [OKFestival](/blog/2014/06/ok-festival-2014-das-internationale-festival-fuer-offenes-wissen-kommt-nach-berlin/) statt. Im Rahmen des OKFestivals veranstalten wir zum Thema Kulturerbe einen [OpenGLAM-Workshop](/projekte/openglam-workshop), in dessen Rahmen wir gemeinsam mit euch eine OpenGLAM-Arbeitsgruppe Deutschland gründen wollen. Der Workshop ist kostenlos, jetzt mitmachen und [anmelden](/projekte/openglam-workshop).
+
+#### 
+
+ 
+
+#### Schon gesehen?  
+![CC-BY 2.0 Christiaan Triebert](/files/blog/2014/06/2495398058_5bc1382e80_o-150x114.jpg) CC-BY 2.0 Christiaan Triebert
+
+Die Landesregierung Nordrhein-Westfalen beschließt ihre [Open Data Strategie](http://www.nrw.de/opennrw/opennrw-1/open-nrw-strategie.html).
+
+Die Theatergruppe “c-atre” spielt am 3., 4. und 5. Juli “[The Time is Right](http://www.c-base.org/projects/c-atre/?page_id=9)” in der c-base, Berlin. Es geht um Zeitreisen und das Urheberrecht.
+
+An der TH Wildau hat ein neues [FabLab](http://www.th-wildau.de/index.php?id=6495) eröffnet.
+
+Es gibt für Berlin eine neue, umfassende Nahverkehrs-Planung, den [City Mapper](https://citymapper.com/berlin).
+
+Kennt ihr schon den [Open Science Sum up](/blog/2014/03/open-science-sum-up-februar/)? Hier werden News aus dem Bereich Open Science weltweit, in Österreich und in Deutschland für euch zusammengefasst.
+
+Der Schweizerische Bundesrat verabschiedet eine [Open Government Data-Strategie](https://www.news.admin.ch/message/index.html?lang=de&msg-id=52688).
+
+Open Data und Google Glass-App zeichnet Ü[berwachungsgefahrenzonen](http://www.crackajack.de/2014/04/16/google-glass-augmented-privacy-app/) aus.
+
+Züchter startet Kampagne und veröffentlicht [Open Source Samen](http://www.npr.org/blogs/thesalt/2014/04/17/303772556/plant-breeders-release-first-open-source-seeds) (englischer Artikel).
+
+Auf dem Tempelhofer Feld entesteht eine [Allmende für urbane Landwirtschaft und Gemeinschaftsgärten](http://www.tempelhoferfreiheit.de/ueber-die-tempelhofer-freiheit/parklandschaft/pionierprojekte/allmende-kontor/).
+
+ 
+
+Weitere aktuelle Neuigkeiten und ausführliche Informationen findet ihr auch auf [twitter](%22https://twitter.com/okfde). Willst du unseren Monatsrückblick regelmäßig erhalten? **[Dann abonniere unseren Newsletter!](http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=4ed2decd59)**

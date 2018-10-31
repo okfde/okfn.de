@@ -1,0 +1,75 @@
+---
+author: Daniel Dietrich
+date: 2013-03-05 09:00:07
+image:
+  src: /files/blog/2013/02/Open_data.png
+layout: post
+tags:
+- OKFN DE
+title: OKF DE Tätigkeitsbericht Februar 2013
+type: post
+---
+
+## Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland: Zeitraum: Februar 2013
+
+### Fundraising  
+* 18 Fördermitgliedsanschreiben versendet  
+* OGP-Kampagnenantrag an Omidyar versendet  
+* Auftritt Claudia Schwegmann bei den GIZ-Fachtagen in die Wege geleitet  
+* Vorbereitung Knight OpenGov-Antrag  
+* Überlegungen dbb-Innovationspreis  
+* Bundesgit für Ars Electronica Preis  
+* Jugend hackt Partnerliste zusammengetragen
+
+### Frag den Staat  
+* Vorbereitungen der Version 3.0 der Software von Frag den Staat ([FROIDE](https://github.com/stefanw/froide))  
+* Unterstützung beim Launch www.FragDenStaat.at in Österreich  
+* [Presseerklärung](https://fragdenstaat.de/presse/2013-02-26-tausend-anfragen/) zur 1000 (!) Anfrage über Frag den Staat
+
+### Haushaltsvisualisierung für SenFin Berlin  
+* Umsetzung der Haushaltsvisualisierung  
+* Abstimmung mit Auftraggeber zu zusätzlichen Features  
+* Vorbereitung Launch
+
+### Stadt, Land, Code  
+* Vereinbarungen und Stipendienverträge aufgesetzt  
+* Studenten haben Stipendiumsvereinbarungen bekommen. Alle anderen einfache Vereinbarungen in denen die zu erbringenden Leistungen festgelegt sind.  
+* Mehrere Telefonate und Hilfestellung für Felix Ebert Projekt: Argufactum
+
+### Apps for Europe  
+* Kickoff meeting 7. und 8. Februar in Amsterdam  
+* Rekrutierung eines Apps for X Evangelisten und Projektleiter für OKF DE  
+* Planung von Hackdays und Apps-Wettbewerben in Deutschland  
+* Arbeitstreffen zu "Apps and the City Köln" im Rahmen der Interactive Cologne, 17.-23. Juni http://interactive-cologne.com/
+
+### BIG Data - Public Private Forum  
+* Studium relevanter Entwicklungen rund um BIG Data  
+* Identification von Quellen für die Dissemination  
+* Arbeitstreffen des Consortiums am 11.-12. März in Kaiserslautern  
+* Diskussion ber die Ergebnisse des Arbeitstreffens im Projektteam  
+* Finalisierung des Entwurfs zur "Stakeholder Engagement Strategie"  
+* Interviews mit Projektpartnern über Fortschritt und Probleme zu "Stakeholder Engagement"  
+* Finalisierung des Calls für "Doing Good by Linking Entities Challenge", sponsored by BIG  
+* Finalisierung des "Web of Linked Entities workshop paper submission process"  
+* Finalisierung der Dissemination Methoden und Prozesse für eine wirkungsvolle Öffentlichkeitsarbeit mit den BIG Konsortialpartnern  
+* Vorbereitung und Durchführung der 2. monatlichen Dissemination Telko  
+* Abstimmung einer Methodologie für Monitoring & Controlling der Dissemination  
+* Suche und Publikation von relevanten Big Data blogposts, news, tweets  
+* Suche nach key Stakeholder für die BIG Sector Forums und technischen Arbeitsgruppen
+
+### Europeana Cloud  
+* Rekrutierung eines wissenschaftlichen Mitarbeiters als Projektleiter für OKF DE  
+* Vorbereitung und Abstimmung von Synergien und möglichen Kooperationen mit OKFN Projekten, wie DM2E, Textus und den Arbeitsgruppen Open GLAM und Open Literature
+
+## Veranstaltungen
+
+  * 31\. Januar - 3. Februar: OKFN winter 2013 summit in Cambridge
+  * 23\. Februar: Mit-Organisation Open Data Day 2013 in Berlin, Köln und Hamburg
+  * 24\. Februar: Vortrag auf der Raum Schiff Erde Konferenz in Hamburg
+
+## Sonstiges
+
+  * 1\. Februar: Teilnahme am Personal Democracy Forum in Warschau
+  * 1\. Februar: Teilnahme am 2.Community Workshop zur Open Government Plattform Deutschland (OGPD)
+
+ 

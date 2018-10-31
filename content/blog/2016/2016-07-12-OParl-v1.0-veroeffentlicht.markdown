@@ -1,0 +1,29 @@
+---
+author: Bela Seeger
+date: 2016-07-12 15:00:00
+image:
+  src: /files/blog/2016/07/OParl.png
+  license: 
+  title: OParl.org
+layout: post
+tags:
+- OParl
+- RIS
+title: OParl 1.0 veröffentlicht
+type: post
+---
+Berlin, 11.07.2016: Nach drei Jahren intensiver Entwicklungszeit wurde die [OpenData-Schnittstelle für Ratsinformationssysteme OParl](https://oparl.org/) in der Version 1.0 fertiggestellt. Mit OParl v1.0 kann die öffentliche Dokumentation kommunaler Politik von Anwendungsentwicklern abgerufen und zu spannenden, hilfreichen Anwendungen verarbeitet werden. Ziel ist, mit den Daten mehr kommunale Transparenz und Mitbestimmung zu ermöglichen.
+
+“Nach drei Jahren Entwicklungszeit mit unzähligen Tests haben wir ein in der breiten Praxis nutzbares Ergebnis erreicht. Wir freuen uns sehr, dass die ehrenamtlich arbeitenden Entwickler nun die Version 1.0 unter dem Dach der Open Knowledge Foundation veröffentlichen!”, freut sich Kristina Klein, Geschäftsführerin der Open Knowledge Foundation.
+
+Die Schnittstelle wurde maßgeblich von Aktivisten in den OK Labs, den regionalen Gruppen der Open Knowledge Foundation, entwickelt. Zahlreiche andere Organisationen wie die Hersteller der Ratsinformationssysteme, eine Reihe von Städten und verschiedene Nichtregierungsorganisationen haben ebenfalls Informationen und Code beigesteuert.
+
+Schon jetzt gibt es Praxisbeispiele für die Schnittstelle. Die beiden kommunalen Transparenz-Projekte [Politik bei Uns](https://politik-bei-uns.de/api) und [München Transparent](https://www.muenchen-transparent.de/infos/api) bieten schon heute OParl an und dienten als Datengrundlage für die Entwicklung der Schnittstelle. Außerdem geben sie einen kleinen Eindruck, was mit OParl-Schnittstellen in Zukunft möglich sein wird.
+
+Nun hoffen die Entwickler, dass möglichst viele Hersteller und Kommunen die Schnittstelle einführen. In den nächsten Wochen wird eine zentrale OParl-Datenbank eingerichtet, deren API dann unter api.oparl.org erreichbar sein wird. Das alternative, bürgerfreundliche Ratsinformationssystem Politik bei Uns wird in diesem Zuge auch mit der neuen Datenbasis wachsen.
+
+"Wir finden es fantastisch, dass es mit OParl einen ersten Open Data-Standard in Deutschland gibt. Das ist ein wichtiges Signal nicht nur für die Hersteller der Ratsinformationssysteme, sondern alle Anbieter von Fachanwendungen für die öffentliche Verwaltung.", kommentiert Claus Arndt, Leiter der Stabsstelle Zentrales Government der Stadt Moers, die Veröffentlichung.
+
+Für das Entwickler-Team stellt sich nun die Frage, wie die Weiterentwicklung und der Betrieb des OParl-Ökosystems und anderer OpenData-Standardisierungsprojekte finanzierbar bleibt. Die Offenheit der geschaffenen Spezifikation kann nur gewährleistet werden, wenn die Entwicklung weiterhin unabhängig stattfinden kann. Eckpunkte dazu sind in der [Governancerichtlinie](https://dev.oparl.org/spezifikation#oparl-governance) des Projektes festgehalten.
+
+Das OParl-Entwicklerteam, momentan bestehend aus Stefan Graupner, Ernesto Ruge und Konstantin Schütze, freut sich auf die weitere Zusammenarbeit mit allen Beteiligten und hofft, mit der Fertigstellung der OParl-Spezifikation einen Beitrag zu mehr Transparenz in Politik und Verwaltung geleistet zu haben.

@@ -1,0 +1,29 @@
+---
+author: Helene Hahn
+date: 2014-12-05 18:50:38
+image:
+  src: /files/blog/2014/12/header-415x104.png
+layout: post
+tags:
+- Verbraucherschutz
+title: Smarte Bürger - Verbraucherschutz in der digitalen Welt
+type: post
+---
+
+**Kampagne gestartet!**
+
+Die digitale Welt spielt eine immer wichtigere Rolle in unserem Leben – beruflich, persönlich, privat.  
+Durch die Nutzung von sozialen Netzwerken, Websites und Smartphones werden wir zu Datennutzern und -verbrauchern.
+
+Mit unserer Kampagne “[Smarte Bürger - Verbraucherschutz in der digitalen Welt](https://smarte-buerger.de)” wollen wir ein Bewusstsein dafür schaffen, welche Daten Bürgerinnen und Bürger wo hinterlassen und wie sie sich vor unerwünschter Datenweitergabe schützen können.
+
+**"Was ist deine geheime Identität im Netz?"**
+
+![team](/files/blog/2014/12/team-253x415.png)
+
+Vom 8.-18. Dezember 2014 findet ein interaktiver Stadt-Parcours statt, den wir konzipiert, gestaltet und technisch umgesetzt haben: An fünf zu durchlaufenden Station (Startpunkt am Zoo Palast, Berlin) werden typische Situationen unseres digitalen Alltags nachgespielt. Themen der Stationen sind u.a. soziale Netzwerke, Ortung, Mobile Banking, eCommerce und Profiling.
+
+»Was ist deine geheime Identität im Netz?«  
+Finde es heraus beim Stadt-Parcours vom 8. - 18. Dezember 2014!
+
+"Smarte Bürger - Verbraucherschutz in der digitalen Welt" ist eine Informationskampagne der der Senatsverwaltung für Justiz und Verbraucherschutz, der Open Knowledge Foundation Deutschland und der Technologiestiftung Berlin.

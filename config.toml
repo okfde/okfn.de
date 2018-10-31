@@ -1,0 +1,33 @@
+baseURL = "http://example.org/"
+languageCode = "de-DE"
+title = "OKF"
+defaultContentLanguage = "de"
+
+[mediaTypes]        
+  [mediaTypes."application/atom"]
+    suffixes = ["xml"]
+  [mediaTypes."application/json"]
+    suffixes = ["json"]
+
+[outputFormats]
+  [outputFormats.Atom]
+    mediaType = "application/atom"
+    baseName = "atom"
+    isPlainText = false
+  [outputFormats.Json]
+    mediaType = "application/json"
+    baseName = "index"
+
+[languages]
+  [languages.de]
+    title = "OKF"
+    languageName = "DE" 
+    weight = 1
+  [languages.en]
+    title = "OKF DE"
+    languageName = "EN"
+    weight = 2
+  
+[outputs]
+home = ["HTML", "Json"]
+section = [ "HTML", "Atom", "Json" ]

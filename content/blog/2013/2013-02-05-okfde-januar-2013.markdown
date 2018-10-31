@@ -1,0 +1,69 @@
+---
+author: Daniel Dietrich
+date: 2013-02-05 08:00:32
+image:
+  src: /files/blog/2013/02/Open_data.png
+  title: Open Data
+layout: post
+tags:
+- OKFN DE
+- Tätigkeitsbericht
+title: Tätigkeitsbericht OKF DE Januar 2013
+type: post
+---
+
+**Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland: Zeitraum: Januar 2013**
+
+## Kurzberichte aus Projekten mit Finanzierung
+
+### Fundraising  
+* Erste Gespräche mit Stephen King und Martin Tisné von Omidyar Network auf der PDF-Konferenz in Warschau  
+* Fördermitgliedschaften: Vorbereitung Anschreiben, Adressliste  
+* 3 Wochen krank
+
+### Frag den Staat  
+* Vorbereitung und Unterstützung für den Launch www.FragDenStaat.at in Österreich  
+* Froide, die Software von FragdenStaat wurde erweitert und kann jetzt einfach im Design / Theme angepasst werden  
+* Tests zur besseren Performance  
+* Erste Vorbereitungen einen Videoclip zur Informationsfreiheit zu drehen
+
+### Haushaltsvisualisierung für die Senatsverwaltung für Finanzen  
+* Erste Einbindung der Haushaltsdaten in OpenSpending (nicht öffentlich)  
+* Roadmap erstellt  
+* Zusage und Kickoff Meeting in der Senatsverwaltung
+
+### Stadt, Land `  
+* Bekanntgabe der Stipendien  
+* Geförderten Teams veröffentlicht Blogposts zu ihren Projekten auf dem Stadt Land Code Blog  
+* Vereinbarungen mit sieben Gewinnern aufgesetzt und unterzeichnet`
+
+### Apps for Europe  
+* Kickoff meeting in Amsterdam  
+* Rekrutierung eines Apps for X Evangelisten und Projektleiter für OKF DE
+
+### BIG  
+* Dissemination Plan fertig gestellt und Redigiert (Deliverable D3.2)  
+* Entwurf der Dissemination Methoden und Prozesse für eine wirkungsvolle Öffentlichkeitsarbeit mit den BIG Konsortialpartnern  
+* Vorbereitung und Durchführung der 1. monatlichen Dissemination Telko  
+* Entwurf einer Methodologie für Monitoring & Controlling der Dissemination  
+* Dissemination repository im internen Wiki  
+* Entwurf Template für de-briefing Interviews für BIG Konsortialpartnern  
+* Suche und Publikation von relevanten Big Data blogposts, news, tweets  
+* Work on dissemination workflow within dissemination team  
+* erste Überlegungen zu einer Stakeholder-Engagement-Strategie  
+* Suche nach key Stakeholder für die BIG Sector Forums und technischen Arbeitsgruppen
+
+### Europeana Cloud  
+* Vorbereitungen für den Kick-off Anfang März  
+* Rekrutierung eines wissenschaftlichen Mitarbeiters als Projektleiter für OKF DE
+
+## Veranstaltungen  
+12\. Januar: Bundesgit Hackday  
+26\. Januar: Apps and the City follow up Workshop
+
+## Sonstiges  
+* Teilnahme am zweiten Community Workshop zum gemeinsamen Datenportal von Bund und Ländern  
+* Interner Workshop im BMI zur Lizenzfrage für das gemeinsame Datenportal von Bund und Ländern  
+* Initiieren und Veröffentlichung der gemeinsamen Stellungnahme zum gemeinsamen Datenportal von Bund und Ländern, siehe [not-your-govdata.de](http://not-your-govdata.de/)
+
+ 

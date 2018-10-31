@@ -1,0 +1,26 @@
+---
+author: Johanna zum Felde
+date: 2015-11-17 12:00:56
+image:
+  src: /files/blog/2015/11/2030-Watch.png
+layout: post
+tags:
+- Bildung
+- SDG
+- Transparenz
+title: "Klimaneutral und garantiert malariafrei: Das neue OKF DE Projekt 2030-Watch"
+type: post
+---
+Ein neues internationales Abkommen für eine bessere Welt? Neue globale Ziele für eine nachhaltige, gerechte Zukunft für alle? Und wie kann ich deren tatsächliche Umsetzung im Blick behalten? Für die kürzlich von den Vereinten Nationen (UN) verabschiedeten [Ziele zur nachhaltigen Entwicklung (Sustainable Development Goals - SDGs)](http://menschliche-entwicklung-staerken.dgvn.de/menschliche-entwicklung/ziele-fuer-nachhaltige-entwicklung-sdgs/) haben wir uns mit dem neuen [OKF DE Projekt 2030-Watch](http://www.2030-watch.de/) etwas ausgedacht.
+
+![image](/files/blog/2015/11/2030-watch-screenshot.png)
+
+Alle UN Mitgliedsstaaten haben sich am 25. September 2015 verpflichtet die [17 Ziele](http://menschliche-entwicklung-staerken.dgvn.de/menschliche-entwicklung/ziele-fuer-nachhaltige-entwicklung-sdgs/) und 169 Unterziele bis 2030 umzusetzen. Das Neue an den SDGs ist, dass sie sich im Gegensatz zu vorherigen Entwicklungszielen nicht nur an Entwicklungsländer richten, sondern gerade auch an Industrienationen wie Deutschland. So sollen die SDGs nicht nur die Armut abschaffen, sondern unter anderen auch bestehende Ungleichheiten in und unter den Ländern beseitigen und den Klimawandel bekämpfen.
+
+In Deutschland sollen die SDGs in der [nationalen Nachhaltigkeitsstrategie](http://www.bundesregierung.de/Webs/Breg/DE/Themen/Nachhaltigkeitsstrategie/_node.html) verankert werden. Dazu braucht es ambitionierte Indikatoren, die es ermöglichen die Umsetzung eines jeweiligen Zieles zu messen. Um die Umsetzung der SDGs durch die Nachhaltigkeitsstrategie transparent und nachvollziehbar zu machen, haben wir in den letzten Wochen bestehende Indikatoren zur Messung der Ziele begutachtet, selektiert und neue Indikatoren entwickelt. Wir haben Daten in internationalen Datenportalen wie der Weltbank, der Weltgesundheitsorganisation oder der EU recherchiert, aufbereitet und anhand von Optimalwerten wie aus internationalen Vereinbarungen oder im Verhältnis zu anderen [OECD-Ländern](http://www.laenderdaten.info/Staatenbuendnis/OECD.php) bewertet. So kann man nun auf 2030-Watch.de den Umsetzungstand von derzeit 50 Indikatoren wie Haushaltsmüll oder den Anteil erneuerbarer Energien am gesamten Energieverbrauch anhand von einem fünftönigen Farbschema einfach erkennen.
+
+2030-Watch ist gegenwärtig vor allem als Diskussionsgrundlage dazu gedacht, wie das Monitoring der SDGs in Deutschland aussehen könnte. Daher war es unser Ziel, möglichst schnell Orientierungswerte und eine Plattform für eine deutsche Diskussion um die Implementierung der SDGs bereitzustellen. Datenqualität, Datenumfang und die Funktionalität der Webseite sind noch im Aufbau und sollen mit der Hilfe Eures Feedbacks und Eurer Unterstützung kontinuierlich verbessert werden.
+
+Schon jetzt gibt es auf 2030-watch.de verschiedene Filter wie einzelne Ziele, ministerielle Zuständigkeiten oder (in-)offizielle Indikatoren, die eine gezielte Suche nach Informationen erleichtern. Zudem ist es möglich Deutschland mit anderen Ländern zu vergleichen. Welche Länder das sind und wieviele Einzelindikatoren pro Land betrachtbar sind, ist jedoch stark von der allgemeinen Datenlage abhängig. Oftmals sind Daten, die für das Messen der globalen Ziele notwendig sind ganz einfach nicht verfügbar. Aus dem Grund hat eine vom UN-General Sekretär Ban Ki-moon berufene Expertengruppe nichts geringeres als eine [Datenrevolution](http://www.undatarevolution.org/) ausgerufen.
+
+In den nächsten Monaten wollen wir 120 Indikatoren auf 2030-watch.de online stellen. Dargestellte Indikatoren sollen in Zukunft mit weiteren Informationen und Kontextvisualisierungen ergänzt werden und schwer messbare Indikatoren sollen zusammen mit Partnern messbar gemacht werden. Schon jetzt ist der Code für 2030-Watch offen und auf [Github](https://github.com/okfde/2030-watch.de) verfügbar, damit andere die bisherige Arbeit übernehmen, verändern, verbessern und auf andere Länder übertragen können. Vielleicht noch nicht ohne Bugs... aber garantiert ohne Malaria!
