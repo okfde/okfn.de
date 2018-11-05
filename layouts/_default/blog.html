@@ -1,0 +1,48 @@
+{{ define "title"}}
+<title>Blog - OKF</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="OKF Blog" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="" />
+<meta property="og:image" content="" />
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <header>
+    <h1>{{ .Title }}</h1>
+    <div class="blog__search">
+      <noscript>Für die Blogsuche wird JavaScript benötigt.</noscript>
+      <input type="text" value="" placeholder="durchsuchen 🔍">
+    </div>
+  </header>
+
+  <ul class="blog__posts">
+    {{ range (.Paginator 20).Pages }}
+    <li class="post__item">
+      <h2 class="post__title">{{.Title}}</h2>
+      <p class="post__date"><time datetime="{{.Date}}">{{ .Date.Format "2006-01-02" }}</time></p>
+    </li>
+    {{ end }}
+  </ul>
+
+  <div class="blog__paginator">
+    {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL }}" class="blog__paginator__btn">
+      <- Neuer
+    </a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}" class="blog__paginator__btn">
+      Älter ->
+    </a>
+    {{ end }}
+  </div>
+
+</main>
+{{ end }}

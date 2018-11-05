@@ -1,0 +1,34 @@
+{{ define "title"}}
+<title>Blog - OKF</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+
+<meta property="og:title" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="" />
+<meta property="og:image" content="" />
+{{ end }}
+
+
+{{ define "main" }}
+<main>
+  <p>section template</p>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <ul class="contents">
+    {{ range .Paginator.Pages }}
+    <li>
+      <h2>{{.Title}}</h2>
+      <div>
+        {{.Content}}
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+  pagination
+</main>
+{{ end }}
