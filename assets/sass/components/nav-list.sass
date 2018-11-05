@@ -1,11 +1,14 @@
 .c__nav-list
   list-style: none
   display: flex
-  justify-content: space-evenly
-  line-height: 5
-
+  flex-direction: column
   font-weight: 600
-
+  align-items: end
+  line-height: 2
+  @include media-breakpoint-up(md)
+    flex-direction: row
+    justify-content: space-evenly
+    line-height: 5
   a
     padding: .2em 0
     color: $black
@@ -15,22 +18,13 @@
       color: $anchor
       border-bottom: 2px solid $anchor
 
-.donate-btn
-  position: absolute
-  top: 4em
-  right: 2em
-  width: 6em
-  height: 6em
-  border-radius: 50%
-  background-color: $bright-aqua
-  padding: 0 0.4em
-  text-align: center
-  transition: transform 200ms ease
-  transform: rotate3d(0, 0, 1, 20deg)
-  a
-    color: $black
-    text-decoration: none
-    text-transform: uppercase
-    font-weight: 600
-    line-height: 5.5
-    font-size: 1.1rem
+
+.c__nav-list__toggle
+  @include make-col-ready()
+  @include make-col(1)
+  @include make-col-offset(8)
+  display: flex
+  align-items: center
+
+  @include media-breakpoint-up(md)
+    display: none
