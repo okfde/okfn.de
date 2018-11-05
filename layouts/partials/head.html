@@ -3,3 +3,6 @@
 
 <script src="/js/vendor/lunr.js"></script>
 <link rel="stylesheet" href="/css/search.css">
+
+{{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{$style.RelPermalink}}">

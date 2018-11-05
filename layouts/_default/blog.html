@@ -22,11 +22,16 @@
     </div>
   </header>
 
+  <div id="js-search">
+    <h2 id="js-search-term">Suche nach: <span>term</span><button type="button">❌</button></h2>
+    <ul id="js-search-results"></ul>
+  </div>
+
   <ul class="blog__posts">
     {{ range (.Paginator 20).Pages }}
     <li class="post__item">
-      <h2 class="post__title">{{.Title}}</h2>
-      <p class="post__date"><time datetime="{{.Date}}">{{ .Date.Format "2006-01-02" }}</time></p>
+      <h2 class="post__title h4">{{.Title}}</h2>
+      <p class="post__date color--light h4"><time datetime="{{.Date}}">{{ .Date.Format "2006-01-02" }}</time></p>
     </li>
     {{ end }}
   </ul>

@@ -1,0 +1,55 @@
+$black: #000;
+$white: #fff;
+$blue: #1e00ff
+$grey: #a7a7a7;
+$greyish: #e6e6e6;
+$bright-aqua: #00ffe0;
+
+$primary: $black;
+$secondary: $grey;
+$anchor: $blue;
+
+// bootstrap grid
+$grid-columns:      12
+$grid-gutter-width: 30px
+$grid-breakpoints: ( xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px )
+$container-max-widths: ( sm: 540px, md: 720px, lg: 960px,  xl: 1140px )
+
+// sizes
+$topbar-height: 80px
+
+@import "../../node_modules/bootstrap/scss/bootstrap-grid.scss"
+@import "base/reset"
+@import "base/font"
+@import "base/base"
+@import "layout/base"
+@import "layout/blog"
+@import "components/logo"
+@import "components/nav-list"
+
+
+.skip
+  background-color: $blue
+  color: $white
+  font-size: 1.3rem
+  padding: 1em
+  text-decoration: none
+  &:focus
+    outline: 1px dashed $white
+
+.sr-only,
+.show-on-focus
+  height: 1px
+  overflow: hidden
+  position: absolute
+  width: 1px
+
+.show-on-focus
+  clip: rect(1px,1px,1px,1px)
+  margin: 0
+
+  &:focus
+    clip: auto
+    height: auto
+    width: auto
+    z-index: 20
