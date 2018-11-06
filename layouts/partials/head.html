@@ -1,11 +1,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<script src="/js/vendor/lunr.js"></script>
-<link rel="stylesheet" href="/css/search.css">
-
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
 
-{{ $toggle := resources.Get "js/toggle.js" | resources.Minify | resources.Fingerprint }}
-<script src="{{$toggle.RelPermalink}}"></script>
+{{ $toggle := resources.Get "js/toggle.js" }}
+{{ $lunr := resources.Get "/js/vendor/lunr.js" }}
+{{ $bsearch := resources.Get "/js/blog-search.js" }}
+
+{{ $js := slice $toggle $lunr $bsearch | resources.Concat "js/bundle.js"  | resources.Fingerprint}}
+<script src="{{$js.RelPermalink}}"></script>
