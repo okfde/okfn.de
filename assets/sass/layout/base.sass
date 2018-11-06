@@ -14,11 +14,14 @@
 
 .l__nav--top
   @include make-col-ready()
-
+  justify-content: end
+  align-items: center
   @include media-breakpoint-up(md)
     @include make-col(6)
     @include make-col-offset(4)
-  justify-content: end
-  align-items: center
 
 .l__footer
+  border-top: $greyish 1px solid
+  > div
+    max-width: map-get($container-max-widths, xl)
+    @include make-container()
