@@ -1,12 +1,12 @@
 ---
-authors: 
+authors:
 - OKF
 date: 2018-10-31 16:00:00
 image:
   src: /files/blog/2015/12/okfdebuero.jpg
-  title: 
+  title:
   license:
-  license_url: 
+  license_url:
 tags:
 - Ausschreibung
 - Jobs
@@ -15,10 +15,11 @@ layout: post
 card: true
 published: true
 title: "Der Prototype Fund sucht Verstärkung: Programmbetreuung mit technischem Schwerpunkt"
+featured: true
 ---
 
 
-Der Prototype Fund ist ein Förderprogramm für Public Interest Tech, das als erstes in Deutschland selbstständige Softwareentwickler*innen, Hacker*innen und Kreative (auch als Teams) dabei unterstützt, ihre Open-Source-Ideen vom Konzept bis zur ersten Demo umzusetzen. Seit 2016 arbeiten wir (Adriana, Elisa, Fiona, Julia und Katharina) daran, bestehende Strukturen und Narrative im Bereich der Innovationsförderung aufzubrechen und mehr sinnvolle digitale Lösungen für die Gesellschaft möglich zu machen. Jetzt suchen wir dabei Verstärkung! 
+Der Prototype Fund ist ein Förderprogramm für Public Interest Tech, das als erstes in Deutschland selbstständige Softwareentwickler*innen, Hacker*innen und Kreative (auch als Teams) dabei unterstützt, ihre Open-Source-Ideen vom Konzept bis zur ersten Demo umzusetzen. Seit 2016 arbeiten wir (Adriana, Elisa, Fiona, Julia und Katharina) daran, bestehende Strukturen und Narrative im Bereich der Innovationsförderung aufzubrechen und mehr sinnvolle digitale Lösungen für die Gesellschaft möglich zu machen. Jetzt suchen wir dabei Verstärkung!
 Du arbeitest eigenständig und hast Lust, dich weiterzuentwickeln und Neues zu lernen? Du willst gemeinsam mit uns unser Pionier-Projekt unterstützen und voranbringen? Dann freuen wir uns auf deine Bewerbung:
 
 <h3>Programm-Betreuung mit technischem Schwerpunkt (m/w/*)</h3>
@@ -61,8 +62,8 @@ Du hast ein Herz für Tech-Projekte aller Art, Prozessstrukturierung und Trouble
 
 
 Bewerbungen bitte ohne Foto und Altersangabe <strong>bis 15.11.2018</strong> an:
-katharina.meyer@okfn.de 
- 
+katharina.meyer@okfn.de
+
 <strong>Vertragsbeginn: 01.01.2019
 Zeitl. Aufwand: 40h/Woche (Teilzeitregelung nach Absprache möglich)
 Gehalt: nach TV-L E13/S1

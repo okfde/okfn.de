@@ -14,40 +14,49 @@
 
 {{ define "main" }}
 <main>
-  <header>
-    <h1>{{ .Title }}</h1>
-    <div class="blog__search">
-      <noscript>Für die Blogsuche wird JavaScript benötigt.</noscript>
-      <input type="text" value="" placeholder="durchsuchen 🔍">
+  <header class="blog__header container align-items-end">
+    <div class="row align-items-end">
+      <h1 class="col col-5 col-sm-10">{{ .Title }}</h1>
+      <div class="blog__search col col-7 col-sm-2">
+        <noscript>Für die Blogsuche wird JavaScript benötigt.</noscript>
+        <input type="text" value="" placeholder="durchsuchen 🔍">
+      </div>
     </div>
   </header>
 
-  <div id="js-search">
-    <h2 id="js-search-term">Suche nach: <span>term</span><button type="button">❌</button></h2>
-    <ul id="js-search-results"></ul>
+  <div id="js-search" class="blog__search__results container">
+    <div class="row no-gutters">
+      <h2 id="js-search-term" class="blog__search__term">
+        Suche nach: <span>term</span>
+        <button class="blog__search__clear" type="button" tabindex>❌</button></h2>
+      <ul id="js-search-results"></ul>
+    </div>
   </div>
 
-  <ul class="blog__posts">
+  <ul class="blog__posts container">
     {{ range (.Paginator 20).Pages }}
     <li class="post__item">
-      <h2 class="post__title h4">{{.Title}}</h2>
-      <p class="post__date color--light h4"><time datetime="{{.Date}}">{{ .Date.Format "2006-01-02" }}</time></p>
+      <a href="{{.Permalink}}" class="row no-gutters">
+        <h2 class="post__title h4 col col-8 col-sm-10">{{.Title}}</h2>
+        <p class="post__date h4 col-4 col-sm-2"><time datetime="{{.Date}}">{{ .Date.Format "02.01.2006" }}</time></p>
+      </a>
     </li>
     {{ end }}
   </ul>
 
-  <div class="blog__paginator">
-    {{ if .Paginator.HasPrev }}
-    <a href="{{ .Paginator.Prev.URL }}" class="blog__paginator__btn">
-      <- Neuer
-    </a>
-    {{ end }}
-    {{ if .Paginator.HasNext }}
-    <a href="{{ .Paginator.Next.URL }}" class="blog__paginator__btn">
-      Älter ->
-    </a>
-    {{ end }}
+  <div class="blog__paginator container">
+    <div class="row no-gutters justify-content-end">
+      {{ if .Paginator.HasPrev }}
+      <a href="{{ .Paginator.Prev.URL }}" class="blog__paginator__btn">
+        <span>←</span><span>Neuer</span>
+      </a>
+      {{ end }}
+      {{ if .Paginator.HasNext }}
+      <a href="{{ .Paginator.Next.URL }}" class="blog__paginator__btn">
+        <span>Älter</span><span>→</span>
+      </a>
+      {{ end }}
+    </div>
   </div>
-
 </main>
 {{ end }}
