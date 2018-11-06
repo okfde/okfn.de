@@ -1,14 +1,12 @@
 .c__nav-list
-  list-style: none
   display: flex
   flex-direction: column
-  font-weight: 600
-  align-items: end
   line-height: 2
+  font-weight: 600
+  list-style: none
   @include media-breakpoint-up(md)
     flex-direction: row
-    justify-content: space-evenly
-    line-height: 5
+    justify-content: space-between
   a
     padding: .2em 0
     color: $black
@@ -17,6 +15,13 @@
     &:active
       color: $anchor
       border-bottom: 2px solid $anchor
+
+.c__nav-list--top
+  align-items: end
+  @include media-breakpoint-up(md)
+    flex-direction: row
+    justify-content: space-evenly
+    line-height: 5
 
 
 .c__nav-list__toggle
