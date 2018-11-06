@@ -6,3 +6,6 @@
 
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
+
+{{ $toggle := resources.Get "js/toggle.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{$toggle.RelPermalink}}"></script>

@@ -5,9 +5,9 @@
     {{- block "title" .}}{{- end }}
     {{- block "head" .}}{{- end }}
   </head>
-  <body>
+  <body class="no-js">
     {{- partial "header.html" . -}}
-    <div id="content" name="content">
+    <div id="content" name="content" tabindex>
       <div class="l__inner">
         {{- block "main" . }}{{- end }}
       </div>

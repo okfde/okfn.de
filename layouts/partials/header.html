@@ -3,10 +3,10 @@
     <div class="l__inner">
       <a href="#content" class="show-on-focus skip">Skip to content</a>
       <a href="/" class="c__logo l__logo">{{ readFile "static/okf/okf-logo-topbar.svg" | safeHTML }}</a>
-      <div class="c__nav-list__toggle">
-        <button type="button" id="js-topnav-toggle">🍔</button>
+      <div class="l__topbar__toggle">
+        <button type="button" id="js-topnav-toggle" tabindex="">🍔</button>
       </div>
-      <ul class="l__nav--top c__nav-list c__nav-list--top">
+      <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
         <li><a href="#">Profil</a></li>
         <li><a href="#">Projekte</a></li>
         <li><a href="#">Themen</a></li>

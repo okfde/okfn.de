@@ -3,7 +3,6 @@
   > div
     max-width: map-get($container-max-widths, xl)
     @include make-container()
-    height: $topbar-height
 
 .l__inner
   @include make-row()
@@ -12,7 +11,7 @@
   @include make-col-ready()
   @include make-col(2)
 
-.l__nav--top
+.l__nav
   @include make-col-ready()
   justify-content: end
   align-items: center

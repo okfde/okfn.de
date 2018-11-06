@@ -1,0 +1,56 @@
+.l__topbar
+  > div
+    @include media-breakpoint-down(sm)
+      padding-bottom: 1em
+
+.l__topbar__toggle
+  @include make-col-ready()
+  @include make-col(1)
+  @include make-col-offset(8)
+  display: flex
+  align-items: center
+  @include media-breakpoint-up(md)
+    display: none
+
+//
+// There are two strategies for the mobile navigation view
+//
+// 1. No JS, meaning the user has JS disabled
+// We hide the hamburger and show the nav underneath the logo
+// Not the prettiest but still usable
+.no-js
+  .l__topbar
+    > div
+      @include media-breakpoint-up(md)
+        height: $topbar-height
+
+  .c__nav-list__toggle
+    display: none
+
+  .c__nav-list--top
+    flex-flow: row wrap
+    justify-content: space-between
+
+// 2. JS, meaning JS is enabled
+// This is the case optimized and designed for
+// Toggle the menu via hambuger btn
+// JS found in /assets/js/toggle.js
+.js
+  .l__topbar
+    > div
+      min-height: $topbar-height
+      @include media-breakpoint-up(md)
+        height: $topbar-height
+
+  @include media-breakpoint-down(sm)
+    .c__nav-list--top
+      transition: height ease 100ms
+      position: static
+      width: 100%
+      height: 264px
+      &.is-hidden
+        //display: none
+        margin-top: -5em
+        height: 0
+        width: 0
+        overflow: hidden
