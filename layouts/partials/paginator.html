@@ -1,0 +1,14 @@
+<div class="blog__paginator container">
+  <div class="row no-gutters justify-content-end">
+    {{ if .Paginator.HasPrev }}
+    <a href="{{ .Paginator.Prev.URL }}" class="blog__paginator__btn">
+      <span>←</span><span>Neuer</span>
+    </a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a href="{{ .Paginator.Next.URL }}" class="blog__paginator__btn">
+      <span>Älter</span><span>→</span>
+    </a>
+    {{ end }}
+  </div>
+</div>

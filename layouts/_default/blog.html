@@ -33,30 +33,15 @@
     </div>
   </div>
 
+  {{- partial "featured_post.html" . -}}
+
   <ul class="blog__posts container">
     {{ range (.Paginator 20).Pages }}
-    <li class="post__item">
-      <a href="{{.Permalink}}" class="row no-gutters">
-        <h2 class="post__title h4 col col-8 col-sm-10">{{.Title}}</h2>
-        <p class="post__date h4 col-4 col-sm-2"><time datetime="{{.Date}}">{{ .Date.Format "02.01.2006" }}</time></p>
-      </a>
-    </li>
+      {{- partial "post_item.html" . -}}
     {{ end }}
   </ul>
 
-  <div class="blog__paginator container">
-    <div class="row no-gutters justify-content-end">
-      {{ if .Paginator.HasPrev }}
-      <a href="{{ .Paginator.Prev.URL }}" class="blog__paginator__btn">
-        <span>←</span><span>Neuer</span>
-      </a>
-      {{ end }}
-      {{ if .Paginator.HasNext }}
-      <a href="{{ .Paginator.Next.URL }}" class="blog__paginator__btn">
-        <span>Älter</span><span>→</span>
-      </a>
-      {{ end }}
-    </div>
-  </div>
+
+  {{- partial "paginator.html" . -}}
 </main>
 {{ end }}

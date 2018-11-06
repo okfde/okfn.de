@@ -30,6 +30,8 @@
 .blog__search__results
   max-width: 1140px
 
+  display: none
+
 .blog__search__term
   margin-top: -3rem
   margin-bottom: $space-m
@@ -72,8 +74,38 @@
       background-color: $greyish
 
 .post__title
+  order: 2
 
 .post__date
   color: $secondary
   font-weight: 600
-  text-align: right
+  order: 1
+  @include media-breakpoint-up(sm)
+    text-align: right
+    order: 3
+
+
+.post__featured
+  max-width: 1140px
+  margin-bottom: $space-double
+  .row
+    padding: $grid-gutter-width / 2 0
+    @include media-breakpoint-up(sm)
+      padding: $space 0 $space-m
+  a
+    color: $black
+    text-decoration: none
+    font-weight: 600
+
+  .h3 + .h3
+    margin-top: .5em
+
+.post__featured--yellow
+  background-color: #ffec00
+
+.post__featured__image
+  margin-top: -1.7em
+  @include media-breakpoint-down(md)
+    margin-top: $space-m
+  img
+    width: 100%
