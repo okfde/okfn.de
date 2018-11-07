@@ -3,6 +3,9 @@ languageCode = "de-DE"
 title = "OKF"
 defaultContentLanguage = "de"
 
+[permalinks]
+  blog = 'blog/:year/:month/:slug/'
+
 [mediaTypes]        
   [mediaTypes."application/atom"]
     suffixes = ["xml"]

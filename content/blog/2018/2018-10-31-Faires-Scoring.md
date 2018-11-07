@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
 - Walter Palmetshofer
 date: 2018-10-31
@@ -12,12 +12,12 @@ type: post
 layout: post
 card: true
 published: ture
-title: "OpenSCHUFA: Verbrauchergerechtes Scoring" 
+title: "OpenSCHUFA: Verbrauchergerechtes Scoring"
 ---
 Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort.
 #fairesscoring #openschufa
 
-### Das wichtigste in Kürze 
+### Das wichtigste in Kürze
 
 [Programm der Veranstaltung](https://www.bmjv.de/DE/Veranstaltungen/Anmeldeportal/Events/SVRV/SVRV_Anmeldung_node.html)
 
@@ -26,7 +26,7 @@ Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen
 [Technische und rechtliche Betrachtungen algorithmischer Entscheidungsverfahren
 (Gesellschaft für Informatik e. V.)](http://www.svr-verbraucherfragen.de/dokumente/technische-und-rechtliche-betrachtungen-algorithmischer-entscheidungsverfahren/)
 
- 
+
 
 ### Handlungsempfehlungen
 [Handlungsempfehlungen des Rats (S. 142-151)](/files/blog/2018/10/SVRV_HR-Verbrauchergerechtes_Scoring.pdf)
@@ -59,7 +59,7 @@ erwartungen erfüllt sind. nur dann wird es von Verbrau­
 chern auch akzeptiert werden und nur dann wird es ih­
 nen zunutze sein."</i>
 
-Das war unser Antrieb für OpenSchufa. 
+Das war unser Antrieb für OpenSchufa.
 
 
 1. Scoring verständlicher machen
@@ -87,16 +87,16 @@ auch Aufgabe von Verbraucherorganisationen
 oder der „marktwächter“ der Verbraucherzentralen sein.
 Eine vollständige Offenlegung der
 Scores und ihrer Eigenschaften gegenüber Aufsichtsbehörden ist in jedem Fall notwendig (vgl.
-das SVRV Gutachten "Digitale Souveränität).</i> 
+das SVRV Gutachten "Digitale Souveränität).</i>
 
 Dieser Forderung schließen wir uns an.
 
 
 <i>Ein Teil des SVRV spricht sich für eine weiterreichende Scoring-Transparenz aus. Er ist der
-Auffassung, dass stets sämtliche in einen Score eingehenden Merkmale gegenüber dem Verbraucher 
+Auffassung, dass stets sämtliche in einen Score eingehenden Merkmale gegenüber dem Verbraucher
 offenzulegen sind und ihr relatives Gewicht in der Score-Berechnung anzugeben ist. Etwaige
 Geheimhaltungsinteressen der Scoring-Anbieter
-und -Nutzer haben insoweit gegenüber dem Auskunftsinteresse 
+und -Nutzer haben insoweit gegenüber dem Auskunftsinteresse
 der Verbraucher zurückzustehen, wobei das Geschäftsgeheimnis der Entwicklung
 und Programmierung eines scores gewahrt bleiben sollte.</i>
 
@@ -116,7 +116,7 @@ Update folgt
 
 <i> 1. Eine angemessene Datenqualität bei der Score­-Entwicklung ist zu gewährleisten und den Aufsichtsbehörden zu dokumentieren.</i>
 
-Begrüßenswert und wünschenswert. Aktuell gibt es ja noch viel "room for improvement." 
+Begrüßenswert und wünschenswert. Aktuell gibt es ja noch viel "room for improvement."
 Siehe Fall (golem).
 
 
@@ -133,32 +133,32 @@ Dies ist im Moment nicht der Fall.
 
 Es sei der Hinweis gestattet, die aktuelle Handlungsverbesserungen sind auch ohne Blockchain möglich.
 
-Es freut uns, dass die Vorschläge von "Digitale Souveränität", die Stärkung der Verbraucherposition 
+Es freut uns, dass die Vorschläge von "Digitale Souveränität", die Stärkung der Verbraucherposition
 übernommen wurde.
 
 
 
 ### Aussagen
 
-<b>Girgenzer</b> 
+<b>Girgenzer</b>
 <i> Schufa legt Verfahren den Datenschutzbehörden vor, die Aussage
 "Schufaverfahren bereits für Behörden transparent (Hessen)."<br>
 Sprecher NRW: Es fehlt notwendiges Fachwissen. Es wird nur auf Plausibilität geprüft.<br>
 Hinweis aus Bayern: Gutachten von Auskunftsdateien selbst. Interessenskonflikt.<br>
 
 Gigerenzer vergleicht den Interessenskonflikt der Auskunftsdateien mit
-Ratingsagenturen vor der Finanzkrise. 
+Ratingsagenturen vor der Finanzkrise.
 
 Axiom Daten über 44 Mio. Deutsche. Oracle, Deutsche Post auch dabei.
 
 Bzgl. "Super-Scoring" und China der Hinweis auf „Bedenken second“ schiefgehen könnte, falls das Ergebnis nicht gewünscht ist (Fehlerquote Überwachungskameras Südbahnhof).<br>
 Frage, welche Gesellschaft wir haben wollen, verbrauchergerechtes Scoring der Weg dort hin."
-</i> 
+</i>
 
-Marit Hansen 
-<br><i> 
+Marit Hansen
+<br><i>
 "mehr Gestaltung an System, dass sie sich besser erklären,
-Geht in die nächste Runde. Gibt ja auch die Datenschutzethikkommission."</i> 
+Geht in die nächste Runde. Gibt ja auch die Datenschutzethikkommission."</i>
 
 Wagner<br>
 <i>
@@ -170,7 +170,7 @@ den Verbraucher erklärt.
 
 Hansen<br> <i>"Borges Wünsche bereits durch Art. 25 erfüllt"</i>
 
-Wolfgang Schulz, @hiig_berlin, betont #Transparenz als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. #SVRV 
+Wolfgang Schulz, @hiig_berlin, betont #Transparenz als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. #SVRV
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Wolfgang Schulz, <a href="https://twitter.com/hiig_berlin?ref_src=twsrc%5Etfw">@hiig_berlin</a>, betont <a href="https://twitter.com/hashtag/Transparenz?src=hash&amp;ref_src=twsrc%5Etfw">#Transparenz</a> als Voraussetzung für Behörden und Verbraucher, um Entscheidungsprozesse zu verstehen und bei Bedarf Entscheidungen in Frage zu stellen. <a href="https://twitter.com/hashtag/SVRV?src=hash&amp;ref_src=twsrc%5Etfw">#SVRV</a> <a href="https://twitter.com/BMJV_Bund?ref_src=twsrc%5Etfw">@BMJV_Bund</a>  <a href="https://twitter.com/hashtag/Scoring?src=hash&amp;ref_src=twsrc%5Etfw">#Scoring</a></p>&mdash; Sven Scharioth (@scharioth) <a href="https://twitter.com/scharioth/status/1057629451310194692?ref_src=twsrc%5Etfw">October 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -181,19 +181,19 @@ Jetzt muss es mal richtig gemacht werden.
 Riesenbereich.
 </i>
 
-Wagner 
-<br> <i> 
+Wagner
+<br> <i>
 Vorzug GI Gutachten vers. Fairness-Kriterien.
 Wie schwer es ist verschiedene Fairness-Kriterien einzuhalten. Trade-Offs.
 Vorzug von Algos, dies erstmal diskutieren zu können. Bei menschlichen Scoring
 ist dies schwieriger.
 </i>
 
-Borges<br><i> 
+Borges<br><i>
 Muss der Auftakt zur Auseinandersetzung sein.
 Fairness ist kein Rechtsbegriff.
 Dies kann man nicht am Wochenende erledigen.
-Aufgabe der Politik, diesen Rahmen zu geben. 
+Aufgabe der Politik, diesen Rahmen zu geben.
 Dies strukturell zu erforschen.
 Mit der AI haben wir die Möglichkeit hier tiefer reinzugehen.
 Was sind legitime, was sind illegitime Vorgänge.
@@ -203,20 +203,20 @@ Zuerst verstehen, was die Probleme sind.
 Strukturiertes Forschungsprogramm.</i><br>
 
 
-Wagner <br><i> 
+Wagner <br><i>
 "zum testing brauchen Sie ja nicht das Modell"
-<br></i> 
+<br></i>
 
 Grabmair<br><i>
 "die Unternehmer bisschen ins Boot zu holen"
 <br></i>
 
 Hansen<br><i>
-"zur Frage haben wir Zeit, ... wir sind nicht bei Null, 
+"zur Frage haben wir Zeit, ... wir sind nicht bei Null,
 wollen was zusammenbringen ... wären wir noch am Anfang
-Anwendung, Transparenz, Qualität ... im Autobereich ... 
-wird sich auf die STVO auswirken, sektorspezifisch ist man dran ... 
-Lifecylce der Daten, Rechtsschutz ... spamfilter ... wie funktioniert der ... 
+Anwendung, Transparenz, Qualität ... im Autobereich ...
+wird sich auf die STVO auswirken, sektorspezifisch ist man dran ...
+Lifecylce der Daten, Rechtsschutz ... spamfilter ... wie funktioniert der ...
 täglich in den Folder reingucken ...
 <br></i>
 
@@ -235,13 +235,13 @@ Moderator "~eher suboptimal, dass die Wirtschaft selbst die Gutachten in Auftrag
 Hansen - Froh das was da ist, Gesetz ist nicht spezifisch genug.
 Einzige Informatikerin.
 
-Kulturproblem in den Behörden. 
+Kulturproblem in den Behörden.
 Rechte und Freiheite ... mit DSVGO
 
 Wie soll ein Datenschutzbeauftragte Diskriminierung erkennen?
 Manche haben null Techniker, leihen sich diese vom Ministerium
 
-Kann mir vorstellen ... Prüfteams ... 
+Kann mir vorstellen ... Prüfteams ...
 Bundesinstitut gut.
 <br> </i>
 
@@ -259,8 +259,8 @@ Seit wann BSI Aufsichtsbehörde ist, 2015, davor 4 Jahrzehnte ohne, aber mit Fac
 3. Bussgeld verhängen, in 5 Jahre oder so
 
 Kompetenz, Normen aufbauen.
- <br> 
- 
+ <br>
+
 
 <br> <i>
 me ... Datenqualität
@@ -274,21 +274,21 @@ BGH Entscheidung "Warum bin ich unterdurchschnittlich bewertet worden?"
 Wagner<br> </i>
 Was die SCHUFA liefert muss man zwei Studienabschlüsse liefern.
 Deswegen Transparenz und Verständlichkeit
-<br> <i>
+<br> </i>
 
 Hansen<br> <i>
 "Wegen Datenqualität hat sich noch nicht gelohnt.
-Incentives. Durch Sanktionen. 
-BGH 1995 ... 
+Incentives. Durch Sanktionen.
+BGH 1995 ...
 heisst nicht, dass die Karten nicht neu gemischt werden müssen.
 Martini wird zitiert, Entscheidungsstrukturen.
-<br><i>
+<br>
 Borges will keine Information wie der Score zusammenkommt.
 (Anmerkung Analogie: Keine Auskunft über die Geschwindigkeitsbegrenzungen haben will, und immer gerne den Strafzettel gerne zahlt, weil eh ...)
-<br><i>
+<br></i>
 
 <br>
-<br> 
+<br>
 
 
 
