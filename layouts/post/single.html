@@ -17,15 +17,19 @@
   <article class="c__post--single">
     <div class="container c__post__title">
       <div class="row">
-        <h1 class="col col-12 col-md-8 offset-md-2">{{ .Title }}</h1>
+        <h1 class="col col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">{{ .Title }}</h1>
       </div>
     </div>
 
-    <div class="container">
+    {{ if (isset .Params "featured") }}
+    <div class="container c__post__visual c__post__bg--{{.Params.featured}}">
       <div class="row">
-        featured image BLOG
+        <div class="col col-md-4 offset-md-4 c__post__image">
+          <img src="{{.Params.image.src}}" alt="{{.Params.image.title}}">
+        </div>
       </div>
     </div>
+    {{ end }}
 
     <div class="container">
       <div class="row">

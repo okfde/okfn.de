@@ -6,6 +6,23 @@ defaultContentLanguage = "de"
 [permalinks]
   blog = 'blog/:year/:month/:slug/'
 
+[related]
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[related.indices]]
+name = 'authors'
+weight =  80
+  [[related.indices]]
+    name = 'date'
+    weight = 40
+    pattern = 2006
+  [[related.indices]]
+    name = 'tags'
+    weight = 60
+
+
 [mediaTypes]        
   [mediaTypes."application/atom"]
     suffixes = ["xml"]

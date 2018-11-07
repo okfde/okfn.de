@@ -63,19 +63,21 @@
   margin-bottom: $space * 3
 
 
+// Styles specific for blog posts
 .c__post--single
   .c__post__title
     margin-bottom: $space-double
-
+  .c__post__image
+    padding: $space * 2.6 $space
+  .c__post__visual
+    margin-top: $space * 3.5
+    margin-bottom: $space
   h1
-    @include media-breakpoint-down(md)
-      font-size: 2.2rem
-
-
+    @include media-breakpoint-down(sm)
+      font-size: 2.5rem
   h2, h3, h4
     line-height: 1.2
     margin: 1em 0 0.8em
-
   p
     margin: 1em 0 1.3em
     line-height: 1.55
@@ -94,14 +96,11 @@
   li
     margin-bottom: 1em
     line-height: 1.55
-
   a
     text-decoration: none
     &:hover,
     &:active
       text-decoration: underline
-
-
   iframe,
   img
     width: 100%

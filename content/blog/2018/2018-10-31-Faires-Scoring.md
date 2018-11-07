@@ -11,8 +11,9 @@ tags:
 type: post
 layout: post
 card: true
-published: ture
+published: true
 title: "OpenSCHUFA: Verbrauchergerechtes Scoring"
+featured: "yellow"
 ---
 Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort.
 #fairesscoring #openschufa

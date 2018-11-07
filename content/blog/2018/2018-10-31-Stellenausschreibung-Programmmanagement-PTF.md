@@ -15,7 +15,6 @@ layout: post
 card: true
 published: true
 title: "Der Prototype Fund sucht Verstärkung: Programmbetreuung mit technischem Schwerpunkt"
-featured: true
 ---
 
 

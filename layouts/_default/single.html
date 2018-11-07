@@ -7,55 +7,20 @@
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
 <meta property="og:title" content="{{ .Title }}" />
-<meta property="og:type" content="article" />
+<meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:image" content="" />
 {{ end }}
 
 {{ define "main" }}
 <main>
-  <article class="c__post--single">
-    <div class="container c__post__title">
-      <div class="row">
-        <h1 class="col col-12 col-md-8 offset-md-2">{{ .Title }}</h1>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="row">
-        featured image
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="row">
-        <div class="col col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">{{ .Content }}</div>
-      </div>
-    </div>
-    <footer class="container c__post__share">
-      <div class="row">
-        <div class="col col-12 col-md-6 offset-md-3">
-          <p>
-            Teilen:
-            <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u={{ .Permalink }}" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
-          </p>
-        </div>
-      </div>
-    </footer>
-  </article>
-  <aside class="container c__post__related">
+  <div class="container">
     <div class="row">
-      {{ $related := .Site.RegularPages.Related . | first 1 }}
-      {{ with $related }}
-      <h3 class="text col col-12 col-md-6 offset-md-3">Von uns für dich empfohlen</h3>
-      <ul class="col col-12 col-md-6 offset-md-3">
-        {{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      </ul>
-      {{ end }}
+      <h1 class="col col-12">{{ .Title }}</h1>
+      <div class="col col-12">
+        {{ .Content }}
+      </div>
     </div>
-  </aside>
+  </div>
 </main>
 {{ end }}
