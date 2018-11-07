@@ -33,7 +33,22 @@
 
     <div class="container">
       <div class="row">
-        <div class="col col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">{{ .Content }}</div>
+        <aside class="c__post__meta col col-12 col-sm-10 col-md-3 col-lg-2">
+          {{ if eq .Params.authors "OKF"}}<strong>OKF</strong>{{ else }}
+          <ul>
+            {{ range .Params.authors}}
+            <li><strong>{{.}}</strong></li>
+            {{end}}
+          </ul>
+          {{ end }}
+          <p class="c__post__date"><time datetime="{{.Date}}">{{ .Date.Format "02.01.2006" }}</time></p>
+          <ul>
+            {{ range .Params.tags }}
+            <li><a href="#">#{{.}}</a></li>
+            {{ end }}
+          </ul>
+        </aside>
+        <div class="c__post__main col col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-1 col-lg-6 offset-lg-3">{{ .Content }}</div>
       </div>
     </div>
     <footer class="container c__post__share">
