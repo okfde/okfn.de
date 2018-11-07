@@ -1,0 +1,45 @@
+.c__post--item
+  border-bottom: 1px solid $greyish
+  a
+    padding: $space * 0.76 0
+    text-decoration: none
+    color: inherit
+    transition: background-color 200ms ease
+    &:hover,
+    &:active
+      background-color: $greyish
+
+  .c__post__title
+    order: 2
+
+  .c__post__date
+    color: $secondary
+    font-weight: 600
+    order: 1
+    @include media-breakpoint-up(sm)
+      text-align: right
+      order: 3
+
+.c__post--featured
+  max-width: 1140px
+  margin-bottom: $space-double
+  .row
+    padding: $grid-gutter-width / 2 0
+    @include media-breakpoint-up(sm)
+      padding: $space 0 $space-m
+  a
+    color: $black
+    text-decoration: none
+    font-weight: 600
+  .h3 + .h3
+    margin-top: .5em
+
+  .c__post__image
+    margin-top: -1.7em
+    @include media-breakpoint-down(md)
+      margin-top: $space-m
+    img
+      width: 100%
+
+.c__post__bg--yellow
+  background-color: #ffec00

@@ -1,16 +1,17 @@
-.blog__header
+.l__blog__header
   max-width: 1140px
   margin-bottom: $space-m
 
-.blog__posts
+.l__blog__posts
   max-width: 1140px
   padding: 0 $grid-gutter-width/ 2
 
-.blog__paginator
+.l__blog__paginator
+  max-width: 1140px
   margin-top: $space
   margin-bottom: $space-double * 2
 
-.blog__paginator__btn
+.l__blog__paginator__btn
   width: 120px
   padding: 0.55em .7em .5em
   color: $anchor
@@ -28,56 +29,7 @@
     background-color: $anchor
     color: $white
 
-.post__item
-  border-bottom: 1px solid $greyish
-  a
-    padding: $space * 0.76 0
-    text-decoration: none
-    color: inherit
-    transition: background-color 200ms ease
-    &:hover,
-    &:active
-      background-color: $greyish
-
-.post__title
-  order: 2
-
-.post__date
-  color: $secondary
-  font-weight: 600
-  order: 1
-  @include media-breakpoint-up(sm)
-    text-align: right
-    order: 3
-
-
-.post__featured
-  max-width: 1140px
-  margin-bottom: $space-double
-  .row
-    padding: $grid-gutter-width / 2 0
-    @include media-breakpoint-up(sm)
-      padding: $space 0 $space-m
-  a
-    color: $black
-    text-decoration: none
-    font-weight: 600
-
-  .h3 + .h3
-    margin-top: .5em
-
-.post__featured--yellow
-  background-color: #ffec00
-
-.post__featured__image
-  margin-top: -1.7em
-  @include media-breakpoint-down(md)
-    margin-top: $space-m
-  img
-    width: 100%
-
-
-.blog__search
+.l__blog__search
   text-align: right
   margin-bottom: 0.6em
   input
@@ -98,15 +50,25 @@
     font-size: 1.1rem
     opacity: 1
 
-.blog__search__results
+.l__blog__search__results
   max-width: 1140px
 
-  //display: none
-
-.blog__search__term
+.l__blog__search__term
   margin-top: -3rem
   margin-bottom: $space-m
   color: $anchor
 
-.blog__search__clear
+.l__blog__search__clear
   vertical-align: top
+
+//
+// See JS code in assets/js/blog-search.js
+//
+#js-blog-search-overlay
+  display: none
+  &.open
+    display: block
+
+#js-blog-index
+  &.hidden
+    display: none

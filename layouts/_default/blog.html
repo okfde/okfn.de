@@ -14,34 +14,36 @@
 
 {{ define "main" }}
 <main>
-  <header class="blog__header container align-items-end">
+  <header class="l__blog__header container align-items-end">
     <div class="row align-items-end">
       <h1 class="col col-5 col-sm-10">{{ .Title }}</h1>
-      <div class="blog__search col col-7 col-sm-2">
+      <div class="l__blog__search col col-7 col-sm-2">
         <noscript>Für die Blogsuche wird JavaScript benötigt.</noscript>
         <input id="js-blog-search-input" type="text" value="" placeholder="durchsuchen 🔍">
       </div>
     </div>
   </header>
 
-  <div id="js-blog-search-overlay" class="blog__search__results container">
+  <div id="js-blog-search-overlay" class="l__blog__search__results container">
     <div class="row no-gutters">
-      <h2 id="js-search-term" class="blog__search__term">
-        Suche nach: <span>term</span>
-        <button id="js-blog-search-clear" class="blog__search__clear" type="button" tabindex>❌</button></h2>
-      <ul id="js-search-results"></ul>
+      <h2 class="l__blog__search__term col col-12">
+        Suche nach: <span id="js-search-term">term</span>
+        <button id="js-blog-search-clear" class="l__blog__search__clear" type="button" tabindex>❌</button></h2>
+      <ul id="js-search-results" class="col col-12"></ul>
     </div>
   </div>
 
-  {{- partial "featured_post.html" . -}}
+  <div id="js-blog-index">
+    {{- partial "featured_post.html" . -}}
 
-  <ul class="blog__posts container">
-    {{ range (.Paginator 20).Pages }}
+    <ul class="l__blog__posts container">
+      {{ range (.Paginator 20).Pages }}
       {{- partial "post_item.html" . -}}
-    {{ end }}
-  </ul>
+      {{ end }}
+    </ul>
 
+    {{- partial "paginator.html" . -}}
+  </div>
 
-  {{- partial "paginator.html" . -}}
 </main>
 {{ end }}
