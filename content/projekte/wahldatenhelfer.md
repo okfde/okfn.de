@@ -2,7 +2,7 @@
 type: archive
 title: Wahl.Daten.Helfer.
 img: projects/wahldatenhelfer.jpg
-#url: http://www.wahldatenhelfer.de
+url: http://www.wahldatenhelfer.de
 layout: project
 people:
   - name: Julia Kloiber
@@ -19,5 +19,6 @@ en:
   subtitle: "The election hack day"
   content: |-
      Wahl.Daten.Helfer was an initiative to facilitate the creation of election hackdays. Instead of meeting in order to prepare and deal with current election data, we wanted to develop tools and apps that can be used flexibly for different elections (such as the European election) in the future.
-
+     
 ---
+

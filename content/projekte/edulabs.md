@@ -3,7 +3,7 @@ type: education
 title: edulabs
 layout: project
 img: projects/edulabs_square_new.jpg
-#url: https://edulabs.de/
+url: https://edulabs.de/
 people:
   - name: Markus Neusch&auml;fer
     role: Projektleitung

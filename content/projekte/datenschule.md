@@ -5,7 +5,7 @@ layout: project
 img: projects/datenschule.jpg
 img_square: projects/datenschule.jpg
 background: projects/datenschule.jpg
-#url: https://datenschule.de
+url: https://datenschule.de
 video: "https://www.youtube.com/embed/tE8vx3TFIlM"
 people:
   - name: Anna Alberts
@@ -34,3 +34,4 @@ en:
       The Open Knowledge Foundation Germany has developed a data training program, covering everything from the finding, analyzing and visualizing of data to the design of data-driven campaigns. The program is a combination of workshops, strategy consulting, and technology training.
 
 ---
+

@@ -1,7 +1,7 @@
 ---
 type: politics
 title: codefor.de
-#url: http://codefor.de/
+url: http://codefor.de/
 img: projects/codeforde.jpg
 img_square: projects/codeforde_square.jpg
 layout: project
@@ -19,10 +19,10 @@ de:
   stats: 25<br/>OK Labs
   teaser: entwickeln Tools für <a href="/projekte/codeforde/">digitale Städte</a> in ganz Deutschland.
   content: |-
-     "Code for Germany" vernetzt Entwicklerinnen, Designer und Open-Data-Interessierte in ganz Deutschland.
-     In 25 deutschen Städten wurden dafür sogenannte Open Knowledge Labs (OK Labs) gegründet.
-     Die Labs treffen sich regelmäßig zum gemeinsamen Arbeiten und tauschen sich mit Vertretern ihrer Stadt aus.
-     Ziel des Projekts ist es, Projekte und Anwendungen rund um offene Daten zu fördern und dadurch Entwicklungen im Bereich Open Data weiter voranzutreiben.
+     "Code for Germany" vernetzt Entwicklerinnen, Designer und Open-Data-Interessierte in ganz Deutschland. 
+     In 25 deutschen Städten wurden dafür sogenannte Open Knowledge Labs (OK Labs) gegründet. 
+     Die Labs treffen sich regelmäßig zum gemeinsamen Arbeiten und tauschen sich mit Vertretern ihrer Stadt aus. 
+     Ziel des Projekts ist es, Projekte und Anwendungen rund um offene Daten zu fördern und dadurch Entwicklungen im Bereich Open Data weiter voranzutreiben. 
      Auf der [Projektwebsite](http://codefor.de) kann man die Arbeit und Projekte der OK Labs verfolgen. Für das Projekt kooperieren wir mit [Code for America](http://www.codeforamerica.org/) und Google.
 
 en:
@@ -30,9 +30,10 @@ en:
   stats: 25<br/>OK Labs
   teaser: develop tools for <a href="/en/projekte/codeforde/">digital cities</a> all over Germany.
   content: |-
-     Code for Germany connects developers, designers, and open data enthusiasts from all over Germany.
+     Code for Germany connects developers, designers, and open data enthusiasts from all over Germany. 
      The program has established Open Knowledge Labs (OK Labs) in 25 German cities. These serve as meeting points for collaboration and exchange between local activists and city representatives.
      The goal of the project is to facilitate the development of applications and projects that use open data in order to further political participation and empowerment.
-     On the [project website](http://codefor.de), you can follow the individual labs and their work. The project cooperates with [Code for America](http://www.codeforamerica.org/) and Google.
+     On the [project website](http://codefor.de), you can follow the individual labs and their work. The project cooperates with [Code for America](http://www.codeforamerica.org/) and Google. 
 
 ---
+

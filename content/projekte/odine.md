@@ -1,7 +1,7 @@
 ---
 type: research
 title: ODINE
-#url: https://www.d-eiti.de/de/
+url: https://www.d-eiti.de/de/
 img: projects/odine-logo.png
 layout: project
 people:

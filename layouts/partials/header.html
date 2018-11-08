@@ -8,7 +8,7 @@
       </div>
       <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
         <li><a href="#">Profil</a></li>
-        <li><a href="#">Projekte</a></li>
+        {{ with .Site.GetPage "/projekte" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         <li><a href="#">Themen</a></li>
         {{ with .Site.GetPage "/team" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/blog" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}

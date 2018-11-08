@@ -5,7 +5,7 @@ layout: project
 img: projects/turing-bus.png
 img_square: projects/turing-bus.png
 background: backgrounds/turing-bus-bg.jpg
-#url: https://turing-bus.de
+url: https://turing-bus.de
 people:
   - name: Bela Seeger
     role: Projektleitung
@@ -28,3 +28,4 @@ en:
 
 
 ---
+

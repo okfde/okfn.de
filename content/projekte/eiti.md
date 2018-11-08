@@ -1,7 +1,7 @@
 ---
 type: research
 title: D-EITI
-#url: https://www.d-eiti.de/de/
+url: https://www.d-eiti.de/de/
 img: projects/deiti-logo.png
 layout: project
 people:

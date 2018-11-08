@@ -1,7 +1,7 @@
 ---
 type: politics
 title: "Volksentscheid Transparenz Berlin"
-#url: https://volksentscheid-transparenz.de/
+url: https://volksentscheid-transparenz.de/
 img: projects/volksentscheid.jpg
 people:
 - name: Arne Semsrott
@@ -18,9 +18,10 @@ contact:
   twitter: transparenzBER
 de:
   content: |-
-     Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Ein konkreter Entwurf wird bislang jedoch nicht erarbeitet. Das möchten wir ändern: Die Open Knowledge Foundation Deutschland hat gemeinsam mit zivilgesellschaftlichen Partnern einen Entwurf für ein Berliner Transparenzgesetz geschrieben.
+     Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Ein konkreter Entwurf wird bislang jedoch nicht erarbeitet. Das möchten wir ändern: Die Open Knowledge Foundation Deutschland hat gemeinsam mit zivilgesellschaftlichen Partnern einen Entwurf für ein Berliner Transparenzgesetz geschrieben.      
 en:
   content: |-
-     In the Berlin coalition agreement, the governing parties agreed to further develop the Berlin Freedom of Information Act into a transparency law. However, no concrete draft has yet been drawn up. We want to change that: Together with civil society partners, the Open Knowledge Foundation Germany has written a draft of a Berlin Transparency Act.
-
+     In the Berlin coalition agreement, the governing parties agreed to further develop the Berlin Freedom of Information Act into a transparency law. However, no concrete draft has yet been drawn up. We want to change that: Together with civil society partners, the Open Knowledge Foundation Germany has written a draft of a Berlin Transparency Act. 
+     
 ---
+

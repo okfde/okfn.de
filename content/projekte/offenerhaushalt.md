@@ -2,7 +2,7 @@
 type: politics
 title: "Offener Haushalt"
 layout: project
-#url: http://offenerhaushalt.de/
+url: http://offenerhaushalt.de/
 background: backgrounds/offenerhaushalt.jpg
 img: projects/offenerhaushalt.jpg
 people:
@@ -20,6 +20,7 @@ de:
 
 en:
   content: |-
-     Offener Haushalt (open budget) was a pilot project aimed at making German budget data transparently and openly accessible. It was the first visualisation of its kind that later got support from the German ministry of finance.
-
+     Offener Haushalt (open budget) was a pilot project aimed at making German budget data transparently and openly accessible. It was the first visualisation of its kind that later got support from the German ministry of finance. 
+     
 ---
+
