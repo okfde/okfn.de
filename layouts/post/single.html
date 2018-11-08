@@ -1,5 +1,5 @@
 {{ define "title"}}
-<title>{{ .Title }} - {{ .Site.Title}}</title>
+<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
 {{ end }}
 
 {{ define "head" }}
@@ -34,19 +34,27 @@
     <div class="container">
       <div class="row">
         <aside class="c__post__meta col col-12 col-sm-10 col-md-3 col-lg-2">
-          {{ if eq .Params.authors "OKF"}}<strong>OKF</strong>{{ else }}
-          <ul>
-            {{ range .Params.authors}}
-            <li><strong>{{.}}</strong></li>
+          <p>
+            {{ with .Params.authors }}
+            {{ if eq (len .) 2 }}
+            {{ range .}}
+            <strong>{{.}}</strong>
             {{end}}
-          </ul>
-          {{ end }}
+            {{else}}
+            <strong>{{.}}</strong>
+            {{ end }}
+            {{end}}
+          </p>
           <p class="c__post__date"><time datetime="{{.Date}}">{{ .Date.Format "02.01.2006" }}</time></p>
-          <ul>
-            {{ range .Params.tags }}
-            <li><a href="#">#{{.}}</a></li>
+
+          {{ with .Params.tags }}
+          <ul id="tags">
+            {{ range . }}
+            <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">#{{ . }}</a> </li>
             {{ end }}
           </ul>
+          {{ end }}
+
         </aside>
         <div class="c__post__main col col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-1 col-lg-6 offset-lg-3">{{ .Content }}</div>
       </div>

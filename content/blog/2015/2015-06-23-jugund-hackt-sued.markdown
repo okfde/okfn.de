@@ -1,13 +1,13 @@
 ---
 author: Paula Glaser
-date: 2015-06-23 16:00
+date: 2015-06-23 16:00:00
 image:
   src: /files/blog/2015/06/18213770873_f971c106c7_z.jpg
   title: Hardwarebastelei
 layout: post
 tags:
 - OER
-title: Im “Spiel des Lebens” wird soziale Ungleichheit verdeutlicht und durch “Paketmagie” entsteht ein dezentrales, umweltfreundliches Logistiksystem - die Jugend im Süden hat gehackt!
+title: Die Jugend im Süden hat gehackt!
 
 type: post
 ---

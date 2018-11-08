@@ -76,11 +76,8 @@
     order: 2
   @include media-breakpoint-up(lg)
     @include make-col-offset(1)
-  ul
-    padding: 0
-    list-style: none
-    &:first-of-type
-      padding-top: .7em
+  p:first-of-type
+    padding-top: .7em
   .c__post__date
     margin: 1em 0
   &:before
@@ -123,11 +120,6 @@
   li
     margin-bottom: 1em
     line-height: 1.55
-  a
-    text-decoration: none
-    &:hover,
-    &:active
-      text-decoration: underline
   iframe,
   img
     width: 100%

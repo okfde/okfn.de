@@ -1,13 +1,13 @@
 ---
 author: Claudia Schwegmann
-date: 2015-06-09 10:00
+date: 2015-06-09 10:00:00
 image:
   src: /files/blog/2015/06/wordle-ausschreibung.jpg
   title: Logo Entwicklungsbarometer
 layout: post
 tags:
 - OER
-title: Wir suchen eine/e studentische/r Mitarbeiter/in (Projektassistent/in) für unseren Entwicklungsbarometer - ein Datenprojekt zur entwicklungspolitischen Kohärenz
+title: Wir suchen eine/e studentische/r Mitarbeiter/in (Projektassistent/in) für unseren Entwicklungsbarometer
 
 type: post
 ---
@@ -27,18 +27,18 @@ Neben der Entwicklung des Indizes umfasst das Projekt die Erarbeitung einer Bros
 * Internetrecherche zu den oben genannten Politikbereichen und zu möglichen Indikatoren
 * Datenrecherche und Datenaufbereitung
 * Gespräche mit Experten aus Zivilgesellschaft und Wissenschaft in Deutschland und Ausland (per Telefon, Skype und persönlich)
-* Organisation an und Teilnahmen an Dialogveranstaltungen 
+* Organisation an und Teilnahmen an Dialogveranstaltungen
 * Öffentlichkeitsarbeit rund um das Projekt (Webseite, Blogposts, Pressearbeit, Erarbeitung der Broschüre)
 * Projektmanagement (Finanzen, Berichterstattung)
 
 **Was wir erwarten:**
 
-* einen Bachelor-Abschluss in einem relevanten Fach 
+* einen Bachelor-Abschluss in einem relevanten Fach
 * Gute Kenntnisse zu folgenden Themen: globale Nachhaltigkeitsdebatte, Armutsbekämpfung, Handelspolitik, Umweltpolitik, Entwicklungspolitik, internationale Institutionen
 * Wissenschaftliche Arbeitsweise sowie einschlägige Erfahrung mit Recherche und dem Verfassen von Texten und Dokumentationen (Englisch und Deutsch)
 * Erfahrung in der Datenanalyse, Statistikkenntnisse ein Plus
 * Eigenständige und strukturierte Arbeitsweise
-* Kommunikationskompetenz 
+* Kommunikationskompetenz
 * Bereitschaft, sich in unterschiedliche Online-Werkzeuge einzuarbeiten
 * Vertrautheit mit sozialen Medien, Erfahrungen in der Öffentlichkeits- und Pressearbeit ein Plus
 * Affinität zu digitalen Themen und Open Data ein Plus
@@ -54,7 +54,4 @@ Neben der Entwicklung des Indizes umfasst das Projekt die Erarbeitung einer Bros
 * 878 €/brutto / 20 Stunden Woche
 
 Bitte schickt Eure Bewerbung per E-Mail bis zum 8 Juli an [claudia.schwegmann@okfn.org](mailto:claudia.schwegmann@okfn.org)
-<hr>  
-
-
-
+<hr>

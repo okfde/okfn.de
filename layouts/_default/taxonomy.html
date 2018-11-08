@@ -1,0 +1,32 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ strings.FirstUpper .Section }} -  {{ .Site.Title}}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} - {{ strings.FirstUpper .Section }}: {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="" />
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <header class="l__blog__header container">
+    <div class="row align-items-end">
+      <h1 class="col col-5 col-sm-10">{{ .Title }} ({{ len .Pages }})</h1>
+    </div>
+  </header>
+
+    <ul class="l__blog__posts container">
+      {{ range (.Paginator 20).Pages }}
+      {{- partial "post_item.html" . -}}
+      {{ end }}
+    </ul>
+
+    {{- partial "paginator.html" . -}}
+  </div>
+</main>
+{{ end }}
