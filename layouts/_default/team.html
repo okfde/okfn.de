@@ -1,0 +1,48 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="" />
+{{ end }}
+
+
+{{ define "main" }}
+<main>
+  <div class="container l__team">
+    <div class="row l__team__title">
+      <h1 class="col col-12 col-sm-10">{{ .Params.blurb }}</h1>
+    </div>
+    <ul class="row l__team__list">
+      {{ $lang := .Lang }}
+      {{ range sort $.Site.Data.team "name" }}
+      {{if .staff }}
+      <li class="col col-12 col-sm-6 col-lg-4">
+        <img src="/team/{{.img}}.jpg" alt="{{.img}}">
+        <h2 class="h3">{{.name}}</h2>
+        <p class="l__team__meta">{{.position}}</p>
+        {{ if eq $lang "en"}}
+        <p>{{.bio_en}}</p>
+        {{ else }}
+        <p>{{.bio}}</p>
+        {{ end }}
+        <p class="l__team__contact">
+          {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }}
+          {{ with .twitter }}<a href="{{.}}">Twitter</a>{{ end }}
+          {{ with .website }}<a href="{{.}}">Website</a>{{ end }}
+          {{ with .github }}<a href="{{.}}">GitHub</a>{{ end }}
+        </p>
+      </li>
+      {{ end }}
+      {{ end }}
+    </ul>
+
+  </div>
+</main>
+{{ end }}

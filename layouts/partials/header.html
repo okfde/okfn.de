@@ -2,7 +2,7 @@
   <div>
     <div class="l__inner">
       <a href="#content" class="show-on-focus skip">Skip to content</a>
-      <a href="/" class="c__logo l__logo">{{ readFile "static/okf/okf-logo-topbar.svg" | safeHTML }}</a>
+      <a href="{{ .Site.BaseURL }}" class="c__logo l__logo">{{ readFile "static/okf/okf-logo-topbar.svg" | safeHTML }}</a>
       <div class="l__topbar__toggle">
         <button type="button" id="js-topnav-toggle" tabindex="">🍔</button>
       </div>
@@ -10,9 +10,13 @@
         <li><a href="#">Profil</a></li>
         <li><a href="#">Projekte</a></li>
         <li><a href="#">Themen</a></li>
-        <li><a href="#">Team</a></li>
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="#">De</a> | <a href="">En</a></li>
+        {{ with .Site.GetPage "/team" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/blog" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        <li>{{ range $index, $translation := .Page.AllTranslations }}
+          <a href="{{ $translation.Permalink }}">{{ $translation.Language.LanguageName }}</a>
+          {{ if (eq $index 0) }}|{{ end }}
+        {{ end }}
+        </li>
         <li class="search-btn">🔍</li>
         <li class="c__donate-btn"><a href="#">Spenden</a></li>
       </ul>

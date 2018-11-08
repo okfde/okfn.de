@@ -9,7 +9,15 @@
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:image" content="" />
+{{ if (isset .Params "featured") }}
+  <meta property="og:image" content='{{ .Site.BaseURL }}{{ trim .Params.image.src "/"}}' />
+{{end}}
+<meta property="article:published_time" content="{{ .Date }}" />
+{{ with .Params.tags }}
+  {{ range . }}
+    <meta property="article:tag" content="{{ . }}" />
+  {{ end }}
+{{ end }}
 {{ end }}
 
 {{ define "main" }}
@@ -36,13 +44,13 @@
         <aside class="c__post__meta col col-12 col-sm-10 col-md-3 col-lg-2">
           <p>
             {{ with .Params.authors }}
-            {{ if eq (len .) 2 }}
-            {{ range .}}
-            <strong>{{.}}</strong>
-            {{end}}
-            {{else}}
-            <strong>{{.}}</strong>
-            {{ end }}
+              {{ if eq (len .) 2 }}
+                {{ range .}}
+                  <strong>{{.}}</strong>
+                {{end}}
+              {{else}}
+                <strong>{{.}}</strong>
+              {{ end }}
             {{end}}
           </p>
           <p class="c__post__date"><time datetime="{{.Date}}">{{ .Date.Format "02.01.2006" }}</time></p>

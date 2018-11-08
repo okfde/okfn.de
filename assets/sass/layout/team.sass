@@ -1,0 +1,48 @@
+.l__team
+  max-width: 1140px
+
+=grid($param)
+  li:nth-of-type(3n)
+    padding-left: $param
+  li:nth-of-type(3n - 1)
+    padding: 0 $param / 2
+  li:nth-of-type(3n - 2)
+    padding-right: $param
+
+.l__team__title
+  margin-bottom: $space * 3
+
+.l__team__contact
+  margin-top: $space /2
+  a
+    margin-right: 5px
+    &:hover,
+    &:active
+      border-bottom: 1px solid currentColor
+      text-decoration: none
+
+.l__team__meta
+  margin: $space / 2 0
+  color: #606060
+
+.l__team__list
+  img
+    display: block
+    width: 100%
+    height: 165px
+    object-fit: cover
+
+
+  .h3
+    margin-top: $space
+  li
+    margin-bottom: $space-double * 2
+  @include media-breakpoint-only(sm)
+    li:nth-of-type(even)
+      padding-left: 2em
+    li:nth-of-type(odd)
+      padding-right: 2em
+  //@include media-breakpoint-up(md)
+  //  +grid(3em)
+  @include media-breakpoint-up(lg)
+    +grid(5em)
