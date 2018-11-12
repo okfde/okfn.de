@@ -22,7 +22,6 @@ weight =  80
     name = 'tags'
     weight = 60
 
-
 [mediaTypes]        
   [mediaTypes."application/atom"]
     suffixes = ["xml"]

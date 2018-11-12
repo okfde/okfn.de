@@ -15,30 +15,53 @@
 
 {{ define "main" }}
 <main>
-  <div class="container l__projects">
+  <section class="container l__projects">
     <div class="row">
       <h1 class="col col-12 col-sm-10">{{ .Params.blurb }}</h1>
+      <div class="col col-12 col-md-10 col-lg-8">
+        <div class="c__nav-list c__nav-list--filter">
+          <a href="{{.Permalink}}">Alle</a>
+          {{ range  where .Site.Pages "Section" "themen"}}
+          {{ if eq .Kind "page"}}
+          <a href="?filter={{.Title | anchorize}}">{{.Title}}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
     </div>
-    <ul class="row">
+    <ul class="row l__projects__list">
       {{ $lang := .Lang }}
       {{ range where (where $.Site.AllPages "Section" "projekte") ".Kind" "!=" "section"}}
-        <li class="col col-6 col-sm-4 l__projects__item">
-          <h2>{{.Title}}</h2>
-          <img src="/files/{{.Params.img}}">
-          {{ if eq $lang "en" }}
-          {{ with .Params.en.subtitle }}
-          <p>{{ . }}</p>
-          {{ end }}
-          {{ end }}
+      <li class="col col-6 col-sm-4 l__projects__item">
+        <a href="{{.Permalink}}" class="tile" style="background-image: url(/files/{{.Params.img}})">
+          <h2 class="h3 tile__title">{{.Title}}</h2>
+          <div class="tile__overlay">
+            {{ if eq $lang "en" }}
+            {{ with .Params.en.subtitle }}
+            <p class="h4">{{ . }}</p>
+            {{ end }}
+            {{ end }}
 
-          {{ if eq $lang "de" }}
-          {{ with .Params.de.subtitle }}
-          <p>{{ . }}</p>
-          {{ end }}
-          {{ end }}
-        </li>
+            {{ if eq $lang "de" }}
+            {{ with .Params.de.subtitle  }}
+            <p class="h4">{{ . }}</p>
+            {{ end }}
+            {{ end }}
+          </div>
+        </a>
+      </li>
       {{ end }}
     </ul>
-  </div>
+  </section>
+  <section class="container">
+    <div class="row">
+      <h2>Weitere Projekte</h2>
+    </div>
+  </section>
+  <section class="container">
+    <div class="row">
+      <h2>Abgeschlossene Projekte</h2>
+    </div>
+  </section>
 </main>
 {{ end }}

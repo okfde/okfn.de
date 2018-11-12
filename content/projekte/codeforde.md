@@ -1,5 +1,9 @@
 ---
 type: politics
+kategorien:
+  - Community
+categories:
+  - Community
 title: codefor.de
 website: http://codefor.de/
 img: projects/codeforde.jpg

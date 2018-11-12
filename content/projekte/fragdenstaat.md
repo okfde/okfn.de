@@ -1,5 +1,9 @@
 ---
 type: politics
+kategorien:
+  - Offenes Regierungdshandeln
+categories:
+  - Open Government
 title: FragDenStaat.de
 layout: project
 img: projects/fragdenstaat.jpg

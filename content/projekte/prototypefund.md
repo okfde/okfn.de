@@ -1,5 +1,9 @@
 ---
 type: research
+kategorien:
+  - Civic Tech
+categories:
+  - Civic Tech
 title: Prototype Fund
 website: http://prototypefund.de
 img: projects/prototypefund.jpg

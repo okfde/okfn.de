@@ -1,5 +1,9 @@
 ---
 type: education
+kategorien:
+  - Offene Daten
+categories:
+  - Open Data
 title: Datenschule
 layout: project
 img: projects/datenschule.jpg
