@@ -11,11 +11,17 @@
         {{ with .Site.GetPage "/projekte" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         <li><a href="#">Themen</a></li>
         {{ with .Site.GetPage "/team" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        {{ with .Site.GetPage "/blog" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        <li>{{ range $index, $translation := .Page.AllTranslations }}
+        <li><a href="/blog">Blog</a></li>
+
+        {{ $langList := (.Page.AllTranslations) }}
+        {{ $lenLangList := len $langList}}
+        <li>{{ range $index, $translation := $langList }}
           <a href="{{ $translation.Permalink }}">{{ $translation.Language.LanguageName }}</a>
           {{ if (eq $index 0) }}|{{ end }}
-        {{ end }}
+          {{ if (eq $lenLangList 1)}}
+          <a href="{{ $translation.Permalink}}">EN</a>
+          {{ end }}
+          {{ end }}
         </li>
         <li class="search-btn">🔍</li>
         <li class="c__donate-btn"><a href="#">Spenden</a></li>

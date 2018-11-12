@@ -28,9 +28,9 @@
         <h2 class="h3">{{.name}}</h2>
         <p class="l__team__meta">{{.position}}</p>
         {{ if eq $lang "en"}}
-        <p>{{.bio_en}}</p>
+        <p>{{.bio_en | markdownify}}</p>
         {{ else }}
-        <p>{{.bio}}</p>
+        <p>{{.bio | markdownify}}</p>
         {{ end }}
         <p class="l__team__contact">
           {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }}
