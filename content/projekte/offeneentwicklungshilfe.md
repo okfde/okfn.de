@@ -1,7 +1,7 @@
 ---
 type: archive
 title: "Offene Entwicklungshilfe"
-url: http://offene-entwicklungshilfe.de
+website: http://offene-entwicklungshilfe.de
 img: projects/offeneentwicklungshilfe.jpg
 contact: Claudia Schwegmann, Christian Kreutz
 layout: project
@@ -17,7 +17,6 @@ de:
 
 en:
   content: |-
-     Offene-Entwicklungshilfe.de is a website that displays the activity of the German development cooperation over more than the past 10 years. 
-     
----
+     Offene-Entwicklungshilfe.de is a website that displays the activity of the German development cooperation over more than the past 10 years.
 
+---

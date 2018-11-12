@@ -1,7 +1,7 @@
 ---
 type: archive
 title: Bundesgit
-url: https://github.com/bundestag/gesetze
+website: https://github.com/bundestag/gesetze
 img: projects/bundesgit.jpg
 layout: project
 people:
@@ -18,7 +18,6 @@ de:
 en:
   subtitle: German federal laws on github
   content: |-
-     This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. Hereby, their historic development and adaptation is transparent and easily comprehensible.  
+     This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. Hereby, their historic development and adaptation is transparent and easily comprehensible.
 
 ---
-

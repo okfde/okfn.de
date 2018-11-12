@@ -5,7 +5,7 @@ layout: project
 img: projects/datenmachenschule.png
 img_square: projects/datenmachenschule.png
 background: backgrounds/datenmachenschule-bg.png
-url: https://datenmachenschule.de
+website: https://datenmachenschule.de
 people:
   - name: Bela Seeger
     role: Projektleitung
@@ -30,4 +30,3 @@ en:
 
 
 ---
-

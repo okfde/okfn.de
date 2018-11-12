@@ -2,7 +2,7 @@
 type: politics
 title: "FarmSubsidy.org"
 layout: project
-url: https://farmsubsidy.org/
+website: https://farmsubsidy.org/
 background: projects/farmsubsidy.jpg
 img: projects/farmsubsidy.jpg
 people:
@@ -22,4 +22,3 @@ en:
      For more than 10 years FarmSubsidy.org has collected information about European farm subsidies in the context of the Common Agricultural Policy (CAP) of the European Union. The goal is financial transparency for one of the largest EU budget items of more than 50 billion Euros a year. The Open Knowledge Foundation Germany has been supporting the project and tries to keep the database up-to-date and available.
 
 ---
-

@@ -3,7 +3,7 @@ type: politics
 title: OpenSchufa
 layout: project
 img: projects/openschufa.jpg
-url: https://www.openschufa.de
+website: https://www.openschufa.de
 people:
   - name: Arne Semsrott
     role: Projektleitung
