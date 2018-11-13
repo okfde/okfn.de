@@ -16,13 +16,13 @@
 <main>
   <section class="container l__projects">
     <div class="row">
-      <h1 class="col col-12 col-sm-10">{{ .Params.blurb }}</h1>
-      <div class="col col-12 col-md-10 col-lg-8">
-        <div class="c__nav-list c__nav-list--filter">
-          <a href="{{.Permalink}}">Alle</a>
-          {{ range  where .Site.Pages "Section" "themen"}}
+      <h1 class="col col-12 col-sm-10">{{ if .Params.blurb }}{{.Params.blurb}}{{ else }}{{.Title}}{{ end }}</h1>
+      <div class="col col-12 col-lg-9 col-xl-8">
+        <div class="c__nav-list c__nav-list--filter js-isotope-filter">
+          <a href="{{.Permalink}}" data-filter="*" class="active">{{ i18n "projects_all" }}</a>
+          {{ range  where .Site.Pages "Section" "projektfilter"}}
           {{ if eq .Kind "page"}}
-          <a href="?filter={{.Title | anchorize}}">{{.Title}}</a>
+          <a href="{{.Permalink}}" data-filter=".{{.Title | anchorize}}">{{.Title}}</a>
           {{ end }}
           {{ end }}
         </div>
@@ -32,14 +32,14 @@
   </section>
   <section class="container">
     <div class="l__project__other">
-      <h2>Weitere Projekte</h2>
+      <h2>{{ i18n "projects_other" }}</h2>
       {{ $otherList := where (where $.Site.AllPages "Section" "projekte") ".Params.tile" "==" nil}}
       {{- partial "projects/other_list.html" $otherList -}}
     </div>
   </section>
   <section class="container">
     <div class="l__project__other">
-      <h2>Abgeschlossene Projekte</h2>
+      <h2>{{ i18n "projects_archive" }}</h2>
       {{ $archiveList := where (where $.Site.AllPages "Section" "projekte") ".Params.type" "==" "archive"}}
       {{- partial "projects/other_list.html" $archiveList -}}
     </div>

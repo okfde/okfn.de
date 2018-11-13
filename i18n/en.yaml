@@ -1,0 +1,10 @@
+- id: footer_contact
+  translation: "Contact"
+- id: footer_signup
+  translation: "signup"
+- id: projects_all
+  translation: "All"
+- id: projects_other
+  translation: "Other projects"
+- id: projects_archive
+  translation: "Finished projects"

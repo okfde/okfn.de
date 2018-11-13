@@ -1,7 +1,7 @@
 ---
 type: politics
 kategorien:
-  - Offenes Regierungdshandeln
+  - Offenes Regierungshandeln
 categories:
   - Open Government
 tile: double

@@ -1,5 +1,5 @@
 ---
-title: Education
+title: Open Education
 ---
 
-Something with education
+Something with open education

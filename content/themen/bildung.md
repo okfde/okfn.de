@@ -1,5 +1,5 @@
 ---
-title: Bildung
+title: Offene Bildung
 ---
 
-Etwas mit Bildung
+Etwas mit Offener Bildung
