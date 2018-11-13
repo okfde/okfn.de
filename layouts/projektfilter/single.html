@@ -1,0 +1,48 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <section class="container l__projects">
+    <div class="row">
+      <h1 class="col col-12 col-sm-10">Projekte: {{.Title}}</h1>
+      <div class="col col-12 col-lg-9 col-xl-8">
+        <div class="c__nav-list c__nav-list--filter js-isotope-filter">
+          <a href="{{.Permalink}}" data-filter="*">{{ i18n "projects_all" }}</a>
+          {{ $title := .Title | anchorize }}
+          {{ range  where .Site.Pages "Section" "projektfilter"}}
+          {{ if eq .Kind "page"}}
+          <a href="{{.Permalink}}" data-filter=".{{.Title | anchorize}}" class="{{ if eq (.Title | anchorize) $title }}active{{ end }}">{{.Title}}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <ul class="row l__projects__list">
+      {{ $lang := .Lang }}
+      {{ $title := .Title}}
+      {{ range $key, $value := where $.Site.AllPages "Section" "projekte"}}
+      {{ range .Params.kategorien }}
+
+      {{ if eq . $title}}
+      {{$value.Title}}
+
+      {{end}}
+      {{ end }}
+      {{ end }}
+    </ul>
+
+  </section>
+</main>
+{{ end }}
