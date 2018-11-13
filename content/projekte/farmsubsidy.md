@@ -1,5 +1,6 @@
 ---
 type: politics
+tile: single
 title: "FarmSubsidy.org"
 layout: project
 website: https://farmsubsidy.org/

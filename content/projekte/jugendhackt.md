@@ -1,9 +1,10 @@
 ---
-type:
+type: education
 kategorien:
   - Bildung
 categories:
   - Education
+tile: double
 layout: project
 title: Jugend hackt
 background: backgrounds/jugendhackt.jpg

@@ -1,5 +1,6 @@
 ---
 type: politics
+tile: single
 title: Open Gov Netzwerk
 url:
 img: projects/ogp.png
@@ -16,7 +17,7 @@ de:
   subtitle: ""
   content: |-
     Als Teil des [Open Government Netzwerks](https://opengovpartnership.de/) setzen wir uns für die aktive Mitwirkung Deutschlands in der
-    [Open Government Partnership (OGP)](http://www.opengovpartnership.org/) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk. 
+    [Open Government Partnership (OGP)](http://www.opengovpartnership.org/) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
 
     Die Bundesregierung hat im April 2016 angekündigt in der internationalen Multi-Akteurs-Partnerschaft teilzunehmen. Die Ziele der
     OGP sind konkrete Verpflichtungen von Regierungen für Transparenz, Bürgerbeteiligung, Korruptionsbekämpfung und der Einsatz
@@ -30,5 +31,5 @@ en:
   content: |-
      No English translation available
 
-     
+
 ---

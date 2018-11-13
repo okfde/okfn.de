@@ -1,5 +1,6 @@
 ---
 type: politics
+tile: single
 kategorien:
   - Community
 categories:

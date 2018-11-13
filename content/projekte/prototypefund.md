@@ -4,6 +4,7 @@ kategorien:
   - Civic Tech
 categories:
   - Civic Tech
+tile: double
 title: Prototype Fund
 website: http://prototypefund.de
 img: projects/prototypefund.jpg

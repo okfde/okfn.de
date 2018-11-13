@@ -2,6 +2,8 @@
 title: "Styleguide"
 ---
 
+## Base
+
 <h1>Überschrift 1</h1>
 <h2>Überschrift 2</h2>
 <h3>Überschrift 3</h3>
@@ -53,3 +55,32 @@ A quote
     <option>A</option>
     <option>B</option>
 </select>
+
+
+## Components
+
+### .tile
+
+<div class="container">
+<div class="row">
+<div class="col col-6">
+<a href="#" class="c__tile">
+  <h2 class="h3 c__tile__title">Title</h2>
+  <div class="c__tile__overlay">
+  <p class="h4">Subtitle</p>
+  </div>
+</a>
+</div>
+<div class="col col-6">
+<a href="#" class="c__tile c__tile--double">
+  <h2 class="h3 c__tile__title">Title</h2>
+  <div class="c__tile__overlay">
+  <p class="h4">Subtitle</p>
+  </div>
+</a>
+</div>
+</div>
+</div>
+
+### .c__separator
+<p><span class="c__separator">/</span></p>

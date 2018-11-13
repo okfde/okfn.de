@@ -1,0 +1,11 @@
+{{ $list := .}}
+<ul class="l__projects__list--center col col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2">
+  {{ range $index, $var := $list}}
+  <li>
+    <a href="{{.Permalink}}" class="h4">{{.Title}}</a>
+    {{ if ne (add $index 1) (len $list)}}
+    <span class="c__separator">/</span>
+    {{end}}
+  </li>
+  {{ end }}
+</ul>

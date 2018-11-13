@@ -4,6 +4,7 @@ kategorien:
   - Offenes Regierungdshandeln
 categories:
   - Open Government
+tile: double
 title: FragDenStaat.de
 layout: project
 img: projects/fragdenstaat.jpg

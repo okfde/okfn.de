@@ -12,7 +12,6 @@
 <meta property="og:image" content="" />
 {{ end }}
 
-
 {{ define "main" }}
 <main>
   <section class="container l__projects">
@@ -29,38 +28,20 @@
         </div>
       </div>
     </div>
-    <ul class="row l__projects__list">
-      {{ $lang := .Lang }}
-      {{ range where (where $.Site.AllPages "Section" "projekte") ".Kind" "!=" "section"}}
-      <li class="col col-6 col-sm-4 l__projects__item">
-        <a href="{{.Permalink}}" class="tile" style="background-image: url(/files/{{.Params.img}})">
-          <h2 class="h3 tile__title">{{.Title}}</h2>
-          <div class="tile__overlay">
-            {{ if eq $lang "en" }}
-            {{ with .Params.en.subtitle }}
-            <p class="h4">{{ . }}</p>
-            {{ end }}
-            {{ end }}
-
-            {{ if eq $lang "de" }}
-            {{ with .Params.de.subtitle  }}
-            <p class="h4">{{ . }}</p>
-            {{ end }}
-            {{ end }}
-          </div>
-        </a>
-      </li>
-      {{ end }}
-    </ul>
+    {{- partial "projects/tile-list" . -}}
   </section>
   <section class="container">
-    <div class="row">
+    <div class="l__project__other">
       <h2>Weitere Projekte</h2>
+      {{ $otherList := where (where $.Site.AllPages "Section" "projekte") ".Params.tile" "==" nil}}
+      {{- partial "projects/other_list.html" $otherList -}}
     </div>
   </section>
   <section class="container">
-    <div class="row">
+    <div class="l__project__other">
       <h2>Abgeschlossene Projekte</h2>
+      {{ $archiveList := where (where $.Site.AllPages "Section" "projekte") ".Params.type" "==" "archive"}}
+      {{- partial "projects/other_list.html" $archiveList -}}
     </div>
   </section>
 </main>

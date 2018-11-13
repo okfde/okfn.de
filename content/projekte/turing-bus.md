@@ -1,5 +1,6 @@
 ---
 type: education
+tile: single
 title: Turing-Bus
 layout: project
 img: projects/turing-bus.png

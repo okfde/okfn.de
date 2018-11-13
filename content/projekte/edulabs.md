@@ -1,6 +1,7 @@
 ---
 type: education
 title: edulabs
+tile: double
 layout: project
 img: projects/edulabs_square_new.jpg
 website: https://edulabs.de/
