@@ -2,6 +2,8 @@
   translation: "Contact"
 - id: footer_signup
   translation: "signup"
+- id: projects
+  translation: "Projects"
 - id: projects_all
   translation: "All"
 - id: projects_other

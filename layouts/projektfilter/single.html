@@ -15,34 +15,42 @@
 <main>
   <section class="container l__projects">
     <div class="row">
-      <h1 class="col col-12 col-sm-10">Projekte: {{.Title}}</h1>
+      <h1 class="col col-12 col-sm-11">{{ i18n "projects" }}: {{.Title}}</h1>
       <div class="col col-12 col-lg-9 col-xl-8">
-        <div class="c__nav-list c__nav-list--filter js-isotope-filter">
-          <a href="{{.Permalink}}" data-filter="*">{{ i18n "projects_all" }}</a>
-          {{ $title := .Title | anchorize }}
-          {{ range  where .Site.Pages "Section" "projektfilter"}}
-          {{ if eq .Kind "page"}}
-          <a href="{{.Permalink}}" data-filter=".{{.Title | anchorize}}" class="{{ if eq (.Title | anchorize) $title }}active{{ end }}">{{.Title}}</a>
-          {{ end }}
-          {{ end }}
-        </div>
+        {{- partial "projects/filter" . -}}
       </div>
     </div>
 
     <ul class="row l__projects__list">
-      {{ $lang := .Lang }}
       {{ $title := .Title}}
-      {{ range $key, $value := where $.Site.AllPages "Section" "projekte"}}
-      {{ range .Params.kategorien }}
+      {{ $page := . }}
 
-      {{ if eq . $title}}
-      {{$value.Title}}
+      {{ if eq .Lang "de" }}
 
-      {{end}}
-      {{ end }}
-      {{ end }}
+        {{ range $key, $value := where $.Site.AllPages "Section" "projekte"}}
+          {{ range .Params.kategorien }}
+            {{ if eq . $title}}
+              {{- partial "projects/tile" $value -}}
+            {{end}}
+          {{ end }}
+        {{ end }}
+
+      {{else }}
+
+        {{ range $key, $value := where $.Site.AllPages "Section" "projekte"}}
+          {{ range .Params.categories }}
+            {{ if eq . $title}}
+              {{- partial "projects/tile" $value -}}
+            {{end}}
+          {{ end }}
+        {{ end }}
+
+      {{end }}
     </ul>
 
+
   </section>
+
+  {{- partial "projects/other_and_archive" . -}}
 </main>
 {{ end }}
