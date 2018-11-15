@@ -30,6 +30,8 @@ TBD
 
 #### Neuer Post
 
+#### Featured!
+
 ### Teammitglieder
 
 #### Neues Mitglied
