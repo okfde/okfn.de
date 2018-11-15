@@ -1,5 +1,4 @@
 ---
-type: archive
 title: "Energyhack"
 website: http://energyhack.de/
 img: projects/energyhack.jpg

@@ -1,9 +1,15 @@
 ---
 type: education
+kategorien:
+  - Bildung
+  - Community
+categories:
+  - education
+  - community
 title: edulabs
 tile: double
 layout: project
-img: projects/edulabs_square_new.jpg
+img: projects/edulabs_Projektübersicht_bigTile.png
 website: https://edulabs.de/
 people:
   - name: Markus Neusch&auml;fer

@@ -1,5 +1,10 @@
 ---
 type: politics
+kategorien:
+  - Offenes Regierungshandeln
+categories:
+  - Open Government
+tile: single
 title: "Volksentscheid Transparenz Berlin"
 website: https://volksentscheid-transparenz.de/
 img: projects/volksentscheid.jpg

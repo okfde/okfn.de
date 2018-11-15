@@ -1,8 +1,13 @@
 ---
 type: politics
+kategorien:
+  - Offenes Regierungshandeln
+categories:
+  - Open Government
+tile: small
 title: "kleineAnfragen"
 website: https://kleineanfragen.de
-img: projects/kleineanfragen.jpg
+img: projects/KleineAnfragen_Projektübersicht_smallTile.png
 people:
 - name: Maximilian Richt
   role: Projektleitung

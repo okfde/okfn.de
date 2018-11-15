@@ -1,11 +1,14 @@
 ---
 type: education
+kategorien:
+  - Bildung
+categories:
+  - education
+tile: double
 title: Demokratielabore
-img: projects/demokratielabore.jpg
+img: projects/Demokratielabore_Projektübersicht_bigTile.png
 layout: project
 people:
-  - name: Tanja Zagel
-    role: Projektleitung
   - name: Jasmin Helm
     role: Projektmanagerin 
   - name: Lydia Böttcher

@@ -1,6 +1,10 @@
 ---
 type: archive
 title: Bundesgit
+kategorien:
+  - Offenes Regierungshandeln
+categories:
+  - Open Government
 website: https://github.com/bundestag/gesetze
 img: projects/bundesgit.jpg
 layout: project

@@ -1,6 +1,10 @@
 ---
 type: education
 title: Daten machen Schule
+kategorien:
+  - Bildung
+categories:
+  - education
 layout: project
 img: projects/datenmachenschule.png
 img_square: projects/datenmachenschule.png

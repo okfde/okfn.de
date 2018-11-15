@@ -1,9 +1,9 @@
 ---
 type: education
-tile: single
+tile: double
 title: Turing-Bus
 layout: project
-img: projects/turing-bus.png
+img: projects/TuringBus_Projektübersicht_bigTile.png
 img_square: projects/turing-bus.png
 background: backgrounds/turing-bus-bg.jpg
 website: https://turing-bus.de

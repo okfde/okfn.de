@@ -1,10 +1,15 @@
 ---
 type: politics
+kategorien:
+  - Offenes Regierungshandeln
+categories:
+  - Open Government
+tile: single
 title: "Offener Haushalt"
 layout: project
 website: http://offenerhaushalt.de/
 background: backgrounds/offenerhaushalt.jpg
-img: projects/offenerhaushalt.jpg
+img: projects/dummy_Projektübersicht_smallTile.png
 people:
 - name: Anna Alberts
   role: Projektleitung

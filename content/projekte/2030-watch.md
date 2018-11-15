@@ -1,7 +1,8 @@
 ---
 type: research
+tile: single
 title: 2030Watch
-img: projects/2030-watch.jpg
+img: projects/dummy_Projektübersicht_smallTile.png
 layout: project
 people:
   - name: Rebecca Varghese Buchholz

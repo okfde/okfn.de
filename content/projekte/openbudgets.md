@@ -1,5 +1,5 @@
 ---
-type: research
+type: archive
 title: Open Budgets
 website: http://openbudgets.eu/
 img: projects/openbudgets.png

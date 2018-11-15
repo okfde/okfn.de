@@ -1,9 +1,9 @@
 ---
 type: education
 kategorien:
-  - Offene Daten
+  - Bildung
 categories:
-  - Open Data
+  - education
 title: Datenschule
 layout: project
 img: projects/datenschule.jpg
@@ -14,8 +14,6 @@ video: "https://www.youtube.com/embed/tE8vx3TFIlM"
 people:
   - name: Anna Alberts
     role: Projektleitung
-  - name: Moritz Neujeffski
-    role: Tech & Workshops
   - name: Jasmin Helm
     role: Kommunikation
   - name: Lisa Passing
@@ -25,7 +23,7 @@ contact:
   twitter: datenschule
   mail: info@datenschule.de
 de:
-  subtitle: Tue Gutes mit Daten. Lernen wie man Daten richtig nutzt.
+  subtitle: Wie man Daten richtig nutzt
   content: |-
       Energiedaten. Umweltdaten. Verkehrsdaten. Immer mehr Daten sind verfügbar. Eine zielgerichte Nutzung der passenden Datensätze kann gerade gemeinnützigen Organisationen dabei helfen, ihre gesellschaftlichen Ziele besser zu erreichen. Doch nur die wenigsten Organisationen verfügen über die erforderlichen Kompetenzen.
 

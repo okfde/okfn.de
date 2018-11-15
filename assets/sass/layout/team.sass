@@ -1,5 +1,8 @@
 .l__team
   max-width: 1140px
+  p 
+    line-height: 1.5
+    font-size: 1.1em
 
 =grid($param)
   li:nth-of-type(3n)
@@ -29,7 +32,7 @@
   img
     display: block
     width: 100%
-    height: 165px
+    height: 200px
     object-fit: cover
 
 
@@ -45,4 +48,4 @@
   //@include media-breakpoint-up(md)
   //  +grid(3em)
   @include media-breakpoint-up(lg)
-    +grid(5em)
+    +grid(3em)

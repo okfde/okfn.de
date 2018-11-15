@@ -7,7 +7,7 @@ categories:
 tile: double
 title: Prototype Fund
 website: http://prototypefund.de
-img: projects/prototypefund.jpg
+img: projects/PrototypeFund_Projektübersicht_bigTile.png
 img_square: projects/prototypefund_square.jpg
 layout: project
 people:

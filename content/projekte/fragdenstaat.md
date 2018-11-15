@@ -7,7 +7,7 @@ categories:
 tile: double
 title: FragDenStaat.de
 layout: project
-img: projects/fragdenstaat.jpg
+img: projects/FragDenStaat_Projektübersicht_bigTile.png
 img_square: projects/fragdenstaat_square.jpg
 background: backgrounds/folders.jpg
 website: https://fragdenstaat.de

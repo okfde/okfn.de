@@ -1,8 +1,13 @@
 ---
 type: politics
+kategorien:
+  - Open Government
+categories:
+  - Open Government
+tile: single
 title: OParl
 website: http://oparl.org/
-img: projects/oparl.jpg
+img: projects/OParl_Projektübersicht_smallTile.png
 layout: project
 people:
 - name: Ernesto Ruge

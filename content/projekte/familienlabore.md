@@ -1,6 +1,10 @@
 ---
 type: education
-title: Die FamilienLabore
+title: Familienlabore
+kategorien:
+  - Bildung
+categories:
+  - education
 img: projects/familienlabore.jpg
 layout: project
 people:

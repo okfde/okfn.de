@@ -1,6 +1,10 @@
 ---
-type: research
-title: DIGIWHIST
+type: archive
+kategorien:
+  - Offenes Regierungshandeln
+categories:
+  - Open Government
+title: Digiwhist
 website: http://digiwhist.eu/
 img: projects/digiwhist.jpg
 layout: project
