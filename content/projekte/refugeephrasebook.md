@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: "refugeephrasebook.de"
 website: https://refugeephrasebook.de
 img: projects/refugeephrasebook.jpg

@@ -4,8 +4,8 @@ weight: 3
 
 
 img:
-  - https://placekitten.com/359/408
-  - https://placekitten.com/359/408
+  - /okf/profil/04.jpg
+  - /okf/profil/05.jpg
 
 arrange: img_bottom
 ---

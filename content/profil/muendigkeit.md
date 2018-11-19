@@ -3,8 +3,8 @@ title: Wir stärken die digitale Mündigkeit und den ethischen Umgang mit Techno
 weight: 5
 
 img:
-  - https://placekitten.com/750/408
-  - https://placekitten.com/362/353
+  - /okf/profil/06.jpg
+  - /okf/profil/07.jpg
 
 arrange: img_bottom_2
 ---

@@ -3,8 +3,8 @@ title: Wir zeigen das demokratische Potential von Technologie
 weight: 1
 
 img:
-  - https://placekitten.com/475/475
-  - https://placekitten.com/456/307
+  - /okf/profil/01.jpg
+  - /okf/profil/02.jpg
 
 arrange: img_top
 ---

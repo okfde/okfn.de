@@ -3,7 +3,7 @@ title: Wir setzen uns für offenes Wissen ein
 weight: 2
 
 img:
-  - https://placekitten.com/751/448
+  - /okf/profil/03.jpg
 
 arrange: img_right
 ---

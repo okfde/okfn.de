@@ -15,7 +15,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Entwickler
+  position: Entwickler Edulabs, Offener Haushalt
   bio: "Edgar setzt sich für die co-kreative Erstellung und Vermittlung von offenem Wissen ein. In Brasilien entwickelte er u.a. Stoa, ein Netzwerk für die Universität Sao Paolo, um Kursmaterialien und OER zu teilen. Als Tech Lead bei Open Knowledge Brazil engagierte er sich in Projekten gegen Korruption und für demokratische Partitizipation. Bei der Open Knowledge Foundation Deutschland arbeitet er aktuell in den Projekten edulabs und Offener Haushalt."
   bio_en:
   mail: edgar.alvarenga@okfn.de
@@ -28,7 +28,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Geschäftsführerin
   bio: "Nadine ist seit Juni 2017 Geschäftsführerin bei der Open Knowledge Foundation Deutschland e.V. Davor war sie als Mitarbeiterin des Auswärtigen Amts die deutsche Stimme in der EU-Ratsarbeitsgruppe für Humanitäre Hilfe. Beim Roten Kreuz arbeitete sie im Bereich Völkerrecht und als Programmleiterin für die Auslandshilfe im Sudan und in Äthiopien. In Haiti und der Dominikanischen Republik leitete sie Projekte im nationalen Katastrophenschutz. Nadine war zuvor unter anderem Geschäftsführerin des Stiftungskollegs der Robert Bosch Stiftung, wissenschaftliche Referentin im Europäischen Parlament und Beraterin bei der Boston Consulting Group."
   mail: nadine.evers@okfn.de
   twitter:
@@ -40,7 +40,7 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position:
+  position: Projektleitung Datenschule
   bio: "Helene begleitete die Open Knowledge Foundation Deutschland von 2013 bis 2018 als Projektleiterin für verschiedene Community- und Technik-Projekte zu den Themen digitale Mündigkeit und Beteiligung, Zugang zu Informationen, politische und kulturelle Bildung. Helene interessiert sich dafür, wie Daten und Technologien für eine positive Gestaltung unserer Gesellschaft eingesetzt werden können. Sie hat verschiedene Projekte konzipiert und umgesetzt, wie z.B. Coding da Vinci, die Datenschule, Offenes Parlament und Jede Schule. Sie ist im international Civic Tech-Netzwerk aktiv, konzipiert partizipative Workshops und spricht auf Konferenzen über digitale Themen, z.B. zu data literacy, open culture und data for good. Helene hat Kulturwissenschaften studiert und macht gerade ihren Masterabschluss in Governance and Human Rights."
   bio_en: "Helene has worked as project lead at the Open Knowledge Foundation Germany from 2013 to 2018. She designed and implemented different community and tech based projects on the topics of digital literacy and participation, access to information, as well as political and cultural education. Helene is interested in how data and technologies can contribute to meaningful social change in our society. Some of her projects include Coding da Vinci, School of Data Germany, Open Parliament and Jede Schule. Currently, Helene is active in the international Civic Tech network, designs participatory workshops and speaks at conferences about data literacy, open culture and data for good. Helene has a background in Social and Cultural Sciences and is currently finishing her master’s degree in Governance and Human Rights."
   mail: helene.hahn@posteo.de
@@ -54,7 +54,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Assistenz der Geschäftsführung
   bio: "Juliane unterstützt die OKF als Referentin der Geschäftsführung und hilft den Demokratielaboren bei der Zahlen- und Tabellenjonglage. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte, am liebsten mit !Cyber!context, und ist immer wieder Teil ehrenamtlicher Projekte des Netzwerks der BücherFrauen des FIfF, außerdem derzeit Teil des Orgateams von Bits&Bäume, der Konferenz für Digitalisierung und Nachhaltigkeit. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
   bio_en: "Juliane works for the OKF as assistance to the management and suppports the Demokratielabore project with their finances. She is also part of the Bits&Bäume team organizing a conference for digitalization and sustainability in Berlin."
   mail: juliane.krueger@okfn.de
@@ -68,7 +68,7 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position:
+  position: Projektleitung Demokratielabore
   bio: "Sebastian leitet seit 2017 die Demokratielabore bei der Open Knowledge Foundation Deutschland. Vorher hat er bei einer gemeinnützigen Stiftung in den Themenfeldern Digitale Bildung und Open Educational Resources gearbeitet. In Bielefeld hat er seinen Abschluss in Erziehungswissenschaft mit den Schwerpunkten Schulpädagogik und Medien gemacht. Sebastian glaubt, dass freie Inhalte Treiber von Innovation im Bildungswesen sein können und ist großer Freund von Open-Source-Software und deren Einsatz in Schule und Unterricht."
   bio_en: "Sebastian is in charge of the Demokratielabore at the Open Knowledge Foundation Germany. Before that he worked for a non-profit foundation in the field of digitization of education and Open Educational Resources. He made his diploma in educational science at Bielefeld University with a focus on school pedagogics and media. Sebastian believes in open content as a driver of innovation in the educational sector. He is a friend of open source software and its usage in schools and classrooms."
   mail: sebastian.seitz@okfn.de
@@ -80,7 +80,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Kommunikation Demokratielabore
   bio: "Jasmin hat Soziologie und Germanistik in Kiel und Potsdam studiert und arbeitet seit Oktober 2016 bei der OKF im Bereich Kommunikation, aktuell in den Projekten Datenschule und Demokratielabore. Zuvor hat sie einige Praktika in Zeitungs- und Fernsehredaktionen absolviert und war ehrenamtlich für Umwelt-NGOs in der Presse- und Öffentlichkeitsarbeit tätig. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie."
   bio_en: "Jasmin studied sociology at Potsdam University and supports the projects \"Datenschule\" and \"Demokratielabore\" since October 2016. The handling of data in a responsible way is a main concern for her."
   mail: jasmin.helm@okfn.de
@@ -93,7 +93,7 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position:
+  position: Projektleitung Prototype Fund
   bio: "Julia hat von 2012 bis 2018 als Projektleiterin bei der Open Knowledge Foundation gearbeitet. Ihr Schwerpunkt liegt auf Projekten im Bereich Open Data und Civic Tech. Sie hat in den letzten Jahren eine Reihe von Community-Projekten umgesetzt, darunter „Stadt Land Code“, Deutschlands ersten Inkubator für Civic Tech und eine Reihe von Open-Data-Hackathons. Aktuell arbeitet sie an dem Projekt Code for Germany, einer deutschlandweiten Community, die digitale Werkzeuge und Anwendungen aus offenen Daten entwickelt. Julia hat Design und Neue Medien studiert und vor der Open Knowledge Foundation an politischen Kommunikationskampagnen mitgearbeitet. Sie engagiert sich im Verein Digitale Gesellschaft e. V. und spricht auf Konferenzen über freies Wissen und offene Tools."
   bio_en: "Julia was project lead at OKF DE from 2012 until 2018. Her work focuses on the areas of Open Data and Civic Tech. She has realized a number of community-driven projects such as StadtLandCode, Germanys first incubator for Civic Tech, and a number of Open Data hackathons. Currently, she is the project lead of Code for Germany, a nationwide civil tech community that builds digital tools and applications using Open Data. Julia studied Design and New Media, and worked in policy campaigns before joining the Open Knowledge Foundation. She is a member of Digitale Gesellschaft e.V. and gives talks on Open Knowledge and Open Tools."
   mail: julia.kloiber@okfn.de
@@ -106,7 +106,7 @@
   staff: 0
   board: 0
   advisory: 0
-  position:
+  position: Projektmanagement Code for Germany
   bio: "Sarina leitet seit Ende 2017 das Projekt «Code for Germany» und ist Expertin für interne und externe Kommunikation. Sie arbeitete als Redakteurin und Datenanalystin beim Blog Jung & Naiv und bei der gemeinnützigen Gesellschaft Correctiv in Berlin und war Übersetzerin des Campus-Startups Junior Entreprise EPFL in Lausanne, Schweiz. Ihre Herzensthemen sind digitale Bildung, Inklusion und IT-Sicherheit."
   bio_en: "Since the end of 2017, Sarina leads the project „Code for Germany“. She is an expert for internal and external communications. As a journalist and data analyst, she has worked with the blog Jung & Naiv and with the non-profit organization Correctiv in Berlin, and has translated for the campus startup Junior Entreprise EPFL in Lausanne, Switzerland. Subjects most dear to her include digital education, inclusion and IT security."
   mail: sarina.balkhausen@okfn.de
@@ -119,7 +119,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung Demokratielabore
   bio: "Lydia unterstützt das Team der Demokratielabore im Bereich des Projektmanagements politische Jugendbildung. Sie hat Erziehungs- und Bildungswissenschaft an der Freien Universität Berlin studiert und ist schnell in die Bildungsarbeit im Bereich der Jugendbeteiligung eingetaucht. Die Begleitung und Unterstützung von jugendlichen Freiwilligen im Programm des Freiwilligen Jahres Beteiligung sowie für den Landesjugendring Berlin e.V. haben sie einige Jahre beschäftigt und begeistert. Nebenbei gründete sie mit anderen Freiberufler_innen zusammen das stuhlkreis_revolte Kollektiv, ein Kollektiv für emanzipatorische Bildungsarbeit und Prozessbegleitung. Neben der Arbeit in den Demokratielaboren ist sie weiterhin freiberuflich tätig und immer auf der Suche nach neuen Herausforderungen."
   bio_en: "Lydia unterstützt das Team der Demokratielabore im Bereich des Projektmanagements politische Jugendbildung. Sie hat Erziehungs- und Bildungswissenschaft an der Freien Universität Berlin studiert und ist schnell in die Bildungsarbeit im Bereich der Jugendbeteiligung eingetaucht. Die Begleitung und Unterstützung von jugendlichen Freiwilligen im Programm des Freiwilligen Jahres Beteiligung sowie für den Landesjugendring Berlin e.V. haben sie einige Jahre beschäftigt und begeistert. Nebenbei gründete sie mit anderen Freiberufler_innen zusammen das stuhlkreis_revolte Kollektiv, ein Kollektiv für emanzipatorische Bildungsarbeit und Prozessbegleitung. Neben der Arbeit in den Demokratielaboren ist sie weiterhin freiberuflich tätig und immer auf der Suche nach neuen Herausforderungen."
   mail: lydia.boettcher@okfn.de
@@ -133,7 +133,7 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position:
+  position: Projektleitung Jugend hackt
   bio: "Maria Reimer ist Projektleiterin von Jugend hackt. Sie hat Public Administration und Public Policy in Münster, Enschede (Niederlande) und Erfurt studiert. Neben der Open Knowledge Foundation Deutschland arbeitet sie halbtags für eine Bundestagsabgeordnete. Ehrenamtlich setzt sich Maria im Führungskreis von Transparency International Deutschland für Informationsfreiheit ein."
   bio_en: "Maria Reimer is project lead for Jugend hackt. She studied Public Administration and Public Policy. Next to OKF DE, she works part-time for a member of the German parliament and actively promotes the Freedom of Information Act (FOI) as a Transparency International Germany volunteer."
   mail: maria.reimer@okfn.de
@@ -145,7 +145,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektmanagement Prototype Fund
   bio: "Adriana ist Teil des Prototype Fund-Teams und kümmert sich um das Program Management. Zuvor hat sie Politikwissenschaft und European Public Policy and Administration in Frankfurt am Main und Maastricht studiert. Sie interessiert sich sehr für demokratische Innovationen und die Frage, wie Partizipation und gesellschaftlicher Austausch besser funktionieren könnten. 2016 hat Adriana das Projekt wepublic gestartet, das digitale Kommunikation zwischen Bürgern und Politikern verbessern soll."
   bio_en: "Adriana is part of the Prototype Fund Team and responsible for the program management. Previously, Adriana studied Political Science and European Public Policy and Governance in Frankfurt am Main and in Maastricht. She is interested in how digital tools can improve democratic participation and communication. In 2016, Adriana started the project wepublic that aims connect societal and political interests."
   mail: adriana.groh@okfn.de
@@ -157,7 +157,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung Jugend hackt
   bio: "Paula arbeitet für die Demokratielabore als Projektkoordinatorin und für Jugend hackt. Über Jugend hackt hat sie auch ihre Masterarbeit im Studiengang „Medien in der Bildung“ an der PH Freiburg geschrieben. Davor hat sie u.a. für das Fraunhofer Institut gearbeitet und Dokumentarfilme gedreht. Offene Daten findet Paula super, weil sie zu aktiver demokratischer Partizipation einladen."
   bio_en: "Paula is working for \"Demokratielabore\" and for \"Jugend hackt\". \"Jugend hackt\" was part of her master thesis on Media and Education at the PH Freiburg. Previously, she worked for the Fraunhofer Institute and has filmed documentaries. Paula finds Open Data interesting and important because it stimulates active democratic participation."
   mail: paula.gruenwald@okfn.de
@@ -169,8 +169,8 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
-  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte \"DatenmachenSchule\" und \"Turing-Bus\". Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
+  position: Projektleitung Turing-Bus
+  bio: "Bela arbeitet bei der Open Knowledge Foundation Deutschland als Projektleiter der Bildungsprojekte „DatenmachenSchule“ und „Turing-Bus“. Als Techniksoziologe interessiert er sich für von der Gesellschaft ausgehende Transformationsprozesse im Bereich der Open Knowledge, Open Source, Open Hardware und Open Education Bewegung, bei denen zivilgesellschaftliche Akteure zu aktiven Mitgestalter*innen werden."
   bio_en: "Bela works at the Open Knowledge Foundation Germany as project manager of the educational projects \"DatenmachenSchule\" and \"Turing-Bus\". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators*."
   mail: bela.seeger@okfn.de
   twitter: bela_data
@@ -181,7 +181,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektmanagement Prototype Fund
   bio: "Fiona ist seit 2014 dabei und betreut und berät als Community Organizerin im Projekt Code for Germany über 20 Open Knowledge Labs in Deutschland. Nebenbei studiert sie Techniksoziologie an der Technischen Universität Berlin. Privat engagiert sie sich seit einigen Jahrem im Bereich der digitalen Alphabetisierung, im Chaos Computer Club und interessiert sich für Gleichberechtigung in der IT. 2016 leitete Fiona das Projekt „Digital Refugee Labs“ im Rahmen von Code for Germany."
   bio_en: "Fiona has been with OKF DE since 2014 and is Code for Germany's Community Organizer. She supports 20 Open Knowledge Labs together with Julia and Eileen and studies the sociology of technology at the Technical University in Berlin. She has strong ties to a number of different NGOs that are connected to OKF DE's work and has been active in the field of digital literacy for a number of years. In 2016, Fiona will be Project Lead in the Code for Germany project 'Digital Refugee Labs'."
   mail: fiona.krakenbuerger@okfn.de
@@ -195,7 +195,7 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position:
+  position: Projektmanagement Prototype Fund
   bio: "Eileen ist seit Juli 2015 bei der Open Knowledge Foundation und arbeitet in den Projekten Code for Germany und Prototype Fund. Sie hat einen Bachelor in Philosophie und einen Master in Logik."
   bio_en: "Eileen is part of the team behind Code for Germany and the Prototype Fund. She studied philosophy and logic."
   mail: eileen.wagner@okfn.de
@@ -208,7 +208,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung Prototype Fund
   bio: "Elisa ist Projektleiterin des Prototype Funds. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
   bio_en: "Elisa ist project lead of the Prototype Fund. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
   mail: elisa.lindinger@okfn.de
@@ -221,8 +221,8 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
-  bio: "Katharina ist Teil des Prototype Fund-Teams und kümmert sich dort um Kommunikation, Outreach und Weiterentwicklung des Programms. Sie ist Technikhistorikerin, forscht zu sozialen Entwicklungsumgebungen und kuratiert Wissen und Objekte für Museen, Projekte oder Konferenzen wie die re:publica. Sie interessiert sich für die Frage, wie Transdisziplinarität in der Technologieentwicklung zu einer höheren Anwendersensibilität führen kann. 2016 hat Katharina mit einer Kollegin das Projekt Polynocular Tech Lab gestartet, das transdisziplinäre Ansätze in der Hard-, Software- oder Prozessentwicklung befördert und war damit u.a. Fellow am Center for Advanced Internet Studies. In ihrem \"ersten Leben\" bei der OKFN 2013/14 war Katharina Project Lead bei DARIAH-DE."
+  position: Projektmanagement Prototype Fund
+  bio: "Katharina ist Teil des Prototype Fund-Teams und kümmert sich dort um Kommunikation, Outreach und Weiterentwicklung des Programms. Sie ist Technikhistorikerin, forscht zu sozialen Entwicklungsumgebungen und kuratiert Wissen und Objekte für Museen, Projekte oder Konferenzen wie die re:publica. Sie interessiert sich für die Frage, wie Transdisziplinarität in der Technologieentwicklung zu einer höheren Anwendersensibilität führen kann. 2016 hat Katharina mit einer Kollegin das Projekt Polynocular Tech Lab gestartet, das transdisziplinäre Ansätze in der Hard-, Software- oder Prozessentwicklung befördert und war damit u.a. Fellow am Center for Advanced Internet Studies. In ihrem „ersten Leben“ bei der OKFN 2013/14 war Katharina Project Lead bei DARIAH-DE."
   bio_en: "Katharina ist Teil des Prototype Fund-Teams und kümmert sich dort um Kommunikation, Outreach und Weiterentwicklung des Programms. Sie ist Technikhistorikerin, forscht zu sozialen Entwicklungsumgebungen und kuratiert Wissen und Objekte für Museen, Projekte oder Konferenzen wie die re:publica. Sie interessiert sich für die Frage, wie Transdisziplinarität in der Technologieentwicklung zu einer höheren Anwendersensibilität führen kann. 2016 hat Katharina mit einer Kollegin das Projekt Polynocular Tech Lab gestartet, das transdisziplinäre Ansätze in der Hard-, Software- oder Prozessentwicklung befördert und war damit u.a. Fellow am Center for Advanced Internet Studies. In ihrem \"ersten Leben\" bei der OKFN 2013/14 war Katharina Project Lead bei DARIAH-DE."
   mail: katharina.meyer@okfn.de
   twitter: KthrnMeyer
@@ -234,7 +234,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung
   bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er an den Projekten Open Data Incubator for Europe (ODINE), einem H2020-Forschungsprojekt und am Digitalen Offenheitsindex [do:index]. Außerdem betreut er den Open Data Census. Nach Berlin kam er 2012 als Co-Founder eines Startups. Zuvor arbeitete er fünf Jahre als Sysadmin in New York City."
   bio_en: "Walter is an economist by training and has been involved in the domain of Netzpolitik for many years. He is project lead of the EU research project Open Data Incubator (ODINE), the Digitaler Offenheitsindex [do:index], and supervises the Open Data Census.  He worked as a system administrator in NYC, before moving to Berlin, where he co-founded a start-up in 2012."
   mail: walter.palmetshofer@okfn.de
@@ -246,7 +246,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung Code for Germany, Open Government Netzwerk
   bio: "Michael betreut die Code For Germany Community und arbeitet gemeinsam mit den OK Labs an nützlichen Anwendungen rund um offene Daten. Zudem koordiniert er das zivilgesellschaftliche Open Government Netzwerk, welches sich für mehr offenes Regierungs- und Verwaltungshandeln einsetzt. Michael hat Volkswirtschaft (M.Sc.) und Politikwissenschaft (B.A.) studiert und interessiert sich insbesondere für Netzpolitik. Er arbeitet seit 2016 bei der Open Knowledge Foundation."
   bio_en: "Michael organizes the Code For Germany community and works together with the OK Labs on useful applications around open data. He also coordinates the Open Government Civil Society Network, which advocates for more Open Government in Germany. Michael studied economics (M.Sc.) and political science (B.A.) and is particularly interested in digital policy issues. He has been with the Open Knowledge Foundation since 2016."
   mail: michael.peters@okfn.de
@@ -259,7 +259,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung FragDenStaat
   bio: "Arne ist bei der Open Knowledge Foundation Projektleiter des Portals FragDenStaat.de und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet nebenbei als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus, unter anderem im Führungskreis von Transparency International und im Beirat des Whistleblower-Netzwerks."
   bio_en: "Arne leads FragDenStaat.de and is an expert in the domain of Freedom of Information (FOI). With a background in political science, he also works as a freelance journalist and engages with other NGOs in topics related to transparency and lobbyism, e.g. for Hochschulwatch.de and the Whistleblower Network."
   mail: arne.semsrott@okfn.de
@@ -273,7 +273,7 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position:
+  position: Entwickler Datenschule
   bio: "Knut arbeitete von 2015 bis 2018 als Entwickler für die Open Knowledge Foundation. Er hat Informatik an der TU Berlin studiert und unterstützte vor allem die Projekte Coding da Vinci, Datenschule und Transparenzranking. Knut findet es spannend Geschichten mit Daten zu erzählen und durch die Nutzung verschiedener Quellen neue Erkenntnisse zu gewinnen."
   bio_en: "Knut works as a programmer with Open Knowledge Foundation Deutschland since February 2015. He is currently enrolled at TU Berlin (computer science) and supports our projects with his technical expertise. He focusses on mobile applications and web development, and is founding member of the project Mnemosyne, developing new forms of access to archives of cultural heritage institutions."
   mail: knut.perseke@okfn.de
@@ -287,7 +287,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung Edulabs
   bio: "Dr. Markus Neuschäfer arbeitet seit Januar 2015 als Projektleiter bei der Open Knowledge Foundation. Aktuell arbeitet er an dem OER-Projekt edulabs und betreut die Zusammenarbeit mit DARIAH-DE in den Bereichen Digital Humanities und Open Science. Markus engagiert sich für offene Daten in Bildung, Wissenschaft und Kultur; besonders interessiert ihn die Entwicklung von Sichtbarkeit mit freien Inhalten. Zuvor promovierte er in Germanistik, war an der Uni Göttingen tätig und arbeitete als Business Development Manager im Verlagswesen."
   bio_en: "Markus is project lead of edulabs and DARIAH-DE, he focuses on education,  Digital Humanities and Open Science. He engages with Open Data in Science and Culture and is especially curious about the visibility of open content and open educational resources. He holds a PhD German Philology, worked at the University of Göttingen and developed Open Science business models in publishing. He also supports the volunteer platform refugeephrasebook.de with webdesign and coordination."
   mail: m.neuschaefer@okfn.de
@@ -300,7 +300,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektmanagement edulabs
   bio: "Maximilian Voigt unterstützt das Projekt [edulabs](https://okfn.de/projekte/edulabs/). Zudem engagiert er sich in offenen Werkstätten, beschäftigt sich mit Physical Computing und setzt sich für freie Bildung sowie Open Hardware ein. Maximilian mitbegründete den FabLab Cottbus e.V. und studierte Technikjournalismus, Public Relations sowie Kultur und Technik. Seine Masterarbeit schrieb er über das Bildungspotenzial offener Werkstätten."
   bio_en: "Maximilian Voigt supports the project edulabs as an assistent. Further more he campaigns for fabrication laboratories, is engaged in physical computing and supports free education. Before his work at the OKF he co founded the FabLab Cottbus e.V., studied technical journalism, public relations and culture and technology. His master thesis was about the educational potential of open workshops."
   mail: maximilian.voigt@okfn.de
@@ -314,7 +314,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung Datenschule
   bio: "Anna Alberts leitet bei der Open Knowledge Foundation Deutschland das EU-Forschungsprojekt OpenBudgets.eu. Anna hat Internationale Entwicklungsstudien und Internationale Beziehungen studiert und als Referentin mit den Schwerpunkten Daten- und Geopolitik im Planungsstab des Außenministeriums der Niederlande gearbeitet. Ehrenamtlich setzt sich Anna beim Peace Innovation Lab Berlin für die Förderung von Social Innovation-Projekten ein."
   bio_en: "Anna Alberts leads the EU research project OpenBudgets.eu. She has a degree in international development studies and international relations and worked as desk officer for data- and geopolitics at the Ministry of Foreign Relations of the Netherlands. Anna develops Social Innovation projectsat the Peace Innovation Lab in Berlin."
   mail: anna.alberts@okfn.de
@@ -344,7 +344,7 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position:
+  position: Projektleitung Digiwhist
   bio: "Mara Mendes leitete das EU-Forschungsprojekt DIGIWHIST, das öffentliche Beschaffungsprozesse transparenter und effizienter gestalten soll. Bevor sie zur Open Knowledge Foundation Deutschland kam, hat sie für das internationale Sekretariat von Transparency International im Bereich Advocacy und Kampagnen gearbeitet. Mara interessiert sich vor allem für innovative Konzepte in der Korruptionsbekämpfung und Prävention. Sie hat einen Master in Media, Communication and Development und einen Bachelor in Soziologie, Politik und Medienwissenschaften."
   bio_en: "Mara Mendes is project lead of the EU research project The Digital Whistleblower: Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed. The central objective of DIGIWHIST is to improve trust in governments and efficiency of public spending across Europe. Previously, she has worked in the area of advocacy and campaigning with Transparency International. Mara is interested in fighting against and preventing corruption. She holds a masters degree in Media, Communication and Development and a Bachelor in Sociology, Politics and Media Science."
   mail: mara.mendes@okfn.de
@@ -407,6 +407,7 @@
   board: 0
   board_alumni: 0
   advisory: 0
+  position: Entwicklung FragDenStaat
   bio: "Stefan Wehrmeyer engagiert sich seit 2009 für Open Data. Im Jahr 2011 startete er das Informationsfreiheitsportal [FragDenStaat.de](https://fragdenstaat.de/)."
   bio_en: "Since 2009 Stefan Wehrmeyer promotes Open Data and he started the Freedom of Information (FOI) portal FragDenStaat.de in 2011."
   mail: stefan.wehrmeyer@okfn.de
@@ -486,7 +487,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Entwicklung kleineAnfragen
   bio: "Maximilian hat kleineAnfragen.de und sehrgutachten.de entwickelt. Für die Open Knowledge Foundation Deutschland arbeitet er ehrenamtlich aus Süddeutschland."
   bio_en: "Maximilian created kleineAnfragen.de and sehrgutachten.de. For the Open Knowledge Foundation Germany he works on a voluntary basis from Southern Germany, where he lives."
   mail: "maximilian.richt@okfn.de"
@@ -500,7 +501,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Entwicklung OParl
   bio: "Ernesto betreut und entwickelt Politik bei Uns mit der Schnittstelle OParl und damit das weite Thema kommunale Transparenz und Ratsinformationssysteme. Außerdem arbeitet er mit Mobilitätsdaten / regenerativer Energie und betreut die Blogfarm der Open Knowledge Foundation. Er ist selbstständiger Berater und Entwickler."
   bio_en: "Ernesto supervises and develops the projects Politik bei Uns and OParl and therefore the topic local transparency and local government information systems. Additionally, he works with mobility data / renewable energy sources and administrates the OKF-DE blogfarm. He works as a self-employed consultant and developer."
   mail: "ernesto.ruge@okfn.de"
@@ -515,7 +516,7 @@
   board: 0
   board_alumni: 1
   advisory: 0
-  position:
+  position: Projektmanagement Datenschule
   bio: "Moritz arbeitete im Projekt Datenschule. Er gab Workshops und unterstützte NGOs in der Datenanalyse und der datengestützten Kampagnenarbeit. Moritz hat an der Universität Maastricht European Studies und Public Policy and Human Development studiert und ist nebenher am Wissenschaftszentrum Berlin aktiv."
   bio_en: "Moritz worked at the School of Data. He gave workshops and supported NGOs in analysing and using data for their campaigning efforts. Moritz studied European Studies and Public Policy and Human Development at Maastricht University and is also active at the Berlin Social Science Center."
   mail: "moritz.neujeffski@okfn.de"
@@ -529,7 +530,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektleitung 2030watch
   bio: "Seit April 2017 leitet Rebecca 2030Watch, das Monitoring-Projekt zur deutschen Nachhaltigkeitsstrategie. Davor war Rebecca Referentin für Welthandel und Investitionsabkommen bei Traidcraft in London und wissenschaftliche Mitarbeiterin bei dem United Nations Research Institute (UNRISD) for Social Development in Genf. Rebecca studierte Volkswirtschaft mit Schwerpunkt Entwicklungspolitik an der School of African and Oriental Studies (University of London) und der University of Cambridge und hat ein Graduate Diploma in Law (London College of Law)."
   bio_en: "Since April 2017, Rebecca manages 2030Watch, a civil society monitoring project of SDGs’ implementation in Germany. Prior to joining OKF, Rebecca worked as a Senior Policy Adviser for international trade and investment treaties at Traidcraft in London and as a Research Analyst for the United Nations Research Institute (UNRISD) for Social Development in Geneva. Rebecca graduated in Economics and Development Studies from the School of African and Oriental Studies (BA hons) and the University of Cambridge (MPhil) and holds a Graduate Diploma in Law (London College of Law)."
   mail: "rebecca.buchholz@okfn.de"
@@ -555,7 +556,7 @@
   staff: 0
   board: 0
   advisory: 0
-  position:
+  position: Projektmanagement 2030watch
   bio: "John arbeitet als studentische Hilfskraft für 2030Watch und ist dort vornehmlich für Kommunikation zuständig. In Wien hat John internationale Entwicklungspolitik studiert und befindet sich derzeit im Master „Contemporary European Studies: politics, policy and society“ an der University of Bath und der HU Berlin. Praktika absolvierte er unter anderem bei der deutschen Vertretung im UN-Menschenrechtsrat in Genf und beim Deutschlandfunk Kultur in Berlin."
   bio_en: "John is a working student at 2030Watch and mainly responsible for communication and research assistance. In Vienna John majored in development studies and currently studies for his postgraduate degree in „Contemporary European Studies: politics, policy and society“ at the Humboldt University Berlin. As an intern John worked for the German permanent mission to the UN Human Rights Council in Geneva and Deutschlandfunk Kultur broadcasting in Berlin."
   mail: "john.langlo@okfn.de"
@@ -569,7 +570,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Studentische Hilfskraft Demokratielabore
   bio: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Nach seinem Schulabschluss im Juli 2016 begann er seinen Bundesfreiwilligendienst bei der Open Knowledge Foundation. Seit September 2017 ist Leonard als studentischer Mitarbeiter bei den Demokratielaboren. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
   bio_en: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Nach seinem Schulabschluss im Juli 2016 begann er seinen Bundesfreiwilligendienst bei der Open Knowledge Foundation. Seit September 2017 ist Leonard als studentischer Mitarbeiter bei den Demokratielaboren. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
   mail: "leonard.wolf@okfn.de"
@@ -582,7 +583,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektmanagement Demokratielabore
   bio: "Mat tüftelt seit 2017 an verrückten Workshopformaten der FamilienLabore und der Demokratielabore. Als Interaktionsdesigner setzt er sich generell für einen künstlerischen und kreativen Umgang mit Spielen und Spielmechaniken ein. In Form von Workshops, Talks und Festivals engagiert er sich darüber hinaus in der Initiative Creative Gaming, veranstaltet Spielkultur-Events wie temporäre Escape-Games, XBox-Rock Battles, GameJams und Nacherzähl-Wettbewerbe mit dem Gamestorm-Team, präsentiert und moderiert eine Machinima-Kinoshow und co-organisiert mit A MAZE. Veranstaltungen wie das europäische Indiegames Festival. Nebenbei koordiniert Mat und das Team des Code Week Awards weiterhin die Aktivitäten der deutschen Code Week."
   bio_en: "Mat is working on crazy workshops for the FamilyLabs and the DemocracyLabs since 2017. As an interaction designer, he is researching playful interaction and gives workshops around the world. He is also engaged in workshops, talks and festivals of the Initiative Creative Gaming to establish an artistic and creative use of games by kids, stages gamejams and game-culture events like temporary escape games, XBox-Rock Battles or retell contests with the Gamestorm-team, shows game movies at a Machinima cinema and co-organizes A MAZE. events like the European indiegamefestival. In addition, Mat is coordinating the activities of the German Code Week together with the old Code Week Award team."
   mail: "matthias.loewe@okfn.de"
@@ -595,7 +596,7 @@
   staff: 0
   board: 0
   advisory: 0
-  position:
+  position: Projektmanagement Prototype Fund
   bio: "Jessica gehört zum Team des Prototype Fund. Sie kümmert sich um Kommunikation und arbeitet an der Weiterentwicklung des Projekts mit. Jessica hat zuvor mehrere Jahre lang als Journalistin gearbeitet. Sie hat für überregionale Medien in Deutschland über Digitalisierung, Netzpolitik und Netzaktivismus berichtet. Sie setzt sich dafür ein, dass mehr Menschen die Digitalisierung mitgestalten können."
   bio_en: "Jessica is part of the Prototype Fund team. She is the communications lead and contributes to strategic development of the project. Previously, Jessica has worked as a journalist for several years. She has covered technology with a focus on tech politics, activism and civil society, and has written for large German media outlets. Her goal is to contribute to making technology more open and to enable more people to contribute to this space."
   mail: "jessica.binsch@okfn.de"
@@ -609,7 +610,7 @@
   staff: 0
   board: 0
   advisory: 0
-  position:
+  position: Stipendiat
   bio: "Xiaowei arbeitet seit November 2016 im Rahmen des Bundeskanzler-Stipendiums bei der Open Knowledge Foundation Deutschland als Gastwissenschaftlerin und forscht zu Informationsfreiheit in Deutschland."
   bio_en: "Xiaowei works in the frame of German Chancellor Fellowship since November 2016 for Open Knowledge Foundation as Visiting Scholar. Her project is Freedom of Information in Germany."
   mail: "xiaowei.chen@okfn.de"
@@ -768,7 +769,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Projektmanagement Jugend hackt
   bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei 2030Watch."
   bio_en: "Saadya has been working for the Open Knowledge Foundation since January 2017 and is a projekt manager at the 2030Watch."
   mail: saadya.windauer@okfn.de
@@ -780,7 +781,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: Design Demokratielabore
   bio: "Nadine ist Informations- und Interfacedesignerin und seit Januar 2017 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
   bio_en: "Nadine ist Informations- und Interfacedesignerin und seit Januar 2017 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
   mail: "nadine.stammen@okfn.de"
@@ -792,7 +793,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position:
+  position: studentische Hilfskraft Demokratielabore
   bio: "Lea ist seit September 2017 bei der OKF und unterstützt als studentische Mitarbeiterin die Demokratielabore. Sie studiert Politikwissenschaften an der FU Berlin und beschäftigt sich außerdem im Rahmen des Europäischen Jugendparlaments mit politischer Jugendbildung im Zusammenhang mit Medien. "
   bio_en: "Lea has been working for the OKF since September 2017 in the project Demokratielabore. She studies Political Science at the FU Berlin and, working with the European Youth Parliament, explores the significance of media in policial youth education. "
   mail: "lea.pfau@okfn.de"
@@ -804,7 +805,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position: false
+  position: Entwicklung Datenschule
   bio: "Lisa ist im April 2018 als Entwicklerin bei der OKF eingestiegen. Sie mag Privatsphäre."
   bio_en: "Lisa entered the OKF in April 2018 as developer. She likes privacy."
   mail: lisa.passing@okfn.de
@@ -818,7 +819,7 @@
   board: 0
   advisory: 0
   board_alumni: 0
-  position:
+  position: Projektmanagement Jugend hackt
   bio: "Sonja arbeitet als Projektmanagerin für die Demokratielabore und ist bei Jugend hackt Projektleiterin für Lab-Aufbau und Fundraising. Sie hat Archäologie studiert und arbeitete sechs Jahre lang auf Ausgrabungen sowie als Museumspädagogin, bevor sie ihre Schaufel gegen einen Laptop tauschte: Als selbstständige Beraterin seit 2014 hat Sonja schon mehrere Community-Projekte im Bereich Technologie und Freies Wissen koordiniert, Hackathons organisiert und Diversity-Maßnahmen entwickelt. Seit 2018 verstärkt sie das Team der Open Knowledge Foundation Deutschland in Berlin."
   bio_en: "Sonja works as project manager for Demokratielabore and as project lead for Jugend hackt, where she coordinates lab set-up and fundraising. She studied archaeology and has worked at excavations as well as in museum education, before she traded her shovel for a laptop: As a freelance consultant since 2014, Sonja coordinated multiple community-projects in the field of technology and Free Knowledge, organised hackathons and developed diversity-measures. Since 2018 she’s part of the team at Open Knowledge Foundation Germany in Berlin."
   mail: sonja.fischbauer@okfn.de
@@ -832,7 +833,7 @@
   board: 0
   advisory: 0
   board_alumni: 0
-  position:
+  position: Projektmanagement Jugend hackt
   bio: "Philip ist seit August 2018 bei der Open Knowledge Foundation und kümmert sich als Community-Manager im Projekt Jugend hackt um die Kommunikation. Er war schon immer gerne Erklärbär und hat sich die letzten zehn Jahre in der Makerszene herumgetrieben – als Makerspace-Gründer, Blogger, Technikjournalist und Maker-Faire-Kurator."
   bio_en: "Philip joined Open Knowledge Foundation Germany in August 2018 as the new Community Manager of Jugend hackt. He's always loved to connect, communicate and explain and has played an important part in the German Maker community in the past years as a makerspace founder, blogger, tech journalist and curator of Maker Faires."
   mail: philip.steffan@okfn.de
@@ -844,21 +845,21 @@
   board: 0
   advisory: 0
   board_alumni: 0
-  position:
-  bio: "Doris ist Kommunikationsdesignerin und unterstützt das Team »Jugend hackt«. Mit Spezialisierung auf Markenentwicklung hat sie bereits für globale Unternehmen gearbeitet und bringt neben Ideen und Inspiration auch jede Menge Erfahrung mit. Sie interessiert sich für nachhaltiges Design und dafür, wie die fortschreitende Digitalisierung die Gesellschaft verändert. Dabei verliert sie nie den Blick fürs wesentliche: Ein starkes Konzept sowie der effiziente Transport von Inhalten stehen bei ihr an oberster Stelle."
+  position: Design Jugend hackt
+  bio: "Doris ist Kommunikationsdesignerin und unterstützt das Team „Jugend hackt“. Mit Spezialisierung auf Markenentwicklung hat sie bereits für globale Unternehmen gearbeitet und bringt neben Ideen und Inspiration auch jede Menge Erfahrung mit. Sie interessiert sich für nachhaltiges Design und dafür, wie die fortschreitende Digitalisierung die Gesellschaft verändert. Dabei verliert sie nie den Blick fürs wesentliche: Ein starkes Konzept sowie der effiziente Transport von Inhalten stehen bei ihr an oberster Stelle."
   bio_en: "Doris is a communication designer and supports the »Jugend hackt« team. Specializing in brand development, she has already worked for global companies and brings a wealth of experience in addition to ideas and inspiration. She is interested in sustainable design and how advancing digitalization is changing society. At the same time, she never loses sight of the essential: A strong concept and the efficient transport of content are her top priorities."
   mail: doris.jantoljak@okfn.de
   twitter:
   website: https://jantoljak.de/
   
 - name: Sebastian Schröder
-  title: 
+  title: Bundesfreiwilligendienst Jugend hackt, FragDenStaat
   img: sebastianschroeder
   staff: 1
   board: 0
   advisory: 0
   position: 
-  bio: "Sebastian Schröder hat schon mehrmals bei »Jugend hackt« teilgenommen und beginnt 2018 seinen Bundesfreiwilligendienst. Dabei wird er das Team von »Jugend hackt« bei der Organisation der Events unterstützen und die verschiedenen Projekte der Open Knowledge Foundation kennenlernen."
+  bio: "Sebastian Schröder hat schon mehrmals bei „Jugend hackt“ teilgenommen und beginnt 2018 seinen Bundesfreiwilligendienst. Dabei wird er das Team von »Jugend hackt« bei der Organisation der Events unterstützen und die verschiedenen Projekte der Open Knowledge Foundation kennenlernen."
   bio_en: "Sebastian Schröder has already taken part in »Jugend hackt« several times and will start his voluntary service in 2018. He will support the team of »Jugend hackt« in organizing the events and get to know the different projects of the Open Knowledge Foundation."
   mail: sebastian.schroeder@okfn.de
   twitter:

@@ -1,5 +1,9 @@
 ---
 type: archive
+kategorien:
+  - Community
+categories:
+  - Community
 title: "Apps and the city"
 website: http://appsandthecity.net
 img: projects/appsandthecity.jpg

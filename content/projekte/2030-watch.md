@@ -1,6 +1,5 @@
 ---
 type: research
-tile: single
 title: 2030Watch
 img: projects/dummy_Projektübersicht_smallTile.png
 layout: project

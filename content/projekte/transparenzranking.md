@@ -1,7 +1,8 @@
 ---
 type: politics
+tile: single
 title: Transparenzranking
-img: projects/transparenzranking.jpg
+img: projects/dummy_Projektübersicht_smallTile.png
 layout: project
 people:
   - name: Arne Semsrott

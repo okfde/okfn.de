@@ -21,9 +21,7 @@ Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen
 ### Das wichtigste in Kürze
 
 [Programm der Veranstaltung](https://www.bmjv.de/DE/Veranstaltungen/Anmeldeportal/Events/SVRV/SVRV_Anmeldung_node.html)
-
 [Übersichtsseite zu „Verbrauchergerechtes Scoring“ (Sachverständigenrat)](http://www.svr-verbraucherfragen.de/dokumente/verbrauchergerechtes-scoring/)
-
 [Technische und rechtliche Betrachtungen algorithmischer Entscheidungsverfahren
 (Gesellschaft für Informatik e. V.)](http://www.svr-verbraucherfragen.de/dokumente/technische-und-rechtliche-betrachtungen-algorithmischer-entscheidungsverfahren/)
 
@@ -34,19 +32,12 @@ Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen
 
 
 1. Scoring für den Verbraucher verständlich machen
-
 2. Scoring-Wissen und Kompetenz fördern
-
 3. Diskriminierung prüfen und offenlegen
-
 4. telematikfreie Option sicherstellen
-
 5. Score-Qualität gewährleisten
-
 6. Datenqualität sichern
-
 7. Aufsicht verbessern
-
 8. Super-Scores
 
 ![Empfehlungen](/files/blog/2018/10/img-20181031-empfehlungen.jpg "Empfehlungen")<br>
@@ -54,18 +45,14 @@ Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen
 
 Aus den Handlungsempfehlungen:
 
-<i>"Das Potenzial digitalen Scorings kann nur ausgeschöpft
-werden, wenn eine Reihe von gesellschaftlich legitimen
-erwartungen erfüllt sind. nur dann wird es von Verbrau­
-chern auch akzeptiert werden und nur dann wird es ih­
-nen zunutze sein."</i>
+„Das Potenzial digitalen Scorings kann nur ausgeschöpft werden, wenn eine Reihe von gesellschaftlich legitimen Erwartungen erfüllt sind. Nur dann wird es von Verbrau­chern akzeptiert werden und ih­nen zunutze sein.“
 
 Das war unser Antrieb für OpenSchufa.
 
 
-1. Scoring verständlicher machen
+### Scoring verständlicher machen
 
-<i>Die ergebnisse der repräsentativen Bevölkerungsbe­
+Die ergebnisse der repräsentativen Bevölkerungsbe­
 fragung zeigen im detail, dass das Wissen über die ver­
 wendeten merkmale im Bereich des Bonitäts­scorings
 neben dem alter davon abhängt, ob eine person in den
@@ -76,30 +63,30 @@ zu haben. Interessant ist auch, dass die Befragten
 mehrheitlich dagegen sind, eine Rückmeldung zu ihrem
 Score-Wert zu erhalten; knapp die Hälfte möchte grund­
 sätzlich (mit unterschiedlicher Häufigkeit) darüber aktiv
-informiert werden.</i>
+informiert werden.
 
-Fast 50% der Bevölkerung wünscht sich einen transparenteren Umgang.
+<b>Fast 50% der Bevölkerung wünscht sich einen transparenteren Umgang.</b>
 
 
-<i>Festzustellen, welche merkmale für
+Festzustellen, welche Merkmale für
 Verbraucher wesentlich sind, kann nicht nur
 Aufgabe des Gesetzgebers sein, sondern sollte
 auch Aufgabe von Verbraucherorganisationen
-oder der „marktwächter“ der Verbraucherzentralen sein.
+oder der „Marktwächter“ der Verbraucherzentralen sein.
 Eine vollständige Offenlegung der
 Scores und ihrer Eigenschaften gegenüber Aufsichtsbehörden ist in jedem Fall notwendig (vgl.
-das SVRV Gutachten "Digitale Souveränität).</i>
+das SVRV Gutachten "Digitale Souveränität).
 
-Dieser Forderung schließen wir uns an.
+<b>Dieser Forderung schließen wir uns an.</b>
 
 
-<i>Ein Teil des SVRV spricht sich für eine weiterreichende Scoring-Transparenz aus. Er ist der
+Ein Teil des SVRV spricht sich für eine weiterreichende Scoring-Transparenz aus. Er ist der
 Auffassung, dass stets sämtliche in einen Score eingehenden Merkmale gegenüber dem Verbraucher
 offenzulegen sind und ihr relatives Gewicht in der Score-Berechnung anzugeben ist. Etwaige
 Geheimhaltungsinteressen der Scoring-Anbieter
 und -Nutzer haben insoweit gegenüber dem Auskunftsinteresse
 der Verbraucher zurückzustehen, wobei das Geschäftsgeheimnis der Entwicklung
-und Programmierung eines scores gewahrt bleiben sollte.</i>
+und Programmierung eines scores gewahrt bleiben sollte.
 
 Wir begrüßen, dass ein Teil des Rats eine weitergehende Lösung befürwortet.
 
@@ -108,14 +95,10 @@ Wir begrüßen, dass ein Teil des Rats eine weitergehende Lösung befürwortet.
 von Fachleuten behauptet, sondern empirisch überprüft werden.</i>
 
 
-2. Scoring-Wissen und Kompetenzen fördern
 
-Update folgt
+###Datenqualität sichern
 
-
-6. Datenqualität sichern
-
-<i> 1. Eine angemessene Datenqualität bei der Score­-Entwicklung ist zu gewährleisten und den Aufsichtsbehörden zu dokumentieren.</i>
+Eine angemessene Datenqualität bei der Score­-Entwicklung ist zu gewährleisten und den Aufsichtsbehörden zu dokumentieren.
 
 Begrüßenswert und wünschenswert. Aktuell gibt es ja noch viel "room for improvement."
 Siehe Fall (golem).

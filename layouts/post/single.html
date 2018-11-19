@@ -25,7 +25,7 @@
   <article class="c__post--single">
     <div class="container c__post__title">
       <div class="row">
-        <h1 class="col col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">{{ .Title }}</h1>
+        <h1 class="col col-12 col-md-10 col-lg-10">{{ .Title }}</h1>
       </div>
     </div>
 
@@ -64,12 +64,12 @@
           {{ end }}
 
         </aside>
-        <div class="c__post__main col col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-1 col-lg-6 offset-lg-3">{{ .Content }}</div>
+        <div class="c__post__main col col-12 col-sm-10 col-md-8 col-lg-7">{{ .Content }}</div>
       </div>
     </div>
     <footer class="container c__post__share">
       <div class="row">
-        <div class="col col-12 col-md-6 offset-md-3">
+        <div class="col col-12 col-md-6">
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
@@ -83,8 +83,8 @@
     <div class="row">
       {{ $related := .Site.RegularPages.Related . | first 1 }}
       {{ with $related }}
-      <h3 class="text col col-12 col-md-6 offset-md-3">Von uns für dich empfohlen</h3>
-      <ul class="col col-12 col-md-6 offset-md-3">
+      <h3 class="text col col-12 col-md-12">Von uns für dich empfohlen</h3>
+      <ul class="col col-12 col-md-10">
         {{ range . }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
