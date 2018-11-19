@@ -1,5 +1,5 @@
 <ul class="row l__projects__list">
-  {{ range where (where $.Site.AllPages "Section" "projekte") ".Params.tile" "!=" nil}}
+  {{ range where .Pages ".Params.tile" "!=" nil}}
     {{- partial "projects/tile" . -}}
   {{ end }}
 </ul>

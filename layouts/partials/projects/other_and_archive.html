@@ -1,14 +1,14 @@
 <section class="container">
   <div class="l__project__other">
     <h2>{{ i18n "projects_other" }}</h2>
-    {{ $otherList := where (where $.Site.AllPages "Section" "projekte") ".Params.tile" "==" nil}}
+    {{ $otherList := where .Pages ".Params.tile" "==" nil}}
     {{- partial "projects/other_list.html" $otherList -}}
   </div>
 </section>
 <section class="container">
   <div class="l__project__other">
     <h2>{{ i18n "projects_archive" }}</h2>
-    {{ $archiveList := where (where $.Site.AllPages "Section" "projekte") ".Params.type" "==" "archive"}}
+    {{ $archiveList := where .Pages ".Params.type" "==" "archive"}}
     {{- partial "projects/other_list.html" $archiveList -}}
   </div>
 </section>

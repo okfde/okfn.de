@@ -19,7 +19,7 @@
     <div class="container">
       <div class="row">
         <h1 class="col col-12 col-md-10 offset-md-1">{{ .Title }}</h1>
-        {{ with .Params.de.subtitle }}
+        {{ with .Params.subtitle }}
         <p class="l__project__subtitle col col-12 col-md-10 offset-md-1">{{.}}</p>
         {{ end }}
       </div>
@@ -67,23 +67,23 @@
           {{ end }}
 
         </aside>
-        {{ with .Params.de.content }}
+
         <div class="col col-12 col-sm-10 col-md-8 offset-md-2 col-lg-7">
-          {{ . | markdownify}}
+          {{ .Content | markdownify}}
         </div>
-        {{ end }}
+
       </div>
     </div>
     <aside class="l__project__aside container">
       <div class="row">
         <section class="col col-12 col-md-6">
-          {{ with .Params.de.cta}}<h2 class="h3">{{ . }}</h2>{{ end }}
-          {{ with .Params.de.cta_text}}<p>{{ . | markdownify }}</p>{{ end }}
-          <p><a href='{{ .Site.GetPage "/spenden"}}'>Jetzt spenden</a></p>
+          {{ with .Params.cta}}<h2 class="h3">{{ . }}</h2>{{ end }}
+          {{ with .Params.cta_text}}<p>{{ . | markdownify }}</p>{{ end }}
+          <p><a href='{{ .Site.GetPage "/spenden"}}'>{{ i18n "project_donate" }}</a></p>
         </section>
         <section class="col col-12 col-md-6">
-          <h2 class="h3">Mehr erfahren?</h2>
-          <p>Weitere Infos gibt es auf <a href="#">der Website</a> von Jugend Hackt.</p>
+          <h2 class="h3">{{ i18n "project_more"}}</h2>
+          {{ with .Params.more_text}}<p>{{ . | markdownify }}</p>{{ end }}
           {{ with .Params.contact_person }}
           <div class="row l__project__contact align-items-center">
             {{ range where $.Site.Data.team "img" "==" .}}

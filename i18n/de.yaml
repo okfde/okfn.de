@@ -16,3 +16,7 @@
   translation: "Personen"
 - id: project_financing
   translation: "Finanzierung"
+- id: project_donate
+  translation: "Jetzt spenden"
+- id: project_more
+  translation: "Mehr erfahren?"
