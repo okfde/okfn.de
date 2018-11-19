@@ -1,20 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 11 21" style="enable-background:new 0 0 11 21;" xml:space="preserve">
-<style type="text/css">
-	.st0{enable-background:new    ;}
-</style>
-<title></title>
-<desc>Created with Sketch.</desc>
-<g id="Page-1">
-	<g id="Themen" transform="translate(-885.000000, -3032.000000)">
-		<g id="Group-5" transform="translate(33.000000, 2697.000000)">
-			<g class="st0">
-				<path d="M855,346.6h-3V343h3v-2.8c0-1.5,0.4-2.6,1.2-3.5s1.9-1.2,3.3-1.2c1.1,0,2,0.1,2.7,0.2v3.2h-1.9c-0.7,0-1.2,0.2-1.4,0.5
-					c-0.2,0.3-0.3,0.7-0.3,1.2v2.5h3.3l-0.5,3.6h-2.9v8.9H855V346.6z"/>
-			</g>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 11 21" style="enable-background:new 0 0 11 21;" xml:space="preserve">
+    <title>Facebook</title>
+    <g>
+	<g transform="translate(-885.000000, -3032.000000)">
+	    <g transform="translate(33.000000, 2697.000000)">
+		<g>
+		    <path d="M855,346.6h-3V343h3v-2.8c0-1.5,0.4-2.6,1.2-3.5s1.9-1.2,3.3-1.2c1.1,0,2,0.1,2.7,0.2v3.2h-1.9c-0.7,0-1.2,0.2-1.4,0.5
+			     c-0.2,0.3-0.3,0.7-0.3,1.2v2.5h3.3l-0.5,3.6h-2.9v8.9H855V346.6z"/>
 		</g>
+	    </g>
 	</g>
-</g>
+    </g>
 </svg>
