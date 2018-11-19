@@ -21,13 +21,19 @@ people:
     role: Bufdine
   - name: Doris Jantoljak
     role: Design
-  - name: Philip Steffanx
+  - name: Philip Steffan
     role: Community
   - name: Cin Pietschmann
     role: Studentische Hilfskraft
   - name: Torben Reichert
     role: Entwickler
 contact_person: paulaglaser
+years: 2012 - jetzt
+partners:
+  - MedialePfade
+financing:
+  - SKala
+  - Spenden
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt

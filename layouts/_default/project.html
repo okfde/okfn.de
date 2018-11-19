@@ -37,12 +37,35 @@
     <div class="container">
       <div class="row">
         <aside class="order-2 col col-12 col-sm-10 col-md-3 col-lg-2 offset-lg-1">
-          <p>Jahr</p>
-          <p>Team</p>
-          <p>Partner</p>
-          <p>Finanzierung</p>
-          <p>Website</p>
-          <p>Thema</p>
+          {{ with .Params.years }}
+          <p>{{ i18n "project_year" }}<br>{{ . }}</p>
+          {{ end }}
+          {{ with .Params.people }}
+          <p>Team<br>
+            {{ len . }} {{ i18n "project_person" }} <button>+</button>
+            <div>
+            {{ range . }}
+            {{ .name }}<br>
+              {{ end }}
+            </div>
+          </p>
+          {{ end }}
+          {{ with .Params.partners }}<p>Partner<br>
+            {{ range . }}
+            {{ . }}<br>
+            {{ end }}
+          </p>{{ end }}
+
+          {{ with .Params.financing }}
+          <p>{{ i18n "project_financing" }}<br>
+            {{ range $k, $v := . }}{{ if ne $k 0 }},{{ end }} {{ . }}{{ end }}
+          </p>
+          {{ end }}
+
+          {{ with .Params.website}}
+          <p>Website<br><a href="{{.}}">{{ strings.TrimPrefix "https://" . }}</a></p>
+          {{ end }}
+
         </aside>
         {{ with .Params.de.content }}
         <div class="col col-12 col-sm-10 col-md-8 offset-md-2 col-lg-7">

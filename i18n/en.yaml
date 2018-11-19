@@ -10,3 +10,9 @@
   translation: "Other projects"
 - id: projects_archive
   translation: "Finished projects"
+- id: project_year
+  translation: "Years"
+- id: project_person
+  translation: "people"
+- id: project_financing
+  translation: "Financing"
