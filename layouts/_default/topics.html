@@ -23,10 +23,11 @@
       <section class="row align-items-center l__topics__section">
         <div class="col col-12 col-md-6">
           <h2 class="h3">{{.Title}}</h2>
-          {{.Content}}
+          {{.Summary}}
+          <p><a href="{{.Permalink}}">{{ i18n "topics_more"}} {{.Title}}</a></p>
         </div>
         <div class="col col-12 col-md-6">
-          <img src="/okf/themen/opendata.png">
+          {{ with .Params.img }}<img src="{{ . }}">{{ end }}
           </div>
       </section>
       {{ end }}

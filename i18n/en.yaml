@@ -16,3 +16,5 @@
   translation: "people"
 - id: project_financing
   translation: "Financing"
+- id: topics_more
+  translation: "Read more about"
