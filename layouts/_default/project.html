@@ -1,0 +1,83 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+{{with .Params.subtitle }}<meta description="{{.}}">{{ end }}
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content='{{ .Site.BaseURL }}files/{{ trim .Params.img "/"}}' />
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <article class="l__project">
+    <div class="container">
+      <div class="row">
+        <h1 class="col col-12 col-md-10 offset-md-1">{{ .Title }}</h1>
+        {{ with .Params.de.subtitle }}
+        <p class="l__project__subtitle col col-12 col-md-10 offset-md-1">{{.}}</p>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ with .Params.img_header }}
+    <div class="container l__project__headerimg">
+      <div class="row">
+        <div class="col col-12">
+          <img src="/files/{{.}}" alt="">
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    <div class="container">
+      <div class="row">
+        <aside class="order-2 col col-12 col-sm-10 col-md-3 col-lg-2 offset-lg-1">
+          <p>Jahr</p>
+          <p>Team</p>
+          <p>Partner</p>
+          <p>Finanzierung</p>
+          <p>Website</p>
+          <p>Thema</p>
+        </aside>
+        {{ with .Params.de.content }}
+        <div class="col col-12 col-sm-10 col-md-8 offset-md-2 col-lg-7">
+          {{ . | markdownify}}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    <aside class="l__project__aside container">
+      <div class="row">
+        <section class="col col-12 col-md-6">
+          {{ with .Params.de.cta}}<h2 class="h3">{{ . }}</h2>{{ end }}
+          {{ with .Params.de.cta_text}}<p>{{ . | markdownify }}</p>{{ end }}
+          <p><a href='{{ .Site.GetPage "/spenden"}}'>Jetzt spenden</a></p>
+        </section>
+        <section class="col col-12 col-md-6">
+          <h2 class="h3">Mehr erfahren?</h2>
+          <p>Weitere Infos gibt es auf <a href="#">der Website</a> von Jugend Hackt.</p>
+          {{ with .Params.contact_person }}
+          <div class="row l__project__contact align-items-center">
+            {{ range where $.Site.Data.team "img" "==" .}}
+            <div class="col col-4 col-lg-3">
+              <img src="/team/{{.img}}_square.jpg" alt="">
+            </div>
+            <div class="col col-8 col-lg-9">
+              <p>{{.name}}<br>
+                {{.position}}</p>
+              <p><a href="mailto:{{.mail}}">Mail</a></p>
+            </div>
+          </div>
+          {{ end }}
+          {{ end }}
+        </section>
+      </div>
+    </aside>
+  </article>
+</main>
+{{ end }}

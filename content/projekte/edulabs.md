@@ -6,6 +6,7 @@ categories:
   - education
 title: edulabs
 tile: double
+layout: project
 img: projects/edulabs_Projektuebersicht_bigTile.png
 website: https://edulabs.de/
 people:
