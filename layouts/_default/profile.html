@@ -76,8 +76,8 @@
           <div class="row align-items-center">
             {{ with .Params.img }}
             {{ range . }}
-            <div class="col col-12 col-sm-6">
-              <img src="{{.}}">
+            <div class="col col-12 col-sm-{{.col}}">
+              <img src="{{.src}}">
             </div>
             {{ end }}
             {{ end }}
