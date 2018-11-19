@@ -2,7 +2,6 @@
 title: Wir vernetzen Menschen, die an Projekten für eine offene und gerechte Gesellschaft arbeiten
 weight: 3
 
-
 img:
   - /okf/profil/04.jpg
   - /okf/profil/05.jpg
