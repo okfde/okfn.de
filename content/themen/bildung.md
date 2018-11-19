@@ -1,8 +1,10 @@
 ---
 title: Offene Bildung
+project_tag: Bildung
 weight: 4
 img: https://placekitten.com/400/300
-color: #24008c
+img_header: https://placekitten.com/400/300
+color: "#24008c"
 ---
 
 Offene Bildung ist ein Überbegriff für Initiativen im digitalen, politischen und formalen Bildungsbereich, die partizipativ, zeitgemäß und offen gestaltet sind und Bildung als Gemeingut fördern möchten.
@@ -21,5 +23,3 @@ Offene Bildungsformate stoßen im Bereich der Bildung nach wie vor auf große Sk
 
 
 ## Links
-
-## Verwandte Projekte

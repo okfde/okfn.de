@@ -1,8 +1,10 @@
 ---
 title: Civic Tech
+project_tag: Civic Tech
 weight: 2
 img: /okf/themen/civictech.png
-color: #24008c
+img_header: /okf/themen/civictech.png
+color: "#072b8b"
 ---
 
 **Civic Tech** ist ein Prozess, der neue Technologien und digitale Innovationen mit Regierungen und Verwaltungen vereinen will, um so neue und bessere Möglichkeiten für die Realisierung zivilgesellschaftlicher Interessen zu schaffen. Offene Daten sind dabei das Fundament der dabei entwickelten Anwendungen, Tools und Dienste.
@@ -20,15 +22,9 @@ Im Sinne des [Open-Source-Ansatzes](https://en.wikipedia.org/wiki/Open-source_so
 **Public Interest Tech** basiert auf ähnlichen Prinzipien wie Civic Tech: technisch versierte Akteure setzen ihr Können und ihre Kompetenzen im Sinne des Gemeinwohls ein. Thematisch erweitert Public Interest Tech aber den Fokus der entwickelten Lösungen auf die Unterstützung von Organisationen des öffentlichen Interesses und deren Ziele. Dies kann bedeuten, das Leben der Allgemeinheit zu verbessern, aber auch beispielsweise Umweltschutz, Menschenrechte, Kinderfürsorge oder die Reform der Strafjustiz betreffen. Der Fokus liegt somit, anders als bei Civic Tech, nicht auf einer Verbesserung der Möglichkeiten, zivilgesellschaftliche Interessen zu realisieren oder einer Reformierung der Interaktionen zwischen BürgerIn und Staat, sondern auf den Einsatz von Technologien für eine bessere Welt.
 
 
-## Links
+### Links
 
-[Freie Software für die Städte](https://monde-diplomatique.de/artikel/!5476316)
-
-[Was genau ist ‘civic’ an Civic Tech?](https://medium.com/@prototypefund/was-genau-ist-civic-an-civic-tech-6caca475495d)
-
-[Public Interest Technology](https://www.newamerica.org/public-interest-technology/about/)
-
-[Technology at work for the public](https://www.fordfoundation.org/campaigns/public-interest-tech/)
-
-
-## Verwandte Projekte
+- [Freie Software für die Städte](https://monde-diplomatique.de/artikel/!5476316)
+- [Was genau ist ‘civic’ an Civic Tech?](https://medium.com/@prototypefund/was-genau-ist-civic-an-civic-tech-6caca475495d)
+- [Public Interest Technology](https://www.newamerica.org/public-interest-technology/about/)
+- [Technology at work for the public](https://www.fordfoundation.org/campaigns/public-interest-tech/)

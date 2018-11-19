@@ -3,7 +3,7 @@ type: education
 kategorien:
   - Bildung
 categories:
-  - education
+  - Education
 title: edulabs
 tile: double
 layout: project

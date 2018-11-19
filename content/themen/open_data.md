@@ -1,8 +1,10 @@
 ---
 title: Open Data
+project_tag: Open Data
 weight: 1
 img: /okf/themen/opendata.png
-color: #382eff
+img_header: /okf/themen/opendata.png
+color: "#382eff"
 ---
 
 Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und „[share-alike](https://en.wikipedia.org/wiki/Share-alike)“. Davon ausgenommen sind personenbezogene Daten.
@@ -18,7 +20,7 @@ Die wichtigsten Eigenschaften offener Daten sind:
 
 **[Hier geht es zur ausführlichen Definition von offenem Wissen („Open Definition“)](https://opendefinition.org/od/1.1/de/).**
 
-## Welche Arten von offenen Daten gibt es?
+### Welche Arten von offenen Daten gibt es?
 
 Es gibt eine Vielzahl von gesellschaftlichen Bereichen in denen Personen und Organisationen Daten sammeln wie beispielsweise:
 
@@ -37,25 +39,19 @@ Es gibt eine Vielzahl von gesellschaftlichen Bereichen in denen Personen und Org
 - Wissenschaftliche Daten entstehen innerhalb einer wissenschaftlichen Forschung, von Astronomie bis Zoologie.
 
 
-## Wozu überhaupt Daten öffnen?
-
+### Wozu überhaupt Daten öffnen?
 
 In einer gut funktionierenden, demokratischen Gesellschaft müssen die Bürgerinnen und Bürger wissen, was ihre Regierung tut. Um das zu gewährleisten, braucht es Transparenz und demokratische Kontrolle, sowie einen freien Zugang zu staatlichen Daten und Informationen und die Möglichkeit diese Informationen mit anderen Bürgern zu teilen. Im digitalen Zeitalter sind Daten die Schlüsselressourcen für gesellschaftliche und wirtschaftliche Aktivitäten. Durch die Öffnung von Daten können Regierungen dabei helfen, die Gründung innovativer Unternehmen und Dienstleistungen voranzutreiben, die wiederum **gesellschaftlichen und wirtschaftlichen Mehrwert** schaffen können. Die Öffnung von Daten verbessert politische  **Partizipationsmöglichkeiten und erleichtert** die informierte Einbeziehung von Bürger+innen in die politische Entscheidungsfindung.
 
 
-## Wie können Daten geöffnet werden?
+### Wie können Daten geöffnet werden?
 
 Detaillierte, praktischen Ratschläge, die zeigen wie man Daten öffnen kann, finden sich im [Open Data Handbuch](http://opendatahandbook.org/guide/de/how-to-open-up-data/). Das Handbuch behandelt rechtliche, soziale und technische Aspekte der Öffnung von Daten.
 
 
-## Links
+### Links
 
-[10 Praxistipps der Berliner OPen Data Informationsstelle (ODIS)](https://www.verwaltung-der-zukunft.org/transformation/open-data-erfolgreich-umsetzen)
-
-[Öffentliche Daten nicht verhökern, sondern sinnvoll nutzen](https://okfn.de/blog/2018/04/Oeffentliche-Daten-nicht-verhoekern-sondern-sinnvoll-nutzen/)
-
-[Daten für alle: Das Bürgerrecht auf Transparenz](https://monde-diplomatique.de/artikel/!5390836)
-
-[Open Data. The Benefits. Das Volkswirtschaftliche Potential für Deutschland](https://www.kas.de/einzeltitel/-/content/open-data.-the-benefits1)
-
-## Verwandte Projekte
+- [10 Praxistipps der Berliner OPen Data Informationsstelle (ODIS)](https://www.verwaltung-der-zukunft.org/transformation/open-data-erfolgreich-umsetzen)
+- [Öffentliche Daten nicht verhökern, sondern sinnvoll nutzen](https://okfn.de/blog/2018/04/Oeffentliche-Daten-nicht-verhoekern-sondern-sinnvoll-nutzen/)
+- [Daten für alle: Das Bürgerrecht auf Transparenz](https://monde-diplomatique.de/artikel/!5390836)
+- [Open Data. The Benefits. Das Volkswirtschaftliche Potential für Deutschland](https://www.kas.de/einzeltitel/-/content/open-data.-the-benefits1)

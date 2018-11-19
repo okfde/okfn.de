@@ -1,8 +1,10 @@
 ---
 title: Civic Tech
+project_tag: Civic Tech
 weight: 2
 img: /okf/themen/civictech.png
-color: #24008c
+img_header: /okf/themen/civictech.png
+color: "#382eff"
 ---
 
 Something with Civic Tech

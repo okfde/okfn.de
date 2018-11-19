@@ -1,0 +1,34 @@
+.l__content
+  h1
+    @include media-breakpoint-down(sm)
+      font-size: 2.5rem
+  h2, h4
+    line-height: 1.2
+    margin: 2em 0 0
+  h3
+        margin: 2em 0 0
+  p
+    margin: 1em 0 1.3em
+    line-height: 1.55
+    font-size: 1.2rem
+
+  ul,
+  ol
+    padding-left: 3em
+    margin: 1em 0 1.3em
+    line-height: 1.55
+    font-size: 1.2rem
+  ul
+    list-style: disc
+  ol
+    list-style: roman
+  li
+    margin-bottom: 0.3em
+    line-height: 1.55
+  iframe,
+  img
+    width: 100%
+    @include media-breakpoint-up(md)
+      display: block
+      margin: 0 -3em
+      width: 120%

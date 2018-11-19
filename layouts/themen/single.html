@@ -1,0 +1,63 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ with .Params.img }}<meta property="og:image" content="{{ . }}" />{{ end }}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <div class="container l__topic">
+    <div class="row">
+      <h1 class="col col-12 col-md-10 offset-md-1">{{.Title}}</h1>
+    </div>
+  </div>
+
+
+  <div class="container  l__topic l__topic__headerimg">
+    <div class="row"  {{ with .Params.color }} style="background-color: {{.}}" {{ end }}>
+      <div class="col col-12 col-sm-6 offset-sm-3">
+        {{ with .Params.img_header }}<img src="{{.}}" alt="">{{ end }}
+      </div>
+    </div>
+  </div>
+
+  <div class="l__topic l__content container">
+    <div class="row">
+      <div class="col col-12 col-md-8 offset-md-2">
+        {{.Content}}
+      </div>
+    </div>
+  </div>
+
+  <section class="container l__topic l__topic__projects">
+    <h2>Verwandte Projekte</h2>
+    {{ $title := .Params.project_tag | anchorize}}
+    <div class="row">
+      <div class="col col-12 col-sm-8 offset-sm-2">
+        <ul class="row">
+      {{ range $key, $value := where $.Site.RegularPages "Section" "projekte"}}
+      {{ range .Params.kategorien }}
+      {{ if eq (. | anchorize) $title}}
+      <li class="col col-12 col-sm-6 l__projects__item">
+        <a href="{{$value.Permalink}}" class="c__tile" style="background-image: url(/files/{{$value.Params.img}})">
+          <h3 class="h3 c__tile__title">{{$value.Title}}</h3>
+        </a>
+      </li>
+
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      </ul>
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}
