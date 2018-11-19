@@ -7,7 +7,7 @@ categories:
 tile: small
 title: "kleineAnfragen"
 website: https://kleineanfragen.de
-img: projects/KleineAnfragen_Projektübersicht_smallTile.png
+img: projects/KleineAnfragen_Projektuebersicht_smallTile.png
 people:
 - name: Maximilian Richt
   role: Projektleitung

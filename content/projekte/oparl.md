@@ -7,7 +7,7 @@ categories:
 tile: single
 title: OParl
 website: http://oparl.org/
-img: projects/OParl_Projektübersicht_smallTile.png
+img: projects/OParl_Projektuebersicht_smallTile.png
 layout: project
 people:
 - name: Ernesto Ruge

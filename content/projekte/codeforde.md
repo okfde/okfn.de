@@ -7,7 +7,7 @@ categories:
   - Community
 title: codefor.de
 website: http://codefor.de/
-img: projects/codefor_Projektübersicht_smallTile.png
+img: projects/codefor_Projektuebersicht_smallTile.png
 img_square: projects/codeforde_square.jpg
 layout: project
 people:
@@ -26,13 +26,13 @@ de:
 
     Einige Städte haben bereits Open Data Programme und stellen Datensätze offen zur Verfügung, vielerorts mangelt es jedoch noch an Anwendungen und Beispielen, die den praktischen Nutzen von offenen Daten aufzeigen – genau hier setzt Code for Germany an. Neben Software Projekten wird auch an “Do it yourself” Hardware Projekten gearbeitet wie dem Netzwerk an Feinstaubsensoren oder dem
     [Long Range Wide Area Network](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network) (LoRaWan).
-    
+
     Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf 26 Labs angewachsen und umfasst eine Community von über 300 Freiwilligen.
 
 
 en:
   subtitle: ""
   content: |-
-     
+
 
 ---

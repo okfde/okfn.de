@@ -3,7 +3,7 @@ type: politics
 tile: single
 title: OpenSchufa
 layout: project
-img: projects/openSchufa_Projektübersicht_smallTile.png
+img: projects/openSchufa_Projektuebersicht_smallTile.png
 website: https://www.openschufa.de
 people:
   - name: Arne Semsrott

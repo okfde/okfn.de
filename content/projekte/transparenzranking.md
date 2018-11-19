@@ -2,7 +2,7 @@
 type: politics
 tile: single
 title: Transparenzranking
-img: projects/dummy_Projektübersicht_smallTile.png
+img: projects/dummy_Projektuebersicht_smallTile.png
 layout: project
 people:
   - name: Arne Semsrott
@@ -17,10 +17,10 @@ contact:
 de:
   subtitle: Vergleich der Informationsgesetze in Deutschland
   content: |-
-    Jede Person hat das Recht auf staatliche Informationen - doch die Umsetzung dieses Rechts unterscheidet sich innerhalb Deutschlands. Wir haben erstmalig die Informationsfreiheits- und Transparenzgesetze in Bund und Ländern miteinander verglichen. 
+    Jede Person hat das Recht auf staatliche Informationen - doch die Umsetzung dieses Rechts unterscheidet sich innerhalb Deutschlands. Wir haben erstmalig die Informationsfreiheits- und Transparenzgesetze in Bund und Ländern miteinander verglichen.
 en:
   subtitle: Comparison of access to information laws in Germany
   content: |-
      Everybody has the right to information. But the Länder in Germany all have their own Freedom of Information laws which differ significantly in terms of fees, scope and deadlines. For the first time, we compare Freedom of Information regulations in Germany.
-  
+
 ---

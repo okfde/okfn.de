@@ -3,7 +3,7 @@ type: politics
 tile: single
 title: Open Gov Netzwerk
 url:
-img: projects/OGP_Projektübersicht_smallTile.png
+img: projects/OGP_Projektuebersicht_smallTile.png
 layout: project
 people:
   - name: Walter Palmetshofer
