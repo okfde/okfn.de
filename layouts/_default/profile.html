@@ -19,7 +19,7 @@
       <h1 class="col col-12">{{.Params.blurb}}</h1>
     </div>
     <div class="l__profile">
-      {{ range .Pages }}
+      {{ range (.Paginator 10).Pages }}
       {{ if eq .Params.arrange "img_top"}}
       <section class="row l__profile__section">
         <div class="col col-12 col-md-10 offset-md-1">
@@ -76,8 +76,8 @@
           <div class="row align-items-center">
             {{ with .Params.img }}
             {{ range . }}
-            <div class="col col-12 col-sm-{{.col}}">
-              <img src="{{.src}}">
+            <div class="col col-12 col-sm-6">
+              <img src="{{.}}">
             </div>
             {{ end }}
             {{ end }}
@@ -114,14 +114,15 @@
   <aside class="container">
     <div class="l__profile__aside row">
       <div class="col col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2">
-        <div class="row">
+        <div class="row c__additional no-gutters">
           <div class="col-12 col-md-6">
-            <img src=/okf/profil/08.jpg>
+            <img src="/okf/profil/08.jpg">
           </div>
           <div class="col-12 col-md-6">
-            <h3 class="h3">{{ .Params.box_title }}</h3>
-            {{ .Site.GetPage "/verein" }}
-            <p><a href="#">{{ .Params.box_link_name }}</a></p>
+            <div class="c__additional__info">
+              <h3 class="h3">{{ .Params.box_title }}</h3>
+              <p><a href='{{ .Site.GetPage "/verein" }}'>{{ .Params.box_link_name }}</a></p>
+            </div>
           </div>
         </div>
       </div>
