@@ -1,15 +1,35 @@
-- title: Satzung
-  text: Auf unserer Satzung basiert unsere Gemeinnützigkeit. Es handelt sich um die auf der Mitgliederversammlung 2011 beschlossenen und 2017 geänderte Fassung.
+- de:
+    title: Satzung
+    text: Auf unserer Satzung basiert unsere Gemeinnützigkeit. Es handelt sich um die auf der Mitgliederversammlung 2011 beschlossenen und 2017 geänderte Fassung.
+  en:
+    title: Satzung EN
+    text: Text EN
   path: /where/the/thing/is.pdf
-- title: Verhaltenskodex
-  text: Unser Verhaltenskodex legt die gemeinsamen Werte und Handlungsprinzipien, die für alle Mitglieder und Mitarbeiter, die Geschäftsführung und den Vorstands gelten.
+- de:
+    title: Verhaltenskodex
+    text: Unser Verhaltenskodex legt die gemeinsamen Werte und Handlungsprinzipien, die für alle Mitglieder und Mitarbeiter, die Geschäftsführung und den Vorstands gelten.
+  en:
+    title: Code of conduct
+    text: Text EN
   path: /where/the/thing/is.pdf
-- title: Mission Statement
-  text: in der von der Gründungsversammlung vom 19.02.2011 in Berlin beschlossenen und auf der Mitgliederversammlung am 11.11.2017 in Berlin geänderten Fassung.
+- de:
+    title: Mission Statement
+    text: in der von der Gründungsversammlung vom 19.02.2011 in Berlin beschlossenen und auf der Mitgliederversammlung am 11.11.2017 in Berlin geänderten Fassung.
+  en:
+    title: Mission Statement EN
+    text: Text EN
   path: /where/the/thing/is.pdf
-- title: Governance Modell
-  text: Das Governance Modell definiert die Rollen und Zuständigkeiten der Organe Team, Geschäftsführung und Vorstand.
+- de:
+    title: Governance Modell
+    text: Das Governance Modell definiert die Rollen und Zuständigkeiten der Organe Team, Geschäftsführung und Vorstand.
+  en:
+    title: Gov EN
+    text: Text EN
   path: /where/the/thing/is.pdf
-- title: Memorandum of Understanding
-  text: Wir sind Teil des internationalen Open Knowledge Netzwerkes. Um Teil dieses Netzwerkes zu werden, wurde dieses Dokument aufgesetzt.
+- de:
+    title: Memorandum of Understanding
+    text: Wir sind Teil des internationalen Open Knowledge Netzwerkes. Um Teil dieses Netzwerkes zu werden, wurde dieses Dokument aufgesetzt.
+  en:
+    title: Memorandum of Understanding
+    text: Text EN
   path: /where/the/thing/is.pdf
