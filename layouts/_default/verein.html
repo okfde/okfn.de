@@ -38,7 +38,7 @@
       {{ end }}
     </div>
   </section>
-  <section  class=" l__verein--grey">
+  <section class="l__verein--grey">
     <div class="container l__verein">
       <div class="row">
         {{ with .Site.GetPage "/vorstand"}}
@@ -60,7 +60,39 @@
     </div>
   </section>
 
+  {{ with .Site.GetPage "section" "jahresberichte"}}
+  <section class="l__verein container">
+    <div class="row">
+      <div class="col col-12 col-sm-10 col-md-8 l__content">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
 
+    {{ $reports := sort .Pages ".Params.year" "desc" }}
+
+    <div class="row">
+      <div id="js-report-nav" class="c__nav-list col col-12 col-md-8 justify-content-start c__nav-list--report">
+        {{ range $reports }}
+        <a href="#report-{{ .Params.year }}">{{ .Params.year }}</a>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ range $reports }}
+    <div class="row js-report" data-year="{{ .Params.year }}" id="report-{{ .Params.year }}">
+      <div class="col col-12 col-sm-6 col-md-8">
+        <img src="{{ .Params.img }}">
+      </div>
+      <div class="l__verein__report col col-12 col-sm-6 col-md-4">
+        <h3>{{ .Title }}</h3>
+        {{ .Content }}
+        <p><a href="{{ .Params.pdf }}" download="okf-de-jahresbericht-{{.Title}}.pdf">PDF</a></p>
+      </div>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
 
 </main>
 {{ end }}
