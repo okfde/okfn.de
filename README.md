@@ -10,6 +10,8 @@ Hugo installieren:
 
 https://gohugo.io/getting-started/installing
 
+> Wenn du das Hugo binary manuell installierst, achte darauf die `extended` version zu nehmen, da diese auch Sass kompilieren kann
+
 Lokal laufen lassen
 
 ``` bash
