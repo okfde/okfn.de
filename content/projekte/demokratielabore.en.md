@@ -24,11 +24,11 @@ people:
     role: Studentische Mitarbeiterin
   - name: Sonja Fischbauer
     role: Projektmanagerin
+contact_person: lydiaboettcher
+years: 2016 - heute
 financing:
   - BMFSFJ
   - bpb
-contact_person: lydiaboettcher
-years: 2016 - heute
 website: https://demokratielabore.de
 contact:
   twitter: demokratielabs
@@ -42,12 +42,8 @@ more_text: |-
     Weitere Infos gibt es auf der <a href="https://demokratielabore.de">Website</a> der Demokratielabore.
 
 ---
-
-Die Demokratielabore sind ein aus unterschiedlichen Formaten bestehendes Modellprojekt, das einer breiten Zielgruppe von Jugendlichen im Alter von 12 bis 21 Jahren Selbstwirksamkeitserfahrungen im Bereich von Demokratie und Technologie ermöglichen will. Ziel ist es Jugendliche zum Einsatz ihrer technischen Fähigkeiten für die Demokratie zu befähigen.
+The "Demokratielabore" or Democracy Labs is a pilot project for adolescents between the age of 12 and 21. We aim to foster self-efficacy and empower young people by using technology for democracy.
+We strive to let children and young adults experience their own digital skills as a powerful tool to get involed in a democratic society as active and self-determined members. To reach that goal we organize workshops, establish working groups and run an online tv channel. The internet shall be reclaimed by the youth as a room for positive creativity!
 
 ![Bild vom Event](/files/projects/demokratielabore_img_1.jpg)
 ![Bild vom Event](/files/projects/demokratielabore_img_2.jpg)
-
-Dazu wollen wir die eigenen digitalen Fähigkeiten erfahrbar machen, die es Kindern und Jugendlichen ermöglichen, sich selbstbestimmt und aktiv an demokratischen Prozessen zu beteiligen. Hierfür nutzen wir Workshop-/Aktionsformate, bilden vor Ort Demokratie AGs und betreiben einen WebTV-Channel. Das Internet soll für und mit jungen Zielgruppen als positiver Gestaltungsraum zurückerobert werden.
-
-

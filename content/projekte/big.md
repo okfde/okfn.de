@@ -4,16 +4,10 @@ title: BIG
 website: http://big-project.eu/
 img: projects/big.jpg
 layout: project
+website: http://big-project.eu
+years: 2012
 contact:
-  website: http://big-project.eu
   twitter: BigFP7
-de:
-  subtitle: Big Data Public Private Forum
-  content: |-
-     Big Data Public Private Forum (BIG) is working towards the definition and implementation of a clear strategy that tackles the necessary efforts in terms of research and innovation, while also it provides a major boost for technology adoption and supporting actions for the successful implementation of the Big Data economy.
-en:
-  subtitle: Big Data Public Private Forum
-  content: |-
-     Big Data Public Private Forum (BIG) is working towards the definition and implementation of a clear strategy that tackles the necessary efforts in terms of research and innovation, while also it provides a major boost for technology adoption and supporting actions for the successful implementation of the Big Data economy.
 
 ---
+Das Big Data Public Private Forum (BIG) arbeitete an der Festlegung und Umsetzung einer klaren Strategie zu Big Data, die die notwendigen Anstrengungen in Bezug auf Forschung und Innovation in Angriff nimmt, gleichzeitig aber auch einen wichtigen Impuls für die Einführung von Technologien gibt und Maßnahmen zur erfolgreichen Umsetzung der Big Data-Wirtschaft unterstützt.

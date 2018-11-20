@@ -1,0 +1,27 @@
+---
+type: archive
+kategorien:
+  - Community
+categories:
+  - Community
+title: "Apps and the city"
+website: https://appsandthecity.net
+img: projects/appsandthecity.jpg
+img_header: projects/Apssandthecity_Header.png
+layout: project
+people:
+  - name: Julia Kloiber
+    role: Projektleitung
+years: 2012
+partners:
+  - BVG
+  - VBB
+financing:
+  - ...
+contact:
+ twitter: appsandthecity
+---
+
+'Apps and the City' was a hackday on local traffic organized by OKF DE together with the local transport provider VBB, the Berlin government and the FH Potsdam.
+The VBB released GTFS data, opened up their API and provided some geo datasets about entrances to stations.
+During the event, coders, software experts, and designers used open transport data to create applications intended to non-commercially improve public transport.

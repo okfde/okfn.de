@@ -7,11 +7,10 @@ categories:
 tile: double
 layout: project
 title: Jugend hackt
-background: backgrounds/jugendhackt.jpg
 website: https://jugendhackt.de
 img: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
-img_header: projects/Jugendhackt_Projektuebersicht_bigTile.png
+img_header: projects/Jugendhackt_Header.png
 people:
   - name: Paula Grünwald (geb. Glaser)
     role: Projektleitung
