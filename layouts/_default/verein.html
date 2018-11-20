@@ -1,0 +1,59 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="" />
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <section class="l__verein container align-items-end">
+    <div class="row align-items-end">
+      <h1 class="col col-5 col-sm-10">{{ .Params.blurb }}</h1>
+      <div class="col col-12 l__verein__headerimg">
+        <img src="{{.Params.img}}" alt="">
+      </div>
+    </div>
+    <div class="row l__verein__content l__content l__content__spacing">
+      <div class="col col-12 col-md-8 offset-md-2">
+        {{ .Content }}
+      </div>
+    </div>
+    <div class="row l__verein__stats l__content__spacing">
+      {{ with .Params.stats }}
+      {{ range .}}
+      <div class="col col-12 col-sm-6 col-md-4">
+        <p><span class="h1">{{.number}}</span><br>
+          {{.text}}
+        </p>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </section>
+  <section  class=" l__verein--grey">
+    <div class="container l__verein">
+      <ul class="row l__verein__vorstand">
+        {{ range sort (where $.Site.Data.team ".board" 1) "name" }}
+        <li class="col col-12 col-sm-6 col-md-3">
+          <img src="/team/{{.img}}.jpg" alt="Bild von {{.name}}">
+          <p><strong>{{.name}}</strong><br>
+            {{.position}}
+          </p>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+
+
+</main>
+{{ end }}

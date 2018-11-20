@@ -21,7 +21,7 @@
       </section>
       <nav class="col col-md-7 col-lg-5 order-3">
         <ul class="c__nav-list">
-          <li><a href="#">Verein</a></li>
+          {{ with .Site.GetPage "/verein" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
           <li><a href="#">Vorstand</a></li>
           <li><a href="#">Transparenz</a></li>
           <li><a href="#">Jobs</a></li>
