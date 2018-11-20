@@ -12,7 +12,6 @@
   .c__post__title
     order: 2
 
-
   .c__post__date
     color: $secondary
     font-weight: 400
@@ -23,6 +22,8 @@
 
 .c__post--featured
   max-width: $max-width
+  margin-left: auto
+  margin-right: auto
   margin-bottom: $space-double
   .row
     padding: $grid-gutter-width / 2 0
@@ -68,6 +69,8 @@
 
 .c__post__meta
   max-width: $max-width
+  margin-left: auto
+  margin-right: auto
   margin-top: 1.2em
   font-size: 13px
   @include media-breakpoint-up(sm)
@@ -96,3 +99,6 @@
     padding: $space * 2.6 $space
   .c__post__visual
     margin-bottom: $space
+    img
+      width: 100%
+      height: auto

@@ -32,7 +32,7 @@
     {{ if (isset .Params "featured") }}
     <div class="container c__post__visual c__post__bg--{{.Params.featured}}">
       <div class="row">
-        <div class="col col-md-4 offset-md-4 c__post__image">
+        <div class="col col-md-6 offset-md-3 c__post__image">
           <img src="{{.Params.image.src}}" alt="{{.Params.image.title}}">
         </div>
       </div>
@@ -46,7 +46,7 @@
             {{ with .Params.authors }}
               {{ if eq (len .) 2 }}
                 {{ range .}}
-                  <strong>{{.}}</strong>
+                  <strong>{{.}}</strong><br>
                 {{end}}
               {{else}}
                 <strong>{{.}}</strong>
