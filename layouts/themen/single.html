@@ -21,7 +21,7 @@
   </div>
 
 
-  <div class="container  l__topic l__topic__headerimg">
+  <div class="container  l__topic mb-d mt-d l__topic__headerimg">
     <div class="row"  {{ with .Params.color }} style="background-color: {{.}}" {{ end }}>
       <div class="col col-12 col-sm-6 offset-sm-3">
         {{ with .Params.img_header }}<img src="{{.}}" alt="">{{ end }}
@@ -37,7 +37,7 @@
     </div>
   </div>
 
-  <section class="container l__topic l__topic__projects">
+  <section class="container l__topic l__topic__projects mt-l mb-l">
     <h2>Verwandte Projekte</h2>
     {{ $title := .Params.project_tag | anchorize}}
     <div class="row">
