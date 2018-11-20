@@ -24,7 +24,6 @@
   align-items: end
   @include media-breakpoint-up(md)
     flex-direction: row
-    //justify-content: space-evenly
     line-height: 5
 
 .c__nav-list--filter
@@ -38,3 +37,15 @@
   .active
     color: $anchor
     border-color: $anchor
+
+.c__nav-list--report
+  a
+    margin: 0 1.5em 1.5em 0
+    line-height: 1
+    border-bottom: 1px solid transparent
+    &:hover,
+    &:active
+      color: $anchor
+    &.active
+      color: $anchor
+      border-color: $anchor

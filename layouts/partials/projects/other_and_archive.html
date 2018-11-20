@@ -2,13 +2,15 @@
   <div class="l__project__other">
     <h2>{{ i18n "projects_other" }}</h2>
     {{ $otherList := where .Pages ".Params.tile" "==" nil}}
+    {{ $archiveList := where .Pages ".Params.type" "==" "archive"}}
+
+    {{ $otherList := $otherList | complement $archiveList }}
     {{- partial "projects/other_list.html" $otherList -}}
   </div>
 </section>
 <section class="container">
   <div class="l__project__other">
     <h2>{{ i18n "projects_archive" }}</h2>
-    {{ $archiveList := where .Pages ".Params.type" "==" "archive"}}
     {{- partial "projects/other_list.html" $archiveList -}}
   </div>
 </section>

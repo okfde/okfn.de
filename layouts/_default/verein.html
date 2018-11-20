@@ -1,0 +1,125 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="" />
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <section class="l__verein container align-items-end">
+    <div class="row align-items-end">
+      <h1 class="col col-5 col-sm-10">{{ .Params.blurb }}</h1>
+      <div class="col col-12 mt-d mb-0">
+        <img src="{{.Params.img}}" alt="">
+      </div>
+    </div>
+    <div class="row mt-0 l__content">
+      <div class="col col-12 col-md-8 offset-md-2">
+        {{ .Content }}
+      </div>
+    </div>
+    <div class="row l__verein__stats mt-d mb-d">
+      {{ with .Params.stats }}
+      {{ range .}}
+      <div class="col col-12 col-sm-6 col-md-4 mb-d">
+        <p><span class="h1">{{.number}}</span><br>
+          {{.text}}
+        </p>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </section>
+  <section class="l__verein--grey">
+    <div class="container l__verein">
+      <div class="row">
+        {{ with .Site.GetPage "/vorstand"}}
+        <div class="l__verein__board col col-12 col-md-6 mb-d">
+          <h2 class="mb-s">{{ .Params.blurb }}</h2>
+          <p>{{ .Content }}</p>
+          <p><a href="{{ .Permalink}}">Mehr</a></p>
+        </div>
+        {{ end }}
+        {{ range sort (where $.Site.Data.team ".board" 1) "name" }}
+        <div class="l__verein__board_people col col-6 col-md-3">
+          <img src="/team/{{.img}}.jpg" alt="Bild von {{.name}}">
+          <p><strong>{{.name}}</strong><br>
+            {{.position}}
+          </p>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  {{ with .Site.GetPage "/jahresberichte"}}
+  <section class="l__verein container">
+    <div class="row">
+      <div class="col col-12 col-sm-10 col-md-8 l__content">
+        <h2>{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+
+    {{ $lang := .Lang }}
+    {{ $reports := $.Site.Data.jahresberichte }}
+    <div class="row">
+      <div id="js-report-nav" class="mt-s c__nav-list col col-12 col-md-8 justify-content-start c__nav-list--report">
+        {{ range $reports }}
+        <a href="#report-{{ .year }}">{{ .year }}</a>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ range $reports }}
+    <div class="row js-report" id="report-{{ .year }}">
+      <div class="col col-12 col-sm-6 col-md-8">
+        <img src="{{ .img }}" alt="">
+      </div>
+      <div class="l__verein__report col col-12 col-sm-6 col-md-4">
+        {{ if eq $lang "de"}}
+        <h3>{{ .de.title }}</h3>
+        <p>{{ .de.text }}</p>
+        {{ else }}
+        <h3>{{ .en.title }}</h3>
+        <p>{{ .en.text }}</p>
+        {{ end }}
+        <p><a href="{{ .pdf }}" download="okf-de-jahresbericht-{{.year}}.pdf">PDF</a></p>
+      </div>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  <section class="l__verein container mt-l">
+    <div class="row">
+      <h2 class="col col-12 mb-s">Downloads</h2>
+    </div>
+    <ul class="row c__download-list mb-l">
+      {{ $lang := .Lang }}
+      {{ range $.Site.Data.downloads }}
+      <li class="col col-12 col-sm-6">
+        <div>
+          {{ if eq $lang "de"}}
+          <h3 class="h4">{{ .de.title }}</h3>
+          <p>{{ .de.text}}</p>
+          {{ else }}
+          <h3 class="h4">{{ .en.title }}</h3>
+          <p>{{ .en.text}}</p>
+          {{ end }}
+          <p><a href="{{.path}}">PDF</a></p>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </section>
+</main>
+{{ end }}

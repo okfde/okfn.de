@@ -1,8 +1,7 @@
-[{{ range $index, $page := .Site.Pages }}
+[{{ range $index, $page := where .Site.Pages "Section" "blog" }}
  {{ if ne $page.Type "json" }}
  {{ if ne $page.Type "xml"}}
- {{ if eq .Section "blog" }}
-   {{ if and $index (gt $index 0) }},{{ end }}
+   {{ if ne $index 0 }},{{ end }}
      {
        "url": "{{ $page.Permalink }}",
        "title": {{ $page.Title | jsonify}},
@@ -11,7 +10,6 @@
        "tags": [{{ range $tindex, $tag := $page.Params.tags }}{{ if $tindex }}, {{ end }}"{{ $tag }}"{{ end }}],
        "content": {{ $page.PlainWords | jsonify }}
      }
- {{ end }}
  {{ end }}
  {{ end }}
  {{ end }}]

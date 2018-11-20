@@ -121,7 +121,10 @@
           <div class="col-12 col-md-6">
             <div class="c__additional__info">
               <h3 class="h3">{{ .Params.box_title }}</h3>
-              <p><a href='{{ .Site.GetPage "/verein" }}'>{{ .Params.box_link_name }}</a></p>
+              <p>
+                <a href='{{ with .Site.GetPage "/verein" }}{{.Permalink}}{{ end }}'>
+                  {{ .Params.box_link_name }}</a>
+              </p>
             </div>
           </div>
         </div>

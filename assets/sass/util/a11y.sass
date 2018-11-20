@@ -1,0 +1,25 @@
+.skip
+  background-color: $blue
+  color: $white
+  font-size: 1.3rem
+  padding: 1em
+  text-decoration: none
+  &:focus
+    outline: 1px dashed $white
+
+.sr-only,
+.show-on-focus
+  height: 1px
+  overflow: hidden
+  position: absolute
+  width: 1px
+
+.show-on-focus
+  clip: rect(1px,1px,1px,1px)
+  margin: 0
+
+  &:focus
+    clip: auto
+    height: auto
+    width: auto
+    z-index: 20
