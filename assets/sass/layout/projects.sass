@@ -29,15 +29,23 @@
 .l__project
   max-width: $max-width
   margin-bottom: 100px
-  p + p
+  p
+    margin-top: 1.5em
+    &first-child 
+      margin-top: 0em
+
+
+.l__project__content
+  line-height: 1.55
+  font-size: 1.2em
+  p
     margin-top: 1.5em
 
 .l__project__subtitle
-  margin-top: $space /2
-  margin-bottom: $space
+  margin-bottom: $space /2
   font-size: 1.7rem
   color: $secondary
-  font-weight: 500
+  font-weight: 400
 
 .l__project__headerimg
   margin-bottom: $space-double
