@@ -40,16 +40,23 @@
   </section>
   <section  class=" l__verein--grey">
     <div class="container l__verein">
-      <ul class="row l__verein__vorstand">
+      <div class="row">
+        {{ with .Site.GetPage "/vorstand"}}
+        <div class="l__verein__board col col-12 col-md-6">
+          <h2>{{ .Params.blurb }}</h2>
+          <p>{{ .Content }}</p>
+          <p><a href="{{ .Permalink}}">Mehr</a></p>
+        </div>
+        {{ end }}
         {{ range sort (where $.Site.Data.team ".board" 1) "name" }}
-        <li class="col col-12 col-sm-6 col-md-3">
+        <div class="l__verein__board_people col col-6 col-md-3">
           <img src="/team/{{.img}}.jpg" alt="Bild von {{.name}}">
           <p><strong>{{.name}}</strong><br>
             {{.position}}
           </p>
-        </li>
+        </div>
         {{ end }}
-      </ul>
+      </div>
     </div>
   </section>
 

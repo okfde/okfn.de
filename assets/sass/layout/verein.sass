@@ -5,6 +5,7 @@
     height: auto
 
 .l__verein--grey
+  padding: $space * 3  0 $space * 2
   background-color: $pale-grey
 
 .l__verein__headerimg
@@ -19,10 +20,17 @@
   > div
     margin-bottom: $space-double
 
-.l__verein__vorstand
-  padding: $space-double * 2 0 $space-double
-  li
-    margin-bottom: $space
+.l__verein__board
+  margin-bottom: $space-double
+  padding-right: 7em
+  h2
+    margin-bottom: 0.3em
+  p + p
+    margin-top: 1em
+
+.l__verein__board_people
+  //padding: $space-double * 2
+  margin-bottom: $space
   p
     &:before
       content: ""
