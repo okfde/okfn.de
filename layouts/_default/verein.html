@@ -17,19 +17,19 @@
   <section class="l__verein container align-items-end">
     <div class="row align-items-end">
       <h1 class="col col-5 col-sm-10">{{ .Params.blurb }}</h1>
-      <div class="col col-12 l__verein__headerimg">
+      <div class="col col-12 mt-d mb-0">
         <img src="{{.Params.img}}" alt="">
       </div>
     </div>
-    <div class="row l__verein__content l__content l__content__spacing">
+    <div class="row mt-0 l__content">
       <div class="col col-12 col-md-8 offset-md-2">
         {{ .Content }}
       </div>
     </div>
-    <div class="row l__verein__stats l__content__spacing">
+    <div class="row l__verein__stats mt-d mb-d">
       {{ with .Params.stats }}
       {{ range .}}
-      <div class="col col-12 col-sm-6 col-md-4">
+      <div class="col col-12 col-sm-6 col-md-4 mb-d">
         <p><span class="h1">{{.number}}</span><br>
           {{.text}}
         </p>
@@ -42,8 +42,8 @@
     <div class="container l__verein">
       <div class="row">
         {{ with .Site.GetPage "/vorstand"}}
-        <div class="l__verein__board col col-12 col-md-6">
-          <h2>{{ .Params.blurb }}</h2>
+        <div class="l__verein__board col col-12 col-md-6 mb-d">
+          <h2 class="mb-s">{{ .Params.blurb }}</h2>
           <p>{{ .Content }}</p>
           <p><a href="{{ .Permalink}}">Mehr</a></p>
         </div>
@@ -72,7 +72,7 @@
     {{ $reports := sort .Pages ".Params.year" "desc" }}
 
     <div class="row">
-      <div id="js-report-nav" class="c__nav-list col col-12 col-md-8 justify-content-start c__nav-list--report">
+      <div id="js-report-nav" class="mt-s c__nav-list col col-12 col-md-8 justify-content-start c__nav-list--report">
         {{ range $reports }}
         <a href="#report-{{ .Params.year }}">{{ .Params.year }}</a>
         {{ end }}
@@ -94,5 +94,21 @@
   </section>
   {{ end }}
 
+  <section class="l__verein container mt-l">
+    <div class="row">
+      <h2 class="col col-12 mb-s">Downloads</h2>
+    </div>
+    <ul class="row c__download-list mb-l">
+      {{ range $.Site.Data.downloads }}
+      <li class="col col-12 col-sm-6">
+        <div>
+          <h3 class="h4">{{ .title }}</h3>
+          <p>{{.text}}</p>
+          <p><a href="{{.path}}">PDF</a></p>
+        </div>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
 </main>
 {{ end }}

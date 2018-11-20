@@ -10,6 +10,7 @@ $primary: $black;
 $secondary: $grey;
 $anchor: $blue;
 
+$max-width: 1140px
 // bootstrap grid
 $grid-columns:      12
 $grid-gutter-width: 30px
@@ -37,6 +38,8 @@ $space-double: $space * 2
 @import "layout/profile"
 @import "layout/content"
 @import "layout/verein"
+@import "util/space"
+@import "util/a11y"
 @import "components/logo"
 @import "components/nav-list"
 @import "components/donate-btn"
@@ -44,33 +47,7 @@ $space-double: $space * 2
 @import "components/tile"
 @import "components/separator"
 @import "components/post"
-
-
-.skip
-  background-color: $blue
-  color: $white
-  font-size: 1.3rem
-  padding: 1em
-  text-decoration: none
-  &:focus
-    outline: 1px dashed $white
-
-.sr-only,
-.show-on-focus
-  height: 1px
-  overflow: hidden
-  position: absolute
-  width: 1px
-
-.show-on-focus
-  clip: rect(1px,1px,1px,1px)
-  margin: 0
-
-  &:focus
-    clip: auto
-    height: auto
-    width: auto
-    z-index: 20
+@import "components/download-list"
 
 .text
   font-weight: 400
