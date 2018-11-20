@@ -1,30 +1,40 @@
 ---
 type: politics
+title: Offener Haushalt
+subtitle: Haushaltsdaten einfach verständlich präsentieren
 kategorien:
   - Offenes Regierungshandeln
+  - Open data
 categories:
   - Open Government
+  - Open Data
 tile: single
-title: "Offener Haushalt"
 layout: project
-website: http://offenerhaushalt.de/
+website: https://offenerhaushalt.de
 background: backgrounds/offenerhaushalt.jpg
 img: projects/dummy_Projektuebersicht_smallTile.png
+years: 2011-heute
+contact_person: annaalberts
+financing:
+  - ehrenamtliches Projekt
 people:
 - name: Anna Alberts
   role: Projektleitung
 - name: Edgar Zanella Alvarenga
   role: Developer
 contact:
-  website: http://offenerhaushalt.de
   twitter: offenerhaushalt
   mailingliste: https://lists.okfn.org/mailman/listinfo/offener-haushalt
-de:
-  content: |-
-     Offener Haushalt ist als Pilotprojekt ins Leben gerufen worden, um die Einnahmen- und Ausgabenplanung des Bundes durch Visualisierung der Daten leichter verständlich zu machen. Es war das erste Projekt dieser Art und wir freuen uns, dass das Bundesministerium für Finanzen nun von seiner Seite aus eine eigene Visualisierung des Bundeshaushalts an den Start gebracht hat. Die Ausweitung des Projekts auf weitere Haushalte ist geplant.
 
-en:
-  content: |-
-     Offener Haushalt (open budget) was a pilot project aimed at making German budget data transparently and openly accessible. It was the first visualisation of its kind that later got support from the German ministry of finance.
+cta: Mitmachen
+cta_text: |-
+    Hilf uns, Haushaltsdaten aus der Verwaltung zu besorgen, aufzubereiten und hochzuladen. Mehr Infos wie man mitmachen kann, gibt es <a href="https://offenerhaushalt.de/page/mitmachen.html">hier</a>.
+more_text: |-
+    Weitere Infos gibt es auf der <a href="https://offenerhaushalt.de">Website</a> von Offener Haushalt.
 
 ---
+Die zentrale Aufgabe eines Parlaments ist die Aufstellung und Debatte eines Haushalts. Dieser essentielle politische Prozess entscheidet, welche Tätigkeiten der Staat ausführen kann, und welche Leistungen nicht bereitgestellt werden können. Haushaltsdaten müssen per Gesetz veröffentlicht werden. Leider ist dabei das Format nicht vorgeschrieben, was dazu führt, dass Hefte mit über 1000 Seiten gedruckt werden und im Rathaus versauern oder als PDF-Dateien auf die Webseiten gestellt werden. Dadurch bleibt ein wesentlicher Aspekt der politischen Arbeit für viele verschlossen.
+
+Hier setzt unser Projekt OffenerHaushalt.de an: wir wollen die Frage, wie viel Geld der Staat wofür ausgibt, im Detail beantworten. Durch unsere Darstellungen werden die komplexen Daten verschiedener Haushalte auf Bundes-, Landes- und Kommunalebene grafisch erschlossen und in offenen Dateiformaten zugänglich gemacht. So können die Informationen ausgewertet, visualisiert und ins Verhältnis zu anderen Daten gesetzt werden.
+
+Unser Ziel ist es Haushalte für so viele Gemeinden wie möglich zugänglich zu machen und zu visualisieren. Dadurch können Bürger die Finanzen ihrer Gemeinde einsehen und leichter verstehen. Weiter versuchen wir das Verständnis und die Vergleichbarkeit der Daten durch Relationen, bspw. pro Einwohner oder erwerbstätiger Person zu verbessern. Dadurch erhoffen wir uns mehr politische Beteiligung, ein höheres Politikverständnis und einen verbesserten politischen Dialog. Zudem können alle, ob BürgerInnen, JournalistInnen, die Zivilgesellschaft oder die Wissenschaft die Daten analysieren und für öffentliche Rechenschaftslegung nutzen.

@@ -24,8 +24,9 @@ contact:
   github: https://github.com/robbi5/kleineanfragen
 ---
 
-Das Fragerecht ist ein wichtiges Recht der Abgeordneten – und ein häufig genutztes parlamentarisches Kontrollinstrument. Allein im Bundestag werden pro Wahlperiode tausende kleine Anfragen gestellt, die von der Regierung schriftlich beantwortet werden müssen. Nimmt man die Anfragen in den Länderparlamenten hinzu, ist dies ein riesiger, aber in den verschiedenen Onlinearchiven verstreuter Fundus nützlicher Informationen. Auf kleineanfragen.de sammelt und bündeln wir diese Dokumente und machen sie so – als Beitrag zu Transparenz und Partizipation – leichter für die Öffentlichkeit zugänglich.
 
-**Preise**
+The right to ask questions is an important right of MEPs - and a frequently used parliamentary control instrument. In the Bundestag alone, thousands of small questions are put per parliamentary term, which must be answered in writing by the government. If you add the questions in the parliaments of the Länder, this is a huge pool of useful information, scattered throughout the various online archives. On kleineanfragen.de we collect and bundle these documents and make them - as a contribution to transparency and participation - more easily accessible for the public.
+
+**Prizes**
 
 Deutschland – Land der Ideen

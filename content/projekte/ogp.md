@@ -2,34 +2,33 @@
 type: politics
 tile: single
 title: Open Gov Netzwerk
-url:
+subtitle: Regierungshandeln für Bürger verbessern
 img: projects/OGP_Projektuebersicht_smallTile.png
 layout: project
 people:
-  - name: Walter Palmetshofer
-    role:
   - name: Michael Peters
     role: Koordination
 contact:
    website: https://opengovpartnership.de
    twitter: OpenGovGermany
-de:
-  subtitle: ""
-  content: |-
-    Als Teil des [Open Government Netzwerks](https://opengovpartnership.de/) setzen wir uns für die aktive Mitwirkung Deutschlands in der
-    [Open Government Partnership (OGP)](http://www.opengovpartnership.org/) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
-
-    Die Bundesregierung hat im April 2016 angekündigt in der internationalen Multi-Akteurs-Partnerschaft teilzunehmen. Die Ziele der
-    OGP sind konkrete Verpflichtungen von Regierungen für Transparenz, Bürgerbeteiligung, Korruptionsbekämpfung und der Einsatz
-    neuer Technologien für offenes Regieren. Der 2011 gegründete Arbeitskreis mit aktuell 15-25 Mitgliedern wird in den nächsten
-    Monaten verstärkt daran arbeiten die Regierung bei der Erstellung eines nationalen Aktionsplans zu unterstützen, der Teil der
-    OGP-Teilnahme ist. Der Arbeitskreis hat bereits Ideen für den Aktionsplan entwickelt. Der
-    [Entwurf](https://docs.google.com/document/d/1s3hDmn-eRO7zyT0qI8m1_BxPEpUWELUJkTV03G6DwbY/edit#heading=h.hr52crarinum) ist
-    weiter offen für Feedback und Kommentare.
-en:
-  subtitle: "Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed"
-  content: |-
-     No English translation available
-
-
+years: 2011-heute
+partners: 
+  - Open Government Partnership 
+contact_person: michaelpeters
+website: https://opengovpartnership.de
+cta: Mitmachen
+cta_text: |-
+    Werde Mitglied im Open Government Netzwerk und beteilige dich als Teil der Zivilgesellschaft am OGP Prozess in Deutschland! Wir arbeiten an ganz unterschiedliche Dingen und es gibt viele Möglichkeiten sich im Netzwerk einzubringen. <br><br>Mehr dazu gibt es <a href="https://opengovpartnership.de/mitmachen/">hier</a>.
+more_text: |-
+    Weitere Infos gibt es auf der <a href="https://opengovpartnership.de">Website</a> des Open Goverment Netzwerk.
 ---
+Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung Deutschlands in der Open Government Partnership (OGP) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
+
+Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.
+
+![Projektleiter Michael stellt das Netzwerk auf der re:publica vor](/files/projects/opengov_img_1.jpg)
+![Projektleiter Michael stellt das Netzwerk auf einem Kongress vor](/files/projects/opengov_img_2.jpg)
+
+Das Netzwerk ermöglicht Bürgerinnen sich an der Entwicklung und Umsetzung ehrgeiziger Open Government Reformen zu beteiligen und den Dialog zu erweitern. Dabei verbinden wir die Expertise unserer Mitglieder und stärken den Kompetenzaufbau in der Zivilgesellschaft.
+
+Uns verbindet die Überzeugung, dass eine aktive Teilnahme der Bundesrepublik Deutschland an der Open Government Partnership einen Kulturwandel zu mehr Transparenz, Beteiligung und Rechenschaftslegung fördert und damit eine Belebung und Stärkung der Demokratie und der Qualität des staatlichen Handelns erzeugt.

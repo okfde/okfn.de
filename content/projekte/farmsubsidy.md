@@ -1,7 +1,8 @@
 ---
 type: politics
+subtitle: Transparenz für EU Agrarsubventionen
 tile: single
-title: "FarmSubsidy.org"
+title: "FarmSubsidy"
 layout: project
 website: https://farmsubsidy.org/
 background: projects/farmsubsidy.jpg
@@ -9,17 +10,15 @@ img: projects/FarmSubsidy_Projektuebersicht_smallTile.png
 people:
 - name: Stefan Wehrmeyer
   role: Projektbetreuung
+contact_person: stefanwehrmeyer
 contact:
   website: https://farmsubsidy.org/
   twitter: farmsubsidy
-de:
-  subtitle: Transparenz für EU Agrarsubventionen
-  content: |-
-     FarmSubsidy.org sammelt seit über 10 Jahren Informationen zu den europäischen Agrarsubventionen im Rahmen der Gemeinsamen Agrarpolitik der Europäischen Union. Das Ziel ist Transparenz für eine der größten Haushaltstöpfe der EU mit einem Umfang von über 50 Milliarden Euro im Jahr. Die Open Knowledge Foundation Deutschland betreut das Projekt seit mehreren Jahren und versucht, die Datenbasis aktuell und verfügbar zu halten.
-
-en:
-  subtitle: Transparency for EU farm subsidies
-  content: |-
-     For more than 10 years FarmSubsidy.org has collected information about European farm subsidies in the context of the Common Agricultural Policy (CAP) of the European Union. The goal is financial transparency for one of the largest EU budget items of more than 50 billion Euros a year. The Open Knowledge Foundation Germany has been supporting the project and tries to keep the database up-to-date and available.
-
+more_text: |-
+    Weitere Infos gibt es auf <a href="https://farmsubsidy.org/">FarmSubsidy.org</a>.
 ---
+FarmSubsidy erleichtert den Zugang zu Informationen darüber, wie die EU ihre Subventionen im Rahmen der Agrarpolitik ausgibt. Ziel ist es, detaillierte Daten über Zahlungen und Empfänger von Agrarsubventionen in jedem EU-Mitgliedstaat zu erhalten und diese Daten in einer für die europäischen Bürger nützlichen Weise zur Verfügung zu stellen.
+
+2017 haben wir das Projekt auf ehrenamtlicher Basis übernommen, um den Fortbestand des zu garantieren. Wir übernehmen die Bereinigung, Zusammenstellung und Präsentation der erhaltenen Daten. Zudem geben wir Schulungen und stellen Analysen zu den Daten zur Verfügung. 
+
+Das Projekt hat eine lange Historie. Es entstand 2003 als die dänischen Journalisten Nils Mulvad und Kjeld Hansen beim dänischen Landwirtschaftsministerium eine Reihe von Informationsfreiheitsanfragen stellten und zum ersten Mal in Europa Daten über die Empfänger der Subventionen der Gemeinsamen Agrarpolitik (GAP) der EU erhielten. Die erste Medienberichterstattung zeigte, dass die Darstellung der EU – dass ihre GAP-Subventionen die ärmsten Landwirte unterstützen – für Dänemark fehlerhaft ist: Große Grundbesitzer und große Agrarunternehmen sind die Hauptempfänger. 

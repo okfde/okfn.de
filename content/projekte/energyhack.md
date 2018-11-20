@@ -1,21 +1,32 @@
 ---
-title: "Energyhack"
-website: http://energyhack.de/
-img: projects/energyhack.jpg
-people:
-  - name: Julia Kloiber
-    role: Projektleitung
-date: 2013-06-15
+type: education
+title: Energyhack
+subtitle: Hackathon rund um offene Energiedaten
+kategorien:
+  - Community
+  - open data
+categories:
+  - community
+  - open data
 layout: project
-contact:
-  website: http://energyhack.de/
-video: "https://player.vimeo.com/video/71322548"
-de:
-  content: |-
-     Energyhack war Deutschlands erster Hackday rund um Daten zu Energie und Stromverbrauch. Der Hackday wurde in Zusammenarbeit mit der Stromnetz Berlin GmbH und der Senatsverwaltung für Wirtschaft, Technologie und Forschung organsiert. Auf der eintägigen Veranstaltung wurden Anwendungen und Visualisierungen rund um die Themen Energieeffizienz und Stromversorgung entwickelt. Als Datenbasis standen den Teilnehmerinnen die Daten aus dem Open Data Portal [Netzdaten-Berlin](http://www.netzdaten-berlin.de/) zur Verfügung.
-
-en:
-  content: |-
-     Energyhack was the first German hackday on energy data and electricity consumption. The hackday was carried out in cooperation with Stromnetz Berlin GmbH and the Senatsverwaltung für Wirtschaft, Technologie und Forschung. During the event, the participants created applications and visualisations based on data taken from the Open Data Portal [Netzdaten-Berlin](http://www.netzdaten-berlin.de/).
-
+img: projects/energyhack.jpg
+img_square: projects/datenmachenschule.png
+img_header: projects/codefor_Header.png
+people:
+  - name: Martin Koll
+    role: Projektleitung
+  - name: Walter Palmetshofer
+    role: Projektleitung
+contact_person: walterpalmetshofer
+website: http://energyhack.de/
+years: 2015 - 2017
+partners:
+  -  Stromnetz Berlin
+  - windnode
+  - Senatsverwaltung für Wirtschaft und Energie
 ---
+
+Energyhack ist ein Hackathon rund um offene Energiedaten. Unser Energieangebot und die Wege der Erzeugung sind vielfältig. Doch wie wird Energie verteilt und wie schaffen wir es, dass mehr Informationen zwischen Geräten der Erzeuger und Verbraucher ausgetauscht werden? Entwicklerinnen, Designer, Forscherinnen und innovative Vordenker der Energiebranche entwickeln in 24h Ideen, entwerfen Hardware und Prototypen oder programmieren neue Apps. Als Datenbasis standen den Teilnehmerinnen die Daten aus dem Open Data Portal Netzdaten-Berlin zur Verfügung.
+
+![Bild vom Event 2018](/files/projects/energyhack_img_1.jpg)
+![Bild vom Event 2018](/files/projects/energyhack_img_2.jpg)

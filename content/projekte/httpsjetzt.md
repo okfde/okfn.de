@@ -1,25 +1,33 @@
 ---
 type: politics
-title: "https.jetzt / Behörden Online Dienste"
+title: https.jetzt
+kategorien:
+  - civic tech
+categories:
+  - civic tech
 website: https://https.jetzt
 img: projects/httpsjetzt.jpg
 people:
 - name: Maximilian Richt
-  role: Projektleitung https.jetzt
+  role: Projektleitung
 - name: Ernesto Ruge
-  role: Projektleitung behoerden-online-dienste.de
+  role: Projektleitung 
 contact:
   website: https://https.jetzt
   website: https://behoerden-online-dienste.de
   github: https://github.com/robbi5/pulse
   github: https://github.com/okfde/behoerden-online-dienste.de
   twitter: httpsjetzt
-de:
-  content: |-
-    Wie sicher ist die Kommunikation mit meiner Behörde? Diese Frage wollten wir auf dem OpenDataDay 2016 beantworten. Herausgekommen ist <a href="https://https.jetzt">die Kampagnenseite https.jetzt</a>, welche schnell und übersichtlich den Stand der Verschlüsselung in Deutschland aufzeigt, sowie <a href="https://behoerden-online-dienste.de">die Datenbank behorden-online-dienste.de</a>, welche eine detaillierte Übersicht über eGovernment-Dienste und deren Absicherung inkl. Vergleichsmöglichkeiten und Fachinformationen bietet.
-
-en:
-  content: |-
-    How secure is your communication to authorities? This was the question we wanted to answer at OpenDataDay 2016. As a result, we got <a href="https://https.jetzt">the campainging site https.jetzt</a> providing a good overview over the state of encryption in Germany, and <a href="https://behoerden-online-dienste.de">the database behoerden-online-dienste.de</a> providing details about egovernment services and its encryption plus comparsions and background information.
-
+contact_person: maximilianricht
+years: 2016 - heute
+layout: project
+financing:
+  - ehrenamtliches Projekt
+more_text: |-
+    Weitere Infos gibt es auf der Website <a href="https://https.jetzt">https.jetzt</a>.
 ---
+
+https.jetzt! ist ein Projekt, um zu zeigen, wie viele Behördenwebseiten HTTPS unterstützen. Wieso ist eine Verschlüsselung von Websites wichtig?
+Jede nicht verschlüsselte Übertragung von Daten kann im Internet abgefangen und somit auch manipuliert werden. Deshalb leuchtet wohl unmittelbar ein, dass jede Übertragung sensibler Daten, etwa bei Bestellungen in Online-Shops, beim Online-Banking oder auch bei Logins auf Websites mit nicht-öffentlichen Inhalten nur verschlüsselt erfolgen sollte. Für den User bedeutet das: Im Zweifel, etwa bei der Benutzung von Online-Bestellformularen, sollte man immer in der Adresszeile prüfen, ob dort eine verschlüsselte Übertragung angezeigt wird. Seriöse und professionelle Anbieter werden vom Kunden keine Daten über unverschlüsselte Kanäle anfordern.
+
+Aber auch bei der Übertragung von normalen Webinhalten erscheint eine Verschlüsselung als sinnvoll. Die Verschlüsselung stellt sicher, dass der User nur die Daten bekommt, die er angefordert hat. Denn es lassen sich nicht nur unverschlüsselt übertragene Daten manipulieren, sondern es kann z.B. in öffentlichen WLANs Schadsoftware in die Daten eingefügt werden. Und nicht zuletzt erschwert die Verschlüsselung generell das Ausspionieren von Userverhalten.

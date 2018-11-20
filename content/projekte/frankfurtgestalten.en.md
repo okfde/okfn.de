@@ -13,4 +13,6 @@ people:
   role: Projektleitung
 years: 2011 - 2012
 ---
-Frankfurt Gestalten war eine Plattform von und für die Bürgerinnen der Stadt Frankfurt. Wir glauben, dass es viele großartige Ideen für eine bessere Stadt gibt und wollen dabei helfen, die Menschen hinter diesen Ideen zu vernetzen. Wir dokumentieren lokalpolitische Ereignisse in der Nachbarschaft und sind ein Radar der Stadtgestaltung.
+Frankfurt Gestalten is a participatory platform by and for citizens in Frankfurt. We believe, that there are many great ideas for a better city and want to connect the people behind these ideas. We document events in local politics and serve as a radar for urban development. 
+     
+

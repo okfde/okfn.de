@@ -5,7 +5,8 @@ kategorien:
 categories:
   - Open Government
 tile: double
-title: FragDenStaat.de
+title: FragDenStaat
+subtitle: Das Informationsfreiheitsportal
 layout: project
 img: projects/FragDenStaat_Projektuebersicht_bigTile.png
 img_square: projects/fragdenstaat_square.jpg
@@ -18,29 +19,26 @@ people:
     role: Tech Lead
   - name: Sebastian Schröder
     role: Bufdi
+contact_person: arnesemsrott
+years: 2011 - heute
+financing:
+  - demokratie.io
+  - Spenden
 contact:
   website: https://fragdenstaat.de
   twitter: fragdenstaat
   github: https://github.com/okfde/fragdenstaat_de
   mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
 video: "https://player.vimeo.com/video/102604678"
-de:
-  stats: 30 000+<br/>Anfragen
-  teaser: wurden bei <a href="/projekte/fragdenstaat/">FragDenStaat.de</a> von BürgerInnen an Behörden gestellt.
-  subtitle: Das Informationsfreiheitsportal
-  content: |-
-     Jede Person hat das Recht auf Informationen.
-     Mit der Online-Plattform für [Informationsfreiheit](https://fragdenstaat.de/) [FragDenStaat](https://fragdenstaat.de/) kann jede Person Anfragen an Behörden stellen.
-     Fragen Sie Informationen und Dokumente an! <a href="https://fragdenstaat.de">Zu FragDenStaat</a>
-
-en:
-  stats: 30,000+<br/>requests
-  teaser: have been made by citizens at <a href="/en/projekte/fragdenstaat/">FragDenStaat.de</a>.
-  subtitle: The Freedom of Information Portal
-  content: |-
-     The Frag den Staat ('Ask The Government') portal enables interested citizens to request information from a variety of public sector organisations by making a Freedom of Information (FOI) request.
-     On the project's website, the requests, their current status and the responses to them are transparently documented and published.
-     Frag den Staat wants to empower citizens and hopes to generate further interest in FOI.
-     FragDenStaat.de is inspired by the British FOI-portal [What Do They Know]( https://www.whatdotheyknow.com/) and cooperates with other FOI portals around the world.
-
+cta: Mitmachen
+cta_text: |-
+  Du hast auch eine Frage an eine Behörde? Stell jetzt eine Anfrage! 
+more_text: |-
+    Weitere Infos gibt es auf <a href="https://fragdenstaat.de">FragDenStaat.de</a>.
 ---
+
+In einer Demokratie ist es notwendig, dass sich Bürgerinnen frei über Regierungshandeln informieren können. Mit dem Informationsfreiheitsgesetz hat jede Person unabhängig von Alter oder Herkunft das Recht, Dokumente bei Behörden anzufragen. Mit der Online-Plattform FragDenStaat unterstützen wir Bürgerinnen dabei, ihr Recht auf Zugang zu Informationen von deutschen Behörden wahrzunehmen. Bürgerinnen müssen sich nicht mehr durch den Gesetzesdschungel der Bundesländer und dem Bund arbeiten, um eine Anfrage zu stellen. Anfragen und Antworten erscheinen transparent online. Schon im Jahr der Gründung des Projektes hat sich die Anzahl der Informationsanfragen in Deutschland verdoppelt. 
+ 
+FragDenStaat ist aber nicht nur eine Software. Wir wollen die Informationsfreiheit in Deutschland nach vorne bringen. Hierzu entwickeln wir eigene Kampagnen, unternehmen eigene Recherchen, entwickeln ein [Transparenzranking]( /projekte/transparenzranking/), das die Informationsfreiheits- und Transparenzgesetze in Bund und Ländern miteinander vergleicht, und arbeiten an einem [Volksentscheid für ein Transparenzgesetz]( /projekte/volksentscheid/)in Berlin gemeinsam mit weiteren zivilgesellschaftlichen Partnern. 
+ 
+Unsere Kampagnen haben unter anderem dazu geführt, dass der Bundestag tausende Gutachten des wissenschaftlichen Dienstes veröffentlicht hat und Gesetzentwürfe von Ministerien mit Lobby-Stellungnahmen frei verfügbar sind. 

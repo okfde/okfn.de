@@ -5,7 +5,9 @@ website: http://big-project.eu/
 img: projects/big.jpg
 layout: project
 website: http://big-project.eu
-years: 2012
+financing:
+  -  FP7
+years: 2012 - 2014
 contact:
   twitter: BigFP7
 

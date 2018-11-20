@@ -13,7 +13,9 @@ website: http://www.appsforeurope.eu
 people:
   - name: Daniel Dietrich
     role: Projektleitung
-years: 2012
+financing:
+  - CIP-Best Practice Network
+years: 2013 - 2014
 contact:
   twitter: apps4eu
 ---
