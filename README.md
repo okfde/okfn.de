@@ -6,7 +6,7 @@ Statische Seite mit Hugo!
 
 ### Seite lokal laufen lassen
 
-Hugo installieren:
+Hugo installieren (Version > 0.51):
 
 https://gohugo.io/getting-started/installing
 
