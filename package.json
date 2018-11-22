@@ -8,7 +8,7 @@
     "postinstall": "hugo-installer --version otherDependencies.hugo"
   },
   "otherDependencies": {
-    "hugo": "0.51"
+    "hugo": "extended_0.51"
   },
   "author": "",
   "license": "ISC",
