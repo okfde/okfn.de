@@ -24,7 +24,7 @@
           {{ end }}
         </li>
         <li class="search-btn">🔍</li>
-        <li class="c__donate-btn"><a href="#">Spenden</a></li>
+        {{ with .Site.GetPage "/spenden" }}<li class="c__donate-btn"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
     </div>
   </div>

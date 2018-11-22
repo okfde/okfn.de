@@ -25,8 +25,8 @@
           {{ with .Site.GetPage "/vorstand" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
           <li><a href="#">Transparenz</a></li>
           <li><a href="#">Jobs</a></li>
-          <li><a href="#">Presse</a></li>
-          <li><a href="#">Impressum</a></li>
+          {{ with .Site.GetPage "/presse" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+          {{ with .Site.GetPage "/impressum" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         </ul>
       </nav>
       <div class="col order-4 col-6 col-sm-5 offset-sm-1 col-md-3 offset-md-2 offset-lg-4">
