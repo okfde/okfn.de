@@ -8,6 +8,8 @@
   translation: "Donate now"
 - id: home_all_posts
   translation: "All posts"
+- id: home_blog_news
+  translation: "News from the blog"
 - id: footer_contact
   translation: "Contact"
 - id: footer_signup

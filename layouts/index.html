@@ -69,12 +69,12 @@
     <section class="container mt-l mb-l">
       <div class="row justify-between">
         <div class="col col-10 mb-s">
-          <h2>Neues aus dem Blog</h2>
+          <h2>{{ i18n "home_blog_news" }}</h2>
         </div>
         {{- partial "featured_post.html" . -}}
 
         <ul class="l__blog__posts container mt-s">
-          {{ range first 4 ( sort (where $.Site.RegularPages "Section" "blog")) }}
+          {{ range first 4 ( sort (where (where $.Site.AllPages "Section" "blog") "Kind" "page")) }}
           {{- partial "post_item.html" . -}}
           {{ end }}
         </ul>
