@@ -28,7 +28,10 @@
         </div>
         <div class="col col-12 col-sm-5 col-md-4">
           <p>{{ .Params.work }}</p>
-          <p>{{ with .Site.GetPage "/profil" }}<a href="{{ .Permalink }}">{{ i18n "home_about_work" }}</a>{{ end }}</p>
+          <p>{{ with .Site.GetPage "/profil" }}
+            <a href="{{ .Permalink }}" class="c__arrow">
+              {{ i18n "home_about_work" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}
+          </p>
         </div>
       </div>
     </div>
@@ -39,7 +42,9 @@
           <h2>{{ i18n "home_our_projects"}}</h2>
         </div>
         <div class="col col-2">
-          <p>{{ with .Site.GetPage "/projekte" }}<a href="{{ .Permalink }}">{{ i18n "home_all_projects" }}</a>{{ end }}</p>
+          <p>{{ with .Site.GetPage "/projekte" }}
+            <a href="{{ .Permalink }}" class="c__arrow">
+              {{ i18n "home_all_projects" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
         </div>
       </div>
       <div>
@@ -60,7 +65,9 @@
           <div class="col col-6 col-md-7 offset-md-1 l__content ">
             <h3>{{ .Params.donate_title }}</h3>
             <p>{{ .Params.donate_text}}</p>
-            <p>{{ with .Site.GetPage "/spenden" }}<a href="{{ .Permalink }}">{{ i18n "home_donate" }}</a>{{ end }}</p>
+            <p>{{ with .Site.GetPage "/spenden" }}
+              <a href="{{ .Permalink }}" class="c__arrow">
+                {{ i18n "home_donate" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
           </div>
         </div>
       </div>
@@ -80,8 +87,10 @@
         </ul>
       </div>
 
-      <div class="col col-12">
-        <p>{{ with .Site.GetPage "/blog" }}<a href="{{ .Permalink }}">{{ i18n "home_all_posts" }}</a>{{ end }}</p>
+      <div class="mt-s">
+        <p>{{ with .Site.GetPage "/blog" }}
+          <a href="{{ .Permalink }}" class="c__arrow">
+            {{ i18n "home_all_posts" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
       </div>
   </div>
     </section>
