@@ -76,12 +76,16 @@
     </div>
     <aside class="l__project__aside container">
       <div class="row">
+        {{ if isset .Params "cta"}}
         <section class="col col-12 col-md-6">
           {{ with .Params.cta}}<h2 class="h3">{{ . }}</h2>{{ end }}
           {{ with .Params.cta_text}}<p>{{ . | markdownify }}</p>{{ end }}
           <p><a href='{{ .Site.GetPage "/spenden"}}'>{{ i18n "project_donate" }}</a></p>
         </section>
-        <section class="col col-12 col-md-6">
+        {{ end }}
+
+        {{ if isset .Params "contact_person" }}
+        <section class="col col-12 col-md-6 ">
           <h2 class="h3">{{ i18n "project_more"}}</h2>
           {{ with .Params.more_text}}<p>{{ . | markdownify }}</p>{{ end }}
           {{ with .Params.contact_person }}
@@ -99,6 +103,7 @@
           {{ end }}
           {{ end }}
         </section>
+        {{ end }}
       </div>
     </aside>
   </article>
