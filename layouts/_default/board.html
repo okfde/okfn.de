@@ -1,0 +1,42 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="" />
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <div class="container l__verein">
+    <div class="row  l__content">
+      <h1 class="col col-12">{{.Params.blurb}}</h1>
+      <div class="col col-12 col-md-9">{{ .Content }}</div>
+    </div>
+
+    {{ $lang := .Lang }}
+    {{ range sort (where $.Site.Data.team ".board" 1) "name" }}
+    <section class="row align-items-center l__topics__section mt-d mb-l">
+      <div class="col col-12 col-md-6">
+        <h2 class="h3">{{.name}}</h2>
+        <p>{{.position}}</p>
+        {{ if eq $lang "de" }}
+        <p>{{.bio | markdownify }}</p>
+        {{ else }}
+        <p>{{.bio_en | markdownify }}</p>
+        {{ end }}
+      </div>
+      <div class="col col-12 col-md-6 l__verein__board__singleimg">
+        <img src="/team/{{.img}}.jpg" alt="Bild von {{.name}}">
+      </div>
+    </section>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
