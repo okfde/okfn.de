@@ -6,6 +6,7 @@ categories:
   - Education
 tile: double
 layout: project
+weight: 6
 title: Jugend hackt
 background: backgrounds/jugendhackt.jpg
 website: https://jugendhackt.de

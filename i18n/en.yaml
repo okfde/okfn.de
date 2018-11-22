@@ -1,3 +1,11 @@
+- id: home_about_work
+  translation: "About our work"
+- id: home_all_projects
+  translation: "All projects"
+- id: home_donate
+  translation: "Donate now"
+- id: home_all_posts
+  translation: "All posts"
 - id: footer_contact
   translation: "Contact"
 - id: footer_signup

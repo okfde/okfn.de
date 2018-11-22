@@ -8,18 +8,20 @@ document.addEventListener('DOMContentLoaded', function (event) {
       });
 
       var filterLinks = document.querySelectorAll('.js-isotope-filter a');
-      filterLinks.forEach(function (v, i) {
-        v.addEventListener('click', function (ev) {
-          ev.preventDefault();
-          filterLinks.forEach(function (v1, i1) {
-            v1.classList.remove('active');
-          });
-          v.classList.add('active');
+      if (filterLinks) {
+        filterLinks.forEach(function (v, i) {
+          v.addEventListener('click', function (ev) {
+            ev.preventDefault();
+            filterLinks.forEach(function (v1, i1) {
+              v1.classList.remove('active');
+            });
+            v.classList.add('active');
 
-          var filterVal = v.dataset.filter;
-          iso.arrange({ filter: filterVal });
+            var filterVal = v.dataset.filter;
+            iso.arrange({ filter: filterVal });
+          });
         });
-      });
+      }
     }
   }
 });

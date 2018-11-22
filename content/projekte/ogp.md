@@ -5,6 +5,7 @@ title: Open Gov Netzwerk
 subtitle: Regierungshandeln für Bürger verbessern
 img: projects/OGP_Projektuebersicht_smallTile.png
 layout: project
+weight: 4
 people:
   - name: Michael Peters
     role: Koordination
@@ -12,8 +13,8 @@ contact:
    website: https://opengovpartnership.de
    twitter: OpenGovGermany
 years: 2011-heute
-partners: 
-  - Open Government Partnership 
+partners:
+  - Open Government Partnership
 contact_person: michaelpeters
 website: https://opengovpartnership.de
 cta: Mitmachen

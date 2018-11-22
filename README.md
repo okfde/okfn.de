@@ -46,6 +46,13 @@ TBD
 
 #### Bearbeiten
 
+
+### Vereinsstats
+
+### Jahresberichte
+
+### Downloads
+
 ---
 
 ## Anderes

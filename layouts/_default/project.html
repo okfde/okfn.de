@@ -85,7 +85,12 @@
         {{ end }}
 
         {{ if isset .Params "contact_person" }}
-        <section class="col col-12 col-md-6 ">
+          {{ if isset .Params "cta" }}
+        <section class="col col-12 col-md-6">
+          {{ else }}
+        <section class="col col-12 col-md-6 offset-md-3">
+          {{ end }}
+
           <h2 class="h3">{{ i18n "project_more"}}</h2>
           {{ with .Params.more_text}}<p>{{ . | markdownify }}</p>{{ end }}
           {{ with .Params.contact_person }}
