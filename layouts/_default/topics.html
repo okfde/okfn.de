@@ -24,7 +24,7 @@
         <div class="col col-12 col-md-6">
           <h2 class="h3">{{.Title}}</h2>
           {{.Summary}}
-          <p><a href="{{.Permalink}}">{{ i18n "topics_more"}} {{.Title}}</a></p>
+          <p><a href="{{.Permalink}}">{{ i18n "topics_more"}} {{.Title}} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a></p>
         </div>
         <div class="col col-12 col-md-6">
           {{ with .Params.img }}<img src="{{ . }}">{{ end }}
