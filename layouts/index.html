@@ -13,39 +13,76 @@
 <main>
 
   <div class="container">
-
-  </div>
-  <header class="homepage-header">
-    {{ with .Params.blurb }}
-    <span class="subtitle">{{.}}</span>
-    {{ end }}
-  </header>
-  <div class="homepage-content">
-    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-    {{.Content}}
-  </div>
-  <div>
-    <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-    <h2>From the blog</h2>
-    <ul>
-      {{ range first 20 .Pages }}
-      <li>{{.Title}}</li>
-      {{ end }}
-    </ul>
+    <div class="row">
+      <div class="col col-12 col-md-11">
+        <h1>{{ .Params.blurb }}</h1>
+      </div>
+    </div>
   </div>
 
-  <div>
-    <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-    <h2>Projects from data</h2>
-    <ul>
-      {{ range .Site.Data.projects}}
-      <li>
-        <h3>{{.name}}</h3>
-        {{.content}}<br>
-        {{.project_lead}}
-      </li>
-      {{ end }}
-    </ul>
+  <div class="container l__content">
+    <div class="row">
+      <div class="col col-12 col-sm-8 col-md-6">
+        <img src="https://placekitten.com/460/360" alt="">
+        <img src="https://placekitten.com/470/320" alt="">
+      </div>
+      <div>
+        <p>{{ .Params.work }}</p>
+        <p>{{ with .Site.GetPage "/profil" }}<a href="{{ .Permalink }}">{{ i18n "home_about_work" }}</a>{{ end }}</p>
+      </div>
+    </div>
   </div>
+
+  <section class="container">
+    <div class="row justify-between">
+      <div class="col col-10">
+        <h2>Unsere Projekte</h2>
+      </div>
+      <div class="col col-2">
+        <p>{{ with .Site.GetPage "/projekte" }}<a href="{{ .Permalink }}">{{ i18n "home_all_projects" }}</a>{{ end }}</p>
+      </div>
+    </div>
+    <div>
+      <ul class="row l__projects__list js-isotope l__projects__list--home">
+        {{ range first 4 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
+        {{- partial "projects/tile" . -}}
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  <section class="l__content__bg--grey">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col col-12 col-md-4">
+          <img src="https://placekitten.com/240/356" alt="">
+        </div>
+        <div class="col col-12 col-md-8 l__content ">
+          <h3>{{ .Params.donate_title }}</h3>
+          <p>{{ .Params.donate_text}}</p>
+          <p>{{ with .Site.GetPage "/spenden" }}<a href="{{ .Permalink }}">{{ i18n "home_donate" }}</a>{{ end }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+    <section class="container">
+    <div class="row justify-between">
+      <div class="col col-10">
+        <h2>Neues aus dem Blog</h2>
+      </div>
+      {{- partial "featured_post.html" . -}}
+
+      <ul class="l__blog__posts container">
+        {{ range first 4 ( sort (where $.Site.RegularPages "Section" "blog")) }}
+          {{- partial "post_item.html" . -}}
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="col col-12">
+      <p>{{ with .Site.GetPage "/blog" }}<a href="{{ .Permalink }}">{{ i18n "home_all_posts" }}</a>{{ end }}</p>
+    </div>
+  </section>
 </main>
 {{ end }}

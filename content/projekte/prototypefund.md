@@ -10,6 +10,7 @@ website: http://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/prototypefund_square.jpg
 layout: project
+weight: 4
 people:
   - name: Elisa Lindinger
     role: Projektleitung

@@ -9,10 +9,10 @@
 {{ $bsearch := resources.Get "/js/blog-search.js" }}
 
 {{ $js := slice $toggle $lunr $bsearch | resources.Concat "js/bundle.js"  | resources.Fingerprint}}
-<script src="{{$js.RelPermalink}}" defer></script>
+<script src="{{$js.RelPermalink}}"></script>
 
 
 {{ $isoLib := resources.Get "/js/vendor/isotope.pkgd.min.js" }}
 {{ $iso := resources.Get "/js/isotope.js" }}
 {{ $isoJs := slice $isoLib $iso | resources.Concat "js/iso.js"  | resources.Fingerprint}}
-<script src="{{$isoJs.RelPermalink}}" defer></script>
+<script src="{{$isoJs.RelPermalink}}"></script>

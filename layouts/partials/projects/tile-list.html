@@ -1,5 +1,5 @@
 <ul class="row l__projects__list">
-  {{ range where .Pages ".Params.tile" "!=" nil}}
+  {{ range sort ( where .Pages ".Params.tile" "!=" nil ) "Weight" "desc"}}
     {{- partial "projects/tile" . -}}
   {{ end }}
 </ul>

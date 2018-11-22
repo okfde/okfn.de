@@ -7,6 +7,7 @@ categories:
   - education
 tile: double
 layout: project
+weight: 3
 img: projects/Demokratielabore_Projektuebersicht_bigTile.png
 img_header: projects/codefor_Header.png
 people:
