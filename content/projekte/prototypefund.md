@@ -7,7 +7,7 @@ kategorien:
 categories:
   - Civic Tech
 tile: double
-website: http://prototypefund.de
+website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/prototypefund_square.jpg
 layout: project

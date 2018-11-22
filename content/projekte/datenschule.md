@@ -23,8 +23,6 @@ website: https://datenschule.de
 contact:
   twitter: datenschule
   mail: info@datenschule.de
-cta: Mitmachen
-cta_text: |-
    
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://datenschule.de">Website</a> der Datenschule.
@@ -39,8 +37,11 @@ und Organisationsentwicklung aktiv zu nutzen.
 
 + dazu befähigen, mit datengestützten Projekten öffentliche Debatten evidenz-basiert mitzugestalten.
 
-![Bild vom Event](/files/projects/datenschule_img_1.jpg)
-![Bild vom Event](/files/projects/datenschule_img_2.jpg)
+
+<div class="two-img">
+  <img alt="Bild vom Event" src="/files/projects/datenschule_img_1.jpg">
+  <img alt="Bild vom Event" src="/files/projects/datenschule_img_2.jpg">
+</div>
 
 
 Die Nutzung von digitalen Technologien im Dienst innovativer und moderner gemeinnütziger, sozialer oder politischer Arbeit steht im Zentrum dieses Projektes. Anstatt neue Werkzeuge oder Webportale zu schaffen, wollen wir in diesem Projekt den Zugang bestehender Gruppen zu diesen Technologien verbessern. Um die Nutzung insbesondere von datengetriebenen Tools durchzusetzen, reicht es nicht, einen Download oder eine Webseite bereit zu stellen. Institutionelle Nutzer benötigen stattdessen auch die technische und strategische Kompetenz, die richtigen Analysemethoden, Visualisierung und Kommunikationsformen für ihre eigene Arbeit auszuwählen, zu nutzen und langfristig in ihre Organisation zu übernehmen.

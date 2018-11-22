@@ -9,7 +9,6 @@ people:
   - name: Michael Peters
     role: Koordination
 contact:
-   website: https://opengovpartnership.de
    twitter: OpenGovGermany
 years: 2011-heute
 partners: 
@@ -26,8 +25,10 @@ As part of the Open Government Network, we support Germany's active participatio
 
 The network is an association of civil society organisations and individuals that has been working since 2011 to promote open government and administrative action as a holistic approach to strengthening democracy. In particular, the focus is on the exchange with the Federal Government and the development of national action plans.
 
-![Project manager Michael presents the network at a congress](/files/projects/opengov_img_1.jpg)
-![Project manager Michael presents the network at a congress](/files/projects/opengov_img_2.jpg)
+<div class="two-img">
+  <img alt="Project manager Michael presents the network at a congress" src="/files/projects/opengov_img_1.jpg">
+  <img alt="Project manager Michael presents the network at a congress" src="/files/projects/opengov_img_2.jpg">
+</div>
 
 The network enables female citizens to participate in the development and implementation of ambitious Open Government reforms and to expand the dialogue. In doing so, we combine the expertise of our members and strengthen capacity building in civil society.
 

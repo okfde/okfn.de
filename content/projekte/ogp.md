@@ -10,7 +10,6 @@ people:
   - name: Michael Peters
     role: Koordination
 contact:
-   website: https://opengovpartnership.de
    twitter: OpenGovGermany
 years: 2011-heute
 partners:
@@ -27,8 +26,10 @@ Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung
 
 Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.
 
-![Projektleiter Michael stellt das Netzwerk auf der re:publica vor](/files/projects/opengov_img_1.jpg)
-![Projektleiter Michael stellt das Netzwerk auf einem Kongress vor](/files/projects/opengov_img_2.jpg)
+<div class="two-img">
+  <img alt="rojektleiter Michael stellt das Netzwerk auf der re:publica vor" src="/files/projects/opengov_img_1.jpg">
+  <img alt="Projektleiter Michael stellt das Netzwerk auf einem Kongress vor" src="/files/projects/opengov_img_2.jpg">
+</div>
 
 Das Netzwerk ermöglicht Bürgerinnen sich an der Entwicklung und Umsetzung ehrgeiziger Open Government Reformen zu beteiligen und den Dialog zu erweitern. Dabei verbinden wir die Expertise unserer Mitglieder und stärken den Kompetenzaufbau in der Zivilgesellschaft.
 

@@ -1,7 +1,7 @@
 ---
 type: archive
 title: BIG
-website: http://big-project.eu/
+website: https://big-project.eu
 img: projects/big.jpg
 layout: project
 website: http://big-project.eu

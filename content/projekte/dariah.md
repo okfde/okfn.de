@@ -10,13 +10,18 @@ layout: project
 img: projects/dariah.jpg
 website: https://de.dariah.eu
 people:
-  - name: Markus Neusch&auml;fer
+  - name: Markus Neuschäfer
     role: Projektleitung
 contact:
-  website: http://de.dariah.eu
+  website: https://de.dariah.eu
   twitter: dariahde
 video: "https://www.youtube.com/embed/AWa661KfQG0Y"
+contact_person: markusneuschaefer
+
+more_text: |-
+  Weiterführende Informationen zu Dariah findest du auf https://de.dariah.eu
 ---
+
 DARIAH-DE unterstützt mit digitalen Ressourcen und Methoden arbeitende Geistes- und KulturwissenschaftlerInnen in Forschung und Lehre.
 Dafür baut das Projekt eine digitale Forschungsinfrastruktur für Werkzeuge und Forschungsdaten auf und entwickelt Materialien für Lehre und Weiterbildung im Bereich der Digital Humanities (DH).
 

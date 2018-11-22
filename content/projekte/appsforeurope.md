@@ -9,7 +9,7 @@ img: projects/dummy_Projektübersicht_smallTile.png
 img_square: projects/dummy_Projektübersicht_smallTile.png
 img_header: projects/AppsforEuropeHeader.png
 layout: project
-website: http://www.appsforeurope.eu
+website: https://www.appsforeurope.eu
 people:
   - name: Daniel Dietrich
     role: Projektleitung

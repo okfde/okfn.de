@@ -23,9 +23,6 @@ website: https://datenschule.de
 contact:
   twitter: datenschule
   mail: info@datenschule.de
-cta: Mitmachen
-cta_text: |-
-   
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://datenschule.de">Website</a> der Datenschule.
 ---
@@ -34,5 +31,9 @@ Energy data, environmental data, traffic data. More and more data is available t
 
 The Open Knowledge Foundation Germany has developed a data training program, covering everything from the finding, analyzing and visualizing of data to the design of data-driven campaigns. The program is a combination of workshops, strategy consulting, and technology training.
 
-![Bild vom Event](/files/projects/datenschule_img_1.jpg)
-![Bild vom Event](/files/projects/datenschule_img_2.jpg)
+
+<div class="two-img">
+  <img alt="Bild vom Event" src="/files/projects/datenschule_img_1.jpg">
+  <img alt="Bild vom Event" src="/files/projects/datenschule_img_2.jpg">
+</div>
+

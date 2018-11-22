@@ -1,7 +1,7 @@
 ---
 type: politics
 title: Politik Bei Uns
-website: https://politik-bei-uns.de/
+website: https://politik-bei-uns.de
 img: projects/politikbeiuns.jpg
 layout: project
 years: 2016-heute

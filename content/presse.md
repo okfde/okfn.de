@@ -6,14 +6,13 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 
 ## Kontakt
 
-Ansprechpartner
-**Michael Peters, Leonard Wolf**
+**Ansprechpartner:**
+Michael Peters, Leonard Wolf
 
-E-Mail
-**presse@okfn.de**
+**E-Mail:** presse@okfn.de
 
-Telefon
-**+49 30 57703666 2**
+**Telefon:**
++49 30 57 70 36 662
 
 ## Presseverteiler
 

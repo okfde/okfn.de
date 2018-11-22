@@ -12,7 +12,6 @@ people:
 financing:
   - CIP-Best Practice Network
 contact:
-   website: http://pro.europeana.eu/web/europeana-ecloud
    twitter: europeanaeu
 ---
 Europeana Cloud is a 'best practice network' aiming at establishing a cloud-based system for the Europeana and national aggregators in order to develop tools that can not only describe meta-data, but make actual digital content connected, accessible and editable.

@@ -20,9 +20,8 @@ contact_person: michaelpeters
 years: 2014 - heute
 partners:
   - Code for All
-website: https://codefor.de/
+website: https://codefor.de
 contact:
-  website: https://codefor.de
   twitter: codeforde
   github: https://github.com/codeforgermany
   mailinglist: https://lists.okfn.org/mailman/listinfo/codeforde

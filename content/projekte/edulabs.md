@@ -8,7 +8,7 @@ title: edulabs
 tile: double
 layout: project
 img: projects/edulabs_Projektuebersicht_bigTile.png
-website: https://edulabs.de/
+website: https://edulabs.de
 people:
   - name: Markus Neuschäfer
     role: Projektleitung
@@ -17,7 +17,6 @@ people:
   - name: Edgar Zanella Alvarenga
     role: Entwickler
 contact:
-  website: https://edulabs.de/
   twitter:
   mail: info@edulabs.de
 

@@ -8,32 +8,21 @@ Singerstr. 109<br>
 10179 Berlin</br>
 Deutschland
 
+**E-Mail:** info@okfn.de [<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xFE54F46F21DDAED1">OpenPGP</a>]<br>
+**Telefon:** +49 30 57 70 36 660<br>
+**Fax:** +49 30 57 70 36 669
+
 [OpenStreetMaps](https://www.openstreetmap.org/way/29386807) - [Google Maps](https://www.google.com/maps/place/Singerstra%C3%9Fe+109,+10179+Berlin/@52.5167261,13.4232556,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3db119b3fd:0x9131b3b816d6709!8m2!3d52.5167261!4d13.4254443?hl=en)
 
 
-Vereinsregister Nr: **VR 30468 B**<br>
-Umsatzsteuernummer: **DE278022128**
+**Vereinsregister Nr:** VR 30468 B<br>
+**Umsatzsteuernummer:** DE278022128
 
-E-Mail: **info@okfn.de** [<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xFE54F46F21DDAED1">OpenPGP</a>]<br>
-Telefon: **+49 30 57703666 0**<br>
-Fax: **+49 30 57703666 9**
-
-**Weitere Kanäle:**<br>
-    [Twitter](https://twitter.com/okfde)<br>
-    [Facebook](https://www.facebook.com/okfde/)<br>
-    [GitHub](https://github.com/okfde)<br>
-    [Flickr](https://www.flickr.com/photos/okfde)<br>
-    [Vimeo](https://vimeo.com/okfn)<br>
-    [Youtube](https://www.youtube.com/channel/UCUD8EFjXzRN-wFUbVTYlDAw)<br>
-    [Betterplace](https://www.betterplace.org/de/organisations/15761-open-knowledge-foundation-deutschland)<br>
-
-**Webseitendesign:**<br>
-    [Nadine Stammen](https://nadinestammen.de/)
 
 **Technisch:**
     Statisches HTML generiert mit [Hugo](https://gohugo.io/)
 
----
+
 
 
 ### Haftungsausschluss

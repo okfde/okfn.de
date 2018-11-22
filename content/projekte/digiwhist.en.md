@@ -19,7 +19,7 @@ contact_person: arnesemsrott
 years: 2015 - 2017
 financing:
   - EU Horizon 2020
-website: https://digiwhist.eu/
+website: https://digiwhist.eu
 contact:
   twitter: digiwhist
 cta: Mitmachen

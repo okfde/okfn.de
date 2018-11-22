@@ -2,7 +2,7 @@
 type: archive
 title: Open Budgets
 subtitle: Hochladen, Visualisieren und Analysieren von Haushaltsdaten
-website: http://openbudgets.eu/
+website: https://openbudgets.eu
 img: projects/openbudgets.png
 layout: project
 background: backgrounds/openbudgets.png
@@ -19,7 +19,6 @@ people:
 - name: Michael Peters
   role: Data Scientist
 contact:
-  website: http://openbudgets.eu
   twitter: OpenBudgetsEU
   facebook: https://www.facebook.com/openbudgets
 ---

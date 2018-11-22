@@ -7,7 +7,7 @@ kategorien:
 categories:
   - Open Government
 tile: single
-website: https://oparl.org/
+website: https://oparl.org
 img: projects/OParl_Projektuebersicht_smallTile.png
 layout: project
 contact_person: ernestoruge

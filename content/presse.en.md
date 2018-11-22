@@ -6,14 +6,14 @@ Text
 
 ## Contact
 
-Contact person
-**Michael Peters, Leonard Wolf**
+**Contact person:**
+Michael Peters, Leonard Wolf
 
-E-mail
-**presse@okfn.de**
+**E-mail:**
+presse@okfn.de
 
-Phone
-**+49 30 57703666 2**
+**Phone:**
++49 30 57703666 2
 
 ## Press mailing list
 

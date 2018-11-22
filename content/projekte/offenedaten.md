@@ -1,7 +1,7 @@
 ---
 type: archive
 title: Offene Daten
-website: http://offenedaten.de
+website: https://offenedaten.de
 img: projects/offenedaten.jpg
 layout: project
 years: 2011 - 2012

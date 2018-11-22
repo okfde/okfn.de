@@ -2,10 +2,9 @@
 type: research
 title: D-EITI
 subtitle: The Extractive Industries Transparency Initiative
-website: https://www.d-eiti.de/de/
 img: projects/deiti-logo.png
 layout: project
-website: https://www.d-eiti.de/de/
+website: https://www.d-eiti.de
 
 people:
   - name: Walter Palmetshofer

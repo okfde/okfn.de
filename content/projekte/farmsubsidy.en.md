@@ -4,7 +4,7 @@ subtitle: Transparenz für EU Agrarsubventionen
 tile: single
 title: "FarmSubsidy"
 layout: project
-website: https://farmsubsidy.org/
+website: https://farmsubsidy.org
 background: projects/farmsubsidy.jpg
 img: projects/FarmSubsidy_Projektuebersicht_smallTile.png
 people:

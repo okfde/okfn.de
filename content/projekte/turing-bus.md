@@ -1,31 +1,40 @@
 ---
 type: education
-tile: single
 title: Turing-Bus
+subtitle: Mobiles Bildungsprojekt im ländlichen Raum
+Kategorie:
+  - Bildung
+categories:
+  - Education
+tile: single
 layout: project
 img: projects/TuringBus_Projektuebersicht_smallTile.png
 img_square: projects/turing-bus.png
 background: backgrounds/turing-bus-bg.jpg
 website: https://turing-bus.de
+partner:
+  - Gesellschaft für Informatik e.V.
+financing:
+  - BMBF
+years: 2018 - heute
 people:
   - name: Bela Seeger
     role: Projektleitung
+contact_person: belaseeger
+website: https://turing-bus.de
 contact:
-  website: https://turing-bus.de
-  twitter: bela_data
   mail: bela.seeger@okfn.de
-de:
-  subtitle: Ein mobiles Bildungsangebot der OKF DE und der GI.
-  content: |-
-      <a href="https://turing-bus.de"><img src="/static/images/backgrounds/turing-bus-bg.jpg"></a>
-      Der Turing-Bus ist ein mobiles Bildungsangebot der Open Knowledge Foundation Deutschland und der Gesellschaft für Informatik im Wissenschaftsjahr 2018 - 'Arbeitswelten der Zukunft' für Schulen, Jugendclubs und lokale Institutionen. Der Bus möchte die Rolle von Digitalisierung und Technologie für Beruf und Gesellschaft mit Workshops, Vorträgen und Hands-on-Sessions ergründen, diskutieren und kritisch hinterfragen. Die Zielgruppe des Projektes sind Jugendliche und junge Erwachsene im Alter zwischen 15 und 25 Jahren.
 
-en:
-  subtitle: A mobile educational offer by OKF DE and GI.
-  content: |-
-      <a href="https://turing-bus.de"><img src="/static/images/backgrounds/turing-bus-bg.jpg"></a>
-      The Turing-Bus is a mobile educational service of the Open Knowledge Foundation Germany and the Gesellschaft für Informatik e.V. in the Science Year 2018 - working environments of the future for schools, youth clubs and local institutions. The bus wants to explore, discuss and critically question the role of digitization and technology for work and society with workshops, lectures and hands-on sessions. The target group of the project are young people between the ages of 15 and 25.
-
-
-
+more_text: |-
+    Weitere Infos gibt es auf der <a href="https://turing-bus.de">Website</a> vom Turing-Bus.
 ---
+
+Der Turing-Bus ist ein mobiles Bildungsangebot für Schulen und Jugendclubs im ländlichen Raum. Der Bus bringt Vertreter von Fablabs, OK-Labs und Hackspaces sowie Experten in digitalen Themengebieten an oft Angebots-unterversorgte Orte der Jugendbildung, um durch Workshops, Diskussionsformaten, Screenings und mehr einen Wissensaustausch zu generieren. Das Projekt wird im Wissenschaftsjahr 2018 - „Arbeitswelten der Zukunft“ gefördert. 
+
+Der Bus möchte die Rolle von Digitalisierung und Technologie für Beruf und Gesellschaft mit Workshops, Vorträgen und Hands-on-Sessions ergründen, diskutieren und kritisch hinterfragen. Die Zielgruppe des Projektes sind Jugendliche und junge Erwachsene im Alter zwischen 15 und 20 Jahren. 
+
+<div class="two-img">
+  <img alt="Bild vom Event" src="/files/projects/turingbus_img_1.jpg">
+  <img alt="Bild vom Event" src="/files/projects/turingbus_img_2.jpg">
+</div>
+

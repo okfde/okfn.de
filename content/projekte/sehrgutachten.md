@@ -1,8 +1,16 @@
 ---
 type: politics
-title: "sehrgutachten"
+title: sehrGutachten
+layout: project
+Kategorie:
+  - Open Government
+categories:
+  - Open Government
 website: https://sehrgutachten.de
 img: projects/sehrgutachten.jpg
+years: 2016 - heute
+financing:
+- ehrenamtliches Projekt
 people:
 - name: Maximilian Richt
   role: Projektleitung
@@ -12,10 +20,12 @@ contact:
   website: https://sehrgutachten.de
   twitter: sehrgutachten
   github: https://github.com/okfde/sehrgutachten
+more_text: |-
+    Alle Gutachten findest Du auf der <a href="https://sehrgutachten.de">Website</a> von sehrGutachten.
+
+contact_person: maximilianricht
 ---
-Nachdem der Bundestag entschieden hat, die Gutachten seines Wissenschaftlichen Dienstes online zu veröffentlichen (<a href="http://blog.fragdenstaat.de/2016/fragdenbundestags-erfolg/">mehr dazu hier</a>), hat er Ende Februar 2016 erste Arbeiten auf seine Webseite gestellt. Die Dokumente sind allerdings nicht aufbereitet - die Aufstellung ist unübersichtlich und nicht durchsuchbar. Deswegen gibt es <em>sehrgutachten</em>: Auf dieser Seite stellen wir die Gutachten strukturiert dar und machen sie auch im Volltext durchsuchbar. Damit ergeben sich verschiedene Möglichkeiten: Die Gutachten stehen für wissenschaftliche Analyse bereit, NutzerInnen können sich per Feed über hochgeladene Gutachten informieren und für EntwicklerInnen gibt es Daten über die Gutachten im JSON-Format.
+Nach der Kampagne [ #FragDenBundestag](https://netzpolitik.org/2016/frag-den-bundestag-4000-gutachten-warten-darauf-befreit-zu-werden/)
+ von FragDenStaat und Abgeordnetenwatch entschied der Bundestag, die Gutachten seines Wissenschaftlichen Dienstes online zu veröffentlichen. Über FragDenBundestag.de haben in den letzten drei Wochen tausende Nutzerinnen Gutachten angefragt, die der Bundestag nach dem Informationsfreiheitsgesetz (IFG) herausgeben muss. 
 
-en:
-  content: |-
-     On February 18th 2016 German Parliament (Bundestag) announced the release of thousands of previously non-public reports conducted by the Research Section of Parliament in reaction to our campaign FragDenBundestag! (<a href="http://blog.fragdenstaat.de/2016/askparliament/">More here</a>). To make all of the released reports available in different machine-readable formats and categories that are fully searchable, we launched the database sehrgutachten.de.
-
+Die Dokumente sind allerdings nicht aufbereitet – die Aufstellung ist unübersichtlich und nicht durchsuchbar. Deswegen gibt es sehrgutachten: Auf dieser Seite stellen wir die Gutachten strukturiert dar und machen sie auch im Volltext durchsuchbar. Damit ergeben sich verschiedene Möglichkeiten: Die Gutachten zu Themen wie Sicherheitspolitik, Finanzen, Strafrecht, Asylrecht und Europapolitik stehen nun für wissenschaftliche Analyse, Journalisten und zivilgesellschaftlichen Akteuren bereit. NutzerInnen können sich per Feed über hochgeladene Gutachten informieren und für EntwicklerInnen gibt es Daten über die Gutachten im JSON-Format.

@@ -18,7 +18,7 @@ people:
   - name: Walter Palmetshofer
     role: project management
 contact_person: walterpalmetshofer
-website: http://energyhack.de/
+website: https://energyhack.de
 years: 2015 - 2017
 partners:
   -  Stromnetz Berlin
