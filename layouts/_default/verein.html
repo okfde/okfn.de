@@ -92,7 +92,7 @@
         <h3>{{ .en.title }}</h3>
         <p>{{ .en.text }}</p>
         {{ end }}
-        <p><a href="{{ .pdf }}" download="okf-de-jahresbericht-{{.year}}.pdf">PDF</a></p>
+        <p><a href="{{ .pdf }}" download="okf-de-jahresbericht-{{.year}}.pdf">{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} PDF</a></p>
       </div>
     </div>
     {{ end }}
@@ -115,7 +115,7 @@
           <h3 class="h4">{{ .en.title }}</h3>
           <p>{{ .en.text}}</p>
           {{ end }}
-          <p><a href="{{.path}}">PDF</a></p>
+          <p><a href="{{.path}}">{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} PDF</a></p>
         </div>
       </li>
       {{ end }}

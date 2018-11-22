@@ -63,7 +63,7 @@
           {{ end }}
 
           {{ with .Params.website}}
-          <p>Website<br><a href="{{.}}">{{ strings.TrimPrefix "https://" . }}</a></p>
+          <p>Website<br><a href="{{.}}">{{ strings.TrimPrefix "https://" . }} {{ readFile "static/files/icons/arrow_up.svg" | safeHTML }}</a></p>
           {{ end }}
 
         </aside>
@@ -80,7 +80,7 @@
         <section class="col col-12 col-md-6">
           {{ with .Params.cta}}<h2 class="h3">{{ . }}</h2>{{ end }}
           {{ with .Params.cta_text}}<p>{{ . | markdownify }}</p>{{ end }}
-          <p><a href='{{ .Site.GetPage "/spenden"}}'>{{ i18n "project_donate" }}</a></p>
+          <p><a href='{{ .Site.GetPage "/spenden"}}'>{{ i18n "project_donate" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a></p>
         </section>
         {{ end }}
 
