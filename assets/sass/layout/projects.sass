@@ -80,3 +80,23 @@
     @include media-breakpoint-up(md)
       & + section
         border-left: 3px solid white
+
+
+.two-img
+  @include media-breakpoint-down(md)
+    margin-top: 2em
+    img
+      width: 100%
+  @include media-breakpoint-up(sm)
+    img:first-of-type
+      transform: translate(-2em, 0)
+    img:last-of-type
+      transform: translate(6em, -2em)
+
+  @include media-breakpoint-up(lg)
+    img:first-of-type
+      max-width: 700px
+      transform: translate(-9em, 5em)
+    img:last-of-type
+      max-width: 350px
+      transform: translate(20em, -5em)

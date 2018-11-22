@@ -45,9 +45,9 @@ more_text: |-
 
 Die Demokratielabore sind ein aus unterschiedlichen Formaten bestehendes Modellprojekt, das einer breiten Zielgruppe von Jugendlichen im Alter von 12 bis 21 Jahren Selbstwirksamkeitserfahrungen im Bereich von Demokratie und Technologie ermöglichen will. Ziel ist es Jugendliche zum Einsatz ihrer technischen Fähigkeiten für die Demokratie zu befähigen.
 
-![Bild vom Event](/files/projects/demokratielabore_img_1.jpg)
-![Bild vom Event](/files/projects/demokratielabore_img_2.jpg)
+<div class="two-img">
+<img alt="Bild vom Event" src="/files/projects/demokratielabore_img_1.jpg">
+<img alt="Bild vom Event" src="/files/projects/demokratielabore_img_2.jpg">
+</div>
 
 Dazu wollen wir die eigenen digitalen Fähigkeiten erfahrbar machen, die es Kindern und Jugendlichen ermöglichen, sich selbstbestimmt und aktiv an demokratischen Prozessen zu beteiligen. Hierfür nutzen wir Workshop-/Aktionsformate, bilden vor Ort Demokratie AGs und betreiben einen WebTV-Channel. Das Internet soll für und mit jungen Zielgruppen als positiver Gestaltungsraum zurückerobert werden.
-
-

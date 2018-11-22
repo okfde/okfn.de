@@ -52,10 +52,12 @@ more_text: |-
 
 Jugend hackt ist ein Programm zur Förderung des Programmiernachwuchses im deutschsprachigen Raum: Unter dem Motto “Mit Code die Welt verbessern” tüfteln die Teilnehmenden gemeinsam mit der Hilfe ehrenamtlicher Mentor/innen an Prototypen, digitalen Werkzeugen und Konzepten für ihre Vision einer besseren Gesellschaft.
 
-Seit 2013 wird Jugend hackt vom Open Knowledge Foundation Deutschland e.V. und mediale pfade.org e.V. veranstaltet. Die anhalte paulaglasernd große Nachfrage hat 2015 dazu geführt, dass neben dem Hauptevent in Berlin, auch zusätzliche vier Events in Dresden, Ulm, Köln und Hamburg stattfanden. 2016 fanden mit Jugend hackt Österreich in Linz und Jugend hackt Schweiz in Zürich auch erstmalig Veranstaltungen in weiteren Ländern statt. Außerdem freuen wir uns, dass es zusammen mit dem Goethe-Institut seit 2016 auch möglich ist, einige Teilnehmenden aus Deutschland im Rahmens des Programms [“Vernetzte Welten”](https://www.goethe.de/ins/kr/de/spr/unt/ver/20895014.html) zu Events in Ostasien mitnehmen zu können. 
+Seit 2013 wird Jugend hackt vom Open Knowledge Foundation Deutschland e.V. und mediale pfade.org e.V. veranstaltet. Die anhalte paulaglasernd große Nachfrage hat 2015 dazu geführt, dass neben dem Hauptevent in Berlin, auch zusätzliche vier Events in Dresden, Ulm, Köln und Hamburg stattfanden. 2016 fanden mit Jugend hackt Österreich in Linz und Jugend hackt Schweiz in Zürich auch erstmalig Veranstaltungen in weiteren Ländern statt. Außerdem freuen wir uns, dass es zusammen mit dem Goethe-Institut seit 2016 auch möglich ist, einige Teilnehmenden aus Deutschland im Rahmens des Programms [“Vernetzte Welten”](https://www.goethe.de/ins/kr/de/spr/unt/ver/20895014.html) zu Events in Ostasien mitnehmen zu können.
 
-![Bild vom Event](/files/projects/jugendhackt_img_1.jpg)
-![Bild vom Event](/files/projects/jugendhackt_img_2.jpg)
+<div class="two-img">
+  <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_1.jpg">
+  <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_2.jpg">
+</div>
 
 2017 vergrößerte sich die Jugend hackt Familie in Deutschland zudem um Jugend hackt in Frankfurt am Main und Halle (Saale). Seit vergangenem Jahr bietet unser Partner, die Fachstelle für Jugendmedienkultur in NRW, mit [Hello World](https://jugendhackt.org/helloworld/) außerdem Workshops für Programmier-Einsteiger/innen an. Seit Januar 2018 gibt es das Angebot auch dank Open Commons in Linz. Dort lernen Kinder und Jugendliche unter anderem spielerisch Programmiergrundlagen, löten oder 3D-drucken. Wir freuen uns, dass die Jugend hackt Familie auch 2018 weiter wächst: in diesem Jahr bieten wir zusätzlich Events in Schwerin und Heidelberg an!
 
