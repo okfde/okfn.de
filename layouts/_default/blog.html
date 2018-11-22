@@ -36,7 +36,7 @@
   <div id="js-blog-index">
     {{- partial "featured_post.html" . -}}
 
-    <ul class="l__blog__posts container">
+    <ul class="l__blog__posts containert mt-d">
       {{ range (.Paginator 20).Pages }}
       {{- partial "post_item.html" . -}}
       {{ end }}

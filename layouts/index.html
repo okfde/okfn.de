@@ -1,4 +1,4 @@
- {{ define "title"}}
+{{ define "title"}}
 <title>OKF - Open Knowledge Foundation Deutschland e.V.</title>
 {{ end }}
 
@@ -11,78 +11,79 @@
 
 {{ define "main" }}
 <main>
-
-  <div class="container">
-    <div class="row">
-      <div class="col col-12 col-md-11">
-        <h1>{{ .Params.blurb }}</h1>
+  <div class="l__home">
+    <div class="container mb-d">
+      <div class="row">
+        <div class="col col-12 col-md-11">
+          <h1>{{ .Params.blurb }}</h1>
+        </div>
       </div>
     </div>
-  </div>
 
-  <div class="container l__content">
-    <div class="row">
-      <div class="col col-12 col-sm-8 col-md-6">
-        <img src="https://placekitten.com/460/360" alt="">
-        <img src="https://placekitten.com/470/320" alt="">
+    <div class="container l__content mb-l">
+      <div class="row align-items-center">
+        <div class="col col-12 col-sm-7 col-md-8 l__home__img">
+          <img src="https://placekitten.com/460/360" alt="">
+          <img src="https://placekitten.com/470/320" alt="">
+        </div>
+        <div class="col col-12 col-sm-5 col-md-4">
+          <p>{{ .Params.work }}</p>
+          <p>{{ with .Site.GetPage "/profil" }}<a href="{{ .Permalink }}">{{ i18n "home_about_work" }}</a>{{ end }}</p>
+        </div>
+      </div>
+    </div>
+
+    <section class="container mt-l">
+      <div class="row justify-between align-items-baseline">
+        <div class="col col-10 mb-s">
+          <h2>{{ i18n "home_our_projects"}}</h2>
+        </div>
+        <div class="col col-2">
+          <p>{{ with .Site.GetPage "/projekte" }}<a href="{{ .Permalink }}">{{ i18n "home_all_projects" }}</a>{{ end }}</p>
+        </div>
       </div>
       <div>
-        <p>{{ .Params.work }}</p>
-        <p>{{ with .Site.GetPage "/profil" }}<a href="{{ .Permalink }}">{{ i18n "home_about_work" }}</a>{{ end }}</p>
+        <ul class="row l__projects__list js-isotope l__projects__list--home">
+          {{ range first 4 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
+          {{- partial "projects/tile" . -}}
+          {{ end }}
+        </ul>
       </div>
-    </div>
-  </div>
+    </section>
 
-  <section class="container">
-    <div class="row justify-between">
-      <div class="col col-10">
-        <h2>Unsere Projekte</h2>
-      </div>
-      <div class="col col-2">
-        <p>{{ with .Site.GetPage "/projekte" }}<a href="{{ .Permalink }}">{{ i18n "home_all_projects" }}</a>{{ end }}</p>
-      </div>
-    </div>
-    <div>
-      <ul class="row l__projects__list js-isotope l__projects__list--home">
-        {{ range first 4 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
-        {{- partial "projects/tile" . -}}
-        {{ end }}
-      </ul>
-    </div>
-  </section>
-
-  <section class="l__content__bg--grey">
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col col-12 col-md-4">
-          <img src="https://placekitten.com/240/356" alt="">
-        </div>
-        <div class="col col-12 col-md-8 l__content ">
-          <h3>{{ .Params.donate_title }}</h3>
-          <p>{{ .Params.donate_text}}</p>
-          <p>{{ with .Site.GetPage "/spenden" }}<a href="{{ .Permalink }}">{{ i18n "home_donate" }}</a>{{ end }}</p>
+    <section class="l__content__bg--grey mt-l l__home__donate">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col col-6 col-md-3 offset-md-1">
+            <img src="https://placekitten.com/240/356" alt="" class="l__home__donate__img">
+          </div>
+          <div class="col col-6 col-md-7 offset-md-1 l__content ">
+            <h3>{{ .Params.donate_title }}</h3>
+            <p>{{ .Params.donate_text}}</p>
+            <p>{{ with .Site.GetPage "/spenden" }}<a href="{{ .Permalink }}">{{ i18n "home_donate" }}</a>{{ end }}</p>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-    <section class="container">
-    <div class="row justify-between">
-      <div class="col col-10">
-        <h2>Neues aus dem Blog</h2>
-      </div>
-      {{- partial "featured_post.html" . -}}
+    <section class="container mt-l mb-l">
+      <div class="row justify-between">
+        <div class="col col-10 mb-s">
+          <h2>Neues aus dem Blog</h2>
+        </div>
+        {{- partial "featured_post.html" . -}}
 
-      <ul class="l__blog__posts container">
-        {{ range first 4 ( sort (where $.Site.RegularPages "Section" "blog")) }}
+        <ul class="l__blog__posts container mt-s">
+          {{ range first 4 ( sort (where $.Site.RegularPages "Section" "blog")) }}
           {{- partial "post_item.html" . -}}
-        {{ end }}
-      </ul>
-    </div>
+          {{ end }}
+        </ul>
+      </div>
 
-    <div class="col col-12">
-      <p>{{ with .Site.GetPage "/blog" }}<a href="{{ .Permalink }}">{{ i18n "home_all_posts" }}</a>{{ end }}</p>
-    </div>
-  </section>
+      <div class="col col-12">
+        <p>{{ with .Site.GetPage "/blog" }}<a href="{{ .Permalink }}">{{ i18n "home_all_posts" }}</a>{{ end }}</p>
+      </div>
+  </div>
+    </section>
 </main>
 {{ end }}

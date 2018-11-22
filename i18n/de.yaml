@@ -2,6 +2,8 @@
   translation: "Über unsere Arbeit"
 - id: home_all_projects
   translation: "Alle Projekte"
+- id: home_our_projects
+  translation: "Unsere Projekte"
 - id: home_donate
   translation: "Jetzt spenden"
 - id: home_all_posts

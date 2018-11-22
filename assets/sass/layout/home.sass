@@ -1,0 +1,38 @@
+.l__home
+  .container
+    max-width: $max-width
+    margin-left: auto
+    margin-right: auto
+
+.l__home__img
+  position: relative
+
+  div
+    position: relative
+  img
+    width: 100%
+    height: auto
+  @include media-breakpoint-up(lg)
+    margin-bottom: 130px
+    img:first-of-type
+      position: absolute
+      right: 6em
+      max-width: 460px
+      z-index: 1
+    img:last-of-type
+      max-width: 475px
+      transform: translate(3em, 7em)
+
+
+.l__home__donate__img
+  width: 100%
+
+@include media-breakpoint-up(lg)
+  .l__home__donate
+    position: relative
+    padding: 3em 0
+    margin-bottom: 240px
+
+  .l__home__donate__img
+    position: absolute
+    top: -12em
