@@ -1,3 +1,36 @@
+// prep before DOMContentloaded
+window.blogSearchData;
+var searchReq = new XMLHttpRequest();
+searchReq.open('GET', '/blog/index.json', true);
+searchReq.onload = function () {
+  if (this.status >= 200 && this.status < 400) {
+    console.log("Got blog search index");
+    window.blogSearchData = JSON.parse(this.response);
+
+    window.bidx = lunr(function () {
+      this.field('id');
+      this.field('url');
+      this.field('title', { boost: 50 });
+      this.field('tags', { boost: 10});
+      this.field('content', { boost: 10 });
+
+      window.blogSearchData.forEach(function (obj, index) {
+        obj.id = index;
+        this.add(obj);
+      }, this);
+    });
+
+  } else {
+    console.log("Failed status for blog search index. Check network panel");
+  }
+};
+searchReq.onerror = function () {
+  console.log("Error when attempting to load blog search index.");
+};
+searchReq.send();
+
+
+// element glue
 document.addEventListener('DOMContentLoaded', function (event) {
   var searchOverlay = document.getElementById('js-blog-search-overlay');
   var searchInput = document.getElementById('js-blog-search-input');
@@ -16,36 +49,6 @@ document.addEventListener('DOMContentLoaded', function (event) {
         searchTerm.innerHtml = '';
       }
     }
-
-    window.blogSearchData;
-    var searchReq = new XMLHttpRequest();
-    searchReq.open('GET', '/blog/index.json', true);
-    searchReq.onload = function () {
-      if (this.status >= 200 && this.status < 400) {
-        console.log("Got blog search index");
-        window.blogSearchData = JSON.parse(this.response);
-
-        window.bidx = lunr(function () {
-          this.field('id');
-          this.field('url');
-          this.field('title', { boost: 50 });
-          this.field('tags', { boost: 10});
-          this.field('content', { boost: 10 });
-
-          window.blogSearchData.forEach(function (obj, index) {
-            obj.id = index;
-            this.add(obj);
-          }, this);
-        });
-
-      } else {
-        console.log("Failed status for blog search index. Check network panel");
-      }
-    };
-    searchReq.onerror = function () {
-      console.log("Error when attempting to load blog search index.");
-    };
-    searchReq.send();
 
     function lunrSearch (event) {
       var query = searchInput.value;

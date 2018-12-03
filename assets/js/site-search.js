@@ -1,5 +1,39 @@
 // https://discourse.gohugo.io/t/live-hugo-site-search-with-lunr-js/2857
 
+// prep index before DOMcontentloaded
+window.siteSearchData;
+var searchReq = new XMLHttpRequest();
+searchReq.open('GET', "/index.json", true);
+searchReq.onload = function() {
+  if (this.status >= 200 && this.status < 400) {
+    console.log("Got the site index");
+    siteSearchData = JSON.parse(this.response);
+
+    window.idx = lunr(function() {
+      this.field('id');
+      this.field('url', { boost: 20});
+      this.field('section', { boost: 30});
+      this.field('title', { boost: 50 });
+      this.field('content', { boost: 10 });
+
+      siteSearchData.forEach(function(obj, index) {
+        obj.id = index;
+        this.add(obj);
+      }, this);
+    });
+
+  } else {
+    console.log("Failed status for json. Check network panel");
+  }
+};
+searchReq.onerror = function() {
+  console.log("Error when attempting to load json.");
+};
+searchReq.send();
+
+
+
+// glue to elements
 document.addEventListener('DOMContentLoaded', function (event) {
   var searchOverlay = document.querySelector('.js-search-form');
   var searchButton = document.getElementById('js-search-button');
@@ -59,38 +93,6 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
 
     //for more information on lunr.js, go to http://lunrjs.com/
-    window.siteSearchData;
-    searchInput.addEventListener('keyup', lunrSearch, true);
-
-    var searchReq = new XMLHttpRequest();
-    searchReq.open('GET', "/index.json", true);
-    searchReq.onload = function() {
-      if (this.status >= 200 && this.status < 400) {
-        console.log("Got the site index");
-        siteSearchData = JSON.parse(this.response);
-
-        window.idx = lunr(function() {
-          this.field('id');
-          this.field('url', { boost: 20});
-          this.field('section', { boost: 30});
-          this.field('title', { boost: 50 });
-          this.field('content', { boost: 10 });
-
-          siteSearchData.forEach(function(obj, index) {
-            obj.id = index;
-            this.add(obj);
-          }, this);
-        });
-
-      } else {
-        console.log("Failed status for json. Check network panel");
-      }
-    };
-    searchReq.onerror = function() {
-      console.log("Error when attempting to load json.");
-    };
-    searchReq.send();
-
     function lunrSearch(event) {
       var query = searchInput.value;
       if (query.length === 0) {
@@ -101,6 +103,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
         displayResults(matches);
       }
     }
+    searchInput.addEventListener('keyup', lunrSearch, true);
 
     function displayResults(results) {
       var inputVal = searchInput.value;
