@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
   var searchOverlay = document.getElementById('js-blog-search-overlay');
   var searchInput = document.getElementById('js-blog-search-input');
   var closeSearch = document.getElementById('js-blog-search-clear');
-  var searchResults = document.getElementById('js-search-results');
+  var searchResults = document.getElementById('js-blog-search-results');
   var searchTerm = document.getElementById('js-search-term');
   var blogIndex = document.getElementById('js-blog-index');
 
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
           out += '<p class="c__post__date h4 col-12 col-sm-2">'+ date +'</p>';
           out += '</a></li>';
         });
-        searchResults.innerHTML += out;
+        searchResults.innerHTML = out;
       } else {
         searchResults.innerHTML = emptyResults(inputVal);
       }
