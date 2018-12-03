@@ -15,7 +15,7 @@
 - id: footer_signup
   translation: "anmelden"
 - id: search
-  translation: "Suche"
+  translation: "Suchen"
 - id: search_open
   translation: "Suche öffnen"
 - id: search_close
@@ -40,3 +40,5 @@
   translation: "Mehr erfahren?"
 - id: topics_more
   translation: "Mehr lesen über"
+- id: blog_search
+  translation: "Blog durchsuchen"

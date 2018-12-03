@@ -36,3 +36,5 @@
   translation: "Financing"
 - id: topics_more
   translation: "Read more about"
+- id: blog_search
+  translation: "Search blog"
