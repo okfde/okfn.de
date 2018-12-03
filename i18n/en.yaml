@@ -16,6 +16,8 @@
   translation: "signup"
 - id: search
   translation: "Search"
+- id: search_open
+  translation: "Open search"
 - id: search_close
   translation: "Close search"
 - id: projects

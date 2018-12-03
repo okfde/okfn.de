@@ -32,18 +32,20 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
     window.addEventListener('keyup', function(event) {
       var keyPressed = event.keyCode;
-      if (keyPressed === 83 && searchOverlay.classList.contains('open')) {
-        return;
-      } else if (keyPressed === 83) {
-        searchOverlay.classList.add('open');
-        if (searchInput.value.length > 0) {
+      if (!document.getElementById('js-blog-search-input')) {
+        if (keyPressed === 83 && searchOverlay.classList.contains('open')) {
+          return;
+        } else if (keyPressed === 83) {
+          searchOverlay.classList.add('open');
+          if (searchInput.value.length > 0) {
+            clearSearch();
+            focusInput();
+          }
+          searchInput.focus();
+        } else if (keyPressed === 27 && searchOverlay.classList.contains('open')) {
+          searchOverlay.classList.remove('open');
           clearSearch();
-          focusInput();
         }
-        searchInput.focus();
-      } else if (keyPressed === 27 && searchOverlay.classList.contains('open')) {
-        searchOverlay.classList.remove('open');
-        clearSearch();
       }
     }, true);
 

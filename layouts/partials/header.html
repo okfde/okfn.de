@@ -23,7 +23,12 @@
           {{ end }}
           {{ end }}
         </li>
-        <li class="search-btn"><button id="js-search-button">🔍</button></li>
+        <li class="l__search__btn">
+          <button class="" id="js-search-button">
+            <span class="sr-only">{{ i18n "search_open"}}</span>
+            {{ readFile "static/files/icons/search.svg" | safeHTML }}
+          </button>
+        </li>
         {{ with .Site.GetPage "/spenden" }}<li class="c__donate-btn"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
 
