@@ -1,0 +1,35 @@
+.l__search__overlay
+  position: absolute
+  background: white
+  width: 100%
+  min-height: 100%
+  left: 0
+  top: 81px
+  padding: 3em 0
+  z-index: 8
+  display: none
+  &.open
+    display: block
+
+.l__search__input
+  display: block
+  width: 100%
+  background: transparent
+  border: none
+  border-bottom: 2px solid $anchor
+  padding: 0.1em 0.4em
+  font-size: 2rem
+  color: $anchor
+
+.l__search__results
+  margin-top: $space-double
+  font-size: 18px
+
+.l__search__result
+  padding: 0.5em 0
+  &:not(:last-of_type)
+    border-bottom: 1px solid $greyish
+
+
+.l__search__input-value
+  color: $anchor

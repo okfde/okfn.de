@@ -14,6 +14,10 @@
   translation: "Kontakt"
 - id: footer_signup
   translation: "anmelden"
+- id: search
+  translation: "Suche"
+- id: search_close
+  translation: "Suche schließen"
 - id: projects
   translation: "Projekte"
 - id: projects_all

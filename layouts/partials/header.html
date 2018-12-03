@@ -23,9 +23,25 @@
           {{ end }}
           {{ end }}
         </li>
-        <li class="search-btn">🔍</li>
+        <li class="search-btn"><button id="js-search-button">🔍</button></li>
         {{ with .Site.GetPage "/spenden" }}<li class="c__donate-btn"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
+
+      <div id="" class="l__search__overlay js-search-form">
+        <div class="container">
+          <div class="row align-items-center">
+            <h2 class="h1 col col-md-3">{{ i18n "search"}}</h2>
+            <div class="col col-md-5">
+              <input type="text" id="js-search-input" class="l__search__input">
+            </div>
+            <div class="col col-md-1 offset-md-2">
+              <button id="js-close-search" title='{{ i18n "search_close" }}' aria-label='{{ i18n "close_search"}}'>x</button>
+            </div>
+          </div>
+
+          <ul class="l__search__results" id="js-search-results"></ul>
+        </div>
+      </div>
     </div>
   </div>
 </header>

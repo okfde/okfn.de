@@ -1,11 +1,14 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- range where .Site.Pages "Type" "not in"  (slice "page" "json") -}}
-  {{- $link := .Permalink -}}
-    {{- $.Scratch.Add "index" (dict "uri" .Permalink "title" .Title "content" .Plain "summary" .Summary) -}}
-    {{- range sort (.Resources.ByType "page") "Params.order" -}}
-      {{- $title := replace (lower .Title) " " "-" -}}
-      {{- $anchor :=  printf "%s#%s" $link $title -}}
-      {{- $.Scratch.Add "index" (dict "uri" $anchor "title" .Title "content" .Plain "summary" .Summary) -}}
-    {{- end -}}
-  {{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+[{{ range $index, $page := where .Site.Pages "Type" "not in"  (slice "page" "json") }}
+{{ if ne .Section "tags"}}
+ {{ if ne $page.Type "xml"}}
+   {{ if ne $index 0 }},{{ end }}
+     {
+       "url": "{{ $page.Permalink }}",
+       "title": {{ $page.Title | jsonify}},
+       "section": "{{ .Section }}",
+       "date": "{{ $page.Date }}",
+       "content": {{ $page.PlainWords | jsonify }}
+     }
+ {{ end }}
+ {{ end }}
+ {{ end }}]
