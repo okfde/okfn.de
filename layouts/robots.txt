@@ -1,0 +1,5 @@
+User-agent: *
+
+{{ range  where .Site.Pages "Section" "projektfilter"}}
+Disallow: {{.RelPermalink}}
+{{end}}

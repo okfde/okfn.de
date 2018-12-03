@@ -2,6 +2,7 @@ baseURL = "https://beta.okfn.de"
 languageCode = "de-DE"
 title = "OKF"
 defaultContentLanguage = "de"
+enableRobotsTXT = true
 
 [permalinks]
   blog = 'blog/:year/:month/:slug/'
