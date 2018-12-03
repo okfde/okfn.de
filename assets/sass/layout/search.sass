@@ -1,6 +1,6 @@
 .l__search__overlay
   position: absolute
-  background: white
+  background: $pale-grey
   width: 100%
   min-height: 100%
   left: 0
@@ -12,14 +12,21 @@
     display: block
 
 .l__search__input
-  display: block
-  width: 100%
-  background: transparent
+  display: inline-block
+  width: 82%
+  background: 0 0
   border: none
-  border-bottom: 2px solid $anchor
-  padding: 0.1em 0.4em
-  font-size: 2rem
-  color: $anchor
+  padding: 0.3em 0.4em
+  font-size: 2.6rem
+  background: white
+  &:focus
+    outline: $anchor 1px solid
+  @include media-breakpoint-up(md)
+    width: 84%
+  @include media-breakpoint-up(lg)
+    width: 88%
+  @include media-breakpoint-up(xl)
+    width: 90%
 
 .l__search__results
   margin-top: $space-double
@@ -27,8 +34,19 @@
 
 .l__search__result
   padding: 0.5em 0
-  &:not(:last-of_type)
-    border-bottom: 1px solid $greyish
+  margin-bottom: 2em
+  p:last-of-type:after
+    content: ""
+    display: block
+    clear: left
+  a
+    color: black
+    &:hover,
+    &:active,
+    &:focus
+      text-decoration: none;
+      .l__search__result__header
+        color: $anchor
 
 .l__search__input-value
   color: $anchor
@@ -43,3 +61,33 @@
     svg
       width: 1rem
       height: 1rem
+
+.l__search__close
+  display: inline-block
+  width: 4rem
+  height: 4.5rem
+  vertical-align: top
+  font-size: 2em
+  color: black
+  border: none
+  background: white
+  &:focus
+    outline: $anchor 1px solid
+
+.l__search__result__header
+  margin-bottom: 0.5em
+  margin-top: 0.2em
+
+.l__search__result__image
+  width: 265px
+  height: 179px
+  object-fit: cover
+  margin-right: 2em
+  @include media-breakpoint-up(md)
+    float: left
+
+.l__search_results__count
+  font-size: 18px
+  font-weight: 500
+  color: grey
+  margin-top: 1em

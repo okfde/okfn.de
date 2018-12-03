@@ -35,16 +35,17 @@
       <div id="" class="l__search__overlay js-search-form">
         <div class="container">
           <div class="row align-items-center">
-            <h2 class="h1 col col-md-3">{{ i18n "search"}}</h2>
-            <div class="col col-md-5">
-              <input type="text" id="js-search-input" class="l__search__input">
-            </div>
-            <div class="col col-md-1 offset-md-2">
-              <button id="js-close-search" title='{{ i18n "search_close" }}' aria-label='{{ i18n "close_search"}}'>x</button>
+            <div class="col col-12 col-md-8 offset-md-2">
+              <h2 class="h3">{{ i18n "search"}}</h2>
+              <div>
+                <label for="js-search-input" class="sr-only">Suchfeld</label>
+                <input type="text" id="js-search-input" class="l__search__input">
+                <button id="js-close-search" class="l__search__close" title='{{ i18n "search_close" }}' aria-label='{{ i18n "search_close"}}'>x</button>
+              </div>
+              <div><p id="js-search-result-count" class="l__search_results__count"></p></div>
+              <ul class="l__search__results" id="js-search-results"></ul>
             </div>
           </div>
-
-          <ul class="l__search__results" id="js-search-results"></ul>
         </div>
       </div>
     </div>

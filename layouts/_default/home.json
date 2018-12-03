@@ -1,5 +1,6 @@
 [{{ range $index, $page := where .Site.Pages "Type" "not in"  (slice "page" "json") }}
-{{ if ne .Section "tags"}}
+ {{ if ne .Section "tags"}}
+ {{ if ne .Section "projektfilter"}}
  {{ if ne $page.Type "xml"}}
    {{ if ne $index 0 }},{{ end }}
      {
@@ -7,8 +8,12 @@
        "title": {{ $page.Title | jsonify}},
        "section": "{{ .Section }}",
        "date": "{{ $page.Date }}",
+       {{ if isset $page.Params "img" }}
+       "img": "{{ $page.Params.img }}",
+       {{ end }}
        "content": {{ $page.PlainWords | jsonify }}
      }
+ {{ end }}
  {{ end }}
  {{ end }}
  {{ end }}]

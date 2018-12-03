@@ -17,16 +17,13 @@ document.addEventListener('DOMContentLoaded', function (event) {
       }
     }
 
-    window.searchData;
-    searchInput.addEventListener('keyup', lunrSearch, true);
-
+    window.blogSearchData;
     var searchReq = new XMLHttpRequest();
-
     searchReq.open('GET', '/blog/index.json', true);
     searchReq.onload = function () {
       if (this.status >= 200 && this.status < 400) {
         console.log("Got blog search index");
-        searchData = JSON.parse(this.response);
+        window.blogSearchData = JSON.parse(this.response);
 
         window.bidx = lunr(function () {
           this.field('id');
@@ -35,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
           this.field('tags', { boost: 10});
           this.field('content', { boost: 10 });
 
-          searchData.forEach(function (obj, index) {
+          window.blogSearchData.forEach(function (obj, index) {
             obj.id = index;
             this.add(obj);
           }, this);
@@ -66,6 +63,8 @@ document.addEventListener('DOMContentLoaded', function (event) {
         displayResults(matches);
       }
     }
+    searchInput.addEventListener('keyup', lunrSearch, true);
+
 
     function emptyResults (term) {
       var out;
@@ -80,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
         searchResults.innerHTML = '';
         var out = '';
         results.forEach(function(result) {
-          var item = window.searchData[result.ref];
+          var item = window.blogSearchData[result.ref];
           var date = new Date(item.date.replace(' +0000 UTC', 'Z'))
               .toLocaleDateString('de-DE');
           out += '<li class="c__post--item">';

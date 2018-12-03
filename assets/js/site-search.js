@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
   var searchInput = document.getElementById('js-search-input');
   var closeSearch = document.getElementById('js-close-search');
   var searchResults = document.querySelector('#js-search-results');
+  var searchResultCount = document.querySelector('#js-search-result-count');
 
   if (searchOverlay
       && searchButton
@@ -16,6 +17,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
     function clearSearch() {
       searchInput.value = '';
       searchResults.innerHTML = '';
+      searchResultCount.innerHTML = '';
     }
 
     function focusInput() {
@@ -104,18 +106,28 @@ document.addEventListener('DOMContentLoaded', function (event) {
       var inputVal = searchInput.value;
       if (results.length) {
         searchResults.innerHTML = '';
+        searchResultCount.innerHTML = results.length + ' Ergebnisse';
+        var long_string = '';
         results.forEach(function(result) {
           var item = window.siteSearchData[result.ref];
           var appendString = '<li class="l__search__result">';
-          appendString += '<h4><a href="'+ item.url +'">'+ item.title +'</a></h4>';
+          var section, img;
+          appendString += '<a href="'+ item.url +'">';
           if (item.section) {
-            var section = [item.section.split('')[0].toUpperCase(),
-                           item.section.split('').splice(1).join('')].join('');
+            section = [item.section.split('')[0].toUpperCase(),
+                       item.section.split('').splice(1).join('')].join('');
             appendString += '<p>In '+ section +'</p>';
           }
+          appendString += '<h3 class="l__search__result__header">'+ item.title +'</h3>';
+          if (section && section === "Projekte") {
+            appendString += '<img src="/files/'+ item.img  +'" width="265" height="179" class="l__search__result__image">';
+          }
+          appendString += '<p>'+ item.content.slice(0, 35).join(" ") +' [...]</p></a>';
           appendString += '</li>';
-          searchResults.innerHTML += appendString;
+          long_string += appendString;
         });
+        // this is the most expensive thing! Do it only once for results
+        searchResults.innerHTML += long_string;
       } else {
         searchResults.innerHTML = `<li class=\"l__search__result none\">
 Keine Ergebnisse für <span class=\"l__search__input-value\">${inputVal}</span> gefunden.<br/>
