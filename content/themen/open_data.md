@@ -7,7 +7,7 @@ img_header: /okf/themen/opendata.png
 color: "#382eff"
 ---
 
-Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und „[share-alike](https://en.wikipedia.org/wiki/Share-alike)“. Davon ausgenommen sind personenbezogene Daten.
+Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und share-alike. Davon ausgenommen sind personenbezogene Daten.
 <!--more-->
 
 Die wichtigsten Eigenschaften offener Daten sind:

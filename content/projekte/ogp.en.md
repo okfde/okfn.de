@@ -4,6 +4,7 @@ tile: single
 title: Open Gov Netzwerk
 subtitle: Regierungshandeln für Bürger verbessern
 img: projects/OGP_Projektuebersicht_smallTile.png
+img_header: projects/opengov_Header.jpg
 layout: project
 people:
   - name: Michael Peters

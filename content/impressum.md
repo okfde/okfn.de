@@ -12,7 +12,7 @@ Deutschland
 **Telefon:** +49 30 57 70 36 660<br>
 **Fax:** +49 30 57 70 36 669
 
-[OpenStreetMaps](https://www.openstreetmap.org/way/29386807) - [Google Maps](https://www.google.com/maps/place/Singerstra%C3%9Fe+109,+10179+Berlin/@52.5167261,13.4232556,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3db119b3fd:0x9131b3b816d6709!8m2!3d52.5167261!4d13.4254443?hl=en)
+[OpenStreetMap](https://www.openstreetmap.org/way/29386807) - [Google Maps](https://www.google.com/maps/place/Singerstra%C3%9Fe+109,+10179+Berlin/@52.5167261,13.4232556,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3db119b3fd:0x9131b3b816d6709!8m2!3d52.5167261!4d13.4254443?hl=en)
 
 
 **Vereinsregister Nr:** VR 30468 B<br>
@@ -51,28 +51,24 @@ Die Open Knowledge Foundation möchte Ihnen mit dieser Datenschutzerklärung erl
 
 Die datenschutzrechtlich Verantwortliche für die auf unserer Website stattfindenden Datenverarbeitungen ist die
 
-    Open Knowledge Foundation Deutschland e.V.
-    Singerstr. 109
-    10179 Berlin
-    Deutschland
+Open Knowledge Foundation Deutschland e.V.
+Singerstr. 109
+10179 Berlin
+Deutschland
 
-E-Mail:
-    info@okfn.de
-Telefon:
-    +49 30 57703666 0
-Fax:
-    +49 30 57703666 9
+E-Mail: info@okfn.de<br>
+Telefon: +49 30 57703666 0<br>
+Fax: +49 30 57703666 9<br>
 
 Unser Datenschutzbeauftragter ist erreichbar unter:
 
-    Open Knowledge Foundation Deutschland e.V.
-    - Datenschutzbeauftragter -
-    Singerstr. 109
-    10179 Berlin
-
-    Deutschland
-
-    datenschutz@okfn.de
+Open Knowledge Foundation Deutschland e.V.<br>
+- Datenschutzbeauftragter -<br>
+Singerstr. 109<br>
+10179 Berlin<br>
+Deutschland<br>
+<br>
+datenschutz@okfn.de
 
 ### II. Personenbezogene Daten, Zwecke und Rechtsgrundlage der Datenverarbeitung
 

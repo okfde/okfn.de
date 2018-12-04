@@ -21,6 +21,7 @@ financing:
   - Spenden, Ehrenamt
 years: 2018
 contact-person: arnesemsrott
+img_header: projects/openSchufa_Header.jpg
 cta: Mitmachen
 cta_text: |-
     Um den Algorithmus der Schufa zu rekonstruieren, brauchen wir von möglichst vielen Menschen ihre Selbstauskunft. Spendet uns dafür eure Daten!

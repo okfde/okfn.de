@@ -9,6 +9,7 @@ categories:
 tile: small
 layout: project
 website: https://kleineanfragen.de
+img_header: projects/KleineAnfragen_Header.png
 img: projects/KleineAnfragen_Projektuebersicht_smallTile.png
 people:
 - name: Maximilian Richt

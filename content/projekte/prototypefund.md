@@ -10,6 +10,7 @@ tile: double
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/prototypefund_square.jpg
+img_header: projects/PrototypeFund_Header.png
 layout: project
 weight: 4
 people:

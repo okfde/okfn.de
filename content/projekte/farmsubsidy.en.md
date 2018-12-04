@@ -6,7 +6,7 @@ title: "FarmSubsidy"
 layout: project
 website: https://farmsubsidy.org
 background: projects/farmsubsidy.jpg
-img: projects/FarmSubsidy_Projektuebersicht_smallTile.png
+img_header: projects/FarmSubsidy_Header.png
 people:
 - name: Stefan Wehrmeyer
   role: Projektbetreuung
