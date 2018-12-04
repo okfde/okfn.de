@@ -1,3 +1,4 @@
 ---
 title: Donate
+layout: donation
 ---
