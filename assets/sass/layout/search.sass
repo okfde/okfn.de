@@ -40,6 +40,7 @@
     display: block
     clear: left
   a
+    display: block
     color: black
     &:hover,
     &:active,
@@ -47,6 +48,8 @@
       text-decoration: none;
       .l__search__result__header
         color: $anchor
+    &:focus
+      outline: 1px solid $anchor
 
 .l__search__input-value
   color: $anchor
