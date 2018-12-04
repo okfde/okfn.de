@@ -27,3 +27,53 @@
   en:
     title: Report 2016
     text: Some text
+
+- year: 2015
+  img: https://placekitten.com/751/416
+  pdf: path/to/file.pdf
+  de:
+    title: Jahresbericht 2015
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Heraus-forderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Report 2015
+    text: Some text
+
+- year: 2014
+  img: https://placekitten.com/751/416
+  pdf: path/to/file.pdf
+  de:
+    title: Jahresbericht 2014
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Heraus-forderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Report 2014
+    text: Some text
+
+- year: 2013
+  img: https://placekitten.com/751/416
+  pdf: path/to/file.pdf
+  de:
+    title: Jahresbericht 2013
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Heraus-forderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Report 2013
+    text: Some text
+
+- year: 2012
+  img: https://placekitten.com/751/416
+  pdf: path/to/file.pdf
+  de:
+    title: Jahresbericht 2012
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Heraus-forderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Report 2012
+    text: Some text
+
+- year: 2011
+  img: https://placekitten.com/751/416
+  pdf: path/to/file.pdf
+  de:
+    title: Jahresbericht 2011
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Heraus-forderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Report 2011
+    text: Some text

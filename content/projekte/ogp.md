@@ -3,7 +3,8 @@ type: politics
 tile: single
 title: Open Gov Netzwerk
 subtitle: Regierungshandeln für Bürger verbessern
-img: projects/OGP_Projektuebersicht_smallTile.png
+img_header: projects/opengov_Header.jpg
+img: projects/OGP_Projektuebersicht_smallTile.jpg
 layout: project
 weight: 4
 people:

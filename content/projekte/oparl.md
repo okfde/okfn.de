@@ -9,6 +9,7 @@ categories:
 tile: single
 website: https://oparl.org
 img: projects/OParl_Projektuebersicht_smallTile.png
+img_header: projects/OParl_Header.png
 layout: project
 contact_person: ernestoruge
 people:

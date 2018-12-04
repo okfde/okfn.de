@@ -9,7 +9,7 @@ tile: double
 layout: project
 weight: 3
 img: projects/Demokratielabore_Projektuebersicht_bigTile.png
-img_header: projects/codefor_Header.png
+img_header: projects/Demokratielabore_Header.png
 people:
   - name: Jasmin Helm
     role: Projektmanagerin

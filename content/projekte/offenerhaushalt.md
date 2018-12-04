@@ -2,6 +2,9 @@
 type: politics
 title: Offener Haushalt
 subtitle: Haushaltsdaten einfach verständlich präsentieren
+background: backgrounds/openbudgets.png
+img_header: projects/offenerHaushalt_Header.png
+img: projects/offenerHaushalt_Projektuebersicht_smallTile.png
 kategorien:
   - Offenes Regierungshandeln
   - Open data
@@ -12,7 +15,6 @@ tile: single
 layout: project
 website: https://offenerhaushalt.de
 background: backgrounds/offenerhaushalt.jpg
-img: projects/dummy_Projektuebersicht_smallTile.png
 years: 2011-heute
 contact_person: annaalberts
 financing:
