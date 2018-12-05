@@ -1,0 +1,97 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="" />
+<meta name="Description" content="OKF Jobs Ausschreibungen">
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <div class="l__content container">
+    <h1>{{ .Title }}</h1>
+  </div>
+
+  {{ $haspost := len .Pages }}
+  {{ if eq $haspost 0}}
+  <div class="container l__content">
+    <div class="row">
+      <div class="col col-12 col-md-6">
+        <p>{{ with .Params.no_jobs }}{{.}}{{ end }}</p>
+        {{- partial "newsletter" -}}
+      </div>
+    </div>
+  </div>
+  {{ else }}
+  <div class="container l__content">
+    <div class="row">
+      <div class="col col-12 col-md-6">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <h2 class="h3 mt-d">{{ i18n "job_current" }}:</h2>
+    <ul class=" containert mt-s">
+      {{ range .Pages }}
+      {{- partial "post_item.html" . -}}
+      {{ end }}
+    </ul>
+  </div>
+
+  {{ end }}
+
+
+  <aside class="container mt-l c__off-grid">
+    <div class="row justify-content-between">
+      {{with .Params.img_2 }}
+      <div class="col col-12 col-sm-6 col-md-5 mt-l">
+        <img src="{{.}}" alt="">
+      </div>
+      {{ end }}
+      {{with .Params.img_1 }}
+      <div class="col col-12 col-sm-6 col-md-5">
+        <img src="{{.}}" alt="">
+      </div>
+      {{ end }}
+    </div>
+    <div class="row reverse justify-content-between mt-s">
+      {{with .Params.img_4 }}
+      <div class="col col-12 col-md-4 col-sm-5 align-self-end">
+        <img src="{{.}}" alt="">
+      </div>
+      {{ end }}
+      {{with .Params.img_3 }}
+      <div class="col col-12 col-sm-7 col-md-8 mb-d">
+        <img src="{{.}}" alt="">
+      </div>
+      {{ end }}
+      {{with .Params.img_5 }}
+      <div class="col col-12 col-sm-6 offset-sm-5 col-md-4 offset-md-6 mt-ns">
+        <img src="{{.}}" alt="">
+      </div>
+      {{ end }}
+    </div>
+    <div class="row reverse justify-content-center">
+      {{with .Params.img_6 }}
+      <div class="col col-12 col-sm-7 col-md-5 mb-d">
+        <img src="{{.}}" alt="">
+      </div>
+      {{ end }}
+      {{with .Params.img_7 }}
+      <div class="col col-12 col-sm-5 col-md-5 align-self-end">
+        <img src="{{.}}" alt="">
+      </div>
+      {{ end }}
+    </div>
+  </aside>
+
+</main>
+{{ end }}

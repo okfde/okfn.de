@@ -1,0 +1,61 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="" />
+<meta name="Description" content="">
+{{ end }}
+
+{{ define "main" }}
+<section class="l__donation container align-items-end">
+  <div class="row align-items-end">
+    <h1 class="col col-5 col-sm-10">{{ .Params.blurb }}</h1>
+  </div>
+  <div class="row mt-0 l__content">
+    <div class="col col-12 col-md-8">
+      {{ .Content }}
+    </div>
+    <div class="col col-12 col-md-3 offset-md-1 l__donation__itz">
+      <img src="/okf/logo_itz.jpg" alt="Logo ITZ" width="227" height="70">
+      {{ with .Params.itz_text}}<p>{{.}}</p>{{ end }}
+      {{ with .Params.itz_link}}<p><a>{{.}}</a></p>{{ end }}
+    </div>
+  </div>
+</section>
+<section class="l__donation container l__content">
+  <div class="row">
+    <div class="col col-12 col-md-6 col-lg-5">
+      {{ with .Params.bank_name}}<h3>{{.}}</h3>{{ end }}
+      {{ with .Params.bank_text}}<p>{{.}}</p>{{ end }}
+      <noscript><p>Bitte JavaScript einschalten wenn du kein Roboter bist.</p></noscript>
+      <script>document.write(`
+<dl class="l__donation__bank-transfer row">
+  <dt class="col col-12 col-md-4">Kontoinhaber:</dt>
+  <dd class="col col-12 col-md-8">Open Knowledge Foundation<br> Deutschland e.V.</dd>
+  <dt class="col col-12 col-md-4">IBAN:</dt>
+  <dd class="col col-12 col-md-8">DE36 4306 0967 1173 8932 00</dd>
+  <dt class="col col-12 col-md-4">BIC:</dt>
+  <dd class="col col-12 col-md-8">GENODEM1GLS</dd>
+</dl>`)</script>
+    </div>
+    <div class="col col-12 col-md-6 col-lg-5">
+      {{ with .Params.paypal_name}}<h3>{{.}}</h3>{{ end }}
+      {{ with .Params.paypal_text}}<p>{{.}}</p>{{ end }}
+      {{ with .Params.paypal_link}}<p><a href="#">{{.}}</a></p>{{ end }}
+    </div>
+    <div class="col col-12 col-md-10 col-lg-7">
+      {{ with .Params.betterplace_name}}<h3>{{.}}</h3>{{ end }}
+      {{ with .Params.betterplace_text}}<p>{{.}}</p>{{ end }}
+
+      {{- partial "betterplace" -}}
+    </div>
+  </div>
+</section>
+{{ end }}
