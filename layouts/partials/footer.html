@@ -20,7 +20,7 @@
         <ul class="c__nav-list">
           {{ with .Site.GetPage "/verein" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
           {{ with .Site.GetPage "/vorstand" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-          <li><a href="#">Transparenz</a></li>
+          {{ with .Site.GetPage "/transparenz" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
           {{ with .Site.GetPage "/jobs" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
           {{ with .Site.GetPage "/presse" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
           {{ with .Site.GetPage "/impressum" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
