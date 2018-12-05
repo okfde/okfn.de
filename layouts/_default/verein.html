@@ -45,7 +45,7 @@
         <div class="l__verein__board col col-12 col-md-6 mb-d">
           <h2 class="mb-s">{{ .Params.blurb }}</h2>
           <p>{{ .Content }}</p>
-          <p><a href="{{ .Permalink}}">Mehr</a></p>
+          <p><a href="{{ .Permalink}}">Details zu den Mitgliedern</a></p>
         </div>
         {{ end }}
         {{ range sort (where $.Site.Data.team ".board" 1) "name" }}
