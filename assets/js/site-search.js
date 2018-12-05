@@ -32,7 +32,6 @@ searchReq.onerror = function() {
 searchReq.send();
 
 
-
 // glue to elements
 document.addEventListener('DOMContentLoaded', function (event) {
   var searchOverlay = document.querySelector('.js-search-form');
@@ -68,20 +67,16 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
     window.addEventListener('keyup', function(event) {
       var keyPressed = event.keyCode;
-      if (!document.getElementById('js-blog-search-input')) {
-        if (keyPressed == 27) {
-          if (searchOverlay.classList.contains('open')) {
-            searchOverlay.classList.remove('open');
-            clearSearch();
-          } else {
-            searchOverlay.classList.add('open');
-            if (searchInput.value.length > 0) {
-              clearSearch();
-              focusInput();
-            }
-          }
+      if (keyPressed == 27) {
+        if (searchOverlay.classList.contains('open')) {
+          searchOverlay.classList.remove('open');
+          clearSearch();
         } else {
-          return;
+          searchOverlay.classList.add('open');
+          if (searchInput.value.length > 0) {
+            clearSearch();
+            focusInput();
+          }
         }
       }
     }, true);
