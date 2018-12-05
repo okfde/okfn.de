@@ -14,11 +14,7 @@
       <section class="col col-12 col-sm-7 col-md-7 order-1">
         <h2>Newsletter</h2>
         <p>Unser monatlicher Newsletter informiert über Neuigkeiten aus unseren Projekten, <br>der Organisation und von Veranstaltungen, auf denen wir zu treffen sind!</p>
-        <form class="newsletter c__newsletter">
-          <label for="newsletter-form" class="sr-only">Newsletter signup</label>
-          <input type="email" class="c__newsletter__input" id="newsletter-form">
-          <input type="submit" class="c__newsletter__btn" value='{{ i18n "footer_signup" }}'>
-        </form>
+        {{- partial "newsletter" -}}
       </section>
       <nav class="col col-md-7 col-lg-5 order-3">
         <ul class="c__nav-list">

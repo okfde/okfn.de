@@ -69,18 +69,19 @@ document.addEventListener('DOMContentLoaded', function (event) {
     window.addEventListener('keyup', function(event) {
       var keyPressed = event.keyCode;
       if (!document.getElementById('js-blog-search-input')) {
-        if (keyPressed === 83 && searchOverlay.classList.contains('open')) {
-          return;
-        } else if (keyPressed === 83) {
-          searchOverlay.classList.add('open');
-          if (searchInput.value.length > 0) {
+        if (keyPressed == 27) {
+          if (searchOverlay.classList.contains('open')) {
+            searchOverlay.classList.remove('open');
             clearSearch();
-            focusInput();
+          } else {
+            searchOverlay.classList.add('open');
+            if (searchInput.value.length > 0) {
+              clearSearch();
+              focusInput();
+            }
           }
-          searchInput.focus();
-        } else if (keyPressed === 27 && searchOverlay.classList.contains('open')) {
-          searchOverlay.classList.remove('open');
-          clearSearch();
+        } else {
+          return;
         }
       }
     }, true);
@@ -97,6 +98,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
       var query = searchInput.value;
       if (query.length === 0) {
         searchResults.innerHTML = '';
+        searchResultCount.innerHTML = '';
       }
       if ((event.keyCode !== 9) && (query.length > 2)) {
         var matches = window.idx.search(query);
@@ -132,6 +134,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
         // this is the most expensive thing! Do it only once for results
         searchResults.innerHTML += long_string;
       } else {
+        searchResultCount.innerHTML = '';
         searchResults.innerHTML = `<li class=\"l__search__result none\">
 Keine Ergebnisse für <span class=\"l__search__input-value\">${inputVal}</span> gefunden.<br/>
 Bitte kontrolliere Rechtschreibung und Worttrennung.</li>`;
