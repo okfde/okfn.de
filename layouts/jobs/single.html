@@ -1,0 +1,96 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ if (isset .Params "featured") }}
+  <meta property="og:image" content='{{ .Site.BaseURL }}{{ trim .Params.image.src "/"}}' />
+{{end}}
+<meta property="article:published_time" content="{{ .Date }}" />
+{{ with .Params.tags }}
+  {{ range . }}
+    <meta property="article:tag" content="{{ . }}" />
+  {{ end }}
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <article class="c__post--single">
+    <div class="container c__post__title">
+      <div class="row">
+        <h1 class="col col-12 col-md-10 col-lg-10">{{ .Title }}</h1>
+      </div>
+    </div>
+
+    {{ if (isset .Params "featured") }}
+    <div class="container c__post__visual c__post__bg--{{.Params.featured}}">
+      <div class="row">
+        <div class="col col-md-6 offset-md-3 c__post__image">
+          <img src="{{.Params.image.src}}" alt="{{.Params.image.title}}">
+        </div>
+      </div>
+    </div>
+    {{ end }}
+
+    <div class="container">
+      <div class="row">
+        <aside class="c__post__meta col col-12 col-sm-10 col-md-3 col-lg-2">
+          <p>
+            {{ with .Params.authors }}
+              {{ if eq (len .) 2 }}
+                {{ range .}}
+                  <strong>{{.}}</strong><br>
+                {{end}}
+              {{else}}
+                <strong>{{.}}</strong>
+              {{ end }}
+            {{end}}
+          </p>
+          <p class="c__post__date"><time datetime="{{.Date}}">{{ .Date.Format "02.01.2006" }}</time></p>
+
+          {{ with .Params.tags }}
+          <ul id="tags">
+            {{ range . }}
+            <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">#{{ . }}</a> </li>
+            {{ end }}
+          </ul>
+          {{ end }}
+
+        </aside>
+        <div class="c__post__main l__content col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">{{ .Content }}</div>
+      </div>
+    </div>
+    <footer class="container c__post__share">
+      <div class="row">
+        <div class="col col-12 col-md-6 offset-md-1">
+          <p>
+            Teilen:
+            <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
+            <a href="https://facebook.com/sharer.php?u={{ .Permalink }}" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+          </p>
+        </div>
+      </div>
+    </footer>
+  </article>
+  <aside class="container c__post__related">
+    <div class="row">
+      {{ $related := .Site.RegularPages.Related . | first 1 }}
+      {{ with $related }}
+      <h3 class="text col col-12 col-md-12">Von uns für dich empfohlen</h3>
+      <ul class="col col-12 col-md-10">
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+      {{ end }}
+    </div>
+  </aside>
+</main>
+{{ end }}

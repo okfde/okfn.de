@@ -16,16 +16,29 @@
 {{ define "main" }}
 <main>
   <div class="l__content container">
+    <h1>{{ .Title }}</h1>
+  </div>
+
+  {{ $haspost := len .Pages }}
+  {{ if eq $haspost 0}}
+  <div class="container l__content">
     <div class="row">
       <div class="col col-12 col-md-6">
-        <h1>{{ .Title }}</h1>
-        {{.Content}}
+        <p>{{ with .Params.no_jobs }}{{.}}{{ end }}</p>
+        {{- partial "newsletter" -}}
       </div>
     </div>
   </div>
-
-  <div class="container mt-d">
-    <h2 class="h3">Aktuelle Ausschreibungen:</h2>
+  {{ else }}
+  <div class="container l__content">
+    <div class="row">
+      <div class="col col-12 col-md-6">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <h2 class="h3 mt-d">{{ i18n "job_current" }}:</h2>
     <ul class=" containert mt-s">
       {{ range .Pages }}
       {{- partial "post_item.html" . -}}
@@ -33,11 +46,13 @@
     </ul>
   </div>
 
+  {{ end }}
 
-  <aside class="container mt-d c__off-grid">
+
+  <aside class="container mt-l c__off-grid">
     <div class="row justify-content-between">
       {{with .Params.img_2 }}
-      <div class="col col-12 col-sm-6 col-md-5">
+      <div class="col col-12 col-sm-6 col-md-5 mt-l">
         <img src="{{.}}" alt="">
       </div>
       {{ end }}

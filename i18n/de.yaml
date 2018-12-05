@@ -42,3 +42,7 @@
   translation: "Mehr lesen über"
 - id: blog_search
   translation: "Blog durchsuchen"
+- id: job_current
+  translation: "Aktuelle Ausschreibungen"
+- id: donation_owner
+  translation: "Kontoinhaber"

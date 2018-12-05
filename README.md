@@ -46,6 +46,10 @@ TBD
 
 #### Bearbeiten
 
+### Jobs
+
+#### Neues Jobposting
+
 
 ### Vereinsstats
 
@@ -53,9 +57,14 @@ TBD
 
 ### Downloads
 
+### Spenden
+
 ---
 
 ## Anderes
+
+### Übersetzungen
+
 
 ### Was ist mit package.json?
 

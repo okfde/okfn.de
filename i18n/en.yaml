@@ -38,3 +38,7 @@
   translation: "Read more about"
 - id: blog_search
   translation: "Search blog"
+- id: job_current
+  translation: "Current openings"
+- id: donation_owner
+  translation: "Account holder"
