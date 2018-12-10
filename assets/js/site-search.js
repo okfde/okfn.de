@@ -73,9 +73,9 @@ document.addEventListener('DOMContentLoaded', function (event) {
           clearSearch();
         } else {
           searchOverlay.classList.add('open');
+          focusInput();
           if (searchInput.value.length > 0) {
             clearSearch();
-            focusInput();
           }
         }
       }
