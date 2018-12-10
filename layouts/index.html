@@ -39,10 +39,10 @@
 
     <section class="container mt-l">
       <div class="row justify-between align-items-baseline">
-        <div class="col col-10 mb-s">
+        <div class="col col-10 col-sm-9 col-lg-10 mb-s">
           <h2>{{ i18n "home_our_projects"}}</h2>
         </div>
-        <div class="col col-2">
+        <div class="col col-4 col-md-3 col-lg-2">
           <p>{{ with .Site.GetPage "/projekte" }}
             <a href="{{ .Permalink }}" class="c__arrow">
               {{ i18n "home_all_projects" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
