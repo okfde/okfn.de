@@ -30,6 +30,7 @@ function decide_hide_other_projects (currentFilter, defaultValue) {
   var otherList = document.getElementById('js-other-projects-list');
   if (currentFilter === defaultValue) {
     if (otherList) { otherList.classList.remove('is-hidden'); }
+    document.querySelector('.js-isotope-filter a').click();
   } else {
     if (otherList) { otherList.classList.add('is-hidden'); }
   }
