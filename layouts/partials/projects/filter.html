@@ -1,5 +1,5 @@
 <div class="c__nav-list c__nav-list--filter js-isotope-filter">
-  <a href='{{ with .Site.GetPage "/projekte" }}{{.Permalink}}{{end}}' data-filter="*">
+  <a href='{{ with .Site.GetPage "/projekte" }}{{.Permalink}}{{end}}' data-filter=".tile">
     {{ i18n "projects_all" }}
   </a>
   {{ $title := .Title | anchorize }}

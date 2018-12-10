@@ -1,5 +1,5 @@
 <section class="container">
-  <div class="l__project__other">
+  <div class="l__project__other" id="js-other-projects-list">
     <h2>{{ i18n "projects_other" }}</h2>
     {{ $otherList := where .Pages ".Params.tile" "==" nil}}
     {{ $archiveList := where .Pages ".Params.type" "==" "archive"}}

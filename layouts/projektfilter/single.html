@@ -30,7 +30,9 @@
         {{ range $key, $value := where $.Site.AllPages "Section" "projekte"}}
           {{ range .Params.kategorien }}
             {{ if eq . $title}}
-              {{- partial "projects/tile" $value -}}
+              {{ if eq $value.Lang "de"}}
+                {{- partial "projects/tile" $value -}}
+              {{ end }}
             {{end}}
           {{ end }}
         {{ end }}
@@ -40,7 +42,9 @@
         {{ range $key, $value := where $.Site.AllPages "Section" "projekte"}}
           {{ range .Params.categories }}
             {{ if eq . $title}}
-              {{- partial "projects/tile" $value -}}
+              {{ if eq $value.Lang "en"}}
+                {{- partial "projects/tile" $value -}}
+              {{ end }}
             {{end}}
           {{ end }}
         {{ end }}

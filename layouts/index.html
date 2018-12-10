@@ -49,7 +49,7 @@
         </div>
       </div>
       <div>
-        <ul class="row l__projects__list js-isotope l__projects__list--home">
+        <ul class="row l__projects__list js-home-isotope l__projects__list--home">
           {{ range first 4 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
           {{- partial "projects/tile" . -}}
           {{ end }}

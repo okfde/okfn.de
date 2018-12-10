@@ -15,7 +15,7 @@
   <script src="{{$bsearch.RelPermalink}}" defer></script>
 {{ end }}
 
-{{ if eq .Section "projekte"}}
+  {{ if or (eq .Section "projekte") (eq .Kind "home") }}
   {{ $isoLib := resources.Get "/js/vendor/isotope.pkgd.min.js" }}
   {{ $iso := resources.Get "/js/isotope.js" }}
   {{ $isoJs := slice $isoLib $iso | resources.Concat "js/iso.js" | resources.Minify | resources.Fingerprint}}
