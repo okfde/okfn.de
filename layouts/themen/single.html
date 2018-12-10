@@ -38,13 +38,14 @@
   </div>
 
   <section class="container l__topic l__topic__projects mt-l mb-l">
-    <h2>Verwandte Projekte</h2>
+    <h2>{{ i18n "topics_projects" }}</h2>
     {{ $title := .Params.project_tag | anchorize}}
     <div class="row">
       <div class="col col-12 col-sm-8 offset-sm-2">
         <ul class="row">
-      {{ range $key, $value := where $.Site.RegularPages "Section" "projekte"}}
-      {{ range .Params.kategorien }}
+      {{ range $key, $value := where $.Site.RegularPages "Section" "projekte" }}
+          {{ range .Params.kategorien }}
+          {{ if ne $value.Params.type "archive" }}
       {{ if eq (. | anchorize) $title}}
       <li class="col col-12 col-sm-6 l__projects__item">
         <a href="{{$value.Permalink}}" class="c__tile" style="background-image: url(/files/{{$value.Params.img}})">
@@ -52,6 +53,7 @@
         </a>
       </li>
 
+      {{ end }}
       {{ end }}
       {{ end }}
       {{ end }}

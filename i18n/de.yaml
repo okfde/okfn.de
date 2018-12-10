@@ -46,3 +46,5 @@
   translation: "Aktuelle Ausschreibungen"
 - id: donation_owner
   translation: "Kontoinhaber"
+- id: topics_ptojects
+  translation: "Verwandte Projekte"

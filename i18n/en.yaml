@@ -42,3 +42,5 @@
   translation: "Current openings"
 - id: donation_owner
   translation: "Account holder"
+- id: topics_ptojects
+  translation: "Related projects"
