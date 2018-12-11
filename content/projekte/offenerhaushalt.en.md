@@ -5,9 +5,11 @@ subtitle: Present budget data in a way that is easy to understand
 kategorien:
   - Offenes Regierungshandeln
   - Open data
+  - Civic Tech
 categories:
   - Open Government
   - Open Data
+  - Civic Tech
 tile: single
 layout: project
 website: https://offenerhaushalt.de

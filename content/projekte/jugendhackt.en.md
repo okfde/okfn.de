@@ -2,8 +2,10 @@
 type: education
 kategorien:
   - Bildung
+  - Community
 categories:
   - Education
+  - Community
 tile: double
 layout: project
 title: Jugend hackt

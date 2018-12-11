@@ -6,6 +6,10 @@ subtitle: Regierungshandeln für Bürger verbessern
 img_header: projects/opengov_Header.jpg
 img: projects/OGP_Projektuebersicht_smallTile.jpg
 layout: project
+kategorien:
+  - Offenes Regierungshandeln
+categories:
+  - Open Government
 weight: 4
 people:
   - name: Michael Peters

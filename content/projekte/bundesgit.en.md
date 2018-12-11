@@ -4,8 +4,10 @@ title: Bundesgit
 subtitle: German federal laws on github
 kategorien:
   - Offenes Regierungshandeln
+  - Civic Tech
 categories:
   - Open Government
+  - Civic Tech
 website: https://github.com/bundestag/gesetze
 img: projects/bundesgit.jpg
 layout: project

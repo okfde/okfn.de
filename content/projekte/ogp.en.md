@@ -6,6 +6,10 @@ subtitle: Regierungshandeln für Bürger verbessern
 img: projects/OGP_Projektuebersicht_smallTile.png
 img_header: projects/opengov_Header.jpg
 layout: project
+kategorien:
+  - Offenes Regierungshandeln
+categories:
+  - Open Government
 people:
   - name: Michael Peters
     role: Koordination

@@ -8,9 +8,11 @@ img: projects/offenerHaushalt_Projektuebersicht_smallTile.png
 kategorien:
   - Offenes Regierungshandeln
   - Open data
+  - Civic Tech
 categories:
   - Open Government
   - Open Data
+  - Civic Tech
 tile: single
 layout: project
 website: https://offenerhaushalt.de
