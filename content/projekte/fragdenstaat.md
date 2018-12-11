@@ -2,8 +2,10 @@
 type: politics
 kategorien:
   - Offenes Regierungshandeln
+  - Community
 categories:
   - Open Government
+  - Community
 tile: double
 title: FragDenStaat
 subtitle: Das Informationsfreiheitsportal

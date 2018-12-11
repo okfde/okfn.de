@@ -5,6 +5,14 @@ subtitle: Hochladen, Visualisieren und Analysieren von Haushaltsdaten
 website: https://openbudgets.eu
 img: projects/openbudgets.png
 layout: project
+kategorien:
+  - Offenes Regierungshandeln
+  - Open Data
+  - Civic Tech
+categories:
+  - Open Government
+  - Open data
+  - Civic Tech
 background: backgrounds/openbudgets.png
 img_header: projects/OpenBudgets_Header.png
 img: projects/openbudgets_Projektuebersicht_smallTile.png

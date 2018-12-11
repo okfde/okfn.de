@@ -3,7 +3,7 @@ type: politics
 title: OParl
 subtitle: Initiative zur Förderung der Offenheit von parlamentarischen Informationssystemen 
 kategorien:
-  - Open Government
+  - Offenes Regierungshandeln
 categories:
   - Open Government
 tile: single
