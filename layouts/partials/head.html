@@ -12,12 +12,20 @@
 
 {{ if eq .Section "blog"}}
 {{ $bsearch := resources.Get "/js/blog-search.js" | resources.Minify | resources.Fingerprint }}
-  <script src="{{$bsearch.RelPermalink}}" defer></script>
+  <script src="{{$bsearch.RelPermalink}}" async defer></script>
 {{ end }}
 
 {{ if or (eq .Section "projekte") (eq .Kind "home") }}
   {{ $isoLib := resources.Get "/js/vendor/isotope.pkgd.min.js" }}
   {{ $iso := resources.Get "/js/isotope.js" }}
   {{ $isoJs := slice $isoLib $iso | resources.Concat "js/iso.js" | resources.Minify | resources.Fingerprint}}
-  <script src="{{$isoJs.RelPermalink}}" defer ></script>
+  <script src="{{$isoJs.RelPermalink}}" defer async></script>
+{{ end }}
+
+{{ if eq .Section "finanzierung" }}
+  {{ $d3 := resources.Get "/js/vendor/d3.min.js" }}
+  {{ $d3tip := resources.Get "/js/vendor/d3-tip.js" }}
+  {{ $customd3 := resources.Get "/js/viz.js" }}
+  {{ $vizJs := slice $d3 $d3tip $customd3 | resources.Concat "js/data-viz.js" | resources.Fingerprint}}
+  <script src="{{$vizJs.RelPermalink}}" defer async></script>
 {{ end }}
