@@ -1,0 +1,45 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="" />
+<meta name="Description" content="OKF Finanzierung Finanztransparenz">
+{{ end }}
+
+{{ define "main" }}
+<section class="l__finance container align-items-end">
+  <div class="row align-items-end">
+    <h1 class="col col-5 col-sm-10">{{ .Title }}</h1>
+  </div>
+  <div class="row mt-0 l__content">
+    <div class="col col-12 col-md-6">
+      {{ .Content }}
+    </div>
+    <div class="col col-12 col-md-3 offset-md-3">
+      {{- partial "itz" -}}
+    </div>
+  </div>
+</section>
+<section class="l__finance container l__content">
+  {{ range .Pages }}
+  <div class="row">
+    <div class="col col-12 col-md-6">
+      <h2 class="h3">{{.Title}}</h2>
+      <p>{{.Content}}</p>
+    </div>
+  </div>
+  {{ end }}
+</section>
+<section class="container">
+  <section class="l__verein container mt-l">
+    {{- partial "downloads/finanzierung" . -}}
+  </section>
+</section>
+{{ end }}

@@ -1,0 +1,28 @@
+- de:
+    title: Gewinn- und Verlustrechnung
+    text: Lorem ipsum
+  en:
+    title: Gewinn- und Verlust EN
+    text: Text EN
+  path: /where/the/thing/is.pdf
+- de:
+    title: Bilanz
+    text: Lorem ipsum
+  en:
+    title: Bilanz EN
+    text: Text EN
+  path: /where/the/thing/is.pdf
+- de:
+    title: Bericht der Wirtschaftsprüfung 2018
+    text: Lorem ipsum
+  en:
+    title: Bericht der Wirtschaftsprüfung 2018 EN
+    text: Text EN
+  path: /where/the/thing/is.pdf
+- de:
+    title: Wirtschaftlicher Lagebericht
+    text: Lorem ipsum
+  en:
+    title: Wirtschaftlicher Lagebericht EN
+    text: Text EN
+  path: /where/the/thing/is.pdf

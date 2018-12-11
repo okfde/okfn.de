@@ -1,0 +1,20 @@
+<div class="row">
+  <h2 class="col col-12 mb-s">Downloads</h2>
+</div>
+<ul class="row c__download-list mb-l">
+  {{ $lang := .Lang }}
+  {{ range $.Site.Data.downloadsverein }}
+  <li class="col col-12 col-sm-6">
+    <div>
+      {{ if eq $lang "de"}}
+      <h3 class="h4">{{ .de.title }}</h3>
+      <p>{{ .de.text}}</p>
+      {{ else }}
+      <h3 class="h4">{{ .en.title }}</h3>
+      <p>{{ .en.text}}</p>
+      {{ end }}
+      <p><a href="{{.path}}">{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} PDF</a></p>
+    </div>
+  </li>
+  {{ end }}
+</ul>

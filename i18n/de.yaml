@@ -48,3 +48,9 @@
   translation: "Kontoinhaber"
 - id: topics_ptojects
   translation: "Verwandte Projekte"
+- id: itz_text
+  translation: "Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, sind wir Unterzeichner der Initiative Transparente Zivilgesellschaft."
+- id: itz_link
+  translation: "Zu allen Transparenzinfos"
+- id: itz_alt
+  translation: "Logo Initiative Transparente Zivilgesellschaft"

@@ -2,8 +2,6 @@
 title: Spenden
 blurb: Spenden Sie jetzt
 layout: donation
-itz_text: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, sind wir Unterzeichner der Initiative Transparente Zivilgesellschaft.
-itz_link: Zu allen Transparenzinfos
 bank_name: "Überweisung"
 bank_text: "Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:"
 paypal_name: Paypal

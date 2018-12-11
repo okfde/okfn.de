@@ -22,10 +22,8 @@
     <div class="col col-12 col-md-8">
       {{ .Content }}
     </div>
-    <div class="col col-12 col-md-3 offset-md-1 l__donation__itz">
-      <img src="/okf/logo_itz.jpg" alt="Logo ITZ" width="227" height="70">
-      {{ with .Params.itz_text}}<p>{{.}}</p>{{ end }}
-      {{ with .Params.itz_link}}<p><a>{{.}}</a></p>{{ end }}
+    <div class="col col-12 col-md-3 offset-md-1">
+      {{- partial "itz" -}}
     </div>
   </div>
 </section>

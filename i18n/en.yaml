@@ -44,3 +44,9 @@
   translation: "Account holder"
 - id: topics_ptojects
   translation: "Related projects"
+- id: itz_text
+  translation: "Text about our hopes and dreams"
+- id: itz_link
+  translation: "All info"
+- id: itz_alt
+  translation: "Logo Initiative Transparente Zivilgesellschaft"
