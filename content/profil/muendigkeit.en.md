@@ -1,5 +1,5 @@
 ---
-title: digital maturity
+title: We strengthen digital literacy and the ethical use of technology
 weight: 5
 
 img:
@@ -9,4 +9,4 @@ img:
 arrange: img_bottom_2
 ---
 
-text
+Only those who understand technology can help shape it. This is why we offer workshops on a wide variety of topics such as data literacy, open data and open education.

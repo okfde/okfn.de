@@ -1,6 +1,6 @@
 ---
 title: Donate
-blurb: Donate now
+blurb: Donations!
 layout: donation
 bank_name: Bank transfer
 bank_text: some text
@@ -13,7 +13,10 @@ betterplace_text: Lorem ipsum
 
 Some text
 
-### With a donation you support
+### Donations enable ourwork to remain independent, non-partisan, interdisciplinary and non-commercial. 
 
-- some
-- text
+We need your support to:
+- sto carry out political campaign work in the interests of civil society 
+- to support open knowledge and digital literacy projects
+- to pay for the infrastructure that supports all our projects (internal administration, material and rental costs)
+
