@@ -1,7 +1,8 @@
 ---
-title: OKF DE
-blurb: We promote open knowledge and show the democratic potential of technology!
+title: OKFDE
+blurb: We fight for open knowledge and use technology in the interests of civil society. Find out exactly what we do and what drives us.
 work: We advocate open knowledge and so on
-donate_title: Support open knowledge now!
-donate_text: Our work is ...
+donate_title: Support us now!
+donate_text: Our work is independent, non-partisan, interdisciplinary and non-commercial. With a donation you help us and our community.
+
 ---

@@ -7,7 +7,8 @@ kategorien:
 categories:
   - education
 layout: project
-img: projects/datenmachenschule.png
+img: projects/datenmachenschule_Projektuebersicht_smallTile.png
+img_header: projects/Header.png
 img_square: projects/datenmachenschule.png
 background: backgrounds/datenmachenschule-bg.png
 people:

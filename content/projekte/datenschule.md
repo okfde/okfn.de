@@ -7,7 +7,7 @@ kategorien:
 categories:
   - education
 layout: project
-img: projects/codefor_Projektuebersicht_smallTile.png
+img: projects/Datenschule_Projektuebersicht_smallTile.png
 img_square: projects/codeforde_square.jpg
 img_header: projects/codefor_Header.png
 people:

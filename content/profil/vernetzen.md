@@ -1,6 +1,6 @@
 ---
 title: Wir vernetzen Menschen, die an Projekten für eine offene und gerechte Gesellschaft arbeiten
-weight: 3
+weight: 5
 
 img:
   - /okf/profil/04.jpg
@@ -9,4 +9,4 @@ img:
 arrange: img_bottom
 ---
 
-In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs in über 25 verschiedenen Städten, organisieren zahlreiche Hackathons und Konferenzen und bringen Vertreter aus Politik und Engagierte aus der Zivilgesellschaft zusammen.
+In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, Regionalgruppen in über 25 verschiedenen Städten,   Konferenzen und Hackathons und bringen VertreterInnen aus Politik und der Zivilgesellschaft zusammen.
