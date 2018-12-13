@@ -15,12 +15,6 @@
   <script src="{{$bsearch.RelPermalink}}" async defer></script>
 {{ end }}
 
-{{ if or (eq .Section "projekte") (eq .Kind "home") }}
-  {{ $isoLib := resources.Get "/js/vendor/isotope.pkgd.min.js" }}
-  {{ $iso := resources.Get "/js/isotope.js" }}
-  {{ $isoJs := slice $isoLib $iso | resources.Concat "js/iso.js" | resources.Minify | resources.Fingerprint}}
-  <script src="{{$isoJs.RelPermalink}}" defer async></script>
-{{ end }}
 
 {{ if eq .Section "finanzierung" }}
   {{ $d3 := resources.Get "/js/vendor/d3.min.js" }}

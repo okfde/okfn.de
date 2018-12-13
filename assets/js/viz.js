@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function (event) {
   var margin = {top:10, right:10, bottom:90, left:20};
   var width = 800 - margin.left - margin.right;
-  var height = 500 - margin.top - margin.bottom;
+  var height = 480 - margin.top - margin.bottom;
   var scaleWidth = 600;
   var magicSpacing = 170;
 
@@ -42,6 +42,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
     svg.call(tip);
 
+    var barHeight = height / data.length / 2;
     svg.selectAll('rect.bar')
       .data(data)
       .enter()
@@ -51,13 +52,13 @@ document.addEventListener('DOMContentLoaded', function (event) {
         return xScale(d.percentage);
       })
       .attr('height', function (d, i) {
-        return 30;
+        return barHeight;
       })
       .attr('x', function(d,i){
         return magicSpacing;
       })
       .attr('y', function(d, i) {
-        return (i * 50) + 10;
+        return (i * (height/ data.length) + (barHeight / 2));
       })
       .attr('fill', '#382eff')
       .on('mouseover', tip.show)
