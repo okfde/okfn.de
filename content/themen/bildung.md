@@ -2,7 +2,7 @@
 title: Offene Bildung
 project_tag: Bildung
 weight: 4
-img: https://placekitten.com/400/300
+img: /okf/themen/offenebildung.png
 img_header: https://placekitten.com/400/300
 color: "#24008c"
 ---
