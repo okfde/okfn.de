@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', function (event) {
 });
 
 function incomesViz() {
-  var margin = {top:50, right:10, bottom:10, left:20};
+  var margin = {top:50, right:10, bottom:50, left:20};
   var width = 800 - margin.left - margin.right;
-  var height = 350 - margin.top - margin.bottom;
+  var height = 390 - margin.top - margin.bottom;
   var scaleWidth = 500;
   var magicSpacing = 210;
 
