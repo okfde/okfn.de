@@ -1,20 +1,60 @@
-name,amount,percentage
-Körber-Stiftung,"10,300",0.50
-Medienanstalt Berlin Brandenburg,"30,000",1.45
-Joachim Herz Stiftung,"10,000",0.48
-Deutscher Engagementpreis,"5,000",0.24
-Alexander-von-Humboldt Stiftung,"6,000",0.29
-Landeshauptkasse Sachsen-Anhalt,"5,000",0.24
-OKF GB,"25,708",1.24
-EngagementGolbal gGmbH,"76,000",3.68
-Evangelisches Werk für Diakone,"4,600",0.22
-Stiftung Nord-Süd-Brücken,"2,000",0.10
-BMBF PrototypeFund,"350,786",16.98
-EU Europeana Cloud,"13,112",0.63
-EU Digiwhist,"96,724",4.68
-GIZ GmbH,"10,000",0.48
-TIDES Foundation,"127,923",6.19
-BMFS Demokratielabore,"637,583",30.86
-BMBF edulabs,"177,691",8.60
-BMVI,"66,570",3.22
-Max-Planck-Gesellschaft,"10,000",0.48
+category,item,amount
+Spenden/Mitgliedsbeiträge,Fördermitgliedsbeiträge,500
+Spenden/Mitgliedsbeiträge,Spenden unter 1.000 € / Privatpersonen,36421
+Spenden/Mitgliedsbeiträge,Chaos Comupter Club e.V.,50000
+Spenden/Mitgliedsbeiträge,Initiative Ulm Digital,26250
+Spenden/Mitgliedsbeiträge,Wau Holland Stiftung,9693
+Spenden/Mitgliedsbeiträge,Netzwerk Recherche Verein,2000
+Spenden/Mitgliedsbeiträge,Access Info Europe,1000
+Spenden/Mitgliedsbeiträge,gut.org gAG,20088
+Spenden/Mitgliedsbeiträge,Peering GmbH,5000
+Spenden/Mitgliedsbeiträge,Basilicom GmbH,3000
+Spenden/Mitgliedsbeiträge,Berliner Stadtreinigung,3000
+Spenden/Mitgliedsbeiträge,We Build City,4625
+Spenden/Mitgliedsbeiträge,Bitkom Servicegesellschaft,2400
+Spenden/Mitgliedsbeiträge,Wir design Communications,2000
+Spenden/Mitgliedsbeiträge,DCMN GmbH,2000
+Spenden/Mitgliedsbeiträge,Bitcrowd GmbH,1500
+Spenden/Mitgliedsbeiträge,mindkeeper solutions GmbH,1000
+Spenden/Mitgliedsbeiträge,opendatasoft,1000
+Spenden/Mitgliedsbeiträge,reality bytes neue Medien GmbH,1000
+Öffentliche Geldgeber/Institutionen,Körber-Stiftung,10300
+Öffentliche Geldgeber/Institutionen,Medienanstalt Berlin Brandenburg,30000
+Öffentliche Geldgeber/Institutionen,Joachim Herz Stiftung,10000
+Öffentliche Geldgeber/Institutionen,Deutscher Engagementpreis,5000
+Öffentliche Geldgeber/Institutionen,Alexander-von-Humboldt Stiftung,6000
+Öffentliche Geldgeber/Institutionen,Landeshauptkasse Sachsen-Anhalt,5000
+Öffentliche Geldgeber/Institutionen,OKF GB,25708
+Öffentliche Geldgeber/Institutionen,EngagementGolbal gGmbH,76000
+Öffentliche Geldgeber/Institutionen,Evangelisches Werk für Diakone,4600
+Öffentliche Geldgeber/Institutionen,Stiftung Nord-Süd-Brücken,2000
+Öffentliche Geldgeber/Institutionen,Kleinzuschüsse unter 1.000 €,413
+Öffentliche Geldgeber/Institutionen,BMBF PrototypeFund,350786
+Öffentliche Geldgeber/Institutionen,EU Europeana Cloud,13112
+Öffentliche Geldgeber/Institutionen,EU Digiwhist,96724
+Öffentliche Geldgeber/Institutionen,GIZ GmbH,10000
+Öffentliche Geldgeber/Institutionen,TIDES Foundation,127923
+Öffentliche Geldgeber/Institutionen,BMFS Demokratielabore,637583
+Öffentliche Geldgeber/Institutionen,BMBF edulabs,177691
+Öffentliche Geldgeber/Institutionen,BMVI,66570
+Öffentliche Geldgeber/Institutionen,Max-Planck-Gesellschaft,10000
+Förderung/Sponsoring durch Unternehmen,Google,65000
+Förderung/Sponsoring durch Unternehmen,DB Global Business,3000
+Förderung/Sponsoring durch Unternehmen,Computerprojekt Köln,8403
+Förderung/Sponsoring durch Unternehmen,Bau- und verwaltungsgesellschaft,2000
+Förderung/Sponsoring durch Unternehmen,codecentric,2000
+Förderung/Sponsoring durch Unternehmen,Mysociety Ltd.,6706
+Förderung/Sponsoring durch Unternehmen,International Budget Partner,6523
+Förderung/Sponsoring durch Unternehmen,Aufträge unter 1.000 €,3523
+eigenerwirtschaftete Gelder,Nyanjas,3908
+eigenerwirtschaftete Gelder,Bundeskasse Trier,1050
+eigenerwirtschaftete Gelder,Gesellschaft für Freiheitsrechte e.V.,1681
+eigenerwirtschaftete Gelder,Computerprojekt Köln,10075
+eigenerwirtschaftete Gelder,Goethe-Institut e.V.,22703
+eigenerwirtschaftete Gelder,KDVZ Rhein-Erft-Rur,6500
+eigenerwirtschaftete Gelder,SenWEB Berlin,8403
+eigenerwirtschaftete Gelder,Georg-August-Universtität Göttingen,20353
+eigenerwirtschaftete Gelder,Bundesministerium für Justiz,14520
+eigenerwirtschaftete Gelder,KRZN,2819
+eigenerwirtschaftete Gelder,Aufträge unter 1.000 €,3395
+erhaltene Umsatzsteuer,,35598

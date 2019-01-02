@@ -1,0 +1,89 @@
+[
+  {
+    "Spenden/Mitgliedsbeiträge": [
+
+    ]
+  },
+  {
+    "Förderung durch öffentliche Geldgeber/Institutionen gesamt": [
+      { "item": "Körber-Stiftung",
+        "amount": 10300
+      },
+      { "item": "Medienanstalt Berlin Brandenburg",
+        "amount": 30000
+      },
+      { "item": "Joachim Herz Stiftung",
+        "amount": 10000
+      },
+      { "item": "Deutscher Engagementpreis",
+        "amount": 5000
+      },
+      { "item": "Alexander-von-Humboldt Stiftung",
+        "amount": 6000
+      },
+      { "item": "Landeshauptkasse Sachsen-Anhalt",
+        "amount": 5000
+      },
+      { "item": "OKF GB",
+        "amount": 25708
+      },
+      { "item": "EngagementGolbal gGmbH",
+        "amount": 76000
+      },
+      { "item": "Evangelisches Werk für Diakone",
+        "amount": 4600
+      },
+      { "item": "Stiftung Nord-Süd-Brücken",
+        "amount": 2000
+      },
+      { "item": "Kleinzuschüsse unter 1.000 €",
+        "amount": 413
+      },
+      { "item": "BMBF PrototypeFund",
+        "amount": 350786
+      },
+      { "item": "EU Europeana Cloud",
+        "amount": 13112
+      },
+      { "item": "EU Digiwhist",
+        "amount": 96724
+      },
+      { "item": "GIZ GmbH",
+        "amount": 10000
+      },
+      { "item": "TIDES Foundation",
+        "amount": 127923
+      }
+    ],
+    "amount": 1665410
+  },
+  {
+    "Förderung/Sponsoring durch Unternehmen gesamt": [
+      { "item": "Aufträge von Unternehmen über 1.000 €",
+        "amount": 93632
+      },
+      { "item": "",
+        "amount": 3523
+      }
+    ],
+    "amount": 97155
+  },
+  {
+    "eigenerwirtschaftete Gelder gesamt": [
+      { "item": "Aufträge von Unternehmen über 1.000 €",
+        "amount": 3908
+      },
+      { "item": "Aufträge von Unternehmen über 1.000 €",
+        "amount": 88104
+      },
+      { "item": "Aufträge unter 1.000 €",
+        "amount": 3395
+      }
+    ],
+    "amount": 95407
+  },
+  {
+    "erhaltene Umsatzsteuer": [],
+    "amount": 35598
+  }
+]
