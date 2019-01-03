@@ -26,11 +26,12 @@
       <li class="col col-12 col-sm-6 col-lg-4">
         <img src="/team/{{.img}}.jpg" alt="{{.img}}">
         <h2 class="h3">{{.name}}</h2>
-        <p class="l__team__meta">{{.position}}</p>
         {{ if eq $lang "en"}}
-        <p>{{.bio_en | markdownify}}</p>
+          <p class="l__team__meta">{{.position_en}}</p>
+          <p>{{.bio_en | markdownify}}</p>
         {{ else }}
-        <p>{{.bio | markdownify}}</p>
+          <p class="l__team__meta">{{.position}}</p>
+          <p>{{.bio | markdownify}}</p>
         {{ end }}
         <p class="l__team__contact">
           {{ with .mail }}<a href="mailto:{{.}}">Mail</a>{{ end }}
