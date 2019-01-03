@@ -36,7 +36,9 @@
   </div>
 
   <div id="js-blog-index">
-    {{- partial "featured_post.html" . -}}
+    {{ if eq .Paginator.HasPrev false}}
+      {{- partial "featured_post.html" . -}}
+    {{ end }}
 
     <ul class="l__blog__posts containert mt-d">
       {{ range (.Paginator 20).Pages }}
