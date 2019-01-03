@@ -32,5 +32,11 @@
 .c__additional__info
   padding: $space $space-double $space $space
   background-color: #e1eafb
+  @include media-breakpoint-up(md)
+    height: 364px
+  h3
+    font-size: 1.5rem
+    @include media-breakpoint-up(xl)
+      font-size: 1.65rem
   h3 + p
     margin-top: $space
