@@ -13,8 +13,10 @@ function developmentViz() {
   var scaleWidth = width - magicSpacing;
 
   var svg = d3.select('div.entwicklung').append('svg')
-      .attr('width' , width + margin.left + margin.right)
-      .attr('height' , height + margin.top + margin.bottom)
+      .attr("width", '100%')
+      .attr("height", '100%')
+      .attr('viewBox','0 0 '+ (width + margin.left + margin.right) +' '+ (height + margin.top + margin.bottom))
+      .attr('preserveAspectRatio','xMinYMin')
       .attr("transform", "translate("+ margin.left +","+ margin.top +")");
 
   d3.csv("/okf/finanzierung/entwicklung.csv").then(function(data) {
@@ -97,8 +99,10 @@ function incomesViz() {
   var scaleWidth = width - magicSpacing;
 
   var svg = d3.select('div.einnahmen').append('svg')
-      .attr('width' , width + margin.left + margin.right)
-      .attr('height' , height + margin.top + margin.bottom)
+      .attr("width", '100%')
+      .attr("height", '100%')
+      .attr('viewBox','0 0 '+ (width + margin.left + margin.right) +' '+ (height + margin.top + margin.bottom))
+      .attr('preserveAspectRatio','xMinYMin')
       .attr("transform", "translate("+ margin.left +","+ margin.top +")");
 
   d3.csv("/okf/finanzierung/einnahmen.csv").then(function(data) {
@@ -174,8 +178,10 @@ function incomeTypesViz() {
   var scaleWidth = width - magicSpacing;
 
   var svg = d3.select('div.einnahmen-kategorien').append('svg')
-      .attr('width' , width + margin.left + margin.right)
-      .attr('height' , height + margin.top + margin.bottom)
+      .attr("width", '100%')
+      .attr("height", '100%')
+      .attr('viewBox','0 0 '+ (width + margin.left + margin.right) +' '+ (height + margin.top + margin.bottom))
+      .attr('preserveAspectRatio','xMinYMin')
       .attr("transform", "translate("+ margin.left +","+ margin.top +")");
 
   var xScale = d3.scaleLinear()
@@ -239,8 +245,10 @@ function expenseViz() {
   var scaleWidth = width - magicSpacing;
 
   var svg = d3.select('div.ausgaben').append('svg')
-      .attr('width' , width + margin.left + margin.right)
-      .attr('height' , height + margin.top + margin.bottom)
+      .attr("width", '100%')
+      .attr("height", '100%')
+      .attr('viewBox','0 0 '+ (width + margin.left + margin.right) +' '+ (height + margin.top + margin.bottom))
+      .attr('preserveAspectRatio','xMinYMin')
       .attr("transform", "translate("+ margin.left +","+ margin.top +")");
 
   var xScale = d3.scaleLinear()
