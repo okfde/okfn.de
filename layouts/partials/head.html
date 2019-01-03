@@ -3,23 +3,3 @@
 
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
-
-{{ $toggle := resources.Get "js/toggle.js" }}
-{{ $lunr := resources.Get "/js/vendor/lunr.js" }}
-{{ $ssearch := resources.Get "/js/site-search.js" }}
-{{ $js := slice $toggle $lunr $ssearch | resources.Concat "js/bundle.js"  | resources.Minify | resources.Fingerprint}}
-<script src="{{$js.RelPermalink}}" defer></script>
-
-{{ if eq .Section "blog"}}
-{{ $bsearch := resources.Get "/js/blog-search.js" | resources.Minify | resources.Fingerprint }}
-  <script src="{{$bsearch.RelPermalink}}" async defer></script>
-{{ end }}
-
-
-{{ if eq .Section "finanzierung" }}
-  {{ $d3 := resources.Get "/js/vendor/d3.min.js" }}
-  {{ $d3tip := resources.Get "/js/vendor/d3-tip.js" }}
-  {{ $customd3 := resources.Get "/js/viz.js" }}
-  {{ $vizJs := slice $d3 $d3tip $customd3 | resources.Concat "js/data-viz.js" | resources.Fingerprint}}
-  <script src="{{$vizJs.RelPermalink}}" defer async></script>
-{{ end }}

@@ -1,12 +1,12 @@
 ---
-authors: 
+authors:
 - Johannes Filter
 - Stefan Wehrmeyer
 - Arne Semsrott
 date: 2018-12-24
 image:
   src: /files/blog/2018/12/offenegesetze.png
-  title: 
+  title:
   license:
   license_url:
 tags:
@@ -15,6 +15,7 @@ type: post
 layout: post
 card: true
 published: true
+featured: yellow
 title: "OffeneGesetze: Zentrale Dokumente der Demokratie erstmals frei zugänglich (Update)"
 ---
 

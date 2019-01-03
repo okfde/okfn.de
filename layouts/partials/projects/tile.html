@@ -1,5 +1,10 @@
 {{ $lang := .Lang }}
-<li class="col col-12 col-sm-6 col-md-4 l__projects__item {{range .Params.kategorien}}{{. | anchorize}} {{end}} {{range .Params.categories}}{{. | anchorize}} {{end}} {{ with .Params.tile }}tile{{ end }}">
+<li class="col l__projects__item {{with .Params.tile}}tile item--{{.}}{{end}} {{range .Params.kategorien}} {{. | anchorize}} {{end}} {{range .Params.categories}} {{. | anchorize}} {{end}}"
+    data-groups='["foo"{{with .Params.tile}},"tile"{{end}}
+           {{if or (and .Params.tile .Params.kategorien) (or .Params.kategorien .Params.categories)}},{{end}}
+           {{range $i,$v := .Params.kategorien}}{{ if ne $i 0 }},{{ end }}"{{$v | anchorize}}"{{end}}
+           {{if and .Params.kategorien .Params.categories}},{{end}}
+           {{range $i,$v :=  .Params.categories}}{{ if ne $i 0 }},{{ end }}"{{$v | anchorize}}"{{end}}]'>
   <a href="{{.Permalink}}" class="c__tile {{with .Params.tile}}c__tile--{{.}}{{end}}" style="background-image: url(/files/{{.Params.img}})">
     <h2 class="h3 c__tile__title">{{.Title}}</h2>
     <div class="c__tile__overlay">
