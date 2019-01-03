@@ -8,7 +8,7 @@ tags:
 - BundesGit
 - Bundestag
 - Offene Daten
-- Offene Gesetze
+- OffeneGesetze
 - Github
 - Innovation
 - Politik

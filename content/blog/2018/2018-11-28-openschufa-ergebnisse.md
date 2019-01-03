@@ -1,11 +1,11 @@
 ---
-authors:
+authors: 
 - Arne Semsrott
 - Walter Palmetshofer
 date: 2018-11-28 09:10:00
 image:
   src: /files/blog/2018/11/openschufa.jpg
-  title:
+  title: 
   license:
   license_url:
 tags:
@@ -15,7 +15,6 @@ layout: post
 card: true
 published: true
 title: "OpenSchufa: Die Ergebnisse (Updates)"
-featured: "yellow"
 ---
 
 Lange hat es gedauert, aber heute werden die ersten Analysen des OpenSchufa-Datensatzes veröffentlicht. Die Redaktionen vom [SpiegelOnline](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html) und dem [Bayerischen Rundfunk](https://www.br.de/nachrichten/wirtschaft/schufa-score-wie-menschen-unverschuldet-zum-risikofall-werden,RAheWGP) haben die anonymisierten Daten, die wir mithilfe von [OpenSchufa](https://okfn.de/blog/tags/openschufa/) im Frühjahr gesammelt haben, ausgewertet.  Herzlichen Dank an alle Personen, die uns für das Projekt [Geld](https://www.startnext.com/openschufa), Zeit und [Daten](https://www.openschufa.de/) gespendet haben!
@@ -40,11 +39,11 @@ In vielen Bereichen hält die Schufa aus einem Scoring-Bereich mehrere Score-Ver
 
 ## Daraus ergeben sich diese Forderungen:
 
-Dank OpenSchufa hat sich bereits der Sachverständigenrat für Verbraucherfragen (SVRV) beim Bundesministerium für Justiz und Verbraucherschutz mit [Scoring-Transparenz beschäftigt](http://www.svr-verbraucherfragen.de/dokumente/verbrauchergerechtes-scoring/).
+Dank OpenSchufa hat sich bereits der Sachverständigenrat für Verbraucherfragen (SVRV) beim Bundesministerium für Justiz und Verbraucherschutz mit [Scoring-Transparenz beschäftigt](http://www.svr-verbraucherfragen.de/dokumente/verbrauchergerechtes-scoring/). 
 
-Er hat sich [dafür ausgesprochen](https://okfn.de/files/blog/2018/10/SVRV_HR-Verbrauchergerechtes_Scoring.pdf), dass die Schufa und weitere Scoring-Anbieter ihren Algorithmus offenlegen. Merkmale und Gewichtung des Scores müssen für den Verbraucher verständlich werden. Wie auch die Ergebnisse von OpenSchufa zeigen, muss mögliche Diskriminierung geprüft und offengelegt werden. Ein zentrales Problem bei der Schufa  ist offenbar die Qualität des Scores und der ihr zugrunde liegenden Daten.
+Er hat sich [dafür ausgesprochen](https://okfn.de/files/blog/2018/10/SVRV_HR-Verbrauchergerechtes_Scoring.pdf), dass die Schufa und weitere Scoring-Anbieter ihren Algorithmus offenlegen. Merkmale und Gewichtung des Scores müssen für den Verbraucher verständlich werden. Wie auch die Ergebnisse von OpenSchufa zeigen, muss mögliche Diskriminierung geprüft und offengelegt werden. Ein zentrales Problem bei der Schufa  ist offenbar die Qualität des Scores und der ihr zugrunde liegenden Daten. 
 
-Weitere Berichterstattung des Bayerischen Rundfunks hat bereits gezeigt, dass die Aufsicht der Schufa und anderer Scoring-Anbieter mangelhaft ist. Die Schufa [bezahlt selbst für die Gutachten, die sie eigentlich unabhängig prüfen sollen](https://www.br.de/nachrichten/deutschland-welt/luecken-beim-pruefen-von-auskunfteien,Qs8b2xe).
+Weitere Berichterstattung des Bayerischen Rundfunks hat bereits gezeigt, dass die Aufsicht der Schufa und anderer Scoring-Anbieter mangelhaft ist. Die Schufa [bezahlt selbst für die Gutachten, die sie eigentlich unabhängig prüfen sollen](https://www.br.de/nachrichten/deutschland-welt/luecken-beim-pruefen-von-auskunfteien,Qs8b2xe). 
 
 Das Bundesministerium hat bereits angekündigt, die Empfehlungen des Rats zu prüfen. Die Schufa sollte neben Transparenz auch ihre Verantwortung in der Gesellschaft akzeptieren. Dazu gehört, dass die Schufa mit Forschern, Journalistinnen und der Zivilgesellschaft konstruktiv kooperieren sollte. Bisher ist die Pressestelle der Schufa vor allem dadurch aufgefallen, dass sie [Journalistinnen einschüchtert](https://twitter.com/fanaticTRX/status/1006854038921601024).
 
@@ -62,7 +61,7 @@ Wichtig außerdem: Derzeit weigert sich die Schufa noch, [kostenlose Auskünfte 
 
 Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz für alle Scoring-Anbieter in Deutschland und Europa.
 
-## Zur aktuellen Schufa-Berichterstattung
+## Zur aktuellen Schufa-Berichterstattung 
 
 - [SpiegelOnline: Blackbox Schufa](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html)
 - [SpiegelOnline: 2800 Datensätze - so haben wir sie ausgewertet](http://www.spiegel.de/wirtschaft/service/blackbox-schufa-2800-verbraucher-spendeten-ihre-selbstauskunft-a-1240703.html)
@@ -77,14 +76,19 @@ Die Schufa ist der Anfang, aber nicht das Ende. Wir brauchen mehr Transparenz f�
 - [MDR jump: Wie verlässlich sind die Schufa-Scores?](https://www.jumpradio.de/thema/schufa-algorithmus-fragwuerdig-recherche-falscher-score-100.html)
 - [Wired.de: Citizen Scoring: Wie Staaten mit Daten und Überwachungstechnik über ihre Bürger herrschen](https://www.wired.de/article/citizen-scoring-wie-staaten-mit-daten-und-ueberwachungstechnik-ueber-ihre-buerger-herrschen)
 - [Spiegel - Wie faires Scoring aussehen könnte](http://www.spiegel.de/wirtschaft/service/kreditwuerdigkeit-wie-faires-scoring-aussehen-koennte-a-1241323.html)
+- [Futurzone.de - Versteckte Schufa-Prüfung: So wirst du beim Online-Shopping heimlich durchleuchtet](https://www.futurezone.de/digital-life/article215930381/Versteckte-Schufa-Pruefung-So-wirst-du-beim-Online-Shopping-heimlich-durchleuchtet.html)
+- [mdr - Künast fordert mehr Transparenz bei der Schufa](https://www.mdr.de/nachrichten/politik/inland/schufa-kuenast-mehr-transparenz-100.html)
+- [Stuttgarter Nachrichten - Schufas verschlungene Wege zu den eigenen Daten](https://www.stuttgarter-nachrichten.de/inhalt.selbstauskunft-schufas-verschlungene-wege-zu-den-eigenen-daten.e08ea261-3949-4023-8ce6-166c8d32aef6.html)
+- [radioeins - Einfach Schröder](https://www.radioeins.de/programm/sendungen/der_schoene_morgen/einfach_schroeder/schufa.html)
+
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ifajykkrnic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Politische Reaktionen
-- 29.11 [Ministerin Barley fordert Schufa zu mehr Transparenz auf](http://www.spiegel.de/wirtschaft/service/schufa-co-barley-fordert-mehr-transparenz-von-auskunfteien-a-1241107.html)<br>
-- 29.11 [Nach Schufa-Recherche: Politiker verlangen mehr Transparenz](https://www.br.de/nachrichten/wirtschaft/nach-schufa-recherche-politiker-verlangen-mehr-transparenz,RAnwNpV)<br>
-- 30.11 [Renate Künast - Schufa ist eine Blackbox. Es braucht ein Gesetz für Transparenz](https://www.mdr.de/nachrichten/audio-895128_zc-fd08c406_zs-950f04ff.html)
-- 18.09 [Tabea Rößner über eine undurchsichtige Auskunftsdatei und wie Bürgerinnen und Bürger sie reformieren können](https://www.neues-deutschland.de/artikel/1100866.transparenz-der-schufa-blackbox-schufa.html)<br>
+- 29.11. [Ministerin Barley fordert Schufa zu mehr Transparenz auf](http://www.spiegel.de/wirtschaft/service/schufa-co-barley-fordert-mehr-transparenz-von-auskunfteien-a-1241107.html)<br>
+- 29.11. [Nach Schufa-Recherche: Politiker verlangen mehr Transparenz](https://www.br.de/nachrichten/wirtschaft/nach-schufa-recherche-politiker-verlangen-mehr-transparenz,RAnwNpV)<br>
+- 30.11. [Renate Künast - Schufa ist eine Blackbox. Es braucht ein Gesetz für Transparenz](https://www.mdr.de/nachrichten/audio-895128_zc-fd08c406_zs-950f04ff.html)
+- 18.09. [Tabea Rößner über eine undurchsichtige Auskunftsdatei und wie Bürgerinnen und Bürger sie reformieren können](https://www.neues-deutschland.de/artikel/1100866.transparenz-der-schufa-blackbox-schufa.html)<br>
 
 ## Pressekontakt
 
