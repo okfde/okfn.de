@@ -1,13 +1,3 @@
-- year: 2018
-  img: https://placekitten.com/751/416
-  pdf: path/to/file.pdf
-  de:
-    title: Jahresbericht 2018
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Heraus-forderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Report 2018
-    text: Some text
-
 - year: 2017
   img: https://placekitten.com/751/416
   pdf: path/to/file.pdf
