@@ -2,7 +2,7 @@
 layout: verein
 title: Verein
 blurb: Wir sind ein gemeinnütziger Verein mit Sitz in Berlin
-img: https://placekitten.com/1140/468
+img: /okf/verein/verein_intro_2.jpg
 stats:
   - number: 2011
     text: hat sich der Verein gegründet. Das erste Treffen fand bereits 2010 auf der re:publica mit Rufus Pollock, Initiator des internationen Open Knowledge Netzwerks statt.
