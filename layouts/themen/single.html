@@ -23,9 +23,7 @@
 
   <div class="container  l__topic mb-d mt-d l__topic__headerimg">
     <div class="row"  {{ with .Params.color }} style="background-color: {{.}}" {{ end }}>
-      <div class="col col-12 col-sm-6 offset-sm-3">
-        {{ with .Params.img_header }}<img src="{{.}}" alt="">{{ end }}
-      </div>
+      {{ with .Params.img_header }}<img src="{{.}}" alt="">{{ end }}
     </div>
   </div>
 

@@ -1,8 +1,5 @@
 ---
 type: politics
-kategorien:
-  - Offenes Regierungshandeln
-  - Community
 categories:
   - Open Government
   - Community

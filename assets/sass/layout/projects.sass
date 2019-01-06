@@ -4,9 +4,19 @@
   margin-bottom: $space-double * 2
 
 .l__projects__item
+  width: 100%
+  margin-bottom: 30px
+  @include media-breakpoint-up(sm)
+    width: 49%
+  @include media-breakpoint-up(md)
+    width: 32%
   img
     width: 100%
     height: auto
+  &.item--double
+    height: 500px
+  &.item--single
+    height: 235px
 
 .l__project__other
   margin-bottom: $space-double * 2
@@ -14,6 +24,21 @@
 
 .l__projects__list
   width: 100%
+
+.l__projects__list--home
+  width: 100%
+  display: flex
+  flex-flow: column wrap
+  @include media-breakpoint-up(sm)
+    max-height: 800px
+  @include media-breakpoint-up(md)
+    li:nth-child(1),
+    li:nth-child(4),
+    li:nth-child(5)
+      .c__tile
+        height: 503px
+  .l__projects__item
+    margin-bottom: 0
 
 .l__projects__list--center
   margin-top: $space
@@ -35,7 +60,6 @@
     margin-top: 1.5em
     &first-child
       margin-top: 0em
-
 
 .l__project__content
   line-height: 1.55

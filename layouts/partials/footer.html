@@ -40,6 +40,13 @@
         <p>Wir verwenden die datenschutzfreundliche Technologie von <a href="https://matomo.org/">Matomo</a>, um statistische Auswertungen der Seitennutzung zu erhalten. Wenn sie dies nicht wollen, <a href="https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de">können Sie hier den Haken entfernen</a>. <br>Näheres in unserer <a href="/impressum/#datenschutzerklärung">Datenschutzerklärung</a>.</p>
         <p>Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert. </p>
       </div>
+      <div class="l__footer__itz col col-8 col-sm-6 col-md-3 offset-md-2 order-6 mt-s">
+        {{ with .Site.GetPage "/transparenz" }}
+        <a href="{{.Permalink}}">
+          <img src="/okf/logo_itz.jpg" alt='{{ i18n "itz_alt" }}' width="227" height="110">
+        </a>
+        {{ end }}
+      </div>
     </div>
   </div>
 </footer>

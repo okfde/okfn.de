@@ -7,7 +7,7 @@ layout: post
 tags:
 - BundesGit
 - Bundesverfassungsgericht
-- Offene Gesetze
+- OffeneGesetze
 title: Die erzwungene Öffnung der juris-Datenbank
 type: post
 ---

@@ -806,6 +806,7 @@
   board: 0
   advisory: 0
   position: Entwicklung Datenschule
+  position_en: Developer Datenschule
   bio: "Lisa ist im April 2018 als Entwicklerin bei der OKF eingestiegen. Sie mag Privatsphäre."
   bio_en: "Lisa entered the OKF in April 2018 as developer. She likes privacy."
   mail: lisa.passing@okfn.de
@@ -851,14 +852,14 @@
   mail: doris.jantoljak@okfn.de
   twitter:
   website: https://jantoljak.de/
-  
+
 - name: Sebastian Schröder
   title: Bundesfreiwilligendienst Jugend hackt, FragDenStaat
   img: sebastianschroeder
   staff: 1
   board: 0
   advisory: 0
-  position: 
+  position:
   bio: "Sebastian Schröder hat schon mehrmals bei „Jugend hackt“ teilgenommen und beginnt 2018 seinen Bundesfreiwilligendienst. Dabei wird er das Team von »Jugend hackt« bei der Organisation der Events unterstützen und die verschiedenen Projekte der Open Knowledge Foundation kennenlernen."
   bio_en: "Sebastian Schröder has already taken part in »Jugend hackt« several times and will start his voluntary service in 2018. He will support the team of »Jugend hackt« in organizing the events and get to know the different projects of the Open Knowledge Foundation."
   mail: sebastian.schroeder@okfn.de

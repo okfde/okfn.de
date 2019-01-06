@@ -24,8 +24,8 @@
     <div class="container l__content mb-l">
       <div class="row align-items-center">
         <div class="col col-12 col-sm-7 col-md-8 l__home__img">
-          <img src="okf/profil/profil_teaser_2.jpg" alt="">
-          <img src="okf/profil/profil_teaser_1.jpg" alt="">
+          <img src="/okf/profil/profil_teaser_2.jpg" alt="">
+          <img src="/okf/profil/profil_teaser_1.jpg" alt="">
         </div>
         <div class="col col-12 col-sm-5 col-md-4">
           <p>{{ .Params.work }}</p>
@@ -42,16 +42,33 @@
         <div class="col col-10 col-sm-9 col-lg-10 mb-s">
           <h2>{{ i18n "home_our_projects"}}</h2>
         </div>
-        <div class="col col-4 col-md-3 col-lg-2">
+        <div class="col col-12 col-md-3 col-lg-2">
           <p>{{ with .Site.GetPage "/projekte" }}
             <a href="{{ .Permalink }}" class="c__arrow">
               {{ i18n "home_all_projects" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
         </div>
       </div>
       <div>
-        <ul class="row l__projects__list js-home-isotope l__projects__list--home">
-          {{ range first 4 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
-          {{- partial "projects/tile" . -}}
+        <ul class="l__projects__list--home mb-l">
+          {{ $lang := .Lang }}
+          {{ range first 6 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
+          <li class="col col-12 col-sm-6 col-md-4 l__projects__item">
+            <a  href="{{.Permalink}}" class="c__tile c__tile--single" style="background-image: url(/files/{{.Params.img}})">
+              <h2 class="h3 c__tile__title">{{.Title}}</h2>
+              <div class="c__tile__overlay">
+                {{ if eq $lang "en" }}
+                {{ with .Params.en.subtitle }}
+                <p class="h4">{{ . }}</p>
+                {{ end }}
+                {{ end }}
+
+                {{ if eq $lang "de" }}
+                {{ with .Params.de.subtitle  }}
+                <p class="h4">{{ . }}</p>
+                {{ end }}
+                {{ end }}
+            </a>
+          </li>
           {{ end }}
         </ul>
       </div>

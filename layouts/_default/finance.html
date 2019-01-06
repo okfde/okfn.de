@@ -23,20 +23,19 @@
       {{ .Content }}
     </div>
     <div class="col col-12 col-md-3 offset-md-3">
-      {{- partial "itz" -}}
+      {{- partial "itz" . -}}
     </div>
   </div>
 </section>
 <section class="l__finance container l__content">
   {{ range .Pages }}
   <div class="row">
-    <div class="col col-12 col-md-6">
+    <div class="col col-12 col-md-10 col-lg-7">
       <h2 class="h3">{{.Title}}</h2>
       <p>{{.Content}}</p>
     </div>
   </div>
   {{ end }}
-  <div class="ausgaben"></div>
 </section>
 <section class="container">
   <section class="l__verein container mt-l">

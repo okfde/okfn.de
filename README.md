@@ -53,11 +53,17 @@ TBD
 
 ### Vereinsstats
 
-### Jahresberichte
+#### Jahresberichte
 
-### Downloads
+#### Downloads
 
 ### Spenden
+
+### Finanzen
+
+#### Downloads
+
+#### Statistiken
 
 ---
 
