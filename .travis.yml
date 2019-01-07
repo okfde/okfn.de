@@ -18,6 +18,8 @@ script:
 
 deploy:
   provider: pages
+  edge:
+    branch: v1.9.1
   local-dir: public
   target-branch: releases
   skip-cleanup: true
