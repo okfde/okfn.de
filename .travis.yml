@@ -1,0 +1,25 @@
+language: node_js
+
+before_install:
+  - mkdir $TRAVIS_BUILD_DIR/bin && cd $TRAVIS_BUILD_DIR/bin
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_extended_0.53_Linux-64bit.tar.gz
+  - tar -xvzf hugo_extended_0.53_Linux-64bit.tar.gz
+  - cd $TRAVIS_BUILD_DIR
+
+install:
+  - npm install
+
+script:
+  - bin/hugo
+  - bash scripts/ci/build-site-search-index.sh
+  - bash scripts/ci/build-blog-search-index.sh
+
+deploy:
+  local-dir: public
+  target-breanch: releases
+  skip-cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep-history: true
+  name: Travis
+  on:
+    branch: master
