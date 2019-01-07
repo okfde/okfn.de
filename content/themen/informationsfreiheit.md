@@ -2,12 +2,12 @@
 title: Informationsfreiheit
 project_tag: Informationsfreiheit
 weight: 5
-img: https://placekitten.com/400/300
-img_header: https://placekitten.com/400/300
-color: "#24008c"
+img: /okf/themen/informationsfreiheit.png
+img_header: /okf/themen/informationsfreiheit_header.png
+color: "#382eff"
 ---
 
-Informationsfreiheit ist das Recht auf freien Zugang zu amtlichen Informationen. Sie ist eines der wichtigsten Grundrechte in der Wissensgesellschaft, das sich aus [Artikel 5 des Grundgesetzes zur Meinungs- und Informationsfreiheit](https://www.gesetze-im-internet.de/gg/art_5.html) ergibt.
+Informationsfreiheit ist das Recht auf freien Zugang zu amtlichen Informationen. Sie ist eines der wichtigsten Grundrechte in der Wissensgesellschaft, das sich aus Artikel 5 des Grundgesetzes zur Meinungs- und Informationsfreiheit ergibt.
 
 <!--more-->
 

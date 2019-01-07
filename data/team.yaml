@@ -412,7 +412,7 @@
 - name: Claudia Schwegmann
   img: claudiaschwegmann
   staff: 0
-  board: 1
+  board: 0
   advisory: 0
   position: Beisitzerin
   position_en: Member of the Board
@@ -553,7 +553,7 @@
 - name: Rebecca Varghese Buchholz
   title:
   img: rebeccabuchholz
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Projektleitung 2030watch
@@ -623,7 +623,7 @@
 - name: Jessica Binsch
   title:
   img: jessicabinsch
-  staff: 0
+  staff: 1
   board: 0
   advisory: 0
   position: Projektmanagement Prototype Fund

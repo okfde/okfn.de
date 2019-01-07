@@ -44,7 +44,7 @@ Der [monatliche Open Science Sum-Up](http://openscienceasap.org/social/monthly-s
 
 **Bei der Umsetzung von Open Science spielt der disziplinäre Kontext eine wichtige Rolle.** Daher ist es wichtig, die einzelnen [Communities in den Diskurs](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/29/open-science-disciplinary-culture-clash/) mit einzubeziehen, argumentiert Peter Kraker auf dem LSE Impact Blog.
 
-**Wie schaut dieser Kontext in den Geisteswissenschaften aus?** Martin Paul Eve gibt mit seinem Buch [Open Access and the Humanities](http://dx.doi.org/10.1017/CBO9781316161012) einen vielseitigen Einblick in die entscheidenden Faktoren wissenschaftlicher Kommunikation in den Geisteswissenschaften und beschreibt Open Access Ansätze, die diese besser berücksichtigen.
+**Wie schaut dieser Kontext in den Geisteswissenschaften aus?** Martin Paul Eve gibt mit seinem Buch [Open Access and the Humanities](https://doi.org/10.1017/CBO9781316161012) einen vielseitigen Einblick in die entscheidenden Faktoren wissenschaftlicher Kommunikation in den Geisteswissenschaften und beschreibt Open Access Ansätze, die diese besser berücksichtigen.
 
 **Und wir bewegen uns doch.** Die erste OpenCon ([Zusammenfassung](http://blogs.scientificamerican.com/absolutely-maybe/2014/11/16/generation-open-sneak-peek-into-sciences-future-at-opencon-2014/)) fand vom 15.-17. November in Washington, DC, statt. Die meisten Vorträge und Workshops sind [nachträglich abrufbar](https://www.youtube.com/playlist?list=PLKzRudZaXUD0SA6IMycQD9UOIE-kYOPfm), sowie eine Reihe interessanter [Podcasts](http://okcast.org/page/1/?s=opencon2014). Weitere Ressourcen werden auf der [Konferenzwebsite](http://opencon2014.org/resources) zur Verfügung gestellt.
 
