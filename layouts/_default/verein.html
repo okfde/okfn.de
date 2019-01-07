@@ -6,7 +6,7 @@
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
-<meta description="OKF DE gemeinnützig Verein Dachorganisation Jahresbericht Tätigkeitsbericht Social Reporting Standard">
+<meta name="Description" content="{{ .Params.meta }}">
 <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
