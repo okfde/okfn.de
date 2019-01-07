@@ -19,7 +19,7 @@ script:
 deploy:
   provider: pages
   local-dir: public
-  target-breanch: releases
+  target-branch: releases
   skip-cleanup: true
   github_token: $GITHUB_TOKEN
   keep-history: true
