@@ -83,3 +83,5 @@ Package.json dient damit eher als informative Liste, was so benutzt wird.
 ### Suche und Suchindexe
 
 ### Build process
+
+[![Build Status](https://travis-ci.com/okfde/okfde-reloaded.svg?branch=master)](https://travis-ci.com/okfde/okfde-reloaded)
