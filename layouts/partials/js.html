@@ -2,12 +2,13 @@
 {{ $lunr := resources.Get "/js/vendor/lunr.js" }}
 {{ $ssearch := resources.Get "/js/site-search.js" }}
 {{ $js := slice $toggle $lunr $ssearch | resources.Concat "js/bundle.js"  | resources.Minify | resources.Fingerprint}}
-<script src="{{$js.RelPermalink}}" async></script>
+<script src="{{$js.RelPermalink}}"></script>
 
 {{ if eq .Section "blog"}}
 {{ $bsearch := resources.Get "/js/blog-search.js" | resources.Minify | resources.Fingerprint }}
-<script src="{{$bsearch.RelPermalink}}" async></script>
+<script src="{{$bsearch.RelPermalink}}"></script>
 {{ end }}
+
 
 {{ if (eq .Section "projekte") }}
 {{ $shuffLib := resources.Get "/js/vendor/shuffle.min.js" }}
