@@ -16,7 +16,7 @@ stats:
     text: In 28 Städten organisieren unserere ehrenamtlichen Communitymitglieder regelmäßige Veranstaltungen.
   - number: 1.387
     text: So viele Personen engagieren sich in unserer Community. In unserem Slack befindet sich ein vielfältiges Wissen rund um Open Data, Open Government, Offene Bildung und Civic Tech.
-
+meta: OKF DE gemeinnützig Verein Dachorganisation Jahresbericht Tätigkeitsbericht Social Reporting Standard
 ---
 
 ### Verein und Dachorganisation
