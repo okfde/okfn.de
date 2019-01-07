@@ -5,7 +5,8 @@
 var lunr = require('lunr'),
     stdin = process.stdin,
     stdout = process.stdout,
-    buffer = []
+    buffer = [],
+    documents = {}
 
 stdin.resume()
 stdin.setEncoding('utf8')
@@ -15,7 +16,7 @@ stdin.on('data', function (data) {
 })
 
 stdin.on('end', function () {
-  var documents = JSON.parse(buffer.join(''))
+  documents = JSON.parse(buffer.join(''))
 
   var idx = lunr(function () {
     this.field('id')
@@ -30,5 +31,5 @@ stdin.on('end', function () {
     }, this)
   })
 
-  stdout.write(JSON.stringify(idx))
+  stdout.write(JSON.stringify({idx: idx, store: documents}))
 })
