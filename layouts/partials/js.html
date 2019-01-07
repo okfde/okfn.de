@@ -2,10 +2,12 @@
 {{ $lunr := resources.Get "/js/vendor/lunr.js" }}
 {{ $ssearch := resources.Get "/js/site-search.js" }}
 {{ $js := slice $toggle $lunr $ssearch | resources.Concat "js/bundle.js"  | resources.Minify | resources.Fingerprint}}
+<link rel="preload" href="{{$js.RelPermalink}}" as="script">
 <script src="{{$js.RelPermalink}}"></script>
 
 {{ if eq .Section "blog"}}
 {{ $bsearch := resources.Get "/js/blog-search.js" | resources.Minify | resources.Fingerprint }}
+<link rel="preload" href="{{$bsearch.RelPermalink}}" as="script">
 <script src="{{$bsearch.RelPermalink}}"></script>
 {{ end }}
 
@@ -14,6 +16,7 @@
 {{ $shuffLib := resources.Get "/js/vendor/shuffle.min.js" }}
 {{ $shuff := resources.Get "/js/shuffle.js" }}
 {{ $shuffleJs := slice $shuffLib $shuff | resources.Concat "js/shuff.js" | resources.Minify | resources.Fingerprint}}
+<link rel="preload" href="{{$shuffleJs.RelPermalink}}" as="script">
 <script src="{{$shuffleJs.RelPermalink}}" async defer></script>
 {{ end }}
 
@@ -22,5 +25,6 @@
 {{ $d3tip := resources.Get "/js/vendor/d3-tip.js" }}
 {{ $customd3 := resources.Get "/js/viz.js" }}
 {{ $vizJs := slice $d3 $d3tip $customd3 | resources.Concat "js/data-viz.js" | resources.Minify | resources.Fingerprint}}
+<link rel="preload" href="{{$vizJs.RelPermalink}}" as="script">
 <script src="{{$vizJs.RelPermalink}}" async defer></script>
 {{ end }}
