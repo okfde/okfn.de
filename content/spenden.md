@@ -4,8 +4,8 @@ blurb: Spenden Sie jetzt
 layout: donation
 bank_name: "Überweisung"
 bank_text: "Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:"
-paypal_name: Paypal
-paypal_text: "PayPal ist ein verbreitetes Online-Bezahlsystem. Neben politischen Problemen fallen jedoch auch recht beträchtliche Gebühren an (1,5 % des Betrages plus 0,35 Euro/pro Transaktion), so dass hier weniger von der Spende übrig bleibt. Wenn ihr trotzdem via PayPal spenden wollt, könnt ihr folgenden Link nutzen:"
+paypal_name: 
+paypal_text: 
 paypal_link: #
 betterplace_name: Betterplace
 betterplace_text: Lorem ipsum

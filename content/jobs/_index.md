@@ -1,14 +1,14 @@
 ---
 title: Jobs
 layout: jobs
-no_jobs: Wir haben zur Zeit leider keine Jobs zu vergeben. Am besten abonniert ihr unseren Newsletter, um über Stellenausschreibungen informiert zu bleiben.
-img_1: https://placekitten.com/456/307
-img_2: https://placekitten.com/457/475
-img_3: https://placekitten.com/749/448
-img_4: https://placekitten.com/263/174
-img_5: https://placekitten.com/458/305
-img_6: https://placekitten.com/457/304
-img_7: https://placekitten.com/261/175
+no_jobs: Wir haben zur Zeit leider keine Jobs zu vergeben. Am besten abonnierst Du unseren Newsletter, um über zukünftige Stellenausschreibungen informiert zu werden.
+img_1: /files/jobs/jobs_01.jpg
+img_2: /files/jobs/jobs_02.jpg
+img_3: /files/jobs/jobs_03.jpg
+img_4: /files/jobs/jobs_04.jpg
+img_5: /files/jobs/jobs_05.jpg
+img_6: /files/jobs/jobs_06.jpg
+img_7: /files/jobs/jobs_07.jpg
 ---
 
 Unsere Stellenangebote ändern sich regelmäßig, aber wir sind immer auf der Suche nach begeisterten Menschen, die neue Ideen und Perspektiven in unser Team einbringen.

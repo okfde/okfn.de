@@ -3,7 +3,8 @@
   staff: 0
   board: 1
   advisory: 0
-  position:
+  position: Kassenwartin
+  position_en: Treasurer
   bio: "Kristina ist seit 2017 im Vorstand der Open Knowledge Foundation Deutschland. Davor war sie drei Jahre lang Geschäftsführerin der Organisation. Sie war bei der UNHCR in Myanmar für den Bereich Donor Relations zuständig und hat als Senior Program Manager der Carnegie Endowment for International Peace das Brüsseler Büro stellvertretend geleitet sowie als Programm- und Konferenz-Manager den Bereich Internationale Politik der Körber Stiftung begleitet. Weitere berufliche Stationen waren der Danish Refugee Council in Myanmar und das Wall Street Journal Europe in Berlin."
   bio_en: "Kristina is member of the board at Open Knowledge Foundation Deutschland (OKF) since November 2017. She joined OKF in August 2014 as CEO of the organization. <br /><br /> Before moving to Germany, Kristina was the Peace Building Fund Coordinator at UNHCR and Finance Associate at the Danish Refugee Council in Myanmar. Prior to that, she worked as a Senior Program Manager at Carnegie Europe in Brussels and as a Program Manager at Körber Foundation’s Bergedorf Round Table. <br /> <br /> She is a certified Usability & User Experience Professional (Artop - Humboldt Universität Berlin) and holds a masters in American studies and sociology from the Freie Universität Berlin."
   mail: kristina.klein@okfn.de
@@ -374,6 +375,8 @@
   staff: 0
   board: 1
   advisory: 0
+  position: Beisitzer
+  position_en: Member of the Board
   bio: "Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Daten und Technologien nutzen können um die Welt ein kleines bisschen besser zu machen. Heute leitet er am Humanistische Institut für Entwicklungszusammenarbeit (<a href=\"https://www.hivos.org\" target=\"_blank\">www.hivos.org</a>) ein internationales Program zu Open Contracting. Von 2014 bis 2016 arbeitet er als Policy Advisor für das Open Government Program der United Nations UNDESA/DPDAM. Von 2008 bis 2014 arbeitet er für Open Knowledge International an verschiedenen Projekten zu Open Data und Open Government unter anderem im Team der Platform der Europäischen Kommission für Public Sector Information (<a href=\"http://www.epsiplatform.eu\" target=\"_blank\">www.epsiplatform.eu</a>). Er ist Mitgründer der Open Knowledge Foundation Deutschland, die er bis 2015 als Vorstandsvorsitzender leitete. Bis Ende 2011 war er wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT-Branche als Berater und Projektleiter gearbeitet."
   bio_en: "Daniel Dietrich has been an advocate for digital civil rights and engages intensely in different aspects of the knowledge society and the digital domain for many years. He is driven by the question of how technology can be used to improve the world around us. Within OKF DE he acts as an Open-Data-Evangelist as well as the coordinater of the Open Definition and the Open Government working group. He co-founded the Open Data Network and OKF DE. Until 2013, he was editor of the platform for public sector information of the European Comission (www.epsiplatform.eu). Before that he was a research assistant at TU Berlin in the area of Computer Science and Society. Previously, he spent several years as a consultant and projekt lead in the Information Technology sector."
   mail: daniel.dietrich@okfn.de
@@ -412,6 +415,7 @@
   board: 1
   advisory: 0
   position: Beisitzerin
+  position_en: Member of the Board
   bio: "Claudia ist Vorstandsmitglied der Open Knowledge Foundation und Gründerin des OpenAid Projektes. Sie betreibt seit 2009 Lobbyarbeit für offene Daten in der Entwicklungszusammenarbeit, insbesondere für die International Aid Transparency Initiative. Claudia Schwegmann ist Politologin, Theologin und Organisationsberaterin und arbeitet seit 1996 in der Entwicklungszusammenarbeit, vor allem im Bereich Evaluation. Ihr Kernanliegen ist wirksame Entwicklungszusammenarbeit auf der Basis von Transparenz, Rechenschaftslegung, Bürgerbeteiligung und die Nutzung des Potentials digitaler Tools zur Erreichung dieser Ziele (open data, social media, crowdsourcing). Claudia Schwegmann arbeitet als freie Beraterin und engagiert sich ehrenamtlich in der Technical Advisory Groups von IATI, in der Technical Advisory Group des Land Portals und bei Transparency International."
   bio_en: "Claudia is founder of the OpenAid project and 2030-Watch. Since 2009, she does lobbying work for Open Data in development cooperation, especially for the International Aid Initiative. Claudia is a political and theological theorist, and an organisation consultant. She engages in the field of development cooperation since 1996, especially in the field of evaluation. Her main concern is an effective form of developement cooperation on the basis of transparency, accountability, civic participation, and the usage of the potential of digital tools in the achievement of these goals (Open Data, social media, crowdsourcing). Claudia works as a freelance consultant and is a volunteer in the Technical Advisory Groups of IATI, that of the Land Portal and at Transparency International."
   mail: claudia.schwegmann@okfn.de
@@ -438,7 +442,8 @@
   staff: 0
   board: 1
   advisory: 0
-  position: Beisitzerin
+  position: Stellvertretende Vorstandsvorsitzende
+  position_en: Deputy Chairwoman of the Management Board
   bio: "Die gebürtige Britin Lucy setzt sich in vielen verschiedenen Rollen mit den Themen offenes Wissen und Daten auseinander. Früher hat sie als Product Owner bei eHealth Africa Produkte konzipiert, die datengetriebene Entscheidungen im öffentlichen Gesundheitswesen in West-Afrikanischen Ländern fördern. Davor leitete sie das School of Data (Datenschule)-Programm bei Open Knowledge International und war Co-Autorin des Data Journalism Handbooks. Auf techtohuman.com schreibt sie über die Auswirkungen von Technologie und Daten."
   bio_en: "Lucy is a free-range tech translator, working to find common language between technologists and domain experts across a variety of fields.
   She is currently working as a Product Owner for eHealth Africa, where she helps design products to aid data driven decision making in public health policy. Previously she led the School of Data programme at the Open Knowledge Foundation (OKF), enabling journalistic and non-profit organisations to use data to improve their workflows, investigations and organisational decision making. While at OKF, she also co-edited the Data Journalism Handbook. Many of her copious opinions about the role of data and technology in the third sector can be found at techtohuman.com."
@@ -465,7 +470,8 @@
   staff: 0
   board: 1
   advisory: 0
-  position: Beisitzer
+  position: Vorstandsvorsitzender
+  position_en: Chairman of the board
   bio: "Andreas Pawelke ist seit 2014 im Vorstand der Open Knowledge Foundation Deutschland. Er unterstützt Organisationen darin, digitale Anwendungen zu nutzen, um Transparenz von Verwaltungen zu stärken und Bürgerbeteiligung zu ermöglichen. Davor war er u.a. für die Deutsche Gesellschaft für Internationale Zusammenarbeit, das Bundesinnenministerium und als sekundierter Mitarbeiter für UN Global Pulse tätig. Sein Studium der Politikwissenschaft hat er an der Hertie School of Governance, der TU Darmstadt und der Eidgenössischen Technischen Hochschule Lausanne absolviert."
   bio_en: "Andreas Pawelke is the treasurer of the OKF DE. He currently is project manager at the World Wide Web Foundation working on open data projects in South East Asia. Previously, he has worked with the Deutsche Gesellschaft für Internationale Zusammenarbeit, the Federal Ministry of the Interior, and as a seconded employee with UN Global Pulse. Andreas lives in Freiburg and supports the local open data movement in the city. He studied Political Science in Berlin, Darmstadt, and Lausanne."
   mail: andreas.pawelke@okfn.de
@@ -564,7 +570,8 @@
   staff: 0
   board: 1
   advisory: 0
-  position:
+  position: Beisitzerin
+  position_en: Member of the Board
   bio: "Jana Wichmann ist jüngstes Mitglied des Vorstandes der Open Knowledge Foundation. Als Head of Operations & Agility bei der Innovationsberatung zero360 unterstützt sie Organisationen bei der Entwicklung von nutzer-zentrierten und agilen Prozessen. Janas Projekte umfassen u.a. die Begleitung strategischer Transformationsprozesse, die Konzeption und Umsetzung partizipativer Innovationsformate von der Problemanalyse über die Entwicklung neuer Lösungsansätze bis zum Nutzertesting. Zudem bildet sie Interessierte in nutzer-zentrierten und agilen Methoden aus. In ihren eigenen Projekten engagiert sie sich für die Institutionalisierung von Future und Design Thinking in Bildungseinrichtungen. Ihr Studium absolvierte sie in Medienmanagement an der Hochschule Mittweida und in Zukunftsforschung an der FU Berlin."
   bio_en: "Jana Wichmann ist jüngstes Mitglied des Vorstandes der Open Knowledge Foundation. Als Head of Operations & Agility bei der Innovationsberatung zero360 unterstützt sie Organisationen bei der Entwicklung von nutzer-zentrierten und agilen Prozessen. Janas Projekte umfassen u.a. die Begleitung strategischer Transformationsprozesse, die Konzeption und Umsetzung partizipativer Innovationsformate von der Problemanalyse über die Entwicklung neuer Lösungsansätze bis zum Nutzertesting. Zudem bildet sie Interessierte in nutzer-zentrierten und agilen Methoden aus. In ihren eigenen Projekten engagiert sie sich für die Institutionalisierung von Future und Design Thinking in Bildungseinrichtungen. Ihr Studium absolvierte sie in Medienmanagement an der Hochschule Mittweida und in Zukunftsforschung an der FU Berlin."
   mail: jana.wichmann@okfn.de
