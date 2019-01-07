@@ -70,6 +70,8 @@ Deutschland<br>
 <br>
 datenschutz@okfn.de
 
+Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der Rechtsanwaltskanzlei https://kanzlei-hubrig.de/ 
+
 ### II. Personenbezogene Daten, Zwecke und Rechtsgrundlage der Datenverarbeitung
 
 #### 1. Personenbezogene Daten
