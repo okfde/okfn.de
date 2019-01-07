@@ -1,5 +1,6 @@
 dist: xenial
 language: node_js
+cache: npm
 
 before_install:
   - mkdir $TRAVIS_BUILD_DIR/bin && cd $TRAVIS_BUILD_DIR/bin
