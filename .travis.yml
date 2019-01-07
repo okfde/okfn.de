@@ -2,6 +2,10 @@ dist: xenial
 language: node_js
 cache: npm
 
+branches:
+  only:
+    - master
+
 before_install:
   - mkdir $TRAVIS_BUILD_DIR/bin && cd $TRAVIS_BUILD_DIR/bin
   - wget https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_extended_0.53_Linux-64bit.tar.gz
