@@ -16,6 +16,7 @@ script:
   - bash scripts/ci/build-blog-search-index.sh
 
 deploy:
+  provider: pages
   local-dir: public
   target-breanch: releases
   skip-cleanup: true
