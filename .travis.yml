@@ -16,16 +16,5 @@ script:
   - bash scripts/ci/build-site-search-index.sh
   - bash scripts/ci/build-blog-search-index.sh
 
-#deploy:
-#  provider: pages
-#  local-dir: public
-#  target-branch: releases
-#  skip-cleanup: true
-#  github_token: $GITHUB_TOKEN
-#  keep-history: true
-#  name: Travis
-#  on:
-#    branch: master
-
 after_success:
   - bash scripts/ci/deploy.sh
