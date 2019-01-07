@@ -17,5 +17,5 @@
 
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="preload" href="{{$style.RelPermalink}}" as="style">
-
+<link rel="stylesheet" href="{{$style.RelPermalink}}">
 {{- partial "js.html" . -}}
