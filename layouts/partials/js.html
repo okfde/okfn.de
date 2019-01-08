@@ -17,7 +17,7 @@
 {{ $shuff := resources.Get "/js/shuffle.js" }}
 {{ $shuffleJs := slice $shuffLib $shuff | resources.Concat "js/shuff.js" | resources.Minify | resources.Fingerprint}}
 <link rel="preload" href="{{$shuffleJs.RelPermalink}}" as="script">
-<script src="{{$shuffleJs.RelPermalink}}" async defer></script>
+<script src="{{$shuffleJs.RelPermalink}}" defer></script>
 {{ end }}
 
 {{ if eq .Section "finanzierung" }}
@@ -26,5 +26,5 @@
 {{ $customd3 := resources.Get "/js/viz.js" }}
 {{ $vizJs := slice $d3 $d3tip $customd3 | resources.Concat "js/data-viz.js" | resources.Minify | resources.Fingerprint}}
 <link rel="preload" href="{{$vizJs.RelPermalink}}" as="script">
-<script src="{{$vizJs.RelPermalink}}" async defer></script>
+<script src="{{$vizJs.RelPermalink}}" defer></script>
 {{ end }}
