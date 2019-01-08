@@ -1,6 +1,5 @@
 # OKFDE reloaded
 
-
 Statische Seite mit Hugo!
 
 ## Technisches
@@ -11,19 +10,21 @@ Hugo installieren (Version > 0.51):
 
 https://gohugo.io/getting-started/installing
 
-> Wenn du das Hugo binary manuell installierst, achte darauf die `extended` version zu nehmen, da diese auch Sass kompilieren kann
+Wenn du das Hugo binary manuell installierst, achte darauf die `extended` version zu nehmen, da diese auch Sass kompilieren kann
 
-Lokal laufen lassen
+Developement Server laufen lassen:
 
 ``` bash
 $ hugo serve
 ```
 
-Dann auf localhost:1313  die Seite anschauen.
+Dann auf `localhost:1313`  die Seite anschauen.
 
 ### Seite deployen
 
-TBD
+Ein Push zu GitHub genügt um den Buildprozess anzustoßen.
+
+
 
 ---
 
