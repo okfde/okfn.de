@@ -6,11 +6,14 @@
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
-<meta name="Description" content="{{.Params.meta}}">
 <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:image" content="" />
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
 {{ end }}
 
 {{ define "main" }}

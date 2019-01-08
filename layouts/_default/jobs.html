@@ -10,7 +10,10 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:image" content="" />
-<meta name="Description" content="OKF Jobs Ausschreibungen">
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
 {{ end }}
 
 {{ define "main" }}

@@ -18,6 +18,10 @@
     <meta property="article:tag" content="{{ . }}" />
   {{ end }}
 {{ end }}
+{{with .Params.meta}}
+  <meta property="og:description" content="{{.}}">
+  <meta name="description" content="{{.}}">
+{{end}}
 {{ end }}
 
 {{ define "main" }}
