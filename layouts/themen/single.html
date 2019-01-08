@@ -10,6 +10,10 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{ with .Params.img }}<meta property="og:image" content="{{ . }}" />{{ end }}
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
 {{ end }}
 
 {{ define "main" }}
