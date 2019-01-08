@@ -3,7 +3,7 @@ layout: verein
 title: Organisation
 blurb: We are a non-profit organization based in Berlin.
 meta: About the association, umbrella organization and annual reports
-img: https://placekitten.com/1140/468
+img: /okf/verein/verein_intro_2.jpg
 stats:
   - number: 2011
     text: The association was founded. The first meeting took place in 2010 at the re:publica with Rufus Pollock, initiator of the Open Knowledge Network.
