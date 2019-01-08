@@ -29,8 +29,8 @@
         <div class="col col-12 col-md-10 offset-md-1">
           <div class="row align-items-center">
             {{ with .Params.img }}
-            {{ range . }}
-            <div class="col col-12 col-sm-6">
+            {{ range $i, $v := . }}
+            <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
               <img src="{{.}}" alt="">
             </div>
             {{ end }}
@@ -48,17 +48,17 @@
 
       {{ if eq .Params.arrange "img_bottom"}}
       <section class="row l__profile__section">
-        <div class="col col-12 col-md-10 offset-md-1">
-          <div class="row">
+        <div class="row col col-12 col-md-10 offset-md-1">
+          <div class="row order-2 order-md-1">
             <div class="col col-12 col-md-8 offset-md-2">
               <h2 class="h3">{{.Title}}</h2>
               {{.Content}}
             </div>
           </div>
-          <div class="row align-items-center">
+          <div class="row align-items-center order-1 order-md-2">
             {{ with .Params.img }}
-            {{ range . }}
-            <div class="col col-12 col-sm-6">
+            {{ range $i, $v := . }}
+            <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
               <img src="{{.}}" alt="">
             </div>
             {{ end }}
@@ -70,17 +70,17 @@
 
       {{ if eq .Params.arrange "img_bottom_2"}}
       <section class="row l__profile__section">
-        <div class="col col-12">
-          <div class="row">
+        <div class="row col col-12">
+          <div class="row order-2 order-md-1">
             <div class="col col-12 col-md-6 offset-md-3">
               <h2 class="h3">{{.Title}}</h2>
               {{.Content}}
             </div>
           </div>
-          <div class="row align-items-center">
+          <div class="row align-items-center order-1 order-md-2">
             {{ with .Params.img }}
-            {{ range . }}
-            <div class="col col-12 col-sm-6">
+            {{ range $i, $v := . }}
+            <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
               <img src="{{.}}" alt="">
             </div>
             {{ end }}
@@ -94,14 +94,14 @@
       <section class="row l__profile__section">
         <div class="col col-12">
           <div class="row align-items-center">
-            <div class="col col-12 col-md-4">
+            <div class="col col-12 col-md-4 order-2 order-md-1">
               <h2 class="h3">{{.Title}}</h2>
               {{.Content}}
             </div>
 
             {{ with .Params.img }}
             {{ range . }}
-            <div class="col col-12 col-md-8">
+            <div class="col col-12 col-md-8 order-1 order-md-2">
               <img src="{{.}}" alt="">
             </div>
             {{ end }}

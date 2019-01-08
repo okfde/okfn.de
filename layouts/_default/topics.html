@@ -25,12 +25,12 @@
     <div class="l__topics">
       {{ range .Pages }}
       <section class="row align-items-center l__topics__section mt-d mb-l">
-        <div class="col col-12 col-md-6">
+        <div class="col col-12 col-md-6 order-2 order-md-1">
           <h2 class="h3">{{.Title}}</h2>
           <p>{{.Summary}}</p>
           <p><a href="{{.Permalink}}">{{ i18n "topics_more"}} {{.Title}} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a></p>
         </div>
-        <div class="col col-12 col-md-6">
+        <div class="col col-12 col-md-6 order-1 order-md-2">
           <a href="{{.Permalink}}" title='{{ i18n "topics_more"}} {{.Title}}'><img src="{{ .Params.img }}" alt="Illustration zu {{.Title}}"></a>
           </div>
       </section>
