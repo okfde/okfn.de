@@ -3,9 +3,9 @@ title: Prototype Fund
 subtitle: 47.500€ für deine Public-Interest-Tech-Idee
 type: research
 kategorien:
-  - Civic Tech
+  - 
 categories:
-  - Civic Tech
+  - 
 tile: double
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
@@ -16,8 +16,6 @@ weight: 4
 people:
   - name: Elisa Lindinger
     role: Projektleitung
-  - name: Fiona Krakenbürger
-    role: Lead Program Manager
   - name: Adriana Groh
     role: Program Management
   - name: Katharina Meyer

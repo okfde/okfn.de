@@ -9,13 +9,13 @@ paypal_name:
 paypal_text:
 paypal_link: #
 betterplace_name: Betterplace
-betterplace_text: Lorem ipsum
+betterplace_text: 
 ---
 
-Wir sind stolz darauf, gemeinnützig, nicht konzerngebunden und kompromisslos zu sein. Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nicht-kommerziell zu arbeiten. Mit einer Spende unterstützt Du eine starke, digitale Zivilgesellschaft.
+Wir sind stolz darauf, gemeinnützig zu sein. Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
 
 ### Mit der Spende unterstützt Du
 
 - politische Kampagnenarbeit im Interesse der Zivilgesellschaft
-- Projekte zu freiem Wissen, digitaler Mündigkeit und Communityarbeit
-- die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten)
+- Projekte zu freiem Wissen und digitaler Mündigkeit
+- die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten). 

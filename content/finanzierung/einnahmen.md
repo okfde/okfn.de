@@ -14,15 +14,14 @@ Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Han
 #### Durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit  beruhende Projekte
 
 <div class="l__finance__logos">
-    <img src="//placekitten.com/166/31" alt="">
-    <img src="//placekitten.com/159/31" alt="">
-    <img src="//placekitten.com/145/35" alt="">
-    <img src="//placekitten.com/145/35" alt="">
-    <img src="//placekitten.com/92/49" alt="">
-    <img src="//placekitten.com/58/59" alt="">
-    <img src="//placekitten.com/84/69" alt="">
-    <img src="//placekitten.com/102/66" alt="">
-    <img src="//placekitten.com/122/71" alt="">
+    <img src="/okf/finanzierung/fragdenstaat.png" alt="Frag Den Staat">
+    <img src="/okf/finanzierung/kleineanfragen.png" alt="Kleine Anfragen">
+    <img src="/okf/finanzierung/politikbeiuns.png" alt="Politik bei uns">
+    <img src="/okf/finanzierung/rettedeinennahverkehr.png" alt="Rette deinen Nahverkkehr">
+    <img src="/okf/finanzierung/sehrgutachten.png" alt="sehrGutachten">
+    <img src="/okf/finanzierung/oparl.png" alt="Oparl">
+    <img src="/okf/finanzierung/https.png" alt="HTTPS">
+    <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
 </div>
 
 Wir sowie unsere Community entwickelt digitale Bürgerbeteiligungs-Werkzeuge auf der Basis Offener Daten, um den öffentlichen Sektor gegenüber der Zivilgesellschaft zu öffnen. Diese Projekte entstehen aus einer lösungsorientierten und idealistischen Haltung und werden oft durch ehrenamtliche Tätigkeit initiiert.

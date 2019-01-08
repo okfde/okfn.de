@@ -6,7 +6,7 @@ categories:
   - Open Government
 tile: double
 title: FragDenStaat
-subtitle: Das Informationsfreiheitsportal
+subtitle: 
 layout: project
 img: projects/FragDenStaat_Projektuebersicht_bigTile.png
 img_square: projects/fragdenstaat_square.jpg
