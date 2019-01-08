@@ -1,5 +1,6 @@
 ---
 title: Transparenz
+meta: Freiwillige Angaben zur Vereinstransparenz
 ---
 
 ### 1. Name, Sitz, Anschrift und Gründungsjahr
@@ -9,7 +10,7 @@ Vereinsregister: <br>
 Singerstr. 109 <br>
 D-10179 Berlin <br>
 
-Vereinsregister Nr: VR 30468 B <br> 
+Vereinsregister Nr: VR 30468 B <br>
 Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ### 2. Vollständige Satzung sowie Angaben zu den Organisationszielen
@@ -32,8 +33,8 @@ Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechts
 
 ### 5. Tätigkeitsbericht
 
-[Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br> 
-[Tätigkeitsbericht 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf) <br> 
+[Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
+[Tätigkeitsbericht 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf) <br>
 [Tätigkeitsbericht 2015](/files/documents/OKFDE-Taetigkeitsbericht-2015.pdf) <br>
 [Tätigkeitsbericht 2014](/files/documents/OKFDE-Taetigkeitsbericht-2014.pdf) <br>
 [Tätigkeitsbericht 2013](/files/documents/OKFDE-Taetigkeitsbericht-2013.pdf) <br>
@@ -67,4 +68,3 @@ möglich. Es besteht keine Mitgliedschaft in einer anderen Organisationen.Wir si
 Die Zahlung des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur Finanzierung der Demokratierlabore macht 32,1% des Gesamtjahresbudgets für 2017 aus.
 
 Die Zahlung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds macht 17,7% des Gesamtjahresbudgets für 2017 aus.
-

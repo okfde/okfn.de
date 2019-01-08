@@ -9,7 +9,7 @@
 <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:image" content="" />
+<meta property="og:image" content="/files/favicon/ms-icon-310x310.png" />
 {{with .Params.meta}}
 <meta property="og:description" content="{{.}}">
 <meta name="description" content="{{.}}">
@@ -29,10 +29,12 @@
     <section class="row align-items-center l__topics__section mt-d mb-l">
       <div class="col col-12 col-md-6">
         <h2 class="h3">{{.name}}</h2>
-        <p>{{.position}}</p>
+
         {{ if eq $lang "de" }}
+        <p>{{.position}}</p>
         <p>{{.bio | markdownify }}</p>
         {{ else }}
+        <p>{{.position_en}}</p>
         <p>{{.bio_en | markdownify }}</p>
         {{ end }}
       </div>

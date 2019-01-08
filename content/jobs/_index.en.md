@@ -1,5 +1,6 @@
 ---
 title: Jobs
+meta: Open positions at OKF DE
 layout: jobs
 no_jobs: no jobs
 img_1: /files/jobs/jobs_01.jpg

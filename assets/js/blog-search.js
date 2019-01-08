@@ -27,8 +27,6 @@ document.addEventListener('DOMContentLoaded', function (event) {
     var searchTerm = document.getElementById('js-search-term');
     var blogIndex = document.getElementById('js-blog-index');
 
-    console.log("hello");
-
     if (searchOverlay && searchInput) {
       searchInput.value = '';
 

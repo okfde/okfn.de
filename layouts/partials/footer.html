@@ -17,24 +17,10 @@
         {{- partial "newsletter" -}}
       </section>
       <nav class="col col-md-7 col-lg-5 order-3">
-        <ul class="c__nav-list">
-          {{ with .Site.GetPage "/verein" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-          {{ with .Site.GetPage "/vorstand" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-          {{ with .Site.GetPage "/finanzierung" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-          {{ with .Site.GetPage "/jobs" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-          {{ with .Site.GetPage "/presse" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-          {{ with .Site.GetPage "/impressum" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        </ul>
+        {{- partial "footer-nav" . -}}
       </nav>
       <div class="col order-4 col-6 col-sm-5 offset-sm-1 col-md-3 offset-md-2 offset-lg-4">
-        <ul class="c__nav-list">
-          <li><a href="https://twitter.com/okfde" title="OKF DE bei Twitter">{{ readFile "static/files/icons/twitter.svg" | safeHTML }}</a></li>
-          <li><a href="https://www.facebook.com/okfde/" title="OKF DE bei Facebook">{{ readFile "static/files/icons/facebook.svg" | safeHTML }}</a></li>
-          <li><a href="https://github.com/okfde" title="OKF DE bei GitHub">{{ readFile "static/files/icons/github.svg" | safeHTML }}</a></li>
-          <li><a href="https://www.flickr.com/photos/okfde" title="OKF DE bei Flickr">{{ readFile "static/files/icons/flickr.svg" | safeHTML }}</a></li>
-          <li><a href="https://www.youtube.com/channel/UCUD8EFjXzRN-wFUbVTYlDAw" title="OKF DE auf YouTube">{{ readFile "static/files/icons/youtube.svg" | safeHTML }}</a></li>
-          <li><a href="/blog/atom.xml" title="OKF DE Blog als Atom Feed">{{ readFile "static/files/icons/rss.svg" | safeHTML }}</a></li>
-        </ul>
+        {{- partial "social-media" . -}}
       </div>
       <div class="l__footer__footnote col col-12 col-sm-10 col-md-7 order-5">
         <p>Wir verwenden die datenschutzfreundliche Technologie von <a href="https://matomo.org/">Matomo</a>, um statistische Auswertungen der Seitennutzung zu erhalten. Wenn sie dies nicht wollen, <a href="https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de">können Sie hier den Haken entfernen</a>. <br>Näheres in unserer <a href="/impressum/#datenschutzerklärung">Datenschutzerklärung</a>.</p>

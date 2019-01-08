@@ -2,9 +2,14 @@
   <div>
     <div class="l__inner">
       <a href="#content" class="show-on-focus skip">Skip to content</a>
-      <a href="{{ .Site.BaseURL }}" title="Startseite" class="c__logo l__logo">{{ readFile "static/okf/okf-logo-topbar.svg" | safeHTML }}</a>
+      {{ with .Site.GetPage "/"}}
+        <a href="{{.Permalink}}" title="Startseite" class="c__logo l__logo">
+          {{ readFile "static/okf/okf-logo-topbar.svg" | safeHTML }}
+        </a>
+      {{end}}
       <div class="l__topbar__toggle">
-        <button type="button" id="js-topnav-toggle" tabindex="">🍔</button>
+        <button type="button" id="js-topnav-toggle" tabindex="">
+          {{ readFile "static/files/icons/menu.svg" | safeHTML }}</button>
       </div>
       <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
         {{ with .Site.GetPage "/profil" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
@@ -32,22 +37,7 @@
         {{ with .Site.GetPage "/spenden" }}<li class="c__donate-btn"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
 
-      <div id="" class="l__search__overlay js-search-form">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col col-12 col-md-8 offset-md-2">
-              <h2 class="h3">{{ i18n "search"}}</h2>
-              <div>
-                <label for="js-search-input" class="sr-only">Suchfeld</label>
-                <input type="text" id="js-search-input" class="l__search__input">
-                <button id="js-close-search" class="l__search__close" title='{{ i18n "search_close" }}' aria-label='{{ i18n "search_close"}}'>x</button>
-              </div>
-              <div><p id="js-search-result-count" class="l__search_results__count"></p></div>
-              <ul class="l__search__results" id="js-search-results"></ul>
-            </div>
-          </div>
-        </div>
-      </div>
+      {{- partial "site-search" . -}}
     </div>
   </div>
 </header>

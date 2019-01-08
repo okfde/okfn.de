@@ -59,7 +59,7 @@
   board: 0
   advisory: 0
   position: Assistenz der Geschäftsführung
-  position_en: Management assistance 
+  position_en: Management assistance
   bio: "Juliane unterstützt die OKF als Referentin der Geschäftsführung und hilft den Demokratielaboren bei der Zahlen- und Tabellenjonglage. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte, am liebsten mit !Cyber!context, und ist immer wieder Teil ehrenamtlicher Projekte des Netzwerks der BücherFrauen des FIfF, außerdem derzeit Teil des Orgateams von Bits&Bäume, der Konferenz für Digitalisierung und Nachhaltigkeit. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
   bio_en: "Juliane works for the OKF as assistance to the management and suppports the Demokratielabore project with their finances. She is also part of the Bits&Bäume team organizing a conference for digitalization and sustainability in Berlin."
   mail: juliane.krueger@okfn.de
@@ -248,7 +248,7 @@
   board: 0
   advisory: 0
   position: Projektleitung
-  position_en: Project management 
+  position_en: Project management
   bio: "Walter ist Ökonom und seit Jahren netzpolitsch aktiv. Aktuell arbeitet er an den Projekten Open Data Incubator for Europe (ODINE), einem H2020-Forschungsprojekt und am Digitalen Offenheitsindex [do:index]. Außerdem betreut er den Open Data Census. Nach Berlin kam er 2012 als Co-Founder eines Startups. Zuvor arbeitete er fünf Jahre als Sysadmin in New York City."
   bio_en: "Walter is an economist by training and has been involved in the domain of Netzpolitik for many years. He is project lead of the EU research project Open Data Incubator (ODINE), the Digitaler Offenheitsindex [do:index], and supervises the Open Data Census.  He worked as a system administrator in NYC, before moving to Berlin, where he co-founded a start-up in 2012."
   mail: walter.palmetshofer@okfn.de
@@ -377,7 +377,7 @@
   advisory: 0
   position: Beisitzer
   position_en: Member of the Board
-  bio: "Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Daten und Technologien nutzen können um die Welt ein kleines bisschen besser zu machen. Heute leitet er am Humanistische Institut für Entwicklungszusammenarbeit (<a href=\"https://www.hivos.org\" target=\"_blank\">www.hivos.org</a>) ein internationales Program zu Open Contracting. Von 2014 bis 2016 arbeitet er als Policy Advisor für das Open Government Program der United Nations UNDESA/DPDAM. Von 2008 bis 2014 arbeitet er für Open Knowledge International an verschiedenen Projekten zu Open Data und Open Government unter anderem im Team der Platform der Europäischen Kommission für Public Sector Information (<a href=\"http://www.epsiplatform.eu\" target=\"_blank\">www.epsiplatform.eu</a>). Er ist Mitgründer der Open Knowledge Foundation Deutschland, die er bis 2015 als Vorstandsvorsitzender leitete. Bis Ende 2011 war er wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT-Branche als Berater und Projektleiter gearbeitet."
+  bio: "Daniel Dietrich engagiert sich seit Jahren für digitale Bürgerrechte und arbeitet intensiv zu verschiedenen Aspekten der Wissensgesellschaft und der digitalen Welt. Ihn interessiert die Frage, wie wir Daten und Technologien nutzen können um die Welt ein kleines bisschen besser zu machen. Heute leitet er am Humanistische Institut für Entwicklungszusammenarbeit (<a href=\"https://www.hivos.org\" target=\"_blank\" rel=\"noreferrer\">www.hivos.org</a>) ein internationales Program zu Open Contracting. Von 2014 bis 2016 arbeitet er als Policy Advisor für das Open Government Program der United Nations UNDESA/DPDAM. Von 2008 bis 2014 arbeitet er für Open Knowledge International an verschiedenen Projekten zu Open Data und Open Government unter anderem im Team der Platform der Europäischen Kommission für Public Sector Information (<a href=\"http://www.epsiplatform.eu\" rel=\"noreferrer\" target=\"_blank\">www.epsiplatform.eu</a>). Er ist Mitgründer der Open Knowledge Foundation Deutschland, die er bis 2015 als Vorstandsvorsitzender leitete. Bis Ende 2011 war er wissenschaftlicher Mitarbeiter an der Technischen Universität Berlin im Fachbereich Informatik und Gesellschaft. Zuvor hat er einige Jahre in der IT-Branche als Berater und Projektleiter gearbeitet."
   bio_en: "Daniel Dietrich has been an advocate for digital civil rights and engages intensely in different aspects of the knowledge society and the digital domain for many years. He is driven by the question of how technology can be used to improve the world around us. Within OKF DE he acts as an Open-Data-Evangelist as well as the coordinater of the Open Definition and the Open Government working group. He co-founded the Open Data Network and OKF DE. Until 2013, he was editor of the platform for public sector information of the European Comission (www.epsiplatform.eu). Before that he was a research assistant at TU Berlin in the area of Computer Science and Society. Previously, he spent several years as a consultant and projekt lead in the Information Technology sector."
   mail: daniel.dietrich@okfn.de
   twitter: ddie
@@ -812,8 +812,8 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Design 
-  position_en: Design 
+  position: Design
+  position_en: Design
   bio: "Nadine ist Informations- und Interfacedesignerin und seit Januar 2017 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
   bio_en: "Nadine is an information and interface designer and has been working for OKF since 2017.  Previously she worked for several years in a web agency and for the non-profit association Liquid Democracy. In projects with Transparency International, OCCRP, the Mercator Foundation or the City of Berlin, she worked on supporting social change with digital technologies and media."
   mail: "nadine.stammen@okfn.de"

@@ -1,5 +1,6 @@
 ---
 title: Presse
+meta: OKF DE Pressekontakt, Presseverteiler, Logos, Bilder
 ---
 
 Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu unseren Projekten hast oder eine/n Interviewpartner/in aus dem Verein benötigst, wende Dich bitte an unser Presse-Team. Wir helfen Dir gern weiter!

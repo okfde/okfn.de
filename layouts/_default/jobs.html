@@ -9,7 +9,7 @@
 <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:image" content="" />
+<meta property="og:image" content="/files/favicon/ms-icon-310x310.png" />
 {{with .Params.meta}}
 <meta property="og:description" content="{{.}}">
 <meta name="description" content="{{.}}">
@@ -28,7 +28,7 @@
     <div class="row">
       <div class="col col-12 col-md-6">
         <p>{{ with .Params.no_jobs }}{{.}}{{ end }}</p>
-        {{- partial "newsletter" -}}
+        {{- partial "newsletter" . -}}
       </div>
     </div>
   </div>

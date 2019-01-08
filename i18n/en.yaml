@@ -20,6 +20,8 @@
   translation: "Open search"
 - id: search_close
   translation: "Close search"
+- id: search_field_label
+  translation: "Search field"
 - id: projects
   translation: "Projects"
 - id: projects_all
