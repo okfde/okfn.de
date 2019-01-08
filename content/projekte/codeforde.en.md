@@ -1,6 +1,6 @@
 ---
 title: Code for Germany
-subtitle: "Community mit Hunderten freiwilligen Stadtentwicklern"
+subtitle: "Community of hundreds of volunteers"
 layout: project
 tile: double
 kategorien:
@@ -25,15 +25,19 @@ contact:
   github: https://github.com/codeforgermany
   mailinglist: https://lists.okfn.org/mailman/listinfo/codeforde
   g+: https://plus.google.com/communities/101049062262477568057?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
-cta: Mitmachen
+cta: Participate
 cta_text: |-
-    Wo gerade welche Anwendungen und Projekte entstehen, wann das nächste Treffen stattfindet und wie man mitmachen kann, erfährst Du durch einen Klick auf die jeweilige Stadt auf unserer <a href="https://codefor.de/">Deutschlandkarte</a>.
+    You can find out which projects are being developed, when the next meeting will take place and how to participate by clicking on a city on our <a href="https://codefor.de/">map</a>.
 more_text: |-
-    Weitere Infos gibt es auf der <a href="https://codefor.de/">Website</a> von Code for Germany.
+    Further information can be found on the Code for Germany <a href="https://codefor.de/">website</a>.
 ---
+Code For Germany is a network of groups of volunteer volunteers (Labs) who use their skills to positively shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics and use their skills to improve communication between them and to provide the necessary impetus so that as many people as possible can benefit from the possibilities of open and free digitisation.
 
-Code For Germany ...
+<div class="two-img">
+  <img alt="Bild vom Event" src="/files/projects/codefor_img_1.jpg">
+  <img alt="Bild vom Event" src="/files/projects/codefor_img_2.jpg">
+</div>
 
-![Bild vom Event](/files/projects/codefor_img_1.jpg)
-![Bild vom Event](/files/projects/codefor_img_2.jpg)
+Some cities already have Open Data programs and make data sets available openly, but in many places there is still a lack of applications and examples that demonstrate the practical use of open data - this is exactly where Code for Germany comes in. In addition to software projects, "Do it yourself" hardware projects such as the network of fine dust sensors or the Long Range Wide Area Network (LoRaWan) are also being worked on.
 
+The program started in February 2014 with the foundation of Open Knowledge Labs in 8 cities. In the meantime, the network has grown to 26 labs and comprises a community of over 500 volunteers.

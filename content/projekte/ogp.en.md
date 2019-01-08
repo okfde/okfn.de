@@ -2,7 +2,7 @@
 type: politics
 tile: single
 title: Open Gov Netzwerk
-subtitle: Regierungshandeln für Bürger verbessern
+subtitle: Improving government action for citizens
 img: projects/OGP_Projektuebersicht_smallTile.png
 img_header: projects/opengov_Header.jpg
 layout: project
@@ -35,6 +35,6 @@ The network is an association of civil society organisations and individuals tha
   <img alt="Project manager Michael presents the network at a congress" src="/files/projects/opengov_img_2.jpg">
 </div>
 
-The network enables female citizens to participate in the development and implementation of ambitious Open Government reforms and to expand the dialogue. In doing so, we combine the expertise of our members and strengthen capacity building in civil society.
+The network enables citizens to participate in the development and implementation of ambitious Open Government reforms and to expand the dialogue. In doing so, we combine the expertise of our members and strengthen capacity building in civil society.
 
 We share the conviction that active participation by the Federal Republic of Germany in the Open Government Partnership promotes a cultural change towards greater transparency, participation and accountability and thus stimulates and strengthens democracy and the quality of government action.

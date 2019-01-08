@@ -3,7 +3,7 @@ type: politics
 kategorien:
   - Offenes Regierungshandeln
   - Open Data
-title: "OffeneGesetze.de"
+title: "OffeneGesetze"
 tile: single
 layout: project
 website: https://offenegesetze.de
@@ -16,10 +16,16 @@ people:
   role: Entwickler
 - name: Arne Semsrott
   role: Kommunikation
+years: 2018 - heute
+contact_person: arnesemsrott
+financing:
+  - ehrenamtliches Projekt
 contact:
   website: https://offenegesetze.de/
   twitter: offenegesetze
 subtitle: Freier Zugang zum Bundesgesetzblatt
+more_text: |-
+    Weitere Infos gibt es auf <a href="https://offenegesetze.de/">OffeneGesetze.de</a>.
 ---
 
 Die Bundesgesetzblätter sind die zentralen Dokumente der deutschen Demokratie. Unter OffeneGesetze.de sind sie jetzt erstmals frei zugänglich. Auf unserem neuen Portal stellen wir die Dokumente kostenfrei und zur freien Weiterverwendung bereit.
@@ -32,4 +38,4 @@ Der vormals staatliche Bundesanzeiger Verlag wurde 2006 privatisiert. In einem u
 
 Durch die Funktionen von OffeneGesetze.de, etwa den Gesamt-Download aller Bundesgesetzblätter seit 1949, wird es erstmals möglich, den Textbestand der Gesetzblätter zu analysieren und Veränderungen in Gesetzen der letzten Jahrzehnte nachzuvollziehen. Außerdem können anders als bisher einzelne Dokumente verlinkt und durchsucht werden.
 
-Update, 24.12.2018: Das Justizministerium hat als Reaktion auf OffeneGesetze bekanntgegeben, künftig ein digitales Gesetzgebungsverfahren zu schaffen. Das Ministerium schaffe eine Plattform, auf der Bundesgesetzblätter “auch frei ausgedruckt, durchsucht und weiterverwendet werden können.” Es solle einen uneingeschränkten Zugang geben.
+**Update, 24.12.2018:** Das Justizministerium hat als Reaktion auf OffeneGesetze bekanntgegeben, künftig ein digitales Gesetzgebungsverfahren zu schaffen. Das Ministerium schaffe eine Plattform, auf der Bundesgesetzblätter „auch frei ausgedruckt, durchsucht und weiterverwendet werden können.“s Es solle einen uneingeschränkten Zugang geben.
