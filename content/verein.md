@@ -6,7 +6,7 @@ img: /okf/verein/verein_intro_2.jpg
 stats:
   - number: 2011
     text: hat sich der Verein gegründet. Das erste Treffen fand bereits 2010 auf der 
-    re:publica mit Rufus Pollock, Initiator des internationalen Open Knowledge Netzwerks, statt.
+    republica mit Rufus Pollock, Initiator des internationalen Open Knowledge Netzwerks, statt.
   - number: 39
     text: Wir beschäftigen mittlerweile 39 Personen – darunter AktivistInnen,
     WissenschaftlerInnen, EntwicklerInnen, Policy-SpezialistInnen und DesignerInnen.
