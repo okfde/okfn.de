@@ -9,7 +9,7 @@ categories:
   - community
 tile: double
 layout: project
-weight: 3
+weight: 5
 img: projects/Demokratielabore_Projektuebersicht_bigTile.png
 img_header: projects/Demokratielabore_Header.png
 people:

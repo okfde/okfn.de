@@ -1,11 +1,11 @@
 ---
 type: politics
-kategorien:
-  - Offenes Regierungshandeln
 categories:
   - Open Government
+  - community
 tile: double
 title: FragDenStaat
+weight: 4
 subtitle: 
 layout: project
 img: projects/FragDenStaat_Projektuebersicht_bigTile.png

@@ -6,6 +6,7 @@ subtitle: Improving government action for citizens
 img: projects/OGP_Projektuebersicht_smallTile.png
 img_header: projects/opengov_Header.jpg
 layout: project
+weight: 1
 kategorien:
   - Offenes Regierungshandeln
 categories:

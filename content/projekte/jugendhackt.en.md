@@ -7,6 +7,7 @@ categories:
   - Education
   - Community
 tile: double
+weight: 6
 layout: project
 title: Jugend hackt
 website: https://jugendhackt.de

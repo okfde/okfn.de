@@ -7,6 +7,7 @@ kategorien:
 categories:
   - 
 tile: double
+weight: 4
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/prototypefund_square.jpg

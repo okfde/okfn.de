@@ -1,9 +1,8 @@
 ---
 type: education
-kategorien:
-  - Bildung
 categories:
-  - Education
+  - education
+  - community
 title: edulabs
 tile: double
 layout: project
