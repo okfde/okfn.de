@@ -5,19 +5,17 @@ blurb: Wir sind ein gemeinnütziger Verein mit Sitz in Berlin
 img: /okf/verein/verein_intro_2.jpg
 stats:
   - number: 2011
-    text: hat sich der Verein gegründet. Das erste Treffen fand bereits 2010 auf der 
-    republica mit Rufus Pollock, Initiator des internationalen Open Knowledge Netzwerks, statt.
+    text: hat sich der Verein gegründet. Das erste Treffen fand bereits 2010 auf der republica mit Rufus Pollock, Initiator des internationalen Open Knowledge Netzwerks, statt.
   - number: 39
-    text: Wir beschäftigen mittlerweile 39 Personen – darunter AktivistInnen,
-    WissenschaftlerInnen, EntwicklerInnen, Policy-SpezialistInnen und DesignerInnen.
+    text: Wir beschäftigen mittlerweile 39 Personen – darunter AktivistInnen, WissenschaftlerInnen, EntwicklerInnen, Policy-SpezialistInnen und DesignerInnen.
   - number: 24
     text: Der Open Knowledge Deutschland e. V. ist Teil des internationalen Open Knowledge Netzwerkes. Das Netzwerk umfasst Organisationen aus insgesamt 24 Ländern.  
   - number: 44
     text: In den vergangenen Jahren haben wir 44 Projekte realisiert – darunter Kampagnen, Hackathons, Community-Förderungen, Bildungsangebote und eigene Softwarelösungen.
   - number: 28
-    text: In 28 Städten organisieren unsere ehrenamtlichen Community-Mitglieder regelmäßige Veranstaltungen – deutschlandweit. 
+    text: In 28 Städten organisieren unsere ehrenamtlichen Community-Mitglieder regelmäßig Veranstaltungen – deutschlandweit. 
   - number: 1.387
-    text: So viele Personen engagieren sich in unserer Community. In unserem Netzwerk findet sich ein vielfältiges Wissen rund um die Themen Open Data, Open Government und Civic Tech.
+    text: So viele Personen engagieren sich in unserer Community. In unserem Netzwerk findet sich ei vielfältiges Wissen rund um die Themen Open Data, Open Government und Civic Tech.
 ---
 
 ### Verein und Dachorganisation
