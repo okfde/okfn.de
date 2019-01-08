@@ -1,28 +1,57 @@
 - de:
-    title: Gewinn- und Verlustrechnung
-    text: Lorem ipsum
+    title: Freistellungsbescheid
+    text: Der Freistellungsbescheid wird durch das Finanzamt für Körperschaften erteilt und zeigt an, dass wir steuerbegünstigt sind.
   en:
-    title: Gewinn- und Verlust EN
-    text: Text EN
-  path: /where/the/thing/is.pdf
+    title: Notice of exemption [DE]
+    text: The notice of exemption is issued by the tax office for corporations and indicates that we are tax-privileged.
+  path: /files/documents/Freistellungsbescheid-2018-04-20.pdf
 - de:
-    title: Bilanz
-    text: Lorem ipsum
+    title: Gewinn- und Verlustrechnung 2017
+    text: Die Gesamteinnahmen betrugen 2.066.047,51 €. Dem standen Gesamtausgaben von insgesamt 2.112.418,39 € gegenüber. 
   en:
-    title: Bilanz EN
-    text: Text EN
-  path: /where/the/thing/is.pdf
+    title: Gewinn- und Verlustrechnung 2017 [DE]
+    text: 
+  path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf
 - de:
-    title: Bericht der Wirtschaftsprüfung 2018
-    text: Lorem ipsum
+    title: Gewinn- und Verlustrechnung 2016
+    text: Die Gesamteinnahmen betrugen 1.296.054,15 €. Dem standen Gesamtausgaben von insgesamt 1.243.415,95 € gegenüber.
   en:
-    title: Bericht der Wirtschaftsprüfung 2018 EN
-    text: Text EN
-  path: /where/the/thing/is.pdf
+    title: Gewinn- und Verlustrechnung 2016 [DE]
+    text: 
+  path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2016.pdf
 - de:
-    title: Wirtschaftlicher Lagebericht
-    text: Lorem ipsum
+    title: Gewinn- und Verlustrechnung 2015
+    text: Die Gesamteinnahmen betrugen 979.272,83 €. Dem standen Gesamtausgaben von insgesamt 888.650,90 € gegenüber.
   en:
-    title: Wirtschaftlicher Lagebericht EN
-    text: Text EN
-  path: /where/the/thing/is.pdf
+    title: Gewinn- und Verlustrechnung 2015 [DE]
+    text: 
+  path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2015.pdf
+- de:
+    title: Gewinn- und Verlustrechnung 2014
+    text: Die Gesamteinnahmen betrugen 414.919,08 €. Dem standen Ausgaben von insgesamt 471.990,54 € gegenüber. 
+  en:
+    title: Gewinn- und Verlustrechnung 2014 [DE]
+    text: 
+  path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2014.pdf
+- de:
+    title: Gewinn- und Verlustrechnung 2013
+    text: Die Gesamteinnahmen betrugen 313.883 €. Dem standen Ausgaben von insgesamt 302.156 € gegenüber. 
+  en:
+    title: Gewinn- und Verlustrechnung 2013 [DE]
+    text: 
+  path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2013.pdf
+
+- de:
+    title: Gewinn- und Verlustrechnung 2012
+    text: Die Gesamteinnahmen betrugen 132.539 €. Dem standen Ausgaben von insgesamt 105.844 € gegenüber. 
+  en:
+    title: Gewinn- und Verlustrechnung 2012 [DE]
+    text: 
+  path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2012.pdf
+- de:
+    title: Gewinn- und Verlustrechnung 2011
+    text: Die Gesamteinnahmen betrugen 72.266 €. Dem standen Ausgaben von insgesamt 54.278 € gegenüber. 
+  en:
+    title: Gewinn- und Verlustrechnung 2011 [DE]
+    text: 
+  path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2011.pdf

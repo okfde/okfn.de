@@ -16,16 +16,10 @@ categories:
 tile: single
 layout: project
 website: https://offenerhaushalt.de
-background: backgrounds/offenerhaushalt.jpg
 years: 2011-heute
-contact_person: annaalberts
+contact_person: michaelpeters
 financing:
   - ehrenamtliches Projekt
-people:
-- name: Anna Alberts
-  role: Projektleitung
-- name: Edgar Zanella Alvarenga
-  role: Developer
 contact:
   twitter: offenerhaushalt
   mailingliste: https://lists.okfn.org/mailman/listinfo/offener-haushalt

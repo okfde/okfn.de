@@ -10,7 +10,7 @@ kategorien:
   - Offenes Regierungshandeln
 categories:
   - Open Government
-weight: 4
+weight: 1
 people:
   - name: Michael Peters
     role: Koordination

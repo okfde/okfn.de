@@ -9,14 +9,14 @@ categories:
   - Community
 tile: double
 layout: project
-img: projects/codefor_Projektuebersicht_smallTile.png
-img_square: projects/codeforde_square.jpg
+img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
   - name: Michael Peters
     role: Community Organizer
 contact_person: michaelpeters
 years: 2014 - heute
+weight: 4
 partners:
   - Code for All
 website: https://codefor.de

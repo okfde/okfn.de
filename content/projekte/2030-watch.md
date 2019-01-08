@@ -1,16 +1,14 @@
 ---
 type: research
 kategorien:
-  - Open Government
+  - Offenes Regierungshandeln
 categories:
   - Open Government
 layout: project
 title: 2030watch
 background: backgrounds/jugendhackt.jpg
 website: https://2030-watch.de
-img: projects/dummy_Projektübersicht_smallTile.png
-img_square: projects/dummy_Projektübersicht_smallTile.png
-img_header: projects/2030watch_Header.png
+img: projects/2030_Projektuebersicht_smallTile.png
 people:
   - name: Rebecca Varghese Buchholz
     role: Projektleitung

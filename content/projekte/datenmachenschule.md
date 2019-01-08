@@ -9,8 +9,6 @@ categories:
 layout: project
 img: projects/datenmachenschule_Projektuebersicht_smallTile.png
 img_header: projects/Header.png
-img_square: projects/datenmachenschule.png
-background: backgrounds/datenmachenschule-bg.png
 people:
   - name: Bela Seeger
     role: Projektleitung

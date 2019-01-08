@@ -9,9 +9,8 @@ categories:
   - Community
 tile: double
 layout: project
-weight: 5
-img: projects/codefor_Projektuebersicht_smallTile.png
-img_square: projects/codeforde_square.jpg
+weight: 2
+img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
   - name: Michael Peters

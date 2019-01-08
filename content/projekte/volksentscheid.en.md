@@ -9,7 +9,8 @@ layout: project
 title: Volksentscheid Transparenz Berlin
 subtitle: Wissen für alle!
 website: https://volksentscheid-transparenz.de/
-img: projects/volksentscheid.jpg
+img: projects/Volksentscheid_Projektuebersicht_smallTile.png
+img_header: projects/Volksentscheid_Header.png
 years: 2017 - 2022
 financing:
  - Ehrenamt
