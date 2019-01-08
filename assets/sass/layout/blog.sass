@@ -46,10 +46,12 @@
     border: none
     background: none
     background-image: url(/files/icons/search.svg)
-    background-size: 11%;
+    background-size: 11%
     background-repeat: no-repeat
     background-position: right center
     border-bottom: 2px solid $primary
+    &:focus
+      outline: 1px dotted $blue
   input::-moz-placeholder,
   input::-webkit-input-placeholder,
   input:-ms-input-placeholder
@@ -70,7 +72,14 @@
   color: $anchor
 
 .l__blog__search__clear
+  border: none
+  background: none
   vertical-align: top
+  &:hover,
+  &:active
+    cursor: pointer
+    g
+      stroke: $blue
 
 //
 // See JS code in assets/js/blog-search.js
