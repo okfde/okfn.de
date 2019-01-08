@@ -7,6 +7,12 @@
     h1
       font-size: 5.25rem
 
+    @include media-breakpoint-down(xs)
+      h1
+        font-size: 3.25rem
+        line-height: 1.2
+
+
 .l__home__img
   position: relative
 
@@ -40,3 +46,12 @@
   .l__home__donate__img
     position: absolute
     top: -16em
+
+@include media-breakpoint-down(xs)
+  .l__home
+    .l__projects__list--home
+      .l__projects__item
+          padding: 0
+          &:first-child
+            margin-top: 1.15em
+

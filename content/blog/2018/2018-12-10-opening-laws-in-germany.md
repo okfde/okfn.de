@@ -19,7 +19,7 @@ published: true
 title: "OffeneGesetze: Opening Germany's Law Gazette (Update)"
 ---
 
-*Update, 12/24/2018*: In response to OffeneGesetze, [the German Ministry of Justice has announced](https://www.faz.net/aktuell/wirtschaft/diginomics/justizministerin-barley-nimmt-dumont-verlag-das-gesetzblatt-weg-15957231.html?GEPC=s3) that it will create a digital legislative process in the coming years. The ministry is creating a platform on which federal law gazettes "can also be freely printed, searched and re-used". There should be unrestricted access, the Justice Minister Katarina Barley said.
+**Update, 12/24/2018**: In response to OffeneGesetze, [the German Ministry of Justice has announced](https://www.faz.net/aktuell/wirtschaft/diginomics/justizministerin-barley-nimmt-dumont-verlag-das-gesetzblatt-weg-15957231.html?GEPC=s3) that it will create a digital legislative process in the coming years. The ministry is creating a platform on which federal law gazettes "can also be freely printed, searched and re-used". There should be unrestricted access, the Justice Minister Katarina Barley said.
 
 The Federal Law Gazettes are the central documents of German democracy. To pass a law, it has to be published in the Law Gazette. At [OffeneGesetze.de](https://offenegesetze.de/) they are now freely accessible for the first time. On the portal we provide the documents free of charge and for free re-use.
 

@@ -70,7 +70,7 @@
   max-width: $max-width
   margin-left: auto
   margin-right: auto
-  margin-top: 1.2em
+  margin-top: 4.4em
   font-size: 13px
   @include media-breakpoint-up(sm)
     @include make-col-offset(1)
@@ -100,3 +100,7 @@
     img
       width: 100%
       height: auto
+
+@include media-breakpoint-down(xs)
+.c__post__main
+  margin-top: 2em
