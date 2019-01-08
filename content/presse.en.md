@@ -1,5 +1,6 @@
 ---
 title: Press
+meta: OKF DE press contact, press mailing list, logos, photos
 ---
 
 Text

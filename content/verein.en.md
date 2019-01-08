@@ -2,6 +2,7 @@
 layout: verein
 title: Organisation
 blurb: We are a non-profit organization based in Berlin.
+meta: About the association and umbrella organization, our board and annual reports
 img: https://placekitten.com/1140/468
 stats:
   - number: 2011

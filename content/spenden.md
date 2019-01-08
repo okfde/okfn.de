@@ -1,11 +1,12 @@
 ---
 title: Spenden
 blurb: Spenden Sie jetzt
+meta: OKF DE unterstützen. Spenden via Überweisung, Betterplace, Paypal
 layout: donation
 bank_name: "Überweisung"
 bank_text: "Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:"
-paypal_name: 
-paypal_text: 
+paypal_name:
+paypal_text:
 paypal_link: #
 betterplace_name: Betterplace
 betterplace_text: Lorem ipsum
