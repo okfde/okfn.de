@@ -31,7 +31,7 @@
           <p><a href="{{.Permalink}}">{{ i18n "topics_more"}} {{.Title}} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a></p>
         </div>
         <div class="col col-12 col-md-6">
-          <a href="{{.Permalink}}"><img src="{{ .Params.img }}" alt="Illustration zu {{.Title}}"></a>
+          <a href="{{.Permalink}}" title='{{ i18n "topics_more"}} {{.Title}}'><img src="{{ .Params.img }}" alt="Illustration zu {{.Title}}"></a>
           </div>
       </section>
       {{ end }}
