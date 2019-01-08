@@ -5,12 +5,14 @@
 {{ $toggle := resources.Get "js/toggle.js" }}
 {{ $ssearch := resources.Get "/js/site-search.js" }}
 {{ $js := slice $toggle $ssearch | resources.Concat "js/bundle.min.js"  | resources.Minify | resources.Fingerprint}}
+<link rel="preload" href="/js/site-search-index.json" as="fetch">
 <link rel="preload" href="{{$js.RelPermalink}}" as="script">
 <script src="{{$js.RelPermalink}}"></script>
 
 {{ if eq .Section "blog"}}
   {{ $bsearch := resources.Get "/js/blog-search.js" | resources.Minify | resources.Fingerprint }}
   <link rel="preload" href="{{$bsearch.RelPermalink}}" as="script">
+  <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="{{$bsearch.RelPermalink}}"></script>
 {{ end }}
 
