@@ -12,17 +12,24 @@ document.addEventListener('DOMContentLoaded', function (event) {
   }
 
   // Verein Jahresbericht Tab nav
-  var reports = document.querySelectorAll('.js-report');
-  var reportLinks = document.querySelectorAll('#js-report-nav a');
+  tabnav('.js-report', '#js-report-nav a');
+  // Finanzierung einnahmen
+  tabnav('.js-incomes', '#js-incomes-nav a');
+});
 
-  if (reports && reportLinks) {
-    reports.forEach(function (v, k) {
+
+function tabnav (bodyIdent, navIdent) {
+  var bodyItemList = document.querySelectorAll(bodyIdent);
+  var navLinks = document.querySelectorAll(navIdent);
+
+  if (bodyItemList && navLinks) {
+    bodyItemList.forEach(function (v, k) {
       if (k !== 0) {
         v.classList.add('is-hidden');
       }
     });
 
-    reportLinks.forEach(function (v, k) {
+    navLinks.forEach(function (v, k) {
       if (k === 0) {
         v.classList.add('active');
       }
@@ -30,14 +37,14 @@ document.addEventListener('DOMContentLoaded', function (event) {
       v.addEventListener('click', function (ev) {
         ev.preventDefault();
 
-        reports.forEach(function (v, k) {
+        bodyItemList.forEach(function (v, k) {
           v.classList.add('is-hidden');
         });
-        document.querySelector('#js-report-nav a.active').classList.remove('active');
+        document.querySelector(navIdent +".active").classList.remove('active');
         ev.target.classList.add('active');
-        var year = ev.target.attributes.href.value;
-        document.querySelector(year).classList.remove('is-hidden');
+        var identifyer = ev.target.attributes.href.value;
+        document.querySelector(identifyer).classList.remove('is-hidden');
       });
     });
   }
-});
+}
