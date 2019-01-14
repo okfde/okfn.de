@@ -59,12 +59,20 @@
     </div>
   </div>
 </section>
+<section class="l__donation container l__content">
+  <div class="row">
+    <div class="col col-12 col-md-6 col-lg-8">
+      {{ with .Params.metainfo_name}}<h3>{{.}}</h3>{{ end }}
+      {{ with .Params.metainfo_text}}<p>{{safeHTML .}}</p>{{ end }}
+    </div>
+  </div>
+</section>
 <aside class="container">
   <div class="l__profile__aside row">
-    <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+    <div class="col col-12 col-sm-10 col-md-10 col-lg-8">
       <div class="row c__additional no-gutters">
         <div class="col-12 col-md-6">
-          <img src="/okf/profil/08.jpg" alt="">
+          <img src="/okf/verein/transparenz_teaser.jpg" alt="">
         </div>
         <div class="col-12 col-md-6">
           <div class="c__additional__info">
