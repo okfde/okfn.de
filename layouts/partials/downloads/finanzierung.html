@@ -8,12 +8,23 @@
     <div>
       {{ if eq $lang "de"}}
       <h3 class="h4">{{ .de.title }}</h3>
-      <p>{{ .de.text}}</p>
+      {{ with .de.text }}<p>{{ . }}</p>{{ end }}
       {{ else }}
       <h3 class="h4">{{ .en.title }}</h3>
-      <p>{{ .en.text}}</p>
+      {{ with .en.text }}<p>{{ . }}</p>{{ end }}
       {{ end }}
-      <p><a href="{{.path}}">{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} PDF</a></p>
+      {{ with .path}}
+        <p><a href="{{.}}">{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} PDF</a></p>
+        {{ end }}
+
+        {{ with .years}}
+        <p>
+          {{ range $i, $v :=  . }}
+          {{ if ne $i 0 }},{{ end }}
+          <a href="/files/documents/OKF-DE-Gewinnermittlung-kurz-{{ $v }}.pdf">{{ $v }}</a>
+          {{ end }}
+        </p>
+        {{ end }}
     </div>
   </li>
   {{ end }}
