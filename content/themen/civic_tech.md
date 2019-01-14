@@ -4,6 +4,7 @@ project_tag: Civic Tech
 weight: 2
 img: /okf/themen/civictech.png
 img_header: /okf/themen/civictech.png
+img_social: /okf/civictech-social-og.png
 color: "#072b8b"
 ---
 

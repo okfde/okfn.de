@@ -10,7 +10,7 @@
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:image" content='{{ .Site.BaseURL }}files/{{ trim .Params.img_square "/"}}' />
+<meta property="og:image" content='/files/{{ trim .Params.img_header "/"}}' />
 {{with .Params.subtitle}}
 <meta property="og:description" content="{{.}}">
 <meta name="description" content="{{.}}">

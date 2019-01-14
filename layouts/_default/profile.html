@@ -9,7 +9,7 @@
 <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:image" content="/files/favicon/ms-icon-310x310.png" />
+{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
 {{with .Params.meta}}
 <meta property="og:description" content="{{.}}">
 <meta name="description" content="{{.}}">
@@ -17,123 +17,120 @@
 {{ end }}
 
 {{ define "main" }}
-<main>
-  <div class="container">
-    <div class="row">
-      <h1 class="col col-12">{{.Params.blurb}}</h1>
-    </div>
-    <div class="l__profile">
-      {{ range (.Paginator 10).Pages }}
-      {{ if eq .Params.arrange "img_top"}}
-      <section class="row l__profile__section">
-        <div class="col col-12 col-md-10 offset-md-1">
-          <div class="row align-items-center">
-            {{ with .Params.img }}
-            {{ range $i, $v := . }}
-            <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
-              <img src="{{.}}" alt="">
-            </div>
-            {{ end }}
-            {{ end }}
+<div class="container">
+  <div class="row">
+    <h1 class="col col-12">{{.Params.blurb}}</h1>
+  </div>
+  <div class="l__profile">
+    {{ range (.Paginator 10).Pages }}
+    {{ if eq .Params.arrange "img_top"}}
+    <section class="row l__profile__section">
+      <div class="col col-12 col-md-10 offset-md-1">
+        <div class="row align-items-center">
+          {{ with .Params.img }}
+          {{ range $i, $v := . }}
+          <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
+            <img src="{{.}}" alt="">
           </div>
-          <div class="row">
+          {{ end }}
+          {{ end }}
+        </div>
+        <div class="row">
           <div class="col col-12 col-md-8 offset-md-2">
             <h2 class="h3">{{.Title}}</h2>
             {{.Content}}
           </div>
         </div>
-        </div>
-      </section>
-      {{ end }}
+      </div>
+    </section>
+    {{ end }}
 
-      {{ if eq .Params.arrange "img_bottom"}}
-      <section class="row l__profile__section">
-        <div class="row col col-12 col-md-10 offset-md-1">
-          <div class="row order-2 order-md-1">
-            <div class="col col-12 col-md-8 offset-md-2">
-              <h2 class="h3">{{.Title}}</h2>
-              {{.Content}}
-            </div>
-          </div>
-          <div class="row align-items-center order-1 order-md-2">
-            {{ with .Params.img }}
-            {{ range $i, $v := . }}
-            <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
-              <img src="{{.}}" alt="">
-            </div>
-            {{ end }}
-            {{ end }}
+    {{ if eq .Params.arrange "img_bottom"}}
+    <section class="row l__profile__section">
+      <div class="row col col-12 col-md-10 offset-md-1">
+        <div class="row order-2 order-md-1">
+          <div class="col col-12 col-md-8 offset-md-2">
+            <h2 class="h3">{{.Title}}</h2>
+            {{.Content}}
           </div>
         </div>
-      </section>
-      {{ end }}
-
-      {{ if eq .Params.arrange "img_bottom_2"}}
-      <section class="row l__profile__section">
-        <div class="row col col-12">
-          <div class="row order-2 order-md-1">
-            <div class="col col-12 col-md-6 offset-md-3">
-              <h2 class="h3">{{.Title}}</h2>
-              {{.Content}}
-            </div>
+        <div class="row align-items-center order-1 order-md-2">
+          {{ with .Params.img }}
+          {{ range $i, $v := . }}
+          <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
+            <img src="{{.}}" alt="">
           </div>
-          <div class="row align-items-center order-1 order-md-2">
-            {{ with .Params.img }}
-            {{ range $i, $v := . }}
-            <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
-              <img src="{{.}}" alt="">
-            </div>
-            {{ end }}
-            {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ end }}
+
+    {{ if eq .Params.arrange "img_bottom_2"}}
+    <section class="row l__profile__section">
+      <div class="row col col-12">
+        <div class="row order-2 order-md-1">
+          <div class="col col-12 col-md-6 offset-md-3">
+            <h2 class="h3">{{.Title}}</h2>
+            {{.Content}}
           </div>
         </div>
-      </section>
-      {{ end }}
-
-      {{ if eq .Params.arrange "img_right"}}
-      <section class="row l__profile__section">
-        <div class="col col-12">
-          <div class="row align-items-center">
-            <div class="col col-12 col-md-4 order-2 order-md-1">
-              <h2 class="h3">{{.Title}}</h2>
-              {{.Content}}
-            </div>
-
-            {{ with .Params.img }}
-            {{ range . }}
-            <div class="col col-12 col-md-8 order-1 order-md-2">
-              <img src="{{.}}" alt="">
-            </div>
-            {{ end }}
-            {{ end }}
+        <div class="row align-items-center order-1 order-md-2">
+          {{ with .Params.img }}
+          {{ range $i, $v := . }}
+          <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
+            <img src="{{.}}" alt="">
           </div>
+          {{ end }}
+          {{ end }}
         </div>
-      </section>
+      </div>
+    </section>
+    {{ end }}
 
-      {{ end }}
-      {{ end }}
-    </div>
+    {{ if eq .Params.arrange "img_right"}}
+    <section class="row l__profile__section">
+      <div class="col col-12">
+        <div class="row align-items-center">
+          <div class="col col-12 col-md-4 order-2 order-md-1">
+            <h2 class="h3">{{.Title}}</h2>
+            {{.Content}}
+          </div>
+
+          {{ with .Params.img }}
+          {{ range . }}
+          <div class="col col-12 col-md-8 order-1 order-md-2">
+            <img src="{{.}}" alt="">
+          </div>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+    {{ end }}
+    {{ end }}
   </div>
-
-  <aside class="container">
-    <div class="l__profile__aside row">
-      <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-        <div class="row c__additional no-gutters">
-          <div class="col-12 col-md-6">
-            <img src="/okf/verein/verein_intro_3.jpg" alt="">
-          </div>
-          <div class="col-12 col-md-6">
-            <div class="c__additional__info">
-              <h3>{{ .Params.box_title }}</h3>
-              <p>
-                <a href='{{ with .Site.GetPage "/verein" }}{{.Permalink}}{{ end }}'>
-                  {{ .Params.box_link_name }}</a>
-              </p>
-            </div>
+</div>
+<aside class="container">
+  <div class="l__profile__aside row">
+    <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+      <div class="row c__additional no-gutters">
+        <div class="col-12 col-md-6">
+          <img src="/okf/verein/verein_intro_3.jpg" alt="">
+        </div>
+        <div class="col-12 col-md-6">
+          <div class="c__additional__info">
+            <h3>{{ .Params.box_title }}</h3>
+            <p>
+              <a href='{{ with .Site.GetPage "/verein" }}{{.Permalink}}{{ end }}'>
+                {{ .Params.box_link_name }}</a>
+            </p>
           </div>
         </div>
       </div>
     </div>
-  </aside>
-</main>
+  </div>
+</aside>
 {{ end }}

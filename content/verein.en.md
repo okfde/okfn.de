@@ -3,6 +3,7 @@ layout: verein
 title: Organisation
 blurb: We are a non-profit organization based in Berlin.
 meta: About the association, umbrella organization and annual reports
+img_header: /okf/verein-social-og.png
 img: /okf/verein/verein_intro_2.jpg
 stats:
   - number: 2011
