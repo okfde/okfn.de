@@ -54,3 +54,9 @@
   translation: "Logo Initiative Transparente Zivilgesellschaft"
 - id: newsletter_text
   translation: "Our monthly newsletter informs you about news form our projects, the association and events where you can find us!"
+- id: phineo_alt
+  translation: "Logo of Phineo"
+- id: phineo_text
+  translation: "Some Text"
+- id: phineo_link
+  translation: "More about Phineo"
