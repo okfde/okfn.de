@@ -11,6 +11,8 @@ paypal_text: some text
 paypal_link: #
 betterplace_name: Betterplace
 betterplace_text: Lorem ipsum
+box_title: Text in  spenden.en.md, image layout/default/donation.html
+box_link_name: To our transparency page
 ---
 
 Some text

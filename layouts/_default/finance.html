@@ -45,4 +45,24 @@
     {{- partial "downloads/finanzierung" . -}}
   </section>
 </section>
+<aside class="container">
+  <div class="l__profile__aside row">
+    <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+      <div class="row c__additional no-gutters">
+        <div class="col-12 col-md-6">
+          <img src="/okf/profil/08.jpg" alt="">
+        </div>
+        <div class="col-12 col-md-6">
+          <div class="c__additional__info">
+            <h3>{{ .Params.box_title }}</h3>
+            <p>
+              <a href='{{ with .Site.GetPage "/transparenz" }}{{.Permalink}}{{ end }}'>
+                {{ .Params.box_link_name }}</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</aside>
 {{ end }}
