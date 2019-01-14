@@ -4,7 +4,9 @@
   line-height: 2
   font-weight: 500
   list-style: none
+  display: inline
   @include media-breakpoint-up(md)
+    display: flex
     flex-direction: row
     justify-content: space-between
   a
@@ -15,9 +17,6 @@
     &:active
       svg
         fill: $anchor
-  @include media-breakpoint-down(md)
-    display: inline
-
 
   svg
     width: 1.3rem
