@@ -46,9 +46,9 @@ subtitle: Förderprogramm für technikbegeisterte Jugendliche
 cta: Teilnehmen
 cta_text: |-
     Du kannst <a href="https://jugendhackt.org/mitmachen/">der Website</a> Teilnehmerin oder Mentorin werden. Wir haben neben unserem Hauptevent in Berlin auch jede Menge Events in ganz Deutschland, Österreich und der Schweiz.<br><br>
-    Mit deiner <a href="https://www.betterplace.org/de/projects/19214-jugend-hackt-forderprogramm-fur-programmierbegeisterte-jugendliche">Spende</a> förderst du die nächste Generation an verantwortungsbewussten, weltverbessernden Technikerinnen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:sonja.fischbauer@okfn.de">Kontaktaufnahme</a>. 
+    Mit deiner <a href="https://www.betterplace.org/de/projects/19214-jugend-hackt-forderprogramm-fur-programmierbegeisterte-jugendliche">Spende</a> förderst du die nächste Generation an verantwortungsbewussten, weltverbessernden Technikerinnen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:sonja.fischbauer@okfn.de">Kontaktaufnahme</a>.
 more_text: |-
-    Weitere Infos gibt es auf der <a href="https://jugendhackt.org/">Website</a> von Jugend hackt. 
+    Weitere Infos gibt es auf der <a href="https://jugendhackt.org/">Website</a> von Jugend hackt.
 
 ---
 
@@ -73,4 +73,3 @@ Phineo-Siegel 2017<br>
 European Youth Culture Award 2017<br>
 BKM-Preis Kulturelle Bildung 2018<br>
 Theodor-Heuss-Medaille 2018
-
