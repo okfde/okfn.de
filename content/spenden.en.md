@@ -2,6 +2,7 @@
 title: Donate
 blurb: Donations!
 meta: Support OKF DE. Donate via bank transfer, Betterplace, Paypal
+img_header: /okf/spenden-social-og.png
 layout: donation
 bank_name: Bank transfer
 bank_text: some text

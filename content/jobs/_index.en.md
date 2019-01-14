@@ -1,6 +1,7 @@
 ---
 title: Jobs
 meta: Open positions at OKF DE
+img_header: /okf/jobs-social-og.png
 layout: jobs
 no_jobs: no jobs
 img_1: /files/jobs/jobs_01.jpg
