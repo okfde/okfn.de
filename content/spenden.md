@@ -12,7 +12,7 @@ betterplace_name: Betterplace
 betterplace_text: 
 ---
 
-Wir sind stolz darauf, gemeinnützig zu sein. Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Mit unserem aktuellen [Freistellungsbescheid](/files/documents/Freistellungsbescheid-2018-04-20.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem Vereinfachten [Zahlungsnachweis](/files/documents/06_Zuwendungsnachweis.pdf). <br><br>
+Wir sind stolz darauf, gemeinnützig zu sein. Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Mit unserem aktuellen [Freistellungsbescheid](/files/documents/Freistellungsbescheid-2018-04-20.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem Vereinfachten [Zuwendungsnachweis](/files/documents/06_Zuwendungsnachweis.pdf). <br><br>
 
 ### Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
 
