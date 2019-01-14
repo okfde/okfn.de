@@ -46,17 +46,17 @@ Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechts
 
 #### Teammitglieder 2017
 
-Anna Alberts, Sarina Balkenhausen, Oliver Berg, Jessica Binsch, Rebecca Buchholz, Lisa Burmeister, Nadine Evers, Paula Grünwald, Adriana Groh, Helene Hahn, Jasmin Helm, Kristina Klein, Julia Kloiber, Martin Koll, Fiona Krakenbürger, Juliane Krüger, John Langlo, Elisabeth Lindiger, Matthias Löwe, Mara Mendes, Moritz Neujeffski, Markus Neuschäfer, Walter Palmetshofer, Knut Perseke, Michael Peters, Lea Pfau, Sina Pietschmann, Maria Reimer, Andrej Sandorf, Lea Schubert, Marta Schulz, Claudia Schwegmann, Bela Seeger, Sebastian Seitz, Arne Semsrott, Nadine Stammen, Maximiian Voigt, Eileen Wagner, Stefan Wehrmeyer, Juliane Wessalowski, Saadya Windauer, Leonard Wolf, Tanja Zagel, Edgar Zanella Alvarenga, Johanna zum Felde, Yasmin Ortega Quiñonez
+Anna Alberts, Sarina Balkenhausen, Oliver Berg, Jessica Binsch, Rebecca Buchholz, Nadine Evers, Paula Grünwald, Adriana Groh, Helene Hahn, Jasmin Helm, Kristina Klein, Julia Kloiber, Martin Koll, Fiona Krakenbürger, Juliane Krüger, John Langlo, Elisabeth Lindiger, Matthias Löwe, Mara Mendes, Moritz Neujeffski, Markus Neuschäfer, Walter Palmetshofer, Knut Perseke, Michael Peters, Lea Pfau, Sina Pietschmann, Maria Reimer, Andrej Sandorf, Lea Schubert, Marta Schulz, Claudia Schwegmann, Bela Seeger, Sebastian Seitz, Arne Semsrott, Nadine Stammen, Maximiian Voigt, Eileen Wagner, Stefan Wehrmeyer, Juliane Wessalowski, Saadya Windauer, Leonard Wolf, Tanja Zagel, Edgar Zanella Alvarenga, Johanna zum Felde
 
 ### 7. & 8. Angaben zur Mittelherkunft & verwendung
 
-[Mittelherkunft & -verwendung 2017](/files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf) <br>
-[Mittelherkunft & -verwendung  2016](/files/documents/OKF-DE-Gewinnermittlung-kurz-2016.pdf) <br>
-[Mittelherkunft & -verwendung  2015](/files/documents/OKF-DE-Gewinnermittlung-kurz-2015.pdf) <br>
-[Mittelherkunft & -verwendung  2014](/files/documents/OKF-DE-Gewinnermittlung-kurz-2014.pdf) <br>
-[Mittelherkunft & -verwendung  2013](/files/documents/OKF-DE-Gewinnermittlung-kurz-2013.pdf) <br>
-[Mittelherkunft & -verwendung  2012](/files/documents/OKF-DE-Gewinnermittlung-kurz-2012.pdf) <br>
-[Mittelherkunft & -verwendung  2011](/files/documents/OKF-DE-Gewinnermittlung-kurz-2011.pdf)
+[Gewinn- und Verlustrechnung 2017](/files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf) <br>
+[Gewinn- und Verlustrechnung 2016](/files/documents/OKF-DE-Gewinnermittlung-kurz-2016.pdf) <br>
+[Gewinn- und Verlustrechnung 2015](/files/documents/OKF-DE-Gewinnermittlung-kurz-2015.pdf) <br>
+[Gewinn- und Verlustrechnung 2014](/files/documents/OKF-DE-Gewinnermittlung-kurz-2014.pdf) <br>
+[Gewinn- und Verlustrechnung 2013](/files/documents/OKF-DE-Gewinnermittlung-kurz-2013.pdf) <br>
+[Gewinn- und Verlustrechnung 2012](/files/documents/OKF-DE-Gewinnermittlung-kurz-2012.pdf) <br>
+[Gewinn- und Verlustrechnung 2011](/files/documents/OKF-DE-Gewinnermittlung-kurz-2011.pdf)
 
 ### 9. Gesellschaftsrechtliche Verbundenheit mit Dritten
 Es existiert ein [Memorandum of Understanding](/files/documents/05_Memorandum_of_Understanding.pdf) mit der OKFN aus Großbritannien.<br>
