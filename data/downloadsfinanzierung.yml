@@ -14,8 +14,19 @@
   path: /files/documents/Freistellungsbescheid-2018-04-20.pdf
 - de:
     title: Gewinn- und Verlustrechnung 2017
-    text: Die Gesamteinnahmen betrugen 2.066.047,51 €. Dem standen Gesamtausgaben von insgesamt 2.112.418,39 € gegenüber. 
+    text: Die Gesamteinnahmen betrugen 2.066.047,51 €. Dem standen Gesamtausgaben von insgesamt 2.112.418,39 € gegenüber.
   en:
     title: Gewinn- und Verlustrechnung 2017 [DE]
-    text: 
+    text: ""
   path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf
+- de:
+    title: Gewinn- und Verlustrechnung 2016 - 2011
+  en:
+    title: Gewinn- und Verlustrechnung 2016 - 2011 [DE]
+  years:
+    - 2016
+    - 2015
+    - 2014
+    - 2013
+    - 2012
+    - 2011
