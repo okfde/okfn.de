@@ -2,7 +2,7 @@
 title: Finanzierung
 layout: finance
 meta: Übersicht unserer Finanzierung
-box_title: In finanzierung/index.md steht der text, das Bild in layout/default/finance.html
+box_title: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, haben wir die wichtigsten Transparenzinfos zusammengetragen
 box_link_name: Hier geht's zur Transparenzseite
 ---
 
