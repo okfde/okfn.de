@@ -25,6 +25,7 @@ function developmentViz() {
       d.turnover = parseInt(d.turnover, 10);
       return d;
     });
+
     var xScale = d3.scaleLinear()
         .domain(d3.extent(data, d => d.year)).nice()
         .range([20, scaleWidth]);
@@ -36,6 +37,7 @@ function developmentViz() {
       .attr("class", "x axis")
       .attr("transform", "translate("+ magicSpacing +","+ height +")")
       .call(xAxis);
+    svg.append('svg:title').text("Entwicklung der Organisation anhand jährlicher Gesamteinnahmen");
 
     var yScale = d3.scaleLinear()
         .domain([0, d3.max(data, d => d.turnover)]).nice()
@@ -122,6 +124,7 @@ function incomesHelper (containerSelector, dataPath) {
       return d;
     });
     data = data.sort((a, b) => b.amount - a.amount);
+    svg.append('svg:title').text("Aufschlüsselung der Einnahmen durch " + data[0].category);
     //data = data.slice(0,9);
 
     var xScale = d3.scaleLinear()
@@ -213,6 +216,8 @@ function incomeTypesViz() {
     var yAxis = d3.axisLeft(yScale);
     yScale.domain(data.map(function(d) { return d.category; }));
 
+    svg.append('svg:title').text("Aufschlüsselung der Gesamteinnahmen nach Kategorie");
+
     var yAxis_g = svg.append("g")
         .attr("class", "y axis")
         .attr("transform", "translate(" + magicSpacing +",0)")
@@ -280,6 +285,7 @@ function expenseViz() {
     var yAxis = d3.axisLeft(yScale);
 
     yScale.domain(data.map(function(d) { return d.item; }));
+    svg.append('svg:title').text("Aufschlüsselung der Gesamtausgaben");
 
     var yAxis_g = svg.append("g")
         .attr("class", "y axis")
