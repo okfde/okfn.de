@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function (event) {
   developmentViz();
-  incomeTypesViz();
   incomesViz();
   expenseViz();
 });
@@ -94,14 +93,14 @@ function developmentViz() {
 }
 
 function incomesViz() {
-  //incomesHelper('div.einnahmen', '/okf/finanzierung/einnahmen.csv');
-  incomesHelper('div.income-donations', '/okf/finanzierung/einnahmen-spenden.csv');
-  incomesHelper('div.income-institutions', '/okf/finanzierung/einnahmen-institutionen.csv');
-  incomesHelper('div.income-companies', '/okf/finanzierung/einnahmen-unternehmen.csv');
-  incomesHelper('div.income-services', '/okf/finanzierung/einnahmen-dienstleistungen.csv');
+  incomesHelper('div.einnahmen-kategorien', '/okf/finanzierung/einnahmen-kategorien.csv', 24);
+  incomesHelper('div.income-donations', '/okf/finanzierung/einnahmen-spenden.csv', 15);
+  incomesHelper('div.income-institutions', '/okf/finanzierung/einnahmen-institutionen.csv', 15);
+  incomesHelper('div.income-companies', '/okf/finanzierung/einnahmen-unternehmen.csv', 15);
+  incomesHelper('div.income-services', '/okf/finanzierung/einnahmen-dienstleistungen.csv', 15);
 }
 
-function incomesHelper (containerSelector, dataPath) {
+function incomesHelper (containerSelector, dataPath, barHeight) {
   var margin = {top:50, right:20, bottom:50, left:20};
   var width = 650 - margin.left - margin.right;
   var height = 450 - margin.top - margin.bottom;
@@ -116,21 +115,19 @@ function incomesHelper (containerSelector, dataPath) {
       .attr("transform", "translate("+ margin.left +","+ margin.top +")");
 
   d3.csv(dataPath).then(function(data) {
-    var sumAmount = data.reduce(function (sum, d) {
-      return sum + parseInt(d.amount, 10);
-    }, 0);
+    var sumAmount = d3.max(data, function (d) { return d.total });
+    data = data.sort((a, b) => b.amount - a.amount);
     data = data.map(function (d) {
-      d.percentage = (d.amount / sumAmount * 100).toFixed(1);
+      d.percentage = (d.amount / sumAmount * 100).toFixed(2);
       return d;
     });
-    data = data.sort((a, b) => b.amount - a.amount);
     svg.append('svg:title').text("Aufschlüsselung der Einnahmen durch " + data[0].category);
-    //data = data.slice(0,9);
 
+    var maxPercentage = d3.max(data, function (d, i) { return d.percentage; });
     var xScale = d3.scaleLinear()
-        .domain([0, 65])
+        .domain([0, maxPercentage])
         .range([0, scaleWidth]);
-    var xAxis = d3.axisBottom(xScale).tickFormat(function (d) { return d + "%"});
+    var xAxis = d3.axisBottom(xScale).ticks(5).tickFormat(function (d) { return d + "%"});
     svg.append('g')
       .attr("class", "x axis")
       .attr("transform", "translate("+ magicSpacing +","+ height +")")
@@ -150,12 +147,11 @@ function incomesHelper (containerSelector, dataPath) {
         .attr('class', 'd3-tip n')
         .offset([-10, 0])
         .html(function(d) {
-          return "<span>" + d.amount + "€ von " + d.item + " ("+ d.percentage + "% aller " + d.category + ")</span>";
+          return "<span>" + d.amount + "€ von " + d.item + " ("+ d.percentage + "% der Gesamteinnahmen)</span>";
         });
 
     svg.call(tip);
 
-    var barHeight = 15;
     var countData = data.length;
     var barOffset = function () {
       if (countData < 10) {
@@ -181,75 +177,6 @@ function incomesHelper (containerSelector, dataPath) {
       })
       .attr('y', function(d, i) {
         return i * Math.floor(height/ countData) + barOffset;
-      })
-      .attr('fill', '#382eff')
-      .on('mouseover', tip.show)
-      .on('mouseout', tip.hide);
-  });
-}
-
-function incomeTypesViz() {
-  var margin = {top:20, right:10, bottom:50, left:20};
-  var width = 650 - margin.left - margin.right;
-  var height = 400 - margin.top - margin.bottom;
-  var magicSpacing = 230;
-  var scaleWidth = width - magicSpacing;
-
-  var svg = d3.select('div.einnahmen-kategorien').append('svg')
-      .attr("width", '100%')
-      .attr("height", '100%')
-      .attr('viewBox','0 0 '+ (width + margin.left + margin.right) +' '+ (height + margin.top + margin.bottom))
-      .attr('preserveAspectRatio','xMinYMin')
-      .attr("transform", "translate("+ margin.left +","+ margin.top +")");
-
-  var xScale = d3.scaleLinear()
-      .domain([0, 100])
-      .range([0, scaleWidth]);
-  var xAxis = d3.axisBottom(xScale).tickFormat(function (d) { return d + "%"});
-  svg.append('g')
-    .attr("class", "x axis")
-    .attr("transform", "translate("+ magicSpacing +","+ height +")")
-    .call(xAxis);
-
-  d3.csv("/okf/finanzierung/einnahmen-kategorien.csv").then(function(data) {
-    var yScale = d3.scaleBand().rangeRound([0, height]);
-    var yAxis = d3.axisLeft(yScale);
-    yScale.domain(data.map(function(d) { return d.category; }));
-
-    svg.append('svg:title').text("Aufschlüsselung der Gesamteinnahmen nach Kategorie");
-
-    var yAxis_g = svg.append("g")
-        .attr("class", "y axis")
-        .attr("transform", "translate(" + magicSpacing +",0)")
-        .call(yAxis)
-        .selectAll("text");
-
-    var tip = d3.tip()
-        .attr('class', 'd3-tip n')
-        .offset([-10, 0])
-        .html(function(d) {
-          return "<span>" + d.amount + "€ durch " + d.category + " (" + d.percentage + "% der Gesamteinnahmen)</span>";
-        });
-
-    svg.call(tip);
-
-    var barHeight = height / data.length / 2;
-    svg.selectAll('rect.bar')
-      .data(data)
-      .enter()
-      .append('rect')
-      .attr('class', 'one-bar')
-      .attr('width', function (d, i) {
-        return xScale(d.percentage);
-      })
-      .attr('height', function (d, i) {
-        return barHeight;
-      })
-      .attr('x', function(d,i){
-        return magicSpacing;
-      })
-      .attr('y', function(d, i) {
-        return (i * (height/ data.length) + (barHeight / 2));
       })
       .attr('fill', '#382eff')
       .on('mouseover', tip.show)

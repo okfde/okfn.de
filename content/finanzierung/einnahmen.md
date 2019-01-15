@@ -3,20 +3,17 @@ title: Einnahmen 2017
 weight: 2
 ---
 
-<div class="einnahmen-kategorien d3chart"></div>
 
 Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Hand. Diese beziehen wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten. Einzelspenden entsprechen ca. 20% unserer Einnahmen. Akteure der Privatwirtschaft stellen aktuell 7% unserer Gelder bereit. Wir sind bestrebt, eine heterogene Förderung mit geringem Privatwirtschaftlichen Anteil beizubehalten, um die Unabhängigkeit unserer Arbeit zu gewährleisten.
 
-#### Einnahmen im Überblick
-
-<!--<div class="einnahmen d3chart"></div>-->
-
 <div id="js-incomes-nav" class="tabnav mt-s">
+    <a href="#incomes">Übersicht</a> |
     <a href="#income-donations">Spenden</a>
     <a href="#income-institutions">Öffentliche Geldgeber</a>
     <a href="#income-companies"> Unternehmen</a>
     <a href="#income-services">Eigenerwirtschaftete Gelder</a>
 </div>
+<div class="js-incomes" id="incomes"><div class="einnahmen-kategorien d3chart"></div></div>
 <div class="js-incomes" id="income-donations"><div class="income-donations d3chart"></div></div>
 <div class="js-incomes" id="income-institutions"><div class="income-institutions d3chart"></div></div>
 <div class="js-incomes" id="income-companies"><div class="income-companies d3chart"></div></div>
