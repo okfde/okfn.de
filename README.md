@@ -25,23 +25,7 @@ Dann auf `localhost:1313`  die Seite anschauen.
 Ein Push zu GitHub genügt um den Buildprozess anzustoßen.
 Im Normalfall musst du dich um nichts kümmern und deine Änderungen sind in ein paar Augenblicken online.
 
-Falls das nicht passiert, hier ein Paar Infos zum Buildprozess und wo du mit der Fahlersuche anfangen kannst.
-
-Im Prozess verläuft in mehreren Stufen:
-1. der Push wird von GitHub registriert und stößt einen Build bei [Travis CI](https://travis-ci.com/okfde/okfde-reloaded) an
-  - hier wird die Seite mit Hugo gebaut
-  - zwei Nodescripte erstellen die Suchindexe (als .json) für die seitenweite und die Blogsuche
-  - (wegen dieser Scripte brauchen wir Travis, Hookay kann das nicht alleine)
-2. ist ein Travis-Build auf dem Master branch erfolgreich, pusht Travis die gebaute Seite zurück zu GitHub, aber auf den [Release branch](https://github.com/okfde/okfde-reloaded/tree/release)
-  - dieser Badge zeigt den Status des letzten Builds an [![Build Status](https://travis-ci.com/okfde/okfde-reloaded.svg?branch=master)](https://travis-ci.com/okfde/okfde-reloaded)
-  - ist der Badge rot ist schon was beim bauen der Seite schief gelaufen. Vermutlich was mit Hugo in den Templates, hier musst du debuggen!
-3. hat Travis auf den Release branch gepusht, sendet GitHub einen Webhook an [Hookay](https://lab.okfn.de/build-status/)
-  - Hookay klont den Release branch auf unseren Server und kopiert ihn an die richtige Stelle
-    - es kann sein, dass die Webhook-payload von GitHub sehr groß ist und Hookay dann einen Fehler wwirft. Das kannst du [hier](https://github.com/okfde/okfde-reloaded/settings/hooks/) (sofern du die Rechte hast) nachsehen.
-    - Ist beim letzten senden eines Webhooks was schief gelaufen (Fehler 413) dann kannst du über Hookay die Seite manuell neu bauen. Die gebaute Seite liegt ja schon bei GitHub und muss nur kopiert werden.
-
-Wenn alles geklappt hat, sind dein Änderungen jetzt online!
-
+Falls das nicht passiert, findest du unten unter 'Anderes' und 'Buildprozess' mehr Infos.
 
 ---
 
@@ -118,7 +102,14 @@ Dabei hat jedes Projekt zwei Dateien, eine deutsch- (`.md`) und eine englischspr
 Lege in `content/projekte` zwei Dateien an: `einproject.md` und `deinproject.en.md`.
 In `archetypes/project.md` findet du die Beispiel mit Felder, die ein Projekt haben kann.
 
+Hier kurz Erklärungen zu den einzelnen Feldern:
 
+- `title` ist der Name des Projektes
+- `subtitle` is die Tagline
+- `kategorien` is nur für die deutschsprachige Seite wichtig und kann auf der englischen gelöscht werden. Es soll eine Liste mit ein oder mehreren Kategorien sein, nach denen auf der Projektseite gefiltert werden kann
+- `categories` ist nur für die englischsprachige Seite wichtig und kann auf der deutschen gelöscht werden. Es soll eine Liste mit ein oder mehreren KAtegorien sein, nach denen auf der englischen Projektseite gefiltert werden kann.
+- `tile` bestimmt wie das Projekt auf der Projektübersichtsseite dargestellt wird. `Single` beschreibt eine kleine Fläche, `double` die doppelt so große. Soll ein Projekt nur unter "Weitere Projekte" gelistet werden, dann kannst du dieses Feld löschen
+- `website` die url zur Website des Projektes
 
 
 ### Jobs
@@ -157,4 +148,20 @@ Package.json dient damit eher als informative Liste, was so benutzt wird.
 
 ### Suche und Suchindexe
 
-### Build process
+### Buildprozess
+
+
+Der Buildprozess verläuft in mehreren Stufen:
+1. der Push wird von GitHub registriert und stößt einen Build bei [Travis CI](https://travis-ci.com/okfde/okfde-reloaded) an
+  - hier wird die Seite mit Hugo gebaut
+  - zwei Nodescripte erstellen die Suchindexe (als .json) für die seitenweite und die Blogsuche
+  - (wegen dieser Scripte brauchen wir Travis, Hookay kann das nicht alleine)
+2. ist ein Travis-Build auf dem Master branch erfolgreich, pusht Travis die gebaute Seite zurück zu GitHub, aber auf den [Release branch](https://github.com/okfde/okfde-reloaded/tree/release)
+  - dieser Badge zeigt den Status des letzten Builds an [![Build Status](https://travis-ci.com/okfde/okfde-reloaded.svg?branch=master)](https://travis-ci.com/okfde/okfde-reloaded)
+  - ist der Badge rot ist schon was beim bauen der Seite schief gelaufen. Vermutlich was mit Hugo in den Templates, hier musst du debuggen!
+3. hat Travis auf den Release branch gepusht, sendet GitHub einen Webhook an [Hookay](https://lab.okfn.de/build-status/)
+  - Hookay klont den Release branch auf unseren Server und kopiert ihn an die richtige Stelle
+    - es kann sein, dass die Webhook-payload von GitHub sehr groß ist und Hookay dann einen Fehler wwirft. Das kannst du [hier](https://github.com/okfde/okfde-reloaded/settings/hooks/) (sofern du die Rechte hast) nachsehen.
+    - Ist beim letzten senden eines Webhooks was schief gelaufen (Fehler 413) dann kannst du über Hookay die Seite manuell neu bauen. Die gebaute Seite liegt ja schon bei GitHub und muss nur kopiert werden.
+
+Wenn alles geklappt hat, sind dein Änderungen jetzt online!
