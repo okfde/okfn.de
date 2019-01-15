@@ -9,19 +9,18 @@ Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Han
 
 #### Einnahmen im Überblick
 
-<div class="einnahmen d3chart"></div>
+<!--<div class="einnahmen d3chart"></div>-->
 
-
-<div id="js-incomes-nav" class="">
+<div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#income-donations">Spenden</a>
-    <a href="#income-institutions">Förderungen</a>
-    <a href="#income-companies">Sponsorings</a>
-    <a href="#income-services">Dienstleistungen</a>
+    <a href="#income-institutions">Öffentliche Geldgeber</a>
+    <a href="#income-companies"> Unternehmen</a>
+    <a href="#income-services">Eigenerwirtschaftete Gelder</a>
 </div>
-<div class="js-incomes" id="income-donations"><div class="income-donations"></div>A</div>
-<div class="js-incomes" id="income-institutions"><div class="income-institutions"></div>B</div>
-<div class="js-incomes" id="income-companies"><div class="income-companies"></div>C</div>
-<div class="js-incomes" id="income-services"><div class="income-services"></div>D</div>
+<div class="js-incomes" id="income-donations"><div class="income-donations d3chart"></div></div>
+<div class="js-incomes" id="income-institutions"><div class="income-institutions d3chart"></div></div>
+<div class="js-incomes" id="income-companies"><div class="income-companies d3chart"></div></div>
+<div class="js-incomes" id="income-services"><div class="income-services d3chart"></div></div>
 
 
 #### Durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit  beruhende Projekte

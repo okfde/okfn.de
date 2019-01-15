@@ -54,7 +54,7 @@ function developmentViz() {
         .attr('class', 'd3-tip n')
         .offset([-10, 0])
         .html(function(d) {
-          return "<span>" + d.turnover + " Euro " + d.year +"</span>";
+          return "<span>" + d.turnover + "€ " + d.year +"</span>";
         });
 
     svg.call(tip);
@@ -92,20 +92,28 @@ function developmentViz() {
 }
 
 function incomesViz() {
-  var margin = {top:50, right:10, bottom:50, left:20};
+  //incomesHelper('div.einnahmen', '/okf/finanzierung/einnahmen.csv');
+  incomesHelper('div.income-donations', '/okf/finanzierung/einnahmen-spenden.csv');
+  incomesHelper('div.income-institutions', '/okf/finanzierung/einnahmen-institutionen.csv');
+  incomesHelper('div.income-companies', '/okf/finanzierung/einnahmen-unternehmen.csv');
+  incomesHelper('div.income-services', '/okf/finanzierung/einnahmen-dienstleistungen.csv');
+}
+
+function incomesHelper (containerSelector, dataPath) {
+  var margin = {top:50, right:20, bottom:50, left:20};
   var width = 650 - margin.left - margin.right;
-  var height = 390 - margin.top - margin.bottom;
+  var height = 450 - margin.top - margin.bottom;
   var magicSpacing = 210;
   var scaleWidth = width - magicSpacing;
 
-  var svg = d3.select('div.einnahmen').append('svg')
+  var svg = d3.select(containerSelector).append('svg')
       .attr("width", '100%')
       .attr("height", '100%')
       .attr('viewBox','0 0 '+ (width + margin.left + margin.right) +' '+ (height + margin.top + margin.bottom))
       .attr('preserveAspectRatio','xMinYMin')
       .attr("transform", "translate("+ margin.left +","+ margin.top +")");
 
-  d3.csv("/okf/finanzierung/einnahmen.csv").then(function(data) {
+  d3.csv(dataPath).then(function(data) {
     var sumAmount = data.reduce(function (sum, d) {
       return sum + parseInt(d.amount, 10);
     }, 0);
@@ -114,10 +122,10 @@ function incomesViz() {
       return d;
     });
     data = data.sort((a, b) => b.amount - a.amount);
-    data = data.slice(0,9);
+    //data = data.slice(0,9);
 
     var xScale = d3.scaleLinear()
-        .domain([0, 50])
+        .domain([0, 65])
         .range([0, scaleWidth]);
     var xAxis = d3.axisBottom(xScale).tickFormat(function (d) { return d + "%"});
     svg.append('g')
@@ -139,12 +147,21 @@ function incomesViz() {
         .attr('class', 'd3-tip n')
         .offset([-10, 0])
         .html(function(d) {
-          return "<span>" + d.amount + " Euro ("+ d.percentage + "%) von " + d.item + " (" + d.category + ")</span>";
+          return "<span>" + d.amount + "€ von " + d.item + " ("+ d.percentage + "% aller " + d.category + ")</span>";
         });
 
     svg.call(tip);
 
     var barHeight = 15;
+    var countData = data.length;
+    var barOffset = function () {
+      if (countData < 10) {
+        return barHeight;
+      } else {
+        return barHeight / 2;
+      }
+    }();
+
     svg.selectAll('rect.bar')
       .data(data)
       .enter()
@@ -160,15 +177,13 @@ function incomesViz() {
         return magicSpacing;
       })
       .attr('y', function(d, i) {
-        return (i * (barHeight * 2.13) + (10));
+        return i * Math.floor(height/ countData) + barOffset;
       })
       .attr('fill', '#382eff')
       .on('mouseover', tip.show)
       .on('mouseout', tip.hide);
   });
 }
-
-
 
 function incomeTypesViz() {
   var margin = {top:20, right:10, bottom:50, left:20};
@@ -208,7 +223,7 @@ function incomeTypesViz() {
         .attr('class', 'd3-tip n')
         .offset([-10, 0])
         .html(function(d) {
-          return "<span>" + d.amount + " Euro durch " + d.category + " (" + d.percentage + "%)</span>";
+          return "<span>" + d.amount + "€ durch " + d.category + " (" + d.percentage + "% der Gesamteinnahmen)</span>";
         });
 
     svg.call(tip);
