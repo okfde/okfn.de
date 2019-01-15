@@ -26,7 +26,7 @@
 
     {{ $lang := .Lang }}
     {{ range sort (where $.Site.Data.team ".board" 1) "name" }}
-    <section class="row align-items-center l__topics__section mt-d mb-l">
+    <section class="row align-items-top l__topics__section mt-d mb-l">
       <div class="col col-12 col-md-6">
         <h2 class="h3">{{.name}}</h2>
 
