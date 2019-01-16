@@ -17,6 +17,6 @@ contact:
   twitter: ODincubator
 
 ---
-Der Open Data Incubator Europe unterstützte Start-Ups mit bis zu 100.000 Euro, deren Geschäftsmodelle  auf der Verwendung  Offener Daten basieren. Insgesamt standen 5,5 Millionen Euro in acht Calls zur Förderung des Open Data Ecosystems in Europa zur Verfügung. ODINE hat damit die nächste Generation von digitalen Unternehmen unterstützt und die Entwicklung ihrer Produkte beschleunigt. Wir setzten uns  für die besten europäischen digitalen Talente ein. 
+Der Open Data Incubator for Europe (ODINE) ist ein 6-monatiger Inkubator für offene Datenunternehmer in ganz Europa. Das Programm wird mit einem Zuschuss von 7,8 Mio. € aus dem EU-Horizont 2020-Programm finanziert und wird von den sieben unten aufgeführten Partnern durchgeführt.
 
-Es wurden 57 Firmen, davon 10 aus Deutschland, gefördert. Insgesamt bedeutete dies mehr als eine Millionen Euro für das deutsche Open Data Ökosystem.
+ODINE hat es sich zum Ziel gesetzt, die nächste Generation von digitalen Unternehmen zu fördern und sie dabei zu unterstützen, die Entwicklung ihrer Produkte zu beschleunigen. Wir setzen uns bereits für die besten europäischen digitalen Talente ein und freuen uns auf weitere herausragende Unternehmen, die wir gründen werden.

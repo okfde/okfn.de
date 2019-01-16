@@ -35,3 +35,4 @@ According to Article 5 of the Grundgesetz, every person has the right to obtain 
 The aim was to give citizens access to public data upon request - regardless of whether they were directly affected by this data. This includes contracts, notes, written correspondence, video and audio recordings as well as expert opinions. Because knowledge is power.
 
 For the first time, we have compared freedom of information and transparency laws at federal and state level.
+

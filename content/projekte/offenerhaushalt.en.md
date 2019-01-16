@@ -30,7 +30,7 @@ more_text: |-
     Further information can be found on the <a href="https://offenerhaushalt.de">website</a> of Offener Haushalt.
 
 ---
-The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, the format is not prescribed, which means that booklets with more than 1000 pages are printed and acidified in the town hall or placed as PDF files on the websites. As a result, an essential aspect of political work remains closed to many.
+The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, the format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites. As a result, an essential aspect of political work remains closed off to many.
 
 This is where our OffenerHaushalt.de project comes in: we want to answer the question of how much money the state spends on what in detail. By our representations the complex data of different households on federal, national and local level are graphically opened up and made accessible in open file formats. In this way, the information can be evaluated, visualised and compared with other data.
 
