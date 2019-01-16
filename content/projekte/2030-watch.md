@@ -9,24 +9,13 @@ title: 2030watch
 background: backgrounds/jugendhackt.jpg
 website: https://2030-watch.de
 img: projects/2030_Projektuebersicht_smallTile.png
-people:
-  - name: Rebecca Varghese Buchholz
-    role: Projektleitung
-  - name: Saadya Windauer
-    role: Projektmanagerin
-contact_person: Rebecca Varghese Buchholz
-years: XXXX-XXXX
+contact_person: saadyawindauer
 partners:
-  - ...
 financing:
-  - ...
 contact:
   github: https://github.com/okfde/2030-watch.de
 
 subtitle: Wie nachhaltig wird Deutschland?
-cta: Mitmachen
-cta_text: |-
-    Something something
 more_text: |-
     Weitere Infos gibt es auf <a href="https://2030-watch.de">der Website</a> von 2030watch.
 ---

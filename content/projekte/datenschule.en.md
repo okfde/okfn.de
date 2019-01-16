@@ -7,9 +7,8 @@ kategorien:
 categories:
   - education
 layout: project
-img: projects/codefor_Projektuebersicht_smallTile.png
-img_square: projects/codeforde_square.jpg
-img_header: projects/codefor_Header.png
+img: 
+img_header: 
 people:
   - name: Anna Alberts
     role: Projektleitung
@@ -17,8 +16,8 @@ people:
     role: Kommunikation
   - name: Lisa Passing
     role: Entwicklerin
-contact_person: annaalberts
-years: xxxx - xxxx
+contact_person: jasminhelm
+years: 2015-2017
 website: https://datenschule.de
 contact:
   twitter: datenschule

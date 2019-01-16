@@ -5,8 +5,8 @@ categories:
   - community
 tile: double
 title: FragDenStaat
+subtitle: The Freedom of Information Platform
 weight: 4
-subtitle: 
 layout: project
 img: projects/FragDenStaat_Projektuebersicht_bigTile.png
 img_square: projects/fragdenstaat_square.jpg

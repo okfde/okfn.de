@@ -32,12 +32,14 @@
   translation: "Finished projects"
 - id: project_year
   translation: "Years"
+- id: project_more
+  translation: "Want to know more?"
 - id: project_person
   translation: "people"
 - id: project_financing
   translation: "Financing"
 - id: topics_more
-  translation: "Read more about"
+  translation: "Learn more about"
 - id: blog_search
   translation: "Search blog"
 - id: job_current
@@ -47,7 +49,7 @@
 - id: topics_ptojects
   translation: "Related projects"
 - id: itz_text
-  translation: "Text about our hopes and dreams"
+  translation: "In order to meet our own transparency requirements, we are signatories to the Transparent Civil Society Initiative."
 - id: itz_link
   translation: "All info"
 - id: itz_alt

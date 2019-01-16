@@ -1,6 +1,6 @@
 ---
 type: politics
-subtitle: Transparenz für EU Agrarsubventionen
+subtitle: Transparency for EU agricultural subsidies
 tile: single
 title: "FarmSubsidy"
 layout: project
