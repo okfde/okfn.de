@@ -2,9 +2,21 @@
 .l__topcis
   max-width: $max-width
 
+.l__topics
+  a
+    text-decoration: none
+    color: $black
+  a:nth-of-type(2n + 1)
+    .l__topics__section
+      flex-direction: row-reverse
+  a:hover,
+  a:active
+    .linked
+      text-decoration: underline
+  .linked
+    color: $anchor
+
 .l__topics__section
-  &:nth-of-type(2n + 1)
-    flex-direction: row-reverse
   img
     width: 100%
     height: auto
