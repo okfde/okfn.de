@@ -15,7 +15,7 @@ contact:
 
 subtitle: Germany becomes sustainable
 more_text: |-
-    Weitere Infos gibt es auf <a href="https://2030-watch.de">der Website</a> von 2030watch.
+    Further information can be found on the <a href="https://2030-watch.de">website</a> of 2030-Watch.
 ---
 
 2030Watch monitors the implementation of the Sustainable Development Goals (SDGs) in Germany.

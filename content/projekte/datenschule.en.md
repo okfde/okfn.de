@@ -23,7 +23,7 @@ contact:
   twitter: datenschule
   mail: info@datenschule.de
 more_text: |-
-    More information on datenmachenschule is available at <a href="https://datenschule.de">the Website</a> of Datenschule.
+    More information on datenmachenschule is available at the <a href="https://datenschule.de">website</a> of Datenschule.
 ---
 
 The Data School is a nationwide educational program on the subject of data and technologies. We are aimed at non-profit organizations that work with data or want to deepen their existing knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.

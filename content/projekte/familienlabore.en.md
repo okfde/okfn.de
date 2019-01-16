@@ -20,11 +20,11 @@ contact:
   website: https://familienlabore.de
   
 ---
-The shaping of family life in Germany has changed enormously in recent decades. Patchwork families, multi-generation houses and households of single parents bring completely different requirements with them. One of the biggest challenges is and remains the compatibility of family and career. Or to put it another way: Is it really necessary to have to sit in a doctor's waiting room for three hours each time? We think: this works better.
+The shaping of family life in Germany has changed enormously in recent decades. Patchwork families, multi-generation houses and households of single parents bring completely different requirements with them. One of the biggest challenges is the compatibility of family and career. Or to put it another way: Is it really necessary to have to sit in a doctor's waiting room for three hours each time? We think: this works better.
 
 <div class="two-img">
-  <img alt="Bild vom Event" src="/files/projects/familienlabore_img_1.jpg">
-  <img alt="Bild vom Event" src="/files/projects/familienlabore_img_2.jpg">
+  <img alt="Picture of event" src="/files/projects/familienlabore_img_1.jpg">
+  <img alt="Picture of event" src="/files/projects/familienlabore_img_2.jpg">
 </div>
 
 

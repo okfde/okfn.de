@@ -20,7 +20,7 @@ video: "https://www.youtube.com/embed/AWa661KfQG0Y"
 contact_person: markusneuschaefer
 
 more_text: |-
-  More information on Dariah is available at https://de.dariah.eu
+  Further information can be found on the <a href="https://de.dariah.eu">website</a> of Dariah. 
 ---
 DARIAH-DE supports digitally-enabled research and teaching in the arts and humanities.
 For this purpose, the project is developing a research infrastructure in support of service and research data as well as materials for research and teaching in the Digital Humanities.

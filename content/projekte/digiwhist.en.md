@@ -22,11 +22,9 @@ financing:
 website: https://digiwhist.eu
 contact:
   twitter: digiwhist
-cta: Mitmachen
-cta_text: |-
-  Die Möglichkeiten zum Mitmachen sind vielseitig.Alle Imfos gibt es auf 
+
 more_text: |-
-    Weitere Infos gibt es auf der <a href="https://digiwhist.eu/">Website</a> von Digiwhist.
+    Further information can be found on the <a href="https://digiwhist.eu/">website</a> of Digiwhist.
 
 ---
 Fiscal Transparency, Risk Assessment and Impact of Good Governance Policies Assessed.

@@ -46,8 +46,8 @@ In order to answer these and other questions, we have developed various workshop
 
 
 <div class="two-img">
-<img alt="Bild vom Event" src="/files/projects/demokratielabore_img_1.jpg">
-<img alt="Bild vom Event" src="/files/projects/demokratielabore_img_2.jpg">
+<img alt="Image of Event" src="/files/projects/demokratielabore_img_1.jpg">
+<img alt="Image of Event" src="/files/projects/demokratielabore_img_2.jpg">
 </div>
 
 **Background** <br>

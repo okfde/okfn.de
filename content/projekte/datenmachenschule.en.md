@@ -22,7 +22,8 @@ website: https://datenmachenschule.de
 contact:
   twitter: bela_data
   mail: bela.seeger@okfn.de
-
+more_text: |-
+  Further information can be found on the <a href="https://datenmachenschule.de">website</a> of DatenmachenSchule.
 
 ---
 DatenmachenSchule shows the potential of using open data in the classroom. 
