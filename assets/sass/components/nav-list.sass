@@ -1,14 +1,8 @@
-.c__nav-list
-  display: flex
-  flex-direction: column
+.c__nav-list,
+.c__nav-list--social
   line-height: 2
   font-weight: 500
   list-style: none
-  display: inline
-  @include media-breakpoint-up(md)
-    display: flex
-    flex-direction: row
-    justify-content: space-between
   a
     padding: .2em 0
     color: $black
@@ -17,10 +11,24 @@
     &:active
       svg
         fill: $anchor
-
   svg
     width: 1.3rem
     height: 1.3rem
+
+.c__nav-list
+  display: flex
+  flex-direction: column
+  display: inline
+  @include media-breakpoint-up(md)
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+
+.c__nav-list--social
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+
 
 .c__nav-list--top
   align-items: end
@@ -45,7 +53,6 @@
     margin: 3em 0
     a
       margin: 0 0.4em
-
 
 .c__nav-list--report
   a
