@@ -28,7 +28,7 @@ cta: Mitmachen
 cta_text: |-
     Something something
 more_text: |-
-    Weitere Infos gibt es auf <a href="https://2030-watch.de">der Website</a> von 2030watch.
+    More information on Dariah is available at <a href="https://2030-watch.de">the Website</a> of 2030watch.
 ---
 
 2030Watch überwacht und visualisiert die Umsetzung der nachhaltigen Entwicklungsziele in Deutschland. 

@@ -40,10 +40,10 @@ cta: Mitmachen
 cta_text: |-
 
 more_text: |-
-    Weitere Infos gibt es auf der <a href="https://demokratielabore.de">Website</a> der Demokratielabore.
+    More information on Demokratielabore is available at https://demokratielabore.de.
 
 ---
-The "Demokratielabore" or Democracy Labs is a pilot project for adolescents between the age of 12 and 21. We aim to foster self-efficacy and empower young people by using technology for democracy.
+The "Demokratielabore" (or: Democracy Labs) is a pilot project for adolescents between the age of 12 and 21. We aim to foster self-efficacy and empower young people by using technology for democracy.
 We strive to let children and young adults experience their own digital skills as a powerful tool to get involed in a democratic society as active and self-determined members. To reach that goal we organize workshops, establish working groups and run an online tv channel. The internet shall be reclaimed by the youth as a room for positive creativity!
 
 ![Bild vom Event](/files/projects/demokratielabore_img_1.jpg)

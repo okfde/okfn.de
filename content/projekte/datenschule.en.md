@@ -24,16 +24,23 @@ contact:
   twitter: datenschule
   mail: info@datenschule.de
 more_text: |-
-    Weitere Infos gibt es auf der <a href="https://datenschule.de">Website</a> der Datenschule.
+    More information on datenmachenschule is available at <a href="https://datenschule.de">the Website</a> of Datenschule.
 ---
 
-Energy data, environmental data, traffic data. More and more data is available to us today. We believe that the goal-oriented usage of relevant datasets could help nonprofit organizations to more effectively achieve their social objectives. However, only a few organizations have the required skills to work with data.
+The Data School is a nationwide educational program on the subject of data and technologies. We are aimed at non-profit organizations that work with data or want to deepen their existing knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.
+We want non-profit organizations:
 
-The Open Knowledge Foundation Germany has developed a data training program, covering everything from the finding, analyzing and visualizing of data to the design of data-driven campaigns. The program is a combination of workshops, strategy consulting, and technology training.
++ to encourage targeted use of data and technology in their work.
+
++ to enable digital tools and data as an additional source of information for research, project and organizational development.
+
++ to enable people to participate in evidence-based public debates with data-supported projects.
 
 
 <div class="two-img">
-  <img alt="Bild vom Event" src="/files/projects/datenschule_img_1.jpg">
-  <img alt="Bild vom Event" src="/files/projects/datenschule_img_2.jpg">
+  <img alt="Picture of the event" src="/files/projects/datenschule_img_1.jpg">
+  <img alt="Picture of the event" src="/files/projects/datenschule_img_2.jpg">
 </div>
 
+
+The use of digital technologies in the pursuit of innovative and modern non-profit, social or political work is the focus of this project. Instead of creating new tools or web portals, we want to improve the access of existing groups to these technologies. To enforce the use of data-driven tools in particular, it is not enough to provide a download or a website. Instead, institutional users also need the technical and strategic competence to select and use the right analysis methods, visualisation and communication forms for their own work and to integrate them into their organisation in the long term.

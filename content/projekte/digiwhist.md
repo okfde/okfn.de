@@ -22,8 +22,7 @@ financing:
 website: https://digiwhist.eu
 contact:
   twitter: digiwhist
-cta: Mitmachen
-cta_text: |-
+
 
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://digiwhist.eu/">Website</a> von Digiwhist.

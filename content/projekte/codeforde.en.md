@@ -38,6 +38,6 @@ Code For Germany is a network of groups of volunteer volunteers (Labs) who use t
   <img alt="Bild vom Event" src="/files/projects/codefor_img_2.jpg">
 </div>
 
-Some cities already have Open Data programs and make data sets available openly, but in many places there is still a lack of applications and examples that demonstrate the practical use of open data - this is exactly where Code for Germany comes in. In addition to software projects, "Do it yourself" hardware projects such as the network of fine dust sensors or the Long Range Wide Area Network (LoRaWan) are also being worked on.
+Some cities already have Open Data programs and make data sets available openly, but in many cases there is still a lack of applications and examples that demonstrate the practical use of open data - this is exactly where Code for Germany comes into play. In addition to software projects, "Do it yourself" hardware projects such as the network of fine dust sensors or the Long Range Wide Area Network (LoRaWan) are also being worked on.
 
 The program started in February 2014 with the foundation of Open Knowledge Labs in 8 cities. In the meantime, the network has grown to 26 labs and comprises a community of over 500 volunteers.

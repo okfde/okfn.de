@@ -30,7 +30,7 @@ more_text: |-
 ---
 
 2030Watch monitors the implementation of the Sustainable Development Goals (SDGs) in Germany.
-The SDGs were set by the United Nations in September 2015 to be implemented by 2030.
+The SDGs were set by the United Nations in September 2015 and will be implemented by 2030.
 All members of the United Nations have committed to realizing these 17 goals and 169 targets.
 The goals include the eradication of poverty and inequality between and within countries as well as action against climate change.
 2030Watch primarily uses data from the OECD, the World Bank and other international organizations.
