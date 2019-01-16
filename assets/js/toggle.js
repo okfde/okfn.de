@@ -15,8 +15,43 @@ document.addEventListener('DOMContentLoaded', function (event) {
   tabnav('.js-report', '#js-report-nav a');
   // Finanzierung einnahmen
   tabnav('.js-incomes', '#js-incomes-nav a');
+
+  topnav();
 });
 
+function topnav () {
+  var didScroll;
+  var lastScrollTop = 0;
+  var delta = 8;
+  var navbarHeight = 85; // see css
+
+  window.addEventListener('scroll', function (ev) {
+    didScroll = true;
+  });
+
+  setInterval(function() {
+    if (didScroll) {
+      hasScrolled();
+      didScroll = false;
+    }
+  }, 300);
+
+  function hasScrolled() {
+    var st = window.scrollY;
+
+    if (Math.abs(lastScrollTop  -  st) <= delta)
+      return;
+
+    if (st > lastScrollTop && st > navbarHeight) {
+      document.querySelector('.l__topbar').classList.add('is-up');
+    } else {
+      if(st - window.innerHeight < window.outerHeight) {
+        document.querySelector('.l__topbar').classList.remove('is-up');
+      }
+    }
+    lastScrollTop = st;
+  }
+}
 
 function tabnav (bodyIdent, navIdent) {
   var bodyItemList = document.querySelectorAll(bodyIdent);
