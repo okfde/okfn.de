@@ -20,7 +20,7 @@ more_text: |-
     Further information can be found on the <a href="https://politik-bei-uns.de/">website</a> of Politik bei uns.
 ---
 
-The open Council information system "Politik Bei Uns" presents information and processes from Council and administration in a user-friendly way, so that citizens can understand political decisions and have a say in them at an early stage. As a kind of data market place, our project makes council and administrative data available to third party developers so that they can build further applications without great effort. In addition to politics, civil society and journalists, science also benefits from structured and thus analysable data.
+The open Council information system "Politik Bei Uns" presents information and processes from Council and administration in a user-friendly way, so that citizens can understand political decisions and can have a say in them at an early stage. As a kind of data market place, our project makes council and administrative data available to third party developers so that they can build further applications without great effort. In addition to politics, civil society and journalists, science also benefits from structured and thus analysable data.
  
 If you want to help shape politics, you need to be well informed. All the information about political decisions in a municipality is stored in so-called council information systems (or RIS for short) and a large part of this data has always been public.
 The only problem is that the Council information systems are working tools for Council members and the administration. The public part for citizens is therefore not the focus. That is exactly what we want to change.

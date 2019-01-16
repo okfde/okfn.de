@@ -20,6 +20,6 @@ video: "https://player.vimeo.com/video/50284383"
 With the project 'Stadt Land Code' we wanted to encourage developers to create useful digital applications for the public space.
 These applications were meant to serve as the foundation for participatory mechanisms and increased transparency in public administration.
 
-Examples include [www.fixmystreet.com](https://fixmystreet.com) and [www.everyblock.com](https://everyblock.com).
+Examples for such applications include [www.fixmystreet.com](https://fixmystreet.com) and [www.everyblock.com](https://everyblock.com).
 We supported developer teams with financial support in the form of stipends and invited them to a camp with workshops in Berlin.
 

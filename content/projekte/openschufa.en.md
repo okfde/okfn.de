@@ -24,7 +24,7 @@ contact-person: arnesemsrott
 img_header: projects/openSchufa_Header.jpg
 
 ---
-You get no credit, no mobile phone contract, and even with the application for the beautiful apartment you constantly lose out. Why is that? The SCHUFA, of course! Really? Does SCHUFA disadvantage one group of people compared to another? Does it reinforce injustices? This is what we want to find out with OpenSCHUFA.
+Your application for credit is declined, you do not get a mobile phone contract, and even with your applications for apartments you constantly lose out. Why is that? The SCHUFA, of course! Really? Does SCHUFA disadvantage one group of people compared to another? Does it reinforce injustices? This is what we want to find out with OpenSCHUFA.
 
 The SCHUFA score tries to summarize the financial trustworthiness of a person in a few numbers - the scores. These are automatically determined and form the basis for far-reaching decisions. We need to understand this process better.
 
