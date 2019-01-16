@@ -84,7 +84,6 @@
         <section class="col col-12 col-md-6">
           {{ with .Params.cta}}<h2 class="h3">{{ . }}</h2>{{ end }}
           {{ with .Params.cta_text}}<p>{{ . | markdownify }}</p>{{ end }}
-          <p><a href='{{ .Site.GetPage "/spenden"}}'>{{ i18n "project_donate" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a></p>
         </section>
         {{ end }}
 

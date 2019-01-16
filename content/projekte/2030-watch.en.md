@@ -10,21 +10,10 @@ background: backgrounds/jugendhackt.jpg
 website: https://2030-watch.de
 img: projects/2030_Projektuebersicht_smallTile.png
 people:
-  - name: Saadya Windauer
-    role: Projektmanagerin
-contact_person: saadyawindauer
-years: 
-partners:
-  - ...
-financing:
-  - ...
 contact:
   github: https://github.com/okfde/2030-watch.de
 
 subtitle: Germany becomes sustainable
-cta: Participate
-cta_text: |-
-    Something something
 more_text: |-
     Weitere Infos gibt es auf <a href="https://2030-watch.de">der Website</a> von 2030watch.
 ---

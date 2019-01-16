@@ -44,6 +44,5 @@ edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didakt
 <img alt="Bild vom Event" src="/files/projects/edulabs_img_2.jpg">
 </div>
 
-###Ganz ausgezeichnet
-
+**Ganz ausgezeichnet** <br>
 OER-Award

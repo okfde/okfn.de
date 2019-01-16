@@ -36,9 +36,11 @@ more_text: |-
 ---
 edulabs sees itself as a supra-regional incubator in which people use their didactic, technical and creative skills to develop innovative and re-usable educational materials. The project works on three levels: Concept development, provision and advertising of free educational materials as well as community building and support. Throughout Germany edulabs organizes meetings of interdisciplinary teams where free educational materials (OER) and digitally supported methods are evaluated, created, documented and improved. The lab community is supported editorially, didactically, technically, as well as with the organization of Events.
 
-![Picture of an event](/files/projects/edulabs_img_1.jpg)
-![Picture of an event](/files/projects/edulabs_img_2.jpg)
+<div class="two-img">
+<img alt="Bild vom Event" src="/files/projects/edulabs_img_1.jpg">
+<img alt="Bild vom Event" src="/files/projects/edulabs_img_2.jpg">
+</div>
 
-###Prizes
-
+**Awards** <br>
+OER-Award
 OER-Award

@@ -9,6 +9,7 @@ layout: project
 website: https://offenegesetze.de
 background: projects/offenegesetze.jpg
 img: projects/offenegesetze.jpg
+img_header: projects/offenegesetze_Header.png
 people:
 - name: Stefan Wehrmeyer
   role: Entwickler
