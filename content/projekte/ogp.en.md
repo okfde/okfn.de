@@ -21,7 +21,7 @@ partners:
   - Open Government Partnership 
 contact_person: michaelpeters
 website: https://opengovpartnership.de
-cta: Mitmachen
+cta: Participate
 cta_text: |-
     Become a member of the Open Government Network and participate as part of civil society in the OGP process in Germany! We work on very different things and there are many ways to get involved in the network. You can find out more <a href="https://opengovpartnership.de/mitmachen/">here</a>.
 more_text: |-

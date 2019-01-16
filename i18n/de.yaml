@@ -64,3 +64,5 @@
   translation: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod "
 - id: phineo_link
   translation: "Mehr ueber Phineo"
+- id: mehr_erfahren
+  translation: "Want to know more?"

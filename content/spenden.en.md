@@ -6,12 +6,12 @@ img_header: /okf/spenden-social-og.png
 layout: donation
 bank_name: Bank transfer
 bank_text: some text
-paypal_name: Paypal
-paypal_text: some text
+paypal_name: 
+paypal_text: 
 paypal_link: #
 betterplace_name: Betterplace
 betterplace_text: Lorem ipsum
-box_title: Text in  spenden.en.md, image layout/default/donation.html
+box_title: In order to meet our own transparency requirements, we have compiled the most important transparency information
 box_link_name: To our transparency page
 ---
 

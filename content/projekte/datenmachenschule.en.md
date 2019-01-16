@@ -25,5 +25,12 @@ contact:
 
 
 ---
-DatenmachenSchule is a place where the potential of using open data in the classroom is illustrated. Based on the pioneering work of the Rhein-Waal University of Applied Sciences, the Adolfinum Grammar School, the City of Moers and the Lower Rhine University of Applied Sciences OK-Lab, information and resources have been compiled that will enable teachers and schools to use applications based on open data. The OffenerHaushalt. de tool has been technically and structurally redesigned to visualize data on tax expenditure and thus make it clear and tangible.
+DatenmachenSchule shows the potential of using open data in the classroom. 
+The initial idea for the project came from a study published in 2013 on the subject of Open Data by the Fraunhofer Focus Institute:
+
+"Open administrative data [...] in principle holds the chance of a new educational design (Open Educational Resources)".
+
+In order to pursue this thesis, a cooperation between the administration of the city of Moers, the Gymnasium Adolfinum, the Rhein-Waal University of Applied Sciences and the Open Knowledge Lab Niederrhein was formed. The findings and experiences developed from this cooperation were collected in DatenmachenSchule.de and processed in the form of a guide and the corresponding website. Based on feedback from the project, the election results portal and the OffenerHaushalt tool were technically and visually redesigned and loaded with new data in order to facilitate their subsequent use.
+
+Through the cooperation of pupils, students, teachers, administrative staff and civil society actors, a unique community of interest for the use of open data in teaching was created. The resulting digital tools, which would not exist without the initial commitment of the participants, now show in their revised form the opportunities and potentials inherent in the use of open data in the classroom. This is intended to stimulate the use of these tools and the development of entirely new ideas.
 

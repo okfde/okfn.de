@@ -7,14 +7,14 @@ categories:
 tile: single
 layout: project
 title: Volksentscheid Transparenz Berlin
-subtitle: Wissen für alle!
+subtitle: Knowledge for all!
 website: https://volksentscheid-transparenz.de/
 img: projects/Volksentscheid_Projektuebersicht_smallTile.png
 img_header: projects/Volksentscheid_Header.png
 years: 2017 - 2022
 financing:
- - Ehrenamt
- - Spenden
+ - Voluntary work
+ - Donations
 people:
 - name: Arne Semsrott
   role: Initiator
@@ -31,11 +31,8 @@ contact:
 contact_person: arnesemsrott
 parners:
   - Mehr Demokratie 
-cta: Mitmachen
-cta_text: |-
-    We can use support in press and public relations work, collecting signatures and actions. Our open workshop takes place every Monday from 18:00 in our rooms at Singerstr. 109. Come by! Contact us under info [at ]volksentscheid-transparenz.de!
 more_text: |-
-    Further information can be found on the <a href="https://volksentscheid-transparenz.de/">website</a> of the Volksentscheids.
+    Further information can be found on the <a href="https://volksentscheid-transparenz.de/">website</a> of the Volksentscheid.
 ---
 In the Berlin coalition agreement, the governing parties agreed to further develop the Berlin Freedom of Information Act into a transparency law. However, a concrete draft has not yet been worked out. We want  to change that. Together with civil society partners, we have written a draft for a Berlin Transparency Act. Within the framework of a referendum, we will implement the draft law for the whole of Berlin by 2021.
 
