@@ -94,6 +94,7 @@
         <section class="col col-12 col-md-6 offset-md-3">
           {{ end }}
 
+          {{ $lang := .Page.Lang}}
           <h2 class="h3">{{ i18n "project_more"}}</h2>
           {{ with .Params.more_text}}<p>{{ . | markdownify }}</p>{{ end }}
           {{ with .Params.contact_person }}
@@ -104,7 +105,11 @@
             </div>
             <div class="col col-8 col-lg-9">
               <p>{{.name}}<br>
-                {{.position}}</p>
+                {{ if eq $lang "en"}}
+                {{ .position_en }}
+                {{ else }}
+                {{ .position }}
+                {{ end }}</p>
               <p><a href="mailto:{{.mail}}">Mail</a></p>
             </div>
           </div>
