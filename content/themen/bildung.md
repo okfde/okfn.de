@@ -8,19 +8,21 @@ img_social: /okf/bildung-social-og.png
 color: "#382eff"
 ---
 
-Offene Bildung ist ein Überbegriff für Initiativen im digitalen, politischen und formalen Bildungsbereich, die partizipativ, zeitgemäß und offen gestaltet sind und Bildung als Gemeingut fördern möchten.
+Offene Bildung ist ein Überbegriff für all jene schulische und außerschulische Initiativen, die Bildung partizipativ, offen sowie im Sinne der Ideen von „digitaler Bildung" und „zeitgemäßer Bildung" gestalten. Sie wollen Bildung als Gemeingut fördern und stellen selbstgesteuertes und kompetenzorientiertes Lernen in den Fokus. 
 
 <!--more-->
 
-Offener Bildung fördert digitale Mündigkeit, die Entwicklung neuer Formen des sozialen und zivilgesellschaftlichen Engagements, z.B. im Rahmen des digitalen Ehrenamts, und den ethische Umgang mit Informations- und Kommunikationstechnologie im Sinne der [Hackerethik](https://www.ccc.de/hackerethics). Diese Ziele werden unter anderem durch die Entwicklung partizipativer Lernszenarien sowie freier Bildungsmaterialien (“Open Educational Resources”) erreicht.
+Offene Bildung fördert: 
 
-## Digitale Mündigkeit
+1. **Digitale Mündigkeit** (siehe unten) 
+2. das Entwickeln neuer Formen des sozialen und zivilgesellschaftlichen Engagements, z. B. im Rahmen des **digitalen Ehrenamts** und 
+3. den ethischen Umgang mit Informations- und Kommunikationstechnologien im Sinne der [Hackerethik](https://www.ccc.de/hackerethics)
 
-Digitale Mündigkeit beschreibt die Fähigkeit, konstruktiv, kritisch und souverän mit digitalen Räumen umzugehen, um sich zivilgesellschaftlich und politisch in diesen zu engagieren und  unsere zunehmend digitalisierte Gesellschaft zu hinterfragen und mitzugestalten. Fähigkeiten im Umgang mit digitalen Technologien (Digital Literacy), z.B. um online bürgerliche Rechte und Pflichten wahrzunehmen, sind hierbei kein Selbstzweck, sondern Mittel für gesellschaftliche Teilhabe. Vielmehr geht es um das Verständnis der Notwendigkeit, sich am gesellschaftlichen und politischen Leben in digitalen Räumen zu beteiligen, um zivilgesellschaftliche Interessen zu wahren und die Gesellschaft mitzugestalten.
+Diese Ziele werden unter anderem durch partizipative Lernszenarien sowie freie Bildungsmaterialien („Open Educational Resources") erreicht. Dazu gehören das Aufbrechen der „Lehrer-Schüler-Rolle“ in gleichberechtigte Partner*innen und das kollaborative Entwickeln von Lern- und Lehrinhalten sowie entsprechender Unterlagen. Das dezentrale Organisieren und Teilen der Materialien ist dafür eine wichtige Voraussetzung. 
 
-## Stand in Deutschland
+**Digitale Mündigkeit** beschreibt hierbei die Fähigkeit, konstruktiv, kritisch und souverän mit digitalen Räumen umzugehen, um sich zivilgesellschaftlich und politisch in diesen engagieren zu können. Nur so können wir unsere zunehmend digitalisierte Gesellschaft hinterfragen und mitgestalten. Fähigkeiten im Umgang mit digitalen Technologien (**Digital Literacy**), z. B. um online bürgerliche Rechte und Pflichten wahrzunehmen, sind hierbei kein Selbstzweck, sondern Mittel für gesellschaftliche Teilhabe. Vielmehr geht es um ein Verständnis dafür, wie notwendig es ist, sich am gesellschaftlichen und politischen Leben in digitalen Räumen zu beteiligen, um zivilgesellschaftliche Interessen zu wahren und die Gesellschaft mitzugestalten. 
 
-Offene Bildungsformate stoßen im Bereich der Bildung nach wie vor auf große Skepsis. Bildungs- und Lehrpläne bieten kaum Lösungen für den Umgang mit den Anforderungen der digital geprägten Gegenwart. Dem wollen Initiativen im Bereich Offener Bildung entgegenwirken. Sie sind getragen von der Überzeugung, dass eine demokratische Gesellschaft Menschen braucht, die mitdenken und mitgestalten, und dass kompetenzorientierte, freie Bildung die Grundlagen dafür schafft.
+**Links**
 
-
-## Links
+* [Was ist zeitgemäße Bildung? Dejan Mihajlovic thematisiert den Unterschied zur digitalen Bildung](https://mihajlovicfreiburg.com/2017/09/08/was-ist-zeitgemaesse-bildung)
+* [Was sind zeitgemäße und freie Bildungsmaterialien? Eine Erläuterung von Maximilian Voigt](https://edulabs.de/blog/gute-Open-Educational-Resources-und-zeitgem%C3%A4%C3%9Fe-Bildungsmaterialien)
