@@ -12,7 +12,7 @@ Das Konzept von „Open Government" meint, das Handeln von Regierungen und Verwa
 
 <!--more-->
 
-BürgerInnen können auf vielen Ebenen des politischen Handelns direkt einbezogen werden. Im besten Fall kann Open Government die bisherige Kultur der politischen Teilhabe – fast ausschließlich auf Wahltermine begrenzt – zu einer Kooperationskultur zwischen Politik, Verwaltung und Zivilgesellschaft ausbauen. 
+Bürger*innen können auf vielen Ebenen des politischen Handelns direkt einbezogen werden. Im besten Fall kann Open Government die bisherige Kultur der politischen Teilhabe – fast ausschließlich auf Wahltermine begrenzt – zu einer Kooperationskultur zwischen Politik, Verwaltung und Zivilgesellschaft ausbauen. 
 
 Hinter dem Konzept steht das Ziel, die Arbeit von Politik, Regierung, Verwaltung und Justiz offener, transparenter, partizipativer und kooperativer zu gestalten. 
 
@@ -37,3 +37,5 @@ Im internationalen Vergleich ist Deutschland weder in Bezug auf offenes Regierun
 * [OECD Studie zum Thema Open Government](https://opengovpartnership.de/files/2018/05/oecd-studie-open-government.pdf)
 * Sammlung von Definitionen: [Open Government – What’s in a Name?](http://thegovlab.org/open-government-whats-in-a-name/)
 * [Open Government Data](https://opengovdata.io/) – Buch von Joshua Tauberer
+
+### Verwandte Projekte 

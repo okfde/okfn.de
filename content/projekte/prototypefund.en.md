@@ -3,9 +3,9 @@ title: Prototype Fund
 subtitle: 47.500€ for your public interest tech idea
 type: research
 kategorien:
-  - 
+  - Civic Tech
 categories:
-  - 
+  - Civic Tech
 tile: double
 weight: 4
 website: https://prototypefund.de

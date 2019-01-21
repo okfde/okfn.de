@@ -44,7 +44,7 @@ Es gibt eine Vielzahl von gesellschaftlichen Bereichen, in denen Personen und Or
 
 **Wozu überhaupt Daten öffnen?**
 
-In einer gut funktionierenden demokratischen Gesellschaft müssen die Bürgerinnen und Bürger wissen, was ihre Regierung tut. Um das zu gewährleisten, sind Transparenz und demokratische Kontrolle notwendige Voraussetzungen, ebenso der freie Zugang zu staatlichen Daten und die Möglichkeit, diese Informationen mit anderen BürgerInnen zu teilen. Im digitalen Zeitalter sind Daten die Schlüsselressourcen für gesellschaftliche und wirtschaftliche Aktivitäten. Durch die Öffnung von Daten können Regierungen dabei helfen, die Gründung von Unternehmen und Dienstleistungen voranzutreiben, die **gesellschaftlichen und wirtschaftlichen Mehrwert**schaffen können. Die Öffnung von Daten verbessert politische Partizipationsmöglichkeiten und erleichtert es, BürgerInnen in die politische Entscheidungsfindung informiert einzubeziehen. 
+In einer gut funktionierenden demokratischen Gesellschaft müssen die Bürgerinnen und Bürger wissen, was ihre Regierung tut. Um das zu gewährleisten, sind Transparenz und demokratische Kontrolle notwendige Voraussetzungen, ebenso der freie Zugang zu staatlichen Daten und die Möglichkeit, diese Informationen mit anderen Bürger*innen zu teilen. Im digitalen Zeitalter sind Daten die Schlüsselressourcen für gesellschaftliche und wirtschaftliche Aktivitäten. Durch die Öffnung von Daten können Regierungen dabei helfen, die Gründung von Unternehmen und Dienstleistungen voranzutreiben, die **gesellschaftlichen und wirtschaftlichen Mehrwert**schaffen können. Die Öffnung von Daten verbessert politische Partizipationsmöglichkeiten und erleichtert es, Bürger*innen in die politische Entscheidungsfindung informiert einzubeziehen. 
 
 **Wie können Daten geöffnet werden?**
 
@@ -57,3 +57,5 @@ Detaillierte praktischen Ratschläge, die erklären, wie man Daten öffnen kann,
 * [Daten für alle: Das Bürgerrecht auf Transparenz (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5390836)
 * [Open Data. The Benefits. Das Volkswirtschaftliche Potential für Deutschland](https://www.kas.de/einzeltitel/-/content/open-data.-the-benefits1)
 * [Impact von Open Data anhand von Case Studies (Englisch): Open Data is Changing the World in Four Ways (GovLab)](http://odimpact.org/)
+
+### Verwandte Projekte 

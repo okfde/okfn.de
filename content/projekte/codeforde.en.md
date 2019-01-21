@@ -5,8 +5,10 @@ layout: project
 tile: double
 kategorien:
   - Community
+  - Civic Tech
 categories:
   - Community
+  - Civic Tech
 tile: double
 layout: project
 img: projects/codefor_BigTile.gif

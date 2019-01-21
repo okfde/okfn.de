@@ -3,10 +3,12 @@ type: politics
 tile: single
 title: Transparenzranking
 subtitle: Vergleich der Informationsgesetze in Deutschland
-Kategorie:
-  - Open Government
+kategorien:
+  - Offenes Regierungshandeln
+  - Informationsfreiheit
 categories:
   - Open Government
+  - Informationsfreiheit
 img: projects/dummy_Projektuebersicht_smallTile.png
 img_header: projects/Transparenzranking_Header.png
 img: projects/Transparenzranking_Projektuebersicht_smallTile.png

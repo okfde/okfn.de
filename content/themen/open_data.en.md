@@ -10,6 +10,8 @@ color: "#382eff"
 
 Open data is data that can be freely used, re-used and re-distributed by anyone - at most restricted by the obligation to name sources and "share-alike". This does not apply to personal data.
 
+<!--more-->
+
 The most important characteristics of open data are: 
 
 * Availability and access: Data should be available as a whole, at a cost no higher than the cost of reproduction, preferably as a free download on the Internet. The work should also be available in an appropriate and modifiable form.
@@ -55,3 +57,6 @@ Detailed, practical advice on how to open data can be found in the [Open Data Ha
 * [Daten für alle: Das Bürgerrecht auf Transparenz (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5390836)
 * [Open Data. The Benefits. Das Volkswirtschaftliche Potential für Deutschland](https://www.kas.de/einzeltitel/-/content/open-data.-the-benefits1)
 * [Impact von Open Data anhand von Case Studies (Englisch): Open Data is Changing the World in Four Ways (GovLab)](http://odimpact.org/)
+
+
+### Related Projects
