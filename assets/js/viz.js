@@ -147,7 +147,7 @@ function incomesHelper (containerSelector, dataPath, barHeight) {
         .attr('class', 'd3-tip n')
         .offset([-10, 0])
         .html(function(d) {
-          return "<span>" + d.amount + "€ von " + d.item + " ("+ d.percentage + "% der Gesamteinnahmen)</span>";
+          return "<span>" + d3.format(',.2r')(d.amount) + "€ von " + d.item + " ("+ d.percentage + "% der Gesamteinnahmen)</span>";
         });
 
     svg.call(tip);
