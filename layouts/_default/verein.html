@@ -52,15 +52,15 @@
           <p><a href="{{ .Permalink}}">Details zu den Mitgliedern</a></p>
         </div>
         {{ end }}
+        {{ $lang := .Page.Lang }}
         {{ range sort (where $.Site.Data.team ".board" 1) "name" }}
         <div class="l__verein__board_people col col-6 col-md-3">
           <img src="/team/{{.img}}.jpg" alt="Bild von {{.name}}">
           <p><strong>{{.name}}</strong><br>
-            {{ $lang := .Lang }}
-            {{ if eq $lang "de"}}
-              {{ .position }}
-            {{ else }}
+            {{ if eq $lang "en"}}
               {{ .position_en }}
+            {{ else }}
+              {{ .position }}
             {{ end }}
           </p>
         </div>

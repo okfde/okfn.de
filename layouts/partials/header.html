@@ -19,9 +19,10 @@
         <li><a href="/blog">Blog</a></li>
 
         {{ $langList := (.Page.AllTranslations) }}
+        {{ $currentLang := .Language}}
         {{ $lenLangList := len $langList}}
         <li>{{ range $index, $translation := $langList }}
-          <a href="{{ $translation.Permalink }}">{{ $translation.Language.LanguageName }}</a>
+          <a href="{{ $translation.Permalink }}" class="{{ if ne $currentLang .Language}}inactive{{ end }}">{{ $translation.Language.LanguageName }}</a>
           {{ if (eq $index 0) }}|{{ end }}
           {{ if (eq $lenLangList 1)}}
           <a href="{{ $translation.Permalink}}">EN</a>

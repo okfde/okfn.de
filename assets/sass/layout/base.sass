@@ -1,16 +1,18 @@
-body
+.js
   padding-top: $topbar-height + $space-m
+  .l__topbar
+    position: fixed
+    top: 0
+    z-index: 11
+    width: 100%
+    transition: top 300ms ease-out
+    &.is-up
+      transition: top 300ms ease-in
+      top: -($topbar-height * 2)
 
 .l__topbar
-  position: fixed
-  top: 0
-  z-index: 11
-  width: 100%
   background-color: $white
-  transition: top 0.2s ease-in-out
   border-bottom: $greyish 1px solid
-  &.is-up
-    top: -($topbar-height * 2)
   > div
     max-width: map-get($container-max-widths, xl)
     @include make-container()
