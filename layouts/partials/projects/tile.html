@@ -8,17 +8,7 @@
   <a href="{{.Permalink}}" class="c__tile {{with .Params.tile}}c__tile--{{.}}{{end}}" style="background-image: url(/files/{{.Params.img}})">
     <h2 class="h3 c__tile__title">{{.Title}}</h2>
     <div class="c__tile__overlay">
-      {{ if eq $lang "en" }}
-      {{ with .Params.en.subtitle }}
-        <p class="h4">{{ . }}</p>
-      {{ end }}
-      {{ end }}
-
-      {{ if eq $lang "de" }}
-      {{ with .Params.de.subtitle  }}
-        <p class="h4">{{ . }}</p>
-      {{ end }}
-      {{ end }}
+      {{ with .Params.subtitle}}<p>{{.}}</p>{{ end }}
     </div>
   </a>
 </li>
