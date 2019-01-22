@@ -8,7 +8,7 @@ img: /okf/verein/verein_intro_2.jpg
 stats:
   - number: 2011
     text: hat sich der Verein gegründet. Das erste Treffen fand bereits 2010 auf der 
-    re:publica mit Rufus Pollock, Initiator des internationalen Open Knowledge Netzwerks, statt.
+    republica mit Rufus Pollock, Initiator des internationalen Open Knowledge Netzwerks, statt.
   - number: 39
     text: Wir beschäftigen mittlerweile 39 Personen – darunter Aktivist*innen,
     Wissenschaftler*innen, Entwickler*innen, Policy-Spezialist*innen und Designer*innen.
@@ -18,8 +18,8 @@ stats:
     aus insgesamt 24 Ländern. 
   - number: 44
     text: In den vergangenen Jahren haben wir 44 Projekte realisiert – darunter 
-Kampagnen, Hackathons, Community-Förderungen, Bildungsangebote 
-und eigene Softwarelösungen.
+    Kampagnen, Hackathons, Community-Förderungen, Bildungsangebote 
+    und eigene Softwarelösungen.
   - number: 28
     text: In 28 Städten organisieren unsere ehrenamtlichen Community-Mitglieder regelmäßige Veranstaltungen – deutschlandweit.
   - number: 1.387
