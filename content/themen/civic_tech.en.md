@@ -8,7 +8,7 @@ img_social: /okf/civictech-social-og.png
 color: "#382eff"
 ---
 
-Civic Tech brings together digital innovations with governments and administrations to create new and better opportunities for citizens. Civic Tech applications, tools and services are in many cases powered by **[Open Data](/en/themen/open_data)**.
+Civic Tech brings together digital innovations with governments and administrations to create new and better opportunities for citizens. Civic Tech applications, tools and services are in many cases powered by Open Data.
 
 <!--more-->
 

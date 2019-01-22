@@ -8,7 +8,7 @@ img_social: /okf/civictech-social-og.png
 color: "#072b8b"
 ---
 
-Civic Tech will neue Technologien und digitale Innovationen mit Regierungen und Verwaltungen zusammenführen, um zivilgesellschaftliche Interessen mit neuen und partizipativen Möglichkeiten besser umzusetzen. **[Offene Daten](/themen/open_data)** sind in vielen Fällen Fundament der dabei entwickelten Anwendungen, Werkzeuge und Dienste.  
+Civic Tech will neue Technologien und digitale Innovationen mit Regierungen und Verwaltungen zusammenführen, um zivilgesellschaftliche Interessen mit neuen und partizipativen Möglichkeiten besser umzusetzen. Offene Daten sind in vielen Fällen Fundament der dabei entwickelten Anwendungen, Werkzeuge und Dienste.  
 
 <!--more-->
 

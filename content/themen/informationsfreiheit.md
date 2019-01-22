@@ -8,7 +8,7 @@ img_social: /okf/ifg-social-og.png
 color: "#382eff"
 ---
 
-Informationsfreiheit ist das Recht auf freien Zugang zu amtlichen Informationen. Sie ist eines der wichtigsten Grundrechte für die Wissensgesellschaft und ergibt sich aus [Artikel 5 des Grundgesetzes zur Meinungs- und Informationsfreiheit](https://www.gesetze-im-internet.de/gg/art_5.html).
+Informationsfreiheit ist das Recht auf freien Zugang zu amtlichen Informationen. Sie ist eines der wichtigsten Grundrechte für die Wissensgesellschaft und ergibt sich aus Artikel 5 des Grundgesetzes zur Meinungs- und Informationsfreiheit.
 
 <!--more-->
 
