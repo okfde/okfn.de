@@ -9,4 +9,4 @@ img:
 arrange: img_bottom
 ---
 
-In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, d. h. Regionalgruppen, in über 26 verschiedenen Städten, organisieren  Konferenzen und Hackathons und bringen VertreterInnen aus Politik und der Zivilgesellschaft zusammen.
+In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, d. h. Regionalgruppen, in über 26 verschiedenen Städten, organisieren  Konferenzen und Hackathons und bringen Vertreter*innen aus Politik und der Zivilgesellschaft zusammen.

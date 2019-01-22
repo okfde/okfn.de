@@ -9,4 +9,4 @@ img:
 arrange: img_top
 ---
 
-Digital vernetzte Technologien bringen neue Möglichkeiten, um zivilgesellschaftliche Interessen umzusetzen: BürgerInnen können ihre Rechte und Pflichten einfacher wahrnehmen und sich besser über staatliches Handeln informieren. So wird der faktenbasierte politischer Diskurs unterstützt. Dafür entwickeln wir Software, stellen Infrastruktur bereit und fördern Open-Source-Projekte. Wir experimentieren und bieten ein Experimentierfeld für andere.
+Digital vernetzte Technologien bringen neue Möglichkeiten, um zivilgesellschaftliche Interessen umzusetzen: Bürger*innen können ihre Rechte und Pflichten einfacher wahrnehmen und sich besser über staatliches Handeln informieren. So wird der faktenbasierte politischer Diskurs unterstützt. Dafür entwickeln wir Software, stellen Infrastruktur bereit und fördern Open-Source-Projekte. Wir experimentieren und bieten ein Experimentierfeld für andere.

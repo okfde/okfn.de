@@ -6,9 +6,6 @@ tile: double
 kategorien:
   - Community
   - Civic Tech
-categories:
-  - Community
-  - Civic Tech
 tile: double
 layout: project
 weight: 2

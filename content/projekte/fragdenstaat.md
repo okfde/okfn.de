@@ -1,9 +1,5 @@
 ---
 type: politics
-categories:
-  - Open Government
-  - Community
-  - Informationsfreiheit
 kategorien:
   - Offenes Regierungshandeln
   - Community

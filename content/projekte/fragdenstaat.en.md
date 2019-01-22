@@ -3,6 +3,7 @@ type: politics
 categories:
   - Open Government
   - community
+  - Informationsfreiheit
 tile: double
 title: FragDenStaat
 subtitle: The Freedom of Information Platform

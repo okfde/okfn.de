@@ -17,7 +17,7 @@ stats:
   - number: 28
     text: Our volunteer community members organize regular events in 28 cities throughout Germany.
   - number: 1.387
-    text:  The number of active members in  our community. Our network contains a wide range of knowledge on Open Data, Open Government and Civic Tech.
+    text:  The number of active members in  our community. Our network contains a wide range of knowledge on Open Data, Open Government and Civic Tech. 
 meta: OKF DE nonprofit gemeinnützig Verein annual report Social Reporting Standard
 ---
 
@@ -27,7 +27,7 @@ We are committed to the dissemination of free and openly accessible knowledge in
 
 We are present in numerous areas of society and are recognized as one of the leading organizations for innovative projects in the areas of rule of law, transparency and accountability, access to knowledge and participation, digital literacy and public control in Germany and Europe.
 
-We are also the German branch of the globally active Open Knowledge Network.
+We are also the German branch of the globally active Open Knowledge Network. 
 
 
 ## Our board
