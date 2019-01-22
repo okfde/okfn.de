@@ -2,34 +2,34 @@
     title: Satzung
     text: Auf unserer Satzung basiert unsere Gemeinnützigkeit. Es handelt sich um die auf der Mitgliederversammlung 2011 beschlossenen und 2017 geänderte Fassung.
   en:
-    title: Satzung EN
-    text: Text EN
+    title: Statutes
+    text: Our charitable status is based on our statutes. It has been adopted at the 2011 General Meeting and amended in 2017.
   path: /files/documents/01_Satzung.pdf
 - de:
     title: Verhaltenskodex
-    text: Unser Verhaltenskodex legt die gemeinsamen Werte und Handlungsprinzipien, die für alle Mitglieder und Mitarbeiter, die Geschäftsführung und den Vorstands gelten.
+    text: Unser Verhaltenskodex legt die gemeinsamen Werte und Handlungsprinzipien, die für alle Mitglieder und Mitarbeiter, die Geschäftsführung und den Vorstand gelten.
   en:
     title: Code of conduct
-    text: Text EN
+    text: Our Code of Conduct sets out common values and principles of action that apply to all members, employees, management and the board.
   path: /files/documents/02_Verhaltenskodex.pdf
 - de:
     title: Mission Statement
-    text: in der von der Gründungsversammlung vom 19.02.2011 in Berlin beschlossenen und auf der Mitgliederversammlung am 11.11.2017 in Berlin geänderten Fassung.
+    text: Das Mission Statement wurde in der Gründungsversammlung vom 19.02.2011 in Berlin beschlossenen und auf der Mitgliederversammlung am 11.11.2017 in Berlin angepasst.
   en:
-    title: Mission Statement EN
-    text: Text EN
+    title: Mission Statement
+    text: The mission statement has been adopted by the founding meeting in Berlin on 19.02.2011 and amended at the general meeting in Berlin on 11.11.2017.
   path: /files/documents/04_Mission_Statement.pdf
 - de:
     title: Governance Modell
     text: Das Governance Modell definiert die Rollen und Zuständigkeiten der Organe Team, Geschäftsführung und Vorstand.
   en:
-    title: Gov EN
-    text: Text EN
+    title: Governance model
+    text: The governance model defines the roles and responsibilities of the governing bodies team, management and board.
   path: /files/documents/03_Governance_Modell.pdf
 - de:
     title: Memorandum of Understanding
     text: Wir sind Teil des internationalen Open Knowledge Netzwerkes. Um Teil dieses Netzwerkes zu werden, wurde dieses Dokument aufgesetzt.
   en:
     title: Memorandum of Understanding
-    text: Text EN
+    text: We are part of the international Open Knowledge Network. In order to become part of this network, this document has been prepared.
   path: /files/documents/05_Memorandum_of_Understanding.pdf

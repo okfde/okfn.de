@@ -17,10 +17,12 @@ metainfo_name: "Wissenswertes zu Deiner Spende"
 metainfo_text: "Mit unserem aktuellen <a href='/files/documents/Freistellungsbescheid-2018-04-20.pdf'>Freistellungsbescheid</a> sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem <a href='/files/documents/06_Zuwendungsnachweis.pdf'>Vereinfachten Zuwendungsnachweis.</a>"
 ---
 
-Wir sind stolz darauf, gemeinnützig zu sein. Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten.
+### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. 
 
-### Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
+Mit unserem [aktuellen Freistellungsbescheid](https://okfn.de/files/verein/Freistellungsbescheid-21-08-2017.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem **[Vereinfachten Zuwendungsnachweis](https://okfn.de/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).**
 
-- politische Kampagnenarbeit im Interesse der Zivilgesellschaft
-- Projekte zu freiem Wissen und digitaler Mündigkeit
-- die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten).
+Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
+
+* politische Kampagnenarbeit im Interesse der Zivilgesellschaft
+* Projekte zu freiem Wissen und digitaler Mündigkeit
+* die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten). 

@@ -1,5 +1,5 @@
 ---
-title: Exploring the democratic potential of technology
+title: We explore the democratic potential of technology
 weight: 1
 
 img:
