@@ -6,12 +6,12 @@
     text: The notice of exemption is issued by the tax office for corporations and indicates that we are tax-privileged.
   path: /files/documents/Freistellungsbescheid-2018-04-20.pdf
 - de:
-    title: Bilanz
-    text: (...)
+    title: Eröffnungsbilanz
+    text: Zum Jahreswechsel 2017/18 hat die OKF auf Bilanzierung umgestellt.
   en:
-    title:  [DE]
-    text: The notice of exemption is issued by the tax office for corporations and indicates that we are tax-privileged.
-  path: /files/documents/Freistellungsbescheid-2018-04-20.pdf
+    title: Opening balance[DE]
+    text: At the turn of the year 2017/18, OKF switched to balance sheet preparation.
+  path: /files/documents/Eroeffnungsbilanz 2018.pdf
 - de:
     title: Gewinn- und Verlustrechnung 2017
     text: Die Gesamteinnahmen betrugen 2.066.047,51 €. Dem standen Gesamtausgaben von insgesamt 2.112.418,39 € gegenüber.
@@ -20,9 +20,9 @@
     text: ""
   path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf
 - de:
-    title: Gewinn- und Verlustrechnung 2016 - 2011
+    title: Gewinn- und Verlustrechnung 
   en:
-    title: Gewinn- und Verlustrechnung 2016 - 2011 [DE]
+    title: Gewinn- und Verlustrechnung [DE]
   years:
     - 2016
     - 2015
