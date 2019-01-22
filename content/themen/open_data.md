@@ -17,9 +17,7 @@ Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbr
 Die wichtigsten Eigenschaften offener Daten sind: 
 
 * Verfügbarkeit und Zugang: Die Daten sollen als Ganzes verfügbar sein, zu Kosten, die nicht höher als die Reproduktionskosten sind, vorzugsweise zum gebührenfreien Download im Internet. Die Daten sollen ebenso in einer zweckmäßigen und modifizierbaren Form verfügbar sein.
-
 * Wiederverwendung und Nachnutzung: Die Daten müssen unter denjenigen Bedingungen bereitgestellt werden, die die Wiederverwendung, Nachnutzung und Verbindung mit anderen Datensätzen erlauben. Die Daten müssen maschinenlesbar sein.
-
 * Universelle Beteiligung: Jede Person muss in der Lage sein, die Daten zu nutzen, wiederzuverwenden und nachzunutzen. Es darf keine Diskriminierung gegen Handlungsfelder, Einzelpersonen oder Gruppen vorliegen. Die Nachnutzung darf also weder auf einzelne Bereiche begrenzt werden (z. B. nur für die Bildung) noch dürfen bestimmte Nutzungsarten (z. B. für kommerzielle Zwecke) ausgeschlossen sein.
 
 **[Hier geht es zur ausführlichen Definition von offenem Wissen („Open Definition")](http://opendefinition.org/okd/deutsch/)**.
@@ -29,17 +27,11 @@ Die wichtigsten Eigenschaften offener Daten sind:
 Es gibt eine Vielzahl von gesellschaftlichen Bereichen, in denen Personen und Organisationen Daten sammeln. Beispielsweise: 
 
 * Geodaten sind Daten, die genutzt werden, um Karten herzustellen – angefangen von der Lage der Straßen und Gebäude bis hin zu Topographien und Grenzen.
-
 * Kulturdaten beinhalten Informationen über kulturelle Werke und Artefakte (Titel und Autoren) sowie Daten, die im Allgemeinen von Galerien, Bibliotheken, Archiven und Museen gesammelt und bereitgestellt werden.
-
 * Wetterdaten sind verschiedenen Formen von Informationen, die genutzt werden, um unser Wetter und Klima zu verstehen und vorhersagen zu können.
-
 * Transportdaten sind zum Beispiel Verkehrsdaten wie Fahrpläne, Fahrstrecken und Echtzeit-Statistiken.
-
 * Ratsinformationssysteme enthalten alle Daten der lokalpolitischen Gremienarbeit im Gemeinderat oder Kreistag, in Ausschüssen oder Bezirksvertretungen. Über geeignete Plattformen, z. B. [PolitikbeiUns](https://politik-bei-uns.de/), können diese veröffentlicht werden. 
-
 * Finanzdaten sind beispielsweise Haushaltsdaten der öffentlichen Hand (Ausgaben, Einnahmen) oder Informationen zu Finanzmärkten (Aktien, Anleihen).
-
 * Wissenschaftliche Daten entstehen innerhalb einer wissenschaftlichen Forschung, von Astronomie bis Zoologie.
 
 **Wozu überhaupt Daten öffnen?**

@@ -20,10 +20,8 @@ Im Sinne des [Open-Source-Ansatzes](https://en.wikipedia.org/wiki/Open-source_so
 
 **Links**
 
-* [What is ‘civic’ in Civic Tech? (Prototypefund)](https://medium.com/@prototypefund/was-genau-ist-civic-an-civic-tech-6caca475495d)
-* [Definition von Public Interest Technology (New America, Englisch)](https://www.newamerica.org/public-interest-technology/about/)
-* [Definition von Public Interest Tech (Ford Foundation, Englisch)](https://www.fordfoundation.org/campaigns/public-interest-tech/)
-* [Article on Smart Cities, Civic Tech and Free Software (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5476316)
+* [Was genau ist ‘civic’ an Civic Tech? (Prototypefund)](https://medium.com/@prototypefund/was-genau-ist-civic-an-civic-tech-6caca475495d)
+* [Artikel zum Thema Smart City, Civic Tech und Freier Software (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5476316)
 
 ### Verwandte Projekte 
 
