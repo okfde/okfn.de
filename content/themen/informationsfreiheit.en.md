@@ -7,7 +7,7 @@ img_header: /okf/themen/foia_header.jpg
 color: "#382eff"
 ---
 
-Freedom of information (FOI) is the right of free access to official information. It is one of the most important fundamental rights in the knowledge society, which results from [Article 5 of the German Basic Law on Freedom of Opinion and Information (Grundgesetz zur Meinungs- und Informationsfreiheit)](https://www.gesetze-im-internet.de/gg/art_5.html).
+Freedom of information (FOI) is the right of free access to official information. It is one of the most important fundamental rights in the knowledge society, which results from [Article 5 of the German Basic Law on Freedom of Opinion and Information Grundgesetz zur Meinungs- und Informationsfreiheit.
 
 <!--more-->
 
