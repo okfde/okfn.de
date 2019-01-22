@@ -6,6 +6,7 @@ categories:
 title: edulabs
 tile: double
 layout: project
+img_header: projects/edulabs_Header.jpg
 img: projects/edulabs_Projektuebersicht_bigTile.png
 website: https://edulabs.de
 people:
@@ -29,7 +30,7 @@ financing:
   - BMBF
 cta: Participate
 cta_text: |-
-  There are many ways to get involved. You can find all information <a href="https://edulabs.de/join/">here</a>[DE].
+  There are many ways to get involved. You can find all information <a href="https://edulabs.de/join/">here</a> [DE].
 more_text: |-
   All further information can also be found on the <a href="https://edulabs.de/">website</a> of edulabs.
 

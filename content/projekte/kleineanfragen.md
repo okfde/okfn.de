@@ -2,9 +2,6 @@
 type: politics
 title: kleineAnfragen
 subtitle: Anfragen von Abgeordneten gebündelt auf einer Plattform 
-kategorien:
-  - Offenes Regierungshandeln
-  - Civic Tech
 categories:
   - Open Government
   - Civic Tech
