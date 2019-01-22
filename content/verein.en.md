@@ -27,14 +27,4 @@ We are committed to the dissemination of free and openly accessible knowledge in
 
 We are present in numerous areas of society and are recognized as one of the leading organizations for innovative projects in the areas of rule of law, transparency and accountability, access to knowledge and participation, digital literacy and public control in Germany and Europe.
 
-We are also the German branch of the globally active Open Knowledge Network. 
-
-
-## Our board
-
-Our Executive Board is responsible for the strategic direction and financial integrity of the organization. The Board works on an honorary basis. It controls and supports the management of the association.
-
-
-## Annual reports
-
-Our annual reports contain detailed information on the development of the organisation and our projects. Since 2017, our annual report is derived from the Social Reporting Standard.
+We are also the German branch of the globally active [Open Knowledge Network](https://okfn.org/network/). 
