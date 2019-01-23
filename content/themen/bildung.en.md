@@ -22,7 +22,7 @@ These goals are achieved through participatory learning scenarios and free educa
 
 ## Digitale Mündigkeit (Digital Maturity)
 
-Digitale Mündigkeit (Digital Maturity) describes the ability to deal constructively, critically and confidently with digital environments. Only with digital maturity and political engagement from civil society can we question and shape our increasingly digitised society. An understanding of digital technologies (digital literacy), e.g. how to exercise civil rights and duties online, is in this context not an end in itself, but a means to enable social participation. Understanding the need to participate in social and political life in digital spaces safeguards civil society interests and helps to shape society.
+Digitale Mündigkeit (Digital Maturity) describes the ability to deal constructively, critically and confidently with digital environments. Only with digital maturity and political engagement from civil society can we question and shape our increasingly digitised society. An understanding of digital technologies (digital literacy), e.g. how to exercise civil rights and duties online, is in this context not an end in itself, but a means to enable social participation. 
 
 ## Further information
 

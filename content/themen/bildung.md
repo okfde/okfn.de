@@ -24,6 +24,7 @@ Diese Ziele werden unter anderem durch partizipative Lernszenarien sowie freie B
 
 Digitale Mündigkeit beschreibt die Fähigkeit, konstruktiv, kritisch und souverän mit digitalen Räumen umzugehen, um sich zivilgesellschaftlich und politisch in diesen engagieren zu können. Nur so können wir unsere zunehmend digitalisierte Gesellschaft hinterfragen und mitgestalten. Fähigkeiten im Umgang mit digitalen Technologien (Digital Literacy), z. B. um online bürgerliche Rechte und Pflichten wahrzunehmen, sind hierbei kein Selbstzweck, sondern Mittel für gesellschaftliche Teilhabe. Vielmehr geht es um ein Verständnis dafür, wie notwendig es ist, sich am gesellschaftlichen und politischen Leben in digitalen Räumen zu beteiligen, um zivilgesellschaftliche Interessen zu wahren und die Gesellschaft mitzugestalten. 
 
+
 ## Weitere Informationen
 
 * [Was ist zeitgemäße Bildung? Dejan Mihajlovic thematisiert den Unterschied zur digitalen Bildung](https://mihajlovicfreiburg.com/2017/09/08/was-ist-zeitgemaesse-bildung)

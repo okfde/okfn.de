@@ -9,6 +9,7 @@ color: "#382eff"
 
 Freedom of information (FOI) is the right of free access to official information. It is one of the most important fundamental rights in the knowledge society, which results from Article 5 of the German Basic Law on Freedom of Opinion and Information Grundgesetz zur Meinungs- und Informationsfreiheit.
 
+
 <!--more-->
 
 Access to knowledge gives citizens the power to act in an  informed and self-determined manner. Knowledge is power and through freedom of information, this power is spread to the public instead of being concentrated in the hands of the few. 

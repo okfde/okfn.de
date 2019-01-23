@@ -15,9 +15,7 @@ Open data is data that can be freely used, re-used and re-distributed by anyone 
 ## The most important characteristics of open data are: 
 
 * Availability and access: Data should be available as a whole, at a cost no higher than the cost of reproduction, preferably as a free download on the Internet. The work should also be available in an appropriate and modifiable form.
-
 * Use and re-use: The data must be made available under conditions that allow use, re-use and association with other data sets. The data must be machine-readable.
-
 * Universal participation: Everyone must be able to use, re-use and re-distribute the data. There must be no discrimination against any persons or groups. The subsequent use may not be limited to individual areas (e.g. only for educational purposes), nor may certain types of use (e.g. for commercial purposes) be excluded.
 
 A detailed definition of open knowledge: '[Open Definition](https://opendefinition.org/)'.
@@ -27,17 +25,11 @@ A detailed definition of open knowledge: '[Open Definition](https://opendefiniti
 There are a large number of social areas in which individuals and organisations collect data, for example: 
 
 * Geodata are data that are used to produce maps - from the location of roads and buildings to topography and boundaries.
-
 * Cultural data include information about cultural works and artifacts (titles and authors) as well as data generally collected and provided by galleries, libraries, archives and museums.
-
 * Weather data are various forms of information that are used to understand and predict our weather and climate.
-
 * Transport data include traffic data such as timetables, routes and real-time statistics.
-
 * Council information systems contain all data concerning local political committee work in the local council, district assembly, committees or district representations. These can be published via suitable platforms, e.g. [PolitikbeiUns](https://politik-bei-uns.de/). 
-
 * Financial data span from government budget data (expenditure, income) to information on financial markets (shares, bonds).
-
 * Scientific data are created within a scientific research area, from astronomy to zoology.
 
 ## Why open up data at all? 
