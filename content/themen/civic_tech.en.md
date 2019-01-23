@@ -25,5 +25,3 @@ In line with the [open source approach](https://en.wikipedia.org/wiki/Open-sourc
 
 * [What is ‘civic’ in Civic Tech? (Prototypefund)](https://medium.com/@prototypefund/was-genau-ist-civic-an-civic-tech-6caca475495d)
 * [Article on Smart Cities, Civic Tech and Free Software (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5476316)
-
-## Related Projects

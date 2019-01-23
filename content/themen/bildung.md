@@ -30,5 +30,3 @@ Digitale Mündigkeit beschreibt die Fähigkeit, konstruktiv, kritisch und souver
 * [Was ist zeitgemäße Bildung? Dejan Mihajlovic thematisiert den Unterschied zur digitalen Bildung](https://mihajlovicfreiburg.com/2017/09/08/was-ist-zeitgemaesse-bildung)
 * [Was sind zeitgemäße und freie Bildungsmaterialien? Eine Erläuterung von Maximilian Voigt](https://edulabs.de/blog/gute-Open-Educational-Resources-und-zeitgem%C3%A4%C3%9Fe-Bildungsmaterialien)
 * [Digital Gutes tun: Ehrenamt im Internet (NDR)](https://www.ndr.de/nachrichten/netzwelt/Digital-Gutes-tun-Ehrenamt-im-Internet,digitalesehrenamt101.html) 
-
-## Verwandte Projekte 

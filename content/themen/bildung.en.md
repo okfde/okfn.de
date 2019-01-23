@@ -29,5 +29,3 @@ Digitale Mündigkeit (Digital Maturity) describes the ability to deal constructi
 * [What is “zeitgemäße Bildung“? Dejan Mihajlovic differentiates between digital and “contemporary“ education](https://mihajlovicfreiburg.com/2017/09/08/was-ist-zeitgemaesse-bildung)
 * [What are “contemporary“ and open educational resources? An explanation by Maximilian Voigt](https://edulabs.de/blog/gute-Open-Educational-Resources-und-zeitgem%C3%A4%C3%9Fe-Bildungsmaterialien)
 * [Doing good digitally: Digital volunteering (NDR)](https://www.ndr.de/nachrichten/netzwelt/Digital-Gutes-tun-Ehrenamt-im-Internet,digitalesehrenamt101.html) 
-
-## Related Projects

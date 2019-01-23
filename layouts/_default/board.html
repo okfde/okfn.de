@@ -27,10 +27,10 @@
     {{ $lang := .Lang }}
     {{ range sort (where $.Site.Data.team ".board" 1) "name" }}
     <section class="row align-items-top l__topics__section mt-d mb-l">
-      <div class="col col-12 col-lg-4 col-md-6 l__verein__board__singleimg">
+      <div class="col col-12 col-lg-4 col-md-6 col-xs-12 l__verein__board__singleimg">
         <img src="/team/{{.img}}.jpg" alt="Bild von {{.name}}">
       </div>
-      <div class="col col-12 offset-lg-1 col-md-6">
+      <div class="col col-12 offset-lg-1 col-md-6 col-xs-12">
         <h2 class="h3">{{.name}}</h2>
 
         {{ if eq $lang "de" }}

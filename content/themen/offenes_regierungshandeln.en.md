@@ -35,5 +35,3 @@ In an international comparison, Germany is neither a pioneer in terms of open go
 * [OECD Study on Open Government](https://opengovpartnership.de/files/2018/05/oecd-studie-open-government.pdf)
 * Collection of Definitions: [Open Government – What’s in a Name?](http://thegovlab.org/open-government-whats-in-a-name/)
 * [Open Government Data](https://opengovdata.io/) – Book by Joshua Tauberer
-
-## Related Projects

@@ -49,6 +49,3 @@ Detailed, practical advice on how to open data can be found in the [Open Data Ha
 * [Daten für alle: Das Bürgerrecht auf Transparenz (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5390836)
 * [Open Data. The Benefits. Das Volkswirtschaftliche Potential für Deutschland](https://www.kas.de/einzeltitel/-/content/open-data.-the-benefits1)
 * [Impact von Open Data anhand von Case Studies (Englisch): Open Data is Changing the World in Four Ways (GovLab)](http://odimpact.org/)
-
-
-## Related Projects

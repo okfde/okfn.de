@@ -37,5 +37,3 @@ Im internationalen Vergleich ist Deutschland weder in Bezug auf offenes Regierun
 * [OECD Studie zum Thema Open Government](https://opengovpartnership.de/files/2018/05/oecd-studie-open-government.pdf)
 * Sammlung von Definitionen: [Open Government – What’s in a Name?](http://thegovlab.org/open-government-whats-in-a-name/)
 * [Open Government Data](https://opengovdata.io/) – Buch von Joshua Tauberer
-
-## Verwandte Projekte 

@@ -22,6 +22,3 @@ Im Sinne des [Open-Source-Ansatzes](https://en.wikipedia.org/wiki/Open-source_so
 
 * [Was genau ist ‘civic’ an Civic Tech? (Prototypefund)](https://medium.com/@prototypefund/was-genau-ist-civic-an-civic-tech-6caca475495d)
 * [Artikel zum Thema Smart City, Civic Tech und Freier Software (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5476316)
-
-### Verwandte Projekte 
-
