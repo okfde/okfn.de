@@ -6,11 +6,6 @@ years: 2012 - 2013
 img: projects/stadtlandcode.jpg
 website: https://stadtlandcode.de
 layout: project
-people:
-  - name: Julia Kloiber
-    role: Projektleitung
-  - name: Friedrich Lindenberg
-    role: Projektleitung
 contact:
    twitter: stadtlandcode
    website: http://stadtlandcode.de

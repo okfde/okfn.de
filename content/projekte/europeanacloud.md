@@ -6,9 +6,6 @@ img: projects/europeana.jpg
 layout: project
 website: https://pro.europeana.eu/web/europeana-ecloud
 years: 2013 - 2014
-people:
-  - name: Anja Jentzsch
-    role: Projektleitung
 financing:
   - CIP-Best Practice Network
 contact:

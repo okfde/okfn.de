@@ -31,7 +31,7 @@ As part of the Open Government Network, we support Germany's active participatio
 
 The network is an association of civil society organisations and individuals that has been working since 2011 to promote open government and administrative action as a holistic approach to strengthening democracy. In particular, the focus is on the exchange with the Federal Government and the development of national action plans.
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Project manager Michael presents the network at a congress" src="/files/projects/opengov_img_1.jpg">
   <img alt="Project manager Michael presents the network at a congress" src="/files/projects/opengov_img_2.jpg">
 </div>

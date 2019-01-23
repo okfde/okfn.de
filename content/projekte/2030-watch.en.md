@@ -1,9 +1,5 @@
 ---
 type: research
-kategorien:
-  - Open Government
-categories:
-  - Open Government
 layout: project
 title: 2030watch
 background: backgrounds/jugendhackt.jpg

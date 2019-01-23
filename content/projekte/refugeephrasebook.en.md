@@ -9,7 +9,7 @@ people:
   - name: Markus Neuschäfe
     role: Koordination
 financing:
-  - ehrenamtliches Projekt
+  -  volunteer project
 website: https://refugeephrasebook.de
 contact:
   twitter: info_rpb

@@ -1,10 +1,10 @@
 ---
-title: Einnahmen 2017
+title: Revenues 2017
 weight: 2
 ---
 
 
-Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Hand. Diese beziehen wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten. Einzelspenden entsprechen ca. 20% unserer Einnahmen. Akteure der Privatwirtschaft stellen aktuell 7% unserer Gelder bereit. Wir sind bestrebt, eine heterogene Förderung mit geringem Privatwirtschaftlichen Anteil beizubehalten, um die Unabhängigkeit unserer Arbeit zu gewährleisten.
+The majority (>85%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. Individual donations correspond to approximately 1% of our income. The private sector currently provides 4,74% of our funds. We strive our to maintain diverse funding streams with a small private sector share.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Übersicht</a>
@@ -20,7 +20,7 @@ Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Han
 <div class="js-incomes" id="income-services"><div class="income-services d3chart"></div></div>
 
 
-#### Durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit  beruhende Projekte
+#### Projects financed by individual donations or based on voluntary work
 
 <div class="l__finance__logos">
     <img src="/okf/finanzierung/fragdenstaat.png" alt="Frag Den Staat">
@@ -33,6 +33,4 @@ Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Han
     <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
 </div>
 
-Wir sowie unsere Community entwickelt digitale Bürgerbeteiligungs-Werkzeuge auf der Basis Offener Daten, um den öffentlichen Sektor gegenüber der Zivilgesellschaft zu öffnen. Diese Projekte entstehen aus einer lösungsorientierten und idealistischen Haltung und werden oft durch ehrenamtliche Tätigkeit initiiert.
-
-Einzelspenden ermöglichen die Verstetigung und inhaltliche Unabhängigkeit dieser gemeinnützigen Werkzeuge. Unterstützen Sie uns deshalb noch heute durch eine Spende!
+Our projects are often initiated by voluntary work and driven by passionate individuals. Individual donations make the continuity and independence of these tools for the public good possible. Help us by donating today!

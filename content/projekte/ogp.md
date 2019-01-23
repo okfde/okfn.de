@@ -31,7 +31,7 @@ Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung
 
 Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="rojektleiter Michael stellt das Netzwerk auf der re:publica vor" src="/files/projects/opengov_img_1.jpg">
   <img alt="Projektleiter Michael stellt das Netzwerk auf einem Kongress vor" src="/files/projects/opengov_img_2.jpg">
 </div>

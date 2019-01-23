@@ -4,8 +4,7 @@ title: Coding da Vinci
 subtitle: Der Kultur-Hackathon
 layout: project
 img: projects/codingdavinci.jpg
-img_square: projects/codeforde_square.jpg
-img_header: projects/codefor_Header.png
+img_header: projects/codingdavinci_Header.jpg
 website: https://codingdavinci.de
 years: 2014 - 2015
 video: "https://www.youtube.com/embed/i6bgXZH9CqY"

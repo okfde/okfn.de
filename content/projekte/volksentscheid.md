@@ -39,7 +39,7 @@ Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berli
 
 Das Transparenzgesetz verpflichtet Senat und Behörden für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, geheime Verträge mit Unternehmen, Gutachten z.B. zur Wasserqualität oder Entwicklung von Grundstückspreisen sowie Daten zu Aufträgen der öffentlichen Hand. Die Verwaltung muss nach unserem Gesetz diese Informationen zentral und kostenlos auf einer Online-Plattform zugänglich machen. 
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_1.jpg">
   <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_2.jpg">
 </div>

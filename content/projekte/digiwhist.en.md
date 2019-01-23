@@ -8,13 +8,6 @@ categories:
   - Open Government
 layout: project
 img_header: projects/digiwhist_Header.png
-people:
-  - name: Mara Mendes
-    role: Projektleitung
-  - name: Arne Semsrott
-    role: Projektleitung
-  - name: ​Andrej Sandorf
-    role: Entwicklung
 contact_person: arnesemsrott
 years: 2015 - 2017
 financing:

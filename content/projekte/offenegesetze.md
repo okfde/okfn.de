@@ -3,6 +3,7 @@ type: politics
 kategorien:
   - Offenes Regierungshandeln
   - Open Data
+  - Civic Tech
 title: "OffeneGesetze"
 tile: single
 layout: project

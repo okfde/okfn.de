@@ -10,8 +10,7 @@ categories:
   - open data
 layout: project
 img: projects/energyhack.jpg
-img_square: projects/datenmachenschule.png
-img_header: projects/codefor_Header.png
+img_header: projects/energyhack_Header.jpg
 people:
   - name: Martin Koll
     role: Projektleitung
@@ -30,7 +29,7 @@ Der Energyhack ist ein Hackathon rund um offene Energiedaten. Unser Energieangeb
 
 Entwicklerinnen, Designer, Forscherinnen und innovative Vordenker der Energiebranche entwickeln in 24h Ideen, entwerfen Hardware und Prototypen oder programmieren neue Apps. Als Datenbasis standen den Teilnehmerinnen die Daten aus dem Open Data Portal Netzdaten-Berlin zur Verfügung.
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Bild vom Event" src="/files/projects/energyhack_img_1.jpg">
   <img alt="Bild vom Event" src="/files/projects/energyhack_img_2.jpg">
 </div>

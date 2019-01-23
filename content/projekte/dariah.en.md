@@ -10,7 +10,7 @@ layout: project
 img: projects/dariah.jpg
 website: https://de.dariah.eu
 people:
-  - name: Markus Neusch&auml;fer
+  - name: Markus Neuschäfer
     role: Projektleitung
 contact:
   website: http://de.dariah.eu

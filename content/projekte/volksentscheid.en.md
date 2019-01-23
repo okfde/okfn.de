@@ -38,7 +38,7 @@ In the Berlin coalition agreement, the governing parties agreed to further devel
 
 The Transparency Act obliges the Senate and the authorities to disclose important information to the public. This includes Senate resolutions, secret contracts with companies, expert opinions, e.g. on water quality or the development of land prices, as well as data on public contracts. According to our law, the administration must make this information available centrally and free of charge on an online platform.
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_1.jpg">
   <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_2.jpg">
 </div> 

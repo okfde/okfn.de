@@ -1,11 +1,11 @@
 ---
-title: Ausgaben 2017
+title: Expenses 2017
 weight: 3
 data: path/to/data.csv
 ---
 
-Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden für die Durchführung von Projekten und die Organisation von Veranstaltungen. Neben den projektgebundenen Ausgaben versuchen wir die Fixkosten relativ niedrig zu halten. Derzeit bestehen diese aus der Miete und Unterhalt für das Berliner Büro sowie Serverkosten.
+Most costs are linked to the implementation of projects and the organization of events. We try to keep fixed costs (non project-related expenditure) low. Rent, ancillary costs for the Berlin office and server expenses represent the majority of such costs. 
 
 <div class="ausgaben"></div>
 
-Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Wir beschäftigen zur Zeit Personen im Umfang von ca. 18,5 Vollzeitäquivalenten.
+We currently employ around 18.5 full-time equivalent staff.

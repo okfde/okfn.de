@@ -4,8 +4,8 @@ weight: 3
 data: path/to/data.csv
 ---
 
-Der größte Teil der finanziellen Zuwendungen und Umsätze ist Zweckgebunden für die Durchführung von Projekten und die Organisation von Veranstaltungen. Neben den projektgebundenen Ausgaben versuchen wir die Fixkosten relativ niedrig zu halten. Derzeit bestehen diese aus der Miete und Unterhalt für das Berliner Büro sowie Serverkosten.
+Der größte Teil der finanziellen Zuwendungen und Umsätze ist an die Durchführung von konkreten Projekten und an die Organisation von Veranstaltungen gebunden. Neben den projektgebundenen Ausgaben versuchen wir, die Fixkosten gering zu halten. Derzeit setzen sie sich zusammen aus Miete und Nebenkosten für das Berliner Büro, die Ausgaben für unsere Buchhaltung, die Leitung unserer Organisation sowie Serverkosten.
 
 <div class="ausgaben"></div>
 
-Der größte Posten bei den Ausgaben waren Aufwendungen für die Organisation und Durchführung von Projekten und Veranstaltungen sowie Gehälter und Honorare. Wir beschäftigen zur Zeit Personen im Umfang von ca. 18,5 Vollzeitäquivalenten.
+Der größte Posten bei den Ausgaben sind materielle Aufwendungen für die Planung und Durchführung von Projekten und Veranstaltungen sowie unsere Gehälter. Die Anzahl unserer Beschäftigten entspricht derzeit ca. 18,5 Vollzeitäquivalenten.

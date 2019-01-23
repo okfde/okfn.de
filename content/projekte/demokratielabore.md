@@ -58,7 +58,7 @@ Wie können wir Kinder und Jugendliche heute befähigen, zu Gestaltenden unserer
 
 Um diese und andere Fragen zu beantworten, haben wir mit den Demokratielaboren verschiedene Workshopformate und Materialien entwickelt, um einer breiten Zielgruppe von Kindern und Jugendlichen zu Selbstwirksamkeitserfahrungen im Bereich von Demokratie und Technologie zu verhelfen. Die Formate sind für unterschiedliche Zielgruppen der außerschulischen Jugendbildung konzipiert. Einerseits ermöglichen sie Workshopleitenden die Vermittlung von Themen wie Cybermobbing, Fake News, Populismus, Stadtgestaltung, Datenschutz, Influencing, Diversität und Meinungsäußerung. Andererseits wurden Selbstlernmaterialien entwickelt, mit deren Hilfe Jugendliche sich eigenständig gesellschaftliche Themen und digitale Tools erarbeiten können, um eigene Projekte umzusetzen. Zusätzlich haben wir mit der Datenschule Fachkräfte-Schulungen durchgeführt, um die Chancen der Digitalisierung auch in der alltäglichen außerschulischen Jugendarbeit nutzbar zu machen.
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
 <img alt="Bild vom Event" src="/files/projects/demokratielabore_img_1.jpg">
 <img alt="Bild vom Event" src="/files/projects/demokratielabore_img_2.jpg">
 </div>

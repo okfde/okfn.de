@@ -61,7 +61,7 @@ Seit 2013 veranstalten wir Jugend hackt in Zusammenarbeit mit mediale pfade.org 
 
 
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_1.jpg">
   <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_2.jpg">
 </div>

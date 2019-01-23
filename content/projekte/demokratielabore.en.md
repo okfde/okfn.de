@@ -45,7 +45,7 @@ How can we empower children and young people today to become the shapers of tomo
 In order to answer these and other questions, we have developed various workshop formats and materials with the democracy laboratories in order to help a broad target group of children and young people to experience self-efficacy in the field of democracy and technology. The formats are designed for different target groups of extracurricular youth education. On the one hand, they enable workshop leaders to communicate topics such as cyberbullying, fake news, populism, urban design, data protection, influencing, diversity and expression of opinion. On the other hand, self-learning materials were developed with the help of which young people can independently develop social topics and digital tools to implement their own projects. In addition, we have carried out training courses for specialists with the data school in order to make use of the opportunities of digitisation in everyday extracurricular youth work.
 
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
 <img alt="Image of Event" src="/files/projects/demokratielabore_img_1.jpg">
 <img alt="Image of Event" src="/files/projects/demokratielabore_img_2.jpg">
 </div>

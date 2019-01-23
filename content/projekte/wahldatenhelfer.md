@@ -6,9 +6,6 @@ subtitle: Der HackDay zum Wahlabend
 img: projects/wahldatenhelfer.jpg
 website: http://www.wahldatenhelfer.de
 layout: project
-people:
-  - name: Julia Kloiber
-    role: Projektleitung
 contact:
    website: https://www.wahldatenhelfer.de
    twitter: WahlDatenHelfer

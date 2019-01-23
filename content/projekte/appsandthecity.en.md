@@ -9,15 +9,10 @@ website: https://appsandthecity.net
 img: projects/appsandthecity.jpg
 img_header: projects/Apssandthecity_Header.png
 layout: project
-people:
-  - name: Julia Kloiber
-    role: Projektleitung
 years: 2012
 partners:
   - BVG
   - VBB
-financing:
-  - ...
 contact:
  twitter: appsandthecity
 ---

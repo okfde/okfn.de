@@ -42,32 +42,30 @@
       <div class="row">
         <aside class="order-2 col col-12 col-sm-10 col-md-3 col-lg-2 offset-lg-1">
           {{ with .Params.years }}
-          <p>{{ i18n "project_year" }}<br>{{ . }}</p>
+          <p><span class="bold">{{ i18n "project_year" }}</span><br>{{ . }}</p>
           {{ end }}
           {{ with .Params.people }}
-          <p>Team<br>
+          <p><span class="bold">Team</span><br>
             <!--{{ len . }} {{ i18n "project_person" }} <button>+</button>-->
-            <div>
             {{ range . }}
             {{ .name }}<br>
               {{ end }}
-            </div>
           </p>
           {{ end }}
-          {{ with .Params.partners }}<p>Partner<br>
+          {{ with .Params.partners }}<p><span class="bold">Partner</span><br>
             {{ range . }}
             {{ . }}<br>
             {{ end }}
           </p>{{ end }}
 
           {{ with .Params.financing }}
-          <p>{{ i18n "project_financing" }}<br>
+          <p><span class="bold">{{ i18n "project_financing" }}</span><br>
             {{ range $k, $v := . }}{{ if ne $k 0 }},{{ end }} {{ . }}{{ end }}
           </p>
           {{ end }}
 
           {{ with .Params.website}}
-          <p>Website<br><a href="{{.}}">{{ strings.TrimPrefix "https://" . }} {{ readFile "static/files/icons/arrow_up.svg" | safeHTML }}</a></p>
+          <p><span class="bold">Website</span><br><a href="{{.}}">{{ strings.TrimPrefix "https://" . }} {{ readFile "static/files/icons/arrow_up.svg" | safeHTML }}</a></p>
           {{ end }}
 
         </aside>

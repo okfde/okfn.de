@@ -19,7 +19,7 @@ metainfo_text: "Mit unserem aktuellen <a href='/files/documents/Freistellungsbes
 
 ### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. 
 
-Mit unserem [aktuellen Freistellungsbescheid](https://okfn.de/files/verein/Freistellungsbescheid-21-08-2017.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem **[Vereinfachten Zuwendungsnachweis](https://okfn.de/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).**
+Mit unserem [aktuellen Freistellungsbescheid](https://okfn.de/files/verein/Freistellungsbescheid-21-08-2017.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten Zuwendungsnachweis](https://okfn.de/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
 
 Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
 

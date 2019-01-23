@@ -1,5 +1,5 @@
 ---
-title: Offene Daten (Open Data)
+title: Offene Daten
 project_tag: Open Data
 weight: 1
 img: /okf/themen/opendata.png
@@ -14,7 +14,7 @@ Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbr
 
 <!--more-->
 
-Die wichtigsten Eigenschaften offener Daten sind: 
+## Die wichtigsten Eigenschaften offener Daten sind: 
 
 * Verfügbarkeit und Zugang: Die Daten sollen als Ganzes verfügbar sein, zu Kosten, die nicht höher als die Reproduktionskosten sind, vorzugsweise zum gebührenfreien Download im Internet. Die Daten sollen ebenso in einer zweckmäßigen und modifizierbaren Form verfügbar sein.
 
@@ -24,7 +24,7 @@ Die wichtigsten Eigenschaften offener Daten sind:
 
 **[Hier geht es zur ausführlichen Definition von offenem Wissen („Open Definition")](http://opendefinition.org/okd/deutsch/)**.
 
-**Welche Arten von offenen Daten gibt es?**
+## Welche Arten von offenen Daten gibt es?
 
 Es gibt eine Vielzahl von gesellschaftlichen Bereichen, in denen Personen und Organisationen Daten sammeln. Beispielsweise: 
 
@@ -42,15 +42,15 @@ Es gibt eine Vielzahl von gesellschaftlichen Bereichen, in denen Personen und Or
 
 * Wissenschaftliche Daten entstehen innerhalb einer wissenschaftlichen Forschung, von Astronomie bis Zoologie.
 
-**Wozu überhaupt Daten öffnen?**
+## Wozu überhaupt Daten öffnen?
 
-In einer gut funktionierenden demokratischen Gesellschaft müssen die Bürgerinnen und Bürger wissen, was ihre Regierung tut. Um das zu gewährleisten, sind Transparenz und demokratische Kontrolle notwendige Voraussetzungen, ebenso der freie Zugang zu staatlichen Daten und die Möglichkeit, diese Informationen mit anderen Bürger*innen zu teilen. Im digitalen Zeitalter sind Daten die Schlüsselressourcen für gesellschaftliche und wirtschaftliche Aktivitäten. Durch die Öffnung von Daten können Regierungen dabei helfen, die Gründung von Unternehmen und Dienstleistungen voranzutreiben, die **gesellschaftlichen und wirtschaftlichen Mehrwert**schaffen können. Die Öffnung von Daten verbessert politische Partizipationsmöglichkeiten und erleichtert es, Bürger*innen in die politische Entscheidungsfindung informiert einzubeziehen. 
+In einer gut funktionierenden demokratischen Gesellschaft müssen die Bürgerinnen und Bürger wissen, was ihre Regierung tut. Um das zu gewährleisten, sind Transparenz und demokratische Kontrolle notwendige Voraussetzungen, ebenso der freie Zugang zu staatlichen Daten und die Möglichkeit, diese Informationen mit anderen Bürger*innen zu teilen. Im digitalen Zeitalter sind Daten die Schlüsselressourcen für gesellschaftliche und wirtschaftliche Aktivitäten. Durch die Öffnung von Daten können Regierungen dabei helfen, die Gründung von Unternehmen und Dienstleistungen voranzutreiben, die gesellschaftlichen und wirtschaftlichen Mehrwert schaffen können. Die Öffnung von Daten verbessert politische Partizipationsmöglichkeiten und erleichtert es, Bürger*innen in die politische Entscheidungsfindung informiert einzubeziehen. 
 
-**Wie können Daten geöffnet werden?**
+## Wie können Daten geöffnet werden?
 
-Detaillierte praktischen Ratschläge, die erklären, wie man Daten öffnen kann, finden sich im **[Open Data Handbuch](http://opendatahandbook.org/de/how-to-open-up-data/index.html)**. Das Handbuch behandelt rechtliche, soziale und technische Aspekte der Öffnung von Daten.
+Detaillierte praktischen Ratschläge, die erklären, wie man Daten öffnen kann, finden sich im [Open Data Handbuch](http://opendatahandbook.org/de/how-to-open-up-data/index.html). Das Handbuch behandelt rechtliche, soziale und technische Aspekte der Öffnung von Daten.
 
-**Links**
+## Weitere Informationen
 
 * [Open Data erfolgreich umsetzen: 10 Praxistipps der Berliner Open Data Informationsstelle (ODIS)](https://www.verwaltung-der-zukunft.org/transformation/open-data-erfolgreich-umsetzen)
 * [Öffentliche Daten nicht verhökern, sondern sinnvoll nutzen (OKF DE Blog)](https://okfn.de/blog/2018/04/Oeffentliche-Daten-nicht-verhoekern-sondern-sinnvoll-nutzen/)
@@ -58,4 +58,4 @@ Detaillierte praktischen Ratschläge, die erklären, wie man Daten öffnen kann,
 * [Open Data. The Benefits. Das Volkswirtschaftliche Potential für Deutschland](https://www.kas.de/einzeltitel/-/content/open-data.-the-benefits1)
 * [Impact von Open Data anhand von Case Studies (Englisch): Open Data is Changing the World in Four Ways (GovLab)](http://odimpact.org/)
 
-### Verwandte Projekte 
+## Verwandte Projekte 

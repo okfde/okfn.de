@@ -12,7 +12,7 @@ Open data is data that can be freely used, re-used and re-distributed by anyone 
 
 <!--more-->
 
-The most important characteristics of open data are: 
+## The most important characteristics of open data are: 
 
 * Availability and access: Data should be available as a whole, at a cost no higher than the cost of reproduction, preferably as a free download on the Internet. The work should also be available in an appropriate and modifiable form.
 
@@ -20,9 +20,9 @@ The most important characteristics of open data are:
 
 * Universal participation: Everyone must be able to use, re-use and re-distribute the data. There must be no discrimination against any persons or groups. The subsequent use may not be limited to individual areas (e.g. only for educational purposes), nor may certain types of use (e.g. for commercial purposes) be excluded.
 
-A detailed definition of open knowledge: "[Open Definition](https://opendefinition.org/)".
+A detailed definition of open knowledge: '[Open Definition](https://opendefinition.org/)'.
 
-**What types of open data are there?**
+## What types of open data are there?
 
 There are a large number of social areas in which individuals and organisations collect data, for example: 
 
@@ -40,17 +40,17 @@ There are a large number of social areas in which individuals and organisations 
 
 * Scientific data are created within a scientific research area, from astronomy to zoology.
 
-**Why open up data at all?**
+## Why open up data at all? 
 
 In a well-functioning, democratic society citizens need to know what their government is doing. To ensure this, transparency and democratic control, as well as free access to government data and information in addition to the ability to share this information with other citizens are needed. In the digital age, data is the key resource for social and economic activities. By opening up data, governments can help drive the creation of innovative businesses and services that can create social and economic value. The opening of data improves policy participation opportunities and facilitates informed involvement of citizens in policy making. 
 
-**How can data be opened?**
+## How can data be opened? 
 
 Detailed, practical advice on how to open data can be found in the [Open Data Handbook](http://opendatahandbook.org/). The handbook deals with legal, social and technical aspects of opening data.
 
  
 
-**Links**
+## Further information
 
 * [Open Data erfolgreich umsetzen: 10 Praxistipps der Berliner Open Data Informationsstelle (ODIS)](https://www.verwaltung-der-zukunft.org/transformation/open-data-erfolgreich-umsetzen)
 * [Öffentliche Daten nicht verhökern, sondern sinnvoll nutzen (OKF DE Blog)](https://okfn.de/blog/2018/04/Oeffentliche-Daten-nicht-verhoekern-sondern-sinnvoll-nutzen/)
@@ -59,4 +59,4 @@ Detailed, practical advice on how to open data can be found in the [Open Data Ha
 * [Impact von Open Data anhand von Case Studies (Englisch): Open Data is Changing the World in Four Ways (GovLab)](http://odimpact.org/)
 
 
-### Related Projects
+## Related Projects

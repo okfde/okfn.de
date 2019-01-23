@@ -19,9 +19,14 @@
   margin-top: $space /2
   a
     margin-right: 5px
+    padding-bottom: 1px
+    border-bottom: 2px solid transparent
+    transition: all 100ms ease-in-out
     &:hover,
     &:active
-      border-bottom: 1px solid currentColor
+      color: $anchor
+      padding-bottom: 1px
+      border-bottom: 2px solid $anchor
       text-decoration: none
 
 .l__team__meta

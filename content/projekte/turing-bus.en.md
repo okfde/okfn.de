@@ -33,7 +33,7 @@ The Turing Bus is a mobile educational project for schools and youth clubs in ru
 
 The bus wants to explore, discuss and critically question the role of digitisation and technology for profession and society with workshops, lectures and hands-on sessions. The target group of the project are young people between the ages of 15 and 20. 
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Image of event" src="/files/projects/turingbus_img_1.jpg">
   <img alt="Image of event" src="/files/projects/turingbus_img_2.jpg">
 </div>

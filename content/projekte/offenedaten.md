@@ -5,11 +5,6 @@ website: https://offenedaten.de
 img: projects/offenedaten.jpg
 layout: project
 years: 2011 - 2012
-people:
-- name: Daniel Dietrich
-  role: Projektleitung
-- name: Christian Heise
-  role: Projektberater
 financing:
   - ehrenamtliches Projekt
 website: https://offenedaten.de/

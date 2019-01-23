@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Hand. Diese beziehen wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten. Einzelspenden entsprechen ca. 20% unserer Einnahmen. Akteure der Privatwirtschaft stellen aktuell 7% unserer Gelder bereit. Wir sind bestrebt, eine heterogene Förderung mit geringem Privatwirtschaftlichen Anteil beizubehalten, um die Unabhängigkeit unserer Arbeit zu gewährleisten.
+Der Großteil (>85%) unserer Einnahmen sind Gelder aus öffentlicher Hand, die wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten erhalten. Unsere Einzelspenden entsprechen ca. 1% unserer Einnahmen. Akteure der Privatwirtschaft steuern aktuell unter 4.74% unserer Gelder bei. Diese heterogene Förderung mit geringem privatwirtschaftlichen Anteil wollen wir auch weiterhin beibehalten.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Übersicht</a>
@@ -20,7 +20,7 @@ Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Han
 <div class="js-incomes" id="income-services"><div class="income-services d3chart"></div></div>
 
 
-#### Durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit  beruhende Projekte
+#### Durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit beruhende Projekte
 
 <div class="l__finance__logos">
     <img src="/okf/finanzierung/fragdenstaat.png" alt="Frag Den Staat">
@@ -33,6 +33,7 @@ Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Han
     <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
 </div>
 
-Wir sowie unsere Community entwickelt digitale Bürgerbeteiligungs-Werkzeuge auf der Basis Offener Daten, um den öffentlichen Sektor gegenüber der Zivilgesellschaft zu öffnen. Diese Projekte entstehen aus einer lösungsorientierten und idealistischen Haltung und werden oft durch ehrenamtliche Tätigkeit initiiert.
+Unsere Projekte entstehen aus einer lösungsorientierten und idealistischen Haltung und werden oft durch ehrenamtliche Tätigkeit initiiert. 
 
-Einzelspenden ermöglichen die Verstetigung und inhaltliche Unabhängigkeit dieser gemeinnützigen Werkzeuge. Unterstützen Sie uns deshalb noch heute durch eine Spende!
+Einzelspenden ermöglichen die Verstetigung und inhaltliche Unabhängigkeit dieser gemeinnützigen Werkzeuge. Unterstütze uns deshalb noch heute mit einer Spende! 
+

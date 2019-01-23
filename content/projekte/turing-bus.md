@@ -33,7 +33,7 @@ Der Turing-Bus ist ein mobiles Bildungsangebot für Schulen und Jugendclubs im l
 
 Der Bus möchte die Rolle von Digitalisierung und Technologie für Beruf und Gesellschaft mit Workshops, Vorträgen und Hands-on-Sessions ergründen, diskutieren und kritisch hinterfragen. Die Zielgruppe des Projektes sind Jugendliche und junge Erwachsene im Alter zwischen 15 und 20 Jahren. 
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Bild vom Event" src="/files/projects/turingbus_img_1.jpg">
   <img alt="Bild vom Event" src="/files/projects/turingbus_img_2.jpg">
 </div>

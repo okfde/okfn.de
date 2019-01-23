@@ -1,8 +1,9 @@
 ---
 type: politics
 kategorien:
-  - Offenes Regierungshandeln
+  - Open Government
   - Open Data
+  - Civic Tech
 categories:
   - Open Government
   - Open Data

@@ -36,7 +36,7 @@ We want non-profit organizations:
 + to enable people to participate in evidence-based public debates with data-supported projects.
 
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Picture of the event" src="/files/projects/datenschule_img_1.jpg">
   <img alt="Picture of the event" src="/files/projects/datenschule_img_2.jpg">
 </div>

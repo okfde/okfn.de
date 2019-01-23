@@ -1,10 +1,9 @@
 ---
-title: Entwicklung der Gesamteinnahmen
+title: Development of total revenue
 weight: 1
 data: path/to/data.csv
 ---
 
 <div class="entwicklung"></div>
 
-Der Großteil (>70%) unserer Einnahmen besteht aus Geldern aus öffentlicher Hand. Diese beziehen wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten. Einzelspenden entsprechen ca. 20% unserer Einnahmen. Akteure der Privatwirtschaft stellen aktuell 7% unserer Gelder bereit. Wir sind bestrebt, eine heterogene Förderung mit geringem Privatwirtschaftlichen Anteil beizubehalten, um die Unabhängigkeit unserer Arbeit zu gewährleisten.
-<p class="h4">{{ .Params.subtitle}}</p>
+The majority (>85%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. Individual donations correspond to approximately 1% of our income. The private sector currently provides 4,74% of our funds. We strive our to maintain diverse funding streams with a small private sector share.

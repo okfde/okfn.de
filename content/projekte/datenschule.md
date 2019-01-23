@@ -38,7 +38,7 @@ und Organisationsentwicklung aktiv zu nutzen.
 + dazu befähigen, mit datengestützten Projekten öffentliche Debatten evidenz-basiert mitzugestalten.
 
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <img alt="Bild vom Event" src="/files/projects/datenschule_img_1.jpg">
   <img alt="Bild vom Event" src="/files/projects/datenschule_img_2.jpg">
 </div>

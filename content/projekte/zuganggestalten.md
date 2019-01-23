@@ -3,9 +3,6 @@ type: archive
 title: Zugang gestalten
 website: http://www.zugang-gestalten.de/
 img: projects/zuganggestalten.jpg
-people:
-  - name: Helene Hahn
-    role: Projektleitung
 date: 2014 
 financing:
   - Spenden
