@@ -37,7 +37,10 @@
 
 
 .l__home__donate__img
-  width: 100%
+  text-align: center
+  @include media-breakpoint-up(lg)
+    img
+      width: 100%
 
 @include media-breakpoint-up(lg)
   .l__home__donate
@@ -47,8 +50,9 @@
     margin-bottom: 240px
 
   .l__home__donate__img
-    position: absolute
-    top: -16em
+    img
+      position: absolute
+      top: -16em
 
 @include media-breakpoint-down(xs)
   .l__home
