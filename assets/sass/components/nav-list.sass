@@ -39,6 +39,10 @@
 
 .c__nav-list--top
   align-items: end
+  @include media-breakpoint-down(md)
+    text-align: right
+    .c__donate-btn
+      float: right
   @include media-breakpoint-up(md)
     flex-direction: row
     line-height: 5
