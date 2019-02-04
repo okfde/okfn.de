@@ -22,6 +22,8 @@
   translation: "Suche schließen"
 - id: search_field_label
   translation: "Suchfeld"
+- id: search_field_placeholder
+  translation: "Wonach suchst Du?"
 - id: projects
   translation: "Projekte"
 - id: projects_all

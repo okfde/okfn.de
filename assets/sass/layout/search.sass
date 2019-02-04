@@ -12,24 +12,23 @@
     display: block
 
 .l__search__input
-  font-size: 3em
+  flex: 1
+  width: 75%
+  margin-right: 1rem
   font-weight: 500
   border: none
+  border-bottom: 2px solid #000
   background-color: #fff
   color: #000
   padding: 0
-  -webkit-box-flex: 1
-  -ms-flex: 1
-  flex: 1
-  margin-right: 1rem
+  font-size: 1.7em
+  line-height: 1.8
   &:focus
-    //outline: $anchor 1px solid
-  @include media-breakpoint-up(md)
-    width: 84%
+    border-color: $anchor
   @include media-breakpoint-up(lg)
-    width: 88%
-  @include media-breakpoint-up(xl)
-    width: 90%
+    width: 84%
+    font-size: 3em
+    line-height: 1.2
 
 .l__search__results
   margin-top: $space-double
@@ -70,13 +69,14 @@
 
 .l__search__close
   display: inline-block
-  width: 4rem
-  height: 4.5rem
+  width: 1.5em
+  height: 3.5rem
   vertical-align: top
   font-size: 2em
   color: black
   border: none
   background: white
+  cursor: pointer
   &:focus
     outline: $anchor 1px solid
 

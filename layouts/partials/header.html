@@ -37,8 +37,6 @@
         </li>
         {{ with .Site.GetPage "/spenden" }}<li class="c__donate-btn"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
-
-      {{- partial "site-search" . -}}
     </div>
   </div>
 </header>
