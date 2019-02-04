@@ -62,3 +62,11 @@
   translation: "Some Text"
 - id: phineo_link
   translation: "More about Phineo"
+- id: blog_search_js
+  translation: "You need JavaScript to use the blog search."
+- id: blog_search_label
+  translation: "Search for"
+- id: share
+  translation: "Share"
+- id: recommended_post
+  translation: "We can recommend this post as well"

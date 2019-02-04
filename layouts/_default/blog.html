@@ -22,7 +22,7 @@
     <div class="row align-items-end">
       <h1 class="col col-5 col-sm-9 col-lg-10">{{ .Title }}</h1>
       <div class="l__blog__search col col-7 col-sm-3 col-lg-2">
-        <noscript>Für die Blogsuche wird JavaScript benötigt.</noscript>
+        <noscript>{{ i18n "blog_search_js" }}</noscript>
         <label class="sr-only" for="js-blog-search-input">{{ i18n "blog_search" }}</label>
         <input id="js-blog-search-input" type="text" value="" placeholder="durchsuchen">
       </div>
@@ -32,7 +32,7 @@
   <div id="js-blog-search-overlay" class="l__blog__search__results container">
     <div class="row no-gutters">
       <h2 class="l__blog__search__term col col-12">
-        Suche nach: <span id="js-search-term">term</span>
+        {{ i18n "blog_seach_label" }}: <span id="js-search-term">term</span>
         <button id="js-blog-search-clear" title='{{ i18n "search_close"}}' class="l__blog__search__clear" type="button" tabindex>
         {{ readFile "static/files/icons/close.svg" | safeHTML }}</button></h2>
       <ul id="js-blog-search-results" class="col col-12"></ul>

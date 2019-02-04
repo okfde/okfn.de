@@ -66,3 +66,11 @@
   translation: "Mehr ueber Phineo"
 - id: mehr_erfahren
   translation: "Want to know more?"
+- id: blog_search_js
+  translation: "Für die Blogsuche wird JavaScript benötigt."
+- id: blog_search_label
+  translation: "Suche nach"
+- id: share
+  translation: "Teilen"
+- id: recommended_post
+  translation: "Von uns für dich empfohlen"

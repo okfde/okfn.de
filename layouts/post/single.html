@@ -41,6 +41,14 @@
         </div>
       </div>
     </div>
+    {{ else }}
+    <div class="container c__post__image--regular">
+      <div class="row">
+        <div class="col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">
+          <img src="{{.Params.image.src}}" alt="{{.Params.image.title}}">
+        </div>
+      </div>
+    </div>
     {{ end }}
 
     <div class="container">
@@ -72,7 +80,7 @@
       <div class="row">
         <div class="col col-12 col-md-6 offset-md-1">
           <p>
-            Teilen:
+            {{ i18n "share" }}:
             <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
             <a href="https://facebook.com/sharer.php?u={{ .Permalink }}" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
           </p>
@@ -84,7 +92,7 @@
     <div class="row">
       {{ $related := .Site.RegularPages.Related . | first 1 }}
       {{ with $related }}
-      <h3 class="text col col-12 col-md-12">Von uns für dich empfohlen</h3>
+      <h3 class="text col col-12 col-md-12">{{ i18n "recommended_post" }}</h3>
       <ul class="col col-12 col-md-10">
         {{ range . }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
