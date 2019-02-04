@@ -1,15 +1,18 @@
 .l__home
+  @include media-breakpoint-down(sm)
+    .mt-l
+      margin-top: 80px
+    .mb-l
+      margin-bottom: 80px
   .container
     max-width: $max-width
     margin-left: auto
     margin-right: auto
-
     h1
-      font-size: 5.25rem
-
-    @include media-breakpoint-down(xs)
-      h1
-        font-size: 3.25rem
+      @include media-breakpoint-up(sm)
+        font-size: 4rem
+      @include media-breakpoint-up(lg)
+        font-size: 5.2rem
         line-height: 1.2
 
 
@@ -54,4 +57,3 @@
           padding: 0
           &:first-child
             margin-top: 1.15em
-
