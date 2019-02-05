@@ -15,36 +15,35 @@
   &:active
     text-decoration: none
     .c__tile__overlay
+      display: block
       animation: tileFadeIn 200ms 1
       animation-fill-mode: forwards
 
 .c__tile--double
   height: 500px
 
-.c__tile__title
-  position: relative
-  z-index: 4
-
 .c__tile__overlay
+  display: none
   position: absolute
   width: 100%
   height: 100%
-  padding: 0.3rem 1.2rem
+  padding: 0.8rem 1.2rem
   background: #121645
   top: 0
   left: 0
   z-index: 2
-  opacity: 0
+  background-color: rgba(#121645, 0)
   webkit-transition: 0.2s ease-in-out
   transition: 0.2s ease-in-out
-  p
+  .c__tile__title,
+  .c__tile__subtitle
     position: relative
-    top: 2.7em
-    font-weight: 400
     color: $greyish
+  .c__tile__subtitle
+    margin-top: .8em
 
 @keyframes tileFadeIn
   0%
-    opacity: 0
+    background-color: rgba(#121645, 0)
   100%
-    opacity: 0.8
+    background-color: rgba(#121645, 0.8)

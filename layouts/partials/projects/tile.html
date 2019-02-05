@@ -8,7 +8,8 @@
   <a href="{{.Permalink}}" class="c__tile {{with .Params.tile}}c__tile--{{.}}{{end}}" style="background-image: url(/files/{{.Params.img}})">
     <h2 class="h3 c__tile__title">{{.Title}}</h2>
     <div class="c__tile__overlay">
-      {{ with .Params.subtitle}}<p>{{.}}</p>{{ end }}
+      <h2 class="h3 c__tile__title">{{.Title}}</h2>
+      {{ with .Params.subtitle}}<p class="c__tile__subtitle">{{.}}</p>{{ end }}
     </div>
   </a>
 </li>
