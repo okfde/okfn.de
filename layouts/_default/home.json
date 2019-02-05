@@ -8,7 +8,7 @@
        "title": {{ $page.Title | jsonify}},
        "section": "{{ .Section }}",
        "date": "{{ $page.Date }}",
-       {{ if isset $page.Params "img" }}
+       {{ if and (isset $page.Params "img") (eq .Section "projekte") }}
        "img": "{{ $page.Params.img }}",
        {{ end }}
        "content": {{ $page.PlainWords | jsonify }}

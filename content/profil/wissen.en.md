@@ -6,7 +6,7 @@ img:
   -
     url: /okf/profil/03.jpg
     license: >
-        Foto: <a href="http://tnt-fotoart.de">Thomas Nitz</a>, <a href="https://www.flickr.com/photos/okfde/28069699487/in/album-72157696546500561/">Demokratielabore - Data Expedition</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
+        Foto: <a href='//tnt-fotoart.de'>Thomas Nitz</a>, <a href='https://www.flickr.com/photos/okfde/28069699487/in/album-72157696546500561/'>Demokratielabore - Data Expedition</a>, <a href='https://creativecommons.org/licenses/by/4.0/'>CC-BY 4.0</a>
 
 arrange: img_right
 ---
