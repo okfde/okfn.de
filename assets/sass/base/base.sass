@@ -64,3 +64,24 @@ a
 
 .bold
   font-weight: 500
+
+figure.license
+  position: relative
+  figcaption
+    position: absolute
+    bottom: 11px
+    right: 8px
+    color: white
+    background-color: rgba($black, 0.7)
+    padding: 0 .3em
+    font-size: 10px
+    //max-width: 200px
+    opacity: 0
+    transition: opacity 100ms ease
+  a
+    text-decoration: underline
+    color: white
+  &:hover,
+  &:active
+    figcaption
+      opacity: 1
