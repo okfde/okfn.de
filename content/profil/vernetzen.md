@@ -3,8 +3,12 @@ title: Wir vernetzen Menschen, die an Projekten für eine offene und gerechte Ge
 weight: 5
 
 img:
-  - /okf/profil/04.jpg
-  - /okf/profil/05.jpg
+  -
+    url: /okf/profil/04.jpg
+    license: CC BY
+  -
+    url: /okf/profil/05.jpg
+    license: CC BY
 
 arrange: img_bottom
 ---
