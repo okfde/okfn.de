@@ -5,7 +5,8 @@ weight: 1
 img:
   -
     url: /okf/profil/01.jpg
-    license: 'Foto: <a href="http://tnt-fotoart.de">Thomas Nitz</a>, <a href="https://www.flickr.com/photos/okfde/28768630798/in/album-72157667831731487/">Eliza meets Tay: Debatten auf Twitter analysieren</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>'
+    license: >
+        Foto: <a href="http://tnt-fotoart.de">Thomas Nitz</a>, <a href="https://www.flickr.com/photos/okfde/28768630798/in/album-72157667831731487/">Eliza meets Tay: Debatten auf Twitter analysieren</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
 
   -
     url: /okf/profil/02.jpg
