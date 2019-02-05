@@ -59,8 +59,14 @@ To fill this gap, Open Knowledge Foundation Deutschland e.V., together with a me
 Since then, it has become a successful and well-established hackathon for young coders from all over Germany.
 
 <div class="two-img offset-lg-2">
-  <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_1.jpg">
-  <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_2.jpg">
+  <figure class="license">
+        <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_1.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
+    <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
 </div>
 
 Together with like-minded peers, participants use open data to work on prototypes, digital tools, and concepts in order to contribute to their vision of a better society.

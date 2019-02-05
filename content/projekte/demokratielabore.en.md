@@ -46,10 +46,15 @@ In order to answer these and other questions, we have developed various workshop
 
 
 <div class="two-img offset-lg-2">
-<img alt="Image of Event" src="/files/projects/demokratielabore_img_1.jpg">
-<img alt="Image of Event" src="/files/projects/demokratielabore_img_2.jpg">
+    <figure class="license">
+        <img alt="Bild vom Event" src="/files/projects/demokratielabore_img_1.jpg">
+        <figcaption>Foto: <a href="//tnt-fotoart.de">Thomas Nitz</a>, <a href="https://www.flickr.com/photos/okfde/42889539312/in/album-72157696546500561/">Demokratielabore - Data Expedition</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
+    </figure>
+    <figure class="license">
+        <img alt="Bild vom Event" src="/files/projects/demokratielabore_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
 </div>
 
 **Background** <br>
-The world of life and experience of young people in Germany has changed completely within a generation: The digital revolution encompasses all areas of public and private life, shapes our relationships and coexistence in our society. Although the spread of modern technologies and their consumption-oriented use for communication, information and entertainment is already well advanced, the shaping of society is lagging behind mechanisation. It is therefore our goal to reconquer the Internet as a positive creative space and to enable young people to experience self-efficacy experiences in the confrontation with digitality as well as democratic structures and processes. 
-
+The world of life and experience of young people in Germany has changed completely within a generation: The digital revolution encompasses all areas of public and private life, shapes our relationships and coexistence in our society. Although the spread of modern technologies and their consumption-oriented use for communication, information and entertainment is already well advanced, the shaping of society is lagging behind mechanisation. It is therefore our goal to reconquer the Internet as a positive creative space and to enable young people to experience self-efficacy experiences in the confrontation with digitality as well as democratic structures and processes.

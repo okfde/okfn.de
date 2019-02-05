@@ -2,10 +2,10 @@
 type: education
 kategorien:
   - Bildung
-  - Community  
+  - Community
 categories:
   - Education
-  - Community  
+  - Community
 tile: double
 layout: project
 weight: 6
@@ -62,8 +62,14 @@ Seit 2013 veranstalten wir Jugend hackt in Zusammenarbeit mit mediale pfade.org 
 
 
 <div class="two-img offset-lg-2">
-  <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_1.jpg">
-  <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_2.jpg">
+    <figure class="license">
+        <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_1.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
+    <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
 </div>
 
 2017 vergrößerte sich die Jugend hackt-Familie in Deutschland zudem um Events in Frankfurt am Main und Halle (Saale), 2018 um Schwerin und Heidelberg. Ebenfalls seit 2017 bietet unser Partner, die Fachstelle für Jugendmedienkultur in NRW, mit [Hello World](https://jugendhackt.org/helloworld/) Workshops für Programmier-Einsteiger\*innen an. Dort lernen Kinder und Jugendliche unter anderem spielerisch Programmiergrundlagen, löten oder 3D-drucken. 2018 gab es dieses Angebot dank Open Commons auch in Linz. 2019 startet unser neues Format „Jugend hackt Labs“ in Kooperation mit regionalen Partnern als regelmäßiges Vor-Ort-Angebot für Jugendliche.

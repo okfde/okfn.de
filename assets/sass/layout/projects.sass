@@ -130,20 +130,20 @@ $theight-large: 503px
 
 
 .two-img
+  img
+    width: 100%
   @include media-breakpoint-down(md)
     margin-top: 2em
-    img
-      width: 100%
   @include media-breakpoint-up(sm)
-    img:first-of-type
+    figure:first-of-type
       transform: translate(-2em, 0)
-    img:last-of-type
+    figure:last-of-type
       transform: translate(6em, -2em)
 
   @include media-breakpoint-up(lg)
-    img:first-of-type
+    figure:first-of-type
       max-width: 700px
       transform: translate(-9em, 5em)
-    img:last-of-type
+    figure:last-of-type
       max-width: 350px
       transform: translate(20em, -5em)
