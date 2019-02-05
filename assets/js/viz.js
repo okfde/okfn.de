@@ -118,12 +118,11 @@ function incomesHelper (containerSelector, dataPath, barHeight) {
     var sumAmount = d3.max(data, function (d) { return d.total });
     data = data.sort((a, b) => b.amount - a.amount);
     data = data.map(function (d) {
-      //d.percentage = (parseInt(d.amount, 10) / parseInt(sumAmount, 10) * 100).toFixed(2);
       d.percentage = (d.amount / sumAmount * 100).toFixed(2);
       return d;
     });
 
-    svg.append('svg:title').text("Aufschlüsselung der Einnahmen durch " + data[0].category);
+    svg.append('svg:title').text("Aufschlüsselung der Einnahmen nach " + data[0].category);
 
     var maxPercentage = d3.max(data, function (d, i) {
       return parseInt(d.percentage, 10);
