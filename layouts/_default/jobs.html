@@ -56,41 +56,62 @@
     <div class="row justify-content-between">
       {{with .Params.img_2 }}
       <div class="col col-12 col-sm-6 col-md-5 mt-l">
-        <img src="{{.}}" alt="">
+        <figure class="license">
+          <img src="{{.url}}" alt="">
+          <figcaption>{{ .license | safeHTML }}</figcaption>
+        </figure>
       </div>
       {{ end }}
       {{with .Params.img_1 }}
       <div class="col col-12 col-sm-6 col-md-5">
-        <img src="{{.}}" alt="">
+        <figure class="license">
+          <img src="{{.url}}" alt="">
+          <figcaption>{{ .license | safeHTML }}</figcaption>
+        </figure>
       </div>
       {{ end }}
     </div>
     <div class="row reverse justify-content-between mt-s">
       {{with .Params.img_4 }}
       <div class="col col-12 col-md-4 col-sm-5 align-self-end">
-        <img src="{{.}}" alt="">
+        <figure class="license">
+          <img src="{{.url}}" alt="">
+          <figcaption>{{ .license | safeHTML }}</figcaption>
+        </figure>
       </div>
       {{ end }}
       {{with .Params.img_3 }}
       <div class="col col-12 col-sm-7 col-md-8 mb-d">
-        <img src="{{.}}" alt="">
+        <figure class="license">
+          <img src="{{.url}}" alt="">
+          <figcaption>{{ .license | safeHTML }}</figcaption>
+        </figure>
       </div>
       {{ end }}
       {{with .Params.img_5 }}
       <div class="col col-12 col-sm-6 offset-sm-5 col-md-4 offset-md-6 mt-ns">
-        <img src="{{.}}" alt="">
+        <figure class="license">
+          <img src="{{.url}}" alt="">
+          <figcaption>{{ .license | safeHTML }}</figcaption>
+        </figure>
       </div>
       {{ end }}
     </div>
     <div class="row reverse justify-content-center">
       {{with .Params.img_6 }}
       <div class="col col-12 col-sm-7 col-md-5 mb-d">
-        <img src="{{.}}" alt="">
+        <figure class="license">
+          <img src="{{.url}}" alt="">
+          <figcaption>{{ .license | safeHTML }}</figcaption>
+        </figure>
       </div>
       {{ end }}
       {{with .Params.img_7 }}
       <div class="col col-12 col-sm-5 col-md-5 align-self-end">
-        <img src="{{.}}" alt="">
+        <figure class="license">
+          <img src="{{.url}}" alt="">
+          <figcaption>{{ .license | safeHTML }}</figcaption>
+        </figure>
       </div>
       {{ end }}
     </div>
