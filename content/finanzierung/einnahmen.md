@@ -33,7 +33,6 @@ Der Großteil (>85%) unserer Einnahmen sind Gelder aus öffentlicher Hand, die w
     <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
 </div>
 
-Unsere Projekte entstehen aus einer lösungsorientierten und idealistischen Haltung und werden oft durch ehrenamtliche Tätigkeit initiiert. 
+Unsere Projekte entstehen aus einer lösungsorientierten und idealistischen Haltung und werden oft durch ehrenamtliche Tätigkeit initiiert.
 
-Einzelspenden ermöglichen die Verstetigung und inhaltliche Unabhängigkeit dieser gemeinnützigen Werkzeuge. Unterstütze uns deshalb noch heute mit einer Spende! 
-
+Einzelspenden ermöglichen die Verstetigung und inhaltliche Unabhängigkeit dieser gemeinnützigen Werkzeuge. Unterstütze uns deshalb noch heute mit einer Spende!
