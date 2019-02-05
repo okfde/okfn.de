@@ -55,21 +55,13 @@
         <ul class="l__projects__list--home mb-l">
           {{ $lang := .Lang }}
           {{ range first 6 ( sort (where $.Site.RegularPages "Section" "projekte") "Weight" "desc") }}
-          <li class="col col-12 col-sm-6 col-md-4 l__projects__item">
+          <li class="col col-12 col-xs-6 col-md-4 l__projects__item">
             <a  href="{{.Permalink}}" class="c__tile c__tile--single" style="background-image: url(/files/{{.Params.img}})" title="{{.Title}}">
               <h2 class="h3 c__tile__title">{{.Title}}</h2>
               <div class="c__tile__overlay">
-                {{ if eq $lang "en" }}
-                {{ with .Params.en.subtitle }}
-                <p class="h4">{{ . }}</p>
-                {{ end }}
-                {{ end }}
-
-                {{ if eq $lang "de" }}
-                {{ with .Params.de.subtitle  }}
-                <p class="h4">{{ . }}</p>
-                {{ end }}
-                {{ end }}
+                <h2 class="h3 c__tile__title">{{.Title}}</h2>
+                {{ with .Params.subtitle}}<p class="c__tile__subtitle">{{.}}</p>{{ end }}
+              </div>
             </a>
           </li>
           {{ end }}

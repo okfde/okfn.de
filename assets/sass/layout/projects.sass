@@ -3,6 +3,9 @@
   max-width: $max-width
   margin-bottom: $space-double * 2
 
+$theight-small: 235px
+$theight-large: 503px
+
 .l__projects__item
   width: 100%
   margin-bottom: 30px
@@ -14,9 +17,9 @@
     width: 100%
     height: auto
   &.item--double
-    height: 500px
+    height: $theight-large
   &.item--single
-    height: 235px
+    height: $theight-small
 
 .l__project__other
   margin-bottom: $space-double * 2
@@ -25,15 +28,27 @@
 .l__projects__list--home
   width: 100%
   display: flex
-  flex-flow: column wrap
+  flex-flow: row wrap
+  li:nth-child(1),
+  li:nth-child(4),
+  li:nth-child(5)
+    .c__tile
+      height: $theight-large
   @include media-breakpoint-up(sm)
-    max-height: 800px
+    max-height: 1080px
+    flex-flow: column wrap
+    li:nth-child(4) // exception for this size
+      .c__tile
+        height: $theight-small
+
   @include media-breakpoint-up(md)
+    flex-flow: column wrap
+    max-height: 800px
     li:nth-child(1),
     li:nth-child(4),
     li:nth-child(5)
       .c__tile
-        height: 503px
+        height: $theight-large
   .l__projects__item
     margin-bottom: 0
 
