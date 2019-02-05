@@ -36,8 +36,14 @@ more_text: |-
 Code For Germany is a network of groups of volunteer volunteers (Labs) who use their skills to positively shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics and use their skills to improve communication between them and to provide the necessary impetus so that as many people as possible can benefit from the possibilities of open and free digitisation.
 
 <div class="two-img">
-  <img alt="Bild vom Event" src="/files/projects/codefor_img_1.jpg">
-  <img alt="Bild vom Event" src="/files/projects/codefor_img_2.jpg">
+  <figure class="license">
+        <img alt="Bild vom Event" src="/files/projects/codefor_img_1.jpg">
+        <figcaption>Foto:</figcaption>
+    </figure>
+    <figure class="license">
+        <img alt="Bild vom Event" src="/files/projects/codefor_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
 </div>
 
 Some cities already have Open Data programs and make data sets available openly, but in many cases there is still a lack of applications and examples that demonstrate the practical use of open data - this is exactly where Code for Germany comes into play. In addition to software projects, "Do it yourself" hardware projects such as the network of fine dust sensors or the Long Range Wide Area Network (LoRaWan) are also being worked on.

@@ -37,8 +37,14 @@ more_text: |-
 edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Dabei arbeitet das Projekt auf drei Ebenen: Konzeptentwicklung, Bereitstellung und Bewerbung von freien Bildungsmaterialien sowie Community Building und Support. Deutschlandweit organisiert edulabs Treffen von interdisziplinären Teams, bei denen freie Bildungsmaterialien (OER) und digital gestützte Methoden evaluiert, erstellt, dokumentiert und verbessert werden. Die Lab-Community wird redaktionell, didaktisch, technisch, sowie bei der Organisation von Events unterstützt.
 
 <div class="two-img offset-lg-2">
-<img alt="Bild vom Event" src="/files/projects/edulabs_img_1.jpg">
-<img alt="Bild vom Event" src="/files/projects/edulabs_img_2.jpg">
+    <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/edulabs_img_1.jpg">
+        <figcaption>Foto:</figcaption>
+    </figure>
+    <figure class="license">
+      <img alt="Bild vom Event" src="/files/projects/edulabs_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
 </div>
 
 **Ganz ausgezeichnet** <br>

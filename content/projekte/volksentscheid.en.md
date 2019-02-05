@@ -30,7 +30,7 @@ contact:
   twitter: transparenzBER
 contact_person: arnesemsrott
 parners:
-  - Mehr Demokratie 
+  - Mehr Demokratie
 more_text: |-
     Further information can be found on the <a href="https://volksentscheid-transparenz.de/">website</a> of the Volksentscheid.
 ---
@@ -39,8 +39,14 @@ In the Berlin coalition agreement, the governing parties agreed to further devel
 The Transparency Act obliges the Senate and the authorities to disclose important information to the public. This includes Senate resolutions, secret contracts with companies, expert opinions, e.g. on water quality or the development of land prices, as well as data on public contracts. According to our law, the administration must make this information available centrally and free of charge on an online platform.
 
 <div class="two-img offset-lg-2">
-  <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_1.jpg">
-  <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_2.jpg">
-</div> 
+  <figure class="license">
+    <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_1.jpg">
+        <figcaption>Foto:</figcaption>
+    </figure>
+    <figure class="license">
+      <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
+</div>
 
 An active publication of information helps citizens, journalists and initiatives to gain an early insight into the actions of politics and administration. Only those who know, for example, where there is a lack of daycare places can do something about it. Transparency works against tax wastage and corruption. Disasters such as the BER airport and the State Opera, which cost billions of euros, show that we urgently need more public control!

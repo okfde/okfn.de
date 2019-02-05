@@ -18,13 +18,19 @@ people:
     role: Projektleitung
 contact:
   website: https://familienlabore.de
-  
+
 ---
 Die Gestaltung von Familienleben in Deutschland hat sich in den letzten Jahrzehnten enorm gewandelt. Patchwork-Familien, Mehr-Generationen-Häuser und Haushalte von Alleinerziehenden bringen ganz unterschiedliche Anforderungen mit sich. Eine der größten Herausforderungen ist und bleibt die Vereinbarkeit von Familie und Beruf. Oder anders gefragt: Ist es wirklich notwendig, jedes Mal drei Stunden im Wartezimmer eines Arztes sitzen zu müssen? Wir denken: Das geht besser.
 
 <div class="two-img offset-lg-2">
+  <figure class="license">
   <img alt="Bild vom Event" src="/files/projects/familienlabore_img_1.jpg">
-  <img alt="Bild vom Event" src="/files/projects/familienlabore_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
+    <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/familienlabore_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
 </div>
 
 

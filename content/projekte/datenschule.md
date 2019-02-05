@@ -8,8 +8,8 @@ categories:
   - education
 layout: project
 img: projects/Datenschule_Projektuebersicht_smallTile.png
-img_square: 
-img_header: 
+img_square:
+img_header:
 people:
   - name: Anna Alberts
     role: Projektleitung
@@ -23,7 +23,7 @@ website: https://datenschule.de
 contact:
   twitter: datenschule
   mail: info@datenschule.de
-   
+
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://datenschule.de">Website</a> der Datenschule.
 ---
@@ -39,8 +39,14 @@ und Organisationsentwicklung aktiv zu nutzen.
 
 
 <div class="two-img offset-lg-2">
-  <img alt="Bild vom Event" src="/files/projects/datenschule_img_1.jpg">
-  <img alt="Bild vom Event" src="/files/projects/datenschule_img_2.jpg">
+  <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/datenschule_img_1.jpg">
+        <figcaption>Foto: <a href="//tnt-fotoart.de">Thomas Nitz</a>, <a href=https://www.flickr.com/photos/okfde/42889539312/in/album-72157696546500561/>Demokratielabore - Data Expedition</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
+    </figure>
+    <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/datenschule_img_2.jpg">
+        <figcaption>Foto: <a href="//tnt-fotoart.de">Thomas Nitz</a>, <a href="https://www.flickr.com/photos/okfde/42939106321/in/album-72157696546500561/">Demokratielabore - Data Expedition</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
+    </figure>
 </div>
 
 

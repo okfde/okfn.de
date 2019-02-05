@@ -25,11 +25,17 @@ partners:
   - Senatsverwaltung für Wirtschaft und Energie
 ---
 
-Der Energyhack ist ein Hackathon rund um offene Energiedaten. Unser Energieangebot und die Wege der Erzeugung sind vielfältig. Doch wie wird Energie verteilt und wie schaffen wir es, dass mehr Informationen zwischen Geräten der Erzeuger und Verbraucher ausgetauscht werden? 
+Der Energyhack ist ein Hackathon rund um offene Energiedaten. Unser Energieangebot und die Wege der Erzeugung sind vielfältig. Doch wie wird Energie verteilt und wie schaffen wir es, dass mehr Informationen zwischen Geräten der Erzeuger und Verbraucher ausgetauscht werden?
 
 Entwicklerinnen, Designer, Forscherinnen und innovative Vordenker der Energiebranche entwickeln in 24h Ideen, entwerfen Hardware und Prototypen oder programmieren neue Apps. Als Datenbasis standen den Teilnehmerinnen die Daten aus dem Open Data Portal Netzdaten-Berlin zur Verfügung.
 
 <div class="two-img offset-lg-2">
-  <img alt="Bild vom Event" src="/files/projects/energyhack_img_1.jpg">
-  <img alt="Bild vom Event" src="/files/projects/energyhack_img_2.jpg">
+    <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/energyhack_img_1.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
+    <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/energyhack_img_2.jpg">
+        <figcaption>Foto: </figcaption>
+    </figure>
 </div>
