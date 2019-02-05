@@ -1,0 +1,10 @@
+<figure class="license">
+  <img src="{{.Params.image.src}}" alt="{{.Params.image.title}}">
+  {{ if .Params.image.license}}
+  <figcaption>{{ with .Params.image.title }}{{.}}{{end}}
+    {{ with .Params.image.license_url }}<a href="{{ . }}">{{ end }}
+    {{ with .Params.image.license}}{{.}}{{ end }}
+    {{ with .Params.image.license_url }}</a>{{ end }}
+  </figcaption>
+  {{ end }}
+</figure>

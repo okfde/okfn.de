@@ -45,7 +45,7 @@
     <div class="container c__post__image--regular">
       <div class="row">
         <div class="col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">
-          <img src="{{.Params.image.src}}" alt="{{.Params.image.title}}">
+          {{- partial "blog_image_license" . -}}
         </div>
       </div>
     </div>
