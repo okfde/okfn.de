@@ -4,7 +4,7 @@ subtitle: Wir knacken die Schufa
 tile: single
 title: OpenSchufa
 layout: project
-img: projects/openSchufa_Projektuebersicht_smallTile.png
+img: projects/openSchufa_Projektuebersicht_smallTile.jpg
 website: https://www.openschufa.de
 people:
   - name: Arne Semsrott

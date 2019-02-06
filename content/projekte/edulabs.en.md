@@ -7,7 +7,7 @@ title: edulabs
 tile: double
 layout: project
 img_header: projects/edulabs_Header.jpg
-img: projects/edulabs_Projektuebersicht_bigTile.png
+img: projects/edulabs_Projektuebersicht_bigTile.jpg
 website: https://edulabs.de
 people:
   - name: Markus Neuschäfer

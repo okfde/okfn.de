@@ -8,8 +8,7 @@ categories:
   - Education
 tile: single
 layout: project
-img: projects/TuringBus_Projektuebersicht_smallTile.png
-img_square: projects/turing-bus.png
+img: projects/TuringBus_Projektuebersicht_smallTile.jpg
 img_header: projects/TuringBus_Header.jpg
 website: https://turing-bus.de
 partner:

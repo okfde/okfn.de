@@ -2,8 +2,8 @@
 title: Informationsfreiheit
 project_tag: Informationsfreiheit
 weight: 5
-img: /okf/themen/informationsfreiheit.png
-img_header: /okf/themen/informationsfreiheit_header.png
+img: /okf/themen/informationsfreiheit.jpg
+img_header: /okf/themen/informationsfreiheit_header.jpg
 img_social: /okf/ifg-social-og.png
 color: "#382eff"
 ---

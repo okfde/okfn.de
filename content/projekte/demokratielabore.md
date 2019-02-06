@@ -10,8 +10,8 @@ categories:
 tile: double
 layout: project
 weight: 5
-img: projects/Demokratielabore_Projektuebersicht_bigTile.png
-img_header: projects/Demokratielabore_Header.png
+img: projects/Demokratielabore_Projektuebersicht_bigTile.jpg
+img_header: projects/Demokratielabore_Header.jpg
 people:
   - name: Lydia Böttcher
     role: Projektmanagerin

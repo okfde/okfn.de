@@ -2,7 +2,7 @@
 title: Offene Bildung
 project_tag: Bildung
 weight: 4
-img: /okf/themen/offenebildung.png
+img: /okf/themen/offenebildung.jpg
 img_header: /okf/themen/offenebildung_header.png
 img_social: /okf/bildung-social-og.png
 color: "#382eff"
