@@ -41,6 +41,9 @@ contact:
   facebook: http://www.facebook.com/jugendhackt
   mailinglist: http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=47735af82e
   website: http://jugendhackt.org
+  mastodon:
+    handle: jugendhackt
+    server: chaos.social
 video: "https://www.youtube.com/embed/lkNZyfhUvEc"
 
 subtitle: Improving the world, code by code

@@ -3,7 +3,7 @@ title: Prototype Fund
 subtitle: 47.500€ for your public interest tech idea
 type: research
 categories:
-  - 
+  -
 tile: double
 weight: 4
 website: https://prototypefund.de
@@ -30,6 +30,9 @@ contact:
   twitter: prototypefund
   github: https://github.com/prototypeteam
   mailinglist: http://eepurl.com/b_rDS1
+  mastodon:
+    handle: PrototypeFund
+    server: mastodon.social
 
 cta: Mitmachen
 cta_text: |-
@@ -37,9 +40,9 @@ cta_text: |-
 more_text: |-
     Further information can be found on the <a href="https://prototypefund.de">website</a> of the Prototype Fund.
 ---
-With the Prototype Fund we support socially relevant software projects and increase their sustainable impact through open source as a matter of principle. In short: We support Public Interest Tech. 
+With the Prototype Fund we support socially relevant software projects and increase their sustainable impact through open source as a matter of principle. In short: We support Public Interest Tech.
 We make digital-social innovation possible; with developer groups that bring a wide range of skills to bear in technology design and pass on their good ideas.
-With up to 47,500 euros per project and team, the funding fund supports software developers*, hackers* and creative people in implementing sketches for tools and applications in the areas of Civic Tech, data literacy, IT security and software infrastructure. 
+With up to 47,500 euros per project and team, the funding fund supports software developers*, hackers* and creative people in implementing sketches for tools and applications in the areas of Civic Tech, data literacy, IT security and software infrastructure.
 
 In addition to financial support, we offer mentor coaching on the way to the prototype and exchange ideas with our extensive and diverse network of coders, other practitioners and potential users.
 

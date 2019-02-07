@@ -71,6 +71,14 @@
           <p><span class="bold">Website</span><br><a href="{{.}}">{{ strings.TrimPrefix "https://" . }} {{ readFile "static/files/icons/arrow_up.svg" | safeHTML }}</a></p>
           {{ end }}
 
+          {{ with .Params.contact.twitter}}
+          <p><span class="bold">Twitter</span><br><a href="https://twitter.com/{{.}}">@{{.}}</a></p>
+          {{ end }}
+
+          {{ with .Params.contact.mastodon}}
+          <p><span class="bold">Mastodon</span><br><a href="https://{{.server}}/@{{.handle}}">@{{.handle}}</a></p>
+          {{ end }}
+
         </aside>
 
         <div class="l__project__content l__content col col-12 col-sm-10 col-md-8 offset-md-2 col-lg-7">
