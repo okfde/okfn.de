@@ -52,3 +52,6 @@ weight =  80
 [outputs]
 home = ["HTML", "Json"]
 section = [ "HTML", "Atom", "Json" ]
+
+[frontmatter]
+date  = [":filename", ":default"]
