@@ -5,6 +5,7 @@ title: Open Gov Netzwerk
 subtitle: Regierungshandeln für Bürger verbessern
 img_header: projects/opengov_Header.jpg
 img: projects/OGP_Projektuebersicht_smallTile.jpg
+img_license: 'Foto: CC BY'
 layout: project
 kategorien:
   - Offenes Regierungshandeln

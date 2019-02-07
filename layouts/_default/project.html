@@ -29,11 +29,14 @@
       </div>
     </div>
 
-    {{ with .Params.img_header }}
+    {{ if .Params.img_header }}
     <div class="container l__project__headerimg">
       <div class="row">
         <div class="col col-12">
-          <img src="/files/{{.}}" alt="">
+          <figure class="license">
+            <img src="/files/{{.Params.img_header}}" alt="">
+            {{ with .Params.img_license }}<figcaption>{{ . }}</figcaption>{{ end }}
+          </figure>
         </div>
       </div>
     </div>

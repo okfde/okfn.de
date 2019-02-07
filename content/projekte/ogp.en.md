@@ -5,6 +5,7 @@ title: Open Gov Netzwerk
 subtitle: Improving government action for citizens
 img: projects/OGP_Projektuebersicht_smallTile.png
 img_header: projects/opengov_Header.jpg
+img_license: 'Foto: CC BY'
 layout: project
 weight: 1
 kategorien:
