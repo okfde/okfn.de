@@ -6,7 +6,7 @@ kategorien:
 title: edulabs
 tile: double
 layout: project
-img: projects/edulabs_Projektuebersicht_bigTile.png
+img: projects/edulabs_Projektuebersicht_bigTile.jpg
 img_header: projects/edulabs_Header.jpg
 website: https://edulabs.de
 people:

@@ -9,9 +9,8 @@ title: FragDenStaat
 subtitle: Das Informationsfreiheitsportal
 layout: project
 weight: 4
-img: projects/FragDenStaat_Projektuebersicht_bigTile.png
-img_square: projects/fragdenstaat_square.jpg
-img_header: projects/FragDenStaat_Header.png
+img: projects/FragDenStaat_Projektuebersicht_bigTile.jpg
+img_header: projects/FragDenStaat_Header.jpg
 website: https://fragdenstaat.de
 people:
   - name: Arne Semsrott
