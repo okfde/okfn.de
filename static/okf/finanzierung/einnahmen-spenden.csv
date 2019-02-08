@@ -1,16 +1,16 @@
-category,item,amount,total
-Spenden/Mitgliedsbeiträge,Initiative Ulm Digital,26250,4022532
-Spenden/Mitgliedsbeiträge,Wau Holland Stiftung,9693,4022532
-Spenden/Mitgliedsbeiträge,Netzwerk Recherche Verein,2000,4022532
-Spenden/Mitgliedsbeiträge,Peering GmbH,5000,4022532
-Spenden/Mitgliedsbeiträge,Basilicom GmbH,3000,4022532
-Spenden/Mitgliedsbeiträge,Berliner Stadtreinigung,3000,4022532
-Spenden/Mitgliedsbeiträge,We Build City,4625,4022532
-Spenden/Mitgliedsbeiträge,Bitkom Servicegesellschaft,2400,4022532
-Spenden/Mitgliedsbeiträge,Wir design Communications,2000,4022532
-Spenden/Mitgliedsbeiträge,DCMN GmbH,2000,4022532
-Spenden/Mitgliedsbeiträge,Bitcrowd GmbH,1500,4022532
-Spenden/Mitgliedsbeiträge,mindkeeper solutions GmbH,1000,4022532
-Spenden/Mitgliedsbeiträge,opendatasoft,1000,4022532
-Spenden/Mitgliedsbeiträge,reality bytes neue Medien GmbH,1000,4022532
-Spenden/Mitgliedsbeiträge,Unternehmen < 1% der Gessamtspenden,5500,2011266
+category,item,amount,total,project
+Spenden/Mitgliedsbeiträge,Initiative Ulm Digital,26250,4022532, Jugend hackt
+Spenden/Mitgliedsbeiträge,Wau Holland Stiftung,9693,4022532, FragDenStaat
+Spenden/Mitgliedsbeiträge,Netzwerk Recherche Verein,2000,4022532, FragDenStaat
+Spenden/Mitgliedsbeiträge,Peering GmbH,5000,4022532,
+Spenden/Mitgliedsbeiträge,Basilicom GmbH,3000,4022532,
+Spenden/Mitgliedsbeiträge,Berliner Stadtreinigung,3000,4022532,
+Spenden/Mitgliedsbeiträge,We Build City,4625,4022532,
+Spenden/Mitgliedsbeiträge,Bitkom Servicegesellschaft,2400,4022532,
+Spenden/Mitgliedsbeiträge,Wir design Communications,2000,4022532,
+Spenden/Mitgliedsbeiträge,DCMN GmbH,2000,4022532,
+Spenden/Mitgliedsbeiträge,Bitcrowd GmbH,1500,4022532,
+Spenden/Mitgliedsbeiträge,mindkeeper solutions GmbH,1000,4022532,
+Spenden/Mitgliedsbeiträge,opendatasoft,1000,4022532,
+Spenden/Mitgliedsbeiträge,reality bytes neue Medien GmbH,1000,4022532,
+Spenden/Mitgliedsbeiträge,Unternehmen < 1% der Gessamtspenden,5500,2011266,
