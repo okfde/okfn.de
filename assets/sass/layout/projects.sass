@@ -74,6 +74,16 @@ $theight-large: 503px
     &first-child
       margin-top: 0em
 
+  .linked
+    svg
+      position: relative
+      transition: transform 200ms ease
+    &:hover,
+    &:active
+      text-decoration: none
+      svg
+        transform: translate(.2em, -.2em)
+
 .l__project__content
   line-height: 1.55
   font-size: 1.2em

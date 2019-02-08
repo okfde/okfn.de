@@ -12,9 +12,17 @@
   a:hover,
   a:active
     .linked
-      text-decoration: underline
+      svg
+        transform: translateX(1em)
   .linked
+    position: relative
+    display: inline-block
     color: $anchor
+    svg
+      position: absolute
+      top: 7px
+      right: -25px
+      transition: transform 300ms ease
 
 .l__topics__section
   img

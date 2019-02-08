@@ -55,7 +55,7 @@ function developmentViz() {
         .attr('class', 'd3-tip n')
         .offset([-10, 0])
         .html(function(d) {
-          return "<span>" + d.turnover + "€ " + d.year +"</span>";
+          return "<span>" + d3.format(',.2r')(d.turnover) + "€ Einnahmen " + d.year +"</span>";
         });
 
     svg.call(tip);
@@ -127,7 +127,8 @@ function incomesHelper (containerSelector, dataPath, barHeight) {
     var maxPercentage = d3.max(data, function (d, i) {
       return parseInt(d.percentage, 10);
     });
-    // grrrrh JavaScript, why you so bad with numbers!?
+    // and I would have gotten through with it,
+    // if it weren't for those dynamic types!
     if (maxPercentage <= 0) {
       maxPercentage = 1;
     }
@@ -154,7 +155,12 @@ function incomesHelper (containerSelector, dataPath, barHeight) {
         .attr('class', 'd3-tip n')
         .offset([-10, 0])
         .html(function(d) {
-          return "<span>" + d3.format(',.2r')(d.amount) + "€ von " + d.item + " ("+ d.percentage + "% der Gesamteinnahmen)</span>";
+          var out = "<span>" + d3.format(',.2r')(d.amount) + "€ von " + d.item + " ("+ d.percentage + "% der Gesamteinnahmen)";
+          if (d.project && d.project !== "") {
+            out += " für "+ d.project;
+          }
+          out += "</span>";
+          return out;
         });
 
     svg.call(tip);

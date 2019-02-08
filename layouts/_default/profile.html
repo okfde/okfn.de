@@ -85,7 +85,7 @@
         <div class="row align-items-center order-1 order-md-2">
           {{ with .Params.img }}
           {{ range $i, $v := . }}
-          <div class="col col-12 col-sm-6 {{ if ne $i 0}}d-none d-sm-block{{ end }}">
+          <div class="col col-12 {{if eq $i 0}}col-sm-8{{ end }}{{ if ne $i 0}}col-sm-4 d-none d-sm-block{{ end }}">
             <figure class="license">
               <img src="{{.url}}" alt="">
               <figcaption>{{ .license | safeHTML }}</figcaption>
