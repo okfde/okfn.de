@@ -9,7 +9,9 @@
       {{end}}
       <div class="l__topbar__toggle">
         <button type="button" id="js-topnav-toggle" tabindex="">
-          {{ readFile "static/files/icons/menu.svg" | safeHTML }}</button>
+          <span class="l__topbar__toggle--burger">{{ readFile "static/files/icons/menu.svg" | safeHTML }}</span>
+          <span class="l__topbar__toggle--close">{{ readFile "static/files/icons/close.svg" | safeHTML }}</span>
+        </button>
       </div>
       <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
         {{ with .Site.GetPage "/profil" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
@@ -31,8 +33,11 @@
         </li>
         <li class="l__search__btn">
           <button class="" id="js-search-button">
-            <span class="sr-only">{{ i18n "search_open"}}</span>
-            {{ readFile "static/files/icons/search.svg" | safeHTML }}
+            <span class="sr-only invisible">{{ i18n "search_open"}}</span>
+            <span class="d-md-none fake-link">Suche</span>
+            <span class="d-none d-md-block">
+              {{ readFile "static/files/icons/search.svg" | safeHTML }}
+            </span>
           </button>
         </li>
         {{ with .Site.GetPage "/spenden" }}<li class="c__donate-btn"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}

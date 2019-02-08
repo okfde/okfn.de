@@ -58,12 +58,17 @@
   color: $anchor
 
 .l__search__btn
+  .fake-link
+    margin: 0 -.6em
   button
     border: none
     background: none
     &:hover,
     &:active
       cursor: pointer
+      .fake-link
+        border-bottom: 2px solid $anchor
+        color: $anchor
     svg
       width: 1.1rem
       height: 1rem

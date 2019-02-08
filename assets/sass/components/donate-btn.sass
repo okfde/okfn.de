@@ -1,23 +1,4 @@
 .c__donate-btn
-  background-image: url(/files/icons/donate.svg)
-  background-repeat: no-repeat
-  background-position: center center
-  width: 6em
-  height: 2.5em
-  text-align: center
-  a
-    color: white
-    text-decoration: none
-    text-transform: uppercase
-    font-weight: 500
-    font-size: 1rem
-    line-height: 2.4
-    border: none !important
-    text-decoration: none !important
-    &:hover,
-    &:active
-      color: #FFEC00
-
   @include media-breakpoint-up(md)
     position: absolute
     top: 3.5em
@@ -28,5 +9,19 @@
     z-index: 12
     transition: transform 200ms ease
     transform: rotate3d(0, 0, 1, 20deg)
+    background-image: url(/files/icons/donate.svg)
+    background-repeat: no-repeat
+    background-position: center center
+    text-align: center
     a
+      color: white
+      text-decoration: none
+      text-transform: uppercase
+      font-weight: 500
+      font-size: 1rem
       line-height: 6.5
+      border: none !important
+      text-decoration: none !important
+      &:hover,
+      &:active
+        color: #FFEC00

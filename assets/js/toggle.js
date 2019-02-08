@@ -6,8 +6,10 @@ document.addEventListener('DOMContentLoaded', function (event) {
   var menu = document.querySelector('#js-topnav-menu');
   if (hamburger && menu) {
     menu.classList.add('is-hidden');
+    hamburger.classList.add('is-closed');
     hamburger.addEventListener('click', function (event) {
       menu.classList.toggle('is-hidden');
+      hamburger.classList.toggle('is-closed');
     });
   }
 
