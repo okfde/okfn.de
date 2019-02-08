@@ -33,7 +33,7 @@ more_text: |-
 
 Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.
 
-<div class="two-img">
+<div class="two-img offset-lg-2">
   <figure class="license">
         <img alt="Bild vom Event" src="/files/projects/codefor_img_1.jpg">
         <figcaption>Foto:</figcaption>

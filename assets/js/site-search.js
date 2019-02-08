@@ -72,6 +72,15 @@ document.addEventListener('DOMContentLoaded', function (event) {
         searchOverlay.classList.toggle('open');
         clearSearch();
         focusInput();
+        // super hacky, sorry
+        var hamburger = document.querySelector('#js-topnav-toggle');
+        var menu = document.querySelector('#js-topnav-menu');
+        if (hamburger && menu) {
+          if (!menu.classList.contains('is-hidden')) {
+            menu.classList.toggle('is-hidden');
+            hamburger.classList.toggle('is-closed');
+          }
+        }
       }, true);
 
       function lunrSearch(event) {
