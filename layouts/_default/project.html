@@ -68,7 +68,7 @@
           {{ end }}
 
           {{ with .Params.website}}
-          <p><span class="bold">Website</span><br><a href="{{.}}">{{ strings.TrimPrefix "https://" . }} {{ readFile "static/files/icons/arrow_up.svg" | safeHTML }}</a></p>
+          <p><span class="bold">Website</span><br><a href="{{.}}" class="linked">{{ strings.TrimPrefix "https://" . }} {{ readFile "static/files/icons/arrow_up.svg" | safeHTML }}</a></p>
           {{ end }}
 
           {{ with .Params.contact}}

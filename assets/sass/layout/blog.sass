@@ -27,14 +27,22 @@
   border: $anchor 2px solid
   transition: background-color 200ms ease-in
   display: flex
+  position: relative
   justify-content: space-evenly
   & + &
     margin-left: 10px
   &:hover,
   &:active
-    background-color: $anchor
-    color: $white
     text-decoration: none
+    .l__paginator__arrow--r
+      transform: translateX(.5em)
+    .l__paginator__arrow--l
+      transform: translateX(-.5em)
+
+.l__paginator__arrow--l,
+.l__paginator__arrow--r
+  position: relative
+  transition: transform 200ms ease
 
 .l__blog__search
   text-align: right
