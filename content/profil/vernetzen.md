@@ -8,7 +8,7 @@ img:
     license: CC BY
   -
     url: /okf/profil/05.jpg
-    license: CC BY
+    license: 'Foto: Leonard Wolf, CC BY 4.0 edulabs'
 
 arrange: img_bottom
 ---

@@ -10,9 +10,10 @@ img:
 
   -
     url: /okf/profil/02.jpg
-    license: CC BY 4.0
+    license: 'Foto: Leonard Wolf, CC BY 4.0 edulabs'
 
 arrange: img_top
+
 ---
 
 Digitally networked technologies bring new opportunities for civil society: Citizens can exercise their rights more easily and obtain better information about what the government is doing.

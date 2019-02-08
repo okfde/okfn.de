@@ -10,7 +10,9 @@ img:
 
   -
     url: /okf/profil/02.jpg
-    license: CC BY 4.0
+    license: 'Foto: Leonard Wolf, CC BY 4.0 edulabs'
+
+
 
 arrange: img_top
 ---

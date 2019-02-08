@@ -5,12 +5,13 @@ weight: 5
 img:
   -
     url: /okf/profil/06.jpg
-    license: CC BY
+    license: 'Foto: Sandra Schink, CC-BY 4.0 Jugend hackt'
   -
     url: /okf/profil/07.jpg
     license: 'Foto: Jürgen Grünwald, <a href="https://www.flickr.com/photos/okfde/38991698625/in/album-72157662998831677/">Jugend hackt in Österreich 2017</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 arrange: img_bottom_2
+
 ---
 
 Only those who understand technology can help shape it. This is why we offer workshops on a wide variety of topics such as data literacy, open data and open education.
