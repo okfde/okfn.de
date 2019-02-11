@@ -1,12 +1,13 @@
 .l__home
   .linked
-    a
-      svg
-        position: absolute
-        top: 8.5px
-        right: -20px
-        transition: transform 300ms ease
-    a:hover
+    position: relative
+    svg
+      position: absolute
+      top: 3px
+      right: -20px
+      transition: transform 300ms ease
+    &:hover,
+    &:active
       text-decoration: none
       svg
         transform: translateX(1em)
@@ -30,7 +31,6 @@
 
 .l__home__img
   position: relative
-
   div
     position: relative
   img
@@ -73,5 +73,3 @@
           padding: 0
           &:first-child
             margin-top: 1.15em
-
-

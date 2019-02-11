@@ -53,7 +53,7 @@
         </div>
         <div class="col col-12 col-md-3 col-lg-2">
           <p>{{ with .Site.GetPage "/projekte" }}
-            <a href="{{ .Permalink }}" class="c__arrow">
+            <a href="{{ .Permalink }}" class="linked">
               {{ i18n "home_all_projects" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
         </div>
       </div>
@@ -85,7 +85,7 @@
             <h3>{{ .Params.donate_title }}</h3>
             <p>{{ .Params.donate_text}}</p>
             <p>{{ with .Site.GetPage "/spenden" }}
-              <a href="{{ .Permalink }}" class="c__arrow">
+              <a href="{{ .Permalink }}" class="linked">
                 {{ i18n "home_donate" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
           </div>
         </div>
@@ -108,7 +108,7 @@
 
       <div class="mt-s">
         <p>{{ with .Site.GetPage "/blog" }}
-          <a href="{{ .Permalink }}" class="c__arrow">
+          <a href="{{ .Permalink }}" class="linked">
             {{ i18n "home_all_posts" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}</p>
       </div>
   </div>
