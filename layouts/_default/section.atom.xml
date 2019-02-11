@@ -1,13 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}</title>
-  <link rel="self" href="{{ .Permalink }}"/>
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="{{ .Permalink }}atom.xml"/>
   <updated>{{ .Date.Format "2006-01-02T15:04:05-0700" | safeHTML }}</updated>
   <author>
-    <name>YOUR NAME HERE</name>
-    <email>YOUR EMAIL ADDRESS</email>
-    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
   </author>
-  <id>{{ .Permalink }}</id>
+  <id>https://okfn.de</id>
   {{ range first 15 .Data.Pages }}
   <entry>
     <title>{{ .Title }}</title>
