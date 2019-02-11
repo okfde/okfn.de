@@ -19,8 +19,8 @@ people:
     role: Projektleitung
   - name: Sonja Fischbauer
     role: Projektleitung
-  - name: Lea Schubert
-    role: Bufdine
+  - name: Sebastian Schröder
+    role: Volunteer
   - name: Doris Jantoljak
     role: Design
   - name: Philip Steffan
@@ -30,7 +30,7 @@ people:
   - name: Torben Reichert
     role: Entwickler
 contact_person: paulaglaser
-years: 2012 - jetzt
+years: 2012 - today
 partners:
   - MedialePfade
 financing:

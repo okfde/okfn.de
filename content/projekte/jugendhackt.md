@@ -27,7 +27,7 @@ people:
   - name: Torben Reichert
     role: Entwickler
   - name: Sebastian Schröder
-    role: Bufdi
+    role: Bundesfreiwilliger
   - name: Philip Steffan
     role: Community und Öffentlichkeitsarbeit
   - name: Saadya Windauer

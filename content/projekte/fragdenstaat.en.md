@@ -18,7 +18,7 @@ people:
   - name: Stefan Wehrmeyer
     role: Tech Lead
   - name: Sebastian Schröder
-    role: Bufdi
+    role: Volunteer
 contact_person: arnesemsrott
 years: 2011 - heute
 financing:
