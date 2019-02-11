@@ -9,7 +9,7 @@ Singerstr. 109<br>
 10179 Berlin</br>
 Deutschland
 
-**E-Mail:** info@okfn.de [<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xFE54F46F21DDAED1">OpenPGP</a>]<br>
+**E-Mail:** info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]<br>
 **Telefon:** +49 30 57 70 36 660<br>
 **Fax:** +49 30 57 70 36 669
 
