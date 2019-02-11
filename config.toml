@@ -34,6 +34,10 @@ weight =  80
     mediaType = "application/atom"
     baseName = "atom"
     isPlainText = false
+  [outputFormats.Rss]
+    mediaType = "application/rss+xml"
+    basename = "rss"
+    isPlainText = false
   [outputFormats.Json]
     mediaType = "application/json"
     baseName = "index"
@@ -51,7 +55,7 @@ weight =  80
   
 [outputs]
 home = ["HTML", "Json"]
-section = [ "HTML", "Atom", "Json" ]
+section = [ "HTML", "Atom", "Json", "Rss" ]
 
 [frontmatter]
 date  = [":filename", ":default"]
