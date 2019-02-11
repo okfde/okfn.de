@@ -19,6 +19,7 @@ script:
   - bin/hugo
   - bash scripts/ci/build-site-search-index.sh
   - bash scripts/ci/build-blog-search-index.sh
+  - cp public/blog/atom.xml /public/atom.xml
 
 after_success:
   - bash scripts/ci/deploy.sh
