@@ -35,11 +35,9 @@ The network is an association of civil society organisations and individuals tha
 <div class="two-img offset-lg-2">
   <figure class="license">
     <img alt="Project manager Michael presents the network at a congress" src="/files/projects/opengov_img_1.jpg">
-        <figcaption>Foto:</figcaption>
     </figure>
     <figure class="license">
           <img alt="Project manager Michael presents the network at a congress" src="/files/projects/opengov_img_2.jpg">
-        <figcaption>Foto: </figcaption>
     </figure>
 </div>
 

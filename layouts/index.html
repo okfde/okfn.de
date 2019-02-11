@@ -39,7 +39,7 @@
         <div class="col col-12 col-sm-5 col-md-4">
           <p>{{ .Params.work }}</p>
           <p>{{ with .Site.GetPage "/profil" }}
-            <a href="{{ .Permalink }}" class="c__arrow">
+            <a href="{{ .Permalink }}" class="linked">
               {{ i18n "home_about_work" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>{{ end }}
           </p>
         </div>

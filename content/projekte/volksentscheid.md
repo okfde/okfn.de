@@ -42,11 +42,11 @@ Das Transparenzgesetz verpflichtet Senat und Behörden für die Öffentlichkeit 
 <div class="two-img offset-lg-2">
   <figure class="license">
     <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_1.jpg">
-        <figcaption>Foto:</figcaption>
+      <figcaption>Foto: Leonard Wolf <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-SA 4.0</a></figcaption>    
     </figure>
     <figure class="license">
       <img alt="Event zum Besprechen des Gesetzes" src="/files/projects/volksentscheid_img_2.jpg">
-        <figcaption>Foto: </figcaption>
+      <figcaption>Foto: Leonard Wolf <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-SA 4.0</a></figcaption> 
     </figure>
 </div>
 

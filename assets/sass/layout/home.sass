@@ -1,4 +1,16 @@
 .l__home
+  .linked
+    a
+      svg
+        position: absolute
+        top: 8.5px
+        right: -20px
+        transition: transform 300ms ease
+    a:hover
+      text-decoration: none
+      svg
+        transform: translateX(1em)
+
   @include media-breakpoint-down(sm)
     .mt-l
       margin-top: 80px
@@ -61,3 +73,5 @@
           padding: 0
           &:first-child
             margin-top: 1.15em
+
+

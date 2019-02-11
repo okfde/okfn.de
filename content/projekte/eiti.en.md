@@ -27,11 +27,9 @@ The initiative, which was founded in 2003 as part of the 2002 Sustainability Sum
 <div class="two-img offset-lg-2">
   <figure class="license">
     <img alt="Bild vom Event" src="/files/projects/eiti_img_1.jpg">
-        <figcaption>Foto:</figcaption>
     </figure>
     <figure class="license">
       <img alt="Bild vom Event" src="/files/projects/eiti_img_2.jpg">
-        <figcaption>Foto: </figcaption>
     </figure>
 </div>
 

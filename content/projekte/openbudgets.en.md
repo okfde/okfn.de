@@ -25,6 +25,13 @@ contact:
 
 OpenBudgets was an EU Horizon 2020 funded project that aims to make government budget data more accessible in a centralized and transparent way. On the basis of an open source framework, a Software-as-a-Service (SAAS) portal will be created through which stakeholders (e.g. journalists, members of parliament, citizens, NGOs) can find and export budget data and present it with the help of a visualization library. The project seeks to open up new possibilities for comparison and analysis in order to enable greater transparency and to more effectively fight corruption in public finance.
 
-![Bild vom StoryHunt](/files/projects/openbudgets_img_1.jpg)
-![Bild vom StoryHunt](/files/projects/openbudgets_img_2.jpg)
-
+<div class="two-img offset-lg-2">
+  <figure class="license">
+  <img alt="Bild vom Event" src="/files/projects/openbudgets_img_1.jpg">
+        <figcaption>Foto: Leonard Wolf <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-SA 4.0</a></figcaption>
+    </figure>
+    <figure class="license">
+    <img alt="Bild vom Event" src="/files/projects/openbudgets_img_2.jpg">
+        <figcaption>Foto: Leonard Wolf <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-SA 4.0</a></figcaption>
+    </figure>
+</div>

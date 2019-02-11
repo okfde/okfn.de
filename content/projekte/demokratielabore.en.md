@@ -48,11 +48,11 @@ In order to answer these and other questions, we have developed various workshop
 <div class="two-img offset-lg-2">
     <figure class="license">
         <img alt="Bild vom Event" src="/files/projects/demokratielabore_img_1.jpg">
-        <figcaption>Foto: <a href="//tnt-fotoart.de">Thomas Nitz</a>, <a href="https://www.flickr.com/photos/okfde/42889539312/in/album-72157696546500561/">Demokratielabore - Data Expedition</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
+          <figcaption>Picture: Lea Pfau, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
     </figure>
     <figure class="license">
         <img alt="Bild vom Event" src="/files/projects/demokratielabore_img_2.jpg">
-        <figcaption>Foto: </figcaption>
+          <figcaption>Picture: Lea Pfau, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a></figcaption>
     </figure>
 </div>
 

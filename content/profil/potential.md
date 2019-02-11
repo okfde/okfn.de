@@ -10,7 +10,7 @@ img:
 
   -
     url: /okf/profil/02.jpg
-    license: 'Foto: Leonard Wolf, CC BY 4.0 edulabs'
+    license: 'Foto: Leonard Wolf, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> edulabs'
 
 
 

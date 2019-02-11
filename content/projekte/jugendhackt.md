@@ -67,11 +67,11 @@ Seit 2013 veranstalten wir Jugend hackt in Zusammenarbeit mit mediale pfade.org 
 <div class="two-img offset-lg-2">
     <figure class="license">
         <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_1.jpg">
-        <figcaption>Foto: </figcaption>
+        <figcaption>Foto: Anna Henatsch, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> Jugend hackt</figcaption>
     </figure>
     <figure class="license">
     <img alt="Bild vom Event" src="/files/projects/jugendhackt_img_2.jpg">
-        <figcaption>Foto: </figcaption>
+        <figcaption>Foto: Sandra Schink, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> Jugend hackt</figcaption>
     </figure>
 </div>
 

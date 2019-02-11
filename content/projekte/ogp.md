@@ -35,11 +35,9 @@ Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen 
 <div class="two-img offset-lg-2">
   <figure class="license">
         <img alt="rojektleiter Michael stellt das Netzwerk auf der re:publica vor" src="/files/projects/opengov_img_1.jpg">
-        <figcaption>Foto:</figcaption>
     </figure>
     <figure class="license">
         <img alt="Projektleiter Michael stellt das Netzwerk auf einem Kongress vor" src="/files/projects/opengov_img_2.jpg">
-        <figcaption>Foto: </figcaption>
     </figure>
 </div>
 

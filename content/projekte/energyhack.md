@@ -32,10 +32,8 @@ Entwicklerinnen, Designer, Forscherinnen und innovative Vordenker der Energiebra
 <div class="two-img offset-lg-2">
     <figure class="license">
     <img alt="Bild vom Event" src="/files/projects/energyhack_img_1.jpg">
-        <figcaption>Foto: </figcaption>
     </figure>
     <figure class="license">
     <img alt="Bild vom Event" src="/files/projects/energyhack_img_2.jpg">
-        <figcaption>Foto: </figcaption>
     </figure>
 </div>
