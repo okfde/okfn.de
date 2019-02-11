@@ -23,7 +23,7 @@ Dann auf `localhost:1313`  die Seite anschauen.
 ### Seite deployen
 
 Ein Push zu GitHub genügt um den Buildprozess anzustoßen.
-Im Normalfall musst du dich um nichts kümmern und deine Änderungen sind in ein paar Augenblicken online.
+Im Normalfall musst du dich um nichts kümmern und deine Änderungen sind in ein paar Minuten online.
 
 Falls das nicht passiert, findest du unten unter 'Anderes' und 'Buildprozess' mehr Infos.
 
@@ -114,28 +114,67 @@ Hier kurz Erklärungen zu den einzelnen Feldern:
 
 ### Jobs
 
+Jobs sind nun getrennt von Blogposts, bekommen aber trotzdem eine eigene Seite, die verlinkt und geteilt werden kann.
+
 #### Neues Jobposting
 
+Um eine neue Stellenaussschreibung hinzuzufügen, musst du in `content/jobs` eine neue Markdown-Datei anlegen.
+In `archetypes/jobs.md` kannst du dir eine Vorlage für das Markdown ansehen, kopieren und anpassen.
+
+Um das Jobposting zu entfernen, einfach die entsprechende Markdown-Datei löschen.
 
 ### Vereinsstats
 
+Unter `/verein` sind einige Fakten in Zahlen angegeben. Diese befinden sich in `/content/verein.md` und `content/verein.en.md` unter dem Key 'stats'. Unter diesem Key gibt es eine Liste aus Schlüssel/Wertpaaren die immer eine Zahl und einen Text dazu definieren. Diese können beliebig verändert werden.
+
 #### Jahresberichte
+
+Ebenfalls auf `/verein` befinden sich die herunterladbaren Jahresberichte bzw Tätigkeitsberichte. Diese werden in `/data/jahresberichte.yml` definiert. Pro Eintrag gibt es immer:
+
+- `year` das Jahr des jeweilgen Jahresberichtes
+- `img` ein Pfad zum Teaserbild
+- `pdf` ein Pfad zum Jahresbericht als PDF zum downloads
+- jeweils `title` und `text` under den Sprachoptionen
+
+Für einen neuen Eintrag, einfach einen alten kopieren, an den _Anfang_ der Datei setzen (es wird nicht extra sortiert, die Reihenfolge in der Datei ist wichtig) und anpassen.
 
 #### Downloads
 
-### Spenden
+Der letzte Abschnitt auf `/verein` listet verschiedene herunterladbare Dokumente, die die Organisation als Verein betreffen.
+
+Diese sind under `/data/downloadsverein.yml` definiert und können dort auch angepasst und verändert werden. Es gibt die Felder `title` und `text` jeweils auf deutsch und englisch und dann `path` der Pfad zur herunterladbaren Datei.
 
 ### Finanzen
 
+Auf der Finanzseite gibt es mehrere Grafiken, die die Entwicklung und Einnahmen/Ausgaben aufschlüsseln.
+
+Die Grafiken werden dynamisch aus CSV-Dateien erstellt, die sich in `/static/okf/finanzierung` befinden.
+Pro Grafik existiert eine CSV-Datei, deren Inhalte jeweils angepasst werden können. Die Dateinahmen und das Schema dürfen nicht verändert werden, weil sonst das Script kaput geht.
+
 #### Downloads
 
-#### Statistiken
+Ebenfalls auf der Finanzierungsseite zu finden sind weitere Downloads. Diese sind in `/data/downloadsfinanzierung.yml` festgehalten. Sie funktionieren wie die anderen Downloads auch mit der Ausnahme des letzen Eintrags. Hier gibt es eine Liste der Gewinn- und Verlustrechnungen der vergangenen Jahre, die anstelle eines kleinen Beschreibungstextes aufgeführt werden. Damit das (auch für weitere Jahre) funktioniert, müssen diese unter `/static/files/documents/OKF-DE-Gewinnermittlung-kurz-<jahr>.pdf` abgelegt werden. Dabei ist `<jahr>` mit dem entsprechenden Jahr zu ersetzen.
 
 ---
 
 ## Anderes
 
 ### Übersetzungen
+
+Alle Inhalte, abgesehen von Blogposts, sind auf deutsch und englisch vorhanden.
+In den meisten Fällen wird eine Markdowndatei `.md` mit einem äquivalenten, aber übersetzten `.en.md` bereitgestellt.
+Manchmal, gerade wenn Informationen in `/data` als yml liegen, gibt es Übersetzungsspezifische Keys.
+
+Templateübersetzungen finden sich in `/i18n/`.
+
+### Wohin soll ich meine Bilder, PDFs etc verschieben?
+
+Alle Bilder, PDFs oder sonstige Assets kannst du in `/static` ablegen.
+Während des Buildprozesses wird der Inhalt von `/static` direkt in das Roorverzeichnis kopiert.
+
+Was heißt das für die Dateipfade?
+
+Ein Bild das in `/static/bild.png` liegt wird direkt unter `okfn.de/bild.png` verfügbar sein. Also die Ordnerstruktur bleibt die gleiche, `/static` am Anfang muss weg.
 
 
 ### Was ist mit package.json?
@@ -148,14 +187,23 @@ Package.json dient damit eher als informative Liste, was so benutzt wird.
 
 ### Suche und Suchindexe
 
-### Buildprozess
+Die seitenweite und Blogsuche funktionieren komplett clientseitig mit [lunr.js](https://lunrjs.com/).
+Dafür generiert Hugo zwei JSON-Dateien, einmal mit allen Blogposts und einmal mit allen Inhalten der Seite.
 
+Diese JSON-Dateien werden auf Travis mit Node-Scripten (siehe `/scripts/ci/*`) in Suchindexe geparst und serialisiert (siehe `/scripts/lunr/*`) und wieder als JSON gespeichert.
+
+Die serialisierten Suchindexe können im Browser direkt von lunr gelesen und verwendet werden, das spart die Indexierung 'on the fly' bei jedem Seitenaufruf.
+
+Leider sind die Suchindexe sehr groß, was sich auf die Ladegeschwindigkeit der Seite auswirkt.
+
+### Buildprozess
 
 Der Buildprozess verläuft in mehreren Stufen:
 1. der Push wird von GitHub registriert und stößt einen Build bei [Travis CI](https://travis-ci.com/okfde/okfde-reloaded) an
   - hier wird die Seite mit Hugo gebaut
   - zwei Nodescripte erstellen die Suchindexe (als .json) für die seitenweite und die Blogsuche
   - (wegen dieser Scripte brauchen wir Travis, Hookay kann das nicht alleine)
+  - der Atom und RSS feed wird an die selben Stellen kopiert, auf der sie auf der alten Seite zu finden waren
 2. ist ein Travis-Build auf dem Master branch erfolgreich, pusht Travis die gebaute Seite zurück zu GitHub, aber auf den [Release branch](https://github.com/okfde/okfde-reloaded/tree/release)
   - dieser Badge zeigt den Status des letzten Builds an [![Build Status](https://travis-ci.com/okfde/okfde-reloaded.svg?branch=master)](https://travis-ci.com/okfde/okfde-reloaded)
   - ist der Badge rot ist schon was beim bauen der Seite schief gelaufen. Vermutlich was mit Hugo in den Templates, hier musst du debuggen!
