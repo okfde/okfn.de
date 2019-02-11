@@ -70,7 +70,7 @@ Singerstr. 109<br>
 10179 Berlin<br>
 Deutschland<br>
 <br>
-datenschutz@okfn.de
+datenschutz@okfn.de [<a href="/okf/datenschutz_okfn_de_pub.asc">OpenPGP</a>]
 
 Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der Rechtsanwaltskanzlei https://kanzlei-hubrig.de/
 
