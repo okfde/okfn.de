@@ -1,4 +1,4 @@
-baseURL = "https://beta.okfn.de"
+baseURL = "https://okfn.de"
 languageCode = "de-DE"
 title = "OKF"
 defaultContentLanguage = "de"
