@@ -224,6 +224,8 @@ function expenseViz() {
     var yScale = d3.scaleBand().rangeRound([0, height]);
     var yAxis = d3.axisLeft(yScale);
 
+    data = data.sort((a, b) => b.amount - a.amount);
+
     yScale.domain(data.map(function(d) { return d.item; }));
     svg.append('svg:title').text("Aufschlüsselung der Gesamtausgaben");
 

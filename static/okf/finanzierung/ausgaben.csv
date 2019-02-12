@@ -1,9 +1,9 @@
 item,amount,percentage
-Personalkosten,"1,172,646",89.51
-Reisekosten (projektbezogen),0,0.00
-Honorare (projektbezogen),0,0.00
-Sachkosten (projektbezogen),0,0.00
-Abschreibungen,"2,778",0.21
-Kosten der Organisation,"56,939",4.35
-geleistete Spenden,"10,942",0.84
-gezahlte Umsatzsteuer,"67,099",5.12
+Personalkosten,1172646,55.5
+Reisekosten (projektbezogen),166146,7.86
+Honorare (projektbezogen),503527,23.83
+Sachkosten (projektbezogen),125091,5.92
+Abschreibungen,2778,0.23
+Kosten der Organisation **,64498,3.05
+geleistete Spenden,10942,0.52
+gezahlte Umsatzsteuer,67099,3.18
