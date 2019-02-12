@@ -1,12 +1,12 @@
 ---
-authors: 
+authors:
 - OKF
 date: 2019-01-23
 image:
   src: /files/blog/2019/01/Stellenausschreibung_ReKoUlm.jpg
-  title: Jugend hackt 
-  license: 
-  license_url: 
+  title: Jugend hackt
+  license:
+  license_url:
 tags:
 - Ausschreibung
 - Jobs
@@ -16,6 +16,8 @@ card: true
 published: true
 title: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
 jobs: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
+aliases:
+    - /blog/2019/01/Stellenausschreibung-Regionale-Koordination-Jugend-hackt-Lab-Ulm/
 ---
 
 ### Wer wir sind
@@ -44,7 +46,7 @@ Für die Stelle der regionalen Koordination für die Jugend hackt Lab Region Ulm
 ### Profil
 * Du bringst genau so viel Begeisterung für Programmieren, Making und für gesellschaftspolitische Fragestellungen mit, wie die Jugendlichen unserer Community
 * Freude an der Kommunikation und dem Austausch mit einer jungen Zielgruppe und ein gutes Gespür dafür, was junge Programmierer*innen und Maker*innen interessiert
-* Erfahrung in der Arbeit mit technikinteressierten Jugendlichen 
+* Erfahrung in der Arbeit mit technikinteressierten Jugendlichen
 * Eigenständiges Arbeiten
 * Organisationsstärke
 * Kommunikationsstärke und ein sehr gutes schriftliches Ausdrucksvermögen
@@ -55,7 +57,7 @@ Für die Stelle der regionalen Koordination für die Jugend hackt Lab Region Ulm
 * ein spannendes und kreatives Arbeitsumfeld
 * ein neugieriges, hauptamtliches Berliner Kernteam und ein motiviertes, größtenteils ehrenamtlich tätiges Netzwerk, das sich auf dich freut
 * flexible Arbeitszeiten
-* eine Vergütung angelehnt an TV-L West  E12S1 
+* eine Vergütung angelehnt an TV-L West  E12S1
 
 ### Dein Einsatzort: das Verschwörhaus
 Du arbeitest im außergewöhnlichen Umfeld des [Verschwörhaus in Ulm](https://verschwoerhaus.de/) – dem ersten Maker- und Hackspace Deutschlands, der von einer Kommune getragen wird. Du bist im Arbeitsalltag in das hauptamtliche Team vor Ort eingebunden, das aus der städtischen Geschäftsstelle Digitale Agenda und einer bei der OKF angestellten Kollegin besteht.
@@ -65,7 +67,6 @@ Die Stelle ist zum **01.04.2019 (spätestens zum 01.05.2019)** zu besetzen und z
 
 Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn **bis spätestens 15. März 2019** per E-Mail an [lab-ulm@jugendhackt.org](mailto:lab-ulm@jugendhackt.org).
 
-Die Gespräche finden vom **18. bis 22.03.2019 in Ulm** statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. 
+Die Gespräche finden vom **18. bis 22.03.2019 in Ulm** statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.
 
 Die Jugend hackt Labregion ist ein gemeinsames Angebot der Open Knowledge Foundation Deutschland e.V. (OKF DE), von mediale pfade.org - Verein für Medienbildung e.V. und der Stadt Ulm, Bewerbungen werden von den Organisationen gemeinsam gesichtet.
-
