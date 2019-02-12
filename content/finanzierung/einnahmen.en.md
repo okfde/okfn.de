@@ -7,14 +7,14 @@ weight: 2
 The majority (>81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. onations correspond to approximately 8% of our income. We generated almost 5% through services, sponsoring currently accounts for 4.6% of our funds.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
-    <a href="#incomes" class="mr-xs">Übersicht</a>
-    <a href="#income-institutions" class="">Öffentliche Geldgeber</a>
-    <a href="#income-companies" class=""> Unternehmen</a>
-    <a href="#income-services">Eigenerwirtschaftete Gelder</a>
-    <a href="#income-donations" class="">Spenden</a>
+    <a href="#incomes" class="mr-xs">Overview</a>
+    <a href="#income-institutions" class="">Public funders</a>
+    <a href="#income-companies" class="">Companies</a>
+    <a href="#income-services">Services</a>
+    <a href="#income-donations" class="">Donations</a>
 </div>
 <div class="js-incomes" id="incomes"><div class="einnahmen-kategorien d3chart"></div></div>
-<div class="js-incomes" id="income-donations"><div class="income-donations d3chart"></div></div>
+<div class="js-incomes" id="income-donations"><div class="income-donations d3chart"></div><small>*Organisation does not want to be named publicly, but you can personally inquire their name.</small></div>
 <div class="js-incomes" id="income-institutions"><div class="income-institutions d3chart"></div></div>
 <div class="js-incomes" id="income-companies"><div class="income-companies d3chart"></div></div>
 <div class="js-incomes" id="income-services"><div class="income-services d3chart"></div></div>
