@@ -176,6 +176,16 @@ Was heißt das für die Dateipfade?
 
 Ein Bild das in `/static/bild.png` liegt wird direkt unter `okfn.de/bild.png` verfügbar sein. Also die Ordnerstruktur bleibt die gleiche, `/static` am Anfang muss weg.
 
+### Eine alte URL geht jetzt nicht mehr :(
+
+Du kannst für einen Post oder eine Seite einen 'Alias' anlegen. Hugo wird dann von diesem Alias auf die aktuelle Seite weiterleiten. Das funktioniert über das `aliases:` keyword im Frontmatter.
+
+``` yaml
+aliases:
+  - /blog/old-post-url/
+  - /blog/maybe-even-older/url/
+```
+
 
 ### Was ist mit package.json?
 
