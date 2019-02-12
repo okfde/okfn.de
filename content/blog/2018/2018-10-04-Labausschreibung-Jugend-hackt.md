@@ -16,6 +16,8 @@ card: true
 published: true
 title: "Ausschreibung Jugend hackt Labs – Wir suchen regionale Partner-Organisationen!"
 jobs: "Ausschreibung Jugend hackt Labs – Wir suchen regionale Partner-Organisationen!"
+aliases:
+- /blog/2018/10/Labausschreibung-Jugend-hackt/
 ---
 
 Seit 2013 wird Jugend hackt vom Open Knowledge Foundation Deutschland e.V. (OKF) und mediale pfade.org - Verein für Medienbildung e.V. veranstaltet. Jugend hackt ist ein Programm zur Förderung des Programmiernachwuchses im deutschsprachigen Raum mit gesellschaftspolitischen Fokus. Damit begegnet Jugend hackt zwei Herausforderungen: Erstens der sozialen Benachteiligung im Sinne einer Vereinzelung von Jugendlichen mit hohem Technikinteresse. Denn gerade die hohe Technikbegeisterung und die Zeit vor dem Computer verschiebt die engsten sozialen Kontakte häufig weg von der nächsten Umgebung hin zu ebenfalls technikaffinen Jugendlichen, die im ländlichen Raum seltener anzutreffen sind und deswegen Online stattfinden. Gerade gegenüber Eltern entsteht so einseitiger Rechtfertigungsdruck, da die quantitative Bewertung der Computernutzung meistens im Vordergrund steht. Zweitens greift das Programm den Umstand auf, dass die Digitalisierung der Welt große Veränderungen für die Menschen birgt und sensibilisiert mögliche zukünftige Programmierer/innen für ihre gesellschaftspolitische Verantwortung.
