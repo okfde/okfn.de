@@ -15,16 +15,18 @@ people:
   - name: Elisa Lindinger
     role: Projektleitung
   - name: Adriana Groh
-    role: Program Management
+    role: Head of Program Management
   - name: Katharina Meyer
     role: Head of Communications and Outreach
+  - name: Thomas Friese
+    role: Program Management
   - name: Gregor Gilka
   - name: Julia Kloiber
     role: Co-Founder
 financing:
   - BMBF
 contact_person: katharinameyer
-years: 2014 - today
+years: 2016 - today
 website: https://prototypefund.de
 contact:
   twitter: prototypefund
@@ -36,7 +38,7 @@ contact:
 
 cta: Mitmachen
 cta_text: |-
-     You can apply for the Prototype Fund every 6 months. You can find all the information you need  <a href="https://prototypefund.de/faq/">here</a>.
+     You can apply for the Prototype Fund every 6 months. You can find all the information you need <a href="https://prototypefund.de/faq/">here</a>.
 more_text: |-
     Further information can be found on the <a href="https://prototypefund.de">website</a> of the Prototype Fund.
 ---
@@ -47,6 +49,6 @@ With up to 47,500 euros per project and team, the funding fund supports software
 In addition to financial support, we offer mentor coaching on the way to the prototype and exchange ideas with our extensive and diverse network of coders, other practitioners and potential users.
 
 The application process is kept as unbureaucratic as possible and adapted to the needs of the self-employed. To date, we have already spent 3 million on 81 projects (status after round 4). The programme runs over a total of 8 funding rounds until 2020.
-<br><br>
+</br></br>
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/zgkci_5avz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
