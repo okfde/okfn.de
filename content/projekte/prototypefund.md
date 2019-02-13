@@ -15,16 +15,18 @@ people:
   - name: Elisa Lindinger
     role: Projektleitung
   - name: Adriana Groh
-    role: Program Management
+    role: Head of Program Management
   - name: Katharina Meyer
     role: Head of Communications and Outreach
+  - name: Thomas Friese
+    role: Program Management
   - name: Gregor Gilka
   - name: Julia Kloiber
     role: Co-Founder
 financing:
   - BMBF
 contact_person: katharinameyer
-years: 2014 - heute
+years: 2016 - heute
 website: https://prototypefund.de
 
 contact:
@@ -37,7 +39,7 @@ contact:
 
 cta: Mitmachen
 cta_text: |-
-    Du kannst dich alle 6 Monate auf den Prototype Fund bewerben. Alle Infos hierzu findest du  <a href="https://prototypefund.de/faq/">hier</a>.
+    Du kannst dich alle 6 Monate auf den Prototype Fund bewerben. Alle Infos hierzu findest du <a href="https://prototypefund.de/faq/">hier</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://prototypefund.de">Website</a> des Prototype Fund.
 ---
@@ -48,6 +50,6 @@ Mit bis zu 47.500 Euro pro Projekt und Team unterstützt der Fördertopf Softwar
 Neben der finanziellen Unterstützung bieten wir auf dem Weg zum Prototypen Coachings von Mentorinnen und den Austausch mit unserem umfangreichen und vielfältigen Netzwerk aus Coderinnen, weiteren Praktikerinnen und potenziellen Anwenderinnen.
 
 Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von Selbstständigen angepasst. Bisher konnten wir bereits 3 Millionen an 81 Projekte ausgeben (Stand nach Runde 4). Das Programm läuft über insgesamt 8 Förderrunden noch bis 2020.
-<br><br>
+</br></br>
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/zgkci_5avz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
