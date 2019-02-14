@@ -30,7 +30,7 @@ Wer Daten für alle fordert, sollte selbst auch die eigenen Daten liefern. Daher
 Die Digitalsteuer im Jahr 2018 ist gescheitert, es gibt weiterhin massive Steuerlöcher. Daher müssten wir IT-Konzerne steuern - durch faire Besteuerung.
 
 ## 3. Wettbewerbsgrundlagen sichern 
-Martkeintrittschancen gewährleisten 
+Martkeintrittschancen gewährleisten
 
 ## 4. Diskussion über Daten, Datasharing und alternative Vorschläge
 Konkrete alternative Modelle wären u.a. Technologische Souveränität, mydata/ourdata, ...
