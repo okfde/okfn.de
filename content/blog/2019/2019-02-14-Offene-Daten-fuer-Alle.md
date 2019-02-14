@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2019-02-14
 image:
-  src: /files/blog/2019/02/rollup-offenedatenfueralle.png
+  src: /files/blog/2019/rollup-offenedatenfueralle.png
   title: Offene Daten für Alle 
 tags:
 - PSI
