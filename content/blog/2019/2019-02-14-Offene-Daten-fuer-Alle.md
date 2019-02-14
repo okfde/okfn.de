@@ -35,4 +35,4 @@ Martkeintrittschancen gewährleisten
 ## 4. Diskussion über Daten, Datasharing und alternative Vorschläge
 Konkrete alternative Modelle wären u.a. Technologische Souveränität, mydata/ourdata, ...
 
-Update folgt. [Live-Doc](https://docs.google.com/document/d/1Gu0YC3TvTytMI9iaK1vrk8yrlOwxGeIfqLFloOm9gZk/edit=
+Update folgt. [Live-Doc](https://docs.google.com/document/d/1Gu0YC3TvTytMI9iaK1vrk8yrlOwxGeIfqLFloOm9gZk/edit)
