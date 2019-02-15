@@ -1,11 +1,11 @@
 ---
 author: Maximilian Voigt
-date: 2018-04-25 
-image: 
+date: 2018-04-25
+image:
   src: /files/blog/2018/04/Forum_Open_Education.jpg
   title: Save the Date – Forum Open:Education
-  license: 
-  license_url: 
+  license:
+  license_url:
 type: post
 layout: post
 card: true
@@ -13,9 +13,9 @@ tags:
 - Events
 - Open Education
 
-
-
 title: "Am 6. Juni – Forum Open:Education"
+aliases:
+    - /blog/2018/04/save-the-date-Forum-Open-Education
 ---
 
 *Wie gelingt Bildung für eine offene digitale Gesellschaft? Mit dem „[Forum Open:Education](https://education.forum-open.de/)“ möchten edulabs und das Bündnis freie Bildung die Debatte um zeitgemäßes Lehren und Lernen voranbringen und den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien fördern.*
