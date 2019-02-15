@@ -14,7 +14,7 @@ type: post
 42 Stunden, 48 technikbegeisterte Jugendliche, 16 Mentorinnen und Mentoren, und ebenso viele helfende Hände – das war das Rezept für Jugend hackt Süd. Ermöglicht wurde die Veranstaltung durch den <a href="http://award.codeweek.de/">Code Week Award</a>, den Jugend hackt Süd für die Austragung des Events erhalten hatte.
 
 <figure>
-<a href="http://jugendhackt-de.okblogfarm.org/files/2015/06/18158023784_8532b2fc65_z.jpg"><img  style="float: left; width: 199px; margin-right: 10px"class="wp-image-1248 size-medium" src="http://jugendhackt-de.okblogfarm.org/files/2015/06/18158023784_8532b2fc65_z-199x300.jpg" alt="Spiel des Lebens" /></a></img>
+<a href="http://jugendhackt-de.okblogfarm.org/files/2015/06/18158023784_8532b2fc65_z.jpg"><img  style="float: left; width: 199px; margin-right: 10px"class="wp-image-1248 size-medium" src="http://jugendhackt-de.okblogfarm.org/files/2015/06/18158023784_8532b2fc65_z-199x300.jpg" alt="Spiel des Lebens" /></a>
 <figcaption class="invitation-figcaption">CC BY 3.0 Jugend hackt, Foto: Eva-Maria Kühling/Peter Wozniak</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Das sind nur drei Beispiele von insgesamt elf spannenden Projekten, die von Frei
 
 
 <figure>
-<a href="http://jugendhackt-de.okblogfarm.org/files/2015/06/18159939203_82cb96dbb4_z.jpg"><img  style="float: left; width: 199px; margin-right: 10px"class="wp-image-1248 size-medium" src="http://jugendhackt-de.okblogfarm.org/files/2015/06/18159939203_82cb96dbb4_z-300x199.jpg" alt="Spiel des Lebens" /></a></img>
+<a href="http://jugendhackt-de.okblogfarm.org/files/2015/06/18159939203_82cb96dbb4_z.jpg"><img  style="float: left; width: 199px; margin-right: 10px"class="wp-image-1248 size-medium" src="http://jugendhackt-de.okblogfarm.org/files/2015/06/18159939203_82cb96dbb4_z-300x199.jpg" alt="Spiel des Lebens" /></a>
 <figcaption class="invitation-figcaption">CC BY 3.0 Jugend hackt, Foto: Eva-Maria Kühling/Peter Wozniak</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Die Ergebnisse begeisterten bei der Abschlusspräsentation der Projekte am Sonnt
 
 
 <figure>
-<a href="http://jugendhackt-de.okblogfarm.org/files/2015/06/18213770873_f971c106c7_z.jpg"><img  style="float: left; width: 199px; margin-right: 10px"class="wp-image-1248 size-medium" src="http://jugendhackt-de.okblogfarm.org/files/2015/06/18213770873_f971c106c7_z-300x199.jpg" alt="Spiel des Lebens" /></a></img>
+<a href="http://jugendhackt-de.okblogfarm.org/files/2015/06/18213770873_f971c106c7_z.jpg"><img  style="float: left; width: 199px; margin-right: 10px"class="wp-image-1248 size-medium" src="http://jugendhackt-de.okblogfarm.org/files/2015/06/18213770873_f971c106c7_z-300x199.jpg" alt="Spiel des Lebens" /></a>
 <figcaption class="invitation-figcaption">CC BY 3.0 Jugend hackt, Foto: Eva-Maria Kühling/Peter Wozniak</figcaption>
 </figure>
 
@@ -44,7 +44,6 @@ Und zum Abschluss noch ein Tweet von Mary, der das Wochenende sehr passend zusam
 <blockquote class="twitter-tweet" lang="de">
 <p dir="ltr" lang="de">Immer wenn ich was cooles über <a href="https://twitter.com/hashtag/jugendhackt?src=hash">#jugendhackt</a> twittern will, kann mein Gehirn nur noch "wooooooah" *im Kreis wusel* <a href="https://twitter.com/hashtag/muchcreative?src=hash">#muchcreative</a> ^^'</p>
 — Maria Aufheimer (@Frostarella) <a href="https://twitter.com/Frostarella/status/609867247427952640">13. Juni 2015</a></blockquote>
-<script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 
 <strong>Weitere Infos zu den Projekten finden sich <a href="http://hackdash.org/dashboards/jhsued2015">hier</a>.
 
