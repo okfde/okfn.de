@@ -54,11 +54,6 @@ Das gesamte Comic gibt es hier: [Minecraft-Comic von Linus][1]
 Game of Thoughts ist einer der Workshops, die von den Demokratielaboren angeboten werden. Es geht darum, ein eigenes digitales Spiel zu erstellen. Dazu gibt es verschiedene Plattformen auf denen man das machen kann, zum Beispiel [Bitsy](https://ledoux.itch.io/bitsy). Ich habe selbst ein Spiel erstellt, in dem man erst sein Raumschiff reparieren muss und damit dann nach Hause finden soll. Das Spiel zu erstellen hat nicht sehr lange gedauert. Trotzdem habe ich ganze vier Räume erstellt.
 
 <iframe id="iframe" src="https://okfde.github.io/raumschiff-reparatur/" height="435px" frameBorder="0" style="max-width:100%;"></iframe> 
-<script>
-
-    document.getElementById('iframe').focus();
-
-</script>
 
 Um das Spiel zu starten, drücke die Pfeiltaste auf deiner Tastatur!
 
