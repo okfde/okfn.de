@@ -15,7 +15,6 @@ type: post
 *Berlin, 02.11.2015* – Wie [unlängst angekündigt](/blog/2015/10/die-bahn-kommt-auf-open-data/) hatte die Deutsche Bahn die Öffnung erster Datensätze als „echtes" Open Data in Aussicht gestellt, was nicht ohne Echo blieb:
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/okfde">@okfde</a> <a href="https://twitter.com/_stk">@_stk</a> wooot! For real? Party to celebrate? Champagne? <a href="https://twitter.com/OKFN">@OKFN</a></p>&mdash; Pieter Colpaert (@pietercolpaert) <a href="https://twitter.com/pietercolpaert/status/657633315046957061">October 23, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="de" dir="ltr"><a href="https://twitter.com/_stk">@_stk</a> <a href="https://twitter.com/pietercolpaert">@pietercolpaert</a> nur Aufzuege? Naja... Irgendwo muss man ja anfangen :)</p>&mdash; Tristram Gräbener (@tristramg) <a href="https://twitter.com/tristramg/status/657641902280454145">October 23, 2015</a></blockquote>
 

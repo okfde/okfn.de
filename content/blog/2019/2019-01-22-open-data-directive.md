@@ -50,7 +50,6 @@ welche die Verhandlungen verzögert und das Ergebnis abgeschwächt haben.
 Zur Erinnerung, ohne Daten kein KI-Neuland.
  
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today’s provisional agreement on the Open Data Directive <a href="https://twitter.com/hashtag/PSI?src=hash&amp;ref_src=twsrc%5Etfw">#PSI</a> is crucial for the future of <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a>. <br><br>It opens the door to widespread sharing of high value public <a href="https://twitter.com/hashtag/data?src=hash&amp;ref_src=twsrc%5Etfw">#data</a>. I would like to thank the <a href="https://twitter.com/ro2019eu?ref_src=twsrc%5Etfw">@ro2019eu</a> &amp; the <a href="https://twitter.com/Europarl_EN?ref_src=twsrc%5Etfw">@Europarl_EN</a> for this important result. <a href="https://t.co/vDBVwBDh3D">pic.twitter.com/vDBVwBDh3D</a></p>&mdash; Roberto Viola (@ViolaRoberto) <a href="https://twitter.com/ViolaRoberto/status/1087747077583589377?ref_src=twsrc%5Etfw">January 22, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Vor der Richtlinie ist nach der Richtlinie. 
 Laut letzten Flurfunk sind die High-Data-Value-Sets, also die spannenden, wertvollen Datensätze bis auf die Überschriften noch nicht genau fix definiert.

@@ -17,7 +17,6 @@ type: post
 
 <blockquote class="twitter-tweet" lang="en"><p lang="de" dir="ltr"><a href="https://twitter.com/DB_Bahn">@DB_Bahn</a> / cc <a href="https://twitter.com/jensbest">@jensbest</a> Echter Fortschritt wäre <a href="http://t.co/2Ho63f66">http://t.co/2Ho63f66</a> und eine Runde Internformat. Der Rest kommt dann.</p>&mdash; Mathias Schindler (@presroi) <a href="https://twitter.com/presroi/status/245385532333498368">September 11, 2012</a></blockquote>
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Nun haben die Mühlen gemahlen, und die ersten Datensätze sind da – inklusive eines momentan noch recht überschaubaren Datenportals. Aber immerhin mal auf Schiene.
 

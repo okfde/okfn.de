@@ -54,4 +54,3 @@ Mexico City's new state constitution has been in part [crowdsourced](https://www
 
 [Code.gov](https://code.gov/) is a brand new website that collects and open sources government code. What an excellent idea!
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

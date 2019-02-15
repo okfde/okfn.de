@@ -26,7 +26,6 @@ Seitens der OKF war ich sehr begeistert vom Hackathon in den Bögen des S-Bahnho
 [Die Ergebnisse](https://hackdash.org/dashboards/dbhackatho) reichten von praktisch über spannend bis spaßig: Vom ICE-Wecker, der $n Kilometer vor einem Bahnhof ein Script ausführt, über einen Streetview-Klon für's bessere OSM-Bahn-Mapping, bis zum „BatRadar“, das seheingeschränkten Fahrgästen Echzeitinformationen zur Benutzbarkeit ihres Reisebahnhofs geben kann.
 
 <blockquote class="twitter-tweet" lang="en"><p lang="de" dir="ltr">Dank <a href="https://twitter.com/yetzt">@yetzt</a> kann man mit &quot;<a href="https://t.co/TmYpkdbuHG">https://t.co/TmYpkdbuHG</a>&quot; automatisch 23km vor Bielefeld die Festplatte löschen lassen! :D <a href="https://twitter.com/hashtag/dbhackathon?src=hash">#dbhackathon</a></p>&mdash; Michael Kreil (@MichaelKreil) <a href="https://twitter.com/MichaelKreil/status/675683363487932416">December 12, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="de" dir="ltr">Das Bahnhofsquartett zum Selberschnippeln gibt&#39;s übrigens auf <a href="https://t.co/dEylNr9rQO">https://t.co/dEylNr9rQO</a>. <a href="https://twitter.com/hashtag/dbhackathon?src=hash">#dbhackathon</a> <a href="https://t.co/Y9BZtNODrB">pic.twitter.com/Y9BZtNODrB</a></p>&mdash; Phil Bock (@bockph) <a href="https://twitter.com/bockph/status/675656529459159041">December 12, 2015</a></blockquote>
 
