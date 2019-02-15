@@ -40,7 +40,7 @@
             </span>
           </button>
         </li>
-        {{ with .Site.GetPage "/spenden" }}<li class="c__donate-btn"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/spenden" }}<li><a class="c__donate-btn" href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
     </div>
   </div>
