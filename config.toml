@@ -6,6 +6,7 @@ enableRobotsTXT = true
 
 [permalinks]
   blog = 'blog/:year/:month/:slug/'
+  tags = 'blog/tags/:slug/'
 
 [related]
 threshold = 80
