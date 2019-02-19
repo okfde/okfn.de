@@ -11,6 +11,10 @@ type: post
 layout: post
 card: true
 title: "Wanted: neue Büroräume" 
+
+aliases:
+  - /blog/2018/04/Wanted-neue-Bueroraeume/
+
 ---
 
 Die Open Knowledge Foundation wächst und wächst und wächst und unser Büro platzt bald aus allen Nähten. Help! Unser ewiger Dank und jede Menge Swag ist der- oder demjenigen sicher, die / der uns hilft, schöne neue Räume zu finden!

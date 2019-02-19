@@ -15,6 +15,10 @@ layout: post
 card: true
 published: true
 title: "Durchblick beim Rohstoffabbau" 
+
+aliases:
+  - /blog/2017/10/Durchblick-beim-Rohstoffabbau/
+
 ---
 
 Im Rahmen der Alternativen Rohstoffwoche luden am 19.10.2017 das Forum Ökologisch Soziale Marktwirtschaft, das Forum Umwelt und Entwicklung, die Open Knowledge Foundation Deutschland und Transparency International Deutschland e.V. zur Diskussion bzgl. der Veröffentlichung des [ersten EITI-Transparenzbericht](www.d-eiti.de/wp-content/uploads/2017/08/1_D-EITI_Bericht_-fuer_-2016.pdf). Der Bericht informiert über den deutschen Rohstoffsektor und die mit der Rohstoffförderung verbundenen Finanzströme zwischen Unternehmen und Staat. Sorgt der erste D-EITI-Bericht für mehr Durchblick im deutschen Rohstoffsektor? Wo steht der erste D-EITI-Bericht im internationalen Vergleich? 

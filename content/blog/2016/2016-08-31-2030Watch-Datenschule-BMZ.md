@@ -14,6 +14,10 @@ tags:
 - Civic Tech
 - Data Literacy
 - NGO
+
+aliases:
+  - /blog/2016/08/2030Watch-Datenschule-BMZ/
+
 ---
 
 Wie sich besser für mehr Transparenz und offene Daten einsetzen, als innerhalb der Ministerien selber? Am Tag der offenen Tür beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) waren wir mit den Projekten <a href="https://2030-watch.de/">2030 Watch</a> und der <a href="https://datenschule.de/">Datenschule</a> vertreten.

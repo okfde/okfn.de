@@ -17,6 +17,10 @@ layout: post
 card: true
 published: false
 title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version" 
+
+aliases:
+  - /blog/2018/02/Kommentare-zum-Koalitionsvertrag/
+
 ---
 
 # OKFDE-relevante Punkte des [Koalitionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).

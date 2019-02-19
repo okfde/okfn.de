@@ -16,6 +16,10 @@ layout: post
 card: true
 published: true
 title: "Erster OGP Aktionsplan verabschiedet" 
+
+aliases:
+  - /blog/2017/08/Erster-OGP-Aktionsplan-verabschiedet/
+
 ---
 
 Die Bundesregierung hat den ersten Aktionsplan Open Government Partnership [beschlossen](http://www.bmi.bund.de/SharedDocs/Pressemitteilungen/DE/2017/08/ogp-aktionsplan.html).

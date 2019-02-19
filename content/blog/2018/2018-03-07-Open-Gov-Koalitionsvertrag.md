@@ -14,6 +14,10 @@ tags:
 - open data
 - policy
 title: "Open Government im Koalitionsvertrag"
+
+aliases:
+  - /blog/2018/03/Open-Gov-Koalitionsvertrag/
+
 ---
 
 Mit dem Mitgliedervotum der SPD sowie der Zustimmung von CSU und CDU ist der [Koalitionsvertrag](https://www.cdu.de/koalitionsvertrag-2018) nun offiziell abgesegnet. Nach der Wahl der Bundeskanzlerin durch den Deutschen Bundestag und der Ernennung des neuen Bundeskabinetts kann es also endlich losgehen. Diesen Anlass möchten wir nutzen, um einen genauen Blick darauf zu werfen, was die Neuauflage der Großen Koalition für Open Government in Deutschland bedeutet. Immerhin bekommen wir mit Dorothee Bär nun eine erfahrene Staatsministerin für Digitales, die das Querschnittsthema Digitalisierung im Bundeskanzleramt und über die Ressorts hinweg priorisieren und koordinieren muss.

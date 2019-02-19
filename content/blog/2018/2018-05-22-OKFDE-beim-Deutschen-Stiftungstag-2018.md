@@ -18,6 +18,10 @@ layout: post
 card: true
 published: true
 title: "Open Knowledge Foundation beim Deutschen Stiftungstag 2018"
+
+aliases:
+  - /blog/2018/05/OKFDE-beim-Deutschen-Stiftungstag-2018/
+
 ---
 
 Der Deutsche Stiftungstag wird jedes Jahr vom Verband Deutscher Stiftungen als Informations- und Vernetzungsangebot für seine Mitglieder organisiert. Die diesjährige Ausgabe fand unter dem Motto [Update! - Stiftungen und Digitalisierung](https://www.stiftungen.org/fileadmin/stiftungen_org/Verband/Was_wir_tun/Veranstaltungen/DST/2018/DST18-Programm.pdf) vom 16. - 18. Mai in Nürnberg statt.

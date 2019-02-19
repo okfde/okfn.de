@@ -14,6 +14,10 @@ layout: post
 card: true
 published: true
 title: "Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt"
+
+aliases:
+  - /blog/2018/06/Neuer-Vorstand/
+
 ---
 
 Auf der Mitgliederversammlung des Open Knowledge Foundation Deutschland e.V. (OKF) wurde am 2. Juni 2018 ein neuer Vorstand gewählt.

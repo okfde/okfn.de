@@ -12,6 +12,10 @@ layout: post
 card: true
 published: true
 title: "Berlin Doppelhaushalt 2018/2019 im neuem Design und mit erweiterten Funktionen" 
+
+aliases:
+  - /blog/2018/06/OHH-Berlin/
+
 ---
 
 Der Berliner Senatsverwaltung hat die neue [Haushaltsvisualisierung]( https://www.berlin.de/sen/finanzen/haushalt/haushaltsplan/artikel.5697.php) des Landes Berlins veröffentlicht. Das Land Berlin ist damit das erste Bundesland, das seine Haushaltsdaten auf diese umfassende Weise für Bürger*innen leicht verständlich darstellt. Die Visualisierung ist ein gemeinsames Projekt des Teams Offener Haushalt der Open Knowledge Foundation Deutschland und der Berliner Senatsverwaltung für Finanzen. 

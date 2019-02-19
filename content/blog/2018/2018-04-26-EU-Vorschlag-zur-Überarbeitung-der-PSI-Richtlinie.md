@@ -16,6 +16,10 @@ layout: post
 card: true
 published: true
 title: "EU-Vorschlag zur Überarbeitung der PSI-Richtlinie" 
+
+aliases:
+  - /blog/2018/04/EU-Vorschlag-zur-Überarbeitung-der-PSI-Richtlinie/
+
 ---
 
 Die EU hat den [Vorschlag zur Überarbeitung](https://ec.europa.eu/digital-single-market/en/proposal-revision-public-sector-information-psi-directive) der Richtlinie über die Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie) veröffentlicht. Sie ist auch bekannt als Open Data-Richtline.

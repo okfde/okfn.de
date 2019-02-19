@@ -15,6 +15,10 @@ type: post
 layout: post
 card: true
 title: "Einladung zum Workshop: Analyse und Visualisierung von Schadstoffemissionen" 
+
+aliases:
+  - /blog/2016/10/DS-Codeweek-Workshop-Einladung/
+
 ---
 
 Welche Betriebe belasten die Umwelt in eurer Umgebung am stärksten? Welche Industriebranchen sind für die meisten CO2-Emissionen in Deutschland verantwortlich? Welche Konzerne produzieren den höchsten Abfallberg?

@@ -17,6 +17,10 @@ layout: post
 card: true
 published: true
 title: "Digitale Agenda Stellungnahme & Fachgespräch: Moderner Staat - Chancen durch Digitalisierung" 
+
+aliases:
+  - /blog/2017/06/Moderner-Staat/
+
 ---
 
 Der Ausschuss für [Digitale Agenda](https://www.bundestag.de/ada) des Bundestags befasste sich letzte Woche, am 21.06.2017, in einem öffentlichen Fachgespräch mit dem Thema ["Moderner Staat - Chancen durch Digitalisierung"](https://www.bundestag.de/presse/hib/2017_06/-/511466) und wir waren auch dabei. 

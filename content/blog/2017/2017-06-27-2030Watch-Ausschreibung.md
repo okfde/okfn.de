@@ -16,6 +16,10 @@ layout: post
 card: true
 published: true
 title: "Teilzeit-Entwickler/in bei 2030Watch gesucht" 
+
+aliases:
+  - /blog/2017/06/2030Watch-Ausschreibung/
+
 ---
 
 <b>Entwickler/in (Schwerpunkt Web Development) bei 2030Watch gesucht!</b>

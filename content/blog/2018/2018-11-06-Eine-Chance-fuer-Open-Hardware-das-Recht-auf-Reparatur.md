@@ -15,6 +15,10 @@ layout: post
 card: true
 published: true
 title: "Eine Chance für Open Hardware: das Recht auf Reparatur"
+
+aliases:
+  - /blog/2018/11/Eine-Chance-fuer-Open-Hardware-das-Recht-auf-Reparatur/
+
 ---
 
 In einer Zeit, in der große Teile der technischen Apparate Daten verarbeiten, hat die Forderung nach transparenter Technik einen hohen Stellenwert: Wie erfasst das Smartphone seine Umgebung, welche Daten werden erhoben und wohin gelangen sie? Open Source, das Offenlegen des technischen Aufbaus und die Verwendung von freien Lizenzen, ist hier das bekannte Schlagwort. **Während Open Source für den Bereich der Software ein verbreitetes Thema ist und freie Software weite Teile der Softwareentwicklung bereichert, steckt Open Source Hardware noch in den Kinderschuhen.** Schlimmer noch: Wer sich an die 50er und 60er Jahre erinnert, weiß, dass der Schaltplan oft fester Bestandteil erworbener Geräte war. Heute verschwinden sie immer mehr in verklebten Gehäusen und sollen möglichst wenige Gründe zum Öffnen geben – eine technische Dokumentation liefert nur die nötigsten Informationen.

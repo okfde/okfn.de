@@ -18,6 +18,10 @@ layout: post
 card: true
 
 title: "Die OKF beim Personal Democracy Forum in Danzig"
+
+aliases:
+  - /blog/2017/04/Die-OKF-beim-Personal-Democracy-Forum/
+
 ---
 Personal Democracy Forum in Danzig! Zwei Tage lang treffen sich hier zivilgesellschaftliche Organisationen aus Mittel- und Osteuropa, um über Transparenz, Meinungsfreiheit und Civic-Tech-Projekte in ihren Ländern zu sprechen. Wir aus den Teams OpenBudgets.eu und Datenschule waren dieses Jahr vor Ort und haben sowohl beim OpenContracting Workshop als auch bei unserer World Cafè Session fleißig mitdiskutiert.
 

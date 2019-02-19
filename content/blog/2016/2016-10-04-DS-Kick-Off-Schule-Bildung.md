@@ -15,6 +15,10 @@ type: post
 layout: post
 card: true
 title: Datenschule - Kooperation mit BildungsCent e.V. zu den Themen Schule & Bildung 
+
+aliases:
+  - /blog/2016/10/DS-Kick-Off-Schule-Bildung/
+
 ---
 
 Schule soll neben Mathe, Deutsch und Physik gesellschaftspolitische Kompetenzen aufbauen und Schüler/innen auf die Welt “da draußen” vorbereiten. Nicht immer klappt das gut - wenig Schulbudget, konservative Lernformate und (viel zu?) hohe Anforderungen an die Lehrer/innen machen den Wandel von einer konservativen Schule zu einer gesellschaftsfähigen Schule zu einer Herausforderung. Neuere Themen, bspw. das Programmieren und Medienkompetenzen, werden vor allem über neue Lernmethoden von außerschulischen Programmen vermittelt. 

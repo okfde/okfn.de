@@ -14,6 +14,10 @@ layout: post
 card: true
 published: true
 title: "EITI-Woche in Berlin" 
+
+aliases:
+  - /blog/2018/06/EITI-Woche-in-Berlin/
+
 ---
 Diese Woche findet in Berlin das [internationale Board-Meeting](https://eiti.org/document/40th-board-meeting) von [EITI](https://www.eiti.org) statt.
 

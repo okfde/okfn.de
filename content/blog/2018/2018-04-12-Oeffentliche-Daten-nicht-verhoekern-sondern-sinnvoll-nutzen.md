@@ -16,6 +16,10 @@ tags:
 - transparenz
 
 title: "Datenverkauf bei Kommunen: Öffentliche Daten nicht verhökern, sondern sinnvoll nutzen"
+
+aliases:
+  - /blog/2018/04/Oeffentliche-Daten-nicht-verhoekern-sondern-sinnvoll-nutzen/
+
 ---
 ### Der Städte- und Gemeindebund hat vorgeschlagen, Kommunen sollten ihre Daten verkaufen. Wie man es auch dreht und wendet: Es bleibt eine schlechte Idee.
 

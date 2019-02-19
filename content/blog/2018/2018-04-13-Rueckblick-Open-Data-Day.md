@@ -17,6 +17,10 @@ tags:
 
 
 title: "Rückblick auf unseren Open Data Day 2018"
+
+aliases:
+  - /blog/2018/04/Rueckblick-Open-Data-Day/
+
 ---
 
 Am Samstag, 3. März 2018, fand der jährliche Open Data Day statt. Der Tag wird schon zum fünften Jahr in Folge von Aktivistinnen und Aktivisten auf der ganzen Welt dafür genutzt, um auf die Bedeutung und das Potential offener Daten für die Gesellschaft hinzuweisen. An insgesamt 15 verschiedenen [Veranstaltungen](https://codefor.de/blog/open-data-day.html) quer durch Deutschland nahmen über 500 Leute teil. 

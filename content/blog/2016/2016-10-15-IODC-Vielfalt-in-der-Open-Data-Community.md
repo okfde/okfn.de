@@ -14,6 +14,10 @@ type: post
 layout: post
 card: true
 title: IODC2016 – Vielfältigkeit in der Open Data Community
+
+aliases:
+  - /blog/2016/10/IODC-Vielfalt-in-der-Open-Data-Community/
+
 ---
 
 Dass offene Daten Auftrieb haben, wird nicht zuletzt durch Initiativen wie die <a href="http://www.opengovpartnership.org/">Open Government Partnership</a> oder <a href="https://okfn.de/blog/2016/10/opendata-gesetz/">jüngste Bestrebungen der Koalition</a> deutlich, Datenbestände der Verwaltungen zu öffnen. Auch die <a href="http://opendatacon.org/">International Open Data Conference (IODC)</a> zeigt, dass das Konzept von Open Data mehr und mehr Einzug in die Gesellschaft hält. Jährlich treffen sich Vertreter aus Zivilgesellschaft, Verwaltung und Unternehmen, um sich über neueste Entwicklungen in der Open-Data-Community auszutauschen. Im Rahmen der IODC werden vielfältige Themen im Kontext von Open Data diskutiert. Wir waren mit mehreren Themen auf der Konferenz vertreten.

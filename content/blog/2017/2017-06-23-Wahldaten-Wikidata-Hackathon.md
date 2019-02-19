@@ -15,6 +15,10 @@ layout: post
 card: true
 published: true
 title: "Ulm Wikidata Hackathon" 
+
+aliases:
+  - /blog/2017/06/Wahldaten-Wikidata-Hackathon/
+
 ---
 
 Vom 23. bis 25. Juni fand im [Verschwörhaus in Ulm](https://verschwoerhaus.de/) der #wahldaten-Hackathon mit Wikidata statt. 

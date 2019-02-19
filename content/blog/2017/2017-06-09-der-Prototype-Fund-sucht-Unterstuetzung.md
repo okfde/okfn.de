@@ -13,6 +13,10 @@ layout: post
 card: true
 published: true
 title: "Der Prototype Fund sucht Unterstützung"
+
+aliases:
+  - /blog/2017/06/der-Prototype-Fund-sucht-Unterstuetzung/
+
 ---
 
 Wir – Fiona, Eileen, Elisa und Julia – arbeiten seit über einem Jahr am <a href="https://prototypefund.de">Prototype Fund</a>. Das Projekt ist ein Förderprogramm, das Softwareentwickler*innen, Hacker*innen und Kreative dabei unterstützt, ihre Ideen vom Konzept bis zur ersten Demo zu entwickeln und als Open-Source-Prototypen zu veröffentlichen. Unser Ziel ist es, bestehende Strukturen und Narrative im Bereich der Innovation und Innovationsförderung aufzubrechen und dass mehr digitale Innovationen für die Gesellschaft entstehen. Um das zu erreichen, probieren wir laufend Neues aus und entwickeln das Programm weiter. Jetzt suchen wir dabei Verstärkung.

@@ -14,6 +14,10 @@ tags:
 - Germany
 - Open-Data-Law
 title: "Germany finally has an Open Data Law"
+
+aliases:
+  - /blog/2017/08/Germany-finally-has-an-open-data-law/
+
 ---
 
 On July 13, 2017 Germany’s first Open Data law came into effect, finally enabling free access to government data. The Open Data law is part of the change of the German E-Government law [(EGovG)](https://www.gesetze-im-internet.de/egovg/__12a.html), which we translated [here](https://okfn.de/blog/2017/07/Germany's-open-data-law-english/). While it is neither part of the freedom of information act nor an actual transparency law, it provides the judicial foundation for obtaining data from all public authorities subject to the federal government. The authorities will provide raw data on publicly accessible networks, if it was stored in an electronically structured form and includes facts that regard circumstances outside of the administration. Furthermore, a central support agency for open data will be established. 

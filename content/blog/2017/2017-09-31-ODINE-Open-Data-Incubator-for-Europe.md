@@ -11,6 +11,10 @@ layout: post
 published: true
 card: true
 title: "ODINE - Open Data Incubator for Europe erfolgreich abgeschlossen!" 
+
+aliases:
+  - /blog/2017/09/ODINE-Open-Data-Incubator-for-Europe/
+
 ---
 
 [ODINE](https://opendataincubator.eu/), das mit Abstand beste und startup- & SME-freundlichste Programm von H2020, ging erfolgreich zu Ende. Insgesamt gab es 5.4 Millionen Euro für 57 Open Data Projekte und Firmen in 18 Ländern.

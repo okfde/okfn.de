@@ -17,6 +17,10 @@ tags:
 
 
 title: "Der Turing-Bus kommt nach Cottbus"
+
+aliases:
+  - /blog/2018/04/Turing-Bus-in-Cottbus/
+
 ---
 
 Der [Turing-Bus](https://turing-bus.de/), ein mobiles Bildungsangebot der [Gesellschaft für Informatik](https://gi.de/) und der Open Knowledge Foundation Deutschland, fährt am <b>26. April 2018</b> seine erste Station in Cottbus an. Der Bus hält im Rahmen des [Wissenschaftsjahres 2018](https://www.wissenschaftsjahr.de/2016-17/aktuelles/alle-aktuellen-meldungen/juli-2017/wissenschaftsjahr-2018-arbeitswelten-der-zukunft.html) unter dem Motto- „Arbeitswelten der Zukunft" an Schulen und Jugendclubs in kleinen bis mittelgroßen Städten in Deutschland.

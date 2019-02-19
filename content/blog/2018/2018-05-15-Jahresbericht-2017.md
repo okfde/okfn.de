@@ -16,6 +16,10 @@ layout: post
 card: true
 published: true
 title: "Der Jahresbericht 2017 der Open Knowledge Foundation Deutschland" 
+
+aliases:
+  - /blog/2018/05/Jahresbericht-2017/
+
 ---
 
 Unser [Jahresbericht 2017 ist online!](https://okfn.de/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)

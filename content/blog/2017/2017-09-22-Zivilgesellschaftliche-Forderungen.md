@@ -16,6 +16,10 @@ type: post
 layout: post
 card: true
 title: "Zivilgesellschaftliche Forderungen an die zukünftige Bundesregierung" 
+
+aliases:
+  - /blog/2017/09/Zivilgesellschaftliche-Forderungen/
+
 ---
 
 Digitalisierung ist ein zentrales Thema für eine neue Bundesregierung. Die Open Knowledge Foundation Deutschland ist eine der größten zivilgesellschaftlichen Organisationen in diesem Bereich. Wir setzen uns für den freien Zugang zu Informationen ein, vermitteln Wissen und stärken die digitale Zivilgesellschaft.

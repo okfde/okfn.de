@@ -14,6 +14,10 @@ layout: post
 card: true
 published: true
 title: "PSI public sector information"
+
+aliases:
+  - /blog/2018/12/PSI-public-sector-information/
+
 ---
 Opendata in Europe, on the re-use of public sector information, otherwise known as the PSI Directive, is an EU directive that encourages EU member states to make as much public sector information available for re-use as possible.<br>
 <i>Documents & upcoming English summary <a href="https://okfn.de/blog/2018/12/PSI-public-sector-information#english">below</a></i>.

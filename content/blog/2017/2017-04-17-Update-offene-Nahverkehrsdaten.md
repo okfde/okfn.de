@@ -18,6 +18,10 @@ card: true
 published: true
 
 title: "Und es bewegt sich doch: Beim öffentlichen Nahverkehr"
+
+aliases:
+  - /blog/2017/04/Update-offene-Nahverkehrsdaten/
+
 ---
 
 Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) gibt es einige erfreuliche Entwicklungen:
