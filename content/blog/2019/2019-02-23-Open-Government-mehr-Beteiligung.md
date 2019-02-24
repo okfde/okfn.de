@@ -5,8 +5,8 @@ date: 2019-02-23
 image:
   src: /files/blog/2018/08/OGP-Georgia.jpg
   title: "OGP Georgia"
-  license: CC BY 2.0
-  license_url: https://creativecommons.org/licenses/by/2.0/de/
+  license:
+  license_url:
 tags:
 - Open Government
 - Beteiligung
