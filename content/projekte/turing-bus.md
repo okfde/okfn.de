@@ -2,7 +2,7 @@
 type: education
 title: Turing-Bus
 subtitle: Mobiles Bildungsprojekt im ländlichen Raum
-Kategorie:
+kategorien:
   - Bildung
 categories:
   - Education
