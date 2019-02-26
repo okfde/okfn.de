@@ -3,7 +3,7 @@ authors:
 - Michael Peters
 date: 2019-02-26
 image:
-  src: /files/blog/2019/odd-karlsruhe.jpg
+  src: static/files/blog/2019/odd-karlsruhe.jpg
   title: "ODD Karlsruhe"
   license:
   license_url:
