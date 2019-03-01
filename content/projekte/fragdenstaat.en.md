@@ -14,23 +14,23 @@ img_header: projects/FragDenStaat_Header.jpg
 website: https://fragdenstaat.de
 people:
   - name: Arne Semsrott
-    role: Projektleiter
+    role: Project manager
   - name: Stefan Wehrmeyer
     role: Tech Lead
   - name: Sebastian Schröder
     role: Volunteer
 contact_person: arnesemsrott
-years: 2011 - heute
+years: 2011 - today
 financing:
   - demokratie.io
-  - Spenden
+  - Donations
 contact:
   website: https://fragdenstaat.de
   twitter: fragdenstaat
   github: https://github.com/okfde/fragdenstaat_de
   mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
 video: "https://player.vimeo.com/video/102604678"
-cta: Mitmachen
+cta: Participate
 cta_text: |-
   You also have a question for an authority? Make an request now! 
 more_text: |-

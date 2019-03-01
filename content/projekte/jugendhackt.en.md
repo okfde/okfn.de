@@ -10,7 +10,7 @@ tile: double
 weight: 6
 layout: project
 title: Jugend hackt
-website: https://jugendhackt.de
+website: https://jugendhackt.org
 img: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/Jugendhackt_Header.png
@@ -26,16 +26,16 @@ people:
   - name: Philip Steffan
     role: Community
   - name: Cin Pietschmann
-    role: Studentische Hilfskraft
+    role: Student Assistant
   - name: Torben Reichert
-    role: Entwickler
+    role: Developer
 contact_person: paulaglaser
 years: 2012 - today
 partners:
-  - MedialePfade
+  - mediale pfade e.V.
 financing:
   - SKala
-  - Spenden
+  - Donations
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt
@@ -58,7 +58,7 @@ more_text: |-
 Jugend hackt is a program designed to support young coders.
 
 While such competitions as ‘Jugend musiziert’ (Music) and ‘Jugend forscht’ (Science) have been established in Germany for decades, there are few intiatives directed towards young talent in the field of software development.
-To fill this gap, Open Knowledge Foundation Deutschland e.V., together with a media education agency, Mediale Pfade, organized the first Jugend hackt event in 2013.
+To fill this gap, Open Knowledge Foundation Deutschland e.V., together with a media education agency, Mediale Pfade e.V., organized the first Jugend hackt event in 2013.
 Since then, it has become a successful and well-established hackathon for young coders from all over Germany.
 
 <div class="two-img offset-lg-2">
