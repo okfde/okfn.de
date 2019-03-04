@@ -4,7 +4,7 @@ kategorien:
   - Offenes Regierungshandeln
 categories:
   - Open Government
-tile: single
+tile: double
 layout: project
 title: Volksentscheid Transparenz Berlin
 subtitle: Wissen für alle!
