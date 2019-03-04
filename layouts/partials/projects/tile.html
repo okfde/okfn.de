@@ -6,7 +6,7 @@
            {{if and .Params.kategorien .Params.categories}},{{end}}
            {{range $i,$v :=  .Params.categories}}{{ if ne $i 0 }},{{ end }}"{{$v | anchorize}}"{{end}}]'>
   <a href="{{.Permalink}}" class="c__tile {{with .Params.tile}}c__tile--{{.}}{{end}}" style="background-image: url(/files/{{.Params.img}})">
-    <h2 class="h3 c__tile__title">{{.Title}}</h2>
+    <h2 class="h3 c__tile__title {{.Params.tileclass}}">{{.Title}}</h2>
     <div class="c__tile__overlay">
       <h2 class="h3 c__tile__title">{{.Title}}</h2>
       {{ with .Params.subtitle}}<p class="c__tile__subtitle">{{.}}</p>{{ end }}
