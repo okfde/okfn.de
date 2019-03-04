@@ -3,6 +3,7 @@ title: Code for Germany
 subtitle: "Community mit Hunderten freiwilligen Stadtentwicklern"
 layout: project
 tile: double
+tileclass: dark
 kategorien:
   - Community
   - Civic Tech

@@ -2,6 +2,7 @@
 type: politics
 subtitle: Wir knacken die Schufa
 tile: single
+tileclass: mixed
 title: OpenSchufa
 layout: project
 img: projects/openSchufa_Projektuebersicht_smallTile.jpg

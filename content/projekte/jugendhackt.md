@@ -7,6 +7,7 @@ categories:
   - Education
   - Community
 tile: double
+tileclass: dark
 layout: project
 weight: 6
 title: Jugend hackt
