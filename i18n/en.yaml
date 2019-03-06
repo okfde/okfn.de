@@ -44,6 +44,12 @@
   translation: "Learn more about"
 - id: blog_search
   translation: "Search blog"
+- id: blog_search_verb
+  translation: "search"
+- id: blog_next
+  translation: "Older"
+- id: blog_prev
+  translation: "Newer"
 - id: job_current
   translation: "Current openings"
 - id: donation_owner

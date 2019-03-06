@@ -46,6 +46,12 @@
   translation: "Mehr zu"
 - id: blog_search
   translation: "Blog durchsuchen"
+- id: blog_search_verb
+  translation: "durchsuchen"
+- id: blog_next
+  translation: "Älter"
+- id: blog_prev
+  translation: "Neuer"
 - id: job_current
   translation: "Aktuelle Ausschreibungen"
 - id: donation_owner
