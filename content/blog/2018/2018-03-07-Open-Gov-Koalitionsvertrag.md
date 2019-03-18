@@ -1,5 +1,6 @@
 ---
-authors: Michael Peters
+authors: 
+- Michael Peters
 date: 2018-03-07
 image: 
   src: /files/blog/2017/09/kanzleramt-cc0.jpg
