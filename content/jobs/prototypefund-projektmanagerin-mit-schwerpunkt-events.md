@@ -53,7 +53,7 @@ Im Team übernimmst du die Organisation und Koordination unserer Events und unte
 Bewerbungen bitte ohne Foto und Altersangabe **bis 21.4.2019** an:  
 [jobs@okfn.de](mailto:jobs@okfn.de)
 
-**Vertragsbeginn spätestens 01.06.2019
-Zeitl. Aufwand: 40h/Woche (Teilzeitregelung nach Absprache möglich)
-Gehalt: nach TV-L E12/S1
+**Vertragsbeginn spätestens 01.06.2019  
+Zeitl. Aufwand: 40h/Woche (Teilzeitregelung nach Absprache möglich)  
+Gehalt: nach TV-L E12/S1  
 Ort: Berlin**
