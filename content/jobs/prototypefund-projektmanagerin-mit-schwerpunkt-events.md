@@ -10,29 +10,29 @@ image:
 published: true
 title: "Prototype Fund sucht Verstärkung: Projektmanager*in mit Schwerpunkt Events (m/w/*)"
 ---
-Der Prototype Fund ist das erste Förderprogramm in Deutschland, das selbstständige Softwareentwickler\*innen, Hacker\*innen und Kreative dabei unterstützt, ihre Ideen in den Bereichen Civic Tech, Digital Literacy, IT-Sicherheit und Software-Infrastruktur umzusetzen. Wir (Adriana, Katharina und Thomas) suchen dabei nun Verstärkung mit Talent für Eventmanagement!
+Der Prototype Fund ist das erste Förderprogramm in Deutschland, das selbstständige Softwareentwickler\*innen, Hacker\*innen und Kreative dabei unterstützt, ihre Ideen in den Bereichen Civic Tech, Digital Literacy, IT-Sicherheit und Software-Infrastruktur umzusetzen. Unser Ziel ist es, technische Innovationen in den Dienst der Gesellschaft zu stellen. Wir (Adriana, Katharina und Thomas) suchen dabei jetzt Verstärkung mit Talent für Eventmanagement!
 
-Unser Ziel ist es, digitale Innovationen für die Gesellschaft zu unterstützen.Du arbeitest eigenständig und hast Lust, dich weiterzuentwickeln und Neues zu lernen? Du willst gemeinsam mit uns ein Pionier-Projekt unterstützen und voranbringen? Dann freuen wir uns auf deine Bewerbung:
+Du willst gemeinsam mit uns ein Pionier-Projekt voranbringen? Du arbeitest eigenständig und hast Lust, dich weiterzuentwickeln und Neues zu lernen? Dann freuen wir uns auf deine Bewerbung:
 
-## Projektmanager\*in mit Schwerpunkt Events (m/w/\*)
+## Projektmanager\*in mit Schwerpunkt Events (m/w/*)
 
-Du bist eine Enablerin! Du möchtest Innovationen mit gesellschaftlichem Mehrwert unterstützen, hast Lust auf Veranstaltungsmanagement und ein Herz für Tech-Projekte aller Art. Du betreust unsere geförderten Projekte, stehst in ständigem Austausch mit den Menschen hinter den Projekten und unterstützt sie bei organisatorischen Fragen.
+Du bist eine Macherin! Du willst Software-Projekte mit gesellschaftlichem Mehrwert unterstützen, hast Lust auf Veranstaltungsmanagement und ein Händchen für Multitasking. Du betreust unsere geförderten Projekte, stehst in ständigem Austausch mit den Menschen hinter den Projekten und hilfst bei organisatorischen Fragen sowie bei der Außendarstellung.
 
-Im Team übernimmst du die Organisation und Koordination unserer Events und unterstützt die Projekte dabei, ihre Arbeit vorzustellen und sich zu vernetzen. Du betreust zusammen mit unserem Programmmanager unsere Förderprojekte und die Community und unterstützt ihre Arbeit.
+Im Team übernimmst du die Organisation und Koordination der Events und unterstützt die Projekte dabei, ihre Anwendungen vorzustellen und sich zu vernetzen. Du betreust zusammen mit unserem Programmmanager Förderprojekte und Community und unterstützt ihre Arbeit.
 
 ### Deine Aufgabenbereiche sind:
 
-* Projektebetreuung: Du kommunizierst mit unseren Förderprojekten und begleitest sie als Ansprechpartner\*in in guten wie schlechten Coding-Wochen und bei administrativen oder inhaltlichen Fragen. Darüber hinaus stehst du auch als eine Kontaktperson für die Alumni-Community zur Verfügung.
-* Community-Aufbau: Du hältst die Fäden zusammen und bist kreativ dabei, wie man eine Community aufbaut und bestmöglich vernetzt.
-* Eventmanagement: Du bist die zentrale Figur im Team, die die Prototype-Fund-Events mit Weitsicht und Blick auf die Community ebenso wie die breitere Öffentlichkeit betreut und plant.
-* Du vertrittst das Projekt nach außen, z.B. auf Community Events.
+* Projektebetreuung: Du kommunizierst mit unseren geförderten Projekten und begleitest sie als Ansprechpartner\*in in guten wie schlechten Coding-Wochen und hilfst bei administrativen Fragen. Darüber hinaus stehst du auch als eine Kontaktperson für die Alumni-Community zur Verfügung.
+* Communitybuilding: Du hältst die Fäden zusammen und überlegst dir Formate und Prozesse, wie man ein Netzwerk aufbaut und bestmöglich unterstützt.
+* Eventmanagement: Du bist die zentrale Figur im Team, die die Prototype-Fund-Events mit Weitsicht und Blick auf die Community ebenso wie die breitere Öffentlichkeit plant und betreut.
+* Du unterstützt bei der Vertretung des Projekts nach außen, z.B. auf Konferenzen, Hackathons oder anderen Events.
 
 ### Wichtig für uns ist:
 
-* Du arbeitest strukturiert, bringst erste Vorkenntnisse im Projektmanagement mit und kannst selbständig Prioritäten setzen,
-* Du organisierst gerne Events und wirst dabei kreativ,
-* Du hast überdurchnittlich hohes Interesse an technischen Themen und Open Source Entwicklung,
-* Du hast Lust darauf, Communities, Ideen und Entwickler\*innen zu vernetzen,
+* Du arbeitest strukturiert, bringst erste Vorkenntnisse in Projektmanagement und dafür notwendigen Tools mit und kannst selbstständig Prioritäten setzen,
+* Du organisierst gerne Events und behältst dabei die Übersicht,
+* Du hast hohes Interesse an technischen Themen und Open-Source-Entwicklung,
+* Du hast Lust darauf, Communities, Ideen und Entwickler\*innen zu vernetzen und bist kommunikativ und offen,
 * Du bist eine Teamplayer\*in.
 
 ### Toll wäre:
