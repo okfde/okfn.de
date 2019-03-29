@@ -53,4 +53,5 @@ Bewerbungen bitte ohne Foto und Altersangabe bis **21.4.2019** an:
 **Vertragsbeginn spätestens 01.06.2019  
 Zeitl. Aufwand: 40h/Woche (Teilzeitregelung nach Absprache möglich)  
 Gehalt: nach TV-L E12/S1  
-Ort: Berlin**
+Ort: Berlin  
+Die Position ist bis Februar 2021 befristet.**
