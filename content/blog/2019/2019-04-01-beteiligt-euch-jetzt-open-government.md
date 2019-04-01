@@ -1,7 +1,7 @@
 ---
 authors: 
 - Michael Peters
-date: 2019-04-01
+date: 2019-03-31
 image: 
   src: /files/blog/2019/auftakt-ogpde-19.jpg
   title: "OGP Auftakt Workshop"
