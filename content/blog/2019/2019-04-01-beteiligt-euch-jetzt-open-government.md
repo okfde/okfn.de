@@ -23,7 +23,7 @@ Bis zum 26. April ist es einen Monat lang möglich, hierzu online Ideen einzurei
 
 Wir möchten euch alle dazu ermutigen eure Ideen für ein offenes Regierungs und Verwaltungshandeln einzureichen. Je mehr Beispiele und Argumente für eine Idee eingebracht werden, desto höher stehen die Chancen auf Verwirklichung. Erste Ideen wurden bereits eingereicht, [hier](https://ogpde.yrpri.org/) könnt ihr euch inspirieren lassen, eigene Vorschläge einreichen oder für bestehende Ideen abstimmen. 
 
-Ein thematischer Einstieg zu [Open Government](https://okfn.de/blog/2019/02/open-government-mehr-beteiligung/) sowie weitere Informationen findet sich [hier](https://opengovpartnership.de/ressourcen/). Bei Fragen könnt ihr uns unter: info@opengovpartnership.de schreiben oder auf Twitter mit dem Hashtag #OGPDE. 
+Ein thematischer Einstieg zu [Open Government](https://okfn.de/blog/2019/02/open-government-mehr-beteiligung/) sowie weitere Informationen findet sich [hier](https://opengovpartnership.de/ressourcen/). Bei Fragen könnt ihr uns eine [Email](mailto: info@opengovpartnership.de) schreiben oder auf Twitter den Hashtag #OGPDE verwenden. 
 
 Für die Konsultation wird die isländische Open Source Webanwendung Your Priorities genutzt, welche von der Citizens Foundation betrieben wird. Um Vorschläge einzureichen ist eine einmalige Registrierung mit Emailadresse und Kennwort unter [https://ogpde.yrpri.org](https://ogpde.yrpri.org) nötig.
 
