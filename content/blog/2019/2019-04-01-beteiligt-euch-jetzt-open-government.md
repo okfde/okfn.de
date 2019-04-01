@@ -14,6 +14,7 @@ type: post
 layout: post
 card: true
 published: true
+featured: blue
 title: "Beteiligt euch jetzt: Online Konsultation Open Government"
 ---
 
