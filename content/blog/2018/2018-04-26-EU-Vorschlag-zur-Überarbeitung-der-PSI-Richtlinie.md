@@ -19,6 +19,7 @@ title: "EU-Vorschlag zur Überarbeitung der PSI-Richtlinie"
 
 aliases:
   - /blog/2018/04/EU-Vorschlag-zur-Überarbeitung-der-PSI-Richtlinie/
+  - /de/blog/2018/04/EU-Vorschlag-zur-Überarbeitung-der-PSI-Richtlinie/
 
 ---
 
