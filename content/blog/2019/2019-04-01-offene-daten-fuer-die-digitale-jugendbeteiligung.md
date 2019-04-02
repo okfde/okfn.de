@@ -4,7 +4,7 @@ authors:
 date: 2019-04-01
 image: 
   src: /files/blog/2019/daten.jpg
-  title: ""
+  title: "CC BY 4.0, OKF DE, Foto: Lea Pfau"
   license: "CC BY 4.0, OKF DE, Foto: Lea Pfau"
 tags:
 - Open Data
@@ -14,7 +14,6 @@ type: post
 layout: post
 card: true
 published: true
-featured: blue
 title: "Offene Daten für die digitale Jugendbeteiligung"
 
 ---
