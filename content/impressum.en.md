@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: Imprint
 meta: OKF DE Impressum, Vereinsadresse, Datenschutzerklärung
 ---
 

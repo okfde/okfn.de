@@ -16,13 +16,13 @@
     title: Gewinn- und Verlustrechnung 2017
     text: Die Gesamteinnahmen betrugen 2.066.047,51 €. Dem standen Gesamtausgaben von insgesamt 2.112.418,39 € gegenüber.
   en:
-    title: Gewinn- und Verlustrechnung 2017 [DE]
-    text: ""
+    title: Profit and loss account 2017 [DE]
+    text: Total revenues amounted to € 2,066,047.51. This was offset by total expenditure of € 2,112,418.39.
   path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf
 - de:
     title: Gewinn- und Verlustrechnung
   en:
-    title: Gewinn- und Verlustrechnung [DE]
+    title: Profit and loss account [DE]
   years:
     - 2016
     - 2015
