@@ -1,15 +1,15 @@
 ---
 authors: 
 - Andreas Pawelke
-date: 2019-04-05
+date: 2019-04-04
 image: 
   src: /files/blog/2019/data-types.png
   title: "Data Types"
   license: CC 0
 tags:
-- Open Government
-- Beteiligung
-- Transparenz
+- Data Philantropy
+- Privacy
+
 type: post
 layout: post
 card: true
