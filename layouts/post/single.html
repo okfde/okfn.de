@@ -37,7 +37,7 @@
     <div class="container c__post__visual c__post__bg--{{.Params.featured}}">
       <div class="row">
         <div class="col col-md-6 offset-md-3 c__post__image">
-          <img src="{{.Params.image.src}}" alt="{{.Params.image.title}}">
+          {{- partial "blog_image_license" . -}}
         </div>
       </div>
     </div>
