@@ -3,27 +3,25 @@ title: Imprint
 meta: OKF DE Impressum, Vereinsadresse, Datenschutzerklärung
 ---
 
-**Vereinsadresse:**<br>
-Open Knowledge Foundation Deutschland e.V.<br>
+**Club address:**<br>
+Open Knowledge Foundation Germany e.V.<br>
 Singerstr. 109<br>
 10179 Berlin</br>
-Deutschland
+Germany 
 
-**E-Mail:** info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]<br>
-**Telefon:** +49 30 57 70 36 660<br>
+**E-mail:** info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]<br>
+**Phone:** +49 30 57 70 36 660<br>
 **Fax:** +49 30 57 70 36 669
 
 [OpenStreetMap](https://www.openstreetmap.org/way/29386807) - [Google Maps](https://www.google.com/maps/place/Singerstra%C3%9Fe+109,+10179+Berlin/@52.5167261,13.4232556,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3db119b3fd:0x9131b3b816d6709!8m2!3d52.5167261!4d13.4254443?hl=en)
 
 
-**Vereinsregister Nr:** VR 30468 B<br>
-**Umsatzsteuernummer:** DE278022128
+**Register of Associations No:** VR 30468 B<br>
+**VAT number:** DE278022128
 
 
-**Technisch:**
-    Statisches HTML generiert mit [Hugo](https://gohugo.io/)
-
-
+**Technical:**
+Static HTML generated with [Hugo](https://gohugo.io/)
 
 
 ### Haftungsausschluss
