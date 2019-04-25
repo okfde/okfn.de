@@ -58,9 +58,9 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Assistenz der Geschäftsführung
+  position: Referentin der Geschäftsführung
   position_en: Management assistance
-  bio: "Juliane unterstützt die OKF als Referentin der Geschäftsführung und hilft den Demokratielaboren bei der Zahlen- und Tabellenjonglage. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte, am liebsten mit !Cyber!context, und ist immer wieder Teil ehrenamtlicher Projekte des Netzwerks der BücherFrauen des FIfF, außerdem derzeit Teil des Orgateams von Bits&Bäume, der Konferenz für Digitalisierung und Nachhaltigkeit. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
+  bio: "Juliane unterstützt die OKF als Referentin der Geschäftsführung und hilft den Demokratielaboren bei der Zahlen- und Tabellenjonglage. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte, am liebsten mit !Cyber!context, und ist immer wieder Teil ehrenamtlicher Projekte des Netzwerks der BücherFrauen und des FIfF, war außerdem Teil des Orgateams von Bits&Bäume, der Konferenz für Digitalisierung und Nachhaltigkeit. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
   bio_en: "Juliane works for the OKF as assistance to the management and suppports the Demokratielabore project with their finances. She is also part of the Bits&Bäume team organizing a conference for digitalization and sustainability in Berlin."
   mail: juliane.krueger@okfn.de
   twitter:
@@ -623,7 +623,7 @@
 - name: Jessica Binsch
   title:
   img: jessicabinsch
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Projektmanagement Prototype Fund

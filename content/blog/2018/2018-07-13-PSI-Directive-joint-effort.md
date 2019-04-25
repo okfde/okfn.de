@@ -62,7 +62,7 @@ We will coordinate the Open Knowledge Network and friends.
 12.09.2018 [ITRE Draft](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.664+01+DOC+PDF+V0//EN&language=EN)<br>
 01.10.2018 [Proposal for a Directive of the European Parliament and of the Council on the re-use of public sector information (recast) - Presidency compromise text](http://data.consilium.europa.eu/doc/document/ST-12466-2018-INIT/en/pdf)
 <br>
-[List of high value data sets proposed at IMCO](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/PSI-high-value-data-sets.csv)
+[List of high value data sets proposed at IMCO](http://okfn.de/files/blog/2018/08/PSI-high-value-data-sets.csv)
 
 On the 25th of October there will be a PSI-policy meeting at the [European Data Summit](http://www.kas.de/wf/en/17.78393/)<br>
 ~12:00/12:30 - 14:00, remote participation is possible, more infos walter@okfn.de.

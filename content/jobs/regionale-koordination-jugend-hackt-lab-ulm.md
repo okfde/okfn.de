@@ -7,7 +7,7 @@ image:
   title: Jugend hackt
   license:
   license_url:
-published: true
+published: 
 title: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
 ---
 

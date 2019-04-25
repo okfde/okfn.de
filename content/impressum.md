@@ -18,7 +18,7 @@ Deutschland
 
 **Vereinsregister Nr:** VR 30468 B<br>
 **Umsatzsteuernummer:** DE278022128
-
+**Registergericht:** Amtsgericht Charlottenburg
 
 **Technisch:**
     Statisches HTML generiert mit [Hugo](https://gohugo.io/)
