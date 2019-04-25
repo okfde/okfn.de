@@ -11,12 +11,12 @@ img: projects/Datenschule_Projektuebersicht_smallTile.png
 img_square:
 img_header:
 people:
-  - name: Anna Alberts
-    role: Projektleitung
+  - name: Lydia Böttcher
+    role: Projektmanagement Workshops
   - name: Jasmin Helm
-    role: Kommunikation
+    role: Projektmanagement Kommunikation
   - name: Lisa Passing
-    role: Entwicklerin
+    role: Software-Entwicklung
 contact_person: jasminhelm
 years: 2015 - 2017
 website: https://datenschule.de
