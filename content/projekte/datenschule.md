@@ -18,7 +18,7 @@ people:
   - name: Lisa Passing
     role: Software-Entwicklung
 contact_person: jasminhelm
-years: 2015 - 2017
+years: 2015 - heute
 website: https://datenschule.de
 contact:
   twitter: datenschule
