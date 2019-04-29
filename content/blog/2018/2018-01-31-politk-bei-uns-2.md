@@ -1,11 +1,12 @@
 ---
-authors: Ernesto Ruge
+authors:
+    - Ernesto Ruge
 date: 2018-01-31
-image: 
+image:
   src: /files/blog/2018/01/politik-bei-uns.png
   title: "Das kommunale Transparenz-Portal Politik bei uns"
-  license: 
-  license_url: 
+  license:
+  license_url:
 type: post
 layout: post
 card: true
@@ -17,7 +18,7 @@ tags:
 title: "Veröffentlichung des kommunalen Transparenz-Portals Politik bei uns 2"
 ---
 
-Im Stadt- oder Landrat werden Entscheidungen getroffen, die Bürgerinnen und Bürger ganz direkt betreffen. Der Zugang dazu war bislang aber recht schwierig. "[Politik bei uns](https://politik-bei-uns.de/)" macht politische Entscheidungen einfach zugänglich, so dass es viel leichter wird, sich zu informieren und mitzubestimmen. 
+Im Stadt- oder Landrat werden Entscheidungen getroffen, die Bürgerinnen und Bürger ganz direkt betreffen. Der Zugang dazu war bislang aber recht schwierig. "[Politik bei uns](https://politik-bei-uns.de/)" macht politische Entscheidungen einfach zugänglich, so dass es viel leichter wird, sich zu informieren und mitzubestimmen.
 
 Dahinter steckt [OParl](https://oparl.org), ein von der OKF entwickelter und betreuter Industriestandard für Gremiendaten. Im Rahmen eines [OpenNRW-Förderprojektes](https://open.nrw/pilotprojekt-kommunales-open-government-nrw) unter der Leitung des [KDVZ Rhein Erft Rur](https://www.kdvz-frechen.de/) haben nun 27 Kommunen ihre Daten veröffentlicht. Das ebenfalls neu entwickelte "Politik bei uns 2" bereitet die Daten auf und stellt sie ab sofort mit einer komfortablen Text- und Geo-Suche für alle bereit. Und selbstverständlich gilt: Mitmachen ist erwünscht!
 
