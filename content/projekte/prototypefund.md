@@ -3,7 +3,8 @@ title: Prototype Fund
 subtitle: 47.500€ für deine Public-Interest-Tech-Idee
 type: research
 kategorien:
-  -
+  - Civic Tech
+  - Community
 tile: double
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
@@ -28,7 +29,6 @@ financing:
 contact_person: katharinameyer
 years: 2016 - heute
 website: https://prototypefund.de
-
 contact:
   twitter: prototypefund
   github: https://github.com/prototypeteam
