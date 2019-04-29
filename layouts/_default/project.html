@@ -52,7 +52,7 @@
             <!--{{ len . }} {{ i18n "project_person" }} <button>+</button>-->
             {{ range . }}
             {{ .name }}<br>
-              {{ end }}
+            {{ end }}
           </p>
           {{ end }}
           {{ with .Params.partners }}<p><span class="bold">Partner</span><br>
@@ -72,14 +72,21 @@
           {{ end }}
 
           {{ with .Params.contact}}
-            {{ with .twitter}}
-              <p><span class="bold">Twitter</span><br><a href="https://twitter.com/{{.}}">@{{.}}</a></p>
+            {{ with .twitter }}
+            <p><span class="bold">Twitter</span><br><a href="https://twitter.com/{{.}}">@{{.}}</a></p>
             {{ end }}
-            {{ with .mastodon}}
-              <p><span class="bold">Mastodon</span><br><a href="https://{{.server}}/@{{.handle}}">@{{.handle}}</a></p>
+            {{ with .mastodon }}
+            <p><span class="bold">Mastodon</span><br><a href="https://{{.server}}/@{{.handle}}">@{{.handle}}</a></p>
+            {{ end }}
+            {{ with .facebook }}
+            {{$fb := replaceRE "http(s)?://(www.)?facebook.com/([^/]+)" "$3" . }}
+            <p><span class="bold">Facebook</span><br><a href="{{.}}">{{ $fb }}</a></p>
+            {{ end }}
+            {{ with .github}}
+            {{ $gh := replaceRE "https://github.com/([^/]+)" "$1" .}}
+            <p><span class="bold">GitHub</span><br><a href="{{.}}">{{ $gh }}</a></p>
             {{ end }}
           {{ end }}
-
         </aside>
 
         <div class="l__project__content l__content col col-12 col-sm-10 col-md-8 offset-md-2 col-lg-7">
@@ -98,35 +105,35 @@
         {{ end }}
 
         {{ if isset .Params "contact_person" }}
-          {{ if isset .Params "cta" }}
+        {{ if isset .Params "cta" }}
         <section class="col col-12 col-md-6">
           {{ else }}
-        <section class="col col-12 col-md-6 offset-md-3">
-          {{ end }}
+          <section class="col col-12 col-md-6 offset-md-3">
+            {{ end }}
 
-          {{ $lang := .Page.Lang}}
-          <h2 class="h3">{{ i18n "project_more"}}</h2>
-          {{ with .Params.more_text}}<p>{{ . | markdownify }}</p>{{ end }}
-          {{ with .Params.contact_person }}
-          <div class="row l__project__contact align-items-center">
-            {{ range where $.Site.Data.team "img" "==" .}}
-            <div class="col col-4 col-lg-3">
-              <img src="/team/{{.img}}_square.jpg" alt="">
+            {{ $lang := .Page.Lang}}
+            <h2 class="h3">{{ i18n "project_more"}}</h2>
+            {{ with .Params.more_text}}<p>{{ . | markdownify }}</p>{{ end }}
+            {{ with .Params.contact_person }}
+            <div class="row l__project__contact align-items-center">
+              {{ range where $.Site.Data.team "img" "==" .}}
+              <div class="col col-4 col-lg-3">
+                <img src="/team/{{.img}}_square.jpg" alt="">
+              </div>
+              <div class="col col-8 col-lg-9">
+                <p>{{.name}}<br>
+                  {{ if eq $lang "en"}}
+                  {{ .position_en }}
+                  {{ else }}
+                  {{ .position }}
+                  {{ end }}</p>
+                <p><a href="mailto:{{.mail}}">Mail</a></p>
+              </div>
             </div>
-            <div class="col col-8 col-lg-9">
-              <p>{{.name}}<br>
-                {{ if eq $lang "en"}}
-                {{ .position_en }}
-                {{ else }}
-                {{ .position }}
-                {{ end }}</p>
-              <p><a href="mailto:{{.mail}}">Mail</a></p>
-            </div>
-          </div>
+            {{ end }}
+            {{ end }}
+          </section>
           {{ end }}
-          {{ end }}
-        </section>
-        {{ end }}
       </div>
     </aside>
   </article>
