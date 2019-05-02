@@ -16,18 +16,9 @@ Germany
 [OpenStreetMap](https://www.openstreetmap.org/way/29386807) - [Google Maps](https://www.google.com/maps/place/Singerstra%C3%9Fe+109,+10179+Berlin/@52.5167261,13.4232556,17z/data=!3m1!4b1!4m5!3m4!1s0x47a84e3db119b3fd:0x9131b3b816d6709!8m2!3d52.5167261!4d13.4254443?hl=en)
 
 
-<<<<<<< HEAD
 **Register of Associations No:** VR 30468 B<br>
-**VAT number:** DE278022128
-=======
-**Vereinsregister Nr:** VR 30468 B<br>
-**Umsatzsteuernummer:** DE278022128
+**VAT number:** DE278022128<br>
 **Registergericht:** Amtsgericht Charlottenburg
-
-
-**Technisch:**
-    Statisches HTML generiert mit [Hugo](https://gohugo.io/)
->>>>>>> fa42899d0d3129b0b000199d9bcff6f1258a0568
 
 
 **Technical:**
