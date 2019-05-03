@@ -1,7 +1,7 @@
 ---
 authors:
 - Michael Peters
-date: 2019-05-02
+date: 2019-05-03
 image:
   src: /files/blog/2018/06/tale-of-three-men.jpg
   title: "frankieleon, A tale of three men"
