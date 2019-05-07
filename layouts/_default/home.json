@@ -13,9 +13,9 @@
        {{ end }}
        {{ $downloads := ""}}
        {{ if eq $page.Layout "verein"}}
-       {{ $downloads := $.Site.Data.downloadsverein }}
+       {{ $downloads := (slice "Tätigkeitsbericht" "Satzung" "Governance Modell" "Mission Statement" "Memorandum of Understanding") }}
        {{ end }}
-       "content": {{ (delimit (slice $downloads (truncate 1000 (delimit $page.PlainWords " "))) ", ") | jsonify }}
+       "content": {{ (slice $downloads $page.PlainWords) | jsonify }}
      }
  {{ end }}
  {{ end }}
