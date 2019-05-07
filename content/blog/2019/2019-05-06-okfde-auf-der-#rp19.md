@@ -30,7 +30,7 @@ OK Lab bei Wikimedia<br>
 ### Tag 3
 13:00 - 13:30 stage 8 [Kommunikation zwischen Verwaltung & Tech-Community - Tori Boeck, Ulrich Binner, Adriana Groh](https://19.re-publica.com/en/session/kommunikation-zwischen-verwaltung-tech-community)<br>
 13:45 - 14:45 stage 5 [Kill the unicorns! On future imaginaries, funding policies and innovation ecologies - Anna Christmann, Valerie Mocker, Francesca Bria, Julia Kloiber, Katharina Meyer](https://19.re-publica.com/en/session/kill-unicorns-future-imaginaries-funding-policies-innovation-ecologies)<br>
-14:15 - 14:45 stage 4 [State of the Open - Fiona & Arne](https://19.re-publica.com/en/session/state-open-2)
+14:15 - 14:45 stage 4 [State of the Open - Fiona & Arne](https://19.re-publica.com/en/session/state-open-2)<br>
 15:00 - 15:30 stage 3 [citylab Vorstellung - Adriana Groh & Benjamin Seibel](https://19.re-publica.com/en/session/citylab-berlin-vorstellung)<br>
 15:30 - 16:00 stage 4 [openschufa - Lea Pfau & Patrick Stotz](https://19.re-publica.com/en/session/openschufa-resultate)<br>
 16:15 - 17:15 stage 5 [Manifesto for technological sovereignty and digital rights for cities - Francesa Bria, Katalin Gennburg, Walter Palmetshofer](https://19.re-publica.com/en/session/manifesto-technological-sovereignty-digital-rights-cities)<br>
