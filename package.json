@@ -12,7 +12,7 @@
     "bootstrap": "^4.3.1",
     "d3": "^5.7.0",
     "d3-tip": "^0.9.1",
-    "lunr": "^2.3.5",
+    "lunr": "2.3.5",
     "reset-css": "^4.0.1",
     "shufflejs": "^5.2.1",
     "source-sans-pro": "git://github.com/adobe-fonts/source-sans-pro.git#release"
