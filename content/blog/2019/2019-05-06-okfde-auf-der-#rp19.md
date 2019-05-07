@@ -3,7 +3,7 @@ authors:
 - Walter Palmetshofer
 date: 2019-05-06
 image:
-  src: /files/blog/2019/rp19_fyi2.jpg
+  src: /files/blog/2019/05/rp19_fyi2.jpg
   title: OKFDE auf der #rp19 
 tags:
 - re-publica
