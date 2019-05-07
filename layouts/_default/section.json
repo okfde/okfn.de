@@ -8,7 +8,7 @@
        "section": "{{ .Section }}",
        "date": "{{ $page.Date }}",
        "tags": [{{ range $tindex, $tag := $page.Params.tags }}{{ if $tindex }}, {{ end }}"{{ $tag }}"{{ end }}],
-       "content": {{ $page.PlainWords | jsonify }}
+       "content": {{ $page.PlainWords | jsonify | truncate 1400 }}
      }
  {{ end }}
  {{ end }}

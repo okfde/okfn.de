@@ -11,7 +11,11 @@
        {{ if and (isset $page.Params "img") (eq .Section "projekte") }}
        "img": "{{ $page.Params.img }}",
        {{ end }}
-       "content": {{ $page.PlainWords | jsonify }}
+       {{ $downloads := ""}}
+       {{ if eq $page.Layout "verein"}}
+       {{ $downloads := $.Site.Data.downloadsverein }}
+       {{ end }}
+       "content": {{ (delimit (slice $downloads (truncate 1000 (delimit $page.PlainWords " "))) ", ") | jsonify }}
      }
  {{ end }}
  {{ end }}
