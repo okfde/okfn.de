@@ -28,7 +28,11 @@ contact:
   website: https://fragdenstaat.de
   twitter: fragdenstaat
   github: https://github.com/okfde/fragdenstaat_de
-  mailinglist: https://lists.okfn.org/mailman/listinfo/fragdenstaat
+  facebook: https://www.facebook.com/fragdenstaat.de
+  mastodon:
+    handle: fragdenstaat
+    server: chaos.social
+  instagram: https://www.instagram.com/fragdenstaat
 video: "https://player.vimeo.com/video/102604678"
 cta: Mitmachen
 cta_text: |-
