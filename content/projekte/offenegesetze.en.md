@@ -24,6 +24,11 @@ people:
 contact:
   website: https://offenegesetze.de/
   twitter: offenegesetze
+  facebook: https://www.facebook.com/offenegesetze
+  mastodon:
+    handle: offenegesetze
+    server: chaos.social
+  instagram: https://www.instagram.com/offenegesetze.de
 subtitle: Free access to the Federal Law Gazette
 more_text: |-
     Further information can be found on the <a href="https://offenegesetze.de/">website</a> of Offene Gesetze.
