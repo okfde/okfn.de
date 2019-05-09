@@ -300,9 +300,10 @@
 - name: Markus Neuschäfer
   title: Dr.
   img: markusneuschaefer
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektleitung Edulabs
   position_en: Project management Edulabs
   bio: "Dr. Markus Neuschäfer arbeitet seit Januar 2015 als Projektleiter bei der Open Knowledge Foundation. Aktuell arbeitet er an dem OER-Projekt edulabs und betreut die Zusammenarbeit mit DARIAH-DE in den Bereichen Digital Humanities und Open Science. Markus engagiert sich für offene Daten in Bildung, Wissenschaft und Kultur; besonders interessiert ihn die Entwicklung von Sichtbarkeit mit freien Inhalten. Zuvor promovierte er in Germanistik, war an der Uni Göttingen tätig und arbeitete als Business Development Manager im Verlagswesen."
@@ -609,9 +610,10 @@
 
 - name: Matthias Löwe
   img: matthiasloewe
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektmanagement Demokratielabore
   position_en: Project management Demokratielabore
   bio: "Mat tüftelt seit 2017 an verrückten Workshopformaten der FamilienLabore und der Demokratielabore. Als Interaktionsdesigner setzt er sich generell für einen künstlerischen und kreativen Umgang mit Spielen und Spielmechaniken ein. In Form von Workshops, Talks und Festivals engagiert er sich darüber hinaus in der Initiative Creative Gaming, veranstaltet Spielkultur-Events wie temporäre Escape-Games, XBox-Rock Battles, GameJams und Nacherzähl-Wettbewerbe mit dem Gamestorm-Team, präsentiert und moderiert eine Machinima-Kinoshow und co-organisiert mit A MAZE. Veranstaltungen wie das europäische Indiegames Festival. Nebenbei koordiniert Mat und das Team des Code Week Awards weiterhin die Aktivitäten der deutschen Code Week."
@@ -877,10 +879,10 @@
 
 - name: Doris Jantoljak
   img: dorisjantoljak
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
-  board_alumni: 0
+  board_alumni: 1
   position: Design Jugend hackt
   position_en: Design Jugend hackt
   bio: "Doris ist Kommunikationsdesignerin und unterstützt das Team „Jugend hackt“. Mit Spezialisierung auf Markenentwicklung hat sie bereits für globale Unternehmen gearbeitet und bringt neben Ideen und Inspiration auch jede Menge Erfahrung mit. Sie interessiert sich für nachhaltiges Design und dafür, wie die fortschreitende Digitalisierung die Gesellschaft verändert. Dabei verliert sie nie den Blick fürs wesentliche: Ein starkes Konzept sowie der effiziente Transport von Inhalten stehen bei ihr an oberster Stelle."
