@@ -4,7 +4,7 @@ authors:
 date: 2019-05-06
 image:
   src: /files/blog/2019/05/rp19_fyi2.jpg
-  title: OKFDE auf der #rp19 
+  title: re:publica 2019  
   license: CC-BY-SA
   license_url: https://creativecommons.org/licenses/by-sa/2.0/
 tags:
