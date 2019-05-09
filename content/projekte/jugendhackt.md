@@ -21,8 +21,6 @@ people:
     role: Projektleitung
   - name: Sonja Fischbauer
     role: Projektleitung
-  - name: Doris Jantoljak
-    role: Design
   - name: Cin Pietschmann
     role: Studentische Hilfskraft
   - name: Torben Reichert
@@ -33,6 +31,12 @@ people:
     role: Community und Öffentlichkeitsarbeit
   - name: Saadya Windauer
     role: Projektmanagerin
+  - name: Lisa Passing
+    role: Entwicklerin
+  - name: Nadine Stammen
+    role: Designerin
+  - name: Eva Holzheimer
+    role: Regionale Koordinatorin
 contact_person: paulaglaser
 years: 2012 - heute
 partners:
