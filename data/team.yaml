@@ -1,3 +1,16 @@
+- name: Eva Holzheimer  
+  img: EvaHolzheimer
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Regionale Koordinatorin Jugend hackt Lab Fürstenberg/Havel
+  position_en: Reginal Coordination Jugend hackt Lab Fürstenberg/Havel
+  bio: "Eva ist bei der Open Knowledge Foundation beim Jugend hackt Team als Koordinatorin für eines der ersten regionalen Jugend hackt Labs tätig. Neben ihrer Arbeit als Sozialpädagogin engagiert sie sich Rahmen einer offenen Werkstatt in Brandenburg für den Austausch von Wissen und Kultur."  
+  bio_en: „Eva is part of the Jugend hackt team and responisble for the coordination of one the first Jugend hackt labs. Next to her work as a social worker she is part of open makerspace in Brandenburg where she focuses on the exchance between knowlege and cultur.“
+  mail: eva.holzheimer@jugendhackt.org
+  twitter: verstehbahnhof
+  website: https://www.verstehbahnhof.de/
+
 - name: Kristina Klein
   img: kristinaklein
   staff: 0
