@@ -25,7 +25,7 @@ aliases:
 
 Der Ausschuss für [Digitale Agenda](https://www.bundestag.de/ada) des Bundestags befasste sich letzte Woche, am 21.06.2017, in einem öffentlichen Fachgespräch mit dem Thema ["Moderner Staat - Chancen durch Digitalisierung"](https://www.bundestag.de/presse/hib/2017_06/-/511466) und wir waren auch dabei. 
 
-Die völlständige Stellungsnahme ist [hier](https://www.bundestag.de/blob/511166/ec0c94005417fb52273a66e803e7659b/a-drs-18-24-139-data.pdf)<sup>mit 73 Fußnoten</sup>, die tl;dr-Zusammenfassung der Stellungsnahme lautet:
+Die völlständige Stellungsnahme ist [hier](https://www.bundestag.de/blob/511166/ec0c94005417fb52273a66e803e7659b/a-drs-18-24-139-data.pdf)<sup> mit 73 Fußnoten</sup>, die tl;dr-Zusammenfassung der Stellungsnahme lautet:
 
 "Es geht um eine politische Frage, nicht um eine technische", argumentierte Walter Palmetshofer von der Open Knowledge Foundation Deutschland e.V.. Der moderne Staat funktioniere als digitale Plattform und zeichne sich durch Transparenz, Anwenderfreundlichkeit sowie Datenschutz aus. Um öffentliche Daten nutzen zu können und eine offene Verwaltungskultur zu etablieren, solle der Gesetzgeber ein einheitliches Transparenzgesetz schaffen, forderte er.
 
