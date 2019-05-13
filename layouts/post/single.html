@@ -11,7 +11,7 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 {{ if (isset .Params "featured") }}
   <meta property="og:image" content='{{ .Site.BaseURL }}{{ trim .Params.image.src "/"}}' />
-  <meta name="twitter:image:src" content='{{ .Site.BaseURL }}{{ trim .Params.image.src "/"}}'>
+  <meta name="twitter:image" content='{{ .Site.BaseURL }}{{ trim .Params.image.src "/"}}'>
 {{end}}
   <meta property="article:published_time" content="{{ .Date }}" />
 {{ with .Params.tags }}
