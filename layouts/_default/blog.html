@@ -9,11 +9,18 @@
 <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
+{{ with .Params.img_header }}
+  <meta property="og:image" content="{{ . }}" />
+  <meta name="twitter:image:src" content="{{ . }}">
+{{ end }}
 {{ with .Params.meta }}
   <meta property="og:description" content="{{.}}">
   <meta name="description" content="{{.}}">
+  <meta name="twitter:description" content="{{ truncate 200 .}}">
 {{ end }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ .Title }}">
 {{ end }}
 
 {{ define "main" }}
