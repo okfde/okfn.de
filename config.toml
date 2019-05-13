@@ -4,6 +4,9 @@ title = "OKF"
 defaultContentLanguage = "de"
 enableRobotsTXT = true
 
+[params]
+  twitter = "okfde"
+
 [permalinks]
   blog = 'blog/:year/:month/:slug/'
   tags = 'blog/tags/:slug/'

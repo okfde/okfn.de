@@ -19,14 +19,14 @@
     <meta property="article:tag" content="{{ . }}" />
   {{ end }}
 {{ end }}
-{{with .Params.meta}}
-  <meta property="og:description" content="{{.}}">
-  <meta name="description" content="{{.}}">
-  <meta name="twitter:description" content="{{ truncate 200 .}}">
-{{end}}
+<meta property="og:description" content="{{ truncate 200 .Content }}">
+<meta name="description" content="{{ truncate 200 .Content }}">
+<meta name="twitter:description" content="{{ truncate 200 .Content}}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="{{ .Permalink }}">
 <meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
+<meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
 {{ end }}
 
 {{ define "main" }}
