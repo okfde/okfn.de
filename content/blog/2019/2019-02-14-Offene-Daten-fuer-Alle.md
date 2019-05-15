@@ -47,16 +47,15 @@ Update folgt. [Live-Doc](https://docs.google.com/document/d/1Gu0YC3TvTytMI9iaK1v
 
 Also der Reihe nach:
 
-**1. Wer von Firmen einen geregelten Zugang zu deren (nicht
+## 1. Wer von Firmen einen geregelten Zugang zu deren (nicht
 persönlichen) Daten fordert, auch wenn diese Monopolisten sind, sollte
-dies auch selbst erbringen.**
+dies auch selbst erbringen.
 
 Dies hat den eleganten Nebeneffekt, man spart sich zuerst mal die
 Thematik der personenbezogenen Daten.
 
-Wir reden hier von einem notwendigen Open Data Gesetz 2.0. Ist im
-\[Koalitionsvertrag
-angekündigt\]([*https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag\_2018.pdf?file=1*](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1)).
+Wir reden hier von einem notwendigen Open Data Gesetz 2.0. Ist im [Koalitionsvertrag
+angekündigt](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
 Zur Umsetzung bleiben noch weniger als 2 Jahre.
 
 (Interessant hier auch, im [*Entwurf des Koalitionsvertrages Stand 11:30
@@ -91,9 +90,8 @@ die Offenlegung von Parteisponsoring.)
 
 Deutschland könnte, wenn es wollte, als Novum eine Vorreiterrolle bei
 der anstehenden Umsetzung der Open Data Verordnung übernehmen. Das
-bedeutet, die Umsetzung der Verordnung mit der \[Liste der High Value
-Data
-Sets\](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/PSI-high-value-data-sets.csv)
+bedeutet, die Umsetzung der Verordnung mit der [Liste der High Value
+Data Sets](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/PSI-high-value-data-sets.csv)
 als Anlass für ein Open Data Gesetz 2.0 nehmen und den großen
 Digitalisierungankündigungen bis spätestens Sommer 2021 auch Taten
 folgen lassen.
@@ -113,8 +111,8 @@ Also:
 Open Data Richtline (“Open Data Gesetz 2.0”) und ein dafür notwendiges
 Transparenzgesetz.**
 
-**2. Gewährleistung ausgeglichener finanzieller Spielwiese, also faire
-Besteuerung **
+## 2. Gewährleistung ausgeglichener finanzieller Spielwiese, also faire
+Besteuerung
 
 Der nächste Schritt der getätigt werden sollte, bevor es überhaupt in
 die komplexere Datenmaterie des Datensharings und der Datennachnutzung
@@ -149,8 +147,8 @@ Aufschiebetaktik u.a. von Olaf Scholz bis 2021 ist hier nicht
 hilfreichend, es besteht Handlungsbedarf sowie das Aufzeigen konkreter,
 machbarer und kompromissfähigen Lösungsansätze. Internationale
 Digitalkonzerne sollten ihren Teil zu einer funktionierenden
-Infrastruktur in Europa beitragen. (Siehe \[34c3 Taxation
-talk\](https://media.ccc.de/v/34c3-9047-taxation)) .
+Infrastruktur in Europa beitragen. (Siehe [34c3 Taxation
+talk](https://media.ccc.de/v/34c3-9047-taxation)) .
 
 Es ist bemerkenswert, dass das Thema Steuern in der Diskussion nicht
 einmal vorkommt. Obwohl dies einer der einfachsten und effektivsten
@@ -176,11 +174,11 @@ Also:
 > (gesellschaftliches Steuern welche Werte, Values … wie besteuert
 > werden (Skalen und Netzwerkeffekte eindämmen, )**
 
-**3. Wettbewerb / Kartellrecht / Offene Standards**
+## 3. Wettbewerb / Kartellrecht / Offene Standards
 
 Letzte Woche gab es die Premiere, dass sich eine Wettbewerbsbehörde
-erstmalig zu dem \[Thema Datenmacht geäussert
-hat\](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2019/07\_02\_2019\_Facebook.html).
+erstmalig zu dem [Thema Datenmacht geäussert
+hat](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2019/07\_02\_2019\_Facebook.html).
 U.a. zu einer Firma die solch eine Marktmacht hat, dass sie die
 Bedingungen diktieren kann und NutzerInnen keine Wahl haben. Dies war
 ein erster, längst überfälliger zaghafter Schritt. Dieser Vorgang sollte
@@ -196,8 +194,7 @@ sehr sorgsamer Vorgangsweise.
 
 Wer industriepolitisch übersieht, dass es Teil der
 Markteroberungstrategie ist Kaffeekassenstrafen in Kauf zu nehmen (z.B.
-\[Uber in
-Berlin\](https://www.berliner-zeitung.de/berlin/verkehr/verbot-der-taxi-app-uber-bis-zu-20-000-euro-strafe-fuer-uber-fahrer-768152),
+[Uber in Berlin](https://www.berliner-zeitung.de/berlin/verkehr/verbot-der-taxi-app-uber-bis-zu-20-000-euro-strafe-fuer-uber-fahrer-768152),
 oder beim Facebook & Whatsapp Deal, 110 Millionen bei angekündigter
 Missachtung der Mergerauflagen, zur Einordnung das sind lächerliche 0.6%
 des Mergervolumen) versäumt das Zeitfenster für einen "europäischen
@@ -226,7 +223,7 @@ Diese Punkte sollten adressiert werden bevor man den Hauptpunkt angeht.
 Jedoch sind diese genannten Maßnahmen alleine für die anstehende Aufgabe
 unzureichend.
 
-**4. Alternative Vorschläge Mydata/Ourdata **
+## 4. Alternative Vorschläge Mydata/Ourdata
 
 Schließlich können wir die jüngsten Datenkontroversen (FB Cambirdge
 Analytica, NSAUA, …) nutzen, um eine wirklich dezentrale,
@@ -237,9 +234,9 @@ um die Schaffung sozialer Rechte an Daten anzuerkennen, zu schaffen und
 zu fördern.
 
 Wie dieser Weg aussehen könnte, versuchten wir u.a. hier im
-zivilgesellschaftlichen CityLab Berlin aufzuzeigen.\["Manifest zur
+zivilgesellschaftlichen CityLab Berlin aufzuzeigen.["Manifest zur
 Förderung der technologischen Souveränität und der digitalen
-Rechte"\]([*http://citylab.berlin/docs/Tech-Souveraenitaets-Manifestv02.html*](http://citylab.berlin/docs/Tech-Souveraenitaets-Manifestv02.html))
+Rechte"]([*http://citylab.berlin/docs/Tech-Souveraenitaets-Manifestv02.html*](http://citylab.berlin/docs/Tech-Souveraenitaets-Manifestv02.html))
 auf Stadtebene, adaptierbar auch für Deutschland.
 
 Exkurs: Zum einfacheren Verständnis versuche ich diese Datenproblematik
@@ -253,12 +250,12 @@ Echtzeit-/Ist-Fahrplandaten ist hier in Deutschland nicht die Rede.)
 
 Drei Beispiele dazu wie es gehen kann:
 
-- \[Digitransit in Helsinki\](https://digitransit.fi/en/developers/)
+- [Digitransit in Helsinki](https://digitransit.fi/en/developers/)
 
 Echtzeitanzeige des öffentlichen Verkehrs in Helsinki auf Open Data
 Basis und offener Standards. Diese Plattform wurde dank open data und
 offenen Standards um schlappe 15.000 Euronen in
-\[Meran\](http://bus.merano.eu/?l=de) installiert (40.000
+[Meran](http://bus.merano.eu/?l=de) installiert (40.000
 Einwohnerstadt, inkl. notwendige beacons/hardware für die Einstieghöhe
 bei Bussen).
 
@@ -266,8 +263,8 @@ Jetzt stelle mensch sich mal vor, die deutschen bzw. vielleicht sogar
 europäischen Verkehrsunternehmen würden einmal gemeinsam an solch
 brauchbaren Lösung arbeiten.
 
-- \[Mobility Data Specification - Los
-Angeles\](https://github.com/CityOfLosAngeles/mobility-data-specification)
+- [Mobility Data Specification - Los
+Angeles](https://github.com/CityOfLosAngeles/mobility-data-specification)
 
 Kurzfassung: An der US-Westküste gab es E-Scooter-Boom, dann standen
 dort wie in Berlin die Bikes am Gehsteig rum, daher hat die Stadt Los
@@ -277,8 +274,7 @@ werden dürfen (also die öffentliche Infrastruktur verwenden), wenn sie
 selbst die Echtzeit(positions)daten wieder (offen) an die Stadt selbst
 zugänglich machen. Damit schafft man brauchbaren multimodalen ÖPNV.
 
-- \[Austin,
-Texas\]([*http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/*](http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/))
+- [Austin, Texas]([*http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/*](http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/))
 
 Die Stadt Austin in Texas verwies Uber und Lyft in die Schranken, mit
 dem Ergebnis 25% mehr Lohn für die Taxi-Fahrer vor Ort.
@@ -292,8 +288,7 @@ Anstrengungen in Deutschland darf wahrscheinlich aktuell Bonn bzw. Ulm
 gelten.
 
 Als Gegenmodell zu solchen Ansätzen kann das eher abschreckende Beispiel
-\[sidewalk labs von Google in
-Toronto\](https://www.ctvnews.ca/sci-tech/public-good-not-properly-represented-by-sidewalk-labs-former-rim-ceo-1.4133140)
+[sidewalk labs von Google in Toronto](https://www.ctvnews.ca/sci-tech/public-good-not-properly-represented-by-sidewalk-labs-former-rim-ceo-1.4133140)
 und dessen “Datenteilungsansatz” mit US Städten (Verträge abgeschlossen,
 Bewegungsdaten für Stadtplanung, von BürgerInnen dann nochmals verkauft,
 an die Städte) betrachtet werden.
@@ -321,10 +316,10 @@ Man bündelt die die einzelnen mydata-Silos (Daten vorher auf
 Benutzerbasis von den Firmendatensilos abgeholt) auf freiwilliger Basis
 in ein gemeinschaftlichen Ourdata zum Wohle der Gesellschaft. Ein
 aktuelles Beispiel dafür war die Kampagne
-\[OpenSchufa\](https://okfn.de/blog/2018/11/openschufa-ergebnisse/), die
+[OpenSchufa](https://okfn.de/blog/2018/11/openschufa-ergebnisse/), die
 Nachvollziehbarkeit von Creditscoring mittels Datacrowdfunding.
 (Aktuelle besteht noch immer Handlungsbedarf seitens der Politik bzgl.
-der Schufa.) oder \[midata\](https://www.midata.coop/) in der Schweiz.
+der Schufa.) oder [midata](https://www.midata.coop/) in der Schweiz.
 
 Wer nicht mit der Forderung der Vergesellschaftung von Facebook
 losstartet, wird nicht mit mehr als ein paar Datenkrümmeln,
@@ -342,6 +337,6 @@ Datenkapitalismus vor sich selbst.
 Im übrigen bin ich der Meinung, dass man Facebook vergesellschaften muß.
 
 *PS: Für weitere Details zur Datenwirtschaftslage mit persönlichen Daten
-empfehle ich auf \[Wolfie Christl\](https://twitter.com/wolfiechristl).*
+empfehle ich auf [Wolfie Christl](https://twitter.com/wolfiechristl).*
 
 *PPS: Am [15. Mai findet bei der SPD Netzpolitik eine Diskussion](https://spdnetz.de/event/daten-fuer-alle/) dazu statt.
