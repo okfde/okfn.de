@@ -18,7 +18,7 @@ published: true
 featured: blue
 title: "Engagement von Jugendlichen im digitalen Zeitalter"
 ---
-_Paula Grünwald, eine der drei Programmleitungen von Jugend hackt, wurde am 26.03.2019 als Expertin von der Sachverständigenkommission für den [Dritten Engagementbericht „Zukunft der Zivilgesellschaft: Junges Engagement im digitalen Zeitalter“](http://www.dritterengagementbericht.de/) eingeladen. Weil ihr dort vorgetragenes Statement einige für uns wichtige Forderungen enthält, veröffentlichen wir es auch an dieser Stelle._
+*Paula Grünwald, eine der drei Programmleitungen von Jugend hackt, wurde am 26.03.2019 als Expertin von der Sachverständigenkommission für den [Dritten Engagementbericht „Zukunft der Zivilgesellschaft: Junges Engagement im digitalen Zeitalter“](http://www.dritterengagementbericht.de/) eingeladen. Weil ihr dort vorgetragenes Statement einige für uns wichtige Forderungen enthält, veröffentlichen wir es auch an dieser Stelle*.
 
 ### Die Fragestellung: „Wie verändert sich aus Ihrer Sicht das Engagement von Jugendlichen und jungen Erwachsenen vor dem Hintergrund der Digitalisierung? Welche Herausforderungen und Vorteile ergeben sich dadurch für Ihre Arbeit?“
 
