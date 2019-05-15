@@ -32,7 +32,7 @@ Die Anzahl der Teilnehmenden ist begrenzt. Wir bitten Sie daher, sich bis zum 12
 
  <p>**13.00 Uhr**<BR> Grußwort/Inhaltliche Einführung Prof. Dr. Edda Müller, Vorsitzende Transparency International Deutschland e.V. </p>
  <p>**13.10 Uhr**<BR> Keynote Markus Henn (WEED e.V.), Experte für Finanzmärkte </p>
- <p>**13.20 Uhr**<BR> Podiumsdiskussion <BR>Prof. Dr. Heribert Hirte (CDU), MdB <BR>Lisa Paus (Bündnis 90/Die Grünen), MdB <BR>Dr. Jens Zimmermann (SPD), MdB <BR>Markus Henn (WEED e.V.), Experte für Finanzmärkte <BR>Moderation: Michael Peters, Open Knowledge Foundation Deutschland </p>
+ <p>**13.20 Uhr**<BR> Podiumsdiskussion <BR>Prof. Dr. Heribert Hirte (CDU), MdB <BR>Lisa Paus (Bündnis 90/Die Grünen), MdB <BR>Markus Henn (WEED e.V.), Experte für Finanzmärkte <BR>Moderation: Michael Peters, Open Knowledge Foundation Deutschland </p>
  <p>**14.30 Uhr**<BR> Diskussionsrunde</p>
 
 Wir diskutieren mit Vertreterinnen und Vertretern aus Politik und Zivilgesellschaft:
