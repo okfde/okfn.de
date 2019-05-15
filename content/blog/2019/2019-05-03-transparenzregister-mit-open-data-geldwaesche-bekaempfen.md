@@ -19,7 +19,7 @@ published: true
 featured: blue
 title: "Transparenzregister: Mit Open Data Geldwäsche bekämpfen"
 ---
-### Donnerstag, 16. Mai 2019 | 14.00 – 16.00 Uhr Hotel nhow | Stralauer Allee 3 | 10245 Berlin-Friedrichshain
+### Donnerstag, 16. Mai 2019 | 13:00 – 14:30 Uhr Hotel nhow | Stralauer Allee 3 | 10245 Berlin-Friedrichshain
 #### Eine gemeinsame Veranstaltung von Transparency Deutschland und Open Knowledge Foundation Deutschland e.V.
 
 Seit 2017 gibt das Transparenzregister online Auskunft über die wahren Eigentümerinnen und Eigentümer von Unternehmen. Allerdings führen große Lücken bei den zu meldenden Daten sowie Einschränkungen im Zugang und der Nutzung der Datenbank dazu, dass das Register weit hinter seinen Möglichkeiten zurückbleibt. So haben Unternehmen bisher keine Pflicht, die gesamte Kette ihrer Eigentümerinnen und Eigentümer zu prüfen und können relativ leicht bloße Vertreterinnen und Vertreter nennen. Außerdem müssen Eigentümerinnen und Eigentümer – anders als im Handelsregister – erst ab 25 Prozent Beteiligung gemeldet werden. Dadurch lässt sich das Register umgehen.
@@ -30,10 +30,10 @@ Die Anzahl der Teilnehmenden ist begrenzt. Wir bitten Sie daher, sich bis zum 12
 
 ### Programm
 
- <p>**14.00 Uhr**<BR> Grußwort/Inhaltliche Einführung Prof. Dr. Edda Müller, Vorsitzende Transparency International Deutschland e.V. </p>
- <p>**14.10 Uhr**<BR> Keynote Frederik Obermaier, Journalist und Buchautor (angefragt) </p>
- <p>**14.30 Uhr**<BR> Podiumsdiskussion <BR>Prof. Dr. Heribert Hirte (CDU), MdB <BR>Lisa Paus (Bündnis 90/Die Grünen), MdB <BR>Dr. Jens Zimmermann (SPD), MdB <BR>Markus Henn (WEED e.V.), Experte für Finanzmärkte <BR>Moderation: Michael Peters, Open Knowledge Foundation Deutschland </p>
- <p>**15.30 Uhr**<BR> Diskussionsrunde</p>
+ <p>**13.00 Uhr**<BR> Grußwort/Inhaltliche Einführung Prof. Dr. Edda Müller, Vorsitzende Transparency International Deutschland e.V. </p>
+ <p>**13.10 Uhr**<BR> Keynote Markus Henn (WEED e.V.), Experte für Finanzmärkte </p>
+ <p>**13.20 Uhr**<BR> Podiumsdiskussion <BR>Prof. Dr. Heribert Hirte (CDU), MdB <BR>Lisa Paus (Bündnis 90/Die Grünen), MdB <BR>Dr. Jens Zimmermann (SPD), MdB <BR>Markus Henn (WEED e.V.), Experte für Finanzmärkte <BR>Moderation: Michael Peters, Open Knowledge Foundation Deutschland </p>
+ <p>**14.30 Uhr**<BR> Diskussionsrunde</p>
 
 Wir diskutieren mit Vertreterinnen und Vertretern aus Politik und Zivilgesellschaft:
 
