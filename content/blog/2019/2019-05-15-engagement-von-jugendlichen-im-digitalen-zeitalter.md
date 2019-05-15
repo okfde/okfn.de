@@ -49,7 +49,7 @@ Wir wünschen uns von den Jugendlichen Vertrauen in unsere demokratischen Instit
 + [Inga Borchard, Peter Martin Thomas, Berthold Bodo Flaig; Wie ticken Jugendliche 2016? Lebenswelten von Jugendlichen im Alter von 14 bis 17 Jahren in Deutschland](https://www.springer.com/de/book/9783658125325)
 + [Iske S., Klein A., Kutscher N., Otto HU. (2007) Virtuelle Ungleichheit und informelle Bildung. Eine empirische Analyse der Internetnutzung Jugendlicher und ihre Bedeutung für Bildung und gesellschaftliche Teilhabe](https://link.springer.com/chapter/10.1007/978-3-531-90519-8_4)
 + [Thomas Krüger, Digitale Teilhabe als Voraussetzung für soziale Teilhabe (Hamburg, 11.Mai 2017), Keynote zum DIVSI-Bucerius Forum in Hamburg](http://www.bpb.de/presse/248495/digitale-teilhabe-als-voraussetzung-fuer-soziale-teilhabe-hamburg-11-mai-2017)
-+ [Steven Levy, Chaos Computer Club – Hackerethik]
-+ [Paula Glaser, Hackern und Hackerinnen gehört die Zukunft, Wirkungsanalyse der Veranstaltung Jugend hackt](https://www.ccc.de/de/hackerethik%EF%BB%BF)
-+ [Arne Semsrott, netzpolitik.org, Familienministerium: Wenn bekannt wird, wie wir arbeiten, kann man uns nicht mehr vertrauen](https://jugendhackt.org/files/2015/03/Jugend-hackt-Vollversion.pdf)
++ [Steven Levy, Chaos Computer Club – Hackerethik](https://www.ccc.de/de/hackerethik%EF%BB%BF)
++ [Paula Glaser, Hackern und Hackerinnen gehört die Zukunft, Wirkungsanalyse der Veranstaltung Jugend hackt](https://jugendhackt.org/files/2015/03/Jugend-hackt-Vollversion.pdf)
++ [Arne Semsrott, netzpolitik.org, Familienministerium: Wenn bekannt wird, wie wir arbeiten, kann man uns nicht mehr vertrauen](https://netzpolitik.org/2019/familienministerium-wenn-bekannt-wird-wie-wir-arbeiten-kann-man-uns-nicht-mehr-vertrauen/)
 + [Ingo Arzt, Kommentar Schulstreiks und die Politik, Verniedlichend und verlogen](https://www.taz.de/!5578317/)
