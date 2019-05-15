@@ -3,24 +3,28 @@
 {{ end }}
 
 {{ define "head" }}
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end -}}
-<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ .Permalink }}" />
-{{ with .Params.meta }}
-  <meta property="og:description" content="{{.}}">
-  <meta name="description" content="{{.}}">
-  <meta name="twitter:description" content="{{ truncate 200 .}}">
-{{ end }}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
-<meta name="twitter:title" content="{{ .Title }}">
-{{ end }}
-{{ with .Params.img_header }}
-<meta property="og:image" content="{{ . }}" />
-<meta name="twitter:image" content="{{ . }}">
+  {{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end -}}
+
+  <meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+
+  {{ with .Params.meta }}
+    <meta property="og:description" content="{{.}}">
+    <meta name="description" content="{{.}}">
+    <meta name="twitter:description" content="{{ truncate 200 .}}">
+  {{ end }}
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
+  <meta name="twitter:title" content="{{ .Title }}">
+
+  {{ with .Params.img_header }}
+    <meta property="og:image" content="{{ . }}" />
+    <meta name="twitter:image" content="{{ . }}">
+  {{ end }}
 {{ end }}
 
 {{ define "main" }}
