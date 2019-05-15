@@ -21,7 +21,7 @@ aliases:
 ---
 
 Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt,
-Bericht siehe [hier](xxx), aktuell wird in Deutschland über ["Daten für alle"](https://www.spd.de/aktuelles/daten-fuer-alle-gesetz/) gesprochen und wir sind zur [heutigen Veranstaltung](https://www.spd.de/presse/pressemitteilungen/detail/news/andrea-nahles-diskutiert-ueber-digitalen-fortschritt-durch-ein-daten-fuer-alle-gesetz/13/02/2019/) eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss. 
+Bericht siehe [hier](xxx), aktuell wird in Deutschland über ["Daten für alle"](https://www.spd.de/aktuelles/daten-fuer-alle-gesetz/) gesprochen und wir sind zur [heutigen Veranstaltung](https://www.spd.de/presse/pressemitteilungen/detail/news/andrea-nahles-diskutiert-ueber-digitalen-fortschritt-durch-ein-daten-fuer-alle-gesetz/13/02/2019/) eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss.<br> [Update: Video von der Veranstaltung](https://www.youtube.com/watch?v=_ulOQTGwSzY) 
 
 tl;dr:
 
@@ -40,9 +40,6 @@ Martkeintrittschancen gewährleisten
 Konkrete alternative Modelle wären u.a. Technologische Souveränität, mydata/ourdata, ...
 
 Update folgt. [Live-Doc](https://docs.google.com/document/d/1Gu0YC3TvTytMI9iaK1vrk8yrlOwxGeIfqLFloOm9gZk/edit)<br>
-[Video von der Veranstaltung](https://www.youtube.com/watch?v=_ulOQTGwSzY)
-
-
 
 
 Also der Reihe nach:
@@ -111,8 +108,7 @@ Also:
 Open Data Richtline (“Open Data Gesetz 2.0”) und ein dafür notwendiges
 Transparenzgesetz.**
 
-## 2. Gewährleistung ausgeglichener finanzieller Spielwiese, also faire
-Besteuerung
+## 2. Gewährleistung ausgeglichener finanzieller Spielwiese, also faire Besteuerung
 
 Der nächste Schritt der getätigt werden sollte, bevor es überhaupt in
 die komplexere Datenmaterie des Datensharings und der Datennachnutzung
