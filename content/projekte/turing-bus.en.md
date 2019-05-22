@@ -6,8 +6,9 @@ kategorien:
   - Bildung
 categories:
   - Education
-tile: double
+tile: single
 layout: project
+weight: 1
 img: projects/TuringBus_Projektuebersicht_bigTile.jpg
 img_header: projects/TuringBus_Header.jpg
 website: https://turing-bus.de
