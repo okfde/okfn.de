@@ -1,9 +1,10 @@
 ---
 authors:
-- Michael Peters
+- OKF
+- TI
 date: 2019-05-20
 image:
-  src: files/blog/2019/05/podium1.jpg
+  src: /files/blog/2019/05/podium1.jpg
   title: "Podiumsdiskussion"
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/2.0/
