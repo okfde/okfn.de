@@ -18,7 +18,20 @@ Developement Server laufen lassen:
 $ hugo serve
 ```
 
-Dann auf `localhost:1313`  die Seite anschauen.
+Dann auf `localhost:1313`  die Seite anschauen. (Die Suche wird hier nicht funktionieren, weil die Indexe fehlen)
+
+### Seite lokal laufen lassen mit Suche
+
+Seite und dann Indexe bauen.
+
+``` bash
+$ hugo && \
+  cat public/index.json | node scripts/lunr/site-index.js > public/js/site-search-index.json  && \
+  cat public/blog/index.json | node scripts/lunr/blog-index.js > public/js/blog-search-index.json && \
+  echo "Done"
+```
+Dann in `/public` einen HTTP-Server starten.
+
 
 ### Seite deployen
 
@@ -205,6 +218,16 @@ Diese JSON-Dateien werden auf Travis mit Node-Scripten (siehe `/scripts/ci/*`) i
 Die serialisierten Suchindexe können im Browser direkt von lunr gelesen und verwendet werden, das spart die Indexierung 'on the fly' bei jedem Seitenaufruf.
 
 Leider sind die Suchindexe sehr groß, was sich auf die Ladegeschwindigkeit der Seite auswirkt.
+
+Es gibt die Möglichkeit Seiten explizit aus der Suche auszuschließen. Setze hierfür `layout: none` im Frontmatter.
+
+Es gibt auch die Möglichkeit extra Suchwörter als Tags auf einer Seite anzugeben. Setze hierfür Begriffe als Liste im Frontmatter:
+
+``` yaml
+search_keys:
+  - custom
+  - keyword
+```
 
 ### Buildprozess
 

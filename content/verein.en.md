@@ -5,6 +5,13 @@ blurb: We are a non-profit organization based in Berlin.
 meta: About the association, umbrella organization and annual reports
 img_header: /okf/verein-social-og.png
 img: /okf/verein/verein_intro_2.jpg
+search_keys:
+  - Statutes
+  - Code of conduct
+  - Mission Statement
+  - Governance model
+  - Memorandum of Understanding
+  - Tätigkeitsbericht
 stats:
   - number: 2011
     text: The association was founded. The first meeting took place in 2010 at the re:publica with Rufus Pollock, initiator of the Open Knowledge Network.
@@ -17,7 +24,7 @@ stats:
   - number: 28
     text: Our volunteer community members organize regular events in 28 cities throughout Germany.
   - number: 1.387
-    text:  The number of active members in  our community. Our network contains a wide range of knowledge on Open Data, Open Government and Civic Tech. 
+    text:  The number of active members in  our community. Our network contains a wide range of knowledge on Open Data, Open Government and Civic Tech.
 meta: OKF DE nonprofit gemeinnützig Verein annual report Social Reporting Standard
 ---
 
@@ -27,4 +34,4 @@ We are committed to the dissemination of free and openly accessible knowledge in
 
 We are present in numerous areas of society and are recognized as one of the leading organizations for innovative projects in the areas of rule of law, transparency and accountability, access to knowledge and participation, digital literacy and public control in Germany and Europe.
 
-We are also the German branch of the globally active [Open Knowledge Network](https://okfn.org/network/). 
+We are also the German branch of the globally active [Open Knowledge Network](https://okfn.org/network/).

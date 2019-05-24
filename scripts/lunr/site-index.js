@@ -21,9 +21,9 @@ stdin.on('end', function () {
   var idx = lunr(function () {
     this.field('id')
     this.field('url', { boost: 20})
-    this.field('section', { boost: 30})
+    this.field('section', { boost: 20})
     this.field('title', { boost: 50 })
-    this.field('content', { boost: 10 })
+    this.field('content', { boost: 30 })
 
     documents.forEach(function (doc, index) {
       doc.id = index;

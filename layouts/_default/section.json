@@ -1,6 +1,7 @@
-[{{ range $index, $page := where .Site.Pages "Section" "blog" }}
- {{ if ne $page.Type "json" }}
- {{ if ne $page.Type "xml"}}
+{{ $pages := where .Site.Pages "Section" "blog" }}
+{{ $pages := $pages | intersect (where .Site.Pages "Type" "not in"  (slice "xml" "json" "rss" "atom"))}}
+
+[{{ range $index, $page := $pages }}
    {{ if ne $index 0 }},{{ end }}
      {
        "url": "{{ $page.Permalink }}",
@@ -10,6 +11,4 @@
        "tags": [{{ range $tindex, $tag := $page.Params.tags }}{{ if $tindex }}, {{ end }}"{{ $tag }}"{{ end }}],
        "content": {{ $page.PlainWords | jsonify }}
      }
- {{ end }}
- {{ end }}
  {{ end }}]

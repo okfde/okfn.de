@@ -1,7 +1,9 @@
-[{{ range $index, $page := where .Site.Pages "Type" "not in"  (slice "page" "json") }}
- {{ if ne .Section "tags"}}
- {{ if ne .Section "projektfilter"}}
- {{ if ne $page.Type "xml"}}
+{{ $pages := where .Site.RegularPages "Type" "not in"  (slice "xml" "json" "rss" "atom")}}
+{{ $pages := $pages | intersect (where .Site.RegularPages "Section" "!=" "projektfilter")}}
+{{ $pages := $pages | intersect (where .Site.RegularPages "Layout" "!=" "none")}}
+{{ $pages := $pages | intersect (where .Site.RegularPages "Section" "!=" "tags")}}
+
+[{{ range $index, $page := $pages }}
    {{ if ne $index 0 }},{{ end }}
      {
        "url": "{{ $page.Permalink }}",
@@ -11,9 +13,10 @@
        {{ if and (isset $page.Params "img") (eq .Section "projekte") }}
        "img": "{{ $page.Params.img }}",
        {{ end }}
+       {{ if (isset $page.Params "search_keys") }}
+       "content": {{ $page.PlainWords | append $page.Params.search_keys | jsonify }}
+       {{ else }}
        "content": {{ $page.PlainWords | jsonify }}
+       {{ end }}
      }
- {{ end }}
- {{ end }}
- {{ end }}
  {{ end }}]
