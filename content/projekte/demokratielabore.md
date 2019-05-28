@@ -9,7 +9,6 @@ categories:
   - community
 tile: double
 layout: project
-weight: 5
 img: projects/Demokratielabore_Projektuebersicht_bigTile.jpg
 img_header: projects/Demokratielabore_Header.jpg
 people:
@@ -39,7 +38,7 @@ financing:
   - BMFSFJ
   - bpb
 contact_person: lydiaboettcher
-years: 2017 - heute
+years: 2017 - 2019
 website: https://demokratielabore.de
 contact:
   twitter: demokratielabs

@@ -6,7 +6,6 @@ kategorien:
 categories:
   - education
 tile: double
-weight: 5
 layout: project
 img: projects/Demokratielabore_Projektuebersicht_bigTile.jpg
 img_header: projects/Demokratielabore_Header.jpg
@@ -26,7 +25,7 @@ people:
   - name: Sonja Fischbauer
     role: Projektmanagerin
 contact_person: lydiaboettcher
-years: 2016 - heute
+years: 2016 - 2019
 financing:
   - BMFSFJ
   - bpb
