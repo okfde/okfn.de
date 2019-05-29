@@ -41,36 +41,38 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Sie sind mit einer Creative Commons Lizenz urheberrechtlich geschützt. Sofern nicht anders angegeben, stehen die Inhalte dieser Seite unter der Creative Commons Namensnennung 3.0 DE Lizenz. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-## Datenschutzerklärung
+## Privacy Policy
 
-Die Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (nachfolgend als „Open Knowledge Foundation“ oder „wir“ bezeichnet) betreibt die im Internet unter https://okfn.de/ und den jeweils dazu gehörenden Unterverzeichnissen abrufbare Internetseite (nachfolgend „okfn.de“ oder die „Website“).
+The Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (hereinafter referred to as "Open Knowledge Foundation" or "we") operates the Internet site (hereinafter referred to as "okfn.de" or the "Website") which can be accessed on the Internet at https://okfn.de/ and the relevant subdirectories.
 
-Die Open Knowledge Foundation möchte Ihnen mit dieser Datenschutzerklärung erläutern, welche Daten in welcher Form verarbeitet werden, wenn Sie unsere Website besuchen. Hiermit kommen wir zugleich unserer Informationspflicht gem. Art. 13 Datenschutz-Grundverordnung (DS-GVO) Ihnen gegenüber nach.
+With this data protection declaration, the Open Knowledge Foundation would like to explain to you which data is processed in which form when you visit our website. This also complies with our duty to inform you in accordance with Art. 13 of the Basic Data Protection Regulation (DS-GVO).
 
-### I. Verantwortlicher und Kontaktmöglichkeiten des Datenschutzbeauftragten
+### I. Responsible person and contact possibilities of the data protection officer
 
-Die datenschutzrechtlich Verantwortliche für die auf unserer Website stattfindenden Datenverarbeitungen ist die
+The person responsible under data protection law for the data processing carried out on our website is the
 
-Open Knowledge Foundation Deutschland e.V.
+Open Knowledge Foundation Germany e.V.
 Singerstr. 109
 10179 Berlin
-Deutschland
+Germany (German)
 
-E-Mail: info@okfn.de<br>
-Telefon: +49 30 57703666 0<br>
+E-mail: info@okfn.de<br>
+Phone: +49 30 57703666 0<br>
 Fax: +49 30 57703666 9<br>
 
-Unser Datenschutzbeauftragter ist erreichbar unter:
+Our data protection officer can be reached at:
 
-Open Knowledge Foundation Deutschland e.V.<br>
-- Datenschutzbeauftragter -<br>
+Open Knowledge Foundation Germany e.V.<br>
+- Data protection officer -<br>
 Singerstr. 109<br>
 10179 Berlin<br>
-Deutschland<br>
+Germany<br>
 <br>
-datenschutz@okfn.de [<a href="/okf/datenschutz_okfn_de_pub.asc">OpenPGP</a>]
+datenschutz@okfn.de [<a href="/okf/data_privacy_okfn_de_pub.asc">OpenPGP</a>]
 
-Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der Rechtsanwaltskanzlei https://kanzlei-hubrig.de/
+Our external data protection officer is Beata-Konstanze Hubrig from the law firm https://kanzlei-hubrig.de/
+
+For now, the information below is available only in German. 
 
 ### II. Personenbezogene Daten, Zwecke und Rechtsgrundlage der Datenverarbeitung
 
