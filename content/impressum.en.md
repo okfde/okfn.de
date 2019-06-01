@@ -18,28 +18,28 @@ Germany
 
 **Register of Associations No:** VR 30468 B<br>
 **VAT number:** DE278022128<br>
-**Registergericht:** Amtsgericht Charlottenburg
+**Court of registration:** Amtsgericht Charlottenburg
 
 
 **Technical:**
 Static HTML generated with [Hugo](https://gohugo.io/)
 
 
-### Haftungsausschluss
+### Exclusion of Liability
 
-Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV ist der jeweilige Autor eines Textes.
+Responsible for the context of this website in accordance with § 55 section 2 RStV is the respective author.
 
-### Haftung für Inhalte
+### Liability concerning contents
 
-Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach § 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+Although the content of this website has been prepared with our utmost care and diligence, we cannot assume liability for the correctness, completeness and latest status of the information provided. Pursuant to § 7, Para. 1 of the German Telemedia Act (TMG), as a service provider we are responsible under general law for our own contents on this website. Pursuant to §§ 8 through 10 TMG however we are not responsible as service providers to monitor transferred or stored information of third parties or to research circumstances that suggest an illegal activity. Obligations for the removal or barring of the use of information in accordance with legal regulations remain unaffected, even in the event of the service provider not being responsible. Any liability in this respect is, however, only incurred from the moment that knowledge of the specific breach of law is obtained. As soon as the relevant breaches of law are known, the contents which are open to exertion of influence will be removed immediately.
 
-### Haftung für Links
+### Liability concerning links
 
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+Our offer contains links to external web pages of third parties, whose contents are not subject to our influence. For that reason we cannot take over guarantee for these external contents. For the contents of the linked sides always the respective offerer or operator of such sites. The linked sites were checked at the time of linking for possible violations of law. Illegal contents were not recognizable. A permanent control of the linked pages is unreasonable without concrete evidence of a violation. Upon notification of violations, we will remove such links immediately.
 
-### Urheberrecht
+### Copyright
 
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Sie sind mit einer Creative Commons Lizenz urheberrechtlich geschützt. Sofern nicht anders angegeben, stehen die Inhalte dieser Seite unter der Creative Commons Namensnennung 3.0 DE Lizenz. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+The by the site operators and content of this website to German copyright law. They are protected by a Creative Commons License. Except where otherwise noted, the content of this site is licensed under the Attribution 3.0 Germany (CC BY 3.0 DE) License. Insofar as the content on this site is not created by the operator, the property rights of third parties apply. In particular, third party content is identified as such. Should you become aware of copyright infringement, we ask you to notify us. Upon notification of violations, we will remove the content immediately.
 
 ## Privacy Policy
 
