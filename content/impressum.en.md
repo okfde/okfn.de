@@ -45,7 +45,7 @@ The by the site operators and content of this website to German copyright law. T
 
 The Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (hereinafter referred to as "Open Knowledge Foundation" or "we") operates the Internet site (hereinafter referred to as "okfn.de" or the "Website") which can be accessed on the Internet at https://okfn.de/ and the relevant subdirectories.
 
-With this data protection declaration, the Open Knowledge Foundation would like to explain to you which data is processed in which form when you visit our website. This also complies with our duty to inform you in accordance with Art. 13 of the Basic Data Protection Regulation (DS-GVO).
+With this data protection declaration, the Open Knowledge Foundation would like to explain to you which data is processed in which form when you visit our website. This also complies with our duty to inform you in accordance with Art. 13 of the Basic Data Protection Regulation (GDPR).
 
 ### I. Responsible person and contact possibilities of the data protection officer
 
@@ -74,98 +74,100 @@ Our external data protection officer is Beata-Konstanze Hubrig from the law firm
 
 For now, the information below is available only in German. 
 
-### II. Personenbezogene Daten, Zwecke und Rechtsgrundlage der Datenverarbeitung
+### II. Personal data, purposes and legal basis of data processing
 
-#### 1. Personenbezogene Daten
+#### 1. Personal Data
 
-Nach der DS-GVO sind personenbezogene Daten „alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
-
-#### 2. Allgemeine Nutzung der Website
-
-Wir erheben und speichern im Zuge Ihres Besuchs auf unserer Website keine personenbezogenen Daten.
-
-Unbeschadet der vorstehenden grundsätzlichen Gegebenheiten registriert aber der Webserver unseres Hosters automatisch Zugriffe auf die Websites und dabei insbesondere Ihre IP-Adresse.
-
-Zudem legt unser Hoster zur Erhaltung der Systemsicherheit sog. Logfiles an. Diese Logfiles enthalten die folgenden Informationen:
-
-- die IP - Adresse
-- Datum des Zugriffs
-- die URL
-- Inhalte auf die zugegriffen wurde sowie
-- die übertragenen Informationen
-
-Diese Informationen bleiben für uns anonym. Ein Rückschluss auf eine Person ist somit nicht möglich.
-
-Nehmen Sie unter der auf unserer Website angegebenen E-Mail-Adresse Kontakt zu uns auf, teilen Sie uns zumindest Ihre E-Mail-Adresse mit, sowie gegebenenfalls weitere Informationen, die Sie in Ihrer E-Mail preisgeben. Damit wir Ihr Anliegen bearbeiten können, müssen wir diese Daten verarbeiten.
-
-#### 3. Zwecke und Rechtsgrundlage der Datenverarbeitung
-
-Die Verarbeitung Ihrer IP-Adresse während des Verbindungsaufbaus erfolgt, damit wir Ihnen unsere Website zur Verfügung stellen können. Sie basiert auf Art. 6 Abs. 1 lit. f) DS-GVO. Unser berechtigtes Interesse besteht im genannten Zweck.
-
-Die Verarbeitung im Rahmen einer Kontaktaufnahme erfolgt, damit wir Ihre Anfrage bearbeiten und beantworten könne. Die Rechtsgrundlage ist Art. 6 Abs. 1 lit. f) DS-GVO. Unser berechtigtes Interesse liegt im soeben genannten Zweck.
-
-### III. Empfänger der Daten
-
-Innerhalb unseres Unternehmens haben jeweils die Abteilungen auf Ihre Daten Zugriff, die für die Bearbeitung der Anliegen zuständig sind. Zudem setzen wir externe Dienstleister ein, soweit wir Leistungen nicht oder nicht sinnvoll selbst vornehmen können. Diese externen Dienstleister sind dabei vor allem Anbieter von IT-Dienstleistungen und Telekommunikationsdienste.
-
-Eine Übermittlung in Drittstaaten findet grundsätzlich nicht und nur dann statt, soweit sie zur Ausführung Ihrer Aufträge erforderlich ist, gesetzlich vorgeschrieben ist oder Sie uns Ihre Einwilligung hierzu erteilt haben.
-
-### IV. Speicherdauer
-
-Ihre E-Mails und Kontaktaufnahmen speichern wir so lange, wie es zur Bearbeitung Ihrer Anfrage erforderlich ist und speichern Sie anschließend für einen Zeitraum von 3 Jahren, falls Sie sich bezugnehmend auf Ihre ursprüngliche Frage noch einmal an uns wenden.
-
-### V. Betroffenenrechte
-
-Die Datenschutz-Grundverordnung garantiert Ihnen gewisse Rechte, die Sie uns gegenüber – soweit die gesetzlichen Voraussetzungen vorliegen – geltend machen können.
-
-- **Art. 15 DS-GVO – Auskunftsrecht der betroffenen Person**: Sie haben das Recht, von uns eine Bestätigung darüber zu verlangen, ob Sie betreffende personenbezogene Daten verarbeitet werden und wenn ja, welche dies sind sowie die näheren Umstände der Datenverarbeitung.
-- **Art. 16 DS-GVO – Recht auf Berichtigung**: Sie haben das Recht, von uns unverzüglich die Berichtigung Sie betreffender unrichtiger personenbezogener Daten zu verlangen. Dabei haben Sie unter Berücksichtigung der Zwecke der Verarbeitung auch das Recht, die Vervollständigung unvollständiger personenbezogener Daten – auch mittels einer ergänzenden Erklärung – zu verlangen.
-- **Art. 17 DS-GVO – Recht auf Löschung**: Sie haben das Recht, von uns zu verlangen, dass Sie betreffende personenbezogene Daten unverzüglich gelöscht werden. Beachten Sie hier bitte die unter Punkt II. 4 beschriebene Ausnahme
-- **Art. 18 DS-GVO – Recht auf Einschränkung der Verarbeitung**: Sie haben das Recht, von uns die Einschränkung der Verarbeitung zu verlangen.
-- **Art. 20 DS-GVO – Recht auf Datenübertragbarkeit**: Sie haben das Recht, im Falle der Verarbeitung aufgrund einer Einwilligung oder zur Erfüllung eines Vertrags, die Sie betreffenden personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten, und diese Daten einem anderen Verantwortlichen ohne Behinderung durch uns zu übermitteln oder die Daten direkt an den anderen Verantwortlichen übermitteln zu lassen, soweit dies technisch machbar ist.
-- **Art. 21 DS-GVO – Widerspruchsrecht**: Sie haben das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Sie betreffender personenbezogener Daten, die aufgrund eines berechtigten Interesses unsererseits oder zur Wahrung einer Aufgabe im öffentlichen Interesse erforderlich ist, oder die in Ausübung öffentlicher Gewalt erfolgt, Widerspruch einzulegen.
-
-    Legen Sie Widerspruch ein, werden wir Ihre personenbezogenen Daten nicht mehr verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
-
-    Soweit wir Ihre personenbezogenen Daten verarbeiten, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung einzulegen. Widersprechen Sie der Verarbeitung für Zwecke der Direktwerbung, so werden wir Ihre personenbezogenen Daten nicht mehr für diese Zwecke verarbeiten.
-- **Art. 77 DSGVO i. V. m. § 19 BDSG – Recht auf Beschwerde bei einer Aufsichtsbehörde**: Sie haben das Recht, jederzeit Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, einzulegen, wenn Sie der Ansicht sind, dass die Verarbeitung der sie betreffenden personenbezogenen Daten gegen geltendes Recht verstößt.
+According to the GDPR, personal data means "any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person."
 
 
-### VI. Pflicht zur Bereitstellung von Daten
+#### 2. General Use of this Website
 
-Sie haben keine vertragliche oder gesetzliche Pflicht uns personenbezogene Daten bereitzustellen. Allerdings sind wir ohne die von Ihnen mitgeteilten Daten nicht in der Lage, Ihnen unsere Services anzubieten.
+We do not collect nor record any personal data during your visit to our website.
 
-### VII. Bestehen von automatisierten Entscheidungsfindungen (einschließlich Profiling)
+Without prejudice to the principle reasons set out above, the webserver of our hoster does register access visits and your IP address automatically.
 
-Wir verwenden keine automatisierten Entscheidungsfindungen, die Ihnen gegenüber rechtliche Wirkungen entfaltet oder Sie beeinträchtigt.
+Additionally, our hoster creates logfiles to preserve system security. These logfiles contain the following information:
 
-### VIII. Internetspezifische Datenverarbeitungen
+- the IP-address
+- date of access
+- the URL
+- content which has been accessed
+- the transferred information
 
-Während der Nutzung unserer Internetseiten werden durch uns automatisch technische Zugriffsdaten aufgezeichnet und ausgewertet. Hierfür benutzen wir das Tool "Matomo" (ehemals „Piwik“), ein Open-Source-Programm für Webanalytik, welches statistische Kennwerte zur Nutzung unserer Website auswertet. Diese Daten können jedoch nicht einer bestimmten Person zugeordnet werden; der einzelne Benutzer bleibt hierbei anonym. Weitere Informationen zu "Matomo" finden Sie auf der Website https://matomo.org.
+This information remains anonymous for us. Hence, it is not possible for us to draw any conclusions about a specific person on the basis of the data collected.
 
-Zu diesen Daten gehören zum Beispiel
+If you contact us through the mail address provided on this website, you share your email address with us and possibly more information contained in your email. To process your request, we have to process this data.
 
-- Die um die letzten beiden Oktette gekürzte IP-Adresse,
-- Informationen über den verwendeten Internet-Browser und das verwendete Betriebssystem,
-- der Domain-Name der Website, von der aus ein Besuch unserer Internet-Seiten erfolgt,
-- die durchschnittliche Verweildauer in unserem Angebot und
-- die in unserer Web-Site aufgerufenen Seiten.
+#### 3. Purposes and Legal Basis of Data Processing
 
-Für die Nutzung von Matomo verwenden wir sogenannte „Cookies“. Hierbei handelt es sich um kleine Textdateien, die ein Webserver an ihren Computer senden kann, um diesen für die Dauer des Besuches zu identifizieren. Wir setzen die beiden Session Cookies pk_ses sowie die persistenten Cookies pk_id und pk_ref ein. Über diese Cookies erfassen wir keine personenbezogenen Daten von Ihnen.
+The processing of your IP address during the establishment of the connection takes place so that we can make our website available to you. It is based on Art. 6 para. 1 lit. f) GDPR. Our legitimate interest lies in the aforementioned purpose.
 
-pk_ses wird grundsätzlich nach dem Beenden Ihrer Browsersitzung gelöscht, lediglich bei pk_id und pk_ref handelt es sich um ein über eine Browsersitzung hinaus bestehendes (sog. persistentes) Cookie, anhand dessen wir erkennen können, wann ein Nutzer unsere Seite erneut besucht. Sofern Sie das Cookie nicht selbst entfernen, löscht es sich nach 1 Jahr bzw. 6 Monaten selbständig.
-
-Die Darstellung unserer Internetseite ist auch ohne Speicherung von Cookies möglich. Sie können das Speichern von Cookies in den Einstellungen ihres Browsers deaktivieren oder diesen so einstellen, dass er Sie über die beabsichtigte Speicherung durch eine Internetseite informiert. In diesem Fall entscheiden Sie über die Annahme des Cookies.
-
-Zudem können durch die Entfernung des folgenden Hakens verhindern, dass wir mittels Matomo Analyse-Cookies auf Ihrem Endgerät setzen. In diesem Fall wird ein Cookie gesetzt um uns zu signalisieren, dass Sie der Nutzung widersprochen haben.
-
-Bitte beachten Sie, dass die jeweiligen Einstellungen bzgl. Cookies nur für Ihr aktuell benutztes Gerät und Ihren aktuell benutzten Browser wirksam sind. Sollten Sie ein anderes Gerät oder einen anderen Browser benutzen, müssen Sie in der Regel die Einstellungen erneut vornehmen. Zudem unterstützen wir die „Do not Track“ Funktion Ihres Browsers. Hiermit können Sie uns aktiv über Ihre Browsereinstellungen mitteilen, ob Sie eine Aufzeichnung Ihrer Aktivitäten wünschen oder nicht. Haben Sie „Do not Track“ aktiviert, erfolgt keine Aufzeichnung Ihrer Aktivitäten.
-
-Die Rechtsgrundlage für die Verwendung von Matomo findet sich in Art. 6 Abs. 1 lit. f) DS-GVO. Unser berechtigtes Interesse besteht darin, dass wir die Nutzung unserer Website zu deren Verbesserung und Optimierung auswerten. Die so erfassten Daten werden für einen Zeitraum von 24 Monaten gespeichert.
+The processing in the context of an establishment of contact takes place, so that we can work on and answer your inquiry. The legal basis is Art. 6 para. 1 lit. f) GDPR. Our legitimate interest lies in the aforementioned purpose.
 
 
-### IX. Wenn Sie Anmerkungen oder Fragen haben
+### III. Recipient of the Data
 
-Wir treffen alle erdenklichen Vorkehrungen zum Schutz und zur Sicherheit Ihrer Daten. Ihre Fragen und Kommentare zum Datenschutz sind uns willkommen, schreiben Sie einfach eine Mail an info@okfn.de.
+Within our organisation, the departments that are responsible for dealing with your concerns have access to your data. In addition, we use external service providers where we are unable to provide services ourselves or are unable to do so sensibly. These external service providers are primarily providers of IT services and telecommunications services.
+
+A transfer to third countries does not take place in principle and only if it is necessary for the execution of your orders, is legally prescribed or you have given us your consent to this.
+
+### IV. Duration of Storage	
+
+We will store your e-mails and contacts for as long as is necessary to process your request and then store them for a period of 3 years if you contact us again with respect to your original question.
+
+### V. Rights of Affected Persons
+
+The GDPR guarantees you certain rights which you can assert against us - as far as the legal prerequisites are given.
+
+- **Art. 15 GDPR – Right of access by the data subject**: You have the right to obtain from us confirmation as to whether or not personal data concerning you are being processed, and, where that is the case, access to the personal data and the purposes of the processing.
+- **Art. 16 GDPR – Right to rectification**: You have the right to obtain from us without undue delay the rectification of inaccurate personal data concerning yourself. Taking into account the purposes of the processing, you have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
+- **Art. 17 GDPR – Right to erasure (‘right to be forgotten’)**: You have the right to obtain from us the erasure of personal data concerning yourself without undue delay. Please take not of the exemption described in II. 4.
+- **Art. 18 GDPR – Right to restriction of processing**: You have the right to obtain from us the restriction of processing.
+- **Art. 20 GDPR – Right to data portability**: 
+You have have the right to receive the personal data concerning yourself, which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, or to have us transmit the data to another controller as far as it is technically possible.
+- **Art. 21 GDPR – Right to object**: You have the right to object at any time, for reasons related to your particular situation, to the processing of personal data concerning you which is necessary for a legitimate interest on our part or in the performance of a task carried out in the public interest or in the exercise of official authority.
+
+
+	If you file an objection, we will no longer process your personal data unless we can prove compelling reasons for the processing worthy of protection which outweigh your interests, rights and freedoms, or the processing serves the assertion, exercise or defence of legal claims.
+    
+    If we process your personal data in order to conduct direct advertising, you have the right to object to the processing at any time. If you object to the processing for purposes of direct marketing, we will no longer process your personal data for these purposes.
+- **Art. 77 DSGVO in relation to § 19 Federal Data Protection Act (BDSG) – Right to lodge a complaint with a supervisory authority**: You have the right to lodge a complaint at any time with a supervisory authority, in particular in the Member State where you are residing, at your place of work or at the place where the infringement is alleged, if you consider that the processing of your personal data is contrary to applicable law.
+
+### VI. Obligation to provide data
+
+You have no contractual or legal obligation to provide us with personal data. However, we are not able to offer you our services without the data you provide.
+
+### VII. Existence of automated decision making (including profiling)
+
+We do not use any automated decision making process that may have legal effects on you or adversely affect you.
+
+### VIII. Internet Specific Data Processing
+
+During the use of our Internet pages, we automatically record and evaluate technical access data. For this purpose we use the tool "Matomo" (formerly "Piwik"), an open source program for web analytics, which evaluates statistical parameters for the use of our website. However, this data cannot be assigned to a specific person; the individual user remains anonymous. Further information about "Matomo" can be found on the website https://matomo.org.
+
+This data includes, for example
+
+- The IP address shortened by the last two octets,
+- Information about the Internet browser and operating system used,
+- the domain name of the website from which a visit to our Internet pages is made,
+- the average length of stay in our offer, and
+- the pages called in our web site.
+
+For the use of Matomo we use so-called "cookies". These are small text files that a web server can send to your computer to identify it for the duration of your visit. We use the two session cookies pk_ses and the persistent cookies pk_id and pk_ref. We do not collect any personal data from you via these cookies.
+
+pk_ses is always deleted after your browser session has ended; only pk_id and pk_ref are persistent cookies that are persistent beyond a browser session and enable us to recognize when a user visits our site again. If you do not remove the cookie yourself, it is deleted automatically after 1 year or 6 months.
+
+The presentation of our website is also possible without the storage of cookies. You can deactivate the storage of cookies in the settings of your browser or set it so that it informs you of the intended storage by an Internet page. In this case, you decide whether to accept the cookie.
+
+In addition, by removing the [hook](https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de), we can prevent Matomo from placing analysis cookies on your device. In this case, a cookie will be set to indicate to us that you have objected to its use.
+
+Please note that the respective settings regarding cookies are only effective for your currently used device and your currently used browser. If you are using a different device or browser, you will usually have to change the settings again. We also support the "Do not Track" function of your browser. This allows you to actively tell us via your browser settings whether you wish your activities to be recorded or not. If you have activated "Do not Track", your activities will not be recorded.
+
+The legal basis for the use of Matomo can be found in Art. 6 para. 1 lit. f) GDPR. Our justified interest consists in the fact that we evaluate the use of our Website for their improvement and optimization. The data collected in this way is stored for a period of 24 months.
+
+### IX. If you have any comments or questions
+
+We take all possible precautions to protect and secure your data. Your questions and comments on data protection are welcome, simply send an e-mail to info@okfn.de.
 
 Berlin, April 2018
