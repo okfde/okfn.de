@@ -7,7 +7,7 @@ image:
   title: #prototypeworks
   license: © Libby VanderPloeg
   license_url: https://www.libbyvanderploeg.com/
-published: untrue
+published: false
 title: "Prototype Fund sucht Verstärkung: Projektmanager*in mit Schwerpunkt Events (m/w/*)"
 ---
 Der Prototype Fund ist das erste Förderprogramm in Deutschland, das selbstständige Softwareentwickler\*innen, Hacker\*innen und Kreative dabei unterstützt, ihre Ideen in den Bereichen Civic Tech, Digital Literacy, IT-Sicherheit und Software-Infrastruktur umzusetzen. Unser Ziel ist es, technische Innovationen in den Dienst der Gesellschaft zu stellen. Wir (Adriana, Katharina und Thomas) suchen dabei jetzt Verstärkung mit Talent für Eventmanagement!
@@ -55,3 +55,4 @@ Zeitl. Aufwand: 40h/Woche (Teilzeitregelung nach Absprache möglich)
 Gehalt: nach TV-L E12/S1  
 Ort: Berlin  
 Die Position ist bis Februar 2021 befristet.**
+
