@@ -32,7 +32,7 @@ financing:
 website: https://demokratielabore.de
 contact:
   twitter: demokratielabs
-  instagram: https://www.instagram.com/demokratielabs/
+  instagram: demokratielabs
   facebook:
   mail: info@demokratielabore.de
 more_text: |-
