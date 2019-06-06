@@ -25,6 +25,11 @@ financing:
 contact:
   website: https://offenegesetze.de/
   twitter: offenegesetze
+  facebook: https://www.facebook.com/offenegesetze
+  mastodon:
+    handle: offenegesetze
+    server: chaos.social
+  instagram: https://www.instagram.com/offenegesetze.de
 subtitle: Freier Zugang zum Bundesgesetzblatt
 more_text: |-
     Weitere Infos gibt es auf <a href="https://offenegesetze.de/">OffeneGesetze.de</a>.
