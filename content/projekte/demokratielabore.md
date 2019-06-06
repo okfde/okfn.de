@@ -42,7 +42,7 @@ years: 2017 - 2019
 website: https://demokratielabore.de
 contact:
   twitter: demokratielabs
-  instagram: https://www.instagram.com/demokratielabs/
+  instagram: demokratielabs
   facebook:
   mail: info@demokratielabore.de
 cta: Mitmachen

@@ -75,6 +75,9 @@
             {{ with .twitter }}
             <p><span class="bold">Twitter</span><br><a href="https://twitter.com/{{.}}">@{{.}}</a></p>
             {{ end }}
+            {{ with .instagram }}
+            <p><span class="bold">Instagram</span><br><a href="https://instagram.com/{{.}}">{{.}}</a></p>
+            {{ end }}
             {{ with .mastodon }}
             <p><span class="bold">Mastodon</span><br><a href="https://{{.server}}/@{{.handle}}">@{{.handle}}</a></p>
             {{ end }}

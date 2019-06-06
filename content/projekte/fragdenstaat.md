@@ -32,7 +32,7 @@ contact:
   mastodon:
     handle: fragdenstaat
     server: chaos.social
-  instagram: https://www.instagram.com/fragdenstaat
+  instagram: fragdenstaat
 video: "https://player.vimeo.com/video/102604678"
 cta: Mitmachen
 cta_text: |-
