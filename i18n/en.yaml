@@ -1,7 +1,7 @@
 - id: home_about_work
   translation: "About our work"
 - id: home_all_projects
-  translation: "All projects"
+  translation: "See all projects"
 - id: home_our_projects
   translation: "Our projects"
 - id: home_donate
@@ -9,7 +9,7 @@
 - id: home_all_posts
   translation: "All posts"
 - id: home_blog_news
-  translation: "News from the blog"
+  translation: "From our blog"
 - id: footer_contact
   translation: "Contact"
 - id: footer_signup
@@ -31,7 +31,7 @@
 - id: projects_other
   translation: "Other projects"
 - id: projects_archive
-  translation: "Finished projects"
+  translation: "Completed projects"
 - id: project_year
   translation: "Years"
 - id: project_more
@@ -57,21 +57,21 @@
 - id: topics_projects
   translation: "Related projects"
 - id: itz_text
-  translation: "In order to meet our own transparency requirements, we are signatories to the Transparent Civil Society Initiative."
+  translation: "We are signatories to the Transparent Civil Society Initiative. We are also awarded with Phineo's Impact Label. This validates our impact to date, and ensures the proper use of the donations we receive in the future."
 - id: itz_link
   translation: "Find out more"
 - id: itz_alt
-  translation: "Logo Initiative Transparente Zivilgesellschaft"
+  translation: "Logo Transparent Civil Society Initiative"
 - id: newsletter_text
-  translation: "Our monthly newsletter keeps you up to date on our projects and events where you can find us!"
+  translation: "Our monthly newsletter keeps you up to date on our projects and activities, as well as upcoming events where you can find us!"
 - id: phineo_alt
-  translation: "Logo of Phineo"
+  translation: "Logo Phineo"
 - id: phineo_text
-  translation: "Some Text"
+  translation: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
 - id: phineo_link
   translation: "More about Phineo"
 - id: blog_search_js
-  translation: "You need JavaScript to use the blog search."
+  translation: "JavaScript is required for searching the blog."
 - id: blog_search_label
   translation: "Search for"
 - id: share
