@@ -1,12 +1,12 @@
-- name: Eva Holzheimer  
+- name: Eva Holzheimer
   img: EvaHolzheimer
   staff: 1
   board: 0
   advisory: 0
   position: Regionale Koordinatorin Jugend hackt Lab Fürstenberg/Havel
   position_en: Reginal Coordination Jugend hackt Lab Fürstenberg/Havel
-  bio: "Eva ist bei der Open Knowledge Foundation beim Jugend hackt Team als Koordinatorin für eines der ersten regionalen Jugend hackt Labs tätig. Neben ihrer Arbeit als Sozialpädagogin engagiert sie sich Rahmen einer offenen Werkstatt in Brandenburg für den Austausch von Wissen und Kultur."  
-  bio_en: „Eva is part of the Jugend hackt team and responisble for the coordination of one the first Jugend hackt labs. Next to her work as a social worker she is part of open makerspace in Brandenburg where she focuses on the exchance between knowlege and cultur.“
+  bio: "Eva ist bei der Open Knowledge Foundation beim Jugend hackt Team als Koordinatorin für eines der ersten regionalen Jugend hackt Labs tätig. Neben ihrer Arbeit als Sozialpädagogin engagiert sie sich Rahmen einer offenen Werkstatt in Brandenburg für den Austausch von Wissen und Kultur."
+  bio_en: „Eva is part of the Jugend hackt team and responsible for the coordination of one the first Jugend hackt labs. Next to her work as a social worker she is part of open makerspace in Brandenburg where she focuses on the exchange between knowledge and culture.“
   mail: eva.holzheimer@jugendhackt.org
   twitter: verstehbahnhof
   website: https://www.verstehbahnhof.de/
@@ -223,9 +223,9 @@
   bio: "Eileen ist seit Juli 2015 bei der Open Knowledge Foundation und arbeitet in den Projekten Code for Germany und Prototype Fund. Sie hat einen Bachelor in Philosophie und einen Master in Logik."
   bio_en: "Eileen is part of the team behind Code for Germany and the Prototype Fund. She studied philosophy and logic."
   mail: eileen.wagner@okfn.de
-  twitter: flapperleenie
-  website: http://bumble.blue
-  github: flapperleenie
+  twitter: bumblblu
+  website: https://bumble.blue
+  github: bumbleblue
 
 - name: Elisa Lindinger
   img: elisalindinger
@@ -840,7 +840,7 @@
   staff: 1
   board: 0
   advisory: 0
-  position: studentische Hilfskraft FragDenStaat
+  position: Studentische Hilfskraft FragDenStaat
   position_en: Student assistant FragDenStaat
   bio: "Lea ist seit September 2017 bei der OKF, zunächst für die Demokratielabore und seit Mai 2019 für FragDenStat und den Volksentscheid Transparenz. Sie studiert Politikwissenschaften an der FU Berlin und beschäftigt sich außerdem im Rahmen des Europäischen Jugendparlaments mit politischer Jugendbildung im Zusammenhang mit Medien. "
   bio_en: "Lea has been working for the OKF since September 2017, first for the Demokratielabore and since May 2019 for FragDenStaat and the Volksentscheid Transparenz. She studies Political Science at the FU Berlin and, working with the European Youth Parliament, explores the significance of media in policial youth education. "
