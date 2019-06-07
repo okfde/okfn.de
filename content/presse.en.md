@@ -3,7 +3,7 @@ title: Press
 meta: OKF DE press contact, press mailing list, logos, photos
 ---
 
-If you are looking for background information, have specific questions about our projects or need an interview partner from the association, please contact our press team. We will be happy to help you!
+If you are looking for background information, have specific questions about our projects or need an interview partner from the Open Knowledge Foundation Germany, please contact our press team. We would be happy to help you!
 
 
 ## Contact
