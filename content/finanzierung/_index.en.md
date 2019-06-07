@@ -8,7 +8,7 @@ img_header: /okf/finanzierung-social-og.png
 search_keys:
   - Notice of exemption
   - Opening balance
-  - Profit and loss accounting
+  - Profit and loss statement
 ---
 
 Since our launch in 2011, we have been funded by foundations, ministries, research contracts and individual donors from the public and private sectors. In the financial year 2017, we raised a total of 2 million euros for our work.
