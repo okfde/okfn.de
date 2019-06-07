@@ -16,6 +16,4 @@ arrange: img_top
 
 ---
 
-Digitally networked technologies bring new opportunities for civil society: Citizens can exercise their rights more easily and obtain better information about what the government is doing.
-
-We promote fact-based political discourse. We develop software, provide infrastructure and promote open source projects. We experiment and offer a field of experimentation for others.
+Digital technologies create new opportunities for civil society: citizens can exercise their rights more easily and obtain better information about what governments are doing. To support fact-based political discourse, we develop software, provide infrastructure, and fund open source projects. We experiment as well as offer a space for experiments to others.
