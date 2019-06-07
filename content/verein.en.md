@@ -2,7 +2,7 @@
 layout: verein
 title: Organisation
 blurb: We are a non-profit organization based in Berlin.
-meta: About the association, umbrella organization and annual reports
+meta: About the association, the umbrella organization, and annual reports
 img_header: /okf/verein-social-og.png
 img: /okf/verein/verein_intro_2.jpg
 search_keys:
@@ -30,8 +30,8 @@ meta: OKF DE nonprofit gemeinnützig Verein annual report Social Reporting Stand
 
 ### Association and umbrella organization
 
-We are committed to the dissemination of free and openly accessible knowledge in society. We see ourselves as an active part of German and European civil society. Our work is independent, non-partisan, interdisciplinary and non-commercial.
+We are committed to the dissemination of free and openly accessible knowledge in society. We see ourselves as an active part of German and European civil society. Our work is independent, non-partisan, interdisciplinary, and non-commercial.
 
-We are present in numerous areas of society and are recognized as one of the leading organizations for innovative projects in the areas of rule of law, transparency and accountability, access to knowledge and participation, digital literacy and public control in Germany and Europe.
+We are present in numerous areas of society and are recognized as one of the leading organizations for innovative projects in the areas of transparency and accountability, rule of law, access to knowledge and participation, digital literacy and public control in Germany and Europe alike.
 
 We are also the German branch of the globally active [Open Knowledge Network](https://okfn.org/network/).
