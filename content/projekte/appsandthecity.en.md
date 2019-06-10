@@ -17,6 +17,6 @@ contact:
  twitter: appsandthecity
 ---
 
-'Apps and the City' was a hackday on local traffic organized by OKF DE together with the local transport provider VBB, the Berlin government and the FH Potsdam.
+"Apps and the City" was a hackday on local traffic organized by Open Knowledge Foundation Germany together with the local transport provider VBB, the Berlin government, and the FH Potsdam.
 The VBB released GTFS data, opened up their API and provided some geo datasets about entrances to stations.
 During the event, coders, software experts, and designers used open transport data to create applications intended to improve public transport non-commercially.

@@ -14,6 +14,4 @@ years: 2011 - 2012
 ---
 
 
-Frankfurt Gestalten was a participatory platform by and for citizens in Frankfurt. We believe, that there are many great ideas for a better city and want to connect the people behind these ideas. We document events in local politics and serve as a radar for urban development. 
-     
-
+Frankfurt Gestalten was a participatory platform by and for citizens in Frankfurt. We believe that there are many great ideas for a better city and want to connect the people behind these ideas. We documented events in local politics and served as a hub for urban development. 

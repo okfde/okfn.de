@@ -27,7 +27,7 @@ cta_text: |-
 more_text: |-
     Further information can be found on the <a href="https://opengovpartnership.de">Website</a> of the Open Government Network.
 ---
-As part of the Open Government Network, we support Germany's active participation in the Open Government Partnership (OGP) and the interests of German civil society in this process and coordinate the civil society network.
+As part of the Open Government Network, we support Germany's active participation in the Open Government Partnership (OGP) and the interests of German civil society in this process, as well as help coordinate this civil society network.
 
 The network is an association of civil society organisations and individuals that has been working since 2011 to promote open government and administrative action as a holistic approach to strengthening democracy. In particular, the focus is on the exchange with the Federal Government and the development of national action plans.
 
@@ -42,4 +42,4 @@ The network is an association of civil society organisations and individuals tha
 
 The network enables citizens to participate in the development and implementation of ambitious Open Government reforms and to expand the dialogue. In doing so, we combine the expertise of our members and strengthen capacity building in civil society.
 
-We share the conviction that active participation by the Federal Republic of Germany in the Open Government Partnership promotes a cultural change towards greater transparency, participation and accountability and thus stimulates and strengthens democracy and the quality of government action.
+We share the conviction that active participation by the Federal Republic of Germany in the Open Government Partnership promotes a cultural change towards greater transparency, participation and accountability, and thus stimulates and strengthens democracy and the quality of government action.
