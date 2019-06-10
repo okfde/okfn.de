@@ -35,9 +35,9 @@ more_text: |-
 contact_person: arnesemsrott
 
 ---
-The Federal Law Gazettes are the central documents of German democracy. At OffeneGesetze.de they are now freely accessible for the first time. On our new portal we make the documents available free of charge and for free further use.
+The Federal Law Gazettes are the central documents of German democracy. At OffeneGesetze.de they are now freely accessible for the first time. On our new portal, we make these documents available free of charge and for unrestricted use.
 
-So far, Federal Law Gazettes are only available via the website bgbl.de of the Bundesanzeiger Verlag. The private publishing house requires subscription fees for basic functions, for example the searchability or printing of law gazettes. The publisher prohibits further use of the documents with reference to copyright.
+So far, Federal Law Gazettes were only available via the website bgbl.de of the Bundesanzeiger Verlag. The private publishing house requires subscription fees for basic functions, for example searching or printing of law gazettes. The publisher prohibits further use of the documents with reference to copyright.
 
 Copyright law must not stand in the way of democracy. State data and documents must be freely accessible to all. If the Ministry of Justice does not ensure this, civil society must step in.
 

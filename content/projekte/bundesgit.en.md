@@ -19,5 +19,4 @@ contact:
   mailingliste: bundesgit@lists.okfn.org
   twitter: bundesgit
 ---
-This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. Hereby, their historic development and adaptation is transparent and easily comprehensible.
-
+This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. This makes their historic development and adaptation transparent and easily comprehensible.

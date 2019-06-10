@@ -33,7 +33,7 @@ cta_text: |-
 more_text: |-
     Further information can be found on the Code for Germany <a href="https://codefor.de/">website</a>.
 ---
-Code For Germany is a network of groups of volunteer volunteers (Labs) who use their skills to positively shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics and use their skills to improve communication between them and to provide the necessary impetus so that as many people as possible can benefit from the possibilities of open and free digitisation.
+Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.
 
 <div class="two-img">
   <figure class="license">
@@ -46,6 +46,6 @@ Code For Germany is a network of groups of volunteer volunteers (Labs) who use t
     </figure>
 </div>
 
-Some cities already have Open Data programs and make data sets available openly, but in many cases there is still a lack of applications and examples that demonstrate the practical use of open data - this is exactly where Code for Germany comes into play. In addition to software projects, "Do it yourself" hardware projects such as the network of fine dust sensors or the Long Range Wide Area Network (LoRaWan) are also being worked on.
+Some cities already have Open Data programs and make data sets available openly, but in many cases there is still a lack of applications and examples that demonstrate the practical use of open data - this is exactly where Code for Germany comes into play. In addition to software projects, "Do It Yourself" hardware projects such as the network of fine dust sensors or the Long Range Wide Area Network (LoRaWan) are also being worked on.
 
-The program started in February 2014 with the foundation of Open Knowledge Labs in 8 cities. In the meantime, the network has grown to 26 labs and comprises a community of over 500 volunteers.
+The program started in February 2014 with the foundation of Open Knowledge Labs in 8 cities. In the meantime, the network has grown to over 26 labs and comprises a community of over 500 volunteers.

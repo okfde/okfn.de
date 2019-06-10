@@ -33,4 +33,4 @@ The initiative, which was founded in 2003 as part of the 2002 Sustainability Sum
     </figure>
 </div>
 
-Especially the populations of countries rich in raw materials can benefit from this. Where information about revenues is disclosed, there is less distrust, fewer conflicts and less money can flow into the economic and social development of a country. Through publicly accessible information, EITI also promotes a factual debate on resource policy and the use of natural resources. In this way, the citizens of a country can better hold those responsible in politics and business accountable.
+Especially the populations of countries rich in raw materials can benefit from this. Where information about revenues is disclosed, there is less distrust, fewer conflicts and less money can flow into the economic and social development of a country. Through publicly accessible information, EITI also promotes a factual debate on resource policy and the use of natural resources. This allows citizens to hold accountable those in politics and business.

@@ -18,7 +18,7 @@ people:
   - name: Nadine Stammen
     role: Design
 years: 2017 - today
-financing: 
+financing:
   - volunteer project
 partners:
   - Mehr Demokratie e.V.
@@ -30,9 +30,8 @@ contact:
 more_text: |-
     The result of the ranking with detailed explanations can be found on the  <a href="https://transparenzranking.de">website</a> [in German].
 ---
-According to Article 5 of the Grundgesetz, every person has the right to obtain free information from generally accessible sources. That sounds promising at first. But for a long time there was a lack of generally accessible sources. It was not until the turn of the millennium that many German states took a big step: freedom of information was the order of the day. Through freedom of information laws, the first state parliaments in Berlin and Brandenburg obliged local administrations and state authorities to renounce the previously valid official secrecy. 
+According to Article 5 of the German Basic Law (Grundgesetz), every person has the right to obtain free information from generally accessible sources. That sounds promising at first. But for a long time there was a lack of generally accessible sources. It was not until the turn of the millennium that many German states took a big step: freedom of information was the order of the day. Through freedom of information laws, the first state parliaments in Berlin and Brandenburg obliged local administrations and state authorities to renounce the previously valid official secrecy.
 
-The aim was to give citizens access to public data upon request - regardless of whether they were directly affected by this data. This includes contracts, notes, written correspondence, video and audio recordings as well as expert opinions. Because knowledge is power.
+The aim was to give citizens access to public data upon request--regardless of whether they were directly affected by this data. This includes contracts, notes, written correspondence, video and audio recordings as well as expert opinions. Because knowledge is power.
 
 For the first time, we have compared freedom of information and transparency laws at federal and state level.
-

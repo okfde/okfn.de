@@ -19,4 +19,4 @@ contact:
 ---
 The Open Data Incubator for Europe (ODINE) was a 6-month incubator for open data entrepreneurs across Europe. The programme was funded with a grant of €7.8 million from the EU Horizon 2020 programme and was implemented by seven partners.
 
-ODINE aimed to support the next generation of digital enterprises and help them accelerate the development of their products. We are already committed to the best European digital talent and look forward to more outstanding companies to start.
+ODINE aimed to support the next generation of digital enterprises and help them accelerate the development of their products. We are already committed to the best European digital talent and look forward to more outstanding companies to be founded.

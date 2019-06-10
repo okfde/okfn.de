@@ -25,7 +25,7 @@ partners:
   - Senatsverwaltung für Wirtschaft und Energie
 ---
 
-Energyhack is a hackathon around open energy data. Our energy supply and the ways of generation are manifold. But how is energy distributed and how do we ensure that more information is exchanged between producers' devices and consumers? Developers, designers, researchers and innovative thought leaders in the energy industry develop ideas, design hardware and prototypes or program new apps in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.
+Energyhack is a hackathon around open energy data. Our energy supply and the ways of its generation are manifold. But how is energy distributed and how do we ensure that more information can be exchanged between producers and consumers? Together with developers, designers, and researchers, thought leaders in the energy industry brainstorm ideas, design, and develop prototypes in 24 hours. The data from the Open Data Portal Netzdaten-Berlin was available to the participants as a database.
 
 <div class="two-img offset-lg-2">
   <figure class="license">
