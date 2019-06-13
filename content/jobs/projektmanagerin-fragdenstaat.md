@@ -8,7 +8,6 @@ image:
   license:
   license_url: 
 published: true
-featured: blue
 title: "Neue Stelle bei FragDenStaat: Wir suchen Projektmanager*in! (75-100%, ab August 2019)" 
 ---
 
