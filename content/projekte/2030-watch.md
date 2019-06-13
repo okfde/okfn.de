@@ -13,7 +13,7 @@ contact:
 
 subtitle: Wie nachhaltig wird Deutschland?
 more_text: |-
-    Weitere Infos gibt es auf <a href="https://2030-watch.de">der Webseite</a> von 2030watch.
+    Weitere Infos gibt es auf <a href="https://2030-watch.de">der Webseite</a> von 2030Watch.
 ---
 
 2030Watch überwacht und visualisiert die Umsetzung der nachhaltigen Entwicklungsziele in Deutschland. 
