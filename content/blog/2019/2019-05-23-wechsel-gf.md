@@ -1,7 +1,7 @@
 ---
 authors: 
 - OKF
-date: 2017-05-23
+date: 2019-06-10
 image:
   src: /files/blog/2017/07/OKFDE_Logo_black.png
   title: "Open Knowledge Foundation Deutschland"
