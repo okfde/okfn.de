@@ -1,7 +1,7 @@
 ---
 type: research
 layout: project
-title: 2030watch
+title: 2030Watch
 background: backgrounds/jugendhackt.jpg
 website: https://2030-watch.de
 img: projects/2030_Projektuebersicht_smallTile.png
