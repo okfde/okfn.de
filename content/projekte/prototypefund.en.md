@@ -43,11 +43,12 @@ cta_text: |-
 more_text: |-
     Further information can be found on the <a href="https://prototypefund.de">website</a> of the Prototype Fund.
 ---
-With the Prototype Fund we support socially relevant software projects and increase their sustainable impact through open source as a matter of principle. In short: We support Public Interest Tech.
-We make digital-social innovation possible; with developer groups that bring a wide range of skills to bear in technology design and pass on their good ideas.
-With up to 47,500 euros per project and team, the funding fund supports software developers*, hackers* and creative people in implementing sketches for tools and applications in the areas of Civic Tech, data literacy, IT security and software infrastructure.
+The Prototype Fund supports socially relevant software projects and increases their sustainable impact by open sourcing as a principle. In short: we support Public Interest Tech.
 
-In addition to financial support, we offer mentor coaching on the way to the prototype and exchange ideas with our extensive and diverse network of coders, other practitioners and potential users.
+We make digital-social innovation possible with developers that bring a wide range of skills in technology design.
+With up to 47,500 euros per project and team, the Prototype Fund supports software developers, hackers and creatives in building protptypes for tools and applications in the areas of civic tech, data literacy, IT security and software infrastructure.
+
+In addition to financial support, we offer mentorship and coaching along the way and exchange ideas with our extensive and diverse network of coders, practitioners and potential users.
 
 The application process is kept as unbureaucratic as possible and adapted to the needs of the self-employed. To date, we have already spent 3 million on 81 projects (status after round 4). The programme runs over a total of 8 funding rounds until 2020.
 </br></br>

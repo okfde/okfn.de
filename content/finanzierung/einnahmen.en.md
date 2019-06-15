@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-The majority (>81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. onations correspond to approximately 8% of our income. We generated almost 5% through services, sponsoring currently accounts for 4.6% of our funds.
+The majority (81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. Donations correspond to approximately 8% of our income. We generated almost 5% through services provded; sponsoring currently accounts for 4.6% of our funds.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Overview</a>
@@ -14,7 +14,7 @@ The majority (>81%) of our income comes from public funds. We obtain these funds
     <a href="#income-donations" class="">Donations</a>
 </div>
 <div class="js-incomes" id="incomes"><div class="einnahmen-kategorien d3chart"></div></div>
-<div class="js-incomes" id="income-donations"><div class="income-donations d3chart"></div><small>*Organisation does not want to be named publicly, but you can personally inquire their name.</small></div>
+<div class="js-incomes" id="income-donations"><div class="income-donations d3chart"></div><small>*Organisation does not want to be named publicly, but may be disclosed upon inquiry</small></div>
 <div class="js-incomes" id="income-institutions"><div class="income-institutions d3chart"></div></div>
 <div class="js-incomes" id="income-companies"><div class="income-companies d3chart"></div></div>
 <div class="js-incomes" id="income-services"><div class="income-services d3chart"></div></div>
@@ -33,4 +33,6 @@ The majority (>81%) of our income comes from public funds. We obtain these funds
     <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
 </div>
 
-Our projects are often initiated by voluntary work and driven by passionate individuals. Individual donations make the continuity and independence of these tools for the public good possible. Help us by donating today!
+Our projects emerge from a solution-oriented as well well idealistic approach, and are often driven by volunteer activities.
+
+Individual donations make the continuity and independence of these activities for the public possible. Help us by donating today!

@@ -30,9 +30,9 @@ more_text: |-
 
 The corporate registry is the public repository of companies, foundations and associations in Germany. It contains data about legal status, address and officers of an entity.
 
-This data is important for the trust in business and the people involved. But this data is not made openly accessible by the government.
+This data is important for trust in business and the people involved. However, this data is not made openly accessible by the government.
 
-Together with [OpenCorporates](https://opencorporates.com/) we publish the German corporate registry as Open Data for the first time.
+Together with [OpenCorporates](https://opencorporates.com/) we published the German corporate registry as open data for the first time.
 <small>
     Picture: <a href="https://www.flickr.com/photos/max-stolbinsky/36174159450/">Hamburg. Speicherstadt</a> von <a href="https://www.flickr.com/photos/max-stolbinsky/">Max Stolbinsky</a> under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
 </small>

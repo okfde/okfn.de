@@ -11,7 +11,5 @@ financing:
 contact:
    twitter: europeanaeu
 ---
-Europeana Cloud is a 'best practice network' aiming at establishing a cloud-based system for the Europeana and national aggregators in order to develop tools that can not only describe meta-data, but make actual digital content connected, accessible and editable.
-We have developed software solutions for editing metadata and digital content in a cloud-infrastructure for the project.
-
-
+Europeana Cloud is a 'best practice network' aiming at establishing a cloud-based system for the European and national data aggregators in order to develop tools that can not only describe metadata, but make actual digital content connected, accessible, and editable.
+We developed software solutions for editing metadata and digital content in a cloud-based infrastructure for this project.

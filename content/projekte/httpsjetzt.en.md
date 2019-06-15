@@ -12,7 +12,7 @@ people:
 - name: Maximilian Richt
   role: Projektleitung
 - name: Ernesto Ruge
-  role: Projektleitung 
+  role: Projektleitung
 contact:
   website: https://https.jetzt
   website: https://behoerden-online-dienste.de
@@ -28,9 +28,8 @@ more_text: |-
     Further information can be found on the website <a href="https://https.jetzt">https.jetzt</a>.
 ---
 
-https.jetzt! is a project to show how many government websites support HTTPS. Why is website encryption important?
-Any unencrypted transmission of data can be intercepted on the Internet and thus manipulated. Therefore, it is obvious that any transmission of sensitive data, such as orders in online shops, online banking or logins to websites with non-public content, should only be encrypted. For the user this means: If in doubt, for example when using online order forms, you should always check in the address bar whether an encrypted transmission is displayed there. Serious and professional providers will not request data from the customer via unencrypted channels.
+https.jetzt! shows how many government websites support encryption via HTTPS. Why is website encryption important?
 
-But encryption also makes sense for the transmission of normal web content. Encryption ensures that the user only receives the data he has requested. Not only can unencrypted data be manipulated, but malware can also be inserted into the data in public WLANs, for example. And last but not least, encryption generally makes it difficult to spy on user behavior.
+Any unencrypted transmission of data can be intercepted on the Internet and thus manipulated. Therefore, it is obvious that any transmission of sensitive data, such as orders in online shops, online banking, or logins to websites with non-public content should always be encrypted. For the user this means: when in doubt you should always check in your browser whether an encrypted transmission is displayed there. Serious and professional providers will not request data from the customer via unencrypted channels.
 
-
+But encryption also makes sense for the transmission of normal web content. Encryption ensures that the user only receives the data they have requested. Not only can unencrypted data be manipulated, but malware can also be inserted into the data on public WiFi, for example. And last but not least, encryption generally makes it difficult to spy on user behavior.

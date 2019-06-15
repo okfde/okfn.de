@@ -20,12 +20,11 @@ video: "https://www.youtube.com/embed/AWa661KfQG0Y"
 contact_person: markusneuschaefer
 
 more_text: |-
-  Further information can be found on the <a href="https://de.dariah.eu">website</a> of Dariah. 
+  Further information can be found on the <a href="https://de.dariah.eu">website</a> of Dariah.
 ---
-DARIAH-DE supports digitally-enabled research and teaching in the arts and humanities.
-For this purpose, the project is developing a research infrastructure in support of service and research data as well as materials for research and teaching in the Digital Humanities.
+DARIAH-DE supports digitally-enabled research and teaching in the arts and humanities. The project developed research infrastructure in support of service and research data as well as materials for research and teaching in the Digital Humanities.
+
 DARIAH-DE is the german national contribution to the European research infrastructure "DARIAH-EU - Digital Research Infrastructure for the Arts and Humanities" within the framework of ESFRI.
 
-As a project partner, we support DARIAH-DE with the communication and dissemination of the allignment, content, and results of the digital humanities.
-By supporting digitally-enabled research and teaching in the arts and humanities, we hope to further the progression of the field and thereby expand the use of digital content, ressources, tools, and open research infrastructures.
-
+As a project partner, we supported DARIAH-DE with the communication and dissemination of the alignment, content, and results of digital humanities.
+By supporting digitally-enabled research and teaching in the arts and humanities, we hope to advance the field and  expand the use of digital content, resources, tools, and open research infrastructure in general.

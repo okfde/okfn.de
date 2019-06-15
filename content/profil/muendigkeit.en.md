@@ -1,6 +1,6 @@
 ---
 title: We strengthen digital literacy and the ethical use of technology
-weight: 5
+weight: 3
 
 img:
   -
@@ -14,4 +14,4 @@ arrange: img_bottom_2
 
 ---
 
-Only those who understand technology can help shape it. This is why we offer workshops on a wide variety of topics such as data literacy, open data and open education.
+Only those who understand technology can help shape it. This is why we offer workshops on a wide variety of topics such as data literacy, open data, and open education. We also develop individual educational concepts.
