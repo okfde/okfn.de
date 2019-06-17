@@ -34,7 +34,7 @@ DIGIWHIST Project Final Conference
 gaps
   * Commentators: Gavin Hayman (Open Contracting Partnership), Friedrich Lindenberg (OCCRP) 
   * Q&A 
-* 14:00-15:00 Session 2: Snapshot of government favoritism in European public
+* 14:00-15:00 Session 2: Snapshot of government favouritism in European public
 procurement
   * Mihaly Fazekas (DIGIWHIST): Risk assessment methods, risk areas
 and policy lessons 

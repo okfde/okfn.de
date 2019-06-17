@@ -11,10 +11,10 @@ tags:
  - Ausschreibung
  - community
  - Jobs
-title: "Community Organizer für Code for Germany m/w (50%)"
+title: "Community Organiser für Code for Germany m/w (50%)"
 ---
 
-<strong>Die Open Knowledge Foundation sucht eine/n Community Organizer/in für das Projekt Code for Germany</strong>
+<strong>Die Open Knowledge Foundation sucht eine/n Community Organiser/in für das Projekt Code for Germany</strong>
 
 
 <h3>Wer wir sind</h3>
@@ -29,7 +29,7 @@ Die OKF DE ist ein gemeinnütziger Verein, der sich dem Aufbau einer digitalen I
  
 <h3>Wen wir suchen</h3>
 
-Für Code for Germany suchen wir eine/n Community Organizer/in in Teilzeit
+Für Code for Germany suchen wir eine/n Community Organiser/in in Teilzeit
  
 Du interessierst dich für Technologie, Politik, Design und Aktivismus und das Internet ist deine zweite Heimat. Bloggen, schreiben und twittern machen dir Spaß. Du hast eine eigenständige Arbeitsweise und interessierst dich für gesellschaftliche Themen. Du hast Lust viel zu lernen und mit einer großen Community von Gleichgesinnten zu arbeiten und diese zu unterstützen. Du organisierst gerne, hast Erfahrung im Aufbau von Netzwerken und findest auch konzeptionelle Arbeit spannend. 
  

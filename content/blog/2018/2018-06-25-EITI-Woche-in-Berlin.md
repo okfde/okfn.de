@@ -71,7 +71,7 @@ Mehr Information und Zutritt, wo möglich, gibt es per Mail unter eiti@okfn.de.
 <h3>Tuesday - Bericht vom Dienstag:</h3><br>
 
 [Paris Agreement - Article 2](https://unfccc.int/resource/docs/2015/cop21/eng/l09.pdf)<br>
-<b>framing: </b><i>Emphasizing with serious concern the urgent need to address the significant gap
+<b>framing: </b><i>Emphasising with serious concern the urgent need to address the significant gap
 between the aggregate effect of Parties’ mitigation pledges in terms of global annual
 emissions of greenhouse gases by 2020 and aggregate emission pathways consistent with
 holding the increase in the global average temperature to well below 2 °C above preindustrial
@@ -188,7 +188,7 @@ The fun continued in the evening, at the Biergarten.
 ### Friday - Bericht vom Freitag
 <br>
 ¡Buenos días a todos! <br>
-Working breakfast organized by Christin Fröhlich from @BMWi_Bund for new implementing countries from Latin America 
+Working breakfast organised by Christin Fröhlich from @BMWi_Bund for new implementing countries from Latin America 
 ![Latin America](/files/blog/2018/06/20180629-EITI-Friday-southamerica.jpg)
 <br>
 grievances mechanism discussion (update will follow)<br>
