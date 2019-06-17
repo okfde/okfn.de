@@ -22,7 +22,7 @@ The Open Knowledge Foundation Germany is one of the leading NGOs in the field of
 
 OpenBudgets.eu is a platform for fiscal transparency in the EU and its member states. Open Budgets develops a Software as a Service platform for budget and spending data. The project focuses on the development easy-to-use, flexible and attractive tools for comparative analysis and visualisation.
 
-Open Knowledge Foundation Deutschland is responsible for ‘Communication and Dissemination’ of Open Budgets. We mainly focus on three stakeholder groups: journalists, policy makers (MEPs), and participatory budgeting organizations. For specific tools that cater to Journalists, we are looking for a junior product owner with an interest in journalism, or a researcher/journalist with a technical background. 
+Open Knowledge Foundation Deutschland is responsible for ‘Communication and Dissemination’ of Open Budgets. We mainly focus on three stakeholder groups: journalists, policy makers (MEPs), and participatory budgeting organisations. For specific tools that cater to Journalists, we are looking for a junior product owner with an interest in journalism, or a researcher/journalist with a technical background. 
 
 <strong>Tasks</strong>
 
@@ -36,7 +36,7 @@ Your tasks will consists of the development of user requirement workshops and re
 * Becoming part of a dynamic and innovative NGO;
 * A welcoming and motivated team;
 * Office in Berlin, flexible working hours, friendly office atmosphere
-* Access to and close cooperation with the (international) networks of investigative- and data-journalists and open data organizations.
+* Access to and close cooperation with the (international) networks of investigative- and data-journalists and open data organisations.
 * Travel and conference visits.
 
 <strong>What we expect</strong>

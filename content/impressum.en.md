@@ -39,7 +39,7 @@ Our offer contains links to external web pages of third parties, whose contents 
 
 ### Copyright
 
-The by the site operators and content of this website to German copyright law. They are protected by a Creative Commons License. Except where otherwise noted, the content of this site is licensed under the Attribution 3.0 Germany (CC BY 3.0 DE) License. Insofar as the content on this site is not created by the operator, the property rights of third parties apply. In particular, third party content is identified as such. Should you become aware of copyright infringement, we ask you to notify us. Upon notification of violations, we will remove the content immediately.
+The by the site operators and content of this website to German copyright law. They are protected by a Creative Commons Licence. Except where otherwise noted, the content of this site is licensed under the Attribution 3.0 Germany (CC BY 3.0 DE) Licence. Insofar as the content on this site is not created by the operator, the property rights of third parties apply. In particular, third party content is identified as such. Should you become aware of copyright infringement, we ask you to notify us. Upon notification of violations, we will remove the content immediately.
 
 ## Privacy Policy
 
@@ -156,7 +156,7 @@ This data includes, for example
 
 For the use of Matomo we use so-called "cookies". These are small text files that a web server can send to your computer to identify it for the duration of your visit. We use the two session cookies pk_ses and the persistent cookies pk_id and pk_ref. We do not collect any personal data from you via these cookies.
 
-pk_ses is always deleted after your browser session has ended; only pk_id and pk_ref are persistent cookies that are persistent beyond a browser session and enable us to recognize when a user visits our site again. If you do not remove the cookie yourself, it is deleted automatically after 1 year or 6 months.
+pk_ses is always deleted after your browser session has ended; only pk_id and pk_ref are persistent cookies that are persistent beyond a browser session and enable us to recognise when a user visits our site again. If you do not remove the cookie yourself, it is deleted automatically after 1 year or 6 months.
 
 The presentation of our website is also possible without the storage of cookies. You can deactivate the storage of cookies in the settings of your browser or set it so that it informs you of the intended storage by an Internet page. In this case, you decide whether to accept the cookie.
 

@@ -22,7 +22,7 @@ Anknüpfend an den Erfolg der Open Development Camps in 2011 und 2012 möchten d
 In Camp 2013 dreht sich alles um die drei Bereiche
 
 * Open Data for Development  
-* Open Organizations for Development  
+* Open Organisations for Development  
 * Open Tools for Development
 
 Das Camp wird sich zudem explizit mit der generellen Frage des Entwicklungsbegriffs befassen und die potentielle Rolle von Open Development für eine Neugestaltung konventioneller geographischer und ökonomischer Spaltung diskutieren.  

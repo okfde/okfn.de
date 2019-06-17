@@ -22,7 +22,7 @@ aliases:
   - /blog/2018/07/Policy-advocacy-with-a-twist/
 
 ---
-At the Open Knowledge Foundation Deutschland we’ve been advocating for rules and regulation that open up closed systems and processes in areas such as data governance, financial transparency and algorithmic accountability. However, as a small organization that largely runs on project grants and individual donations, we don’t have the resources to run large-scale advocacy campaigns. The key to success for us has been to rely on a combination of law, tech and crowd to address some of the most important policy issues in our field. Here are two examples to illustrate how we work.
+At the Open Knowledge Foundation Deutschland we’ve been advocating for rules and regulation that open up closed systems and processes in areas such as data governance, financial transparency and algorithmic accountability. However, as a small organisation that largely runs on project grants and individual donations, we don’t have the resources to run large-scale advocacy campaigns. The key to success for us has been to rely on a combination of law, tech and crowd to address some of the most important policy issues in our field. Here are two examples to illustrate how we work.
 
 ### Pushing for transparency in lawmaking
 
@@ -50,9 +50,9 @@ While the project is still on-going, we’ve already been successful in [initiat
 Much of our advocacy builds on a simple formula:
 
 * Laws provide us with the legal basis to request information
-* Technology enables us to organize communities and crowdsource data
+* Technology enables us to organise communities and crowdsource data
 * The crowd allows us to scale our initiatives
 
 By combining these three assets we are able to empower citizens, to make government more responsive and to bring transparency into opaque systems.
 
-While it may not be applicable across all countries and sectors, we hope that other organizations working in similar contexts and facing similar constraints will the lessons we learned helpful. [Get in touch](info@okfn.de) if you want to talk. We’re always keen to learn about similar initiatives.
+While it may not be applicable across all countries and sectors, we hope that other organisations working in similar contexts and facing similar constraints will the lessons we learned helpful. [Get in touch](info@okfn.de) if you want to talk. We’re always keen to learn about similar initiatives.

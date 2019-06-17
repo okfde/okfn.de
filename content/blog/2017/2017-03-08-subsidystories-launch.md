@@ -25,7 +25,7 @@ The European Union allocates 44 % of its total 7-year budget through the Europea
 
 Subsidystories.eu makes the recipients of the largest EU subsidies program visible across Europe. Recent and future debates on EU spending will benefit from the factual basis offered by the project, as spending on the member state, regional and local level can be traced. Subsidystories.eu makes it possible to check which projects and organisations are receiving money and how it is spent across Europe. For example, the amounts given per project are vastly different per country; in Poland the average sum per project is 381 664 E whereas in Italy this is only 63 539 E.
 
-The data can be compared throughout the EU enabling thorough analysis of EU spending patterns. Subsidystories.eu gives scientists, journalists and interested citizens the direct possibility of visualizing data and running data analytics using SQL. The data can be directly downloaded to CSV for the entire European Union or for specific countries.
+The data can be compared throughout the EU enabling thorough analysis of EU spending patterns. Subsidystories.eu gives scientists, journalists and interested citizens the direct possibility of visualising data and running data analytics using SQL. The data can be directly downloaded to CSV for the entire European Union or for specific countries.
 
 Beneficiary data, which was previously scattered across the EU in different languages and formats, had to be opened, scraped, cleaned and standardised to allow for cross-country comparisons and detailed searches. That we are now able to run detailed searches, aggregate projects per beneficiary and across countries, is a big step for financial transparency in Europe.
 

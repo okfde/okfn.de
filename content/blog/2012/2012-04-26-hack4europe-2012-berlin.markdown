@@ -19,15 +19,15 @@ type: post
 
 **Hack4Europe! 2012 Berlin will be organised by the Europeana Collections 1914-1918 project at Staatsbibliothek zu Berlin, the Open Knowledge Foundation and other partners.**
 
-**Tuesday, June 5, 2012 at 9:00 AM to Wednesday, June 6, 2012 at 7:00 PM  
+**Tuesday, June 5, 2012 at 9:00 AM to Wednesday, June 6, 2012 at 7:00 PM
 **
 
-**Staatsbibliothek zu Berlin**  
-Potsdamer Straße 33  
-D-10785 Berlin  
+**Staatsbibliothek zu Berlin**
+Potsdamer Straße 33
+D-10785 Berlin
 Germany
 
-The hackathon will bring together up to 30 developers from Germany and other European countries. They will have access to the diverse and rich [Europeana collections](http://www.europeana.eu/) containing over 20 million records through the Europeana Search API (incl. a test key and [technical documentation](http://europeanalabs.eu/wiki/EuropeanaOpenSearchAPI)). 
+The hackathon will bring together up to 30 developers from Germany and other European countries. They will have access to the diverse and rich [Europeana collections](http://www.europeana.eu/) containing over 20 million records through the Europeana Search API (incl. a test key and [technical documentation](http://europeanalabs.eu/wiki/EuropeanaOpenSearchAPI)).
 
 Participants will be encouraged to try out their ideas for creative reuse of the Europeana content and build prototypes showcasing the social and business value of open cultural data. The suggested (but not obligatory) themes are:
 
@@ -55,7 +55,7 @@ Winners from the individual hackathons will be then further evaluated and one fi
 
   1. Developers must register in advance to indicate their interest. **Depending on the demand for the event, organisers will decide on the final delegate list and send a confirmation e-mail to the selected ones about two weeks prior to the events. ** **Registration closes on 18 May, or earlier if we will reach the maximum number of participants. Please register as soon as you can  to be able to receive the final confirmation e-mail in a time which will allow you to arrange your participation. **
   2. The ownership of prototypes and ideas developed during the contest belongs to teams which developed these prototypes and ideas. Also these teams are responsible for all legal issues related to developed prototypes (e.g. compatibility with the license of used open-source software components).
-  3. Hackathon is organized as an international event, the language used in all official parts of the event will be English. This is also the language in which the Europeana API technical documentation is available.
+  3. Hackathon is organised as an international event, the language used in all official parts of the event will be English. This is also the language in which the Europeana API technical documentation is available.
   4. The event agenda will not be strongly structured to give a lot of flexibility to the participants.
 
 Registration for Developers is open here: <http://hack4europe2012-berlin.eventbrite.com/>

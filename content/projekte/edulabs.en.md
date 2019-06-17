@@ -35,7 +35,7 @@ more_text: |-
   All further information can also be found on the <a href="https://edulabs.de/">website</a> of edulabs.
 
 ---
-edulabs sees itself as a supra-regional incubator in which people use their didactic, technical, and creative skills to develop innovative and re-usable educational materials. The project works on three levels: concept development, provision and advertising of open educational resources as well as community building and support. Throughout Germany, edulabs organizes meetings of interdisciplinary teams where open educational resources and digitally supported methods are evaluated, created, documented, and improved. The lab community is supported editorially, didactically, technically, as well as with the organization of events.
+edulabs sees itself as a supra-regional incubator in which people use their didactic, technical, and creative skills to develop innovative and re-usable educational materials. The project works on three levels: concept development, provision and advertising of open educational resources as well as community building and support. Throughout Germany, edulabs organises meetings of interdisciplinary teams where open educational resources and digitally supported methods are evaluated, created, documented, and improved. The lab community is supported editorially, didactically, technically, as well as with the organisation of events.
 
 <div class="two-img offset-lg-2">
     <figure class="license">

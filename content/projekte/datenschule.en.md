@@ -28,13 +28,13 @@ more_text: |-
     More information on datenmachenschule is available at the <a href="https://datenschule.de">website</a> of Datenschule.
 ---
 
-The Data School is a nationwide educational program on the subject of data and technologies. We mainly target non-profit organizations that work with data, or alternatively want to deepen their existing data knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.
+The Data School is a nationwide educational program on the subject of data and technologies. We mainly target non-profit organisations that work with data, or alternatively want to deepen their existing data knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.
 
-We want non-profit organizations:
+We want non-profit organisations:
 
 + to encourage targeted use of data and technology in their work.
 
-+ to enable digital tools and data as an additional source of information for research, project and organizational development.
++ to enable digital tools and data as an additional source of information for research, project and organisational development.
 
 + to enable people to participate in evidence-based public debates with data-backed projects.
 
