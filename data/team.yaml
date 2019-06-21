@@ -932,3 +932,17 @@
   twitter: _tasmo
   website: 'https://tasmo.rocks'
   github: tasmo
+  
+- name: Marie Gutbub
+  img: marie_g
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Program Manager & Events Prototype Fund
+  position_en: Program Manager & Events Prototype Fund
+  bio: "Marie ist teil des Prototype Fund Teams und dort für Programm Management und Events zuständig. Zuvor hat sie als freie Journalistin, Campaignerin, Kommunikationsbeauftragte, Infosec-Trainerin und Event-Organisatorin für verschiedene Projekte im Bereich Journalismus, Privacy und Open Source gearbeitet."
+  bio_en: "Marie is in charge of program management and events at Prototype Fund. She has previously worked as a freelance journalist, campaigner, communications officer, infosec trainer and event organizer for various journalism, privacy and open source projects."
+  mail: marie.gutbub@okfn.de
+  twitter: shiromarieke
+  website: https://maryshi.ro/
+
