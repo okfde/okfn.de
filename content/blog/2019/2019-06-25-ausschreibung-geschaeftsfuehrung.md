@@ -25,10 +25,10 @@ Zu den weiteren Aufgaben gehören die vorausschauende Planung des Organisationsw
 
 Die einzelnen Projekte unter dem Dach der OKF sind mit hoher Eigenverantwortung ausgestattet. Wir suchen daher eine Person, die Erfahrung mit partizipativer Führung, eigenverantwortlichem Management und kompetenzbasierten flachen Hierarchien besitzt.
 
-Detaillierte Beschreibung der Aufgaben nach dem KLICK.
+**Detaillierte Beschreibung der Aufgaben nach dem [KLICK](/files/documents/OKF_Ausschreibung_GF_2019.pdf).**
 
 **Alle wichtigen Informationen auf einen Blick:**
 Bewerbungsschluss: 28.07.2019
 Verfahren: zweistufig
 Gehaltsklasse: in Anlehnung an TV-L 14
-Rückfragen unter: Elisa Lindinger (030 57 70 36 660)
+Rückfragen unter: [Elisa Lindinger](mailto:elisa.lindinger@okfn.de) (030 57 70 36 660)
