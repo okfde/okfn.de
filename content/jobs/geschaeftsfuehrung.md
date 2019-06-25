@@ -7,13 +7,7 @@ image:
   title: "OKF Team 2018"
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/2.0/
-tags:
-
-type: post
-layout: post
-card: true
 published: true
-featured: blue
 title: "Wir suchen eine*n Geschäftsführer*in, Bewerbungsfrist 28.07."
 ---
 
