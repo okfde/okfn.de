@@ -14,7 +14,7 @@ layout: post
 card: true
 published: true
 featured: blue
-title: "Wir suchen ein*e Geschäftsführer*in, Bewerbungsfrist 28.07"
+title: "Wir suchen ein*e Geschäftsführer*in, Bewerbungsfrist 28.07."
 ---
 
 Die **Open Knowledge Foundation Deutschland (OKF)** setzt sich seit 2011 erfolgreich für dezentrale Teilhabe, offenes Wissen, digitales zivilgesellschaftliches Engagement und offene Innovation ein. Um die Wirksamkeit der OKF zu stärken und die Organisation in enger Zusammenarbeit mit Team und Board weiterzuentwickeln, suchen wir zum nächstmöglichen Zeitpunkt eine neue **Geschäftsführung (in Vollzeit)**.
