@@ -1,6 +1,6 @@
 ---
 authors:
-- OKF
+- Michael Peters
 date: 2019-06-27
 image:
   src: /files/blog/2018/06/tale-of-three-men.jpg
