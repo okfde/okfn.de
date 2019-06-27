@@ -22,7 +22,7 @@ title: "Privatsphäre oder öffentliches Interesse?"
 
 ### Ein Plädoyer für öffentliche Informationen zu wirtschaftlichen Eigentümern
 
-Dies ist eine Übersetzung des Privacy Reports von [OpenOwnership](https://www.openownership.org/), [The BTeam](http://www.bteam.org/) und [Engine Room](https://www.theengineroom.org/). [Kurzversion](https://www.openownership.org/uploads/privacy-report-summary.pdf) (engl.), [Report](https://www.openownership.org/uploads/oo-data-protection-and-privacy-188205.pdf ) (engl.).
+*Dies ist eine Übersetzung der Zusammenfassung des [Privacy Reports (engl.)](https://www.openownership.org/uploads/oo-data-protection-and-privacy-188205.pdf) von [OpenOwnership](https://www.openownership.org/), [The BTeam](http://www.bteam.org/) und [Engine Room](https://www.theengineroom.org/).*
 
 **Zivilgesellschaftliche Organisationen, Unternehmen und Regierungen auf der ganzen Welt erkennen zunehmend die Notwendigkeit größerer Transparenz über die Eigentümer von Unternehmen als nützliches Mittel zur Eindämmung illegaler Finanzströme an. Während es wichtige Impulse für rechtliche Rahmenbedingungen gibt, die mehr Eigentümertransparenz fordern, steht der Trend zur Erfassung und Veröffentlichung von Informationen über wirtschaftliche Eigentümer - insbesondere deren Verfügbarkeit in öffentlichen Registern - im Mittelpunkt der Kritik.**
 
