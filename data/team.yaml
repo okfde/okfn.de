@@ -40,13 +40,14 @@
 
 - name: Nadine Evers
   img: nadineevers
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Geschäftsführerin
   position_en: Managing Director
-  bio: "Nadine ist seit Juni 2017 Geschäftsführerin bei der Open Knowledge Foundation Deutschland e.V. Davor war sie als Mitarbeiterin des Auswärtigen Amts die deutsche Stimme in der EU-Ratsarbeitsgruppe für Humanitäre Hilfe. Beim Roten Kreuz arbeitete sie im Bereich Völkerrecht und als Programmleiterin für die Auslandshilfe im Sudan und in Äthiopien. In Haiti und der Dominikanischen Republik leitete sie Projekte im nationalen Katastrophenschutz. Nadine war zuvor unter anderem Geschäftsführerin des Stiftungskollegs der Robert Bosch Stiftung, wissenschaftliche Referentin im Europäischen Parlament und Beraterin bei der Boston Consulting Group."
-  bio_en: "Nadine has been Managing Director of the Open Knowledge Foundation Deutschland e.V. since June 2017. Previously she was the German voice in the EU Council Working Group on Humanitarian Aid as an employee of the Federal Foreign Office. At the Red Cross she worked in international law and as a programme manager for foreign aid in Sudan and Ethiopia. In Haiti and the Dominican Republic, she led national disaster control projects. Nadine's previous posts include managing director of the Robert Bosch Stiftung's Foundation College, scientific advisor to the European Parliament and advisor at the Boston Consulting Group."
+  bio: "Nadine war von Juni 2017 bis Juni 2019 Geschäftsführerin bei der Open Knowledge Foundation Deutschland e.V. Davor war sie als Mitarbeiterin des Auswärtigen Amts die deutsche Stimme in der EU-Ratsarbeitsgruppe für Humanitäre Hilfe. Beim Roten Kreuz arbeitete sie im Bereich Völkerrecht und als Programmleiterin für die Auslandshilfe im Sudan und in Äthiopien. In Haiti und der Dominikanischen Republik leitete sie Projekte im nationalen Katastrophenschutz. Nadine war zuvor unter anderem Geschäftsführerin des Stiftungskollegs der Robert Bosch Stiftung, wissenschaftliche Referentin im Europäischen Parlament und Beraterin bei der Boston Consulting Group."
+  bio_en: "Nadine has been Managing Director of the Open Knowledge Foundation Deutschland e.V. from June 2017 to June 2019. Previously she was the German voice in the EU Council Working Group on Humanitarian Aid as an employee of the Federal Foreign Office. At the Red Cross she worked in international law and as a programme manager for foreign aid in Sudan and Ethiopia. In Haiti and the Dominican Republic, she led national disaster control projects. Nadine's previous posts include managing director of the Robert Bosch Stiftung's Foundation College, scientific advisor to the European Parliament and advisor at the Boston Consulting Group."
   mail: nadine.evers@okfn.de
   twitter:
   website:
