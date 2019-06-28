@@ -15,7 +15,7 @@ layout: post
 card: true
 published: true
 featured: blue
-title: "Nach fragwürdigem Auftrag an FDP-Großspenderin: Wir fordern mehr Transparenz und die Förderung Freier Bildung!"
+title: "Offener Brief: nach fragwürdigem Auftrag an FDP-Großspenderin"
 ---
 
 In einem [Offenen Brief](https://github.com/okfde/okfn.de/blob/master/static/files/blog/2019/06/Offener%20Brief_Vergabeprozess%20Projekt%20_MobiDigNRW.pdf) zum Vergabeprozess des Projektes “Mobile Digitalwerkstatt” problematisieren wir kommerzielle Abhängigkeiten im Bildungsbereich. Anlässlich der [umstrittenen Beauftragung von HABA Digital](https://www.abgeordnetenwatch.de/blog/2019-06-28/fragwuerdiger-auftrag-fdp-grossspenderin) durch das FDP geführte Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen fordern wir:
