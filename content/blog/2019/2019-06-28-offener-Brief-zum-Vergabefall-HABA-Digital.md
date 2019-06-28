@@ -18,7 +18,7 @@ featured: blue
 title: "Offener Brief: nach fragwürdigem Auftrag an FDP-Großspenderin"
 ---
 
-In einem [Offenen Brief](https://github.com/okfde/okfn.de/blob/master/static/files/blog/2019/06/Offener%20Brief_Vergabeprozess%20Projekt%20_MobiDigNRW.pdf) zum Vergabeprozess des Projektes “Mobile Digitalwerkstatt” problematisieren wir kommerzielle Abhängigkeiten im Bildungsbereich. Anlässlich der [umstrittenen Beauftragung von HABA Digital](https://www.abgeordnetenwatch.de/blog/2019-06-28/fragwuerdiger-auftrag-fdp-grossspenderin) durch das FDP geführte Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen fordern wir:
+In einem [Offenen Brief](https://github.com/okfde/okfn.de/blob/master/static/files/blog/2019/06/Offener%20Brief_Vergabeprozess%20Projekt%20_MobiDigNRW.pdf) zum Vergabeprozess des Projektes “Mobile Digitalwerkstatt” problematisieren wir gemeinsam mit zahlreichen Akteurinnen und Akteuren der Bildungspraxis kommerzielle Abhängigkeiten im Bildungsbereich. Anlässlich der [umstrittenen Beauftragung von HABA Digital](https://www.abgeordnetenwatch.de/blog/2019-06-28/fragwuerdiger-auftrag-fdp-grossspenderin) durch das FDP geführte Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen fordern wir:
 
 * die Aufklärung des Vergabeprozesses im Falle „Mobile Digitalwerkstatt“, 
 * die Prüfung der Neuausschreibung des Auftrages der „Mobilen Digitalwerkstatt“,
