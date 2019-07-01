@@ -22,7 +22,7 @@ title: "Privatsphäre oder öffentliches Interesse?"
 
 ### Ein Plädoyer für öffentliche Informationen zu wirtschaftlichen Eigentümern
 
-*Im Zuge der anstehenden Umsetzung der 5. EU-Geldwäsche-Richtlinie setzen wir uns für ein offenes Transparenzregister ein. In unserem [Policy-Papier](/files/documents/OKFDE-Policy-Brief-Transparenzregister.pdf) veröffentlichen wir unsere Analyse und Forderungen. Zusätzlich publizieren wir den von uns organisierten gemeinsamen [Brief an das Bundesministerium der Finanzen](/files/documents/OKFDE-Gemeinsamer-Brief-BMF.pdf).*
+*Im Zuge der anstehenden Umsetzung der 5. EU-Geldwäsche-Richtlinie setzen wir uns für ein offenes Transparenzregister ein. In unserem [Policy-Papier](/files/documents/OKFDE-Policy-Brief-Transparenzregister.pdf) veröffentlichen wir unsere Analyse und Forderungen. Zusätzlich publizieren wir den von uns organisierten gemeinsamen [Brief an das Bundesministerium der Finanzen](/files/documents/OKFDE-Gemeinsamer-Brief-BMF.pdf). Auf der re:publica 2019 haben wir das Thema in einem [Vortrag](https://www.youtube.com/watch?v=JZg-zvqW85A) beleuchtet.*
 
 
 *Es folgt eine Übersetzung der Zusammenfassung des [Privacy Reports (engl.)](https://www.openownership.org/uploads/oo-data-protection-and-privacy-188205.pdf) von [OpenOwnership](https://www.openownership.org/), [The BTeam](http://www.bteam.org/) und [Engine Room](https://www.theengineroom.org/).*
