@@ -22,7 +22,7 @@
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
 <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
-{{ if (isset .Params "featured") }}
+{{ if (isset .Params "image") }}
 <meta property="og:image" content='{{ .Site.BaseURL }}/{{ trim .Params.image.src "/"}}' />
 <meta name="twitter:image" content='{{ .Site.BaseURL }}/{{ trim .Params.image.src "/"}}'>
 {{end}}
