@@ -11,4 +11,4 @@ search_keys:
   - Gewinn- und Verlustrechnung
 ---
 
-Seit unserer Gründung im Jahr 2011 werden wir durch Stiftungen, Ministerien, Forschungsaufträge sowie einzelne private und wirtschaftliche Gebern finanziert. Im Geschäftsjahr 2017 standen uns 2 Millionen Euro für unsere Arbeit zur Verfügung.
+Seit unserer Gründung im Jahr 2011 werden wir durch Stiftungen, Ministerien, Forschungsaufträge sowie einzelne private und wirtschaftliche Gebern finanziert. Im Geschäftsjahr 2018 standen uns fast 2,5 Millionen Euro für unsere Arbeit zur Verfügung.

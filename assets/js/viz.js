@@ -55,7 +55,7 @@ function developmentViz() {
         .attr('class', 'd3-tip n')
         .offset([-10, 0])
         .html(function(d) {
-          return "<span>" + d3.format(',.2r')(d.turnover) + "€ Einnahmen " + d.year +"</span>";
+          return "<span>" + d3.format(',.5r')(d.turnover) + "€ Einnahmen " + d.year +"</span>";
         });
 
     svg.call(tip);
