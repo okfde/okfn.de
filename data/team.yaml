@@ -233,13 +233,13 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektleitung Prototype Fund
-  position_en: Project management Prototype Fund
-  bio: "Elisa ist Projektleiterin des Prototype Funds. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
-  bio_en: "Elisa ist project lead of the Prototype Fund. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
+  position: Organisationsentwicklung
+  position_en: Team & Organizational Development
+  bio: "Elisa teilt sich derzeit mit Juliane die kommissarische Geschäftsführung und übernimmt die Teamkoordination und Organisationsentwicklung. Seit 2016 ist Elisa bei der OKF, hat an den Digital Refugee Labs von Code for Germany gearbeitet und leitete danach den Prototype Fund. Studiert hat sie Prähistorische Archäologie, war aber immer schon in IT-Projekte im kulturellen Bereich involviert und internationale archäologische Projekte und technische Communities unterstützt und wissenschaftlich begleitet."
+  bio_en: "Elisa is currently responsible for team coordination and organisational development. Elisa has been with OKF since 2016. She worked on the Digital Refugee Labs of Code for Germany and led the Prototype Fund. Elisa has studied prehistoric archaeology, but has always been involved in IT projects in the cultural field, supported and scientifically accompanied international archaeological projects and technical communities."
   mail: elisa.lindinger@okfn.de
   twitter: elizab0t
-  website:
+  website: https://elisalindinger.de/
   github: elisalindinger
 
 - name: Katharina Meyer
