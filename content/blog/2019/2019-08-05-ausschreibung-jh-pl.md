@@ -19,7 +19,7 @@ title: "Verstärke das Programmleitungsteam von Jugend hackt (80-100%, Bewerbung
 
 [Jugend hackt](https://jugendhackt.org/) ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die “mit Code die Welt verbessern” wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. mit mediale pfade.org - Verein für Medienbildung e.V. 
 
-Um das neue [Lab-Angebot](https://jugendhackt.org/labs/) des Programms weiterzuentwickeln und in den nächsten Jahren deutschlandweit auszubauen, um die Finanzadministration zu übernehmen und gemeinsam mit zwei Programmleitungskolleg*innen das mehrköpfige Team zu führen, suchen wir eine *Nachfolge für eine der drei Programmleitungen (80-100%) zu Anfang 2020.*
+Um das neue [Lab-Angebot](https://jugendhackt.org/labs/) des Programms weiterzuentwickeln und in den nächsten Jahren deutschlandweit auszubauen, um die Finanzadministration zu übernehmen und gemeinsam mit zwei Programmleitungskolleg:innen das mehrköpfige Team zu führen, suchen wir eine **Nachfolge für eine der drei Programmleitungen (80-100%) zu Anfang 2020.**
 
 Die Position beinhaltet eine gestaltende, koordinierende und leitende Rolle. Schwerpunkte liegen in der Betreuung des Lab-Angebots, der finanziellen Führung, der Teamleitung, der Umsetzung und Steuerung von Maßnahmen der Organisationsentwicklung, der vorausschauenden Planung des Programmwachstums, sowie der eigenverantwortlichen Erledigung des Tagesgeschäfts. 
 
