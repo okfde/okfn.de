@@ -8,12 +8,7 @@ image:
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
-
-type: post
-layout: post
-card: true
 published: true
-featured: blue
 title: "Verstärke das Programmleitungsteam von Jugend hackt (80-100%, Bewerbungsschluss 10.10.2019)"
 ---
 
