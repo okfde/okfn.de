@@ -4,7 +4,7 @@ authors:
 date: 2019-08-05
 image:
   src: /files/blog/2019/31632708378_9e627e19eb_z.jpg
-  title: "Programmleitungsstelle bei Jugend hackt"
+  title: "Sonja und Daniel vom Jugend hackt Programmleitungsteam"
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
