@@ -31,7 +31,7 @@ Im Ergebnis hoffen wir eine klarere und represäntativere Darstellung unserer Ar
 
 Wir veröffentlichen heute offiziell unseren Jahresbericht 2018! 🎉 Dank Nadine Stammen und Lisa Passing sind wir besonders stolz, diesen das erste mal als reine Online-Variante zu publizieren. Dies war insbesondere in Anbetracht des Social Reporting Standard, den wir seit dem Jahr 2017 verwenden, eine Herausforderung, die sich aber gelohnt hat. 
 
-Neben Informationen zu unserer Organisation, unserer Finanzen und unseren Projekten findet ihr im Jahresbericht auch einen [Rückblick](https://2018.okfn.de/einleitung/rueckblick/) auf das letzte Jahr und auf die Themenfelder in denen wir arbeiten. 
+Neben Informationen zu unserer Organisation, unseren Finanzen und Projekten findet ihr im Jahresbericht auch einen [Rückblick](https://2018.okfn.de/einleitung/rueckblick/) auf das letzte Jahr und auf die Themenfelder in denen wir arbeiten. 
 
 ### ⇒ [2018.okfn.de](https://2018.okfn.de)
 
