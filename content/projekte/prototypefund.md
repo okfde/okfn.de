@@ -13,14 +13,14 @@ img_header: projects/PrototypeFund_Header.png
 layout: project
 weight: 4
 people:
-  - name: Elisa Lindinger
-    role: Projektleitung
   - name: Adriana Groh
-    role: Head of Program Management
-  - name: Katharina Meyer
-    role: Head of Communications and Outreach
+    role: Projektleitung
   - name: Thomas Friese
-    role: Program Management
+    role: Program Management & Technology
+  - name: Katharina Meyer
+    role: Head of Communications and Research
+  - name: Marie Gutbub
+    role: Program Management & Events
   - name: Gregor Gilka
   - name: Julia Kloiber
     role: Co-Founder
