@@ -117,6 +117,7 @@
             {{ $lang := .Page.Lang}}
             <h2 class="h3">{{ i18n "project_more"}}</h2>
             {{ with .Params.more_text}}<p>{{ . | markdownify }}</p>{{ end }}
+            {{ $alternate := .Params.contact_alternate_email }}
             {{ with .Params.contact_person }}
             <div class="row l__project__contact align-items-center">
               {{ range where $.Site.Data.team "img" "==" .}}
@@ -130,7 +131,7 @@
                   {{ else }}
                   {{ .position }}
                   {{ end }}</p>
-                <p><a href="mailto:{{.mail}}">Mail</a></p>
+                <p><a href="mailto:{{ if $alternate}}{{$alternate}}{{else}}{{.mail}}{{end}}">Mail</a></p>
               </div>
             </div>
             {{ end }}
