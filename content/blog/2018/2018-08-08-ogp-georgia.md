@@ -1,5 +1,6 @@
 ---
-authors: Michael Peters
+authors: 
+- Michael Peters
 date: 2018-08-07
 image:
   src: /files/blog/2018/08/OGP-Georgia.jpg
