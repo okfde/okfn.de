@@ -18,8 +18,6 @@ financing:
 people:
 - name: Arne Semsrott
   role: Initiator
-- name: Nadine Stammen
-  role: Initiatorin
 - name: Lea Pfau
   role: Initiatorin
 - name: Leonard Wolf
@@ -31,7 +29,7 @@ contact:
 contact_person: arnesemsrott
 cta: Mitmachen
 cta_text: |-
-    Wir können Unterstützung bei der Presse- und Öffentlichkeitsarbeit, dem Sammeln von Unterschriften und Aktionen gebrauchen. Unsere offene Werkstatt findet jeden Montag ab 18:00 in unseren Räume in der Singerstr. 109 statt. Komm vorbei! Und melde dich gerne unter info [at ]volksentscheid-transparenz.de!
+    Wir können Unterstützung bei der Presse- und Öffentlichkeitsarbeit, dem Sammeln von Unterschriften und Aktionen gebrauchen. Unsere offene Werkstatt findet jeden Montag ab 18:00 in der Begegnunsstätte Lebensfreude in der Kadiner Str. 1 statt. Komm vorbei! Und melde dich gerne unter info [at ]volksentscheid-transparenz.de!
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://volksentscheid-transparenz.de/">Website</a> des Volksentscheids.
 ---
