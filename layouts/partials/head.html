@@ -15,6 +15,8 @@
 <link rel="preload" href="/fonts/apercu-medium-pro.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="/fonts/apercu-regular-pro.woff" as="font" type="font/woff" crossorigin>
 
+<script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
+
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
 {{- partial "js.html" . -}}
