@@ -42,12 +42,12 @@ cta_text: |-
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://prototypefund.de">Website</a> des Prototype Fund.
 ---
-Mit dem Prototype Fund unterstützen wir gesellschaftlich relevante Software-Projekte und erhöhen ihre nachhaltige Wirkung durch Open Source aus Prinzip. Kurz: Wir fördern Public Interest Tech.
+Mit dem Prototype Fund unterstützen wir gesellschaftlich relevante Software-Projekte und erhöhen ihre nachhaltige Wirkung durch Open Source aus Prinzip. Kurz: __Wir fördern Public Interest Tech.__
 
-Wir machen digital-soziale Innovation möglich; mit Entwicklerinnen-Gruppen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und ihre guten Ideen weitergeben.
+Wir machen digital-soziale Innovation möglich; mit Entwickler\*innen-Gruppen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und ihre guten Ideen weitergeben.
 Mit bis zu 47.500 Euro pro Projekt und Team unterstützt der Fördertopf Softwareentwickler*innen, Hacker*innen und Kreative dabei, Skizzen für Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, IT-Sicherheit und Software–Infrastruktur umzusetzen.
 
-Neben der finanziellen Unterstützung bieten wir auf dem Weg zum Prototypen Coachings von Mentorinnen und den Austausch mit unserem umfangreichen und vielfältigen Netzwerk aus Coderinnen, weiteren Praktikerinnen und potenziellen Anwenderinnen.
+Neben der finanziellen Unterstützung bieten wir auf dem Weg zum Prototypen Coachings von Mentor\*innen und den Austausch mit unserem umfangreichen und vielfältigen Netzwerk aus Coder\*innen, weiteren Praktiker\*innen und potenziellen Anwender\*innen.
 
 Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von Selbstständigen angepasst. Bisher konnten wir bereits 4,8 Millionen an 118 Projekte ausgeben (Stand nach Runde 6). Das Programm läuft über insgesamt 8 Förderrunden noch bis 2020.
 
