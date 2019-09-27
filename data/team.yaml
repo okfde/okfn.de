@@ -166,12 +166,12 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektmanagement Prototype Fund
-  position_en: Project management Prototype Fund
-  bio: "Adriana ist Teil des Prototype Fund-Teams und kümmert sich um das Program Management. Zuvor hat sie Politikwissenschaft und European Public Policy and Administration in Frankfurt am Main und Maastricht studiert. Sie interessiert sich sehr für demokratische Innovationen und die Frage, wie Partizipation und gesellschaftlicher Austausch besser funktionieren könnten. 2016 hat Adriana das Projekt wepublic gestartet, das digitale Kommunikation zwischen Bürgern und Politikern verbessern soll."
-  bio_en: "Adriana is part of the Prototype Fund Team and responsible for the program management. Previously, Adriana studied Political Science and European Public Policy and Governance in Frankfurt am Main and in Maastricht. She is interested in how digital tools can improve democratic participation and communication. In 2016, Adriana started the project wepublic that aims connect societal and political interests."
+  position: Projektleitung Prototype Fund
+  position_en: Project Lead Prototype Fund
+  bio: "Adriana ist die Leiterin des Prototype Funds und beschäftigt sich mit der Weiterentwicklung des Programms und des Prototype-Fund-Netzwerks sowie dem Projektcontrolling. Sie hat Public Policy und Democratic Innovations in Maastricht studiert und zu Partizipation in der EU geforscht. Zuvor war sie Fellow im LaunchBase Incubator und im Social Impact Lab Frankfurt. Nach ihrem Studium hat sie das Projekt Wepublic gegründet und damit im Wahlsalon von Code for Germany eine Civic-Tech-App zur Bundestagswahl 2017 gestartet."
+  bio_en: "Adriana is the head of the Prototype Fund and responsible for the further development of the program, the Prototype Fund network and project controlling. She studied Public Policy and Democratic Innovations in Maastricht and did research on participation in the EU. Previously she was a Fellow at LaunchBase Incubator and Social Impact Lab Frankfurt. After her studies she founded the project Wepublic and started a Civic-Tech-App for the federal election 2017 at the Code for Germany Wahlsalon event."
   mail: adriana.groh@okfn.de
-  twitter:
+  twitter: avwgo
   website:
 
 - name: Paula Grünwald (geb. Glaser)
@@ -233,13 +233,13 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektleitung Prototype Fund
-  position_en: Project management Prototype Fund
-  bio: "Elisa ist Projektleiterin des Prototype Funds. Studiert hat sie Prähistorische Archäologie, war aber schnell in IT-Projekte im kulturellen Bereich involviert. Nebenbei betreut sie archäologische Forschungsprojekte im Sudan von technischer Seite und wirkt am Forschungszentrum für Kultur und Informatik an der HTW Berlin mit."
-  bio_en: "Elisa ist project lead of the Prototype Fund. After studying Prehistory, she soon got involved with IT projects in the cultural sector. Apart from working for OKF DE, she supports archaeological research projects in Sudan technically and takes part in the Research Center for Culture and Computer Science at the University of Applied Sciences Berlin."
+  position: Organisationsentwicklung
+  position_en: Team & Organizational Development
+  bio: "Elisa teilt sich derzeit mit Juliane die kommissarische Geschäftsführung und übernimmt die Teamkoordination und Organisationsentwicklung. Seit 2016 ist Elisa bei der OKF, hat an den Digital Refugee Labs von Code for Germany gearbeitet und leitete danach den Prototype Fund. Studiert hat sie Prähistorische Archäologie, war aber immer schon in IT-Projekte im kulturellen Bereich involviert und internationale archäologische Projekte und technische Communities unterstützt und wissenschaftlich begleitet."
+  bio_en: "Elisa is currently responsible for team coordination and organisational development. Elisa has been with OKF since 2016. She worked on the Digital Refugee Labs of Code for Germany and led the Prototype Fund. Elisa has studied prehistoric archaeology, but has always been involved in IT projects in the cultural field, supported and scientifically accompanied international archaeological projects and technical communities."
   mail: elisa.lindinger@okfn.de
   twitter: elizab0t
-  website:
+  website: https://elisalindinger.de/
   github: elisalindinger
 
 - name: Katharina Meyer
@@ -932,7 +932,7 @@
   twitter: _tasmo
   website: 'https://tasmo.rocks'
   github: tasmo
-  
+
 - name: Marie Gutbub
   img: marie_g
   staff: 1
@@ -945,4 +945,3 @@
   mail: marie.gutbub@okfn.de
   twitter: shiromarieke
   website: https://maryshi.ro/
-

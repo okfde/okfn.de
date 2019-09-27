@@ -26,7 +26,8 @@ people:
     role: Co-Founder
 financing:
   - BMBF
-contact_person: katharinameyer
+contact_person: adrianagroh
+contact_alternate_email: info@prototypefund.de
 years: 2016 - today
 website: https://prototypefund.de
 contact:
