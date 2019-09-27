@@ -15,10 +15,10 @@ weight: 4
 people:
   - name: Adriana Groh
     role: Projektleitung
+  - name: Katharina Meyer
+    role: Head of Communications & Research
   - name: Thomas Friese
     role: Program Management & Technology
-  - name: Katharina Meyer
-    role: Head of Communications and Research
   - name: Marie Gutbub
     role: Program Management & Events
   - name: Gregor Gilka
@@ -29,8 +29,8 @@ contact_alternate_email: info@prototypefund.de
 years: 2016 - heute
 website: https://prototypefund.de
 contact:
-  twitter: prototypefund
-  github: https://github.com/prototypeteam
+  twitter: PrototypeFund
+  github: https://github.com/prototypefund
   mailinglist: http://eepurl.com/b_rDS1
   mastodon:
     handle: PrototypeFund

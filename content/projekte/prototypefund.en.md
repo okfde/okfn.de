@@ -3,24 +3,24 @@ title: Prototype Fund
 subtitle: 47.500€ for your public interest tech idea
 type: research
 categories:
-  - Community
   - Civic Tech
+  - Community
 tile: double
-weight: 4
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/prototypefund_square.jpg
 img_header: projects/PrototypeFund_Header.png
 layout: project
+weight: 4
 people:
-  - name: Elisa Lindinger
-    role: Projektleitung
   - name: Adriana Groh
-    role: Head of Program Management
+    role: Project Leadership
   - name: Katharina Meyer
-    role: Head of Communications and Outreach
+    role: Head of Communications & Research
   - name: Thomas Friese
-    role: Program Management
+    role: Program Management & Technology
+  - name: Marie Gutbub
+    role: Program Management & Events
   - name: Gregor Gilka
 financing:
   - BMBF
@@ -29,8 +29,8 @@ contact_alternate_email: info@prototypefund.de
 years: 2016 - today
 website: https://prototypefund.de
 contact:
-  twitter: prototypefund
-  github: https://github.com/prototypeteam
+  twitter: PrototypeFund
+  github: https://github.com/prototypefund
   mailinglist: http://eepurl.com/b_rDS1
   mastodon:
     handle: PrototypeFund
