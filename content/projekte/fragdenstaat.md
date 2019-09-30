@@ -17,8 +17,6 @@ people:
     role: Projektleiter
   - name: Stefan Wehrmeyer
     role: Tech Lead
-  - name: Sebastian Schröder
-    role: Bundesfreiwilliger
 contact_person: arnesemsrott
 years: 2011 - heute
 financing:
