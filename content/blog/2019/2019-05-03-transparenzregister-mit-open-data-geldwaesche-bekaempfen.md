@@ -18,6 +18,7 @@ card: true
 published: true
 featured: blue
 title: "Transparenzregister: Mit Open Data Geldwäsche bekämpfen"
+url: "/blog/2019/09/parlamentarisches-fruehstueck-open-gov/"
 ---
 ### Donnerstag, 16. Mai 2019 | 13:00 – 14:30 Uhr Hotel nhow | Stralauer Allee 3 | 10245 Berlin-Friedrichshain
 #### Eine gemeinsame Veranstaltung von Transparency Deutschland und Open Knowledge Foundation Deutschland e.V.

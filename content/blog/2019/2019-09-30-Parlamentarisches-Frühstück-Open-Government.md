@@ -15,6 +15,7 @@ card: true
 published: true
 featured: blue
 title: "Parlamentarisches Frühstück zu Open Government"
+url: "/blog/2019/09/parlamentarisches-fruehstueck-open-gov/"
 ---
 
 ### Mittwoch 16.10.2019, 8:00 - 9:15, Bundestag, Paul-Löbe-Haus (Raum 5.101 / 102)
