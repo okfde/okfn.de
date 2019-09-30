@@ -19,16 +19,10 @@ people:
     role: Projektleitung
   - name: Sonja Fischbauer
     role: Projektleitung
-  - name: Sebastian Schröder
-    role: Volunteer
-  - name: Doris Jantoljak
-    role: Design
   - name: Philip Steffan
     role: Community
   - name: Cin Pietschmann
     role: Student Assistant
-  - name: Torben Reichert
-    role: Developer
 contact_person: paulaglaser
 years: 2012 - today
 partners:
