@@ -23,10 +23,6 @@ people:
     role: Projektleitung
   - name: Cin Pietschmann
     role: Studentische Hilfskraft
-  - name: Torben Reichert
-    role: Entwickler
-  - name: Sebastian Schröder
-    role: Bundesfreiwilliger
   - name: Philip Steffan
     role: Community und Öffentlichkeitsarbeit
   - name: Saadya Windauer
