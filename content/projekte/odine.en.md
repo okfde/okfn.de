@@ -1,5 +1,5 @@
 ---
-type: research
+type: archive
 title: ODINE
 subtitle: Open Data Incubator Europe
 website: https://www.d-eiti.de/de/
