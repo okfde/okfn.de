@@ -1,4 +1,5 @@
 ---
+type: archive
 title: Demokratielabore
 subtitle: Mit digitalen Tools die Gesellschaft von morgen gestalten
 kategorien:
