@@ -1,4 +1,5 @@
 ---
+type: archive
 title: Demokratielabore
 subtitle: Shaping tomorrow's society with digital tools
 kategorien:
