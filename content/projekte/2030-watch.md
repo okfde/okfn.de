@@ -1,5 +1,5 @@
 ---
-type: research
+type: archive
 layout: project
 title: 2030Watch
 background: backgrounds/jugendhackt.jpg
