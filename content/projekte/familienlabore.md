@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Familienlabore
 subtitle: Digitale Werkzeuge für gutes Zusammenleben
 kategorien:
