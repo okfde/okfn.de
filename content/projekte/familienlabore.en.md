@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Familienlabore
 subtitle: Digital tools for a better together
 kategorien:
