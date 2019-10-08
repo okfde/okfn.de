@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Daten machen Schule
 subtitle: Offene Daten im Unterricht
 kategorien:
