@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Energyhack
 subtitle: Hackathon rund um offene Energiedaten
 kategorien:
