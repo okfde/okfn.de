@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Daten machen Schule
 subtitle: Discover the potential of open data in the classroom
 kategorien:
