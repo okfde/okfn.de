@@ -1,5 +1,5 @@
 ---
-type: research
+type: archive
 title: DARIAH-DE
 subtitle: "Support for digitally-enabled arts and humanities"
 kategorien:
