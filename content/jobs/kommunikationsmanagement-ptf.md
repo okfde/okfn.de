@@ -2,7 +2,7 @@
 authors: 
 - Katharina Meyer
 date: 2019-10-15
-image: /files/jobs/ptf1.png
+image: /files/jobs/ptf1.gif
   src: 
   title: 
   license:
