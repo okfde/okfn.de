@@ -34,6 +34,7 @@ Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechts
 
 ### 5. Tätigkeitsbericht
 
+[Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
 [Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
 [Tätigkeitsbericht 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf) <br>
 [Tätigkeitsbericht 2015](/files/documents/OKFDE-Taetigkeitsbericht-2015.pdf) <br>
