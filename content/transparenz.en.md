@@ -34,6 +34,7 @@ Our external data protection officer is Beata-Konstanze Hubrig from [Rechtsanwal
 
 ### 5. Annual report
 
+[Annual Report 2018](https://2018.okfn.de/) <br>
 [Annual Report 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
 [Annual Report 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf) <br>
 [Annual Report 2015](/files/documents/OKFDE-Annualreport-2015.pdf) <br>
