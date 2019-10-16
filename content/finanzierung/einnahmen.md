@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-Der Großteil (81%) unserer Einnahmen sind Gelder aus öffentlicher Hand, die wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten erhalten. Unsere Spenden entsprechen ca. 8% unserer Einnahmen. Über Dienstleistungen für meist Institutionen oder Vereine haben wir knapp 5% erwirtschaftet, Sponsoring trägt aktuell zu 4,6% unserer Gelder bei.
+Der Großteil (81%) unserer Einnahmen sind Gelder aus öffentlicher Hand, die wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten erhalten. Unsere Spenden entsprechen ca. 8% unserer Einnahmen. Über Dienstleistungen für meist Institutionen oder Vereine haben wir knapp 9,6% erwirtschaftet, Sponsoring trägt aktuell zu 1,5% unserer Gelder bei.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Übersicht</a>
