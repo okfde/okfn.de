@@ -19,12 +19,12 @@ Die Satzung der Open Knowledge Foundation Deutschland e.V. ist [hier einsehbar](
 
 
 ### 3. Angaben zur Steuerbegünstigung
-Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/Freistellungsbescheid_2018-12-13.pdf). des Finanzamts für Körperschaften I, Berlin vom 20.04.2018 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
+Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/Freistellungsbescheid_2018-12-13.pdf). des Finanzamts für Körperschaften I, Berlin vom 13.12.2018 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
 Ein aktueller Auszug aus dem Vereinsregister von 2018 ist [hier einsehbar](/files/documents/Vereinsregisterauszug_OKFDE_2018.pdf).
 
 ### 4. Name und Funktion wesentlicher Entscheidungsträger
-Auf der letzten Mitgliederversammlung wurde Andreas Pawelke zum Vorstandsvorsitzenden, Lucy Chambers zur stellvertretenden Vorstandsvorsitzenden und Kristina Klein zur Kassenwartin gewählt. Weitere Vorstandsmitglied ist Daniel Dietrich. Seit Juni 2017 ist Nadine Evers Geschäftsführerin der OKF.
+Gemäß Mitgliederversammlung vom sind Andreas Pawelke zum Vorstandsvorsitzenden, Lucy Chambers zur stellvertretenden Vorstandsvorsitzenden und Kristina Klein zur Kassenwartin für 2 Jahre gewählt. Weitere Vorstandsmitglieder sind Daniel Dietrich und Jana Wichmann. Bis Juni 2019 hatte Nadine Evers die Geschäftsführung inne, seither hat Juliane Krüger kommissarisch die geschäftsführenden Aufgaben übernommen.
 
 #### Ethikbeauftragte
 Am 29.03.2017 wurde Paula Grünwald zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an ethics@okfn.de gerichtet werden.
@@ -46,12 +46,13 @@ Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechts
 
 ### 6. Personalstruktur
 
-#### Teammitglieder 2017
+#### Teammitglieder 2018
 
-Anna Alberts, Sarina Balkenhausen, Oliver Berg, Jessica Binsch, Rebecca Buchholz, Nadine Evers, Paula Grünwald, Adriana Groh, Helene Hahn, Jasmin Helm, Kristina Klein, Julia Kloiber, Martin Koll, Fiona Krakenbürger, Juliane Krüger, John Langlo, Elisabeth Lindiger, Matthias Löwe, Mara Mendes, Moritz Neujeffski, Markus Neuschäfer, Walter Palmetshofer, Knut Perseke, Michael Peters, Lea Pfau, Sina Pietschmann, Maria Reimer, Andrej Sandorf, Lea Schubert, Marta Schulz, Claudia Schwegmann, Bela Seeger, Sebastian Seitz, Arne Semsrott, Nadine Stammen, Maximiian Voigt, Eileen Wagner, Stefan Wehrmeyer, Juliane Wessalowski, Saadya Windauer, Leonard Wolf, Tanja Zagel, Edgar Zanella Alvarenga, Johanna zum Felde
+Adriana Groh, Andrej Sandorf, Anna Alberts, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris Jantoljak, Edgar Zanella Alvarenga, Elisabeth Lindiger, Ernesto Ruge, Fiona Krakenbürger, Giulia Norberti, Gregor Gilka, Helene Hahn, Jasmin Helm, Jessica Binsch, Jenny Gebske, John David Langlo, Juliane Krüger, Juliane Wessalowski, Katharina Meyer, Knut Perseke, Lea Pfau, Lea Schubert, Leonard Wolf, Lisa Passing, Lydia Böttcher, Mara Mendes, Markus Neuschäfer, Matthias Löwe, Maximilian Richt, Maximiian Voigt, Michael Peters, Moritz Neujeffski, Nadine Evers, Nadine Stammen, Paula Grünwald (geb. Glaser), Philip Steffan, Rebecca Varghese Buchholz, Saadya Windauer, Sebastian Schröder, Sonja Fischbauer, Stefan Wehrmeyer, Tanja Zagel, Thomas Friese, Torben Reichert, Walter Palmetshofer
 
-### 7. & 8. Angaben zur Mittelherkunft & verwendung
+### 7. & 8. Angaben zur Mittelherkunft & -verwendung
 
+[Bilanz und Bericht der Wirtschaftsprüfung 2018] (/files/documents/OKF-DE-BilanzundWPBericht-2018.pdf) <br>
 [Gewinn- und Verlustrechnung 2017](/files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf) <br>
 [Gewinn- und Verlustrechnung 2016](/files/documents/OKF-DE-Gewinnermittlung-kurz-2016.pdf) <br>
 [Gewinn- und Verlustrechnung 2015](/files/documents/OKF-DE-Gewinnermittlung-kurz-2015.pdf) <br>
@@ -67,6 +68,6 @@ möglich. Es besteht keine Mitgliedschaft in einer anderen Organisationen.Wir si
 
 ### 10. Namen von juristischen Personen, deren jährliche Zahlungen mehr als 10 % des Gesamtjahresbudgets ausmachen
 
-Die Zahlung des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur Finanzierung der Demokratierlabore macht 32,1% des Gesamtjahresbudgets für 2017 aus.
+Die Zahlung des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur Finanzierung der Demokratierlabore macht 33% des Gesamtjahresbudgets für 2018 aus.
 
-Die Zahlung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds macht 17,7% des Gesamtjahresbudgets für 2017 aus.
+Die Zahlung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds macht 16,8% und zur Förderung der Projekte edulabs, TuringBus und Jugend hackt weitere 9,2% des Gesamtjahresbudgets für 2018 aus.
