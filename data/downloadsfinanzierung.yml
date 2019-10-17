@@ -13,17 +13,18 @@
     text: At the turn of the year 2017/18, OKF switched to balance sheet preparation.
   path: /files/documents/Eroeffnungsbilanz 2018.pdf
 - de:
-    title: Gewinn- und Verlustrechnung 2017
-    text: Die Gesamteinnahmen betrugen 2.066.047,51 €. Dem standen Gesamtausgaben von insgesamt 2.112.418,39 € gegenüber.
+    title: Bilanz mit Lagebericht und Bericht der Wirtschaftsprüfung 2018
+    text: Die Gesamteinnahmen betrugen 2.498.547,10 €. Dem standen Gesamtausgaben von insgesamt 2.385.377,25 € gegenüber.
   en:
-    title: Profit and loss account 2017 [DE]
-    text: Total revenues amounted to € 2,066,047.51. This was offset by total expenditure of € 2,112,418.39.
-  path: /files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf
+    title: Balance sheet and audit report 2018 [DE]
+    text: Total revenues amounted to € 2,498,547.10. This was offset by total expenditure of € 2,385377.25 €.
+  path: /files/documents/OKF-DE-BilanzundWPBericht-2018.pdf
 - de:
     title: Gewinn- und Verlustrechnung
   en:
-    title: Profit and loss statement [DE]
+    title: Profit and loss statements [DE]
   years:
+    - 2017
     - 2016
     - 2015
     - 2014
