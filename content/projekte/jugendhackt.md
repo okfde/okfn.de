@@ -27,12 +27,18 @@ people:
     role: Community und Öffentlichkeitsarbeit
   - name: Saadya Windauer
     role: Projektmanagerin
+  - name: Leonard Wolf
+    role: Projektmitarbeiter Fundraising   
   - name: Lisa Passing
     role: Entwicklerin
   - name: Nadine Stammen
     role: Designerin
   - name: Eva Holzheimer
     role: Regionale Koordinatorin
+  - name: Tomas Novy
+    role: Regionaler Koordinator
+  - name: Jakob Schiek
+    role: Bundesfreiwilligendienstleistender    
 contact_person: paulaglaser
 years: 2012 - heute
 partners:
