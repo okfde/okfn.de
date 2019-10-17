@@ -4,7 +4,7 @@ weight: 2
 ---
 
 
-The majority (81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. Donations correspond to approximately 8% of our income. We generated almost 5% through services provded; sponsoring currently accounts for 4.6% of our funds.
+The majority (81%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. Donations correspond to approximately 8% of our income. We generated almost 5% through services provded; sponsoring currently accounts for 9.6% of our funds.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Overview</a>

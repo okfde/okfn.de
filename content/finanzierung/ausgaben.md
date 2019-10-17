@@ -1,5 +1,5 @@
 ---
-title: Ausgaben 2017
+title: Ausgaben 2018
 weight: 3
 data: path/to/data.csv
 ---
