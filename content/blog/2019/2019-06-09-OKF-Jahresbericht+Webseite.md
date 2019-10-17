@@ -3,9 +3,9 @@ authors:
 - Bela Seeger
 - Nadine Stammen
 - Lisa Passing
-date: 2020-08-09
+date: 2019-06-09
 image:
-  src: /files/blog/2019/08/websitescreenshot.png
+  src: /files/blog/2019/06/websitescreenshot.png
   title: "Webseitenredesign"
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -29,7 +29,7 @@ Im Ergebnis hoffen wir eine klarere und represäntativere Darstellung unserer Ar
 
 ![img](/files/blog/2019/08/jahresbericht.png)
 
-Wir veröffentlichen heute offiziell unseren Jahresbericht 2018! 🎉 Dank Nadine Stammen und Lisa Passing sind wir besonders stolz, diesen das erste mal als reine Online-Variante zu publizieren. Dies war insbesondere in Anbetracht des Social Reporting Standard, den wir seit dem Jahr 2017 verwenden, eine Herausforderung, die sich aber gelohnt hat. 
+Wir veröffentlichen heute offiziell unseren Jahresbericht 2018! 🎉 Dank Nadine Stammen und Lisa Passing sind wir besonders stolz, diesen das erste mal als reine Online-Variante zu publizieren. Dies war insbesondere in Anbetracht des Social Reporting Standards, den wir seit dem Jahr 2017 verwenden, eine Herausforderung, die sich aber (wie wir hoffen) gelohnt hat. 
 
 Neben Informationen zu unserer Organisation, unseren Finanzen und Projekten findet ihr im Jahresbericht auch einen [Rückblick](https://2018.okfn.de/einleitung/rueckblick/) auf das letzte Jahr und auf die Themenfelder in denen wir arbeiten. 
 
