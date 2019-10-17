@@ -16,13 +16,27 @@ img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/Jugendhackt_Header.png
 people:
   - name: Paula Grünwald (geb. Glaser)
-    role: Projektleitung
+    role: Project lead
   - name: Sonja Fischbauer
-    role: Projektleitung
+    role: Project lead
   - name: Philip Steffan
-    role: Community
+    role: Community and PR
   - name: Cin Pietschmann
     role: Student Assistant
+  - name: Saadya Windauer
+    role: Project manager
+  - name: Leonard Wolf
+    role: Project assistant fundraising   
+  - name: Lisa Passing
+    role: Developer
+  - name: Nadine Stammen
+    role: Designer
+  - name: Eva Holzheimer
+    role: Regional coordinator
+  - name: Tomas Novy
+    role: Regional coordinator
+  - name: Jakob Schiek
+    role: Federal volunteer     
 contact_person: paulaglaser
 years: 2012 - today
 partners:
