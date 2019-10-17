@@ -9,4 +9,4 @@ Most of our spendings are linked to the implementation of projects and the organ
 <div class="ausgaben"></div>
 <small>** for example infrastructure, book keeping, insurances</small>
 
-We currently employ the equivalent of around 18.5 full-time staff.
+On average, we currently employ 36 people, but not all of them are full-time staff.
