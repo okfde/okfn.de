@@ -17,7 +17,7 @@ box_link_name: Find out more
 
 ### Donations enable our work to remain independent, non-partisan, interdisciplinary and non-commercial.
 
-With our [current notice of exemption](https://okfn.de/files/documents/Freistellungsbescheid_2018-12-13.pdf) we are recognised as a non-profit association for the promotion of science and research as well as of popular and vocational education. For donations up to 200 Euro per year your proof of payment (e.g. bank statement) together with our [Vereinfachten Zuwendungsnachweis](https://okfn.de/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf) is sufficient as proof of donation.
+With our [current notice of exemption](https://okfn.de/files/documents/FreistellungsbescheidOKF_2018.pdf) we are recognised as a non-profit association for the promotion of science and research as well as of popular and vocational education. For donations up to 200 Euro per year your proof of payment (e.g. bank statement) together with our [Vereinfachten Zuwendungsnachweis](https://okfn.de/files/verein/OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf) is sufficient as proof of donation.
 
 Donations enable our work to remain independent, non-partisan, interdisciplinary, and non-commercial.
 
