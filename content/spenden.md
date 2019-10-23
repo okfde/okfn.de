@@ -13,8 +13,6 @@ betterplace_name: Betterplace
 betterplace_text:
 box_title: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, haben wir die wichtigsten Transparenzinfos zusammengetragen
 box_link_name: Hier geht's zur Transparenzseite
-metainfo_name: "Wissenswertes zu Deiner Spende"
-metainfo_text: "Mit unserem aktuellen <a href='/files/documents/FreistellungsbescheidOKF_2018.pdf'>Freistellungsbescheid</a> sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 200 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem <a href='/files/documents/06_Zuwendungsnachweis.pdf'>Vereinfachten Zuwendungsnachweis.</a>"
 ---
 
 ### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten.
