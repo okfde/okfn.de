@@ -25,10 +25,6 @@ Für unsere Bereich der strategischen Klagen sind wir auf der Suche nach einer t
 
 In diesen Bereichen wirst Du arbeiten: 
 
-Für unsere Bereich der strategischen Klagen sind wir auf der Suche nach einer teamstarken und politikinteressierten Persönlichkeit, die Lust hat, gemeinsam mit uns FragDenStaat weiterzuentwickeln und das Berliner Kernteam - Arne, Judith, Lea und Stefan - zu verstärken. 
-
-In diesen Bereichen wirst Du arbeiten: 
-
 - Weiterentwicklung unserer Strategie für die rechtliche Durchsetzung von Ansprüchen im Bereich Informationsfreiheit und damit zusammenhängenden Rechtsgebieten in Deutschland, aber auch auf EU-Ebene
 
 - Formulierung von Klagen sowie Entwicklung von Legal-Tech-Vorlagen für automatisierte Widersprüche und Klagen gemeinsam mit spezialisierten Kanzleien
