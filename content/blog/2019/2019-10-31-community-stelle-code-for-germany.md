@@ -11,7 +11,6 @@ type: post
 layout: post
 card: true
 published: true
-published: true
 title: "Neuer Job bei Code for Germany: Wir suchen Communitybuilder*in! (80%, ab Januar 2020)"
 ---
 
