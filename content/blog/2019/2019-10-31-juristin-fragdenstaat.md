@@ -25,11 +25,7 @@ Trägerverein von FragDenStaat ist der gemeinnützige Verein Open Knowledge Foun
 
 ## Wen wir suchen
 
-Für unsere Bereich der strategischen Klagen sind wir auf der Suche nach einer teamstarken und politikinteressierten Persönlichkeit, die Lust hat, gemeinsam mit uns FragDenStaat weiterzuentwickeln und das Berliner Kernteam - Arne, Judith, Lea und Stefan - zu verstärken. 
-
-In diesen Bereichen wirst Du arbeiten: 
-
-Für unsere Bereich der strategischen Klagen sind wir auf der Suche nach einer teamstarken und politikinteressierten Persönlichkeit, die Lust hat, gemeinsam mit uns FragDenStaat weiterzuentwickeln und das Berliner Kernteam - Arne, Judith, Lea und Stefan - zu verstärken. 
+Für unseren Bereich der strategischen Klagen sind wir auf der Suche nach einer teamstarken und politikinteressierten Persönlichkeit, die Lust hat, gemeinsam mit uns FragDenStaat weiterzuentwickeln und das Berliner Kernteam - Arne, Judith, Lea und Stefan - zu verstärken. 
 
 In diesen Bereichen wirst Du arbeiten: 
 
