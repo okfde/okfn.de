@@ -1,7 +1,7 @@
 ---
 authors:
 - OKF
-date: 2019-11-06
+date: 2019-11-08
 image:
   src: /files/blog/2019/11/abc-offenheit-klein.jpg
   title: "ABC der Offenheit"
