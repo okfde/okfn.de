@@ -11,7 +11,7 @@ type: post
 layout: post
 card: true
 published: true
-title: "Das ABC der Offenheit "
+title: "Das ABC der Offenheit"
 ---
 ### Was ist OPEN? Diese und andere Fragen beantwortet das ABC der Offenheit, eine [neu aufgelegte Broschüre](https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf) von Wikimedia und Open Knowledge Foundation Deutschland.
 
