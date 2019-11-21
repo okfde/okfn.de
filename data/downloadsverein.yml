@@ -6,6 +6,13 @@
     text: Our nonprofit status is based on our statutes. It has been adopted at the 2011 General Meeting and amended in 2017.
   path: /files/documents/01_Satzung.pdf
 - de:
+    title: Freistellungsbescheid
+    text: Der Verein ist als gemeinnützig anerkannt. Dies belegt der Freistellungsbescheid des Berliner Finanzamts.
+  en:
+    title: Notice of exemption
+    text: The notice of exemption by the Berlin Court confirms our nonprofit status.
+  path: /files/documents/FreistellungsbescheidOKF_2018.pdf
+- de:
     title: Verhaltenskodex
     text: Unser Verhaltenskodex legt die gemeinsamen Werte und Handlungsprinzipien, die für alle Mitglieder und Mitarbeiter, die Geschäftsführung und den Vorstand gelten.
   en:
