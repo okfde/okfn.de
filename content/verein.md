@@ -15,8 +15,8 @@ search_keys:
 stats:
   - number: 2011
     text: hat sich der Verein gegründet. Das erste Treffen fand bereits 2010 auf der re:publica mit Rufus Pollock, Initiator des internationalen Open Knowledge Netzwerks, statt.
-  - number: 39
-    text: Wir beschäftigen mittlerweile 39 Personen – darunter Aktivistinnen, Wissenschaftlerinnen, Entwicklerinnen, Policy-Spezialistinnen und Designerinnen.
+  - number: 33
+    text: Wir beschäftigen mittlerweile 33 Personen – darunter Aktivistinnen, Wissenschaftlerinnen, Entwicklerinnen, Policy-Spezialistinnen und Designerinnen.
   - number: 24
     text: Der Open Knowledge Deutschland e. V. ist Teil des internationalen Open Knowledge Netzwerkes. Das Netzwerk umfasst Organisationen aus insgesamt 24 Ländern.
   - number: 44
