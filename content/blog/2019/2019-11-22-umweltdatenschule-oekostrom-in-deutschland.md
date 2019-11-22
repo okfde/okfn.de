@@ -12,7 +12,7 @@ layout: post
 card: true
 published: true
 featured: blue
-title: "Umweltdatenschule: Ökostrom in DE - Verbraucher* haben es schwer"
+title: "Ökostrom in DE - Verbraucher* haben es schwer"
 ---
 Seit einigen Monaten beschäftigen wir uns im Rahmen des Projektes "[Umweltdatenschule](https://datenschule.de/projekte/umweltdatenschule/)" mit Daten rund um das Thema Energie. Gemeinsam mit [Robin Wood](https://www.robinwood.de/) arbeiten wir an einer Neuauflage des Ökostromberichtes, der mit interaktiven Modulen ausgestattet werden soll. Aus diesem Grund schauen wir uns die Ökostromanbieter in Deutschland, ihre Geschäftsmodelle, Herkunftsnachweise und Investitionsbemühungen genauer an. Hier berichten wir von Erkenntnissen, die sich aus unserer Recherche ergeben.
 
