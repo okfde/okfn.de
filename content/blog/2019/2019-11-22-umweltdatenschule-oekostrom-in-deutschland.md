@@ -22,7 +22,7 @@ Bei der tiefergehenden Analyse von acht Ökostromanbietern, die wir anhand der K
 Deutschland produziert mit [ca. 1,5 TWh/Monat](https://www.energy-charts.de/energy_de.htm) im Verhältnis zu anderen grünen Erzeugungsarten nur einen Bruchteil seines Stroms durch Wasserkraft. Seit 2001 wird der Anteil am Strommix immer kleiner. Das hat auch den Hintergrund, dass das [Potenzial](https://izw.baw.de/publikationen/dresdner-wasserbauliche-mitteilungen/0/Anderer_Das%20Wasserkraftpotenzial%20in%20Deutschland.pdf) - neue Kraftwerke zu bauen - [gering ist](https://www.faz.net/aktuell/technik-motor/technik/ueber-das-potential-in-der-wasserkraft-14143887.html) und der Strom in erster Linie über Langzeitverträge mit Großkunden vermarktet wird.
 
 <center><iframe src="https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false" style="width: 560px; height: 480px;"></iframe></center>
-<center>Im- und Exportflüsse sowie der Verbrauch anhand seiner C02-Intensität</center>
+<center>Im- und Exportflüsse sowie der Verbrauch anhand seiner C02-Intensität</center><br>
 
 Warum ist dann der Anteil der Wasserkraft bei den von uns untersuchten Unternehmen so hoch? Wieso wird der Strom aus dem Ausland importiert und nicht zum Beispiel aus der Windkraft genutzt - der den größten Anteil am [Strommix in Deutschland](https://www.energy-charts.de/energy_de.htm) hat.
 
