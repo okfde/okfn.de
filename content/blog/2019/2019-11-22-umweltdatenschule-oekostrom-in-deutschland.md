@@ -4,7 +4,7 @@ authors:
 date: 2019-11-21
 image:
   src: https://datenschule.de/files/blog/2019/11/Sysendammen_med_steinfyllingsdammen.jpg
-  title: "Steinfyllingsdam um 1980 by <a href='https://www.flickr.com/photos/nve/6149602088/'>NVE</a>"
+  title: "Steinfyllingsdam um 1980 by NVE"
   license: CC BY-SA 2.0
   license_url: https://creativecommons.org/licenses/by-sa/2.0/
 type: post
