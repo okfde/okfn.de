@@ -1,6 +1,6 @@
 ---
 title: Spenden
-blurb: Spenden Sie jetzt
+blurb: Unterstütze uns!
 meta: OKF DE unterstützen. Spenden via Überweisung, Betterplace, Paypal
 layout: donation
 bank_name: "Überweisung"
