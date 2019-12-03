@@ -46,7 +46,7 @@ Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechts
 
 ### 6. Personalstruktur
 
-#### Teammitglieder 2018
+#### Teammitglieder Geschäftsjahr 2018
 
 Adriana Groh, Andrej Sandorf, Anna Alberts, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris Jantoljak, Edgar Zanella Alvarenga, Elisabeth Lindiger, Ernesto Ruge, Fiona Krakenbürger, Giulia Norberti, Gregor Gilka, Helene Hahn, Jasmin Helm, Jessica Binsch, Jenny Gebske, John David Langlo, Juliane Krüger, Juliane Wessalowski, Katharina Meyer, Knut Perseke, Lea Pfau, Lea Schubert, Leonard Wolf, Lisa Passing, Lydia Böttcher, Mara Mendes, Markus Neuschäfer, Matthias Löwe, Maximilian Richt, Maximiian Voigt, Michael Peters, Moritz Neujeffski, Nadine Evers, Nadine Stammen, Paula Grünwald (geb. Glaser), Philip Steffan, Rebecca Varghese Buchholz, Saadya Windauer, Sebastian Schröder, Sonja Fischbauer, Stefan Wehrmeyer, Tanja Zagel, Thomas Friese, Torben Reichert, Walter Palmetshofer
 
