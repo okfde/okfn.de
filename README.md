@@ -232,17 +232,17 @@ search_keys:
 ### Buildprozess
 
 Der Buildprozess verläuft in mehreren Stufen:
-1. der Push wird von GitHub registriert und stößt einen Build bei [Travis CI](https://travis-ci.com/okfde/okfde-reloaded) an
+1. der Push wird von GitHub registriert und stößt einen Build bei [Travis CI](https://travis-ci.com/okfde/okfn.de) an
   - hier wird die Seite mit Hugo gebaut
   - zwei Nodescripte erstellen die Suchindexe (als .json) für die seitenweite und die Blogsuche
   - (wegen dieser Scripte brauchen wir Travis, Hookay kann das nicht alleine)
   - der Atom und RSS feed wird an die selben Stellen kopiert, auf der sie auf der alten Seite zu finden waren
-2. ist ein Travis-Build auf dem Master branch erfolgreich, pusht Travis die gebaute Seite zurück zu GitHub, aber auf den [Release branch](https://github.com/okfde/okfde-reloaded/tree/release)
-  - dieser Badge zeigt den Status des letzten Builds an [![Build Status](https://travis-ci.com/okfde/okfde-reloaded.svg?branch=master)](https://travis-ci.com/okfde/okfde-reloaded)
+2. ist ein Travis-Build auf dem Master branch erfolgreich, pusht Travis die gebaute Seite zurück zu GitHub, aber auf den [Release branch](https://github.com/okfde/okfn.de/tree/release)
+  - dieser Badge zeigt den Status des letzten Builds an [![Build Status](https://travis-ci.com/okfde/okfn.de.svg?branch=master)](https://travis-ci.com/okfde/okfn.de)
   - ist der Badge rot ist schon was beim bauen der Seite schief gelaufen. Vermutlich was mit Hugo in den Templates, hier musst du debuggen!
 3. hat Travis auf den Release branch gepusht, sendet GitHub einen Webhook an [Hookay](https://lab.okfn.de/build-status/)
   - Hookay klont den Release branch auf unseren Server und kopiert ihn an die richtige Stelle
-    - es kann sein, dass die Webhook-payload von GitHub sehr groß ist und Hookay dann einen Fehler wwirft. Das kannst du [hier](https://github.com/okfde/okfde-reloaded/settings/hooks/) (sofern du die Rechte hast) nachsehen.
+    - es kann sein, dass die Webhook-payload von GitHub sehr groß ist und Hookay dann einen Fehler wwirft. Das kannst du [hier](https://github.com/okfde/okfn.de/settings/hooks/) (sofern du die Rechte hast) nachsehen.
     - Ist beim letzten senden eines Webhooks was schief gelaufen (Fehler 413) dann kannst du über Hookay die Seite manuell neu bauen. Die gebaute Seite liegt ja schon bei GitHub und muss nur kopiert werden.
 
 Wenn alles geklappt hat, sind dein Änderungen jetzt online!
