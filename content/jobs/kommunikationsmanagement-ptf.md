@@ -7,7 +7,7 @@ image:
   title:
   license:
   license_url:
-published: true
+published: false
 title: "Prototype Fund: Kommunikationstalent für Content-Strategie gesucht! (100%, ab Januar 2020)"
 ---
 
