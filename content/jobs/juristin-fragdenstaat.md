@@ -7,7 +7,7 @@ image:
   title: "FragDenStaat-Logo"
   license:
   license_url: 
-published: true
+published: false
 title: "Neuer Job bei FragDenStaat: Wir suchen Jurist*in! (60-100%, ab Februar 2020)" 
 ---
 
