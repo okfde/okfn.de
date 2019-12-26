@@ -7,7 +7,7 @@ image:
   title: "CodeforGermany-logo"
   license:
   license_url:
-published: true
+published: false
 title: "Neuer Job bei Code for Germany: Wir suchen Communitybuilder*in! (80%, ab Januar 2020)"
 ---
 
