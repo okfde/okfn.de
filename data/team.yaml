@@ -1,3 +1,16 @@
+- name: Dr. Henriette Litta
+  img: henriette.litta
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Geschäftsführerin
+  position_en: Managing Director
+  bio: "Henriette ist seit Januar 2020 Geschäftsführerin der OKF. Die Politikwissenschaftlerin beschäftigt sich seit 20 Jahren mit Fragen der Souveränität im demokratischen Gemeinwesen. Sie ist aktiv und vernetzt im Stiftungssektor und bringt Expertise insbesondere in den Bereichen Organisationsentwicklung, politische Wirksamkeit und Finanzierung mit."
+  bio_en: "Henriette is Managing Director of OKF Germany. She is a political scientist and has been thinking about the concept of sovereignty in a democratic society for 20 years now. She brings in fresh expertise especially in the fields of organizational development, political impact and finance architecture."
+  mail: henriette.litta@okfn.de
+  twitter: 
+  website: 
+
 - name: Judith Doleschal
   img: judithdoleschal
   staff: 1
