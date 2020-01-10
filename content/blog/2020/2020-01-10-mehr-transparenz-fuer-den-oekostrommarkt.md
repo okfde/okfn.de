@@ -3,7 +3,7 @@ authors:
 - Maximilian Voigt
 date: 2020-01-10
 image:
-  src:  /files/blog/2019/12/oekostromreport_2020.png
+  src: /files/blog/2019/12/oekostromreport_2020.png
   title: Ökostrombericht 2020
   license: cc-by 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/
