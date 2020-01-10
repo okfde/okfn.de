@@ -14,6 +14,7 @@ tags:
 type: post
 layout: post
 published: true
+featured: green
 title: "Ökostrombericht 2020: Mehr Transparenz für den Strommarkt"
 ---
 
