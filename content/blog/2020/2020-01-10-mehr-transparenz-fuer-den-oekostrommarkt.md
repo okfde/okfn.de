@@ -18,7 +18,7 @@ featured: blue
 title: "Ökostrombericht 2020: Mehr Transparenz für den Strommarkt"
 ---
 
-Seit einigen Monaten arbeitet das Projekt [Umweltdatenschule](https://datenschule.de/projekte/umweltdatenschule/) gemeinsam mit der Umweltorganisation [ROBIN WOOD](https://www.robinwood.de/) an der Neuauflage des [Ökostromberichtes 2020, der nun online ist](https://www.robinwood.de/oekostromreport-2020). Mit dem Bericht werden acht von über 1200 Ökostromanbieter empfohlen, die nicht nur außschließlich Ökostrom vertreiben, sondern auch nahezu keine wirtschaftlichen Verflechtungen zu Unternehmen der Kohle- und Atomenergie aufweisen sowie sich für eine nachhaltige Energiewende engagieren.
+Seit einigen Monaten arbeitet das Projekt [Umweltdatenschule](https://datenschule.de/projekte/umweltdatenschule/) gemeinsam mit der Umweltorganisation [ROBIN WOOD](https://www.robinwood.de/) an der Neuauflage des [Ökostromberichtes 2020, der nun online ist](https://www.robinwood.de/oekostromreport-2020). Mit dem Bericht werden acht von über 1200 Ökostromanbieter empfohlen, die nicht nur ausschließlich Ökostrom vertreiben, sondern auch nahezu keine wirtschaftlichen Verflechtungen zu Unternehmen der Kohle- und Atomenergie aufweisen sowie sich für eine nachhaltige Energiewende engagieren.
 
 Die Basis des Berichtes bilden verschiedene Daten, die im Rahmen der Recherche zusammengetragen wurden. Im Blogartikel [Ökostrombericht 2020: Hintergründe und Daten](https://datenschule.de/blog/2020/01/Hintergr%C3%BCnde-zum-%C3%96kostrombericht-2020/) veröffentlichen wir die Rohdaten und geben Einblicke in die Recherche.
 
