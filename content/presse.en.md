@@ -13,7 +13,7 @@ If you are looking for background information, have specific questions about our
 Michael Peters, Leonard Wolf<br>
 **E-mail:** presse@okfn.de<br>
 **Phone:**
-+49 30 57703666 2
++49 30 577036660
 
 ## Press mailing list
 
