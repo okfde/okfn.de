@@ -11,7 +11,7 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 Michael Peters, Leonard Wolf<br>
 **E-Mail:** presse@okfn.de<br>
 **Telefon:**
-+49 30 57 70 36 662
++49 30 57 70 36 661
 
 ## Presseverteiler
 
