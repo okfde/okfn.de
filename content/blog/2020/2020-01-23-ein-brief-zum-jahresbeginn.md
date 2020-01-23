@@ -4,7 +4,7 @@ authors:
 date: 2020-01-23
 image:
   src: /files/blog/2020/01/jahresbeginn_2020.jpg
-  title: OKF 2020: Ein Brief zum Jahresbeginn
+  title: OKF 2020 Ein Brief zum Jahresbeginn
   license: cc-by 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
