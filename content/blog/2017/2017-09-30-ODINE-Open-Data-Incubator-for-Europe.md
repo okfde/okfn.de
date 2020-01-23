@@ -1,7 +1,7 @@
 ---
 authors: 
 - Walter Palmetshofer
-date: 2017-09-31 04:00:00
+date: 2017-09-30
 image:
   src: /files/blog/2017/09/ODINE_Logo_RGB.png
 tags:
