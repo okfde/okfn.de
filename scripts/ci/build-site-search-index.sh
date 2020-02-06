@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -ex
+sed -e
 
 cat $TRAVIS_BUILD_DIR/public/index.json | \
   node $TRAVIS_BUILD_DIR/scripts/lunr/site-index.js > \
