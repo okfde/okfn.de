@@ -10,7 +10,6 @@ tags:
 - Civic Tech
 - Open Source 
 - Public Interest Tech
-- tag2
 type: post
 layout: post
 published: true
