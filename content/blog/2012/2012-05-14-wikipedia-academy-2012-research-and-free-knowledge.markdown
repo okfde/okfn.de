@@ -1,8 +1,6 @@
 ---
 author: Daniel Dietrich
 date: 2012-05-14 08:00:22
-image:
-  src: http://wikipedia-academy.de/2012/w/images/b/bc/Wiki.png
 layout: post
 tags:
 - Berlin

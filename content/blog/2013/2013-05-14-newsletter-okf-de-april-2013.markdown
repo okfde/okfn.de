@@ -46,7 +46,7 @@ Am Mittwoch nutzen wir die re:publica zur Präsentation der Gewinner-Apps von [S
 
  
 
-![pietri_dorando- finish - 540](http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/France_in_XXI_Century._School.jpg/800px-France_in_XXI_Century._School.jpg)
+![pietri_dorando- finish - 540](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/France_in_XXI_Century._School.jpg/800px-France_in_XXI_Century._School.jpg)
 
 **Open Data 4 Kids**
 

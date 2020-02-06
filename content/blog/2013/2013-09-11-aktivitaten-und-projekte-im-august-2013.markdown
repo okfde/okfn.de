@@ -2,7 +2,7 @@
 author: Martin Koll
 date: 2013-09-11 08:47:54
 image:
-  src: http://farm6.staticflickr.com/5485/9573345161_affa7ccd25_z.jpg
+  src: https://farm6.staticflickr.com/5485/9573345161_affa7ccd25_z.jpg
 layout: post
 tags:
 - Berlin
@@ -53,7 +53,7 @@ Anfang Oktober sind in Hamburg die [Open Access-Tage](http://open-access.net/?id
 
  
 
-![21. Bust](http://farm8.staticflickr.com/7319/9470743729_a7f0b4ddc5_o.gif)
+![21. Bust](https://farm8.staticflickr.com/7319/9470743729_a7f0b4ddc5_o.gif)
 
 **Schon gesehen?**
 

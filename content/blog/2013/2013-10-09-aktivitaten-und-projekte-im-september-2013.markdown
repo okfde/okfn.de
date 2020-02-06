@@ -2,7 +2,7 @@
 author: Martin Koll
 date: 2013-10-09 05:55:26
 image:
-  src: http://farm6.staticflickr.com/5460/9722853923_4fc203e524_z.jpg
+  src: https://farm6.staticflickr.com/5460/9722853923_4fc203e524_z.jpg
 layout: post
 tags:
 - Hackday
@@ -16,15 +16,15 @@ title: Aktivitäten und Projekte im September 2013
 type: post
 ---
 
-**Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.** 
+**Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.**
 
- Die fröhlichen Gesichter von "Jugend hackt" (CC-BY) 
+ Die fröhlichen Gesichter von "Jugend hackt" (CC-BY)
 
 **Rückblick in den September**
 
 Für einen detaillierten und persönlichen Rückblick auf die [Open Knowledge Conference](http://okcon.org/) in Genf hat unser Team einen gemeinsamen [Blogpost](/blog/2013/10/open-knowledge-conference-2013/) geschrieben.
 
-Die schönste Veranstaltung im September war “[Jugend hackt](http://www.jugendhackt.de)”, der erste Open Data-Hackday für 12- bis 18-jährige Jugendliche aus ganz Deutschland. Wir können euch das [Video](http://youtu.be/9ln9egZoksg) und die entstandenen [Projekte](http://jugendhackt.de/ergebnisse/) nur wärmstens ans Herz legen. Wer über die nächste Jugend hackt-Veranstaltung auf dem Laufenden bleiben möchte, trage sich in diesen [Verteiler](http://eepurl.com/E2acf) ein. 
+Die schönste Veranstaltung im September war “[Jugend hackt](http://www.jugendhackt.de)”, der erste Open Data-Hackday für 12- bis 18-jährige Jugendliche aus ganz Deutschland. Wir können euch das [Video](http://youtu.be/9ln9egZoksg) und die entstandenen [Projekte](http://jugendhackt.de/ergebnisse/) nur wärmstens ans Herz legen. Wer über die nächste Jugend hackt-Veranstaltung auf dem Laufenden bleiben möchte, trage sich in diesen [Verteiler](http://eepurl.com/E2acf) ein.
 
  
 
@@ -32,7 +32,7 @@ Die schönste Veranstaltung im September war “[Jugend hackt](http://www.jugend
 
 **FragdenStaat.de**
 
-Am 28. September war der [International Right to Know Day](http://blog.fragdenstaat.de/post/62415365878/recht-auf-information-fuer-alle). Er erinnerte uns alle daran, dass wir das Recht auf Akteneinsicht haben - doch wir müssen es auch wahrnehmen! Wie und wofür das Informationsfreiheitsgesetz genutzt werden kann, zeigen wir euch auf unserem [Seminar](http://blog.fragdenstaat.de/post/62321884218/seminar-zum-informationsfreiheitsgesetz-am-16-10) am 16.10. Meldet euch schnell an!  
+Am 28. September war der [International Right to Know Day](http://blog.fragdenstaat.de/post/62415365878/recht-auf-information-fuer-alle). Er erinnerte uns alle daran, dass wir das Recht auf Akteneinsicht haben - doch wir müssen es auch wahrnehmen! Wie und wofür das Informationsfreiheitsgesetz genutzt werden kann, zeigen wir euch auf unserem [Seminar](http://blog.fragdenstaat.de/post/62321884218/seminar-zum-informationsfreiheitsgesetz-am-16-10) am 16.10. Meldet euch schnell an!
 FragdenStaat.de kann bisher nicht in allen Bundesländern genutzt werden. Das möchten wir ändern. Helft uns dabei, Adressen von weiteren Behörden der fehlenden Länder zu sammeln. Gern könnt ihr auch euren Freunden erzählen, wie sie [www.FragdenStaat.de](http://www.FragdenStaat.de) nutzen können.
 
  
@@ -59,7 +59,7 @@ Der wichtigste Termin des nächsten Jahres wird das [Open Knowledge Festival](ht
 
  
 
-  
+
 ** 3sat-Beitrag "Was ist Open Data"**
 
  

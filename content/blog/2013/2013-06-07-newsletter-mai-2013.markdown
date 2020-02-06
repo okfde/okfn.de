@@ -45,7 +45,7 @@ Auch Non-Coder sind herzlich willkommen, Ideen zu öffentlichen Installationen z
 
  
 
-![](http://farm7.static.flickr.com/6026/5877343356_480371fa7e_b.jpg) Sonderausstellung für Blinde im Sunderland Museum 
+![](https://farm7.static.flickr.com/6026/5877343356_480371fa7e_b.jpg) Sonderausstellung für Blinde im Sunderland Museum 
 
 **Code for All**
 
