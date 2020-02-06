@@ -5,8 +5,6 @@ date: 2020-02-06
 image:
   src: /files/blog/2020/prototypefund.png
   title: 8. Runde des Prototype Fund 
-  license: 
-  license_url:
 tags:
 - Prototype Fund
 - Civic Tech
