@@ -3,9 +3,9 @@ authors:
 - Patricia Leu, Katharina Meyer
 date: 2020-02-06
 image:
-  src: /files/blog/2020/20-02-06 Prototype Fund.jpg
-  title:
-  license:
+  src: /files/blog/2020/prototypefund.jpg
+  title: 8. Runde des Prototype Fund 
+  license: 
   license_url:
 tags:
 - Prototype Fund
