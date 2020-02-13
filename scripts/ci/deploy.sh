@@ -14,14 +14,16 @@ cd $HOME
 git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis"
 
-#using token clone release branch
-git clone --quiet --branch=release https://${GITHUB_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git release > /dev/null
-
-#go into directory and copy data we're interested in to that directory
+mkdir release
 cd release
 cp -Rf $HOME/public/* .
 
-#add, commit and push files
+echo "Checking out orphan branch\n"
+git init
+git checkout --orphan release
+git remote add origin https://${GITHUB_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git > /dev/null
+
+echo "Pushing built site\n"
 git add -f .
 git commit -m "Travis build $TRAVIS_BUILD_NUMBER"
 git push -fq origin release > /dev/null
