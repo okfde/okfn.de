@@ -218,10 +218,11 @@
   staff: 1
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektleitung Jugend hackt
   position_en: Project management Jugend hackt
-  bio: "Paula arbeitet für die Demokratielabore als Projektkoordinatorin und für Jugend hackt. Über Jugend hackt hat sie auch ihre Masterarbeit im Studiengang „Medien in der Bildung“ an der PH Freiburg geschrieben. Davor hat sie u.a. für das Fraunhofer Institut gearbeitet und Dokumentarfilme gedreht. Offene Daten findet Paula super, weil sie zu aktiver demokratischer Partizipation einladen."
-  bio_en: "Paula is working for \"Demokratielabore\" and for \"Jugend hackt\". \"Jugend hackt\" was part of her master thesis on Media and Education at the PH Freiburg. Previously, she worked for the Fraunhofer Institute and has filmed documentaries. Paula finds Open Data interesting and important because it stimulates active democratic participation."
+  bio: "Paula war von 2015 bis 2020 bei der OKF DE.  Sie hat Jugend hackt zunächst als Programmmanagerin und später als Programmleiterin von einem Event in Berlin zu einem länderübergreifenden Netzwerk mit aufgebaut. Daneben hat sie als Projektmitarbeiterin einige Zeit bei den Demokratielaboren mitgewirkt."
+  bio_en: "Paula has been working for the OKF from 2915 to 2020. She started out as program manager for Jugend hackt, later as one of the program leads and helped developing the programm from an one time event in Berlin to a multi national network. She also supported the "Demokratielabe" as a project manager for some time."
   mail: paula.gruenwald@okfn.de
   twitter: rinhia
   website:
