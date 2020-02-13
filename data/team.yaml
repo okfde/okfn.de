@@ -8,7 +8,7 @@
   bio: "Patricia betreut die Kommunikationskanäle des Prototype Fund und ist für die Weiterentwicklung seiner Content-Strategie zuständig. Sie hat Religion und Kultur in Berlin studiert und zu medialer Diskurshegemonie geforscht. Während und nach ihrem Studium unterstützte sie die Kampagnen- und Kommunikationsteams verschiedener NGOs und verantwortete die Presse- und Öffentlichkeitsarbeit eines Jugendverbands."
   bio_en: "Patricia manages the Prototype Fund's communication channels and is responsible for further developing its content strategy. She studied religion and culture in Berlin and researched media discourse hegemony. She previously worked in the campaigning and communication teams of different NGOs and managed the public relations of a youth organization."
   mail: patricia.leu@okfn.de
-  twitter: 
+  twitter:
   website:
 
 - name: Dr. Henriette Litta
@@ -21,8 +21,8 @@
   bio: "Henriette ist seit Januar 2020 Geschäftsführerin der OKF. Die Politikwissenschaftlerin beschäftigt sich seit 20 Jahren mit Fragen der Souveränität im demokratischen Gemeinwesen. Sie ist aktiv und vernetzt im Stiftungssektor und bringt Expertise insbesondere in den Bereichen Organisationsentwicklung, politische Wirksamkeit und Finanzierung mit."
   bio_en: "Henriette is Managing Director of OKF Germany. She is a political scientist and has been thinking about the concept of sovereignty in a democratic society for 20 years now. She brings in fresh expertise especially in the fields of organizational development, political impact and finance architecture."
   mail: henriette.litta@okfn.de
-  twitter: 
-  website: 
+  twitter:
+  website:
 
 - name: Judith Doleschal
   img: judithdoleschal
@@ -34,9 +34,9 @@
   bio: "Judith ist bei der Open Knowledge Foundation bei FragDenStaat.de für die Community-Entwicklung, Kommunikation sowie Fundraising zuständig."
   bio_en: "Judith is part of the FragDenStaat team and responsible for community management and fundraising."
   mail: judith.doleschal@okfn.de
-  twitter: 
-  website: 
-  
+  twitter:
+  website:
+
 - name: Eva Holzheimer
   img: EvaHolzheimer
   staff: 1
@@ -215,17 +215,16 @@
 
 - name: Paula Grünwald (geb. Glaser)
   img: paulaglaser
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   board_alumni: 1
-  position: Projektleitung Jugend hackt
-  position_en: Project management Jugend hackt
+  position: "Projektleitung Jugend hackt"
+  position_en: "Project management Jugend hackt"
   bio: "Paula war von 2015 bis 2020 bei der OKF DE.  Sie hat Jugend hackt zunächst als Programmmanagerin und später als Programmleiterin von einem Event in Berlin zu einem länderübergreifenden Netzwerk mit aufgebaut. Daneben hat sie als Projektmitarbeiterin einige Zeit bei den Demokratielaboren mitgewirkt."
-  bio_en: "Paula has been working for the OKF from 2915 to 2020. She started out as program manager for Jugend hackt, later as one of the program leads and helped developing the programm from an one time event in Berlin to a multi national network. She also supported the "Demokratielabe" as a project manager for some time."
+  bio_en: 'Paula has been working for the OKF from 2915 to 2020. She started out as program manager for Jugend hackt, later as one of the program leads and helped developing the programm from an one time event in Berlin to a multi national network. She also supported the "Demokratielabe" as a project manager for some time.'
   mail: paula.gruenwald@okfn.de
   twitter: rinhia
-  website:
 
 - name: Bela Seeger
   img: belaseeger
