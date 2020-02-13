@@ -24,8 +24,8 @@ git checkout --orphan release
 git remote add origin https://${GITHUB_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git > /dev/null
 
 echo "Pushing built site\n"
-git add -f .
-git commit -m "Travis build $TRAVIS_BUILD_NUMBER"
+git add -f . > /dev/null
+git commit -m "Travis build $TRAVIS_BUILD_NUMBER" > /dev/null
 git push -fq origin release > /dev/null
 
 echo "Done updating release\n"
