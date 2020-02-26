@@ -126,12 +126,12 @@
   advisory: 0
   position: Referentin der Geschäftsführung
   position_en: Management assistance
-  bio: "Juliane unterstützt die OKF als Referentin der Geschäftsführung. Bis Ende Mai 2019 war sie außerdem Teil des Projektteams der Demokratielabore. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte, am liebsten mit !Cyber!context, und ist immer wieder Teil ehrenamtlicher Projekte des Netzwerks der BücherFrauen und des FIfF, war außerdem Teil des Orgateams von Bits&Bäume, der Konferenz für Digitalisierung und Nachhaltigkeit. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
-  bio_en: "Juliane works for the OKF as assistance to the management and suppports the Demokratielabore project with their finances. She is also part of the Bits&Bäume team organising a conference for digitalization and sustainability in Berlin."
+  bio: "Juliane unterstützt die OKF als Referentin der Geschäftsführung und hat 2019 die OKF kommissarisch geleitet. Als praktische Kulturwissenschaftlerin hat sie vorher Literatur- und Musikfestivals u. a. im Museumsquartier in Wien und am Haus der Kulturen der Welt in Berlin koordiniert. Sie spricht, schleift und setzt gerne Texte – am liebsten mit !Cyber!context – und arbeitet ehrenamtlich an Projekten des Netzwerks der BücherFrauen oder des FIfF, war außerdem Teil des Orgateams von Bits&Bäume, der Konferenz für Digitalisierung und Nachhaltigkeit. Digitale Mündigkeit jeder Bürgerin und jedes Bürgers ist für sie essentielle Voraussetzung einer vernetzten demokratischen Gesellschaft."
+  bio_en: "Juliane works for the OKF as assistance to the management and took over the management temporarily in 2019. She is also part of the Bits&Bäume team, the movement for digitalization and sustainability."
   mail: juliane.krueger@okfn.de
   twitter:
   website:
-  github:
+  github: yuelika
 
 - name: Sebastian Seitz
   img: sebastianseitz
@@ -153,8 +153,8 @@
   advisory: 0
   position: Projektmanagement Datenschule
   position_en: Project management Datenschule
-  bio: "Jasmin hat Soziologie und Germanistik in Kiel und Potsdam studiert und arbeitet seit Oktober 2016 bei der OKF im Bereich Kommunikation, aktuell im Projekt Datenschule. Zuvor hat sie einige Praktika in Zeitungs- und Fernsehredaktionen absolviert und war ehrenamtlich für Umwelt-NGOs in der Presse- und Öffentlichkeitsarbeit tätig. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie."
-  bio_en: "Jasmin studied sociology at Potsdam University and supports the project \"Datenschule\" since October 2016. The handling of data in a responsible way is a main concern for her."
+  bio: "Jasmin hat Soziologie und Germanistik in Kiel und Potsdam studiert und arbeitet seit 2016 bei der OKF im Bereich Kommunikation. Zuvor hat sie einige Praktika in Zeitungs- und Fernsehredaktionen absolviert und war ehrenamtlich für Umwelt-NGOs in der Presse- und Öffentlichkeitsarbeit tätig. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie. Jasmin ist derzeit in Elternzeit."
+  bio_en: "Jasmin studied sociology at Potsdam University and supports the project \"Datenschule\" since 2016. The handling of data in a responsible way is a main concern for her. Jasmin is currently on parental leave."
   mail: jasmin.helm@okfn.de
   twitter:
   website:
@@ -193,8 +193,8 @@
   advisory: 0
   position: Projektleitung Demokratielabore
   position_en: Project management Demokratielabore
-  bio: "Lydia ist bei der Open Knowledge Foundation als Projektleiterin der Demokratielabore tätig. Neben ihrem Studium der Erziehungs- und Bildungswissenschaft tauchte sie schnell in die Welt der Jugendbeteiligung und politischen Bildungsarbeit ein. Die Koordination verschiedener Freiwilligendienste mit Schwerpunkt Partizipation beschäftigte sie einige Jahre. Gemeinsam mit anderen Freiberufler_innen gründete sie das stuhlkreis_revolte Kollektiv, ein Kollektiv für emanzipatorische Bildungsarbeit und Prozessbegleitung."
-  bio_en: "Lydia is project lead for the program Demokratielabore. Her interest in youth participation and political education grew with a lot of practical experiences besides her educational science studies at the Free University Berlin. The coordination of various volunteer services with a focus on participation filled a couple of years in her working life. Together with a group of freelancers, she founded the stuhlkreis_revolte, a collective for emancipatory educational work and process management."
+  bio: "Lydia war bei der Open Knowledge Foundation als Projektleiterin der „Demokratielabore“ tätig und arbeitet derzeit am Projekt Umweltdatenschule mit. Neben ihrem Studium der Erziehungs- und Bildungswissenschaft tauchte sie schnell in die Welt der Jugendbeteiligung und politischen Bildungsarbeit ein. Die Koordination verschiedener Freiwilligendienste mit Schwerpunkt Partizipation beschäftigte sie einige Jahre. Gemeinsam mit anderen Freiberufler_innen gründete sie das stuhlkreis_revolte Kollektiv, ein Kollektiv für emanzipatorische Bildungsarbeit und Prozessbegleitung."
+  bio_en: "Lydia was project lead for the program „Demokratielabore“ and now works for the Project „Umweltdatenschule“. Her interest in youth participation and political education grew with a lot of practical experiences besides her educational science studies at the Free University Berlin. The coordination of various volunteer services with a focus on participation filled a couple of years in her working life. Together with a group of freelancers, she founded the stuhlkreis_revolte, a collective for emancipatory educational work and process management."
   mail: lydia.boettcher@okfn.de
   twitter:
   website:
