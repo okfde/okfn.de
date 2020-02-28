@@ -1,3 +1,16 @@
+- name: Mechthild Schmidt
+  img: mechthildschmidt
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektleitung Jugend hackt 
+  position_en: project management Jugend hackt
+  bio: "Mechthild ist Projektleiterin bei Jugend hackt. Sie koordiniert die Labs und möchte gern an vielen weiteren Orten die Labs etablieren, damit Jugend hackt überall wirkt. Außerdem ist Mechthild bei Jugend hackt für die Finanzen zuständig. "
+  bio_en: "Mechthild is project manager for Jugend hackt. She is coordinates the Jugend hackt Labs and aims to scale more Labs within Germany - so Jugend hackt has an impact everywhere. Furthermore, Mechthild is in charge for financial administration."
+  mail: mechthild.schmidt@okfn.de
+  twitter:
+  website:
+  
 - name: Claudia Jach
   img: claudiajach
   staff: 1
