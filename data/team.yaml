@@ -890,16 +890,17 @@
 
 - name: Nadine Stammen
   img: nadinestammen
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Design
   position_en: Design
-  bio: "Nadine ist Informations- und Interfacedesignerin und seit Januar 2017 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
-  bio_en: "Nadine is an information and interface designer and has been working for OKF since 2017.  Previously she worked for several years in a web agency and for the non-profit association Liquid Democracy. In projects with Transparency International, OCCRP, the Mercator Foundation or the City of Berlin, she worked on supporting social change with digital technologies and media."
+  bio: "Nadine ist Informations- und Interfacedesignerin und war von 2017 bis 2020 bei der OKF.  Zuvor arbeitete sie mehrere Jahre in einer Webagentur sowie beim gemeinnützigen Verein Liquid Democracy. In Projekten mit Transparency International, OCCRP, der Stiftung Mercator oder der Stadt Berlin arbeitete sie daran, gesellschaftlichen Wandel mit digitalen Technologien und Medien zu unterstützen. "
+  bio_en: "Nadine is an information and interface designer and has been working for OKF from 2017 to 2020.  Previously she worked for several years in a web agency and for the non-profit association Liquid Democracy. In projects with Transparency International, OCCRP, the Mercator Foundation or the City of Berlin, she worked on supporting social change with digital technologies and media."
   mail: "nadine.stammen@okfn.de"
   twitter: stadine
-  website:
+  website: https://nadinestammen.de
 
 - name: Lea Pfau
   img: leapfau
