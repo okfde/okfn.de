@@ -1,6 +1,6 @@
 ---
-authors: Ernesto Ruge
-- Autor*in
+authors: 
+- Ernesto Ruge
 date: 2020-03-23
 image:
   src: /files/blog/2020/03/2020-03-23-Prototyp-und-dann.jpg
