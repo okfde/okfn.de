@@ -10,6 +10,31 @@
   mail: mechthild.schmidt@okfn.de
   twitter:
   website:
+
+- name: Giulia Noberti
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Buchhaltung
+  position_en: 
+  bio: "Giulia unterstützt die Geschäftsführung in Sachen Buchhaltung, Finanzen, Abrechnungen und allgemeine Chaosbewältigung."
+  bio_en: "Giulia supports the management in bookkeeping, finances, accounting and general chaos management"
+  mail: giulia.noberti@okfn.de
+  twitter: 
+  website: 
+
+- name: Gregor Gilka
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Admin
+  position_en: 
+  bio: "Gregor unterstützt uns und unsere Projekte als Administrator. Er ist Ingenieur und hat nach einer Forschungsphase an der TU Berlin und in Hong Kong an einem Projekt gearbeitet welches sich mit der numerischen Modellierung von Strömungen beschäftigt."
+  bio_en: "Gregor supports us and our projects as administrator. He is an engineer and after a research phase at the TU Berlin and in Hong Kong he worked on a project dealing with the numerical modelling of flows."
+  mail: gregor.gilka@okfn.de
+  twitter: 
   
 - name: Claudia Jach
   img: claudiajach
