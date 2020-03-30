@@ -33,7 +33,7 @@ Our current OKF Ethics Officer ist Giulia Norberti. Questions regarding ethics a
 Our external data protection officer is Beata-Konstanze Hubrig from [Rechtsanwaltskanzlei Hubrig](https://kanzlei-hubrig.de/).
 
 ### 5. Annual report
-Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial an activity report following the guidelines of the Social Reporting Standard.
+Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
 [Annual Report 2018](https://2018.okfn.de/) <br>
 [Annual Report 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
