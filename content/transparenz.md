@@ -27,7 +27,7 @@ Ein aktueller Auszug aus dem Vereinsregister von 2018 ist [hier einsehbar](/file
 Gemäß Mitgliederversammlung vom sind Andreas Pawelke zum Vorstandsvorsitzenden, Lucy Chambers zur stellvertretenden Vorstandsvorsitzenden und Kristina Klein zur Kassenwartin für 2 Jahre gewählt. Weitere Vorstandsmitglieder sind Daniel Dietrich und Jana Wichmann. Bis Juni 2019 hatte Nadine Evers die Geschäftsführung inne, seither hat Juliane Krüger kommissarisch die geschäftsführenden Aufgaben übernommen.
 
 #### Ethikbeauftragte
-Am 29.03.2017 wurde Paula Grünwald zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an ethics@okfn.de gerichtet werden.
+Aktuelle Ethikbeauftragte der OKF ist Giulia Norberti. Fragen zu Ethik und Verhaltenskodex können an ethics@okfn.de gerichtet werden.
 
 #### Datenschutzbeauftragte
 Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechtsanwaltskanzlei Hubrig](https://kanzlei-hubrig.de/).
