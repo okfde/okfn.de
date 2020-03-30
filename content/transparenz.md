@@ -33,6 +33,7 @@ Aktuelle Ethikbeauftragte der OKF ist Giulia Norberti. Fragen zu Ethik und Verha
 Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechtsanwaltskanzlei Hubrig](https://kanzlei-hubrig.de/).
 
 ### 5. Tätigkeitsbericht
+Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Finanzierung. Seit 2017 erstellen wir unseren Tätigkeits- und Transparenzbericht darum nach Social Reporting Standard.
 
 [Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
 [Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
