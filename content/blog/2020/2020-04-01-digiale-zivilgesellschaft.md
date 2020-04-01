@@ -1,6 +1,6 @@
 ---
 author:
-- OKF
+- verschiedene
 date: 2020-04-01
 image:
   src:
@@ -12,7 +12,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: " Aus der Krise lernen: Digitale Zivilgesellschaft stärken!"
+title: "Aus der Krise lernen: Digitale Zivilgesellschaft stärken!"
 ---
 Mittwoch, 01. April 2020. Als zivilgesellschaftliche Organisationen, die sich für eine unabhängige digitale Infrastruktur und freien Zugang zu Wissen einsetzen, fordern wir: „Der Aufbau eines gemeinwohlorientierten digitalen Ökosystems muss endlich politische Priorität bekommen!“
 
@@ -24,26 +24,24 @@ Um besser vorbereitet zu sein für zukünftige Krisensituationen, muss ihre Arbe
 
 Um langfristig und damit nachhaltig zivilgesellschaftliches Engagement und den Erhalt eines gemeinwohlorientierten digitalen Ökosystems zu fördern, schlagen wir folgende konkrete Maßnahmen vor – denn nach der Krise ist vor der Krise, wenn alles beim Alten bleibt:
 
-# I Öffnung der Digitalpolitik für gesellschaft­lichen Input
-
+## I Öffnung der Digitalpolitik für gesellschaft­lichen Input
 Digitalpolitik, die das Gemeinwohl ins Zentrum stellt, lässt sich nur gemeinsam mit gesellschaftlichen Akteurinnen, Akteuren und Initiativen verwirklichen. Hierfür muss sich die Politik noch weiter für Vorschläge aus der Gesellschaft öffnen und diese in die Politikgestaltung miteinbeziehen. Dazu braucht es die Anerkennung zivilgesellschaftlicher Expertise und ein klares Bekenntnis, deren Wissen und Kompetenzen zu nutzen.
 
-# II Gezielte Förderung
-
+## II Gezielte Förderung
 Die digitale Zivilgesellschaft ist nur durch das ehrenamtliche Engagement und die Spenden von Bürgerinnen und Bürgern arbeitsfähig. Gerade in Krisensituationen brechen diese Stützpfeiler schnell weg und bedrohen die Existenz von Vereinen, Stiftungen und Initiativen.
 
 In Deutschland mangelt es an niedrigschwelliger finanzieller Unterstützung für Organisationen und Sozialunternehmen aus der digitalen Zivilgesellschaft. Es braucht neue Fördermechanismen, die den Aufbau nachhaltiger Strukturen unterstützen und nicht nur Innovation im Blick haben, sondern auch die Instandhaltung und Weiterentwicklung bestehender Technologien. Möglich wäre eine solche Förderung beispielsweise durch eine vom Bund geförderte Stiftung öffentlichen Rechts, die Entwicklung, Wartung und Bereitstellung digitaler Technologien für die Gesellschaft fördert.
 
-# III Öffentliches Geld, Öffentliches Gut
+## III Öffentliches Geld, Öffentliches Gut
 Es braucht rechtliche Grundlagen, die es verpflichtend machen, dass mit öffentlichen Geldern erarbeitete Inhalte offen zugänglich und weiterverwendbar gemacht werden. Der Datenschutz muss dabei immer gewahrt sein.
 
 Dazu gehören: öffentlich finanzierte Software, Datenbestände und Informationen öffentlicher Stellen, Forschungs- und Bildungsinhalte öffentlich getragener Institutionen sowie die Inhalte des öffentlich-rechtlichen Rundfunks.
 
-# IV Entwicklung öffentlicher digitaler Infrastruktur
-
+## IV Entwicklung öffentlicher digitaler Infrastruktur
 Wir empfehlen kontinuierliche staatliche Investitionen in die Entwicklung und Instandhaltung digitaler Infrastruktur und den Aufbau widerstandsfähiger Netze.
 
 Wir fordern die Förderung von Dezentralisierung und einem breiten Ökosystem von Betreibern digitaler Infrastruktur, um digitale Souveränität zu erlangen und Abhängigkeiten von einzelnen Anbietern aufzulösen, durch den Abbau von Betreibermonopolen sowie dem konsequenten Einsatz von offenen Standards, Freier- und Open-Source-Software-Technologien.
 
-unterzeichnet u.a. von Organisationen:
-Algorithm Watch, Chaos Computer Club, Digitale Gesellschaft e. V., D64 – Zentrum für Digitalen Fortschritt e. V., Epicenter.Works, Free Software Foundation Europe, Open Knowledge Foundation Deutschland, Stiftung Neue Verantwortung e. V., Superrr Lab, Wikimedia Deutschland e. V.
+unterzeichnet von:
+
+Algorithm Watch, Ashoka, Bundesverband Deutscher Stiftungen, Bits und Bäume, Chaos Computer Club, Center for the Cultivation of Technology, Digitale Gesellschaft e. V., D64 – Zentrum für Digitalen Fortschritt e. V., Epicenter.Works, freifunk.net, Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung, Free Software Foundation Europe, globalinnovationgathering, iRights.Lab, Nextcloud, Open Knowledge Foundation Deutschland, Stiftung Erneuerbare Freiheit, Stiftung Neue Verantwortung e. V., Simply Secure, SEND e.V., Superrr Lab, Verstehbahnhof, Wikimedia Deutschland e. V.
