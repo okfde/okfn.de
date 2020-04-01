@@ -42,6 +42,8 @@ Wir empfehlen kontinuierliche staatliche Investitionen in die Entwicklung und In
 
 Wir fordern die Förderung von Dezentralisierung und einem breiten Ökosystem von Betreibern digitaler Infrastruktur, um digitale Souveränität zu erlangen und Abhängigkeiten von einzelnen Anbietern aufzulösen, durch den Abbau von Betreibermonopolen sowie dem konsequenten Einsatz von offenen Standards, Freier- und Open-Source-Software-Technologien.
 
+Eure Organisation möchte den Aufruf ebenfalls mitzeichnen? Das geht ganz einfach hier über die [Kampagnenwebsite](https://digitalezivilgesellschaft.org).
+
 unterzeichnet von:
 
 Algorithm Watch, Ashoka, Bundesverband Deutscher Stiftungen, Bits und Bäume, Chaos Computer Club, Center for the Cultivation of Technology, Digitale Gesellschaft e. V., D64 – Zentrum für Digitalen Fortschritt e. V., Epicenter.Works, freifunk.net, Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung, Free Software Foundation Europe, globalinnovationgathering, iRights.Lab, Nextcloud, Open Knowledge Foundation Deutschland, Stiftung Erneuerbare Freiheit, Stiftung Neue Verantwortung e. V., Simply Secure, SEND e.V., Superrr Lab, Verstehbahnhof, Wikimedia Deutschland e. V.
