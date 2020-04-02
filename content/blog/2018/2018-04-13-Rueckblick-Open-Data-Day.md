@@ -18,8 +18,6 @@ tags:
 
 title: "Rückblick auf unseren Open Data Day 2018"
 
-aliases:
-  - /blog/2018/04/Rueckblick-Open-Data-Day/
 
 ---
 

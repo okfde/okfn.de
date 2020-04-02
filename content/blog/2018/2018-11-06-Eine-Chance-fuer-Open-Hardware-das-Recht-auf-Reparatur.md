@@ -16,8 +16,6 @@ card: true
 published: true
 title: "Eine Chance für Open Hardware: das Recht auf Reparatur"
 
-aliases:
-  - /blog/2018/11/Eine-Chance-fuer-Open-Hardware-das-Recht-auf-Reparatur/
 
 ---
 

@@ -16,8 +16,6 @@ layout: post
 card: true
 title: Datenschule - Kooperation mit BildungsCent e.V. zu den Themen Schule & Bildung 
 
-aliases:
-  - /blog/2016/10/DS-Kick-Off-Schule-Bildung/
 
 ---
 

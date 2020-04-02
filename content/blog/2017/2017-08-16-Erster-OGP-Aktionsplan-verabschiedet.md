@@ -17,8 +17,6 @@ card: true
 published: true
 title: "Erster OGP Aktionsplan verabschiedet" 
 
-aliases:
-  - /blog/2017/08/Erster-OGP-Aktionsplan-verabschiedet/
 
 ---
 

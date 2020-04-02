@@ -16,8 +16,6 @@ tags:
 - civic tech
 title: "Zieht am kommenden Samstag in eure Städte, denn es ist wieder Open Data Day!"
 
-aliases:
-  - /blog/2018/03/Open-Data-Day/
 
 ---
 

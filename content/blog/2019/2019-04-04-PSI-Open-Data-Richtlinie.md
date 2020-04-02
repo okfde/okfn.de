@@ -15,8 +15,6 @@ card: true
 published: true
 title: "PSI public sector information"
 
-aliases:
-  - /blog/2019/04/PSI-Open-Data-Richtline/
 
 ---
 

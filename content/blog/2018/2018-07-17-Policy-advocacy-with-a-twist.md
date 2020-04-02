@@ -18,8 +18,6 @@ card: true
 published: true
 title: "Policy advocacy with a twist"
 
-aliases:
-  - /blog/2018/07/Policy-advocacy-with-a-twist/
 
 ---
 At the Open Knowledge Foundation Deutschland we’ve been advocating for rules and regulation that open up closed systems and processes in areas such as data governance, financial transparency and algorithmic accountability. However, as a small organisation that largely runs on project grants and individual donations, we don’t have the resources to run large-scale advocacy campaigns. The key to success for us has been to rely on a combination of law, tech and crowd to address some of the most important policy issues in our field. Here are two examples to illustrate how we work.

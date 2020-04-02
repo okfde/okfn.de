@@ -16,8 +16,6 @@ tags:
 - NGO
 title: OKF beim European Alternatives Campus Event 16
 
-aliases:
-  - /blog/2016/09/OpenBudgets-Datenschule-at-EA-Campus_Event/
 
 ---
 

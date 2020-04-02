@@ -15,8 +15,6 @@ tags:
 - Open-Data-Law
 title: "Germany finally has an Open Data Law"
 
-aliases:
-  - /blog/2017/08/Germany-finally-has-an-open-data-law/
 
 ---
 

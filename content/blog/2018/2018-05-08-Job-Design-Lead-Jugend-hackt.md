@@ -17,8 +17,6 @@ published: false
 title: "Design-Lead (20h)"
 jobs: "Design-Lead (20h)"
 
-aliases:
-  - /blog/2018/05/Job-Design-Lead-Jugend-hackt/
 
 ---
 

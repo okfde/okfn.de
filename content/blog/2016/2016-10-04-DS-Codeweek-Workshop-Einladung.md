@@ -16,8 +16,6 @@ layout: post
 card: true
 title: "Einladung zum Workshop: Analyse und Visualisierung von Schadstoffemissionen" 
 
-aliases:
-  - /blog/2016/10/DS-Codeweek-Workshop-Einladung/
 
 ---
 

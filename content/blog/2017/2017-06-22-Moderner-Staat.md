@@ -18,8 +18,6 @@ card: true
 published: true
 title: "Digitale Agenda Stellungnahme & Fachgespräch: Moderner Staat - Chancen durch Digitalisierung" 
 
-aliases:
-  - /blog/2017/06/Moderner-Staat/
 
 ---
 

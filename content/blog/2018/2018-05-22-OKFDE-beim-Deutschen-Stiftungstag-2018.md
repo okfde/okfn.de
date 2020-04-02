@@ -19,8 +19,6 @@ card: true
 published: true
 title: "Open Knowledge Foundation beim Deutschen Stiftungstag 2018"
 
-aliases:
-  - /blog/2018/05/OKFDE-beim-Deutschen-Stiftungstag-2018/
 
 ---
 

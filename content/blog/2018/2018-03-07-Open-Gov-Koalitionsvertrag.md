@@ -16,8 +16,6 @@ tags:
 - policy
 title: "Open Government im Koalitionsvertrag"
 
-aliases:
-  - /blog/2018/03/Open-Gov-Koalitionsvertrag/
 
 ---
 

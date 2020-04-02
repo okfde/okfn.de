@@ -16,8 +16,6 @@ card: true
 published: true
 title: "Zentrale Bereitstellung EU-weiter multimodaler Reiseinformationsdienste" 
 
-aliases:
-  - /blog/2018/01/multimodale-Reiseinformationsdienste/
 
 ---
 

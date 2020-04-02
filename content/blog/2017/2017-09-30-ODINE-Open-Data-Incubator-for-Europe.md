@@ -12,8 +12,6 @@ published: true
 card: true
 title: "ODINE - Open Data Incubator for Europe erfolgreich abgeschlossen!" 
 
-aliases:
-  - /blog/2017/09/ODINE-Open-Data-Incubator-for-Europe/
 
 ---
 

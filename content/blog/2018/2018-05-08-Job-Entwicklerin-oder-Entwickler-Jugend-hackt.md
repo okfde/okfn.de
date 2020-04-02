@@ -17,8 +17,6 @@ published: false
 title: "Entwickler*in (20h)"
 jobs: "Entwickler*in (20h)"
 
-aliases:
-  - /blog/2018/05/Job-Entwicklerin-oder-Entwickler-Jugend-hackt/
 
 ---
 

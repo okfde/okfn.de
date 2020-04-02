@@ -15,8 +15,6 @@ tags:
 - Open-Data-Law
 title: "German Open Data Law in English"
 
-aliases:
-  - /blog/2017/07/Germany's-open-data-law-english/
 
 ---
 *Disclaimer*: we translated the German Open Data Law to make it accessible for the international Open Data community. This is **not** an official legal translation, but we gave it our very best. The German version can be found below or [here](https://www.gesetze-im-internet.de/egovg/__12a.html).

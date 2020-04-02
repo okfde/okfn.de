@@ -15,8 +15,6 @@ card: true
 published: true
 title: "Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt"
 
-aliases:
-  - /blog/2018/06/Neuer-Vorstand/
 
 ---
 

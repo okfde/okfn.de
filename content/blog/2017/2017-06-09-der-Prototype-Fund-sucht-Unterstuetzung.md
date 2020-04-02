@@ -14,8 +14,6 @@ card: true
 published: true
 title: "Der Prototype Fund sucht Unterstützung"
 
-aliases:
-  - /blog/2017/06/der-Prototype-Fund-sucht-Unterstuetzung/
 
 ---
 

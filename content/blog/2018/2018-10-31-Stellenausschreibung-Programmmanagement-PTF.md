@@ -16,8 +16,6 @@ card: true
 published: true
 title: "Der Prototype Fund sucht Verstärkung: Programmbetreuung mit technischem Schwerpunkt"
 
-aliases:
-  - /blog/2018/10/Stellenausschreibung-Programmmanagement-PTF/
 
 ---
 

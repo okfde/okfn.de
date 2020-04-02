@@ -15,8 +15,6 @@ tags:
 - Data Literacy
 - NGO
 
-aliases:
-  - /blog/2016/08/datenschule-BMZ/
 
 ---
 

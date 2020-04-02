@@ -21,8 +21,6 @@ layout: post
 card: true
 title: "OffenesParlament.de macht Plenarprotokolle durchsuchbar!" 
 
-aliases:
-  - /blog/2017/10/DS-offenes-parlament-relaunch/
 
 ---
 

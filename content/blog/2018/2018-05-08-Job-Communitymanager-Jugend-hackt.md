@@ -17,8 +17,6 @@ published: false
 title: "Online Community-Manager (m/w/*) für Jugend hackt (20h)"
 jobs: "Online Community-Manager (m/w/*) für Jugend hackt (20h)"
 
-aliases:
-  - /blog/2018/05/Job-Communitymanager-Jugend-hackt/
 
 ---
 

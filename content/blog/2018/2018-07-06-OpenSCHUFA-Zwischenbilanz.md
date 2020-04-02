@@ -14,8 +14,6 @@ card: true
 published: true
 title: "OpenSCHUFA: Zwischenbilanz der Datenspende - noch immer gerne Daten spenden!" 
 
-aliases:
-  - /blog/2018/07/OpenSCHUFA-Zwischenbilanz/
 
 ---
 Liebe Unterstützerinnen und Unterstützer,

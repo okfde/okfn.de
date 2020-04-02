@@ -16,8 +16,6 @@ card: true
 published: true
 title: "PSI Directive - joint effort by OKF and friends"  
 
-aliases:
-  - /blog/2018/07/PSI-Directive-joint-effort/
 
 ---
 

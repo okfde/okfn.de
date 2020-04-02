@@ -16,8 +16,6 @@ card: true
 published: true
 title: "Ulm Wikidata Hackathon" 
 
-aliases:
-  - /blog/2017/06/Wahldaten-Wikidata-Hackathon/
 
 ---
 
