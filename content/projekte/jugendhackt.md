@@ -38,9 +38,10 @@ years: 2012 - heute
 partners:
   - mediale pfade e.V.
 financing:
-  - SKala
+  - SKala-Initiative
   - Deutsche Bahn Stiftung
   - Spenden
+  - Sponsorings
 contact:
   twitter: jugendhackt
   facebook: https://www.facebook.com/jugendhackt
