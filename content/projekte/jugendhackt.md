@@ -17,39 +17,34 @@ img: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/Jugendhackt_Header.png
 people:
-  - name: Paula Grünwald (geb. Glaser)
-    role: Projektleitung
   - name: Sonja Fischbauer
     role: Projektleitung
-  - name: Cin Pietschmann
-    role: Studentische Hilfskraft
+  - name: Mechthild Schmidt
+    role: Projektleitung
+  - name: Nina Schröter
+    role: Projektmanagerin    
   - name: Philip Steffan
     role: Community und Öffentlichkeitsarbeit
-  - name: Saadya Windauer
-    role: Projektmanagerin
   - name: Leonard Wolf
     role: Projektmitarbeiter Fundraising   
-  - name: Lisa Passing
-    role: Entwicklerin
-  - name: Nadine Stammen
-    role: Designerin
   - name: Eva Holzheimer
     role: Regionale Koordinatorin
   - name: Tomas Novy
     role: Regionaler Koordinator
   - name: Jakob Schiek
     role: Bundesfreiwilligendienstleistender    
-contact_person: paulaglaser
+contact_person: mechthildschmidt
 years: 2012 - heute
 partners:
   - mediale pfade e.V.
 financing:
   - SKala
+  - DB Stiftung
   - Spenden
 contact:
   twitter: jugendhackt
   facebook: http://www.facebook.com/jugendhackt
-  mailinglist: http://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=47735af82e
+  mailinglist: http://jugendhackt.org/newsletter
   website: https://jugendhackt.org
   mastodon:
     handle: jugendhackt
