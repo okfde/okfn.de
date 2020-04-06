@@ -36,9 +36,10 @@ years: 2012 - today
 partners:
   - mediale pfade e.V.
 financing:
-  - SKala
+  - SKala-Initiative
   - Deutsche Bahn Stiftung
   - Donations
+  - Sponsorings
 contact:
   twitter: jugendhackt
   facebook: https://www.facebook.com/jugendhackt
@@ -52,10 +53,10 @@ video: "https://www.youtube.com/embed/lkNZyfhUvEc"
 subtitle: Improving the world, code by code
 cta: Participate
 cta_text: |-
-  You can become a <a href="https://jugendhackt.org/mitmachen/">participant or mentor</a>. In addition to our main event in Berlin, we also have lots of events all over Germany, Austria and Switzerland.<br><br>
-  With a <a href="https://www.betterplace.org/de/projects/19214-jugend-hackt-forderprogramm-fur-programmierbegeisterte-jugendliche">donation</a> you support the next generation of responsible, world-improving technicians. For sponsoring and cooperation we are looking forward to <a href="mailto:sonja.fischbauer@okfn.de">hearing from you</a>.
+  You can become a <a href="https://jugendhackt.org">participant or mentor</a>.<br>
+  With a <a href="https://freundeskreis.jugendhackt.org/unterstuetzen">donation</a> you support the next generation of responsible, world-improving technicians. For sponsoring and cooperation we are looking forward to <a href="mailto:sonja.fischbauer@okfn.de">hearing from you</a>.
 more_text: |-
-    Further information can be found on <a href="https://jugendhackt.org/">the website</a> of Jugend Hackt.
+    Further information can be found on <a href="https://jugendhackt.org/">the website</a> of Jugend hackt.
 ---
 
 Jugend hackt is a program designed to support young coders.
@@ -79,10 +80,23 @@ Together with like-minded peers, participants use open data to work on prototype
 Volunteer mentors with technical expertise guide them through this process.
 Jugend hackt aims to empower young coders with technical skills and to familiarise them with the creative and political contexts in which these skills can be applied. "Improving the world, code by code", that is Jugend hackt's message.
 
+Alle Infos zu unserem Angebot gibt's auf [jugendhackt.org](https://jugendhackt.org) 
+
+**Grant givers**<br>
++ [SKala-Initiative](http://www.skala-initiative.de/initiative/) 2018-2021. 
++ [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) supports Jugend hackt Labs 2019-2020. 
+
 **Awards** <br>
 Dieter-Baacke-Preis 2015<br>
 Deutscher Engagementpreis 2016<br>
-Phineo-Siegel 2017<br>
+Phineo-Siegel für Wirksamkeit 2017<br>
 European Youth Culture Award 2017<br>
 BKM-Preis Kulturelle Bildung 2018<br>
 Theodor-Heuss-Medaille 2018
+
+**Ressources (German)**<br>
++ [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) Online Version<br>
++ [wissenschaftliche Evaluation zu Jugend hackt Events 2015](https://jugendhackt.org/files/2015/03/Jugend-hackt-Kurzversion.pdf) PDF Download<br>
++ [wissenschaftliche Evaluation zu Jugend hackt Labs 2019](https://jugendhackt.org/wp-content/uploads/2020/02/Jugend-hackt-Labs-Abschlussbericht-2020.pdf) PDF Download
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ZmD1_1EuhQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
