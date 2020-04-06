@@ -39,12 +39,12 @@ partners:
   - mediale pfade e.V.
 financing:
   - SKala
-  - DB Stiftung
+  - Deutsche Bahn Stiftung
   - Spenden
 contact:
   twitter: jugendhackt
-  facebook: http://www.facebook.com/jugendhackt
-  mailinglist: http://jugendhackt.org/newsletter
+  facebook: https://www.facebook.com/jugendhackt
+  mailinglist: https://jugendhackt.org/newsletter
   website: https://jugendhackt.org
   mastodon:
     handle: jugendhackt
