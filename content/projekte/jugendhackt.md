@@ -54,15 +54,14 @@ video: "https://www.youtube.com/embed/lkNZyfhUvEc"
 subtitle: Förderprogramm für technikbegeisterte Jugendliche
 cta: Teilnehmen
 cta_text: |-
-    Du kannst <a href="https://jugendhackt.org/mitmachen/">Teilnehmer\*in oder Mentor\*in</a>  werden. Wir haben neben unserem Hauptevent in Berlin auch jede Menge Events in ganz Deutschland, Österreich und der Schweiz.<br><br>
-    Mit deiner <a href="https://www.betterplace.org/de/projects/19214-jugend-hackt-forderprogramm-fur-programmierbegeisterte-jugendliche">Spende</a> förderst du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:sonja.fischbauer@okfn.de">Kontaktaufnahme</a>.
+    Du kannst <a href="https://jugendhackt.org">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
+    Mit deiner <a href="https://freundeskreis.jugendhackt.org/unterstuetzen">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:sonja.fischbauer@okfn.de">Kontaktaufnahme</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://jugendhackt.org/">Website von Jugend hackt</a>.
 
 ---
 
-Jugend hackt ist ein Programm zur Förderung des Programmiernachwuchses im deutschsprachigen Raum: Unter dem Motto „Mit Code die Welt verbessern“ tüfteln die Teilnehmenden jeweils ein Wochenende lang gemeinsam mit der Hilfe ehrenamtlicher Mentor\*innen an Prototypen, digitalen Werkzeugen und Konzepten für ihre Vision einer besseren Gesellschaft.
-Seit 2013 veranstalten wir Jugend hackt in Zusammenarbeit mit mediale pfade.org e.V.. Die anhaltend große Nachfrage hat 2015 dazu geführt, dass neben dem Hauptevent in Berlin auch zusätzliche vier Events in Dresden, Ulm, Köln und Hamburg stattfanden. 2016 kamen mit Linz und Zürich auch erstmalig Veranstaltungen in Österreich und der Schweiz hinzu. Außerdem freuen wir uns, dass es zusammen mit dem Goethe-Institut seit 2016 möglich ist, einige Teilnehmende aus Deutschland im Rahmens des Programms  [„Vernetzte Welten“](https://www.goethe.de/ins/kr/de/spr/unt/ver/20895014.html) zu Events in Ostasien mitnehmen zu können.
+Jugend hackt ist ein Programm für junge Menschen, die mit ihren technischen Fähigkeiten die Welt verbessern wollen. Unterstützt von ehrenamtlichen Mentor*\innen entwickeln unsere Teilnehmer*\innen digitale Werkzeuge, Prototypen und Konzepte für eine bessere Zukunft. Unser Angebot umfasst Hackathon-Events in vielen Städten, regionale Labs, eine Online Community und internationale Austauschprogramme.
 
 
 
@@ -77,14 +76,26 @@ Seit 2013 veranstalten wir Jugend hackt in Zusammenarbeit mit mediale pfade.org 
     </figure>
 </div>
 
-2017 vergrößerte sich die Jugend hackt-Familie in Deutschland zudem um Events in Frankfurt am Main und Halle (Saale), 2018 um Schwerin und Heidelberg. Ebenfalls seit 2017 bietet unser Partner, die Fachstelle für Jugendmedienkultur in NRW, mit [Hello World](https://jugendhackt.org/helloworld/) Workshops für Programmier-Einsteiger\*innen an. Dort lernen Kinder und Jugendliche unter anderem spielerisch Programmiergrundlagen, löten oder 3D-drucken. 2018 gab es dieses Angebot dank Open Commons auch in Linz. 2019 startet unser neues Format „Jugend hackt Labs“ in Kooperation mit regionalen Partnern als regelmäßiges Vor-Ort-Angebot für Jugendliche.
+Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend hackt um mehr als nur Programmieren lernen: Wir begreifen Technik als ein Mittel zu gesellschaftlicher Veränderung. Wir bestärken Jugendliche im verantwortungsbewussten Umgang mit Technik, um damit Lösungen für gesellschaftspolitische Fragen zu finden. Dabei entstehen kreative Projekte wie ein Bewässerungssystem, das freies WiFi spendet; ein Armband, das vor Überwachungskameras warnt, oder ein Audio-Computerspiel für Menschen mit Sehschwäche.
 
-Weitere Einblicke in den Ablauf und die Atmosphäre einer Jugend hackt-Veranstaltung geben unsere [Dokuvideos](https://www.youtube.com/watch?v=o9CJYnZft1c&list=PLQsLR7zBwcw26l7KPAs2FtMqPxWB2ZZFh&index=10). Außerdem beschreibt unser 2016 herausgegebenes [Handbuch](http://www.handbuch.jugendhackt.de/) das Konzept hinter Jugend hackt und bietet einen detaillierten Einblick in unsere Arbeitsweise. 2014 und 2015 wurde Jugend hackt durch eine [wissenschaftliche Evaluation](https://jugendhackt.org/files/2015/03/Jugend-hackt-Kurzversion.pdf) begleitet, die die Wirkung des Programms untersucht und bestätigt hat. Gute Eindrücke liefern zudem die [Pressestimmen](https://jugendhackt.org/presse/) auf unserer Presseseite. Am besten jedoch versteht man Jugend hackt durch die [tollen Projektideen und -umsetzungen der Jugendlichen](http://www.jugendhackt.org/projekte).
+Jugend hackt ist ein nicht-gewinnorientiertes Programm der Open Knowledge Foundation Deutschland und von mediale pfade.org – Verein für Medienbildung e.V. Die Teilnahme an unseren Angeboten ist für die Jugendlichen soweit wie möglich kostenlos. Wir legen Wert auf Vielfalt in unserem Programm und fördern aktiv die Teilnahme von Jugendlichen, die sonst geringe Bildungschancen im Technik-Bereich vorfinden. Die positive Veränderung, die unser Programm in den Lebensverläufen unserer Teilnehmer*\innen bewirkt ist messbar und bestätigt. Jugend hackt ist mit dem PHINEO Siegel für Wirksamkeit ausgezeichnet.
 
-**Preise** <br>
+Alle Infos zu unserem Angebot gibt's auf [jugendhackt.org](https://jugendhackt.org) 
+
+
+**Fördergeber\*innen**
+Jugend hackt wird von 2018 bis 2021 durch die [SKala-Initiative](http://www.skala-initiative.de/initiative/) gefördert. 
+Die [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) fördert die Jugend hackt Labs im Jahr 2019 und 2020. 
+
+**Preise und Auszeichnungen** <br>
 Dieter-Baacke-Preis 2015<br>
 Deutscher Engagementpreis 2016<br>
-Phineo-Siegel 2017<br>
+Phineo-Siegel für Wirksamkeit 2017<br>
 European Youth Culture Award 2017<br>
 BKM-Preis Kulturelle Bildung 2018<br>
 Theodor-Heuss-Medaille 2018
+
+**Ressourcen**
+* [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) Online Version
+* [wissenschaftliche Evaluation zu Jugend hackt Events 2015](https://jugendhackt.org/files/2015/03/Jugend-hackt-Kurzversion.pdf) PDF Download
+* [wissenschaftliche Evaluation zu Jugend hackt Labs 2019](https://jugendhackt.org/wp-content/uploads/2020/02/Jugend-hackt-Labs-Abschlussbericht-2020.pdf) PDF Download 
