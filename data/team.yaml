@@ -37,15 +37,15 @@
   twitter: 
   website: 
 
-- name: Gregor Gilka
+- name: Gregor
   img: unknown
   staff: 1
   board: 0
   advisory: 0
-  position: Admin
-  position_en: 
-  bio: "Gregor unterstützt uns und unsere Projekte als Administrator. Er ist Ingenieur und hat nach einer Forschungsphase an der TU Berlin und in Hong Kong an einem Projekt gearbeitet welches sich mit der numerischen Modellierung von Strömungen beschäftigt."
-  bio_en: "Gregor supports us and our projects as administrator. He is an engineer and after a research phase at the TU Berlin and in Hong Kong he worked on a project dealing with the numerical modelling of flows."
+  position: SysAdmin
+  position_en: SysAdmin
+  bio: "Gregor unterstützt uns und unsere Projekte als Sytemadministrator. Er arbeitet für den produktiven Einsatz und die Förderung von Open Source Software."
+  bio_en: "Gregor supports us and our projects as system administrator. He works on facilitating open source software in business context."
   mail: gregor.gilka@okfn.de
   twitter: 
   
@@ -374,13 +374,14 @@
 
 - name: Michael Peters
   img: michaelpeters
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektleitung Code for Germany, Open Government Netzwerk
   position_en: Project management Code for Germany, Open Government Netzwerk
-  bio: "Michael betreut die Code For Germany Community und arbeitet gemeinsam mit den OK Labs an nützlichen Anwendungen rund um offene Daten. Zudem koordiniert er das zivilgesellschaftliche Open Government Netzwerk, welches sich für mehr offenes Regierungs- und Verwaltungshandeln einsetzt. Michael hat Volkswirtschaft (M.Sc.) und Politikwissenschaft (B.A.) studiert und interessiert sich insbesondere für Netzpolitik. Er arbeitet seit 2016 bei der Open Knowledge Foundation."
-  bio_en: "Michael organises the Code For Germany community and works together with the OK Labs on useful applications around open data. He also coordinates the Open Government Civil Society Network, which advocates for more Open Government in Germany. Michael studied economics (M.Sc.) and political science (B.A.) and is particularly interested in digital policy issues. He has been with the Open Knowledge Foundation since 2016."
+  bio: "Michael betreute die Code For Germany Community und arbeitete gemeinsam mit den OK Labs an nützlichen Anwendungen rund um offene Daten. Zudem koordinierte er das zivilgesellschaftliche Open Government Netzwerk, welches sich für mehr offenes Regierungs- und Verwaltungshandeln einsetzt. Michael hat Volkswirtschaft (M.Sc.) und Politikwissenschaft (B.A.) studiert und interessiert sich insbesondere für Netzpolitik. Er arbeitete seit 2016 bis 2020 bei der Open Knowledge Foundation."
+  bio_en: "Michael organised the Code For Germany community and worked together with the OK Labs on useful applications around open data. He also coordinated the Open Government Civil Society Network, which advocates for more Open Government in Germany. Michael studied economics (M.Sc.) and political science (B.A.) and is particularly interested in digital policy issues. He has been with the Open Knowledge Foundation from 2016 until 2020."
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
