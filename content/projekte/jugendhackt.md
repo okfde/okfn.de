@@ -83,7 +83,7 @@ Alle Infos zu unserem Angebot gibt's auf [jugendhackt.org](https://jugendhackt.o
 
 **Fördergeber\*innen**<br>
 Jugend hackt wird von 2018 bis 2021 durch die [SKala-Initiative](http://www.skala-initiative.de/initiative/) gefördert. 
-Die [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) fördert die Jugend hackt Labs im Jahr 2019 und 2020. 
+Die [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) fördert die [Jugend hackt Labs](https://jugendhackt.org/labs) im Jahr 2019 und 2020. 
 
 **Preise und Auszeichnungen** <br>
 Dieter-Baacke-Preis 2015<br>
