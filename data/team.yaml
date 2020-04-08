@@ -916,13 +916,14 @@
 
 - name: Saadya Windauer
   img: saadyawindauer
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
-  position: Projektmanagement Jugend hackt
-  position_en: Project management Jugend hackt
-  bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei Jugend hackt."
-  bio_en: "Saadya has been working for the Open Knowledge Foundation since January 2017 and is a projekt manager at the Jugend hackt."
+  board_alumni: 1
+  position: Projektmanagement 
+  position_en: Project management 
+  bio: "Saadya arbeitete zwischen 2017 und 2020 bei der OKF. Sie arbeitete in folgenden Projekten: Datensummit, Demokratielabore, 2030Watch und Jugendhackt."
+  bio_en: "Saadya worked between 2017 and 2020 at OKF. She worked in the following projects: Datensummit, Demokratielabore, 2030Watch und Jugendhackt."
   mail: saadya.windauer@okfn.de
   twitter:
   website:
