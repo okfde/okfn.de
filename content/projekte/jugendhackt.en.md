@@ -31,7 +31,7 @@ people:
     role: Regional coordinator
   - name: Jakob Schiek
     role: Federal volunteer     
-contact_person: paulaglaser
+contact_person: mechthildschmidt
 years: 2012 - today
 partners:
   - mediale pfade e.V.
