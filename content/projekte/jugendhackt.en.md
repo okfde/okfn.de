@@ -36,8 +36,8 @@ years: 2012 - today
 partners:
   - mediale pfade e.V.
 financing:
-  - SKala-Initiative
   - Deutsche Bahn Stiftung
+  - SKala-Initiative
   - Donations
   - Sponsorings
 contact:
