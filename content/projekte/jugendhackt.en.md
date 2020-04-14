@@ -61,7 +61,7 @@ more_text: |-
 
 Jugend hackt is a program for young people who want to improve the world with their technical skills. Supported by volunteer mentors, our participants develop digital tools, prototypes and concepts for a better future. Our offer includes hackathon events in many cities, regional labs, an online community and international exchange programs.
 
-In line with our motto "Improve the world with code", Jugend hackt is about more than just learning to program: We understand technology as a means of social change. We encourage young people to use technology responsibly in order to find solutions to socio-political questions. This creates creative projects such as an irrigation system that donates free WiFi; a bracelet that warns of surveillance cameras or an audio computer game for people with poor eyesight.
+In line with our motto "Improve the world with code", Jugend hackt is about more than just learning to program: We understand technology as a means of social change. We encourage young people to use technology responsibly in order to find solutions to socio-political questions. This creates creative projects such as a watering system that donates free WiFi; a bracelet that warns of surveillance cameras or an audio computer game for people with visual impairment.
 
 <div class="two-img offset-lg-2">
     <figure class="license">
@@ -73,6 +73,8 @@ In line with our motto "Improve the world with code", Jugend hackt is about more
         <figcaption>Foto: Sandra Schink, <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a> Jugend hackt</figcaption>
     </figure>
 </div>
+
+<br>
 
 Jugend hackt is a non-profit program of the non-profit organizations Open Knowledge Foundation Deutschland e.V. and [mediale pfade.org - Verein für Medienbildung e.V](https://medialepfade.org). Participation in our programs is free of charge for young people as far as possible. We value diversity in our program and actively promote the participation of young people who otherwise have limited educational opportunities in the technical field. The positive change that our program brings about in the lives of our participants is demonstrable. Jugend hackt has been awarded the PHINEO seal for effectiveness.
 
