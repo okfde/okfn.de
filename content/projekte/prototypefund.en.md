@@ -16,11 +16,13 @@ people:
   - name: Adriana Groh
     role: Project Leadership
   - name: Katharina Meyer
-    role: Head of Communications & Research
+    role: Head of Research
   - name: Thomas Friese
     role: Program Management & Technology
   - name: Marie Gutbub
     role: Program Management & Events
+  - name: Patricia Leu
+    role: Head of Communications
   - name: Gregor Gilka
 financing:
   - BMBF
@@ -49,6 +51,6 @@ With up to 47,500 euros per project and team, the Prototype Fund supports softwa
 
 In addition to financial support, we offer mentorship and coaching along the way and exchange ideas with our extensive and diverse network of coders, practitioners and potential users.
 
-The application process is kept as unbureaucratic as possible and adapted to the needs of the self-employed. To date, we have already spent 4.8 million on 118 projects (status after round 6). The programme runs over a total of 8 funding rounds until 2020.
+The application process is kept as unbureaucratic as possible and adapted to the needs of the self-employed. To date, we have already spent 5.75 million euros on 140 projects (status: March 2020). The programme runs over a total of 16 funding rounds until 2024.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/zgkci_5avz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MOGdX7ipcu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
