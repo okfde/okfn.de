@@ -20,31 +20,52 @@ Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sit
 
 ## Wen wir suchen
 Wir suchen eine Person, die sich unseren Werten verbunden fühlt und Spaß daran hat, mit einem technologieaffinen Team zusammenzuarbeiten. Mitbringen solltest du
+
 - mehrjährige praktische kaufmännische Erfahrung mit vergleichbaren Tätigkeiten
+
 - Berufserfahrung in der Büroorganisation, idealerweise im gemeinnützigen Sektor
+
 - Spaß am sorgfältigen Arbeiten mit Zahlen, Tabellen und Formeln
+
 - einen professioneller Umgang mit gängiger Bürosoftware, Bereitschaft sich in vereinsinterne Administrationstools einzuarbeiten und diese mitzugestalten
+
 - sehr gute Deutschkenntnisse in Wort und Schrift 
+
 - selbständige, organisierte und lösungsorientierte Arbeitsweise sowie ein gutes Gefühl für Zeitmanagement und Priorisierung
+
 - eine hohe soziale Kompetenz und Teamfähigkeit, ausgeprägte Kommunikationsfähigkeiten
+
 - ein Plus wären Erfahrungen im Vereins-, Arbeits- oder Personalrecht sowie Zuwendungsrecht
 
 Konkret fallen unter anderem folgende Aufgaben an: 
+
 - Unterstützung der Geschäftsführung bei der Liquiditätsplanung und dem laufenden Zahlungsverkehr
+
 - Unterstützung der Projektteams bei der Erstellung von Finanzierungsplänen für Projektanträge, beim Budget-Controlling sowie beim Erstellen von Mittelabrufen und Verwendungsnachweisen
+
 - Koordination des finanziellen Jahresabschlusses (Bilanzierung) in Zusammenarbeit mit dem Steuerbüro sowie der monatlichen Abschlüsse
+
 - Koordination der jährlichen Wirtschaftsprüfung in Zusammenarbeit mit dem Dienstleister
+
 - Personalverwaltung in Zusammenarbeit mit dem externen Lohnbüro
+
 - Übernahme allgemeiner Verwaltungstätigkeiten
+
 - organisatorische Aufgaben für die Geschäftsführung und das Team
+
 - generelle Ansprechperson für alle Fragen im Finanzbereich für das Team
 
 ## Was wir bieten
 - ein sehr spannendes Arbeitsumfeld bei der OKF DE in Berlin
+
 - Gestaltungsspielraum für die finanziellen Angelegenheiten einer wachsenden Organisation
+
 - Mitwirkung im partizipativen Governance-Modell der OKF DE
+
 - Flexibilität, dir deine Aufgaben und deine Arbeitszeiten in Absprache mit dem Team frei einzuteilen sowie die Möglichkeit, dein Aufgabengebiet je nach Interessen zu erweitern
+
 - eine nette Büroatmosphäre, gratis Getränke (Mate!) und oft aufgefüllte Snackbox
+
 - eine Vergütung angelehnt an TV-L E12
 
 Die Stelle ist ab sofort, spätestens aber bis zum 1. Juli 2020, zu besetzen. Die Stelle ist vorerst auf ein Jahr befristet, die Verlängerung ist angestrebt!
