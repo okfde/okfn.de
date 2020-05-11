@@ -70,7 +70,7 @@ Konkret fallen unter anderem folgende Aufgaben an:
 
 Die Stelle ist ab sofort, spätestens aber bis zum 1. Juli 2020, zu besetzen. Die Stelle ist vorerst auf ein Jahr befristet, die Verlängerung ist angestrebt!
 
-Bitte schicke uns deine Bewerbung (Anschreiben, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang bis zum **12. Mai 2020** per E-Mail an **jobs@okfn.de**. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen. Rückfragen kann du gern an Juliane Krüger (juliane.krueger@okfn.de) richten. 
+Bitte schicke uns deine Bewerbung (Anschreiben, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang bis zum **26. Mai 2020** per E-Mail an **jobs@okfn.de**. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen. Rückfragen kann du gern an Juliane Krüger (juliane.krueger@okfn.de) richten. 
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die generell und auch in unserer Welt unterrepräsentiert sind. 
  
