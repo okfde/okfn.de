@@ -2,8 +2,8 @@
 authors:
 - Patricia Leu
 date: 2020-05-12
-image: static/files/blog/2020/03/2020-05-12_Communitytechnologien.jpg
-  src:
+image: 
+  src: /files/blog/2020/03/2020-05-12_Communitytechnologien.jpg
   title: Communitytechnologien
   license:
   license_url:
