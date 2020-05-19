@@ -35,14 +35,15 @@ Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechts
 ### 5. Tätigkeitsbericht
 Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Finanzierung. Seit 2017 erstellen wir unseren Tätigkeits- und Transparenzbericht darum nach Social Reporting Standard.
 
-[Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
-[Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
-[Tätigkeitsbericht 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf) <br>
-[Tätigkeitsbericht 2015](/files/documents/OKFDE-Taetigkeitsbericht-2015.pdf) <br>
-[Tätigkeitsbericht 2014](/files/documents/OKFDE-Taetigkeitsbericht-2014.pdf) <br>
-[Tätigkeitsbericht 2013](/files/documents/OKFDE-Taetigkeitsbericht-2013.pdf) <br>
-[Tätigkeitsbericht 2012](/files/documents/OKFDE-Taetigkeitsbericht-2012.pdf) <br>
-[Tätigkeitsbericht 2011](/files/documents/OKFDE-Taetigkeitsbericht-2011.pdf)
+- [Tätigkeitsbericht 2019](https://2019.okfn.de/)
+- [Tätigkeitsbericht 2018](https://2018.okfn.de/)
+- [Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf)
+- [Tätigkeitsbericht 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf)
+- [Tätigkeitsbericht 2015](/files/documents/OKFDE-Taetigkeitsbericht-2015.pdf)
+- [Tätigkeitsbericht 2014](/files/documents/OKFDE-Taetigkeitsbericht-2014.pdf)
+- [Tätigkeitsbericht 2013](/files/documents/OKFDE-Taetigkeitsbericht-2013.pdf)
+- [Tätigkeitsbericht 2012](/files/documents/OKFDE-Taetigkeitsbericht-2012.pdf)
+- [Tätigkeitsbericht 2011](/files/documents/OKFDE-Taetigkeitsbericht-2011.pdf)
 
 
 ### 6. Personalstruktur
