@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gesetz on OKF</title>
+    <link>https://okfn.de/blog/tags/gesetz/</link>
+    <description>Recent content in Gesetz on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 07 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/gesetz/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gesetz über die Weiterverwendung von Informationen öffentlicher Stellen (IWG): Eine weitere vertane Chance</title>
+      <link>https://okfn.de/blog/2015/05/stellungnahme-iwg-bundestag-2015/</link>
+      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2015/05/stellungnahme-iwg-bundestag-2015/</guid>
+      <description>Die Open Knowledge Foundation Deutschland e.V. begrüßt eine Neufassung des Gesetzes über die Weiterverwendung von Informationen öffentlicher Stellen und insbesondere die Veröffentlichung des Entwurfs vorab im Internet. Wir haben bereits im Mai 2014 eine Stellungnahme zu dem Entwurf veröffentlicht und an das federführende Ministerium übermittelt.
+Mit dem finalen Entwurf zur Änderung des Informationsweiterverwendungsgesetzes, der heute in zweiter und dritter Lesung im Bundestag beraten wird und für den eine Beschlussempfehlung abgegeben werden soll, vertut die Bundesregierung aber leider eine weitere Chance, endlich auch in Deutschland die international längst üblichen Transparenzstandards bei Verwaltungs- und Regierungshandeln zu schaffen.</description>
+    </item>
+    
+  </channel>
+</rss>

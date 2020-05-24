@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Knowledge Foundation DE</title>
+    <link rel="self" href="https://okfn.de/finanzierung/atom.xml"/>
+    <description>Finanzierung on OKF DE</description>
+    
+    
+    
+        <atom:link href="https://okfn.de/finanzierung/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entwicklung der Gesamteinnahmen</title>
+      <link>https://okfn.de/finanzierung/entwicklung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/finanzierung/entwicklung/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Einnahmen 2018</title>
+      <link>https://okfn.de/finanzierung/einnahmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/finanzierung/einnahmen/</guid>
+      <description>Der Großteil (81%) unserer Einnahmen sind Gelder aus öffentlicher Hand, die wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten erhalten. Unsere Spenden entsprechen ca. 8% unserer Einnahmen. Über Dienstleistungen für meist Institutionen oder Vereine haben wir knapp 9,6% erwirtschaftet, Sponsoring trägt aktuell zu 1,5% unserer Gelder bei.
+Übersicht Öffentliche Geldgeber Unternehmen Dienstleistungen Spenden    *Verein möchte online nicht genannt werden, kann aber gerne bei uns persönlich erfragt werden    Durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit beruhende Projekte  Unsere Projekte entstehen aus einer lösungsorientierten und idealistischen Haltung und werden oft durch ehrenamtliche Tätigkeit initiiert.</description>
+    </item>
+    
+    <item>
+      <title>Ausgaben 2018</title>
+      <link>https://okfn.de/finanzierung/ausgaben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/finanzierung/ausgaben/</guid>
+      <description>Der größte Teil der finanziellen Zuwendungen und Umsätze ist an die Durchführung von konkreten Projekten und an die Organisation von Veranstaltungen gebunden. Neben den projektgebundenen Ausgaben versuchen wir, die Fixkosten gering zu halten. Derzeit setzen sie sich zusammen aus Miete und Nebenkosten für das Berliner Büro, die Ausgaben für unsere Buchhaltung, die Leitung unserer Organisation sowie Serverkosten.
+ ** zum Beispiel Infrastruktur, Buchführung, Versicherungen
+Der größte Posten bei den Ausgaben sind materielle Aufwendungen für die Planung und Durchführung von Projekten und Veranstaltungen sowie unsere Gehälter.</description>
+    </item>
+    
+  </channel>
+</rss>

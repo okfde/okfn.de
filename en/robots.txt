@@ -1,0 +1,15 @@
+User-agent: *
+
+
+Disallow: /en/projektfilter/civic_tech/
+
+Disallow: /en/projektfilter/community/
+
+Disallow: /en/projektfilter/bildung/
+
+Disallow: /en/projektfilter/open_data/
+
+Disallow: /en/projektfilter/offenes_regierungshandeln/
+
+Disallow: /en/projektfilter/
+

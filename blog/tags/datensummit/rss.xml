@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datensummit on OKF</title>
+    <link>https://okfn.de/blog/tags/datensummit/</link>
+    <description>Recent content in Datensummit on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/datensummit/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Das war der Datensummit ‘17 – Das Community-Festival der OKF</title>
+      <link>https://okfn.de/blog/2017/05/daswardatensummit/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/05/daswardatensummit/</guid>
+      <description>Nach vier Monaten Vorbereitung auf Hochtouren und zwei Tagen geballtem Input zu Open Data, Civic Tech und Data Literacy haben wir ausgeschlafen und lassen Revue passieren: den Datensummit ‘17 – unser erstes zweitägiges Festival, das vom Bundesministerium für Verkehr und digitale Infrastruktur gefördert wurde.
+Rund 280 Teilnehmerinnen durften wir am ersten Tag im Erich-Klausener-Saal des BMVIs begrüßen und müssen zugeben, dass wir mit unseren pinken Programmflyern, bunten Armbändern und zehn Kästen Club Mate eine nicht alltägliche Veranstaltung für ein Ministerium organisiert haben.</description>
+    </item>
+    
+    <item>
+      <title>Datensummit 2017 - Das Programm ist da!</title>
+      <link>https://okfn.de/blog/2017/03/datensummit2017/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/03/datensummit2017/</guid>
+      <description>Wir freuen uns schon sehr auf unseren Datensummit am 28. &amp;amp; 29. April in Berlin!
+Inzwischen ist das Programm online zu finden - ein guter Mix aus Vorträgen, kleinen Pitches, Workshops und einer Abschlussparty.
+Mit dabei an Tag 1 sind zum Beispiel: Vanessa Wormer von der Süddeutschen Zeitung, Zara Rahman von The Engine Room, Milena Marin von Amnesty International und Bardhyl Jashari von der Metamorphosis Foundation.
+An Tag 2 wird es neben einem Barcamp unter anderem Workshops und Vorträge zu Feinstaubsensoren, Storytelling und Informationsfreiheit geben.</description>
+    </item>
+    
+  </channel>
+</rss>

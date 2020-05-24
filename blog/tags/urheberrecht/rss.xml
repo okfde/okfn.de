@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urheberrecht on OKF</title>
+    <link>https://okfn.de/blog/tags/urheberrecht/</link>
+    <description>Recent content in Urheberrecht on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 24 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/urheberrecht/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pressemitteilung: Urheberrecht für das 21. Jahrhundert schaffen!</title>
+      <link>https://okfn.de/blog/2011/11/pressemitteilung-urheberrecht-fuer-das-21-jahrhundert-schaffen/</link>
+      <pubDate>Thu, 24 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2011/11/pressemitteilung-urheberrecht-fuer-das-21-jahrhundert-schaffen/</guid>
+      <description>In ihrem gemeinsamen Positionspapier “Was zu tun wäre: ein Urheberrecht für das 21. Jahrhundert” fordern Wikimedia Deutschland e.V., Digitale Gesellschaft e.V. und Open Knowledge Foundation Deutschland e.V. die Urheber und die Politik zu einem Dialog mit den Nutzern digitaler Werke auf. Anlass der Veröffentlichung des Positionspapiers ist eine Rede der für die Digitale Agenda zuständigen EU-Kommissarin Neelie Kroes, die festgestellt hatte, dass “Copyright” von einem begrüßenswerten Recht zu einem Hasswort für die Nutzer geworden sei.</description>
+    </item>
+    
+  </channel>
+</rss>

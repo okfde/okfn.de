@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vorstand on OKF</title>
+    <link>https://okfn.de/blog/tags/vorstand/</link>
+    <description>Recent content in Vorstand on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/vorstand/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die Zukunft einer impulsgebenden Organisation im Vorstand aktiv mitgestalten!</title>
+      <link>https://okfn.de/blog/2019/12/neuer-vorstand/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/12/neuer-vorstand/</guid>
+      <description>Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin. Seit 2011 sind wir maßgeblicher Motor für den selbstbestimmten Umgang mit Technologie und Daten, für Transparenz und Rechenschaft öffentlicher Institutionen und für politische Teilhabe und eine aktive Zivilgesellschaft.
+Digital vernetzte Technologien bringen neue Möglichkeiten, um zivilgesellschaftliche Interessen umzusetzen: Bürger*innen können ihre Rechte und Pflichten einfacher wahrnehmen und sich besser über staatliches Handeln informieren. So wird der faktenbasierte politische Diskurs unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt</title>
+      <link>https://okfn.de/blog/2018/06/neuer-vorstand/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2018/06/neuer-vorstand/</guid>
+      <description>Auf der Mitgliederversammlung des Open Knowledge Foundation Deutschland e.V. (OKF) wurde am 2. Juni 2018 ein neuer Vorstand gewählt.
+Neben den Mitgliedern des bisherigen Vorstands Claudia Schwegmann, Lucy Chambers, Kristina Klein (Kassenwartin), Andreas Pawelke und Daniel Dietrich, stellte sich Jana Wichmann als neues Vorstandsmitglied erfolgreich zur Wahl. Jana ist Expertin für nutzerzentriertes Design und Strategic Foresight Projekte sowie für die Entwicklung von Innovationsprozessen und wird mit ihrer Erfahrung insbesondere die strategische Arbeit der OKF bereichern.</description>
+    </item>
+    
+  </channel>
+</rss>

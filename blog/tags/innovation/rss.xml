@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation on OKF</title>
+    <link>https://okfn.de/blog/tags/innovation/</link>
+    <description>Recent content in Innovation on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 15 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/innovation/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apps for Europe sucht die besten #opendata Apps</title>
+      <link>https://okfn.de/blog/2014/09/apps-for-europe-sucht-die-besten-opendata-apps/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2014/09/apps-for-europe-sucht-die-besten-opendata-apps/</guid>
+      <description>Arbeitest Du an einer App, die offene Daten verwendet? Du möchtest Deine App in ein nachhaltiges Unternehmen weiterentwickeln? Apps for Europe hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:
+ Neu und nützlich
+ Einfach benutzbar
+ Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen
+ Der Welt das Potenzial von offenen Daten zu zeigen  Du kannst Dich jetzt mit deiner App und deinem Geschäftsplan unter www.</description>
+    </item>
+    
+    <item>
+      <title>Bundes-Git – German Laws on GitHub</title>
+      <link>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</link>
+      <pubDate>Fri, 04 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</guid>
+      <description>If you compare software code and legislation you can find many similarities: both are big bodies of text spread over multiple units (laws/files). The total amount of text inevitably grows bigger over time with many small changes to existing parts while most of the corpus stays the same.
+However, the tooling and editing process for these domains is very different: while developers are in the fortunate position that they can build and improve their own tools, legislators are stuck with proprietary tools like MS Word that are simply not built to collaboratively work on a big corpus of text.</description>
+    </item>
+    
+  </channel>
+</rss>

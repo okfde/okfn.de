@@ -1,0 +1,48 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://okfn.de/profil/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Wir zeigen das demokratische Potenzial von Technologie</title>
+    <link rel="alternate" href="https://okfn.de/profil/potential/"/>
+    <id>https://okfn.de/profil/potential/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Digital vernetzte Technologien bringen neue Möglichkeiten, um zivilgesellschaftliche Interessen umzusetzen: Bürger*innen können ihre Rechte und Pflichten einfacher wahrnehmen und sich besser über staatliches Handeln informieren. So wird der faktenbasierte politischer Diskurs unterstützt. Dafür entwickeln wir Software, stellen Infrastruktur bereit und fördern Open-Source-Projekte. Wir experimentieren und bieten ein Experimentierfeld für andere.</summary>
+  </entry>
+  
+  <entry>
+    <title>Wir setzen uns für offenes Wissen ein</title>
+    <link rel="alternate" href="https://okfn.de/profil/wissen/"/>
+    <id>https://okfn.de/profil/wissen/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Offenes Wissen ist in einem demokratischen Staat Voraussetzung jeder Mitbestimmung, darum streben wir nach einer Welt, in der Wissen online wie offline frei verfügbar ist. Das bedeutet, dass wir Wissen nicht nur nutzen, sondern auch teilen, weiterentwickeln und verändern dürfen. Wir stärken damit eine Gemeinschaft, an der alle partizipieren können. Um das zu erreichen, halten wir Vorträge, starten Initiativen, erforschen die Wirkungen offener Daten und veröffentlichen Studien. Das Besondere an unserer Arbeit ist, dass wir nicht nur fordern, sondern mit unseren Projekten und Kampagnen zeigen, wie offenes Wissen die Demokratie stärkt.</summary>
+  </entry>
+  
+  <entry>
+    <title>Wir stärken die digitale Mündigkeit und den ethischen Umgang mit Technologie</title>
+    <link rel="alternate" href="https://okfn.de/profil/muendigkeit/"/>
+    <id>https://okfn.de/profil/muendigkeit/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Wir wollen unser Wissen weitergeben. Denn nur wer Technologie versteht, kann sie mitgestalten. Daher geben wir Workshops zu den unterschiedlichsten Themen wie Data Literacy, Open Data oder Offene Bildung und entwickeln zudem eigene Bildungsformate.</summary>
+  </entry>
+  
+  <entry>
+    <title>Wir vernetzen Menschen, die an Projekten für eine offene und gerechte Gesellschaft arbeiten</title>
+    <link rel="alternate" href="https://okfn.de/profil/vernetzen/"/>
+    <id>https://okfn.de/profil/vernetzen/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, d.h. Regionalgruppen, in über 26 Städten, organisieren Konferenzen und Hackathons und bringen Vertreter*innen aus Politik und der Zivilgesellschaft zusammen.</summary>
+  </entry>
+  
+</feed>

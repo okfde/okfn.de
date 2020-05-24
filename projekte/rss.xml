@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Knowledge Foundation DE</title>
+    <link rel="self" href="https://okfn.de/projekte/atom.xml"/>
+    <description>Projekte on OKF DE</description>
+    
+    
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:34 +0000</lastBuildDate>
+    
+        <atom:link href="https://okfn.de/projekte/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Gov Netzwerk</title>
+      <link>https://okfn.de/projekte/ogp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/ogp/</guid>
+      <description>Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung Deutschlands in der Open Government Partnership (OGP) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
+Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.</description>
+    </item>
+    
+    <item>
+      <title>Turing-Bus</title>
+      <link>https://okfn.de/projekte/turing-bus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/turing-bus/</guid>
+      <description>Der Turing-Bus ist ein mobiles Bildungsangebot für Schulen und Jugendclubs im ländlichen Raum. Der Bus bringt Vertreter von Fablabs, OK-Labs und Hackspaces sowie Experten in digitalen Themengebieten an oft Angebots-unterversorgte Orte der Jugendbildung, um durch Workshops, Diskussionsformaten, Screenings und mehr einen Wissensaustausch zu generieren. Das Projekt wird im Wissenschaftsjahr des BMBF gefördert.
+Der Bus möchte die Rolle von Digitalisierung und Technologie für Beruf und Gesellschaft mit Workshops, Vorträgen und Hands-on-Sessions ergründen, diskutieren und kritisch hinterfragen.</description>
+    </item>
+    
+    <item>
+      <title>Code for Germany</title>
+      <link>https://okfn.de/projekte/codeforde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/codeforde/</guid>
+      <description>Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.</description>
+    </item>
+    
+    <item>
+      <title>FragDenStaat</title>
+      <link>https://okfn.de/projekte/fragdenstaat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/fragdenstaat/</guid>
+      <description>In einer Demokratie ist es notwendig, dass sich Bürgerinnen frei über Regierungshandeln informieren können. Mit dem Informationsfreiheitsgesetz hat jede Person unabhängig von Alter oder Herkunft das Recht, Dokumente bei Behörden anzufragen. Mit der Online-Plattform FragDenStaat unterstützen wir Bürgerinnen dabei, ihr Recht auf Zugang zu Informationen von deutschen Behörden wahrzunehmen. Bürgerinnen müssen sich nicht mehr durch den Gesetzesdschungel der Bundesländer und dem Bund arbeiten, um eine Anfrage zu stellen. Anfragen und Antworten erscheinen transparent online.</description>
+    </item>
+    
+    <item>
+      <title>Prototype Fund</title>
+      <link>https://okfn.de/projekte/prototypefund/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/prototypefund/</guid>
+      <description>Mit dem Prototype Fund unterstützen wir gesellschaftlich relevante Software-Projekte und erhöhen ihre nachhaltige Wirkung durch Open Source aus Prinzip. Kurz: Wir fördern Public Interest Tech.
+Wir machen digital-soziale Innovation möglich; mit Entwickler*innen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und ihre guten Ideen weitergeben. Mit bis zu 47.500 Euro pro Projekt und Team unterstützt der Fördertopf Softwareentwickler*innen, Hacker*innen und Kreative dabei, Skizzen für Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, IT-Sicherheit und Software–Infrastruktur umzusetzen.</description>
+    </item>
+    
+    <item>
+      <title>Datenschule</title>
+      <link>https://okfn.de/projekte/datenschule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/datenschule/</guid>
+      <description>Die Datenschule ist ein deutschlandweites Bildungsprogramm rund um das Thema Daten und Technologien. Wir richten uns an gemeinnützige Organisationen, die mit Daten arbeiten oder bereits vorhandene Kenntnisse vertiefen möchten. Innerhalb einer Zusammenarbeit von ca. drei Monaten entwickeln wir mit unseren Partnern und Trainerinnen praxis-orientierte Workshops und individualisierte Technik-Trainings, um gesellschaftliche Projekte zu unterstützen. Wir möchten gemeinnützige Organisationen:
+ dazu ermutigen, gezielt Daten und Technologien in ihrer Arbeit einzusetzen.
+ dazu befähigen, digitale Tools und Daten als eine weitere Informationsquelle bei der Recherche, Projekt und Organisationsentwicklung aktiv zu nutzen.</description>
+    </item>
+    
+    <item>
+      <title>Jugend hackt</title>
+      <link>https://okfn.de/projekte/jugendhackt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/jugendhackt/</guid>
+      <description>Jugend hackt ist ein Programm für junge Menschen, die mit ihren technischen Fähigkeiten die Welt verbessern wollen. Unterstützt von ehrenamtlichen Mentor*innen entwickeln unsere Teilnehmer*innen digitale Werkzeuge, Prototypen und Konzepte für eine bessere Zukunft. Unser Angebot umfasst Hackathon-Events in vielen Städten, regionale Labs, eine Online Community und internationale Austauschprogramme.
+Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend hackt um mehr als nur Programmieren lernen: Wir begreifen Technik als ein Mittel zu gesellschaftlicher Veränderung.</description>
+    </item>
+    
+    <item>
+      <title>Zugang gestalten</title>
+      <link>https://okfn.de/projekte/zuganggestalten/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:34 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/zuganggestalten/</guid>
+      <description>Mit öffentlichen Mitteln werden Museen, Archive, Bibliotheken und Baudenkmäler betrieben und erhalten. Aber wie gestaltet sich der Zugang zu den Schätzen, die dort erschlossen, restauriert und bewahrt werden? Die jährlich durchgeführte, internationale Konferenz &amp;ldquo;Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe&amp;rdquo; zeigt die unterschiedlichen Gestaltungsmöglichkeiten beim Zugang zum kulturellen Erbe auf.
+Sie ist das Forum im deutschsprachigen Raum, um die mit dem Zugang zu kulturellen Werken in Zusammenhang stehenden Fragen öffentlich mit Fachleuten aus Kultur, Wirtschaft, Zivilgesellschaft und Politik zu diskutieren.</description>
+    </item>
+    
+    <item>
+      <title>2030Watch</title>
+      <link>https://okfn.de/projekte/2030-watch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/2030-watch/</guid>
+      <description>2030Watch überwacht und visualisiert die Umsetzung der nachhaltigen Entwicklungsziele in Deutschland. Die Sustainable Development Goals (SDGs) wurden im September 2015 von den Vereinten Nationen (UN) verabschiedet und sollen bis 2030 erreicht werden.
+Alle UN-Mitgliedsstaaten haben sich verpflichtet diese 17 Ziele und 169 Unterziele umzusetzen. Sie sollen zum Beispiel die Armut abschaffen, bestehende Ungleichheiten in und unter den Ländern beseitigen und greifen Themen auf, die uns alle angehen, wie den Klimawandel.</description>
+    </item>
+    
+    <item>
+      <title>Apps and the city</title>
+      <link>https://okfn.de/projekte/appsandthecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/appsandthecity/</guid>
+      <description>Unter dem Namen &amp;ldquo;Apps and the City&amp;rdquo; hat die OKF Deutschland gemeinsam mit den Berliner Verkehrsbetrieben (BVG) und dem Verkehrsverbund Berlin-Brandenburg (VBB) zu einem Entwicklertag zum Thema Nahverkehr eingeladen. An diesem Tag erarbeiteten Entwicklerinnen und Softwareexperten sowie Designerinnen und Designer gemeinnützig sinnvolle Anwendungen für die Fahrgäste mit den offenen Datensätzen der Verkehrsbetriebe.</description>
+    </item>
+    
+    <item>
+      <title>Apps for Europe</title>
+      <link>https://okfn.de/projekte/appsforeurope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/appsforeurope/</guid>
+      <description>Apps for Europe möchte der Welt nicht nur die Wirkungsmacht offener Daten zeigen, sondern auch das wirtschaftliche Potenzial herauskehren. Neelie Kroes, die Vizepräsidentin der Europäischen Kommission und eine starke Unterstützerin von Apps for Europe, beziffert den Wert offener Daten auf viele Milliarden Euro. Wir fördern gemeinsam die Möglichkeiten offener Daten, indem wir Ihnen dabei helfen, Ihre Idee in ein erfolgreiches Unternehmen umzuwandeln, das sich in ganz Europa etablieren könnte.</description>
+    </item>
+    
+    <item>
+      <title>BIG</title>
+      <link>https://okfn.de/projekte/big/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/big/</guid>
+      <description>Das Big Data Public Private Forum (BIG) arbeitete an der Festlegung und Umsetzung einer klaren Strategie zu Big Data, die die notwendigen Anstrengungen in Bezug auf Forschung und Innovation in Angriff nimmt, gleichzeitig aber auch einen wichtigen Impuls für die Einführung von Technologien gibt und Maßnahmen zur erfolgreichen Umsetzung der Big Data-Wirtschaft unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>Bundesgit</title>
+      <link>https://okfn.de/projekte/bundesgit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/bundesgit/</guid>
+      <description>Dieses Git-Repository enthält alle deutschen Bundesgesetze und -verordnungen im Markdown-Format. Als Quelle dienen die XML-Versionen der Gesetze von gesetze-im-internet.de . Mit BundesGit wird die jeweils aktuellste Version eines Gesetzes versioniert gespeichert - so wird die Entstehung, historische Entwicklung und die Aktualisierung von Gesetzen einfach und frei nachvollziehbar.</description>
+    </item>
+    
+    <item>
+      <title>Coding da Vinci</title>
+      <link>https://okfn.de/projekte/codingdavinci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/codingdavinci/</guid>
+      <description>Wir organisierten mit Coding da Vinci den ersten Kultur-Hackathon in Deutschland. Die Veranstaltung bringt Entwicklerinnen, Designerinnen und Gamerinnen zusammen, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen.
+Ziel von Coding da Vinci war nicht nur das Etablieren und Vernetzen einer technikaffinen und kulturbegeisterten Community, sondern insbesondere das kreative Ausschöpfen der technischen Möglichkeiten, die in unserem digitalen Kulturerbe stecken. Wir setzten uns dabei für die freie Verfügbarkeit und Nutzbarkeit von Kulturdaten ein und stellten sicher, dass sie kreativen Menschen als Rohmaterial für ihre Ideen zur Verfügung stehen.</description>
+    </item>
+    
+    <item>
+      <title>D-EITI</title>
+      <link>https://okfn.de/projekte/eiti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/eiti/</guid>
+      <description>Die globale „Initiative für Transparenz im rohstoffgewinnenden Sektor“ (Extractive Industries Transparency Initiative – EITI) setzt sich ein für mehr Finanztransparenz und Rechenschaftspflicht im Rohstoffsektor.
+Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 2002 im südafrikanischen Johannesburg und basiert auf einer engen Zusammenarbeit von Regierungen, Unternehmen und Zivilgesellschaften in mittlerweile über 50 Ländern. Diese legen Informationen über Steuerzahlungen, Lizenzen, Fördermengen und andere wichtige Daten rund um die Förderung von Öl-, Gas- und mineralischen Rohstoffen offen.</description>
+    </item>
+    
+    <item>
+      <title>DARIAH-DE</title>
+      <link>https://okfn.de/projekte/dariah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/dariah/</guid>
+      <description>DARIAH-DE unterstützt mit digitalen Ressourcen und Methoden arbeitende Geistes- und KulturwissenschaftlerInnen in Forschung und Lehre. Dafür baut das Projekt eine digitale Forschungsinfrastruktur für Werkzeuge und Forschungsdaten auf und entwickelt Materialien für Lehre und Weiterbildung im Bereich der Digital Humanities (DH).
+Als Projektpartner unterstützen wir das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities). Ziel ist es, die zunehmend mit digitalen Ressourcen und Methoden arbeitenden Geistes- und Kulturwissenschaftler in Forschung und Lehre zu betreuen und so die Nutzung von digitalen Inhalten, Ressourcen, Werkzeugen und offenen Forschungsinfrastrukturen zu fördern.</description>
+    </item>
+    
+    <item>
+      <title>Daten machen Schule</title>
+      <link>https://okfn.de/projekte/datenmachenschule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/datenmachenschule/</guid>
+      <description>DatenmachenSchule zeigt welche Potentiale der Einsatz Offener Daten im Unterricht haben. Die Initiale Idee für das Projekt lieferte eine 2013 veröffentlichte Studie zum Thema Open Data des Fraunhofer Fokus Instituts, die unter anderem besagte:
+„Offene Verwaltungsdaten bergen [&amp;hellip;] prinzipiell die Chance einer neuen Bildungsgestaltung (Open Educational Resources).“
+Um der These nachzugehen, formierte sich eine Kooperation zwischen der Verwaltung der Stadt Moers, dem Gymnasium Adolfinum, der Hochschule Rhein-Waal und dem Open Knowledge Lab Niederrhein.</description>
+    </item>
+    
+    <item>
+      <title>Demokratielabore</title>
+      <link>https://okfn.de/projekte/demokratielabore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/demokratielabore/</guid>
+      <description>Wie können wir Kinder und Jugendliche heute befähigen, zu Gestaltenden unserer Gesellschaft von morgen zu werden? Was macht Jugendliche als Akteurinnen sichtbarer? Welche Rolle spielen hierbei digitale Mittel? Und wie gelingt Teilhabe auf digitaler und sozialer Ebene?
+Um diese und andere Fragen zu beantworten, haben wir mit den Demokratielaboren verschiedene Workshopformate und Materialien entwickelt, um einer breiten Zielgruppe von Kindern und Jugendlichen zu Selbstwirksamkeitserfahrungen im Bereich von Demokratie und Technologie zu verhelfen.</description>
+    </item>
+    
+    <item>
+      <title>Digiwhist</title>
+      <link>https://okfn.de/projekte/digiwhist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/digiwhist/</guid>
+      <description>Die Vergabe von öffentlichen Aufträgen, also Dienstleistungen, Bauleistungen und Waren macht einen großen Anteil der Staatsausgaben aus. In der EU sind dies etwa 16% des Bruttoinlandsprodukts. Oft ist die Vergabe dieser Aufträge allerdings nicht besonders Transparent. So können 20-25% des Auftragsvolumens an Korruption verloren gehen.
+Um das zu ändern arbeiten wir mit 5 Partnern am Projekt DIGIWHIST. Das Ziel ist es zum einen das Vertrauen in Regierungen zu erhöhen und zum anderen die Effizienz in der Vergabe von öffentlichen Aufträgen in Europa zu steigern.</description>
+    </item>
+    
+    <item>
+      <title>Energyhack</title>
+      <link>https://okfn.de/projekte/energyhack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/energyhack/</guid>
+      <description>Der Energyhack ist ein Hackathon rund um offene Energiedaten. Unser Energieangebot und die Wege der Erzeugung sind vielfältig. Doch wie wird Energie verteilt und wie schaffen wir es, dass mehr Informationen zwischen Geräten der Erzeuger und Verbraucher ausgetauscht werden?
+Entwicklerinnen, Designer, Forscherinnen und innovative Vordenker der Energiebranche entwickeln in 24h Ideen, entwerfen Hardware und Prototypen oder programmieren neue Apps. Als Datenbasis standen den Teilnehmerinnen die Daten aus dem Open Data Portal Netzdaten-Berlin zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Europeana Cloud</title>
+      <link>https://okfn.de/projekte/europeanacloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/europeanacloud/</guid>
+      <description>Europeana Cloud ist ein „Best Practice Network“ mit dem Ziel, ein Cloud-basiertes System für Europeana und nationale Aggregatoren zu etablieren und geeignete Werkzeuge zu entwickeln, mit denen sich nicht nur beschreibende Metadaten, sondern tatsächliche digitalisierte Inhalte miteinander verknüpfen und bearbeiten lassen. Die Aufgabe der OKF DE im Projekt wird es sein, Software-Lösungen für das Bearbeiten von Metadaten und digitalisierten Objekten in einer Cloud-Infrastruktur zu entwickeln.</description>
+    </item>
+    
+    <item>
+      <title>Familienlabore</title>
+      <link>https://okfn.de/projekte/familienlabore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/familienlabore/</guid>
+      <description>Die Gestaltung von Familienleben in Deutschland hat sich in den letzten Jahrzehnten enorm gewandelt. Patchwork-Familien, Mehr-Generationen-Häuser und Haushalte von Alleinerziehenden bringen ganz unterschiedliche Anforderungen mit sich. Eine der größten Herausforderungen ist und bleibt die Vereinbarkeit von Familie und Beruf. Oder anders gefragt: Ist es wirklich notwendig, jedes Mal drei Stunden im Wartezimmer eines Arztes sitzen zu müssen? Wir denken: Das geht besser.
+Foto: Leonard Wolf, CC-BY-SA 4.0 FamilienLabore  Foto: Leonard Wolf, CC-BY-SA 4.</description>
+    </item>
+    
+    <item>
+      <title>FarmSubsidy</title>
+      <link>https://okfn.de/projekte/farmsubsidy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/farmsubsidy/</guid>
+      <description>FarmSubsidy erleichtert den Zugang zu Informationen darüber, wie die EU ihre Subventionen im Rahmen der Agrarpolitik ausgibt. Ziel ist es, detaillierte Daten über Zahlungen und Empfänger von Agrarsubventionen in jedem EU-Mitgliedstaat zu erhalten und diese Daten in einer für die europäischen Bürger nützlichen Weise zur Verfügung zu stellen.
+2017 haben wir das Projekt auf ehrenamtlicher Basis übernommen, um den Fortbestand des zu garantieren. Wir übernehmen die Bereinigung, Zusammenstellung und Präsentation der erhaltenen Daten.</description>
+    </item>
+    
+    <item>
+      <title>Frankfurt gestalten</title>
+      <link>https://okfn.de/projekte/frankfurtgestalten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/frankfurtgestalten/</guid>
+      <description>Frankfurt Gestalten war eine Plattform von und für die Bürgerinnen der Stadt Frankfurt. Wir glauben, dass es viele großartige Ideen für eine bessere Stadt gibt und wollen dabei helfen, die Menschen hinter diesen Ideen zu vernetzen. Wir dokumentieren lokalpolitische Ereignisse in der Nachbarschaft und sind ein Radar der Stadtgestaltung.</description>
+    </item>
+    
+    <item>
+      <title>ODINE</title>
+      <link>https://okfn.de/projekte/odine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/odine/</guid>
+      <description>Der Open Data Incubator for Europe (ODINE) ist ein 6-monatiger Inkubator für offene Datenunternehmer in ganz Europa. Das Programm wird mit einem Zuschuss von 7,8 Mio. € aus dem EU-Horizont 2020-Programm finanziert und wird von den sieben unten aufgeführten Partnern durchgeführt.
+ODINE hat es sich zum Ziel gesetzt, die nächste Generation von digitalen Unternehmen zu fördern und sie dabei zu unterstützen, die Entwicklung ihrer Produkte zu beschleunigen. Wir setzen uns bereits für die besten europäischen digitalen Talente ein und freuen uns auf weitere herausragende Unternehmen, die wir gründen werden.</description>
+    </item>
+    
+    <item>
+      <title>OParl</title>
+      <link>https://okfn.de/projekte/oparl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/oparl/</guid>
+      <description>Viele Kommunen, Landkreise und Regionen in Deutschland verfügen über Ratsinformationssysteme, um die Gremienarbeit im Gemeinderat, Kreistag etc. sowie den Ausschüssen und Bezirksvertretungen zu organisieren. In diesen Ratsinformationssystemen deutscher Kommunen verstecken sich viele Informationen. Einerseits wird dort die gesamte Kommunalpolitik dokumentiert – Entscheidungen, die ganz direkte Auswirkungen auf die Bewohner der Stadt haben. Möchte man Bürgerinnen und Bürger in die Politik der Stadt einbinden und ihr kreatives Potential nutzen, so ist es wichtig, Informationen bereitzustellen.</description>
+    </item>
+    
+    <item>
+      <title>Offene Daten</title>
+      <link>https://okfn.de/projekte/offenedaten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/offenedaten/</guid>
+      <description>Das Ziel von war es, den Prototyp eines Datenportals für offen zugängliche Verwaltungsdaten zu schaffen, das es bis dahin in Deutschland noch nicht in der Form gab. Offenedaten.de wurde als Datenkatalog für den Apps 4 Deutschland-Wettbewerb genutzt, der 2011 stattfand. Bei dem Programmierwettbewerb wurden aus 320 Datensätzen und 112 Ideen 77 innovative Anwendungen für die Bürgerinnen und Bürger programmiert.
+Ab 2014 enthält die Beta-Version des Portals auch die Gesamtmetadaten des Projekts Open Data Monitor.</description>
+    </item>
+    
+    <item>
+      <title>OffeneGesetze</title>
+      <link>https://okfn.de/projekte/offenegesetze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/offenegesetze/</guid>
+      <description>Die Bundesgesetzblätter sind die zentralen Dokumente der deutschen Demokratie. Unter OffeneGesetze.de sind sie jetzt erstmals frei zugänglich. Auf unserem neuen Portal stellen wir die Dokumente kostenfrei und zur freien Weiterverwendung bereit.
+Bisher sind Bundesgesetzblätter nur über die Website bgbl.de des Bundesanzeiger Verlags verfügbar. Der private Verlag verlangt für grundlegende Funktionen, zum Beispiel die Durchsuchbarkeit oder das Drucken von Gesetzblättern, Abogebühren. Eine Weiterverwendung der Dokumente untersagt der Verlag mit Verweis auf das Urheberrecht.</description>
+    </item>
+    
+    <item>
+      <title>OffeneRegister</title>
+      <link>https://okfn.de/projekte/offeneregister/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/offeneregister/</guid>
+      <description>Das Handelsregister ist das zentrale öffentliche Verzeichnis, in dem Unternehmen, Stiftungen und Vereine sich registrieren müssen. Es enthält u.a. Daten zum Sitz, Rechtsform und vertretungsberechtigten Personen.
+Die Daten aus dem Handelsregister sind zentral für das Vertrauen nicht nur in das Handelssystem, sondern auch in die Demokratie. Trotzdem sind sie von staatlicher Stelle nicht frei zugänglich.
+Gemeinsam mit OpenCorporates veröffentlichen wir erstmals das Handelsregister als Open Data.
+ Foto: Hamburg. Speicherstadt von Max Stolbinsky under CC BY 2.</description>
+    </item>
+    
+    <item>
+      <title>Offener Haushalt</title>
+      <link>https://okfn.de/projekte/offenerhaushalt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/offenerhaushalt/</guid>
+      <description>Die zentrale Aufgabe eines Parlaments ist die Aufstellung und Debatte eines Haushalts. Dieser essentielle politische Prozess entscheidet, welche Tätigkeiten der Staat ausführen kann, und welche Leistungen nicht bereitgestellt werden können. Haushaltsdaten müssen per Gesetz veröffentlicht werden. Leider ist dabei das Format nicht vorgeschrieben, was dazu führt, dass Hefte mit über 1000 Seiten gedruckt werden und im Rathaus versauern oder als PDF-Dateien auf die Webseiten gestellt werden. Dadurch bleibt ein wesentlicher Aspekt der politischen Arbeit für viele verschlossen.</description>
+    </item>
+    
+    <item>
+      <title>Open Budgets</title>
+      <link>https://okfn.de/projekte/openbudgets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/openbudgets/</guid>
+      <description>OpenBudgets ist ein EU-Horizon2020 gefördertes Projekt, das europaweit die Daten des öffentlichen Haushalts in zentraler und transparenter Form zugänglich machen möchte.
+Der derzeitige Mangel an offenen Haushalts- und Transaktionsdaten erschwert es den Bürgern und anderen Beteiligten sehr, sich einen Überblick über die öffentlichen Ausgaben zu verschaffen. Noch schwieriger erweist sich der Vergleich der Haushalte zwischen Verwaltungsregionen und anderen Regierungsebenen.
+Foto: Leonard Wolf CC-BY-SA 4.0  Foto: Leonard Wolf CC-BY-SA 4.0   Die OpenBudgets-Plattform ist für öffentliche Verwaltungen, Bürger, NGOs, Medienorganisationen, öffentliche Dienstleistungsunternehmen und Interessengruppen, die mit Steuerdaten arbeiten, konzipiert.</description>
+    </item>
+    
+    <item>
+      <title>OpenSchufa</title>
+      <link>https://okfn.de/projekte/openschufa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/openschufa/</guid>
+      <description>Du bekommst keinen Kredit, keinen Handy-Vertrag, und auch bei der Bewerbung um die schöne Wohnung ziehst Du dauernd den Kürzeren. Woran das liegt? An der SCHUFA natürlich! Wirklich? Benachteiligt die SCHUFA eine Gruppe von Menschen gegenüber einer anderen? Verstärkt sie Ungerechtigkeiten? Das wollen wir mit OpenSCHUFA herausfinden.
+Der SCHUFA-Score versucht, in wenigen Zahlen – den Scores – die finanzielle Vertrauenswürdigkeit eines Menschen zusammenzufassen. Diese werden automatisch ermittelt und sind Grundlage für weitreichende Entscheidungen.</description>
+    </item>
+    
+    <item>
+      <title>Politik Bei Uns</title>
+      <link>https://okfn.de/projekte/politikbeiuns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/politikbeiuns/</guid>
+      <description>Das offene Ratsinformationssystem „Politik Bei Uns“ stellt Informationen und Vorgänge aus Rat und Verwaltung nutzerfreundlich dar, damit Bürgerinnen und Bürger politische Entscheidungen nachvollziehen können und frühzeitig mitbestimmen können. Unser Projekt stellt als eine Art Datenmarktplatz Rats- und Verwaltungsdaten Drittentwicklern zur Verfügung, so dass sie ohne großen Aufwand weitere Applikationen bauen können. Neben der Politik, der Zivilgesellschaft und den Journalisten profitiert auch die Wissenschaft von strukturierten und somit analysierbaren Daten.
+Wer Politik mitgestalten möchte, muss gut informiert ist.</description>
+    </item>
+    
+    <item>
+      <title>Refugeephrasebook</title>
+      <link>https://okfn.de/projekte/refugeephrasebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/refugeephrasebook/</guid>
+      <description>Refugeephrasebook bietet eine Sammlung von hilfreichen Phrasen, Vokabeln und Links für Geflüchtete und Helfer, um Ankommende bei der Orientierung nach der Einreise zu unterstützen. Ein Netzwerk von Freiwilligen übersetzt Vokabular zur ersten Orientierung mit einem Grundwortschatz sowie medizinischen und juristischen Themen in 44 Sprachen. Die Übersetzungen und Ressourcen werden als offene Daten und als druckfertige Dateien zur Verfügung gestellt. Sämtliche Materialien sind unter einer offenen Lizenz verfügbar. Flüchtlingsinitiativen, Designer und Helfer können die Daten kostenfrei nutzen und anpassen, um eigene Versionen zu erstellen und diese für Hilfsprojekte verwenden.</description>
+    </item>
+    
+    <item>
+      <title>Stadt Land Code</title>
+      <link>https://okfn.de/projekte/stadtlandcode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/stadtlandcode/</guid>
+      <description>Mit dem Projekt „Stadt Land Code“ haben wir EntwicklerInnen dazu aufgerufen, nützliche digitale Anwendungen für den öffentlichen Bereich zu erstellen. Diese sollen zur kreativen Weiterentwicklung von Konzepten zur Bürgerbeteiligung und transparentem Verwaltungs- und Regierungshandeln beitragen.
+Beispiele für solche Anwendungen sind etwa: fixmystreet.com oder Every Block. Dazu unterstützen wir Entwicklerteams mit guten Konzepten mit finanzieller Starthilfe in Form von Stipendien und laden sie zu einem Camp mit Workshops nach Berlin ein.</description>
+    </item>
+    
+    <item>
+      <title>Transparenzranking</title>
+      <link>https://okfn.de/projekte/transparenzranking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/transparenzranking/</guid>
+      <description>Gemäß Artikel 5 Grundgesetz hat jede Person das Recht, sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Das hört sich erst einmal vielversprechend an. Doch lange Zeit mangelte es an allgemein zugänglichen Quellen. Erst um die Jahrtausendwende wagten viele deutsche Bundesländer einen großen Schritt: Informationsfreiheit war das Gebot der Stunde. Durch Informationsfreiheitsgesetze verpflichteten in Berlin und Brandenburg die ersten Landtage kommunale Verwaltungen und Landesbehörden zur Abkehr vom bislang geltenden Amtsgeheimnis.</description>
+    </item>
+    
+    <item>
+      <title>Volksentscheid Transparenz Berlin</title>
+      <link>https://okfn.de/projekte/volksentscheid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/volksentscheid/</guid>
+      <description>Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Ein konkreter Entwurf wird bislang jedoch nicht erarbeitet. Das möchten wir ändern. Wir haben gemeinsam mit zivilgesellschaftlichen Partnern einen Entwurf für ein Berliner Transparenzgesetz geschrieben. Im Rahmen eines Volksentscheids setzen wir bis 2021 den Gesetzentwurf für ganz Berlin durch.
+Das Transparenzgesetz verpflichtet Senat und Behörden für die Öffentlichkeit wichtige Informationen offenzulegen. Dazu gehören unter anderem Senatsbeschlüsse, geheime Verträge mit Unternehmen, Gutachten z.</description>
+    </item>
+    
+    <item>
+      <title>Wahl.Daten.Helfer.</title>
+      <link>https://okfn.de/projekte/wahldatenhelfer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/wahldatenhelfer/</guid>
+      <description>Der „Wahl.Daten.Helfer.“ war ursprünglich eine Plattform, auf der Hackathons zu Wahlen angekündigt werden können. Wir wollten uns nicht nur treffen, um uns mit den aktuellen Wahldaten auseinanderzusetzen, sondern auch für bevorstehende Wahlen Toolsets und Apps zu entwickeln, die leicht adaptiert und so z.B. für die Europawahl genutzt und weiterverwendet werden können.
+Das Projekt wurde als Community-Projekt mit einem erweiterten Fokus weitergeführt. Der Wahl.Daten.Helfer hilft nun dabei, dir die Möglichkeit geben, sich über Parteien und ihre Programme zu informieren.</description>
+    </item>
+    
+    <item>
+      <title>edulabs</title>
+      <link>https://okfn.de/projekte/edulabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/edulabs/</guid>
+      <description>edulabs versteht sich als überregionaler Inkubator, in dem Menschen ihre didaktischen, technischen und gestalterischen Fähigkeiten einsetzen, um zusammen innovative und nachnutzbare Bildungsmaterialien zu entwickeln. Dabei arbeitet das Projekt auf drei Ebenen: Konzeptentwicklung, Bereitstellung und Bewerbung von freien Bildungsmaterialien sowie Community Building und Support. Deutschlandweit organisiert edulabs Treffen von interdisziplinären Teams, bei denen freie Bildungsmaterialien (OER) und digital gestützte Methoden evaluiert, erstellt, dokumentiert und verbessert werden. Die Lab-Community wird redaktionell, didaktisch, technisch, sowie bei der Organisation von Events unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>https.jetzt</title>
+      <link>https://okfn.de/projekte/httpsjetzt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/httpsjetzt/</guid>
+      <description>https.jetzt! ist ein Projekt, um zu zeigen, wie viele Behördenwebseiten HTTPS unterstützen. Wieso ist eine Verschlüsselung von Websites wichtig? Jede nicht verschlüsselte Übertragung von Daten kann im Internet abgefangen und somit auch manipuliert werden. Deshalb leuchtet wohl unmittelbar ein, dass jede Übertragung sensibler Daten, etwa bei Bestellungen in Online-Shops, beim Online-Banking oder auch bei Logins auf Websites mit nicht-öffentlichen Inhalten nur verschlüsselt erfolgen sollte. Für den User bedeutet das: Im Zweifel, etwa bei der Benutzung von Online-Bestellformularen, sollte man immer in der Adresszeile prüfen, ob dort eine verschlüsselte Übertragung angezeigt wird.</description>
+    </item>
+    
+    <item>
+      <title>kleineAnfragen</title>
+      <link>https://okfn.de/projekte/kleineanfragen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/kleineanfragen/</guid>
+      <description>Das Fragerecht ist ein wichtiges Recht der Abgeordneten – und ein häufig genutztes parlamentarisches Kontrollinstrument. Allein im Bundestag werden pro Wahlperiode tausende kleine Anfragen gestellt, die von der Regierung schriftlich beantwortet werden müssen. Nimmt man die Anfragen in den Länderparlamenten hinzu, ist dies ein riesiger, aber in den verschiedenen Onlinearchiven verstreuter Fundus nützlicher Informationen. Auf kleineanfragen.de sammelt und bündeln wir diese Dokumente und machen sie so – als Beitrag zu Transparenz und Partizipation – leichter für die Öffentlichkeit zugänglich.</description>
+    </item>
+    
+    <item>
+      <title>sehrGutachten</title>
+      <link>https://okfn.de/projekte/sehrgutachten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/sehrgutachten/</guid>
+      <description>Nach der Kampagne #FragDenBundestag von FragDenStaat und Abgeordnetenwatch entschied der Bundestag, die Gutachten seines Wissenschaftlichen Dienstes online zu veröffentlichen. Über FragDenBundestag.de haben in den letzten drei Wochen tausende Nutzerinnen Gutachten angefragt, die der Bundestag nach dem Informationsfreiheitsgesetz (IFG) herausgeben muss.
+Die Dokumente sind allerdings nicht aufbereitet – die Aufstellung ist unübersichtlich und nicht durchsuchbar. Deswegen gibt es sehrgutachten: Auf dieser Seite stellen wir die Gutachten strukturiert dar und machen sie auch im Volltext durchsuchbar.</description>
+    </item>
+    
+  </channel>
+</rss>

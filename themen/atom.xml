@@ -1,0 +1,57 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://okfn.de/themen/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Offene Daten</title>
+    <link rel="alternate" href="https://okfn.de/themen/open_data/"/>
+    <id>https://okfn.de/themen/open_data/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Offene Daten sind Daten, die von jedermann frei verwendet, nachgenutzt und verbreitet werden können – maximal eingeschränkt durch Pflichten zur Quellennennung und dem Prinzip des „share-alike&amp;rdquo;, d.h. Daten nur unter unveränderten urheberrechtlichen Nutzungsmöglichkeiten zu teilen. Davon ausgenommen sind persönliche Daten.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Civic Tech</title>
+    <link rel="alternate" href="https://okfn.de/themen/civic_tech/"/>
+    <id>https://okfn.de/themen/civic_tech/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Civic Tech will neue Technologien und digitale Innovationen mit Regierungen und Verwaltungen zusammenführen, um zivilgesellschaftliche Interessen mit neuen und partizipativen Möglichkeiten besser umzusetzen. Offene Daten sind in vielen Fällen Fundament der dabei entwickelten Anwendungen, Werkzeuge und Dienste.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Offenes Regierungshandeln</title>
+    <link rel="alternate" href="https://okfn.de/themen/offenes_regierungshandeln/"/>
+    <id>https://okfn.de/themen/offenes_regierungshandeln/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Das Konzept von „Open Government&amp;rdquo; meint, das Handeln von Regierungen und Verwaltungen auf nationaler und regionaler Ebene gegenüber der Zivilgesellschaft und der Wirtschaft zu öffnen. Im deutschen Sprachraum wird daher auch der Begriff „Offenes Regierungshandeln“ verwendet.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Offene Bildung</title>
+    <link rel="alternate" href="https://okfn.de/themen/bildung/"/>
+    <id>https://okfn.de/themen/bildung/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Offene Bildung ist ein Überbegriff für all jene schulische und außerschulische Initiativen, die Bildung partizipativ, offen sowie im Sinne der Ideen von „digitaler Bildung&amp;rdquo; und „zeitgemäßer Bildung&amp;rdquo; gestalten. Sie wollen Bildung als Gemeingut fördern und stellen selbstgesteuertes und kompetenzorientiertes Lernen in den Fokus.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Informationsfreiheit</title>
+    <link rel="alternate" href="https://okfn.de/themen/informationsfreiheit/"/>
+    <id>https://okfn.de/themen/informationsfreiheit/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Informationsfreiheit ist das Recht auf freien Zugang zu amtlichen Informationen. Sie ist eines der wichtigsten Grundrechte für die Wissensgesellschaft und ergibt sich aus Artikel 5 des Grundgesetzes zur Meinungs- und Informationsfreiheit.&lt;/p&gt;</summary>
+  </entry>
+  
+</feed>

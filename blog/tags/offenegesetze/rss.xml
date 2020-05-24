@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Offenegesetze on OKF</title>
+    <link>https://okfn.de/blog/tags/offenegesetze/</link>
+    <description>Recent content in Offenegesetze on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/offenegesetze/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OffeneGesetze: Opening Germany&#39;s Law Gazette (Update)</title>
+      <link>https://okfn.de/blog/2018/12/opening-laws-in-germany/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2018/12/opening-laws-in-germany/</guid>
+      <description>Update, 12/24/2018: In response to OffeneGesetze, the German Ministry of Justice has announced that it will create a digital legislative process in the coming years. The ministry is creating a platform on which federal law gazettes &amp;ldquo;can also be freely printed, searched and re-used&amp;rdquo;. There should be unrestricted access, the Justice Minister Katarina Barley said.
+The Federal Law Gazettes are the central documents of German democracy. To pass a law, it has to be published in the Law Gazette.</description>
+    </item>
+    
+    <item>
+      <title>OffeneGesetze: Zentrale Dokumente der Demokratie erstmals frei zugänglich (Update)</title>
+      <link>https://okfn.de/blog/2018/12/offenegesetze/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2018/12/offenegesetze/</guid>
+      <description>Update, 24.12.2018: Das Justizministerium hat als Reaktion auf OffeneGesetze bekanntgegeben, künftig ein digitales Gesetzgebungsverfahren zu schaffen. Das Ministerium schaffe eine Plattform, auf der Bundesgesetzblätter &amp;ldquo;auch frei ausgedruckt, durchsucht und weiterverwendet werden können.&amp;rdquo; Es solle einen uneingeschränkten Zugang geben.
+Die Bundesgesetzblätter sind die zentralen Dokumente der deutschen Demokratie. Unter OffeneGesetze.de sind sie jetzt erstmals frei zugänglich. Auf unserem neuen Portal stellen wir die Dokumente kostenfrei und zur freien Weiterverwendung bereit.
+Bisher sind Bundesgesetzblätter nur über die Website bgbl.</description>
+    </item>
+    
+    <item>
+      <title>Die erzwungene Öffnung der juris-Datenbank</title>
+      <link>https://okfn.de/blog/2013/06/die-erzwungene-oeffnung-der-juris-datenbank/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/06/die-erzwungene-oeffnung-der-juris-datenbank/</guid>
+      <description>Verwaltungsgerichtshof Baden-Württemberg (CC BY-SA 3.0)
+Von der großen Öffentlichkeit unbemerkt läuft seit einigen Jahren ein Verfahren zwischen der Bundesrepublik Deutschland, vertreten durch das Bundesverfassungsgericht und der LeXxpress-GmbH. Die Firma LeXxpress klagte darauf im gleichen Maße wie der Mitbewerber die juris GmbH mit Urteilen und deren Begründungen des Gerichts beliefert zu werden. Im Kern des Verfahrens geht es um die Dokumentation und Aufbereitung der Entscheidungen und Entscheidungsbegründungen des höchsten deutschen Gerichts. Dieses schloss 1991 einen Vertrag mit der juris-GmbH über die alleinige &amp;ldquo;automatisierte Rechtsdokumentation&amp;rdquo; seiner wegweisenden Gerichtsentscheidungen.</description>
+    </item>
+    
+    <item>
+      <title>Bundes-Git – German Laws on GitHub</title>
+      <link>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</link>
+      <pubDate>Fri, 04 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</guid>
+      <description>If you compare software code and legislation you can find many similarities: both are big bodies of text spread over multiple units (laws/files). The total amount of text inevitably grows bigger over time with many small changes to existing parts while most of the corpus stays the same.
+However, the tooling and editing process for these domains is very different: while developers are in the fortunate position that they can build and improve their own tools, legislators are stuck with proprietary tools like MS Word that are simply not built to collaboratively work on a big corpus of text.</description>
+    </item>
+    
+  </channel>
+</rss>

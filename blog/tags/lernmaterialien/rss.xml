@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lernmaterialien on OKF</title>
+    <link>https://okfn.de/blog/tags/lernmaterialien/</link>
+    <description>Recent content in Lernmaterialien on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 27 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/lernmaterialien/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Für offene Lehr- und Lernmaterialien auf dem OER-Festival 2016 in Berlin</title>
+      <link>https://okfn.de/blog/2016/02/oer-camp/</link>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/02/oer-camp/</guid>
+      <description>Mit dem Internet ist das Angebot an Bildungsmöglichkeiten stark gewachsen. Das Potential der digitalen Bildungsmaterialien wird derzeit jedoch noch lange nicht ausgeschöpft. Das OER-Festival setzt hier an und will durch ein vielseitiges Programm die bisherigen Erfolge in dem Bereich feiern und die nächste Phase der OER-Entwicklung erarbeiten.
+Das OER-Festival 2016 #OERde16 macht die Breite und Vielfalt von Open Educational Resources sichtbar. Das „de“ in #OERde16 steht dabei nicht für „Deutschland“, sondern für „deutschsprachig“.</description>
+    </item>
+    
+  </channel>
+</rss>

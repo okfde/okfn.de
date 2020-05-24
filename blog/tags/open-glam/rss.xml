@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Glam on OKF</title>
+    <link>https://okfn.de/blog/tags/open-glam/</link>
+    <description>Recent content in Open Glam on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 27 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/open-glam/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anmeldung für Coding da Vinci in Berlin geöffnet</title>
+      <link>https://okfn.de/blog/2017/09/anmeldung-codingdavinci/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/09/anmeldung-codingdavinci/</guid>
+      <description>Wir möchten euch herzlich zum 4. Kultur-Hackathon &amp;ldquo;Coding da Vinci&amp;rdquo; in Berlin einladen! Um was es geht: Kulturinstitutionen aus Deutschland stellen Daten zu ihren Sammlungsbeständen als frei zur Verfügung. Gemeinsam mit Kulturinteressierten, Entwickler*innen und Designer*innen wollen wir dieses vielfältige Kulturerbe in neue Kontexte setzen.
+Coding da Vinci dauert insgesamt 6 Wochen, die Auftaktveranstaltung findet am 21./22. Oktober statt, die Preisverleihung am 2. Dezember. Dazwischen haben die Teams und Kulturinstitutionen Zeit, ihre Ideen und Projekte weiterzuentwickeln.</description>
+    </item>
+    
+    <item>
+      <title>Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe, 5.-6. Nov. 2015 in Hamburg</title>
+      <link>https://okfn.de/blog/2015/08/blogpost-zugang-gestalten/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2015/08/blogpost-zugang-gestalten/</guid>
+      <description>Liebe Freunde des freien Wissens,
+die fortschreitende Digitalisierung bietet vielen Institutionen und Initiativen die Chance, den Zugang zum kulturellen Erbe zu erleichtern und damit einen wichtigen Beitrag zur Wissensgesellschaft der Zukunft zu leisten. Mit welchen Konzepten jedoch antworten Archive, Museen und Bibliotheken, aber auch andere Initiativen wie die Wikipedia auf diese Herausforderungen und welchen Beitrag wollen und sollen Unternehmen dazu leisten?
+Nachdem bereits in den vergangenen Jahren über das kulturelle Erbe in der digitalen Welt diskutiert wurde, geht es auf der diesjährigen internationalen Konferenz Zugang gestalten!</description>
+    </item>
+    
+    <item>
+      <title>Zugang gestalten! - Wrap-up</title>
+      <link>https://okfn.de/blog/2014/12/zugang-gestalten-wrap-up/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2014/12/zugang-gestalten-wrap-up/</guid>
+      <description>Über 300 Besucher dieses Jahr, CC-BY Hansgeorg Schöner
+Unterm Strich: Bilanz von Digitalisierungsprojekten ziehen
+Mit einem Tusch ging “Zugang gestalten!”, die Konferenz rund um die Digitalisierung unseres Kulturerbes in die vierte Runde: Dieses Mal haben wir uns mit dem auseinandergesetzt, was unterm Strich bleibt: Erfolge, Herausforderungen und Erfahrungen aus den vergangenen großen und kleinen Digitalisierungsprojekten.
+Digitalisierungsstraße, CC-BY Hansgeorg Schöner
+Neben den vielen internationalen Sprechern war die Werkschau im Naturkundemuseum ein echtes Highlight: Besucher konnten sich eine Digitalisierungsstraße ansehen und anschließend zahlreiche erfolgreiche Projekte im openGLAM-Bereich (Galerien, Libraries, Archives, Museums) kennenlernen.</description>
+    </item>
+    
+    <item>
+      <title>Coding da Vinci - Kultur-Hackathon geht in die erste Runde</title>
+      <link>https://okfn.de/blog/2014/05/kultur-hackathon-erste-runde/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2014/05/kultur-hackathon-erste-runde/</guid>
+      <description>“Alles so schön Kultur hier…” schreibt Julian Kücklich an die Papierrolle, an der er den Hackathon grafisch mitverfolgt. Kein Wunder, denn mit viel Kaffee und Mate ging unser Kultur-Hackathon Coding da Vinci am 26./27. April in die erste Runde. Teilnehmer/innen stellten sich der Challenge, aus 20 offenen Datensets Projekte für den Kulturbereich zu entwickeln.
+150 Teilnehmer/innen und 11 Kulturinstitutionen aus ganz Deutschland hatten die Gelegenheit, miteinander ins Gespräch zu kommen und anschließend gemeinsam Projektideen zu entwickeln.</description>
+    </item>
+    
+    <item>
+      <title>Coding da Vinci - Der Kultur-Hackathon</title>
+      <link>https://okfn.de/blog/2014/03/coding-da-vinci/</link>
+      <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2014/03/coding-da-vinci/</guid>
+      <description>Kennt ihr gute Apps, Dienste oder Visualisierungen mit offenen Kulturdaten? Nein? Gemeinsam mit euch wollen wir das ändern und laden zu [Coding da Vinci](http://codingdavinci.de/), dem ersten deutschen Kultur-Hackathon nach Berlin ein!
+Coding da Vinci möchte aus ganz Deutschland kulturbegeisterte Entwickler-, Designer- und Gamer/innen mit Kulturinstitutionen zusammenbringen, um gemeinsam nachhaltige Anwendungen, Visualisierungen und Apps mit offenen Kulturdaten zu entwickeln. Ziel ist es, das Potenzial der digitalen Kulturschätze aufzuzeigen und auch Daten im Kulturbereich offen zugänglich und nachnutzbar zu machen.</description>
+    </item>
+    
+    <item>
+      <title>Zugang gestalten - Ein Rückblick</title>
+      <link>https://okfn.de/blog/2013/12/zugang-gestalten-ein-rueckblick/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/12/zugang-gestalten-ein-rueckblick/</guid>
+      <description>Die Konferenz geht in die dritte Runde
+Am 28./29. November fand die zwei-tägige Konferenz &amp;ldquo;Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe&amp;rdquo; im Jüdischen Museum Berlin statt.
+Zusammen mit dem Publikum und zahlreichen Experten aus Kultur, Politik und Wirtschaft diskutierten wir online und offline über Chancen, Hindernisse und Herausforderungen, aber auch darüber, warum der Zugang zum kulturellen Erbe eine öffentliche Aufgabe sein sollte.
+Foto: David Jacob, CC-BY-SA
+Wer war da und Was waren die Highlights?</description>
+    </item>
+    
+    <item>
+      <title>Konferenz „Zugang gestalten&#34; Livestream</title>
+      <link>https://okfn.de/blog/2013/11/konferenz-zugang-gestalten-livestream/</link>
+      <pubDate>Thu, 28 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/11/konferenz-zugang-gestalten-livestream/</guid>
+      <description>Heute und morgen findet im Jüdischen Museum Berlin die Konferenz „Zugang gestalten! – „Mehr Verantwortung für das kulturelle Erbe” statt. Wir von der Open Knowledge Foundation Deutschland sind natürlich auch mit dabei. Soeben haben drei Teilnehmer von „Jugend hackt&amp;rdquo; ihr Projekt „Plate Collect&amp;rdquo; vorgestellt. Mehr spannenden Sessions zum Thema kulturelles Erbe, den Aufgaben des Staates und den Einfluss neuer Techniologien kann man entweder vor Ort oder über den Live Straem verfolgen.</description>
+    </item>
+    
+    <item>
+      <title>Einladung zur Konferenz &#34;Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe&#34;</title>
+      <link>https://okfn.de/blog/2013/10/einladung-zur-konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/</link>
+      <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/10/einladung-zur-konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/</guid>
+      <description>Wir möchten Euch herzlich zur 3. Internationalen Konferenz “Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe”, am 28. und 29. November im Jüdischen Museum Berlin, einladen!
+Das zweitägige Programm beinhaltet internationale Beispiele kultureller Institutionen im Zeitalter der Digitalisierung, Diskussionen zum Thema Selbstverständnis, rechtliche Rahmenbedingungen und kulturpolitische Positionen.
+Zwei Tage lang werden Expertinnen und Experten aus Kultur, Wirtschaft, Zivilgesellschaft und Politik aktuelle Fragen des Zugangs zum kulturellen Erbe erörtern. Dazu präsentieren Vertreterinnen und Vertreter kultureller Institutionen neue Sichtweisen und innovative Projekte.</description>
+    </item>
+    
+    <item>
+      <title>Aktivitäten und Projekte im August 2013</title>
+      <link>https://okfn.de/blog/2013/09/aktivitaten-und-projekte-im-august-2013/</link>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/09/aktivitaten-und-projekte-im-august-2013/</guid>
+      <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
+Tagesausflug der Open Knowledge Foundation Deutschland (CC-BY)
+Rückblick in den August
+Mit Sekt, Grillgut und viel guter Laune haben wir eine Bootstour auf dem Müggelsee gemacht und sind dabei gehörig in Urlaubsstimmung gekommen. Zurück im Büro ging es mit unseren laufenden Projekten weiter: Für „Code for All” haben wir die Webseite überarbeitet und mit einem neuen Design versehen. Wir sind noch auf der Suche nach Partnern und Unterstützern und freuen uns über euer Interesse.</description>
+    </item>
+    
+    <item>
+      <title>Berliner Appell zum Erhalt des digitalen Kulturerbes - mitzeichnen!</title>
+      <link>https://okfn.de/blog/2013/09/berliner-appell-zum-erhalt-des-digitalen-kulturerbes/</link>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/09/berliner-appell-zum-erhalt-des-digitalen-kulturerbes/</guid>
+      <description>Der Berliner Appell zum Erhalt des digitalen Kulturerbes unsere Gesellschaft ist eine Liste mit 11 Forderungen an Politik und Gedächtnisinstitutionen. Das Wissen unserer Tage wie die Kultur unserer Gesellschaft werden zunehmend mittels elektronischer Medien gespeichert und sollen über diese überliefert werden. Die Bewahrung dieses Wissens und dieser Kultur steht auf tönernen Füßen. Die Bereitschaft, auch in der elektronischen Welt in die Bestandserhaltung zu investieren, ist nicht sehr groß. Die Einsicht in die Notwendigkeit, die Prozesse der digitalen Langzeitarchivierung nachhaltig und dauerhaft zu finanzieren, ist noch nicht ausgeprägt.</description>
+    </item>
+    
+    <item>
+      <title>Aktivitäten und Projekte im Juni 2013</title>
+      <link>https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/</link>
+      <pubDate>Mon, 08 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/</guid>
+      <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
+ Rückblick in den Juni
+Die ersten Ergebnisse des weltweiten Open Data Census haben gezeigt, dass die vorgestellte &amp;ldquo;Open Data Charta&amp;rdquo; der G8 Staaten nur ein erster Schritt in die richtige Richtung ist.
+Voran gegangen sind die Kommunen Moers und Bochum in denen wir, gemeinsam mit der Initiative OpenRuhr, die offenen Ratsinformationssysteme moers.ris.openruhr.de und bochum.ris.openruhr.de veröffentlichten.
+In Berlin wurde beim Open Data Day die erfolgreiche Entwicklung der Stadt in Richtung mehr Verwaltungstransparenz gewürdigt, aber auch hitzig über aktuelle Streitfragen, wie die neuen deutschen Lizenzmodelle, diskutiert.</description>
+    </item>
+    
+    <item>
+      <title>Open Data auf der re:publica 2013</title>
+      <link>https://okfn.de/blog/2013/05/open-data-auf-der-republica-2013/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/05/open-data-auf-der-republica-2013/</guid>
+      <description>In der letzten Woche fand in Berlin wieder die re:publica statt. Einen guten Überblick über alle aufgezeichneten Vorträge hat Michael Kreil hier erstellt.
+Besonders den Montag bezeichneten wir intern als Open Data Day. Acht Vorträge handelten im weitesten Sinne von offene Daten und wurden von Aktivisten und OKF-Mitgliedern aus aller Welt gehalten. Besonders hinweisen möchten wir auf den Vortrag von Julia und Stefan - &amp;ldquo;Open Data - Was hat das mit mir zu tun?</description>
+    </item>
+    
+    <item>
+      <title>Save the date: Konferenz Zugang gestalten! 28./29. November 2013</title>
+      <link>https://okfn.de/blog/2013/04/save-the-date-konferenz-zugang-gestalten-28-29-november-2013/</link>
+      <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/04/save-the-date-konferenz-zugang-gestalten-28-29-november-2013/</guid>
+      <description>Save the date: 28./29. November 2013: Konferenz „Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe“ im Jüdischen Museum in Berlin. Der Diskurs geht weiter!
+Nachdem in den vergangenen beiden Jahren das Ob und das Wie der Digitalisierung des Kulturellen Erbes diskutiert wurde, stellt die Konferenz “Zugang gestalten! – Mehr Verantwortung für das kulturelle Erbe” in diesem Jahr die Frage nach dem Warum. Im Rahmen der dritten Konferenz der Reihe soll eine Rückbesinnung auf die zentralen Werte der Gedächtnisinstitutionen im Vordergrund stehen.</description>
+    </item>
+    
+    <item>
+      <title>Konferenz Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe</title>
+      <link>https://okfn.de/blog/2012/09/konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/09/konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/</guid>
+      <description>Öffentlich finanzierte Archive, Museen und Bibliothe- ken sind wichtige Hüter des kulturellen Erbes.
+22. und 23. Oktober 2012, 10:00 – 18:00 Uhr
+Jüdisches Museum Berlin Lindenstraße 9–14, 10969 Berlin
+Allerdings stellen sich ihnen im digitalen Zeitalter viele Fragen neu: Wie gestalten Gedächtnisinstitutionen den Zugang zu den Schätzen, die dort erschlossen, restau- riert und bewahrt werden? Heißt »freier Zugang« auch »kostenfreier Zugang«? Wie ändern sich im Informati- onszeitalter Anforderungen und Selbstverständnis von Gedächtnisinstitutionen?</description>
+    </item>
+    
+    <item>
+      <title>Zugang gestalten!</title>
+      <link>https://okfn.de/blog/2012/08/zugang-gestalten/</link>
+      <pubDate>Mon, 20 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/08/zugang-gestalten/</guid>
+      <description>Mehr Verantwortung für das kulturelle Erbe Öffentlich finanzierte Archive, Museen und Bibliotheken sind wichtige Hüter des kulturellen Erbes. Aber wie gestalten sie den Zugang zu den Schätzen, die dort erschlossen, restauriert und bewahrt werden? Heißt „freier Zugang“ auch „kostenfreier Zugang“? Wie ändern sich im Informationszeitalter Anforderungen und Selbstverständnis von Gedächtnisinstitutionen? Welche Rolle spielen partizipative Initiativen wie Wikipedia; welche Bedeutung hat die Privatwirtschaft? Warum wird beim Zugang zum kulturellen Erbe oft in kommerzielle und nicht-kommerzielle Nutzungen unterschieden?</description>
+    </item>
+    
+    <item>
+      <title>Hack4Europe! 2012 Berlin</title>
+      <link>https://okfn.de/blog/2012/04/hack4europe-2012-berlin/</link>
+      <pubDate>Thu, 26 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/04/hack4europe-2012-berlin/</guid>
+      <description>Hack4Europe! is a series of hack days organised by the Europeana Foundation and its partners and provides an exciting environment to explore the potential of open cultural data for social and economic growth in Europe. To feel the atmosphere to the event you can read a short summary of one of the events from the last year edition. See the Video from 2011 events:
+Hack4Europe! Road Show, 7-11 June 2011 from europeana on Vimeo.</description>
+    </item>
+    
+    <item>
+      <title>Open GLAM Workshop in Berlin</title>
+      <link>https://okfn.de/blog/2012/04/open-glam-workshop-in-berlin/</link>
+      <pubDate>Wed, 04 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/04/open-glam-workshop-in-berlin/</guid>
+      <description>Nach dem positiven Feedback zu unserem Open GLAM Workshop in London freuen wir uns nun auch einen Workshop in Berlin ankündigen zu dürfen.
+Der Workshop zum Thema Rechtliche Fragen beim Öffnen von (Meta-) Daten Gedächtnisinstitutionen wird Ende April in der Staatsbibliothek Berlin stattfinden. Vertreter von Creative Commons, der Wikimedia Foundation, von Europeana, der Staatsbibliothek und anderen Kulturinstitutionen, haben ihr Kommen bereits bestätigt.
+Mehr Informationen und Details zum Workshop finden Sie im unteren Teil dieser Nachricht.</description>
+    </item>
+    
+  </channel>
+</rss>

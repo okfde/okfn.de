@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code for All on OKF</title>
+    <link>https://okfn.de/blog/tags/code-for-all/</link>
+    <description>Recent content in Code for All on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 09 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/code-for-all/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code for America Summit 2016: A Round-Up</title>
+      <link>https://okfn.de/blog/2016/11/cfasummit/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/11/cfasummit/</guid>
+      <description>The sixth Code for America Summit took place November 1-3, 2016 in Oakland, CA. This annual conference is an opportunity for the civic tech community to meet, discuss, and take stock of the year&amp;rsquo;s successes and setbacks. Code for Germany also attended the summit, along with many other allies from the Code for All family. Here is our digest for those who couldn&amp;rsquo;t be there.
+5 New Ideas &amp;quot;The true measure of change isn&amp;#39;t having better websites; it&amp;#39;s about getting to better outcomes.</description>
+    </item>
+    
+    <item>
+      <title>Code for All – Open Knowledge Foundation Deutschland meets Code for America</title>
+      <link>https://okfn.de/blog/2013/08/open-knowledge-foundation-deutschland-meets-code-for-america/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/08/open-knowledge-foundation-deutschland-meets-code-for-america/</guid>
+      <description>Anfang Juli war ein Teil des OKF DE Teams zu Gast bei Code for America in San Francisco. Vor Ort hatten wir Gelegenheit uns intensiv mit dem Code for America Team auszutauschen und interessante Einblicke in das Programm zu bekommen. Diese Einblicke und den Grund unseres Treffens wollen wir euch natürlich nicht vorenthalten, es folgt ein kurzer Bericht.
+&amp;ldquo;Code for All&amp;rdquo; Teampic
+Was ist Code for America?
+Code for America ist eine NGO die 2009 in San Francisco gegründet wurde.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on OKF</title>
+    <link>https://okfn.de/categories/community/</link>
+    <description>Recent content in Community on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://okfn.de/categories/community/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apps and the city</title>
+      <link>https://okfn.de/projekte/appsandthecity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/appsandthecity/</guid>
+      <description>Unter dem Namen &amp;ldquo;Apps and the City&amp;rdquo; hat die OKF Deutschland gemeinsam mit den Berliner Verkehrsbetrieben (BVG) und dem Verkehrsverbund Berlin-Brandenburg (VBB) zu einem Entwicklertag zum Thema Nahverkehr eingeladen. An diesem Tag erarbeiteten Entwicklerinnen und Softwareexperten sowie Designerinnen und Designer gemeinnützig sinnvolle Anwendungen für die Fahrgäste mit den offenen Datensätzen der Verkehrsbetriebe.</description>
+    </item>
+    
+    <item>
+      <title>Demokratielabore</title>
+      <link>https://okfn.de/projekte/demokratielabore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/demokratielabore/</guid>
+      <description>Wie können wir Kinder und Jugendliche heute befähigen, zu Gestaltenden unserer Gesellschaft von morgen zu werden? Was macht Jugendliche als Akteurinnen sichtbarer? Welche Rolle spielen hierbei digitale Mittel? Und wie gelingt Teilhabe auf digitaler und sozialer Ebene?
+Um diese und andere Fragen zu beantworten, haben wir mit den Demokratielaboren verschiedene Workshopformate und Materialien entwickelt, um einer breiten Zielgruppe von Kindern und Jugendlichen zu Selbstwirksamkeitserfahrungen im Bereich von Demokratie und Technologie zu verhelfen.</description>
+    </item>
+    
+    <item>
+      <title>Energyhack</title>
+      <link>https://okfn.de/projekte/energyhack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/energyhack/</guid>
+      <description>Der Energyhack ist ein Hackathon rund um offene Energiedaten. Unser Energieangebot und die Wege der Erzeugung sind vielfältig. Doch wie wird Energie verteilt und wie schaffen wir es, dass mehr Informationen zwischen Geräten der Erzeuger und Verbraucher ausgetauscht werden?
+Entwicklerinnen, Designer, Forscherinnen und innovative Vordenker der Energiebranche entwickeln in 24h Ideen, entwerfen Hardware und Prototypen oder programmieren neue Apps. Als Datenbasis standen den Teilnehmerinnen die Daten aus dem Open Data Portal Netzdaten-Berlin zur Verfügung.</description>
+    </item>
+    
+    <item>
+      <title>Jugend hackt</title>
+      <link>https://okfn.de/projekte/jugendhackt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/jugendhackt/</guid>
+      <description>Jugend hackt ist ein Programm für junge Menschen, die mit ihren technischen Fähigkeiten die Welt verbessern wollen. Unterstützt von ehrenamtlichen Mentor*innen entwickeln unsere Teilnehmer*innen digitale Werkzeuge, Prototypen und Konzepte für eine bessere Zukunft. Unser Angebot umfasst Hackathon-Events in vielen Städten, regionale Labs, eine Online Community und internationale Austauschprogramme.
+Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend hackt um mehr als nur Programmieren lernen: Wir begreifen Technik als ein Mittel zu gesellschaftlicher Veränderung.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frauentag on OKF</title>
+    <link>https://okfn.de/blog/tags/frauentag/</link>
+    <description>Recent content in Frauentag on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/frauentag/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neu: FamilienLabore für bessere Vereinbarkeit von Familie und Beruf</title>
+      <link>https://okfn.de/blog/2017/03/familienlabore-gestartet/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/03/familienlabore-gestartet/</guid>
+      <description>Die Gestaltung von Familienleben in Deutschland hat sich in den letzten Jahrzehnten enorm gewandelt. Patchwork-Familien, Mehr-Generationen-Häuser und Haushalte von Alleinerziehenden bringen ganz unterschiedliche Anforderungen mit sich. Eine der größten Herausforderungen ist und bleibt die Vereinbarkeit von Familie und Beruf. Oder anders gefragt: Ist es wirklich notwendig, jedes Mal drei Stunden im Wartezimmer eines Arztes sitzen zu müssen?
+Wir denken: Das geht besser. Und haben in Zusammenarbeit mit dem Design Research Lab und dem Bundesministerium für Familien, Senioren, Frauen und Jugend die FamilienLabore konzipiert.</description>
+    </item>
+    
+  </channel>
+</rss>

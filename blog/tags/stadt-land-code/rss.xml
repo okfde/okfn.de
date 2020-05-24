@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stadt Land Code on OKF</title>
+    <link>https://okfn.de/blog/tags/stadt-land-code/</link>
+    <description>Recent content in Stadt Land Code on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 14 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/stadt-land-code/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die Stadt Land &lt;Code&gt; Stipendiaten stehen fest!</title>
+      <link>https://okfn.de/blog/2012/12/die-stadt-land-code-stipendiaten-stehen-fest/</link>
+      <pubDate>Fri, 14 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/12/die-stadt-land-code-stipendiaten-stehen-fest/</guid>
+      <description>Seit letzter Woche stehen die &amp;ldquo;Stadt Land Code&amp;rdquo; Stipendiaten fest. Eine Jury aus Vertretern der Open Knowledge Foundation Deutschland, dem Open-Data-Projekt Offenes Köln und derBundes-Arbeitsgemeinschaft der Kommunalen IT-Dienstleister hat sich auf drei Teams geeinigt. Insgesamt wurden 59 Projekte eingereicht, was zeigt, dass es in Deutschland eine rege Community gibt, die sich mit gesellschaftlich relevanten Software Applikationen - kurz Civic Apps - beschäftigt.
+Für ein Stipendium ausgewählt worden ist unter anderem das Projekt “Bürger baut Stadt” von pinkoding.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Familie on OKF</title>
+    <link>https://okfn.de/blog/tags/familie/</link>
+    <description>Recent content in Familie on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/familie/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ergebnisse des ersten FamilienLabores</title>
+      <link>https://okfn.de/blog/2017/07/familienlabore-ergebnisse/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/07/familienlabore-ergebnisse/</guid>
+      <description>Gemeinsam mit dem FEZ-Berlin ludt die Open Knowledge Foundation Deutschland e.V. am 16. Juli 2017 zum ersten FamilienLabor Deutschlands ein.
+Familienmitglieder jeden Alters, technisch Interessierte und weitere Teilnehmende kamen zusammen, um einen Tag lang gemeinsam über die bessere Vereinbarkeit von Familie und Beruf nachzudenken und prototypische Lösungen mit Papier, Apps, Comics, Fotos und kleinen Robotern zu entwickeln. Vorkenntnisse waren nicht erforderlich. Auch Kinder und Jugendliche konnten sich aktiv beteiligen.
+Nach einem gemeinsamen Frühstück und einer kurzen Begrüßung durch die Bundesfamilienministerin Katarina Barley, führte Dr.</description>
+    </item>
+    
+  </channel>
+</rss>

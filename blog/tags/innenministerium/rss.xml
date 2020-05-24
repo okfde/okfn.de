@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innenministerium on OKF</title>
+    <link>https://okfn.de/blog/tags/innenministerium/</link>
+    <description>Recent content in Innenministerium on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 24 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/innenministerium/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>„Rohstoff der Zukunft“: Was bringt das Open-Data-Gesetz?</title>
+      <link>https://okfn.de/blog/2016/10/opendata-gesetz/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/10/opendata-gesetz/</guid>
+      <description>Großes Treiben vor dem Wahlkampf im Bundesinnenministerium (BMI): In den nächsten Wochen will das Ministerium Eckpunkte zu einem Open-Data-Gesetz veröffentlichen, die bis zu den Wahlen im kommenden Jahr in einen Gesetzestext umgesetzt und vom Bundestag verabschiedet werden sollen - ein ambitionierter Zeitplan, nachdem die Koalition lange das Thema verschlafen hat.
+Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste eigentlich kein eigenes Regelwerk geschaffen werden. Das Informationsfreiheitsgesetz, das Informationsweiterverwendungsgesetz und das Verwaltungsverfahrensgesetz wären eigentlich prädestiniert dafür, auch Open Data in der Bundesverwaltung zu regeln.</description>
+    </item>
+    
+  </channel>
+</rss>

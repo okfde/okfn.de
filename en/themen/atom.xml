@@ -1,0 +1,57 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://okfn.de/en/themen/atom.xml"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Data</title>
+    <link rel="alternate" href="https://okfn.de/en/themen/open_data/"/>
+    <id>https://okfn.de/en/themen/open_data/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Open data is data that can be freely used, re-used and re-distributed by anyone - at most restricted by the obligation to name sources and &amp;ldquo;share-alike&amp;rdquo;. This does not apply to personal data.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Civic Tech</title>
+    <link rel="alternate" href="https://okfn.de/en/themen/civic_tech/"/>
+    <id>https://okfn.de/en/themen/civic_tech/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Civic tech brings digital innovation to governments and administrations to create new and better opportunities for citizens. Civic tech applications, tools and services are often powered by open data.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Open Government</title>
+    <link rel="alternate" href="https://okfn.de/en/themen/offenes_regierungshandeln/"/>
+    <id>https://okfn.de/en/themen/offenes_regierungshandeln/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Open government opens the actions of governments and administrations at national and regional levels to both civil society and the economy.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Open Education</title>
+    <link rel="alternate" href="https://okfn.de/en/themen/bildung/"/>
+    <id>https://okfn.de/en/themen/bildung/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Open education is an umbrella term for in-school and extracurricular initiatives that promote participatory education and adapt educational concepts to the digital era. These initiates see education as a common good and place special focus on self-directed and competence-based learning.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Freedom of Information</title>
+    <link rel="alternate" href="https://okfn.de/en/themen/informationsfreiheit/"/>
+    <id>https://okfn.de/en/themen/informationsfreiheit/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Freedom of information (FOI) is the constitutional right of free access to official information. It is one of the most important and fundamental rights in the knowledge economy, which results from Article 5 of the German Basic Law on Freedom of Opinion and Information.&lt;/p&gt;</summary>
+  </entry>
+  
+</feed>

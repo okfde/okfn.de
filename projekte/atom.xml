@@ -1,0 +1,157 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Knowledge Foundation DE</title>
+  <link rel="self" href="https://okfn.de/projekte/atom.xml"/>
+  <updated>1970-01-01T00:33:34+0000</updated>
+  <author>
+    <name>Open Knowledge Foundation DE</name>
+    <email>info@okfn.de</email>
+    <uri>https://okfn.de</uri>
+  </author>
+  <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Gov Netzwerk</title>
+    <link rel="alternate" href="https://okfn.de/projekte/ogp/"/>
+    <id>https://okfn.de/projekte/ogp/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung Deutschlands in der Open Government Partnership (OGP) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
+Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.</summary>
+  </entry>
+  
+  <entry>
+    <title>Turing-Bus</title>
+    <link rel="alternate" href="https://okfn.de/projekte/turing-bus/"/>
+    <id>https://okfn.de/projekte/turing-bus/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Der Turing-Bus ist ein mobiles Bildungsangebot für Schulen und Jugendclubs im ländlichen Raum. Der Bus bringt Vertreter von Fablabs, OK-Labs und Hackspaces sowie Experten in digitalen Themengebieten an oft Angebots-unterversorgte Orte der Jugendbildung, um durch Workshops, Diskussionsformaten, Screenings und mehr einen Wissensaustausch zu generieren. Das Projekt wird im Wissenschaftsjahr des BMBF gefördert.
+Der Bus möchte die Rolle von Digitalisierung und Technologie für Beruf und Gesellschaft mit Workshops, Vorträgen und Hands-on-Sessions ergründen, diskutieren und kritisch hinterfragen.</summary>
+  </entry>
+  
+  <entry>
+    <title>Code for Germany</title>
+    <link rel="alternate" href="https://okfn.de/projekte/codeforde/"/>
+    <id>https://okfn.de/projekte/codeforde/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.</summary>
+  </entry>
+  
+  <entry>
+    <title>FragDenStaat</title>
+    <link rel="alternate" href="https://okfn.de/projekte/fragdenstaat/"/>
+    <id>https://okfn.de/projekte/fragdenstaat/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>In einer Demokratie ist es notwendig, dass sich Bürgerinnen frei über Regierungshandeln informieren können. Mit dem Informationsfreiheitsgesetz hat jede Person unabhängig von Alter oder Herkunft das Recht, Dokumente bei Behörden anzufragen. Mit der Online-Plattform FragDenStaat unterstützen wir Bürgerinnen dabei, ihr Recht auf Zugang zu Informationen von deutschen Behörden wahrzunehmen. Bürgerinnen müssen sich nicht mehr durch den Gesetzesdschungel der Bundesländer und dem Bund arbeiten, um eine Anfrage zu stellen. Anfragen und Antworten erscheinen transparent online.</summary>
+  </entry>
+  
+  <entry>
+    <title>Prototype Fund</title>
+    <link rel="alternate" href="https://okfn.de/projekte/prototypefund/"/>
+    <id>https://okfn.de/projekte/prototypefund/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Mit dem Prototype Fund unterstützen wir gesellschaftlich relevante Software-Projekte und erhöhen ihre nachhaltige Wirkung durch Open Source aus Prinzip. Kurz: Wir fördern Public Interest Tech.
+Wir machen digital-soziale Innovation möglich; mit Entwickler*innen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und ihre guten Ideen weitergeben. Mit bis zu 47.500 Euro pro Projekt und Team unterstützt der Fördertopf Softwareentwickler*innen, Hacker*innen und Kreative dabei, Skizzen für Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, IT-Sicherheit und Software–Infrastruktur umzusetzen.</summary>
+  </entry>
+  
+  <entry>
+    <title>Datenschule</title>
+    <link rel="alternate" href="https://okfn.de/projekte/datenschule/"/>
+    <id>https://okfn.de/projekte/datenschule/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Die Datenschule ist ein deutschlandweites Bildungsprogramm rund um das Thema Daten und Technologien. Wir richten uns an gemeinnützige Organisationen, die mit Daten arbeiten oder bereits vorhandene Kenntnisse vertiefen möchten. Innerhalb einer Zusammenarbeit von ca. drei Monaten entwickeln wir mit unseren Partnern und Trainerinnen praxis-orientierte Workshops und individualisierte Technik-Trainings, um gesellschaftliche Projekte zu unterstützen. Wir möchten gemeinnützige Organisationen:
+ dazu ermutigen, gezielt Daten und Technologien in ihrer Arbeit einzusetzen.
+ dazu befähigen, digitale Tools und Daten als eine weitere Informationsquelle bei der Recherche, Projekt und Organisationsentwicklung aktiv zu nutzen.</summary>
+  </entry>
+  
+  <entry>
+    <title>Jugend hackt</title>
+    <link rel="alternate" href="https://okfn.de/projekte/jugendhackt/"/>
+    <id>https://okfn.de/projekte/jugendhackt/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Jugend hackt ist ein Programm für junge Menschen, die mit ihren technischen Fähigkeiten die Welt verbessern wollen. Unterstützt von ehrenamtlichen Mentor*innen entwickeln unsere Teilnehmer*innen digitale Werkzeuge, Prototypen und Konzepte für eine bessere Zukunft. Unser Angebot umfasst Hackathon-Events in vielen Städten, regionale Labs, eine Online Community und internationale Austauschprogramme.
+Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend hackt um mehr als nur Programmieren lernen: Wir begreifen Technik als ein Mittel zu gesellschaftlicher Veränderung.</summary>
+  </entry>
+  
+  <entry>
+    <title>Zugang gestalten</title>
+    <link rel="alternate" href="https://okfn.de/projekte/zuganggestalten/"/>
+    <id>https://okfn.de/projekte/zuganggestalten/</id>
+    <published>1970-01-01T00:33:34+0000</published>
+    <updated>1970-01-01T00:33:34+0000</updated>
+    <summary>Mit öffentlichen Mitteln werden Museen, Archive, Bibliotheken und Baudenkmäler betrieben und erhalten. Aber wie gestaltet sich der Zugang zu den Schätzen, die dort erschlossen, restauriert und bewahrt werden? Die jährlich durchgeführte, internationale Konferenz &amp;ldquo;Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe&amp;rdquo; zeigt die unterschiedlichen Gestaltungsmöglichkeiten beim Zugang zum kulturellen Erbe auf.
+Sie ist das Forum im deutschsprachigen Raum, um die mit dem Zugang zu kulturellen Werken in Zusammenhang stehenden Fragen öffentlich mit Fachleuten aus Kultur, Wirtschaft, Zivilgesellschaft und Politik zu diskutieren.</summary>
+  </entry>
+  
+  <entry>
+    <title>2030Watch</title>
+    <link rel="alternate" href="https://okfn.de/projekte/2030-watch/"/>
+    <id>https://okfn.de/projekte/2030-watch/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>2030Watch überwacht und visualisiert die Umsetzung der nachhaltigen Entwicklungsziele in Deutschland. Die Sustainable Development Goals (SDGs) wurden im September 2015 von den Vereinten Nationen (UN) verabschiedet und sollen bis 2030 erreicht werden.
+Alle UN-Mitgliedsstaaten haben sich verpflichtet diese 17 Ziele und 169 Unterziele umzusetzen. Sie sollen zum Beispiel die Armut abschaffen, bestehende Ungleichheiten in und unter den Ländern beseitigen und greifen Themen auf, die uns alle angehen, wie den Klimawandel.</summary>
+  </entry>
+  
+  <entry>
+    <title>Apps and the city</title>
+    <link rel="alternate" href="https://okfn.de/projekte/appsandthecity/"/>
+    <id>https://okfn.de/projekte/appsandthecity/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Unter dem Namen &amp;ldquo;Apps and the City&amp;rdquo; hat die OKF Deutschland gemeinsam mit den Berliner Verkehrsbetrieben (BVG) und dem Verkehrsverbund Berlin-Brandenburg (VBB) zu einem Entwicklertag zum Thema Nahverkehr eingeladen. An diesem Tag erarbeiteten Entwicklerinnen und Softwareexperten sowie Designerinnen und Designer gemeinnützig sinnvolle Anwendungen für die Fahrgäste mit den offenen Datensätzen der Verkehrsbetriebe.</summary>
+  </entry>
+  
+  <entry>
+    <title>Apps for Europe</title>
+    <link rel="alternate" href="https://okfn.de/projekte/appsforeurope/"/>
+    <id>https://okfn.de/projekte/appsforeurope/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Apps for Europe möchte der Welt nicht nur die Wirkungsmacht offener Daten zeigen, sondern auch das wirtschaftliche Potenzial herauskehren. Neelie Kroes, die Vizepräsidentin der Europäischen Kommission und eine starke Unterstützerin von Apps for Europe, beziffert den Wert offener Daten auf viele Milliarden Euro. Wir fördern gemeinsam die Möglichkeiten offener Daten, indem wir Ihnen dabei helfen, Ihre Idee in ein erfolgreiches Unternehmen umzuwandeln, das sich in ganz Europa etablieren könnte.</summary>
+  </entry>
+  
+  <entry>
+    <title>BIG</title>
+    <link rel="alternate" href="https://okfn.de/projekte/big/"/>
+    <id>https://okfn.de/projekte/big/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Das Big Data Public Private Forum (BIG) arbeitete an der Festlegung und Umsetzung einer klaren Strategie zu Big Data, die die notwendigen Anstrengungen in Bezug auf Forschung und Innovation in Angriff nimmt, gleichzeitig aber auch einen wichtigen Impuls für die Einführung von Technologien gibt und Maßnahmen zur erfolgreichen Umsetzung der Big Data-Wirtschaft unterstützt.</summary>
+  </entry>
+  
+  <entry>
+    <title>Bundesgit</title>
+    <link rel="alternate" href="https://okfn.de/projekte/bundesgit/"/>
+    <id>https://okfn.de/projekte/bundesgit/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Dieses Git-Repository enthält alle deutschen Bundesgesetze und -verordnungen im Markdown-Format. Als Quelle dienen die XML-Versionen der Gesetze von gesetze-im-internet.de . Mit BundesGit wird die jeweils aktuellste Version eines Gesetzes versioniert gespeichert - so wird die Entstehung, historische Entwicklung und die Aktualisierung von Gesetzen einfach und frei nachvollziehbar.</summary>
+  </entry>
+  
+  <entry>
+    <title>Coding da Vinci</title>
+    <link rel="alternate" href="https://okfn.de/projekte/codingdavinci/"/>
+    <id>https://okfn.de/projekte/codingdavinci/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Wir organisierten mit Coding da Vinci den ersten Kultur-Hackathon in Deutschland. Die Veranstaltung bringt Entwicklerinnen, Designerinnen und Gamerinnen zusammen, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen.
+Ziel von Coding da Vinci war nicht nur das Etablieren und Vernetzen einer technikaffinen und kulturbegeisterten Community, sondern insbesondere das kreative Ausschöpfen der technischen Möglichkeiten, die in unserem digitalen Kulturerbe stecken. Wir setzten uns dabei für die freie Verfügbarkeit und Nutzbarkeit von Kulturdaten ein und stellten sicher, dass sie kreativen Menschen als Rohmaterial für ihre Ideen zur Verfügung stehen.</summary>
+  </entry>
+  
+  <entry>
+    <title>D-EITI</title>
+    <link rel="alternate" href="https://okfn.de/projekte/eiti/"/>
+    <id>https://okfn.de/projekte/eiti/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Die globale „Initiative für Transparenz im rohstoffgewinnenden Sektor“ (Extractive Industries Transparency Initiative – EITI) setzt sich ein für mehr Finanztransparenz und Rechenschaftspflicht im Rohstoffsektor.
+Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 2002 im südafrikanischen Johannesburg und basiert auf einer engen Zusammenarbeit von Regierungen, Unternehmen und Zivilgesellschaften in mittlerweile über 50 Ländern. Diese legen Informationen über Steuerzahlungen, Lizenzen, Fördermengen und andere wichtige Daten rund um die Förderung von Öl-, Gas- und mineralischen Rohstoffen offen.</summary>
+  </entry>
+  
+</feed>

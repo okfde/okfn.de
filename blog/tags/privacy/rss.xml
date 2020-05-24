@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on OKF</title>
+    <link>https://okfn.de/blog/tags/privacy/</link>
+    <description>Recent content in Privacy on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 05 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/privacy/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daten für alle - aber wie?</title>
+      <link>https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/</guid>
+      <description>Mit ihrem Daten-für-alle-Vorschlag, also einer gesetzlichen Pflicht zum Teilen von Daten, die insbesondere für die Tech-Riesen gelten soll, hat die SPD eine wichtige und längst überfällige Debatte über den Wert von Unternehmensdaten angestoßen. Diese beschränkt sich bislang jedoch wahlweise auf die Sinnhaftigkeit einer allgemeinen gesetzlichen Verpflichtung, die technische Machbarkeit einer vollständigen Anonymisierung zum Schutz persönlicher Daten oder die rechtlichen Einschränkungen zur Datenweitergabe durch die europäische Datenschutzgrundverordnung.
+Und auch wenn durchaus zurecht bezweifelt wird, dass eine Pflicht zum Daten teilen geeignet ist, die Monopolstellung von Google und Co zu brechen, so bietet der SPD-Vorstoß die willkommene Möglichkeit einer breiten gesellschaftlichen Debatte über digitale Daten als öffentliches Gut.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Government on OKF DE</title>
+    <link>https://okfn.de/en/categories/open-government/</link>
+    <description>Recent content in Open Government on OKF DE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://okfn.de/en/categories/open-government/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bundesgit</title>
+      <link>https://okfn.de/en/projekte/bundesgit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/bundesgit/</guid>
+      <description>This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. This makes their historic development and adaptation transparent and easily comprehensible.</description>
+    </item>
+    
+    <item>
+      <title>Digiwhist</title>
+      <link>https://okfn.de/en/projekte/digiwhist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/digiwhist/</guid>
+      <description>The allocation of funds through public procurement (services, bulding contracts, and goods) represents a significant share of state expenditure. In the EU, this amounts to about 16% of the GDP. In many cases, the allocation of these contracts is not conducted transparently. As a result, 20-25% of the total number of orders can be lost to corruption.
+In order to change this, we are working together with five partners on the EU project, DIGIWHIST.</description>
+    </item>
+    
+    <item>
+      <title>FragDenStaat</title>
+      <link>https://okfn.de/en/projekte/fragdenstaat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/fragdenstaat/</guid>
+      <description>In a democracy, it is necessary for citizens to be able to inform themselves freely about government actions. With the Freedom of Information Act, every person, regardless of age or origin, has the right to request documents from the authorities. The FragDenStaat online platform supports citizens in exercising their right to access information from German authorities. Citizens no longer have to work their way through the legal jungle of the federal states and the federal government to make a request.</description>
+    </item>
+    
+    <item>
+      <title>OParl</title>
+      <link>https://okfn.de/en/projekte/oparl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/oparl/</guid>
+      <description>Many municipalities, counties and regions in Germany have council information systems at their disposal in order to organise committee work in local councils and at district assemblies. A lot of information is hidden in these council information systems of German municipalities. The entire municipal policy is documented - decisions that have a direct impact on the inhabitants of the city. Nonetheless, to involve citizens and their creative potential in the city&amp;rsquo;s politics, it is important to provide information.</description>
+    </item>
+    
+    <item>
+      <title>OffeneGesetze.de</title>
+      <link>https://okfn.de/en/projekte/offenegesetze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/offenegesetze/</guid>
+      <description>The Federal Law Gazettes are the central documents of German democracy. At OffeneGesetze.de they are now freely accessible for the first time. On our new portal, we make these documents available free of charge and for unrestricted use.
+So far, Federal Law Gazettes were only available via the website bgbl.de of the Bundesanzeiger Verlag. The private publishing house requires subscription fees for basic functions, for example searching or printing of law gazettes.</description>
+    </item>
+    
+    <item>
+      <title>OffeneRegister</title>
+      <link>https://okfn.de/en/projekte/offeneregister/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/offeneregister/</guid>
+      <description>The corporate registry is the public repository of companies, foundations and associations in Germany. It contains data about legal status, address and officers of an entity.
+This data is important for trust in business and the people involved. However, this data is not made openly accessible by the government.
+Together with OpenCorporates we published the German corporate registry as open data for the first time.  Picture: Hamburg. Speicherstadt von Max Stolbinsky under CC BY 2.</description>
+    </item>
+    
+    <item>
+      <title>Offener Haushalt</title>
+      <link>https://okfn.de/en/projekte/offenerhaushalt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/offenerhaushalt/</guid>
+      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, budget data format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
+    </item>
+    
+    <item>
+      <title>Open Gov Netzwerk</title>
+      <link>https://okfn.de/en/projekte/ogp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/ogp/</guid>
+      <description>As part of the Open Government Network, we support Germany&amp;rsquo;s active participation in the Open Government Partnership (OGP) and the interests of German civil society in this process, as well as help coordinate this civil society network.
+The network is an association of civil society organisations and individuals that has been working since 2011 to promote open government and administrative action as a holistic approach to strengthening democracy. In particular, the focus is on the exchange with the Federal Government and the development of national action plans.</description>
+    </item>
+    
+    <item>
+      <title>Transparenzranking</title>
+      <link>https://okfn.de/en/projekte/transparenzranking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/transparenzranking/</guid>
+      <description>According to Article 5 of the German Basic Law (Grundgesetz), every person has the right to obtain free information from generally accessible sources. That sounds promising at first. But for a long time there was a lack of generally accessible sources. It was not until the turn of the millennium that many German states took a big step: freedom of information was the order of the day. Through freedom of information laws, the first state parliaments in Berlin and Brandenburg obliged local administrations and state authorities to renounce the previously valid official secrecy.</description>
+    </item>
+    
+    <item>
+      <title>Volksentscheid Transparenz Berlin</title>
+      <link>https://okfn.de/en/projekte/volksentscheid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/volksentscheid/</guid>
+      <description>In the Berlin coalition agreement, the governing parties agreed to further develop the Berlin Freedom of Information Act into a transparency law. However, a concrete draft has not yet been worked out. We want to change that. Together with civil society partners, we have written a draft for a Berlin Transparency Act. Within the framework of a referendum, we will implement the draft law for the whole of Berlin by 2021.</description>
+    </item>
+    
+    <item>
+      <title>kleineAnfragen</title>
+      <link>https://okfn.de/en/projekte/kleineanfragen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/kleineanfragen/</guid>
+      <description>The right to ask questions is an important right of MPs - and a frequently used parliamentary control instrument. In the German parliament alone, thousands of so-called &amp;ldquo;small questions&amp;rdquo; are asked in each parliamentary term, which must be answered in writing by the government. If you add the questions asked in the parliaments of the federal states, a huge pool of useful information results which is scattered throughout the various online archives.</description>
+    </item>
+    
+    <item>
+      <title>sehrGutachten</title>
+      <link>https://okfn.de/en/projekte/sehrgutachten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/sehrgutachten/</guid>
+      <description>After the campaign #FragDenBundestag by FragDenStaat and Abgeordnetenwatch, the German parliament decided to publish all reports of its scientific service online. In the three weeks leading up to that decision, thousands of users have requested expert opinions via FragDenBundestag.de, which the German parliament has to publish according to the Freedom of Information Act (FOIA).
+However, the documents have not been prepared - the list is unclear and not searchable. That is why there is sehrGutachten: a platform that presents the reports in a structured way to make them searchable in full text.</description>
+    </item>
+    
+  </channel>
+</rss>
