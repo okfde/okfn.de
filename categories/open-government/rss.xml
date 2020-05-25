@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>Open Gov Netzwerk</title>
+      <link>https://okfn.de/projekte/ogp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/ogp/</guid>
+      <description>Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung Deutschlands in der Open Government Partnership (OGP) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
+Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.</description>
+    </item>
+    
+    <item>
       <title>Bundesgit</title>
       <link>https://okfn.de/projekte/bundesgit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,16 +66,6 @@ Um das zu ändern arbeiten wir mit 5 Partnern am Projekt DIGIWHIST. Das Ziel ist
       <description>OpenBudgets ist ein EU-Horizon2020 gefördertes Projekt, das europaweit die Daten des öffentlichen Haushalts in zentraler und transparenter Form zugänglich machen möchte.
 Der derzeitige Mangel an offenen Haushalts- und Transaktionsdaten erschwert es den Bürgern und anderen Beteiligten sehr, sich einen Überblick über die öffentlichen Ausgaben zu verschaffen. Noch schwieriger erweist sich der Vergleich der Haushalte zwischen Verwaltungsregionen und anderen Regierungsebenen.
 Foto: Leonard Wolf CC-BY-SA 4.0  Foto: Leonard Wolf CC-BY-SA 4.0   Die OpenBudgets-Plattform ist für öffentliche Verwaltungen, Bürger, NGOs, Medienorganisationen, öffentliche Dienstleistungsunternehmen und Interessengruppen, die mit Steuerdaten arbeiten, konzipiert.</description>
-    </item>
-    
-    <item>
-      <title>Open Gov Netzwerk</title>
-      <link>https://okfn.de/projekte/ogp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/projekte/ogp/</guid>
-      <description>Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung Deutschlands in der Open Government Partnership (OGP) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
-Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen und Einzelpersonen, der sich seit 2011 für die Förderung eines offenen Regierungs- und Verwaltungshandelns als ganzheitlichem Ansatz zur Stärkung der Demokratie einsetzt. Dabei liegt der Fokus insbesondere auf dem Austausch mit der Bundesregierung sowie der Entwicklung der nationalen Aktionspläne.</description>
     </item>
     
     <item>

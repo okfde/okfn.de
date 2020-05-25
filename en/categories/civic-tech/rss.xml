@@ -11,30 +11,12 @@
     
     
     <item>
-      <title>Bundesgit</title>
-      <link>https://okfn.de/en/projekte/bundesgit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/bundesgit/</guid>
-      <description>This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. This makes their historic development and adaptation transparent and easily comprehensible.</description>
-    </item>
-    
-    <item>
       <title>Code for Germany</title>
       <link>https://okfn.de/en/projekte/codeforde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/codeforde/</guid>
       <description>Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.</description>
-    </item>
-    
-    <item>
-      <title>Offener Haushalt</title>
-      <link>https://okfn.de/en/projekte/offenerhaushalt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/offenerhaushalt/</guid>
-      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, budget data format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
     </item>
     
     <item>
@@ -45,6 +27,24 @@
       <guid>https://okfn.de/en/projekte/prototypefund/</guid>
       <description>The Prototype Fund supports socially relevant software projects and increases their sustainable impact by open sourcing as a principle. In short: We support Public Interest Tech.
 We make digital-social innovation possible with developers that bring a wide range of skills in technology design. With up to 47,500 euros per project and team, the Prototype Fund supports software developers, hackers and creatives in building protptypes for tools and applications in the areas of civic tech, data literacy, IT security and software infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Bundesgit</title>
+      <link>https://okfn.de/en/projekte/bundesgit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/bundesgit/</guid>
+      <description>This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. This makes their historic development and adaptation transparent and easily comprehensible.</description>
+    </item>
+    
+    <item>
+      <title>Offener Haushalt</title>
+      <link>https://okfn.de/en/projekte/offenerhaushalt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/offenerhaushalt/</guid>
+      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, budget data format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
     </item>
     
     <item>

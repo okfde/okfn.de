@@ -269,8 +269,38 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/en/</loc>
+    <lastmod>1970-01-01T01:33:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/en/projekte/</loc>
+    <lastmod>1970-01-01T01:33:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okfn.de/en/projekte/zuganggestalten/</loc>
-    <lastmod>1970-01-01T00:33:34+00:00</lastmod>
+    <lastmod>1970-01-01T01:33:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -567,21 +597,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/en/categories/education/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/education/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/education/"
-                />
-  </url>
-  
-  <url>
     <loc>https://okfn.de/en/projektfilter/bildung/</loc>
     <xhtml:link
                 rel="alternate"
@@ -733,21 +748,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/odine/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/</loc>
-    <lastmod>1970-01-01T00:33:34+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
                 />
   </url>
   
@@ -978,21 +978,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/en/projekte/</loc>
-    <lastmod>1970-01-01T00:33:34+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/"
-                />
-  </url>
-  
-  <url>
     <loc>https://okfn.de/en/projekte/refugeephrasebook/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1116,6 +1101,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/wahldatenhelfer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/en/categories/education/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/categories/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/categories/education/"
                 />
   </url>
   

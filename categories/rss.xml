@@ -20,24 +20,6 @@
     </item>
     
     <item>
-      <title>Community</title>
-      <link>https://okfn.de/categories/community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/categories/community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://okfn.de/categories/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/categories/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Informationsfreiheit</title>
       <link>https://okfn.de/categories/informationsfreiheit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,20 +29,38 @@
     </item>
     
     <item>
-      <title>Open Data</title>
-      <link>https://okfn.de/categories/open-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/categories/open-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Open Government</title>
       <link>https://okfn.de/categories/open-government/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/categories/open-government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community</title>
+      <link>https://okfn.de/categories/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/categories/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://okfn.de/categories/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open data</title>
+      <link>https://okfn.de/categories/open-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/categories/open-data/</guid>
       <description></description>
     </item>
     

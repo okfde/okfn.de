@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/projekte/atom.xml"/>
-  <updated>1970-01-01T00:33:34+0000</updated>
+  <updated>1970-01-01T01:33:34+0100</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
@@ -82,8 +82,8 @@ Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend ha
     <title>Zugang gestalten</title>
     <link rel="alternate" href="https://okfn.de/projekte/zuganggestalten/"/>
     <id>https://okfn.de/projekte/zuganggestalten/</id>
-    <published>1970-01-01T00:33:34+0000</published>
-    <updated>1970-01-01T00:33:34+0000</updated>
+    <published>1970-01-01T01:33:34+0100</published>
+    <updated>1970-01-01T01:33:34+0100</updated>
     <summary>Mit öffentlichen Mitteln werden Museen, Archive, Bibliotheken und Baudenkmäler betrieben und erhalten. Aber wie gestaltet sich der Zugang zu den Schätzen, die dort erschlossen, restauriert und bewahrt werden? Die jährlich durchgeführte, internationale Konferenz &amp;ldquo;Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe&amp;rdquo; zeigt die unterschiedlichen Gestaltungsmöglichkeiten beim Zugang zum kulturellen Erbe auf.
 Sie ist das Forum im deutschsprachigen Raum, um die mit dem Zugang zu kulturellen Werken in Zusammenhang stehenden Fragen öffentlich mit Fachleuten aus Kultur, Wirtschaft, Zivilgesellschaft und Politik zu diskutieren.</summary>
   </entry>

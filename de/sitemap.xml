@@ -269,8 +269,87 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/digitale-zivilgesellschaft/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2020/05/communitytechnologien/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/prototype-fund/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
+                />
   </url>
   
   <url>
@@ -289,8 +368,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/public-interest-tech/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2020/04/digiale-zivilgesellschaft/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/digitalpolitik/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/zivilgesellschaft/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-data/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -304,8 +407,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/datenstrategie/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/frontex/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2020/02/frontex-rechnung-fragdenstaat/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/informationsfreiheit/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/civic-tech/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -314,13 +441,67 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-source/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/community/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/fragdenstaat/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/jugend-hackt/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/okf/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2020/01/ein-brief-zum-jahresbeginn/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/transparenz/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/codeforgermany/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/strommarkt/</loc>
+    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2020/01/mehr-transparenz-fuer-den-oekostrommarkt/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/zensurheberrecht/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -339,8 +520,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/vorstand/</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/12/volksentscheid-33000-unterschriften-eingereicht/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/transparenzgesetz/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -404,6 +597,30 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/demokratie/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/k%C3%BCnstliche-intelligenz/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/nachhaltigkeit/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-government/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/07/bits-und-baeume-publikation/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url>
@@ -419,13 +636,37 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-education/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/datenschutz/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/06/privatsphaere-oder-oeffentliches-interesse/</loc>
     <lastmod>2019-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/transparenzregister/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/06/ausschreibung-geschaeftsfuehrung/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/in-eigener-sache/</loc>
+    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -439,6 +680,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/gesch%C3%A4ftsf%C3%BChrung/</loc>
+    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/05/wechsel-gf/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
   </url>
@@ -449,8 +696,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/bildung/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/digitalisierung/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/05/engagement-von-jugendlichen-im-digitalen-zeitalter/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/jugendarbeit/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -459,8 +724,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/re-publica/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/05/transparenzregister-mit-open-data-geldwaesche-bekaempfen/</loc>
     <lastmod>2019-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/berlin/</loc>
+    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -474,8 +751,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/data-philantropy/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/04/daten-f%C3%BCr-alle-aber-wie/</loc>
     <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/privacy/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/opendata/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/psi/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -484,8 +785,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/policy/</loc>
+    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/04/copyright-censorship-update/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/english/</loc>
+    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -496,6 +809,12 @@
   <url>
     <loc>https://okfn.de/blog/2019/04/beteiligt-euch-jetzt-open-government/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/beteiligung/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -539,6 +858,24 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/handelsregister/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ausschreibung/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/jobs/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/01/stellenausschreibung-regionale-koordination-jugend-hackt-lab-ulm/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -554,8 +891,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/topfsecret/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2019/01/topf-secret/</loc>
     <lastmod>2019-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/offenegesetze/</loc>
+    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -579,6 +928,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/openschufa/</loc>
+    <lastmod>2018-12-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/12/schufa-elektronische-auskuenfte/</loc>
     <lastmod>2018-12-04T00:00:00+00:00</lastmod>
   </url>
@@ -599,6 +954,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-hardware/</loc>
+    <lastmod>2018-11-06T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/10/stellenausschreibung-programmmanagement-ptf/</loc>
     <lastmod>2018-10-31T16:00:00+00:00</lastmod>
   </url>
@@ -606,6 +967,18 @@
   <url>
     <loc>https://okfn.de/blog/2018/10/faires-scoring/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/daseinsversorger/</loc>
+    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/energyhack/</loc>
+    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -623,8 +996,43 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/konferenz/</loc>
+    <lastmod>2016-05-11T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/tech/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/kommunen/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/09/oparl-1-1-politik-bei-uns/</loc>
     <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ratsinformationssystem/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/schnittstelle/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/oparl/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -633,8 +1041,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/freedom-of-information/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/07/policy-advocacy-with-a-twist/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/transparency/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -643,8 +1063,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/international/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/07/openschufa-zwischenbilanz/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/eiti/</loc>
+    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -653,13 +1085,43 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/city/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/06/make-city-citylab-berlin/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/participation/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/beneficial-ownership/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/offene-daten/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/06/transparenz-register/</loc>
     <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wirtschaftlich-berechtigter/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -670,6 +1132,24 @@
   <url>
     <loc>https://okfn.de/blog/2018/06/ohh-berlin/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/offener-haushalt/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ehrenamt/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/oer/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -693,13 +1173,43 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/dst18/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/05/jahresbericht-2017/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/ogp/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/okf-de/</loc>
+    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/05/ifg-meisterschaften/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ifg/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/buchscanner/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -713,6 +1223,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/nahverkehr/</loc>
+    <lastmod>2018-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/04/republica18/</loc>
     <lastmod>2018-04-26T00:00:00+00:00</lastmod>
   </url>
@@ -723,13 +1239,37 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/events/</loc>
+    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/04/turing-bus-in-cottbus/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/offene-bildung/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/turing-bus/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/04/rueckblick-open-data-day/</loc>
     <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/codefor/</loc>
+    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -743,8 +1283,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/b%C3%BCror%C3%A4ume/</loc>
+    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/04/wanted-neue-bueroraeume/</loc>
     <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/mdb-guide/</loc>
+    <lastmod>2018-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -764,6 +1316,16 @@
   
   <url>
     <loc>https://okfn.de/blog/2018/03/praktikum-linus-okf-demokratielabore/</loc>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/digitale-bildung/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/praktikum/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -787,8 +1349,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/uploadfilter/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/workshops/</loc>
+    <lastmod>2018-02-28T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/digitale-tools/</loc>
+    <lastmod>2018-02-28T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/02/zweiteopenpolitischeabend/</loc>
     <lastmod>2018-02-27T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/openpolitischer-abend/</loc>
+    <lastmod>2018-02-27T13:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -802,6 +1388,12 @@
   
   <url>
     <loc>https://okfn.de/blog/2018/02/1-week-openschufa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/offenerhaushalt/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -840,13 +1432,37 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/kommunal/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/01/stellenausschreibung-administration/</loc>
     <lastmod>2018-01-30T08:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/event/</loc>
+    <lastmod>2018-01-29T07:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/01/big-data-with-local-impact/</loc>
     <lastmod>2018-01-29T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/public-procurement/</loc>
+    <lastmod>2018-01-29T07:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/digiwhist/</loc>
+    <lastmod>2018-01-29T07:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -865,8 +1481,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/stadtarchiv/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2018/01/34c3-rueckblick/</loc>
     <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/34c3/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/gesellschaft/</loc>
+    <lastmod>2017-12-29T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/steuern/</loc>
+    <lastmod>2017-12-29T11:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -885,13 +1525,49 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/workshop/</loc>
+    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/data-literacy/</loc>
+    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/11/datenmachenschule/</loc>
     <lastmod>2017-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/offene-daten-im-unterricht/</loc>
+    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/demokratielabore/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/jugendbildung/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/11/stellenausschreibung-projektmanagement-politische-jugendbildung/</loc>
     <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-government-partnership/</loc>
+    <lastmod>2017-11-02T08:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -920,6 +1596,24 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/bundestagswahl/</loc>
+    <lastmod>2017-10-04T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/social-change/</loc>
+    <lastmod>2017-10-04T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wahldaten/</loc>
+    <lastmod>2017-10-04T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/10/ausschreibung-codeforgermany/</loc>
     <lastmod>2017-10-03T10:00:00+00:00</lastmod>
   </url>
@@ -927,6 +1621,12 @@
   <url>
     <loc>https://okfn.de/blog/2017/09/odine-open-data-incubator-for-europe/</loc>
     <lastmod>2017-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/kunst/</loc>
+    <lastmod>2017-09-28T06:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -940,8 +1640,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/kulturdaten/</loc>
+    <lastmod>2017-09-27T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-glam/</loc>
+    <lastmod>2017-09-27T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/09/zivilgesellschaftliche-forderungen/</loc>
     <lastmod>2017-09-22T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-software/</loc>
+    <lastmod>2017-09-13T09:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -955,8 +1673,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/digital-o-mat/</loc>
+    <lastmod>2017-08-29T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/08/digitalomat/</loc>
     <lastmod>2017-08-29T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/jugendbeteiligung/</loc>
+    <lastmod>2017-08-24T10:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -970,8 +1700,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/transport/</loc>
+    <lastmod>2017-08-16T13:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/germany/</loc>
+    <lastmod>2017-08-02T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/08/germany-finally-has-an-open-data-law/</loc>
     <lastmod>2017-08-02T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-data-law/</loc>
+    <lastmod>2017-08-02T10:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -980,8 +1728,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/ngos/</loc>
+    <lastmod>2017-08-01T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/schuldaten/</loc>
+    <lastmod>2017-08-01T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/07/familienlabore-ergebnisse/</loc>
     <lastmod>2017-07-31T10:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/familie/</loc>
+    <lastmod>2017-07-31T10:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -990,13 +1756,37 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/prototypen/</loc>
+    <lastmod>2017-07-31T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/vereinbarkeit/</loc>
+    <lastmod>2017-07-31T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/07/projektleitung-jugend-hackt/</loc>
     <lastmod>2017-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-data-gesetz/</loc>
+    <lastmod>2017-07-13T00:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/07/offenheit/</loc>
     <lastmod>2017-07-13T00:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/lbhb/</loc>
+    <lastmod>2017-07-13T00:10:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1020,8 +1810,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/pers%C3%B6nliche-daten/</loc>
+    <lastmod>2017-06-29T23:59:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/06/erstes-familienlabor/</loc>
     <lastmod>2017-06-28T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/termine/</loc>
+    <lastmod>2017-06-28T07:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/mydata/</loc>
+    <lastmod>2017-06-29T23:59:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/2030watch/</loc>
+    <lastmod>2017-06-27T10:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1032,6 +1846,18 @@
   <url>
     <loc>https://okfn.de/blog/2017/06/wahldaten-wikidata-hackathon/</loc>
     <lastmod>2017-06-22T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wahlen/</loc>
+    <lastmod>2017-06-22T07:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wikidata/</loc>
+    <lastmod>2017-06-22T07:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1055,13 +1881,49 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/mitmachen/</loc>
+    <lastmod>2017-05-17T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/openglam/</loc>
+    <lastmod>2017-05-17T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/partizipation/</loc>
+    <lastmod>2017-05-17T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/05/edulabs-offene-bildung/</loc>
     <lastmod>2017-05-17T11:30:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/public-call/</loc>
+    <lastmod>2017-05-17T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/edulabs/</loc>
+    <lastmod>2017-05-17T11:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/05/daswardatensummit/</loc>
     <lastmod>2017-05-11T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/datensummit/</loc>
+    <lastmod>2017-05-11T15:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1075,8 +1937,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/republica/</loc>
+    <lastmod>2017-05-07T05:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/code-for-germany/</loc>
+    <lastmod>2017-04-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/04/wahlsalons/</loc>
     <lastmod>2017-04-27T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/eu/</loc>
+    <lastmod>2017-04-26T10:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1095,8 +1975,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/wetter/</loc>
+    <lastmod>2017-04-24T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/datenschule/</loc>
+    <lastmod>2017-04-18T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/</loc>
     <lastmod>2017-04-18T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-transport/</loc>
+    <lastmod>2017-04-17T12:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1115,8 +2013,38 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/meinungsfreiheit/</loc>
+    <lastmod>2017-04-12T07:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/nrw/</loc>
+    <lastmod>2017-04-12T06:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/netzdg/</loc>
+    <lastmod>2017-04-12T07:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/14-j%C3%A4hriger/</loc>
+    <lastmod>2017-04-05T01:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/04/open-data-aus-sicht/</loc>
     <lastmod>2017-04-05T01:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/praktikant/</loc>
+    <lastmod>2017-04-05T01:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1140,6 +2068,18 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/schule/</loc>
+    <lastmod>2017-03-15T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/frauentag/</loc>
+    <lastmod>2017-03-08T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/03/familienlabore-gestartet/</loc>
     <lastmod>2017-03-08T12:00:00+00:00</lastmod>
   </url>
@@ -1150,13 +2090,31 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/openbudgets.eu/</loc>
+    <lastmod>2017-03-08T17:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/03/rettedeinennahverkehr/</loc>
     <lastmod>2017-03-08T17:30:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/subventionen/</loc>
+    <lastmod>2017-03-08T17:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/03/ranking/</loc>
     <lastmod>2017-03-02T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/transparenzranking/</loc>
+    <lastmod>2017-03-02T14:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1185,8 +2143,56 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/korruption/</loc>
+    <lastmod>2017-02-13T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/02/forum-offene-stadt-hamburg/</loc>
     <lastmod>2017-02-08T13:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/hamburg/</loc>
+    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ok-lab-hamburg/</loc>
+    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-knowledge-lab/</loc>
+    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/stadtentwicklung/</loc>
+    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/veranstaltungen/</loc>
+    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/freies-wissen/</loc>
+    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/editathon/</loc>
+    <lastmod>2017-01-30T13:30:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1195,8 +2201,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-knowledge/</loc>
+    <lastmod>2017-01-30T13:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/deutschland/</loc>
+    <lastmod>2017-01-26T07:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/01/odgesetz-pm/</loc>
     <lastmod>2017-01-26T07:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/pressemitteilung/</loc>
+    <lastmod>2017-01-26T07:30:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1210,8 +2234,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/bmvi/</loc>
+    <lastmod>2017-01-19T14:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2017/01/bmvi-wetterdaten/</loc>
     <lastmod>2017-01-19T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/33c3/</loc>
+    <lastmod>2017-01-09T18:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1230,8 +2266,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/rheinland-pfalz/</loc>
+    <lastmod>2016-12-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/verfassungsbeschwerde/</loc>
+    <lastmod>2016-12-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/12/odgesetz/</loc>
     <lastmod>2016-12-16T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/sicherheit/</loc>
+    <lastmod>2016-12-14T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/verschl%C3%BCsselung/</loc>
+    <lastmod>2016-12-14T08:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1240,8 +2300,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/https/</loc>
+    <lastmod>2016-12-14T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/12/transparenzregister-einfuehrung/</loc>
     <lastmod>2016-12-06T14:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/transparenzklagen/</loc>
+    <lastmod>2016-12-03T08:25:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1250,8 +2322,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/code-for-all/</loc>
+    <lastmod>2016-11-09T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/11/cfasummit/</loc>
     <lastmod>2016-11-09T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ogp-summit/</loc>
+    <lastmod>2016-11-01T13:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1260,13 +2344,37 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/informationszugangsgesetz/</loc>
+    <lastmod>2016-10-31T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/schleswig-holstein/</loc>
+    <lastmod>2016-10-31T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/10/sh-stellungnahme/</loc>
     <lastmod>2016-10-31T11:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/innenministerium/</loc>
+    <lastmod>2016-10-24T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/10/opendata-gesetz/</loc>
     <lastmod>2016-10-24T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/iodc/</loc>
+    <lastmod>2016-10-16T15:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1290,11 +2398,23 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/umwelt/</loc>
+    <lastmod>2016-10-04T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/09/tagderinformationsfreiheit/</loc>
   </url>
   
   <url>
     <loc>https://okfn.de/blog/2016/09/5jahrefds/</loc>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ngo/</loc>
+    <lastmod>2016-08-31T09:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1309,6 +2429,11 @@
   <url>
     <loc>https://okfn.de/blog/2016/08/datenschule-bmz/</loc>
     <lastmod>2016-08-22T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/otto-brenner-stiftung/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1330,6 +2455,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/bmbf/</loc>
+    <lastmod>2016-08-01T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/08/prototypefund-launch/</loc>
     <lastmod>2016-08-01T09:00:00+00:00</lastmod>
   </url>
@@ -1340,8 +2471,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/2030-watch/</loc>
+    <lastmod>2016-07-18T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/07/nachhaltigkeitsstrategie/</loc>
     <lastmod>2016-07-18T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/nachhaltigkeitsstrategie/</loc>
+    <lastmod>2016-07-18T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/sdg/</loc>
+    <lastmod>2016-07-18T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/fiscal-transparency/</loc>
+    <lastmod>2016-07-15T17:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1352,6 +2507,12 @@
   <url>
     <loc>https://okfn.de/blog/2016/07/oparl-v1/</loc>
     <lastmod>2016-07-12T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ris/</loc>
+    <lastmod>2016-07-12T15:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1370,13 +2531,49 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/offene-kultur/</loc>
+    <lastmod>2016-05-22T20:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wikicon/</loc>
+    <lastmod>2016-05-22T20:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wikipedia/</loc>
+    <lastmod>2016-05-22T20:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/05/re-repubublica/</loc>
     <lastmod>2016-05-11T12:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/school-of-data/</loc>
+    <lastmod>2016-04-27T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/04/stellenausschreibung-ds/</loc>
     <lastmod>2016-04-27T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/gastbeitrag/</loc>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/stiftung-neue-verantwortung/</loc>
+    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1390,8 +2587,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/konrad-adenauer-stiftung/</loc>
+    <lastmod>2016-04-19T10:38:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/studie/</loc>
+    <lastmod>2016-04-19T10:38:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/deutsche-bahn/</loc>
+    <lastmod>2016-04-06T14:38:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/04/bahnvermessung/</loc>
     <lastmod>2016-04-06T14:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/openstreetmap/</loc>
+    <lastmod>2016-04-06T14:38:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1404,13 +2625,49 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/bundestag/</loc>
+    <lastmod>2016-03-08T12:12:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wissenschaftlicher-dienst/</loc>
+    <lastmod>2016-03-08T12:12:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/sehrgutachten/</loc>
+    <lastmod>2016-03-08T12:12:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/03/sehrgutachten/</loc>
     <lastmod>2016-03-08T12:12:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/jugend-hackathons/</loc>
+    <lastmod>2016-03-03T13:12:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/03/jugend-hackathons-fuer-alle/</loc>
     <lastmod>2016-03-03T13:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-educational-ressources/</loc>
+    <lastmod>2016-03-03T13:12:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/fernverkehr/</loc>
+    <lastmod>2016-02-28T16:39:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1424,13 +2681,55 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/lehrmaterialien/</loc>
+    <lastmod>2016-02-20T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/lernmaterialien/</loc>
+    <lastmod>2016-02-20T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/govdata/</loc>
+    <lastmod>2016-01-22T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/01/govdata-relaunch/</loc>
     <lastmod>2016-01-22T13:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/politik/</loc>
+    <lastmod>2016-01-22T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/portal/</loc>
+    <lastmod>2016-01-22T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2016/01/statements_open_data_vorsaetze/</loc>
     <lastmod>2016-01-15T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ccc/</loc>
+    <lastmod>2015-12-31T19:48:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/chaos-communication-congress/</loc>
+    <lastmod>2015-12-31T19:48:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1449,6 +2748,18 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-data-index/</loc>
+    <lastmod>2015-12-09T16:04:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/coworking/</loc>
+    <lastmod>2015-12-04T10:00:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/12/coworking-im-okf-buero/</loc>
     <lastmod>2015-12-04T10:00:56+00:00</lastmod>
   </url>
@@ -1461,6 +2772,24 @@
   <url>
     <loc>https://okfn.de/blog/2015/11/2030-watch/</loc>
     <lastmod>2015-11-17T12:00:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/energie/</loc>
+    <lastmod>2015-11-16T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/energy-hack/</loc>
+    <lastmod>2015-11-16T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/hackday/</loc>
+    <lastmod>2015-11-16T10:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1519,6 +2848,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-science/</loc>
+    <lastmod>2015-09-16T10:42:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/09/call-open-science-ag-september/</loc>
     <lastmod>2015-09-16T10:42:49+00:00</lastmod>
   </url>
@@ -1529,8 +2864,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/podcast/</loc>
+    <lastmod>2015-09-11T16:20:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/08/blogpost-smart/</loc>
     <lastmod>2015-08-31T11:20:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/verbraucherschutz/</loc>
+    <lastmod>2015-08-31T11:20:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/zugang-gestalten/</loc>
+    <lastmod>2015-08-17T13:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1539,7 +2892,23 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/zukunftsstrategien/</loc>
+    <lastmod>2015-08-17T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/08/stellenausschreibung-digiwhist/</loc>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/h2020/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/code-literacy/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1601,6 +2970,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/gesetz/</loc>
+    <lastmod>2015-05-07T08:20:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/05/stellungnahme-iwg-bundestag-2015/</loc>
     <lastmod>2015-05-07T08:20:49+00:00</lastmod>
   </url>
@@ -1621,13 +2996,31 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/dariah/</loc>
+    <lastmod>2015-04-20T12:42:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/04/dh-summit-video/</loc>
     <lastmod>2015-04-20T12:42:49+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/g8/</loc>
+    <lastmod>2015-03-18T13:57:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/03/kurz-vor-dem-g7-summit-in-deutschland-report-kritisiert-deutsche-implementierung-von-g8-g7-open-data-charter/</loc>
     <lastmod>2015-03-18T13:57:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-data-charter/</loc>
+    <lastmod>2015-03-18T13:57:17+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1638,6 +3031,12 @@
   <url>
     <loc>https://okfn.de/blog/2015/03/den-open-government-data-aktionsplan-mitgestalten/</loc>
     <lastmod>2015-03-17T22:45:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/g8-open-data-charter/</loc>
+    <lastmod>2015-03-17T22:45:08+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1653,6 +3052,12 @@
   <url>
     <loc>https://okfn.de/blog/2015/02/international-open-data-day-in-deutschland/</loc>
     <lastmod>2015-02-26T11:07:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/odd/</loc>
+    <lastmod>2015-02-26T11:07:52+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1686,6 +3091,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/offenes-wissen/</loc>
+    <lastmod>2015-02-10T10:44:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/02/positionspapier-des-buendnis-freie-bildung-veroeffentlicht/</loc>
     <lastmod>2015-02-10T10:44:52+00:00</lastmod>
   </url>
@@ -1696,8 +3107,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/anti-corruption/</loc>
+    <lastmod>2015-01-27T17:25:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing/</loc>
     <lastmod>2015-01-27T17:25:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/public-spending/</loc>
+    <lastmod>2015-01-27T17:25:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/whistleblowing/</loc>
+    <lastmod>2015-01-27T17:29:18+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1746,6 +3175,18 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/apps4eu/</loc>
+    <lastmod>2014-12-08T17:09:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/kulturelles-erbe/</loc>
+    <lastmod>2014-12-08T12:36:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/12/zugang-gestalten-wrap-up/</loc>
     <lastmod>2014-12-08T12:36:04+00:00</lastmod>
   </url>
@@ -1753,6 +3194,12 @@
   <url>
     <loc>https://okfn.de/blog/2014/12/4313/</loc>
     <lastmod>2014-12-05T18:50:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/bremen/</loc>
+    <lastmod>2014-12-02T16:44:59+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1766,8 +3213,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/hmbtg/</loc>
+    <lastmod>2014-11-17T10:49:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/11/open-science-sum-up-oktober/</loc>
     <lastmod>2014-11-17T16:21:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/digitale-agenda/</loc>
+    <lastmod>2014-11-06T15:16:45+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1781,8 +3240,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/smart-city/</loc>
+    <lastmod>2014-11-03T17:57:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/10/mission-statement-der-deutschsprachigen-open-science-ag-veroeffentlicht/</loc>
     <lastmod>2014-10-21T19:19:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-access/</loc>
+    <lastmod>2014-10-21T19:19:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-definition/</loc>
+    <lastmod>2014-10-21T15:12:30+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1801,6 +3278,18 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/g7/</loc>
+    <lastmod>2014-09-24T21:22:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/positionen/</loc>
+    <lastmod>2014-09-24T21:22:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/09/stellungnahme-zum-nationalen-aktionsplan-der-bundesregierung-zur-umsetzung-der-open-data-charter-der-g8-g7/</loc>
     <lastmod>2014-09-24T21:22:45+00:00</lastmod>
   </url>
@@ -1811,13 +3300,37 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/lizenzen/</loc>
+    <lastmod>2014-09-22T15:57:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/09/kampagne-fuer-offene-parlamente-im-rahmen-der-global-legislative-openness-week/</loc>
     <lastmod>2014-09-17T15:51:56+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/openparl/</loc>
+    <lastmod>2014-09-17T15:51:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/09/apps-for-europe-sucht-die-besten-opendata-apps/</loc>
     <lastmod>2014-09-15T15:43:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/europe/</loc>
+    <lastmod>2014-09-15T15:43:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/innovation/</loc>
+    <lastmod>2014-09-15T15:43:02+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1836,6 +3349,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/festival-of-code/</loc>
+    <lastmod>2014-09-02T10:59:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/09/jugend-hackt-yrs-festival-of-code/</loc>
     <lastmod>2014-09-02T10:59:31+00:00</lastmod>
   </url>
@@ -1846,8 +3365,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/oer14de/</loc>
+    <lastmod>2014-08-24T09:54:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wikimedia/</loc>
+    <lastmod>2014-08-24T09:54:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/08/review-1-open-science-arbeitsgruppentreffen-im-juli-2014/</loc>
     <lastmod>2014-08-23T07:21:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/creative-commons/</loc>
+    <lastmod>2014-08-19T09:16:27+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1871,6 +3408,18 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/dh/</loc>
+    <lastmod>2014-07-30T11:41:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/fellowship/</loc>
+    <lastmod>2014-07-30T11:41:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/07/fuenf-fellowships-fuer-digitale-geisteswissenschaftlerinnen-ausschreibung-laeuft-bis-zum-30-09-14/</loc>
     <lastmod>2014-07-30T11:41:39+00:00</lastmod>
   </url>
@@ -1878,6 +3427,12 @@
   <url>
     <loc>https://okfn.de/blog/2014/07/openglam-workshop-review/</loc>
     <lastmod>2014-07-28T12:22:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/okfestival/</loc>
+    <lastmod>2014-07-25T11:45:09+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1911,6 +3466,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/sch%C3%BClerpraktikum/</loc>
+    <lastmod>2014-07-04T14:02:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/07/offene-lehr-und-lernmaterialien-fuer-digitale-geisteswissenschaften/</loc>
     <lastmod>2014-07-03T11:18:00+00:00</lastmod>
   </url>
@@ -1918,6 +3479,18 @@
   <url>
     <loc>https://okfn.de/blog/2014/06/4079/</loc>
     <lastmod>2014-06-23T14:46:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/coding-da-vinci/</loc>
+    <lastmod>2014-06-23T14:46:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/monatsr%C3%BCckblick/</loc>
+    <lastmod>2014-06-23T14:46:36+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1931,13 +3504,31 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/beh%C3%B6rden/</loc>
+    <lastmod>2014-05-28T07:38:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/05/informationsfreiheit-open-data-und-fahrradunfaelle/</loc>
     <lastmod>2014-05-28T07:38:03+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/gen/</loc>
+    <lastmod>2014-05-20T08:40:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/05/open-knowledge-foundation-deutschland-gewinnt-editors-lab-f-a-z-hackday/</loc>
     <lastmod>2014-05-20T08:40:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wepromise/</loc>
+    <lastmod>2014-05-15T09:49:03+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1961,6 +3552,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/hackathon/</loc>
+    <lastmod>2014-05-07T08:44:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/04/aktivitaeten-und-projekte-im-maerz-2014/</loc>
     <lastmod>2014-04-20T10:36:56+00:00</lastmod>
   </url>
@@ -1971,8 +3568,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/business-lounge/</loc>
+    <lastmod>2014-04-05T09:47:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/04/die-gewinner-von-apps-for-europe-2014/</loc>
     <lastmod>2014-04-05T09:47:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/startup/</loc>
+    <lastmod>2014-04-05T09:47:39+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1986,8 +3595,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-culture/</loc>
+    <lastmod>2014-03-26T16:21:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ethik/</loc>
+    <lastmod>2014-03-21T13:47:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/03/open-science-sum-up-februar/</loc>
     <lastmod>2014-03-21T13:47:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wissenschaft/</loc>
+    <lastmod>2014-03-21T13:47:03+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2006,8 +3633,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/okfn-de/</loc>
+    <lastmod>2014-03-05T14:56:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2014/02/hallo-code-for-germany/</loc>
     <lastmod>2014-02-27T10:03:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/labs/</loc>
+    <lastmod>2014-02-27T10:03:27+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2018,6 +3657,12 @@
   <url>
     <loc>https://okfn.de/blog/2014/01/der-erste-weltkrieg-in-digitalen-quellen/</loc>
     <lastmod>2014-01-30T19:07:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/abmahnung/</loc>
+    <lastmod>2014-01-22T08:59:52+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2041,6 +3686,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-data-day/</loc>
+    <lastmod>2014-01-06T11:28:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/12/apps-for-europe-wettbewerb-mitmachen/</loc>
     <lastmod>2013-12-13T11:05:24+00:00</lastmod>
   </url>
@@ -2053,6 +3704,12 @@
   <url>
     <loc>https://okfn.de/blog/2013/11/konferenz-zugang-gestalten-livestream/</loc>
     <lastmod>2013-11-28T13:01:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/museum/</loc>
+    <lastmod>2013-11-28T13:01:35+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2071,8 +3728,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/geodaten/</loc>
+    <lastmod>2013-11-06T10:57:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-development/</loc>
+    <lastmod>2013-11-06T10:57:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/</loc>
     <lastmod>2013-11-04T19:35:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-data-census/</loc>
+    <lastmod>2013-10-30T20:12:43+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2086,8 +3761,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/barcamp/</loc>
+    <lastmod>2013-10-28T16:57:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/10/drittes-barcamp-offene-kommunen-nrw-am-9-november/</loc>
     <lastmod>2013-10-28T16:57:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/kommune/</loc>
+    <lastmod>2013-10-28T16:57:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-aid/</loc>
+    <lastmod>2013-10-24T16:57:52+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2113,6 +3806,18 @@
   <url>
     <loc>https://okfn.de/blog/2013/10/deutschland-muss-der-open-government-partnership-beitreten/</loc>
     <lastmod>2013-10-09T15:30:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/newsletter/</loc>
+    <lastmod>2013-10-09T05:55:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/okcon/</loc>
+    <lastmod>2013-10-09T05:55:26+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2161,6 +3866,18 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/ged%C3%A4chtnisorganisation/</loc>
+    <lastmod>2013-09-10T14:41:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/langzeitarchivierung/</loc>
+    <lastmod>2013-09-10T14:41:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/09/open-knowledge-conference-16-18-september-2013/</loc>
     <lastmod>2013-09-09T11:07:24+00:00</lastmod>
   </url>
@@ -2176,8 +3893,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/code-for-america/</loc>
+    <lastmod>2013-08-05T16:05:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/big-data/</loc>
+    <lastmod>2013-07-23T14:11:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/07/big-data-kann-mehr/</loc>
     <lastmod>2013-07-23T14:11:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/data-philanthropy/</loc>
+    <lastmod>2013-07-23T14:11:18+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2196,13 +3931,31 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/interactive-cologne/</loc>
+    <lastmod>2013-07-08T08:16:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/06/apps-the-city-cologne/</loc>
     <lastmod>2013-06-24T09:28:41+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/k%C3%B6ln/</loc>
+    <lastmod>2013-06-24T09:28:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/06/initiative-openruhr/</loc>
     <lastmod>2013-06-21T13:40:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/openruhr/</loc>
+    <lastmod>2013-06-21T13:40:05+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2231,8 +3984,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/bundesgit/</loc>
+    <lastmod>2013-06-07T06:28:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/bundesverfassungsgericht/</loc>
+    <lastmod>2013-06-05T12:30:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/06/die-erzwungene-oeffnung-der-juris-datenbank/</loc>
     <lastmod>2013-06-05T12:30:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/aachen/</loc>
+    <lastmod>2013-05-28T10:51:45+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2253,6 +4024,12 @@
   <url>
     <loc>https://okfn.de/blog/2013/05/newsletter-okf-de-april-2013/</loc>
     <lastmod>2013-05-14T12:01:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/verkehr/</loc>
+    <lastmod>2013-05-14T12:01:42+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2296,6 +4073,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/vbb/</loc>
+    <lastmod>2013-04-04T10:03:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/04/workshop-zu-offenen-daten-in-essen/</loc>
     <lastmod>2013-04-01T17:17:53+00:00</lastmod>
   </url>
@@ -2306,13 +4089,37 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/hackidemia/</loc>
+    <lastmod>2013-03-25T11:04:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/03/hackidemia-is-coming-back-to-berlin-1st-april/</loc>
     <lastmod>2013-03-25T11:04:12+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/parlament/</loc>
+    <lastmod>2013-03-25T15:06:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/training/</loc>
+    <lastmod>2013-03-25T11:04:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/03/praktikum-bei-der-okf-de/</loc>
     <lastmod>2013-03-18T12:06:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/kfw/</loc>
+    <lastmod>2013-03-07T11:12:50+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2336,6 +4143,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/p2pu/</loc>
+    <lastmod>2013-02-26T10:23:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/02/pics-open-data-day-2013-zeit-online/</loc>
     <lastmod>2013-02-23T14:46:52+00:00</lastmod>
   </url>
@@ -2346,8 +4159,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/opendatacity/</loc>
+    <lastmod>2013-02-19T10:37:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/02/von-open-data-zu-govdata-warum-deutschland-die-initiative-open-government-partnerhship-braucht/</loc>
     <lastmod>2013-02-19T09:16:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-content/</loc>
+    <lastmod>2013-02-18T18:27:08+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2376,13 +4201,37 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/iati/</loc>
+    <lastmod>2013-02-06T09:47:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/02/marian-steinbach-zur-open-government-data-plattform-deutschland/</loc>
     <lastmod>2013-02-06T15:28:38+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/ogdp/</loc>
+    <lastmod>2013-02-06T15:28:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/offene-entwicklungszusammenarbeit/</loc>
+    <lastmod>2013-02-06T09:47:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/02/hive-berlin-ein-lernnetzwerk-fuer-die-stadt/</loc>
     <lastmod>2013-02-05T10:31:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/t%C3%A4tigkeitsbericht/</loc>
+    <lastmod>2013-02-05T08:00:32+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2393,6 +4242,12 @@
   <url>
     <loc>https://okfn.de/blog/2013/02/hintergrund-offene-entwicklungshilfe-de/</loc>
     <lastmod>2013-02-04T05:36:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/offene-entwicklungshilfe/</loc>
+    <lastmod>2013-02-04T05:36:45+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2426,6 +4281,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-innovation/</loc>
+    <lastmod>2013-01-07T10:30:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/01/raum-schiff-erde-2013/</loc>
     <lastmod>2013-01-07T10:30:15+00:00</lastmod>
   </url>
@@ -2436,6 +4297,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/github/</loc>
+    <lastmod>2013-01-04T17:45:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2013/01/ideenborse-offene-daten-in-leipzig/</loc>
     <lastmod>2013-01-02T16:01:02+00:00</lastmod>
   </url>
@@ -2443,6 +4310,12 @@
   <url>
     <loc>https://okfn.de/blog/2013/01/republica-2013-call-for-papers/</loc>
     <lastmod>2013-01-02T14:30:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/apps-and-the-city/</loc>
+    <lastmod>2012-12-21T10:47:42+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2458,6 +4331,18 @@
   <url>
     <loc>https://okfn.de/blog/2012/12/die-stadt-land-code-stipendiaten-stehen-fest/</loc>
     <lastmod>2012-12-14T18:27:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/stadt-land-code/</loc>
+    <lastmod>2012-12-14T18:27:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/wettbewerb/</loc>
+    <lastmod>2012-12-14T18:27:34+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2491,8 +4376,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/fotos/</loc>
+    <lastmod>2012-11-26T10:13:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2012/11/fotos-vom-stadt-land-code-camp/</loc>
     <lastmod>2012-11-26T10:13:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/freie-software/</loc>
+    <lastmod>2012-11-26T09:41:25+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2521,8 +4418,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/bibliotheken/</loc>
+    <lastmod>2012-09-30T15:31:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2012/09/konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/</loc>
     <lastmod>2012-09-30T15:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/kulturgut/</loc>
+    <lastmod>2012-09-30T15:31:48+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2531,8 +4440,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/brandenburg/</loc>
+    <lastmod>2012-09-06T14:21:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2012/09/open-data-nahverkehr-berlin-brandenburg-update-zum-status-quo-und-den-entwicklungen/</loc>
     <lastmod>2012-09-06T14:21:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/verkehrsbetriebe/</loc>
+    <lastmod>2012-09-06T14:21:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/anh%C3%B6rung/</loc>
+    <lastmod>2012-08-29T09:14:57+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2591,6 +4518,18 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/verwaltung/</loc>
+    <lastmod>2012-05-31T11:39:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/meetup/</loc>
+    <lastmod>2012-05-30T08:21:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2012/05/okf-in-berlin-meetup-diesen-samstag/</loc>
     <lastmod>2012-05-30T08:21:59+00:00</lastmod>
   </url>
@@ -2606,8 +4545,26 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/europeana/</loc>
+    <lastmod>2012-05-11T07:00:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/hack4europe/</loc>
+    <lastmod>2012-05-11T07:00:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2012/05/hack4europe-am-5-und-6-juni-2012-in-der-staatsbibliothek-zu-berlin/</loc>
     <lastmod>2012-05-11T07:00:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/offenes-parlament/</loc>
+    <lastmod>2012-05-11T06:56:03+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2616,8 +4573,32 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/communia/</loc>
+    <lastmod>2012-05-10T06:41:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2012/05/communia-projekt-veroeffentlicht-abschlussbericht-und-buch/</loc>
     <lastmod>2012-05-10T06:41:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/commons/</loc>
+    <lastmod>2012-05-10T06:41:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/public-domain/</loc>
+    <lastmod>2012-05-10T06:41:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/open-initiatives/</loc>
+    <lastmod>2012-05-03T19:16:19+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2636,6 +4617,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-knowledge-meetup/</loc>
+    <lastmod>2012-04-26T09:44:22+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2012/04/mehr-transparenz-kooperation-kfw-bankengruppe/</loc>
     <lastmod>2012-04-24T15:14:34+00:00</lastmod>
   </url>
@@ -2643,6 +4630,24 @@
   <url>
     <loc>https://okfn.de/blog/2012/04/open-glam-workshop-in-berlin/</loc>
     <lastmod>2012-04-04T12:08:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/staatsbibliothek/</loc>
+    <lastmod>2012-04-04T12:08:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/datenkataloge/</loc>
+    <lastmod>2012-04-02T10:06:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/infrastruktur/</loc>
+    <lastmod>2012-04-02T10:06:45+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2658,6 +4663,12 @@
   <url>
     <loc>https://okfn.de/blog/2012/03/open-data-city-camp-in-ulm/</loc>
     <lastmod>2012-03-15T12:29:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/ulm/</loc>
+    <lastmod>2012-03-15T12:29:51+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2678,6 +4689,18 @@
   <url>
     <loc>https://okfn.de/blog/2012/02/eine-standardlizenz-fur-open-data-in-der-eu/</loc>
     <lastmod>2012-02-15T11:03:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/lapsi/</loc>
+    <lastmod>2012-02-15T11:03:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/apps4de/</loc>
+    <lastmod>2012-02-13T10:00:23+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2736,6 +4759,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/ogdcamp/</loc>
+    <lastmod>2011-12-15T07:00:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2011/12/die-open-data-strategie-der-europaeischen-kommission/</loc>
     <lastmod>2011-12-12T11:32:29+00:00</lastmod>
   </url>
@@ -2751,6 +4780,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/knowledge-base/</loc>
+    <lastmod>2011-12-02T14:06:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2011/12/sie-wollen-ihre-daten-offnen-wir-sagen-wie/</loc>
     <lastmod>2011-12-02T14:06:51+00:00</lastmod>
   </url>
@@ -2758,6 +4793,12 @@
   <url>
     <loc>https://okfn.de/blog/2011/11/pressemitteilung-urheberrecht-fuer-das-21-jahrhundert-schaffen/</loc>
     <lastmod>2011-11-24T12:51:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/urheberrecht/</loc>
+    <lastmod>2011-11-24T12:51:07+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2773,6 +4814,12 @@
   <url>
     <loc>https://okfn.de/blog/2011/11/zitate-zum-apps4de-wettbewerb/</loc>
     <lastmod>2011-11-19T07:00:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/datenjournalismus/</loc>
+    <lastmod>2011-11-18T13:36:12+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2813,6 +4860,12 @@
   <url>
     <loc>https://okfn.de/blog/2011/11/ins-netz-gegangen-neue-wege-zum-kulturellen-erbe/</loc>
     <lastmod>2011-11-03T12:36:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/p2p/</loc>
+    <lastmod>2011-11-03T10:51:33+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2878,6 +4931,12 @@
   <url>
     <loc>https://okfn.de/blog/2011/08/freies-wissen-fur-berlin/</loc>
     <lastmod>2011-08-16T16:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/blog/tags/right-to-access/</loc>
+    <lastmod>2011-08-01T10:30:38+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -2966,8 +5025,29 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/semantic-web/</loc>
+    <lastmod>2010-02-07T09:16:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/projekte/</loc>
+    <lastmod>1970-01-01T01:33:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okfn.de/projekte/zuganggestalten/</loc>
-    <lastmod>1970-01-01T00:33:34+00:00</lastmod>
+    <lastmod>1970-01-01T01:33:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -2978,24 +5058,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/zuganggestalten/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/</loc>
-    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/14-j%C3%A4hriger/</loc>
-    <lastmod>2017-04-05T01:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/2030-watch/</loc>
-    <lastmod>2016-07-18T11:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3010,54 +5072,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/2030-watch/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/2030watch/</loc>
-    <lastmod>2017-06-27T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/33c3/</loc>
-    <lastmod>2017-01-09T18:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/34c3/</loc>
-    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/aachen/</loc>
-    <lastmod>2013-05-28T10:51:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/abmahnung/</loc>
-    <lastmod>2014-01-22T08:59:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/anh%C3%B6rung/</loc>
-    <lastmod>2012-08-29T09:14:57+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/anti-corruption/</loc>
-    <lastmod>2015-01-27T17:25:23+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/apps-and-the-city/</loc>
-    <lastmod>2012-12-21T10:47:42+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3089,24 +5103,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/apps4de/</loc>
-    <lastmod>2012-02-13T10:00:23+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/apps4eu/</loc>
-    <lastmod>2014-12-08T17:09:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ausschreibung/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/big/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3118,54 +5114,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/big/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/barcamp/</loc>
-    <lastmod>2013-10-28T16:57:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/beh%C3%B6rden/</loc>
-    <lastmod>2014-05-28T07:38:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/beneficial-ownership/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/berlin/</loc>
-    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/beteiligung/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bibliotheken/</loc>
-    <lastmod>2012-09-30T15:31:48+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/big-data/</loc>
-    <lastmod>2013-07-23T14:11:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bildung/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3183,57 +5131,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bmbf/</loc>
-    <lastmod>2016-08-01T09:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bmvi/</loc>
-    <lastmod>2017-01-19T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/brandenburg/</loc>
-    <lastmod>2012-09-06T14:21:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bremen/</loc>
-    <lastmod>2014-12-02T16:44:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/buchscanner/</loc>
-    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bundesgit/</loc>
-    <lastmod>2013-06-07T06:28:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/bundesgit/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3245,36 +5142,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/bundesgit/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bundestag/</loc>
-    <lastmod>2016-03-08T12:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bundestagswahl/</loc>
-    <lastmod>2017-10-04T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/bundesverfassungsgericht/</loc>
-    <lastmod>2013-06-05T12:30:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/business-lounge/</loc>
-    <lastmod>2014-04-05T09:47:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/b%C3%BCror%C3%A4ume/</loc>
-    <lastmod>2018-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3293,24 +5160,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/ccc/</loc>
-    <lastmod>2015-12-31T19:48:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/chaos-communication-congress/</loc>
-    <lastmod>2015-12-31T19:48:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/city/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/categories/civic-tech/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3323,12 +5172,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/civic-tech/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/civic-tech/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3346,47 +5189,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/code-literacy/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/code-for-all/</loc>
-    <lastmod>2016-11-09T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/code-for-america/</loc>
-    <lastmod>2013-08-05T16:05:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/code-for-germany/</loc>
-    <lastmod>2017-04-27T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/codefor/</loc>
-    <lastmod>2018-04-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/codeforgermany/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/coding-da-vinci/</loc>
-    <lastmod>2014-06-23T14:46:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/codingdavinci/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3401,39 +5203,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/commons/</loc>
-    <lastmod>2012-05-10T06:41:43+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/communia/</loc>
-    <lastmod>2012-05-10T06:41:43+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/categories/community/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/community/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/community/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/community/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projektfilter/community/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3445,18 +5214,6 @@
                 hreflang="de"
                 href="https://okfn.de/projektfilter/community/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/coworking/</loc>
-    <lastmod>2015-12-04T10:00:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/creative-commons/</loc>
-    <lastmod>2014-08-19T09:16:27+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3488,36 +5245,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/dariah/</loc>
-    <lastmod>2015-04-20T12:42:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/daseinsversorger/</loc>
-    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/data-literacy/</loc>
-    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/data-philanthropy/</loc>
-    <lastmod>2013-07-23T14:11:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/data-philantropy/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/datenmachenschule/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3529,54 +5256,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/datenmachenschule/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/datenjournalismus/</loc>
-    <lastmod>2011-11-18T13:36:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/datenkataloge/</loc>
-    <lastmod>2012-04-02T10:06:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/datenschule/</loc>
-    <lastmod>2017-04-18T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/datenschutz/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/datenstrategie/</loc>
-    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/datensummit/</loc>
-    <lastmod>2017-05-11T15:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/demokratie/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/demokratielabore/</loc>
-    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3594,71 +5273,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/deutsche-bahn/</loc>
-    <lastmod>2016-04-06T14:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/deutschland/</loc>
-    <lastmod>2017-01-26T07:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/dh/</loc>
-    <lastmod>2014-07-30T11:41:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/digital-o-mat/</loc>
-    <lastmod>2017-08-29T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/digitale-agenda/</loc>
-    <lastmod>2014-11-06T15:16:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/digitale-bildung/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/digitale-tools/</loc>
-    <lastmod>2018-02-28T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/digitale-zivilgesellschaft/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/digitalisierung/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/digitalpolitik/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/digiwhist/</loc>
-    <lastmod>2018-01-29T07:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/digiwhist/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3670,69 +5284,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/digiwhist/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/dst18/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/editathon/</loc>
-    <lastmod>2017-01-30T13:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/categories/education/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/education/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/education/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/edulabs/</loc>
-    <lastmod>2017-05-17T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ehrenamt/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/eiti/</loc>
-    <lastmod>2018-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/energie/</loc>
-    <lastmod>2015-11-16T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/energy-hack/</loc>
-    <lastmod>2015-11-16T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/energyhack/</loc>
-    <lastmod>2018-10-18T06:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3750,36 +5301,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/english/</loc>
-    <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ethik/</loc>
-    <lastmod>2014-03-21T13:47:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/eu/</loc>
-    <lastmod>2017-04-26T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/europe/</loc>
-    <lastmod>2014-09-15T15:43:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/europeana/</loc>
-    <lastmod>2012-05-11T07:00:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/europeanacloud/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3791,24 +5312,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/europeanacloud/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/event/</loc>
-    <lastmod>2018-01-29T07:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/events/</loc>
-    <lastmod>2018-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/familie/</loc>
-    <lastmod>2017-07-31T10:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3840,24 +5343,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/fellowship/</loc>
-    <lastmod>2014-07-30T11:41:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/fernverkehr/</loc>
-    <lastmod>2016-02-28T16:39:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/festival-of-code/</loc>
-    <lastmod>2014-09-02T10:59:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/finanzierung/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3869,24 +5354,6 @@
                 hreflang="de"
                 href="https://okfn.de/finanzierung/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/fiscal-transparency/</loc>
-    <lastmod>2016-07-15T17:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/fotos/</loc>
-    <lastmod>2012-11-26T10:13:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/fragdenstaat/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3904,179 +5371,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/frauentag/</loc>
-    <lastmod>2017-03-08T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/freedom-of-information/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/freie-software/</loc>
-    <lastmod>2012-11-26T09:41:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/freies-wissen/</loc>
-    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/frontex/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/g7/</loc>
-    <lastmod>2014-09-24T21:22:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/g8/</loc>
-    <lastmod>2015-03-18T13:57:17+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/g8-open-data-charter/</loc>
-    <lastmod>2015-03-17T22:45:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/gastbeitrag/</loc>
-    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ged%C3%A4chtnisorganisation/</loc>
-    <lastmod>2013-09-10T14:41:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/gen/</loc>
-    <lastmod>2014-05-20T08:40:30+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/geodaten/</loc>
-    <lastmod>2013-11-06T10:57:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/germany/</loc>
-    <lastmod>2017-08-02T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/gesch%C3%A4ftsf%C3%BChrung/</loc>
-    <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/gesellschaft/</loc>
-    <lastmod>2017-12-29T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/gesetz/</loc>
-    <lastmod>2015-05-07T08:20:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/github/</loc>
-    <lastmod>2013-01-04T17:45:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/govdata/</loc>
-    <lastmod>2016-01-22T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/h2020/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/hack4europe/</loc>
-    <lastmod>2012-05-11T07:00:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/hackathon/</loc>
-    <lastmod>2014-05-07T08:44:20+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/hackday/</loc>
-    <lastmod>2015-11-16T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/hackidemia/</loc>
-    <lastmod>2013-03-25T11:04:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/hamburg/</loc>
-    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/handelsregister/</loc>
-    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/hmbtg/</loc>
-    <lastmod>2014-11-17T10:49:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/https/</loc>
-    <lastmod>2016-12-14T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/iati/</loc>
-    <lastmod>2013-02-06T09:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ifg/</loc>
-    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/impressum/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4088,12 +5382,6 @@
                 hreflang="de"
                 href="https://okfn.de/impressum/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/in-eigener-sache/</loc>
-    <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4112,321 +5400,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/informationsfreiheit/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/informationszugangsgesetz/</loc>
-    <lastmod>2016-10-31T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/infrastruktur/</loc>
-    <lastmod>2012-04-02T10:06:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/innenministerium/</loc>
-    <lastmod>2016-10-24T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/innovation/</loc>
-    <lastmod>2014-09-15T15:43:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/interactive-cologne/</loc>
-    <lastmod>2013-07-08T08:16:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/international/</loc>
-    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/iodc/</loc>
-    <lastmod>2016-10-16T15:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/jobs/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/jugend-hackathons/</loc>
-    <lastmod>2016-03-03T13:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/jugend-hackt/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/jugendarbeit/</loc>
-    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/jugendbeteiligung/</loc>
-    <lastmod>2017-08-24T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/jugendbildung/</loc>
-    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/kfw/</loc>
-    <lastmod>2013-03-07T11:12:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/knowledge-base/</loc>
-    <lastmod>2011-12-02T14:06:51+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/kommunal/</loc>
-    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/kommune/</loc>
-    <lastmod>2013-10-28T16:57:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/kommunen/</loc>
-    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/konferenz/</loc>
-    <lastmod>2016-05-11T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/konrad-adenauer-stiftung/</loc>
-    <lastmod>2016-04-19T10:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/korruption/</loc>
-    <lastmod>2017-02-13T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/kulturdaten/</loc>
-    <lastmod>2017-09-27T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/kulturelles-erbe/</loc>
-    <lastmod>2014-12-08T12:36:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/kulturgut/</loc>
-    <lastmod>2012-09-30T15:31:48+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/kunst/</loc>
-    <lastmod>2017-09-28T06:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/k%C3%B6ln/</loc>
-    <lastmod>2013-06-24T09:28:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/k%C3%BCnstliche-intelligenz/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/labs/</loc>
-    <lastmod>2014-02-27T10:03:27+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/langzeitarchivierung/</loc>
-    <lastmod>2013-09-10T14:41:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/lapsi/</loc>
-    <lastmod>2012-02-15T11:03:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/lbhb/</loc>
-    <lastmod>2017-07-13T00:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/lehrmaterialien/</loc>
-    <lastmod>2016-02-20T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/lernmaterialien/</loc>
-    <lastmod>2016-02-20T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/lizenzen/</loc>
-    <lastmod>2014-09-22T15:57:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/mdb-guide/</loc>
-    <lastmod>2018-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/meetup/</loc>
-    <lastmod>2012-05-30T08:21:59+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/meinungsfreiheit/</loc>
-    <lastmod>2017-04-12T07:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/mitmachen/</loc>
-    <lastmod>2017-05-17T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/monatsr%C3%BCckblick/</loc>
-    <lastmod>2014-06-23T14:46:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/museum/</loc>
-    <lastmod>2013-11-28T13:01:35+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/mydata/</loc>
-    <lastmod>2017-06-29T23:59:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/nachhaltigkeit/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/nachhaltigkeitsstrategie/</loc>
-    <lastmod>2016-07-18T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/nahverkehr/</loc>
-    <lastmod>2018-04-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/netzdg/</loc>
-    <lastmod>2017-04-12T07:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/newsletter/</loc>
-    <lastmod>2013-10-09T05:55:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ngo/</loc>
-    <lastmod>2016-08-31T09:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ngos/</loc>
-    <lastmod>2017-08-01T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/nrw/</loc>
-    <lastmod>2017-04-12T06:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/odine/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4437,21 +5410,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/projekte/odine/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
                 />
   </url>
   
@@ -4470,36 +5428,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/odd/</loc>
-    <lastmod>2015-02-26T11:07:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/oer/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/oer14de/</loc>
-    <lastmod>2014-08-24T09:54:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offene-bildung/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offene-daten/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/offenedaten/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4511,30 +5439,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/offenedaten/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offene-daten-im-unterricht/</loc>
-    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offene-entwicklungshilfe/</loc>
-    <lastmod>2013-02-04T05:36:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offene-entwicklungszusammenarbeit/</loc>
-    <lastmod>2013-02-06T09:47:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offene-kultur/</loc>
-    <lastmod>2016-05-22T20:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4566,18 +5470,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/offenegesetze/</loc>
-    <lastmod>2018-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offener-haushalt/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/offenerhaushalt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4589,18 +5481,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/offenerhaushalt/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offenerhaushalt/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/offenes-parlament/</loc>
-    <lastmod>2012-05-11T06:56:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4618,90 +5498,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/offenes-wissen/</loc>
-    <lastmod>2015-02-10T10:44:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ogdcamp/</loc>
-    <lastmod>2011-12-15T07:00:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ogdp/</loc>
-    <lastmod>2013-02-06T15:28:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ogp/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ogp-summit/</loc>
-    <lastmod>2016-11-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ok-lab-hamburg/</loc>
-    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/okcon/</loc>
-    <lastmod>2013-10-09T05:55:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/okf/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/okf-de/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/okfestival/</loc>
-    <lastmod>2014-07-25T11:45:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/okfn-de/</loc>
-    <lastmod>2014-03-05T14:56:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/oparl/</loc>
-    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-access/</loc>
-    <lastmod>2014-10-21T19:19:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-aid/</loc>
-    <lastmod>2013-10-24T16:57:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/openbudgets/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4716,39 +5512,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/open-content/</loc>
-    <lastmod>2013-02-18T18:27:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-culture/</loc>
-    <lastmod>2014-03-26T16:21:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/categories/open-data/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/open-data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/open-data/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projektfilter/open_data/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4760,72 +5523,6 @@
                 hreflang="de"
                 href="https://okfn.de/projektfilter/open_data/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data-census/</loc>
-    <lastmod>2013-10-30T20:12:43+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data-charter/</loc>
-    <lastmod>2015-03-18T13:57:17+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data-day/</loc>
-    <lastmod>2014-01-06T11:28:07+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data-gesetz/</loc>
-    <lastmod>2017-07-13T00:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data-index/</loc>
-    <lastmod>2015-12-09T16:04:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data-law/</loc>
-    <lastmod>2017-08-02T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-definition/</loc>
-    <lastmod>2014-10-21T15:12:30+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-development/</loc>
-    <lastmod>2013-11-06T10:57:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-education/</loc>
-    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-educational-ressources/</loc>
-    <lastmod>2016-03-03T13:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-glam/</loc>
-    <lastmod>2017-09-27T10:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4844,78 +5541,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/open-government/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-government-partnership/</loc>
-    <lastmod>2017-11-02T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-hardware/</loc>
-    <lastmod>2018-11-06T16:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-initiatives/</loc>
-    <lastmod>2012-05-03T19:16:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-innovation/</loc>
-    <lastmod>2013-01-07T10:30:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-knowledge/</loc>
-    <lastmod>2017-01-30T13:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-knowledge-lab/</loc>
-    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-knowledge-meetup/</loc>
-    <lastmod>2012-04-26T09:44:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-science/</loc>
-    <lastmod>2015-09-16T10:42:49+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-software/</loc>
-    <lastmod>2017-09-13T09:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-source/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-transport/</loc>
-    <lastmod>2017-04-17T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/openschufa/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4927,119 +5552,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/openschufa/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/openbudgets.eu/</loc>
-    <lastmod>2017-03-08T17:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/opendata/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/opendatacity/</loc>
-    <lastmod>2013-02-19T10:37:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/openglam/</loc>
-    <lastmod>2017-05-17T09:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/openparl/</loc>
-    <lastmod>2014-09-17T15:51:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/openpolitischer-abend/</loc>
-    <lastmod>2018-02-27T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/openruhr/</loc>
-    <lastmod>2013-06-21T13:40:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/openschufa/</loc>
-    <lastmod>2018-12-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/openstreetmap/</loc>
-    <lastmod>2016-04-06T14:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/otto-brenner-stiftung/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/p2p/</loc>
-    <lastmod>2011-11-03T10:51:33+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/p2pu/</loc>
-    <lastmod>2013-02-26T10:23:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/parlament/</loc>
-    <lastmod>2013-03-25T15:06:06+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/participation/</loc>
-    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/partizipation/</loc>
-    <lastmod>2017-05-17T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/pers%C3%B6nliche-daten/</loc>
-    <lastmod>2017-06-29T23:59:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/podcast/</loc>
-    <lastmod>2015-09-11T16:20:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/policy/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/politik/</loc>
-    <lastmod>2016-01-22T13:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5057,29 +5569,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/portal/</loc>
-    <lastmod>2016-01-22T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/positionen/</loc>
-    <lastmod>2014-09-24T21:22:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/praktikant/</loc>
-    <lastmod>2017-04-05T01:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/praktikum/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/presse/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5091,18 +5580,6 @@
                 hreflang="de"
                 href="https://okfn.de/presse/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/pressemitteilung/</loc>
-    <lastmod>2017-01-26T07:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/privacy/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5120,81 +5597,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/projekte/</loc>
-    <lastmod>1970-01-01T00:33:34+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/prototype-fund/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/prototypen/</loc>
-    <lastmod>2017-07-31T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/psi/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/public-call/</loc>
-    <lastmod>2017-05-17T11:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/public-domain/</loc>
-    <lastmod>2012-05-10T06:41:43+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/public-interest-tech/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/public-procurement/</loc>
-    <lastmod>2018-01-29T07:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/public-spending/</loc>
-    <lastmod>2015-01-27T17:25:23+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ratsinformationssystem/</loc>
-    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/re-publica/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/refugeephrasebook/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5206,102 +5608,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/refugeephrasebook/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/republica/</loc>
-    <lastmod>2017-05-07T05:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/rheinland-pfalz/</loc>
-    <lastmod>2016-12-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/right-to-access/</loc>
-    <lastmod>2011-08-01T10:30:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/ris/</loc>
-    <lastmod>2016-07-12T15:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/schleswig-holstein/</loc>
-    <lastmod>2016-10-31T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/schnittstelle/</loc>
-    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/school-of-data/</loc>
-    <lastmod>2016-04-27T16:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/schuldaten/</loc>
-    <lastmod>2017-08-01T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/schule/</loc>
-    <lastmod>2017-03-15T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/sch%C3%BClerpraktikum/</loc>
-    <lastmod>2014-07-04T14:02:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/sdg/</loc>
-    <lastmod>2016-07-18T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/sehrgutachten/</loc>
-    <lastmod>2016-03-08T12:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/semantic-web/</loc>
-    <lastmod>2010-02-07T09:16:40+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/sicherheit/</loc>
-    <lastmod>2016-12-14T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/smart-city/</loc>
-    <lastmod>2014-11-03T17:57:51+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/social-change/</loc>
-    <lastmod>2017-10-04T08:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5319,18 +5625,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/staatsbibliothek/</loc>
-    <lastmod>2012-04-04T12:08:26+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/stadt-land-code/</loc>
-    <lastmod>2012-12-14T18:27:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/stadtlandcode/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5345,71 +5639,7 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/stadtarchiv/</loc>
-    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/stadtentwicklung/</loc>
-    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/startup/</loc>
-    <lastmod>2014-04-05T09:47:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/steuern/</loc>
-    <lastmod>2017-12-29T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/stiftung-neue-verantwortung/</loc>
-    <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/strommarkt/</loc>
-    <lastmod>2020-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/studie/</loc>
-    <lastmod>2016-04-19T10:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/styleguide/</loc>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/subventionen/</loc>
-    <lastmod>2017-03-08T17:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url>
   
   <url>
@@ -5427,17 +5657,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/tech/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/termine/</loc>
-    <lastmod>2017-06-28T07:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/themen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5449,30 +5668,6 @@
                 hreflang="de"
                 href="https://okfn.de/themen/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/topfsecret/</loc>
-    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/training/</loc>
-    <lastmod>2013-03-25T11:04:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/transparency/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/transparenz/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5490,24 +5685,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/transparenzgesetz/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/transparenzklagen/</loc>
-    <lastmod>2016-12-03T08:25:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/transparenzranking/</loc>
-    <lastmod>2017-03-02T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/transparenzranking/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5519,30 +5696,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/transparenzranking/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/transparenzregister/</loc>
-    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/transport/</loc>
-    <lastmod>2017-08-16T13:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/turing-bus/</loc>
-    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/t%C3%A4tigkeitsbericht/</loc>
-    <lastmod>2013-02-05T08:00:32+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5560,18 +5713,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/ulm/</loc>
-    <lastmod>2012-03-15T12:29:51+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/umwelt/</loc>
-    <lastmod>2016-10-04T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projektfilter/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5583,36 +5724,6 @@
                 hreflang="de"
                 href="https://okfn.de/projektfilter/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/uploadfilter/</loc>
-    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/urheberrecht/</loc>
-    <lastmod>2011-11-24T12:51:07+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/vbb/</loc>
-    <lastmod>2013-04-04T10:03:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/veranstaltungen/</loc>
-    <lastmod>2017-02-08T13:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/verbraucherschutz/</loc>
-    <lastmod>2015-08-31T11:20:56+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5630,42 +5741,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/vereinbarkeit/</loc>
-    <lastmod>2017-07-31T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/verfassungsbeschwerde/</loc>
-    <lastmod>2016-12-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/verkehr/</loc>
-    <lastmod>2013-05-14T12:01:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/verkehrsbetriebe/</loc>
-    <lastmod>2012-09-06T14:21:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/verschl%C3%BCsselung/</loc>
-    <lastmod>2016-12-14T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/verwaltung/</loc>
-    <lastmod>2012-05-31T11:39:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/projekte/volksentscheid/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5677,12 +5752,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/volksentscheid/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/vorstand/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5714,117 +5783,33 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/wahldaten/</loc>
-    <lastmod>2017-10-04T08:00:00+00:00</lastmod>
+    <loc>https://okfn.de/categories/community/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/categories/community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/categories/community/"
+                />
   </url>
   
   <url>
-    <loc>https://okfn.de/blog/tags/wahlen/</loc>
-    <lastmod>2017-06-22T07:00:00+00:00</lastmod>
+    <loc>https://okfn.de/categories/education/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wepromise/</loc>
-    <lastmod>2014-05-15T09:49:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wettbewerb/</loc>
-    <lastmod>2012-12-14T18:27:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wetter/</loc>
-    <lastmod>2017-04-24T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/whistleblowing/</loc>
-    <lastmod>2015-01-27T17:25:23+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wikicon/</loc>
-    <lastmod>2016-05-22T20:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wikidata/</loc>
-    <lastmod>2017-06-22T07:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wikimedia/</loc>
-    <lastmod>2014-08-24T09:54:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wikipedia/</loc>
-    <lastmod>2016-05-22T20:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wirtschaftlich-berechtigter/</loc>
-    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wissenschaft/</loc>
-    <lastmod>2014-03-21T13:47:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/wissenschaftlicher-dienst/</loc>
-    <lastmod>2016-03-08T12:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/workshop/</loc>
-    <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/workshops/</loc>
-    <lastmod>2018-02-28T10:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/zensurheberrecht/</loc>
-    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/zivilgesellschaft/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/zugang-gestalten/</loc>
-    <lastmod>2015-08-17T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/zukunftsstrategien/</loc>
-    <lastmod>2015-08-17T13:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/categories/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/categories/education/"
+                />
   </url>
   
   <url>
@@ -5866,6 +5851,21 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/projekte/kleineanfragen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/categories/open-data/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/categories/open-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/categories/open-data/"
                 />
   </url>
   
