@@ -16,16 +16,16 @@ git config --global user.name "Travis"
 
 mkdir release
 cd release
+
+echo "Shallow-cloning release\n"
+git clone --quiet --branch=release --depth 1 https://${GITHUB_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git .
+
 cp -Rf $HOME/public/* .
 
-echo "Checking out orphan branch\n"
-git init
-git checkout --orphan release
-git remote add origin https://${GITHUB_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git > /dev/null
-
-echo "Pushing built site\n"
-git add -f . > /dev/null
+echo "Adding all changes and committing\n"
+git add -A .
 git commit -m "Travis build $TRAVIS_BUILD_NUMBER" > /dev/null
+echo "Pushing built site\n"
 git push -fq origin release > /dev/null
 
 echo "Done updating release\n"
