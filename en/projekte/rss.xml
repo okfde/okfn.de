@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Knowledge Foundation DE</title>
@@ -5,7 +6,7 @@
     <description>Projects on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 01 Jan 1970 01:33:34 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:34 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/en/projekte/rss.xml" rel="self" type="application/rss+xml" />
     
@@ -82,7 +83,7 @@ In line with our motto &amp;ldquo;Improve the world with code&amp;rdquo;, Jugend
     <item>
       <title>Zugang gestalten</title>
       <link>https://okfn.de/en/projekte/zuganggestalten/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:34 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 1970 00:33:34 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/zuganggestalten/</guid>
       <description>Museums, archives, libraries and momuments are operated and maintained with public funds. The international conference &amp;ldquo;Zugang gestalten&amp;rdquo; asks the question whether this is adequately reflected in the level of access to the cultural treasures that these institutions possess and maintain. The conference invites key figures in culture, science, civic society and politics to publicly explore different ways of accessing digital cultural heritage in Germany.
