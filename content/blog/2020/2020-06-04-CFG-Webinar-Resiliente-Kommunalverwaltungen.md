@@ -3,7 +3,7 @@ authors:
 - Claudia Jach
 date: 2020-06-04
 image: 
-  src: /static/files/blog/2020/05/Town_Picture_by_john_moeses_bauan_unsplash.jpg
+  src: /files/blog/2020/05/Town_Picture_by_john_moeses_bauan_unsplash.jpg
   title: Town_Picture_by_john_moeses_bauan_unsplash.jpg
   license:
   license_url:
