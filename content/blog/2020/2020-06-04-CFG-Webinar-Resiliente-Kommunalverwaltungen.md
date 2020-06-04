@@ -4,7 +4,7 @@ authors:
 date: 2020-06-04
 image: 
   src: /static/files/blog/2020/05/Town_Picture_by_john_moeses_bauan_unsplash.jpg
-  title: Town_Picture_by_john_moeses_bauan_unsplash.jpg
+  title: Town_Picture_by_john_moeses_bauan_unsplash
   license:
   license_url:
 tags:
@@ -34,7 +34,6 @@ Folgender **Ablauf** ist geplant:
 17.20 Uhr	Best Practice Beispiel
 
 17.30 Uhr	Diskussion
-
 Die Veranstaltung endet spätestens um 18.30 Uhr.
 
 Bitte melde dich unter dieser E-Mail Adresse an: krisenresilienz@staedtetag.de. Das Webinar wird als ZOOM-Konferenz veranstaltet werden.
