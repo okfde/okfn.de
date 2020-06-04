@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-05-12T00:00:00+0000</updated>
+  <updated>2020-06-04T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Webinar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/06/cfg-webinar-resiliente-kommunalverwaltungen/"/>
+    <id>https://okfn.de/blog/2020/06/cfg-webinar-resiliente-kommunalverwaltungen/</id>
+    <published>2020-06-04T00:00:00+0000</published>
+    <updated>2020-06-04T00:00:00+0000</updated>
+    <summary>Krisenzeiten legen Mängel und Versäumnisse schonungslos offen. Krisenzeiten machen aber auch einen Raum auf für Kreativität, Kooperation und Partizipation. Eine Zeit, in der neue Lösungen entstehen können.
+In Corona-Zeiten laufen Kommunalverwaltungen auf Hochtouren. Auflagen müssen schnell umgesetzt und dynamisch angepasst werden. Bürger*innen brauchen Informationen und auch die alltäglichen Verwaltungsdienstleistungen müssen weitergehen. Das alles passiert, während auch die Mitarbeiter*innen der Verwaltung zu großen Teilen ins Homeoffice sollen.
+Was können wir aus der Krise und in der Krise lernen?</summary>
+  </entry>
   
   <entry>
     <title>Von Nutzer*innen für Nutzer*innen: Communitytechnologien als Alltagshelfer – nicht nur in der Krise</title>
@@ -146,16 +157,6 @@ Wir wünschen uns, dass Henriettes Erfahrungen dazu beitragen können, unsere Wi
     <summary>Das Bündnis Volksentscheid Transparenz hat in weniger als vier Monaten 32.827 Unterschriften gesammelt! Heute hat die Initiative die Unterschriften an die zuständige Senatsverwaltung für Inneres übergeben.
 „Das Signal ist klar: Berlin braucht ein Transparenzgesetz. Um Korruption zu bekämpfen und Partizipation zu ermöglichen, muss das Land Berlin seine Aktenschränke öffnen“, sagt Arne Semsrott, Sprecher des Volksentscheids Transparenz.
 Das Bündnis hatte dem Senat bereits im Februar einen Entwurf für ein Berliner Transparenzgesetz überreicht.</summary>
-  </entry>
-  
-  <entry>
-    <title>Ökostrom in DE - Verbraucher* haben es schwer</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/11/umweltdatenschule-oekostrom-in-deutschland/"/>
-    <id>https://okfn.de/blog/2019/11/umweltdatenschule-oekostrom-in-deutschland/</id>
-    <published>2019-11-22T00:00:00+0000</published>
-    <updated>2019-11-21T00:00:00+0000</updated>
-    <summary>Seit einigen Monaten beschäftigen wir uns im Rahmen des Projektes &amp;ldquo;Umweltdatenschule&amp;rdquo; mit Daten rund um das Thema Energie. Gemeinsam mit Robin Wood arbeiten wir an einer Neuauflage des Ökostromberichtes, der mit interaktiven Modulen ausgestattet werden soll. Aus diesem Grund schauen wir uns die Ökostromanbieter in Deutschland, ihre Geschäftsmodelle, Herkunftsnachweise und Investitionsbemühungen genauer an. Hier berichten wir von Erkenntnissen, die sich aus unserer Recherche ergeben.
-Fast 100% des Ökostroms aus dem Ausland Bei der tiefergehenden Analyse von acht Ökostromanbietern, die wir anhand der Kriterien von Robin Wood ausgewählt haben, fällt eine Sache auf: Nahezu 100% des von diesen Unternehmen vertriebenen Ökostroms stammt aus Wasserkraftwerken.</summary>
   </entry>
   
 </feed>
