@@ -38,4 +38,4 @@ Die Veranstaltung endet spätestens um 18.30 Uhr.
 
 Bitte melde dich unter dieser E-Mail Adresse an: krisenresilienz@staedtetag.de. Das Webinar wird als ZOOM-Konferenz veranstaltet werden.
 
-Teil die [Einladung](https://github.com/okfde/okfn.de/raw/master/static/files/blog/2020/05/2020-05-07_EGovOpenData_NRW_Stellungnahme_OKF.pdf) auch mit deiner Stadtverwaltung! Die Veranstaltung ist für alle offen.
+Teil die [Einladung](https://github.com/okfde/okfn.de/raw/master/static/files/blog/2020/05/Einladung_Webinar_Krisenresilienz.pdf) auch mit deiner Stadtverwaltung! Die Veranstaltung ist für alle offen.
