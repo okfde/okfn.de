@@ -3,7 +3,7 @@ authors:
 - Henriette Litta
 date: 2020-06-08
 image: 
-  src: /files/blog/2020/Open_picture_by_alex_holyoake_unsplash.jpg
+  src: /files/blog/2020/06/Open_picture_by_alex_holyoake_unsplash.jpg
   title: Open_picture_by_alex_holyoake_unsplash.jpg
   license:
   license_url:
@@ -55,4 +55,4 @@ Die Einrichtung einer zentralen Stelle zur Beratung der Ressorts (Abs. 9) ist au
 
 Als Beratungsinstanz sollte die Zivilgesellschaft in diesen Prozess integriert werden. Nach der proaktiven Bereitstellung von Daten und Informationen gilt es die Einbindung der Zivilgesellschaft zu organisieren. Eine konkrete Einbindung der Zivilgesellschaft im Open Data Prozess ist im Entwurf aber nicht vorgesehen. Idealerweise werden Bürger\*innen in alle Phasen der Politikgestaltung mit einbezogen: Von der Problemidentifizierung, Ideenfindung und Prioritätensetzung bis hin zur Umsetzung von Maßnahmen. Dabei sollte die Beteiligung der Öffentlichkeit möglichst mit der Problemidentifizierung beginnen, damit ergebnisoffen gearbeitet werden kann (schaut euch dazu auch gern das [Handbuch Krisenresilienz](https://codefor.de/assets/presse/20200409-CFG-Handbuch-Krisenresilienz.pdf) von Code for Germany an).
 
-**Die komplette Stellungnahme könnt ihr [hier](https://github.com/okfde/okfn.de/raw/master/static/files/blog/2020/EGovOpenData_NRW_Stellungnahme_OKF.pdf) herunterladen.**
+**Die komplette Stellungnahme könnt ihr [hier](https://github.com/okfde/okfn.de/raw/master/static/files/blog/2020/06/EGovOpenData_NRW_Stellungnahme_OKF.pdf) herunterladen.**
