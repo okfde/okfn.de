@@ -8,10 +8,10 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 ## Kontakt
 
 **Ansprechpartner:**
-Michael Peters, Leonard Wolf<br>
+Leonard Wolf, Henriette Litta<br>
 **E-Mail:** presse@okfn.de<br>
 **Telefon:**
-+49 30 57 70 36 661
++49 30 57 70 36 660
 
 ## Presseverteiler
 
