@@ -161,6 +161,18 @@ Diese sind under `/data/downloadsverein.yml` definiert und können dort auch ang
 
 Auf der Finanzseite gibt es mehrere Grafiken, die die Entwicklung und Einnahmen/Ausgaben aufschlüsseln.
 
+Unter `/finanzen` befinden sich die herunterladbaren Jahresabschlüsse und Berichte der Wirtschaftsprüfung. Diese werden in `/data/downloadsfinanzierung.yml` definiert.
+
+- Jeweils `title` und `text` under den Sprachoptionen, wie sonst auch.
+- Ein Eintrag mit nur einer verlinkten Datei setzt einen Link mittels `path`
+- Mehrjährige Einträge definieren mit `years` eine Liste an Jahren, die gleichzeitig das Ende eines Dateinamen bilden und ein `prefix` mit Pfad und Dateinamenanfang.
+  - Beispiel: `prefix: /pfad/zur/datei` wird mit einem Eintrag für 1984 in der liste an `years` zu einem Link auf `/pfad/zur/datei-1984.pdf`.
+
+Das zugehörige Partial template ist zur Zeit unter `layouts/partials/downloads/finanzierung.html` zu finden.
+
+Für einen neuen Eintrag, einfach einen alten kopieren, an den _Anfang_ der Datei setzen (es wird nicht extra sortiert, die Reihenfolge in der Datei ist wichtig) und anpassen.
+
+
 Die Grafiken werden dynamisch aus CSV-Dateien erstellt, die sich in `/static/okf/finanzierung` befinden.
 Pro Grafik existiert eine CSV-Datei, deren Inhalte jeweils angepasst werden können. Die Dateinahmen und das Schema dürfen nicht verändert werden, weil sonst das Script kaput geht.
 

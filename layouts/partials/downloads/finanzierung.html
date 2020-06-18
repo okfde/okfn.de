@@ -16,15 +16,15 @@
       {{ with .path}}
         <p><a href="{{.}}">{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} PDF</a></p>
         {{ end }}
-
-        {{ with .years}}
+      {{ $p := .prefix }}
+      {{ with .years }}    
         <p>
-          {{ range $i, $v :=  . }}
+	  {{ range $i, $v := . }}
           {{ if ne $i 0 }},{{ end }}
-          <a href="/files/documents/OKF-DE-Gewinnermittlung-kurz-{{ $v }}.pdf">{{ $v }}</a>
+          <a href="{{ $p }}-{{ $v }}.pdf">{{ $v }}</a>
           {{ end }}
         </p>
-        {{ end }}
+      {{ end }}
     </div>
   </li>
   {{ end }}

@@ -11,4 +11,4 @@ search_keys:
   - Profit and loss statement
 ---
 
-Since our launch in 2011, we have been funded by foundations, ministries, research contracts and individual donors from the public and private sectors. In the financial year 2018, we raised close to 2.5 million euros for our work.
+Since our launch in 2011, we have been funded by foundations, ministries, research contracts and individual donors from the public and private sectors. In the financial year 2019, we raised anmore th 2.4 million euros for our work.
