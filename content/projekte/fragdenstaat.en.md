@@ -17,10 +17,18 @@ people:
     role: Project manager
   - name: Stefan Wehrmeyer
     role: Tech Lead
+  - name: Judith Doleschal
+    role: Communication und Community
+  - name: Phillip Hofmann
+    role: Head of Legal
+  - name: Lea Pfau
+    role: Campaigner
+  - name: Gregor Weichbrodt
+    role: Frontend Development and Design
 contact_person: arnesemsrott
 years: 2011 - today
 financing:
-  - demokratie.io
+  - Schöpflin-Stiftung
   - Donations
 contact:
   website: https://fragdenstaat.de

@@ -11,6 +11,44 @@
   twitter:
   website:
   
+- name: Dr. Phillip Hofmann
+  img: philliphofmann
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Head of Legal FragDenStaat
+  position_en: Head of Legal FragDenStaat
+  bio: "Phillip ist seit 2020 als Syndikusanwalt bei der Open Knowledge Foundation angestellt und als Head of Legal im Projekt FragDenStaat tätig. Bevor er zu FragDenStaat kam war er mehrere Jahre als Anwalt im Urheber-, Datenschutz- und IT-Recht in Kanzleien unterwegs. Im Auftrag von Informationsfreiheit und Transparenz sind seine Hobbies klagen und verklagt werden."
+  bio_en: "Phillip is the company lawyer for the Open Knowledge Foundation Germany since 2020 and working as Head of Legal for the project FragDenStaat. Before, he had been working as a lawyer for multiple years in the areas of copyright, data protection and IT law. In the name of freedom of information and transparency, his hobbies include sueing and being sued."
+  mail: phillip.hofmann@okfn.de
+  twitter: RA_PhilHofmann
+  website:
+
+- name: Giulia Norberti
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Buchhaltung
+  position_en: 
+  bio: "Giulia unterstützt die Geschäftsführung in Sachen Buchhaltung, Finanzen, Abrechnungen und allgemeine Chaosbewältigung."
+  bio_en: "Giulia supports the management in bookkeeping, finances, accounting and general chaos management"
+  mail: giulia.norberti@okfn.de
+  twitter: 
+  website: 
+
+- name: Gregor
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: SysAdmin
+  position_en: SysAdmin
+  bio: "Gregor unterstützt uns und unsere Projekte als Sytemadministrator. Er arbeitet für den produktiven Einsatz und die Förderung von Open Source Software."
+  bio_en: "Gregor supports us and our projects as system administrator. He works on facilitating open source software in business context."
+  mail: gregor.gilka@okfn.de
+  twitter: 
+  
 - name: Claudia Jach
   img: claudiajach
   staff: 1
@@ -336,13 +374,14 @@
 
 - name: Michael Peters
   img: michaelpeters
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektleitung Code for Germany, Open Government Netzwerk
   position_en: Project management Code for Germany, Open Government Netzwerk
-  bio: "Michael betreut die Code For Germany Community und arbeitet gemeinsam mit den OK Labs an nützlichen Anwendungen rund um offene Daten. Zudem koordiniert er das zivilgesellschaftliche Open Government Netzwerk, welches sich für mehr offenes Regierungs- und Verwaltungshandeln einsetzt. Michael hat Volkswirtschaft (M.Sc.) und Politikwissenschaft (B.A.) studiert und interessiert sich insbesondere für Netzpolitik. Er arbeitet seit 2016 bei der Open Knowledge Foundation."
-  bio_en: "Michael organises the Code For Germany community and works together with the OK Labs on useful applications around open data. He also coordinates the Open Government Civil Society Network, which advocates for more Open Government in Germany. Michael studied economics (M.Sc.) and political science (B.A.) and is particularly interested in digital policy issues. He has been with the Open Knowledge Foundation since 2016."
+  bio: "Michael betreute die Code For Germany Community und arbeitete gemeinsam mit den OK Labs an nützlichen Anwendungen rund um offene Daten. Zudem koordinierte er das zivilgesellschaftliche Open Government Netzwerk, welches sich für mehr offenes Regierungs- und Verwaltungshandeln einsetzt. Michael hat Volkswirtschaft (M.Sc.) und Politikwissenschaft (B.A.) studiert und interessiert sich insbesondere für Netzpolitik. Er arbeitete seit 2016 bis 2020 bei der Open Knowledge Foundation."
+  bio_en: "Michael organised the Code For Germany community and worked together with the OK Labs on useful applications around open data. He also coordinated the Open Government Civil Society Network, which advocates for more Open Government in Germany. Michael studied economics (M.Sc.) and political science (B.A.) and is particularly interested in digital policy issues. He has been with the Open Knowledge Foundation from 2016 until 2020."
   mail: michael.peters@okfn.de
   twitter: miguelitoj89
   github: michaeljokf
@@ -397,14 +436,14 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektmanagement Datenschule
-  position_en: Project management Datenschule
+  position: Projektleitung
+  position_en: Project management 
   bio: "Maximilian Voigt arbeitet für die OKF an Bildungsprojekten. Zudem engagiert er sich in offenen Werkstätten, beschäftigt sich mit Physical Computing und setzt sich für freie Bildung sowie Open Hardware ein. Maximilian ist Vorstand des [Verbunds Offener Werkstätten](https://www.offene-werkstaetten.org/) und studierte Technikjournalismus, Public Relations sowie Kultur und Technik. Seine Masterarbeit schrieb er über das Bildungspotenzial offener Werkstätten."
   bio_en: "Maximilian Voigt works on projects in the field of open education. Further more he campaigns for fabrication laboratories, is engaged in physical computing and supports free education. Before his work at the OKF he co founded the FabLab Cottbus e.V., studied technical journalism, public relations and culture and technology. His master thesis was about the educational potential of open workshops."
   mail: maximilian.voigt@okfn.de
   twitter: ma__vo
   website:
-  github:
+  github: maximusvo
 
 - name: Anna Alberts
   title:
@@ -552,7 +591,7 @@
   advisory: 0
   position: Vorstandsvorsitzender
   position_en: Chairman of the board
-  bio: "Andreas Pawelke ist seit 2014 im Vorstand der Open Knowledge Foundation Deutschland. Als unabhängiger Forscher und Berater arbeitet er mit internationalen Organisationen an verschiedenen Governance-Initiativen, um neue Wege zu identifizieren, zu entwickeln und zu testen, wie Menschen durch Technologie und digitale Daten gestärkt werden können. Als ehemaliger Direktor des Open Data Lab Jakarta entwarf und leitete er das erste Dateninnovationslabor der Web Foundation, das von einem multidisziplinären Team geleitet wird, das an Forschungs-, Innovations- und politischen Projekten arbeitet, um Daten für das soziale Wohl zu nutzen. Vor seinem Eintritt in die Web Foundation startete er gemeinsam mit dem Bundesministerium des Innern die Open Data Initiative und war als Associate Expert am Förderprogramm Verwaltungsreformen der GIZ Indonesien beteiligt. Er verbrachte auch Zeit damit, als entsandter Experte für die Weltbank und den UN Global Pulse zu arbeiten. Andreas studierte an der Technischen Universität Darmstadt, der Hertie School of Governance und der Eidgenössischen Technischen Hochschule in Spanien."
+  bio: "Andreas ist seit 2014 im Vorstand der Open Knowledge Foundation Deutschland. Als Berater, Coach und Trainer arbeitet er freiberuflich für internationale Organisationen wie das Entwicklungsprogramm der Vereinten Nationen und die Gesellschaft für Internationale Zusammenarbeit. Als ehemaliger Direktor des Open Data Lab Jakarta leitete er das erste Dateninnovationslabor der Web Foundation und war zuvor im Bundesministerium des Innern in den Aufbau der nationalen Open Data Initiative involviert."
   bio_en: "Andreas is chairing the board of Open Knowledge Foundation, a Berlin-based non-profit organisation with the mission to open up governance systems and processes to democratize information in Germany and beyond. As an independent researcher and advisor he is working with international organisations on various governance initiatives to identify, develop and test new ways of empowering people through technology and digital data. As the former director of the Open Data Lab Jakarta, he designed and led the Web Foundation’s first data innovation lab staffed by a multi-disciplinary team working on research, innovation and policy projects to harness data for the social good. Before joining the Web Foundation, he worked with the German Federal Ministry of the Interior to launch their open data initiative and as an associate expert with the administrative reforms support program of GIZ Indonesia. He also spent time working as a seconded expert to the World Bank and UN Global Pulse. Andreas studied at the Technical University of Darmstadt, the Hertie School of Governance and the Swiss Federal Institute of Technology in Lausanne and holds a Bachelor of Arts in Political Science and a Master of Public Policy."
   mail: andreas.pawelke@okfn.de
   twitter: pa_wela
@@ -877,13 +916,14 @@
 
 - name: Saadya Windauer
   img: saadyawindauer
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
-  position: Projektmanagement Jugend hackt
-  position_en: Project management Jugend hackt
-  bio: "Saadya arbeitet seit Januar 2017 bei der OKF und ist aktuell als Projektmanagerin bei Jugend hackt."
-  bio_en: "Saadya has been working for the Open Knowledge Foundation since January 2017 and is a projekt manager at the Jugend hackt."
+  board_alumni: 1
+  position: Projektmanagement 
+  position_en: Project management 
+  bio: "Saadya arbeitete zwischen 2017 und 2020 bei der OKF. Sie arbeitete in folgenden Projekten: Datensummit, Demokratielabore, 2030Watch und Jugendhackt."
+  bio_en: "Saadya worked between 2017 and 2020 at OKF. She worked in the following projects: Datensummit, Demokratielabore, 2030Watch und Jugendhackt."
   mail: saadya.windauer@okfn.de
   twitter:
   website:
@@ -1023,3 +1063,17 @@
   mail: tomas.novy@jugendhackt.org 
   twitter: https://twitter.com/_TomNovy_
   github: https://github.com/Verschwoercode 
+  
+- name: Juliane 'Juka' Wessalowski
+  img: juka
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Verschwoerhaus & Jugend hackt Ulm
+  position_en: Verschwoerhaus & Jugend hackt Ulm
+  bio: "Juka hält die Open Data Flagge für die OKF in Ulm hoch, veranstaltet Jugend hackt Ulm und mehr Programm rund um Digitale Mündigkeit im Verschwörhaus. Sie ist Medieninformatikerin auf dem Papier, Künstlerin im Herzen und hinterfragt gerne alles."
+  bio_en: "Juka keeps the flag flying for open data and OKF in Ulm/Southern Germany. Organizes Jugend hackt Ulm and other stuff all about digital literacy in the Verschwoerhaus maker space. She graduated in Computer Science and Media, while being an artist at heart, and loves to question all the things!"
+  mail: juliane.wessalowski@okfn.de
+  twitter: https://twitter.com/gruenzeug
+  website: https://verschwoerhaus.de/
+  github: https://github.com/gruenzeug

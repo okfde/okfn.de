@@ -16,8 +16,6 @@ card: true
 published: true
 title: "Durchblick beim Rohstoffabbau" 
 
-aliases:
-  - /blog/2017/10/Durchblick-beim-Rohstoffabbau/
 
 ---
 

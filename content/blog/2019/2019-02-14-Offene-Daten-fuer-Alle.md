@@ -15,9 +15,6 @@ card: true
 published: true
 title: "Offene Daten für Alle" 
 
-aliases:
-  - /blog/2019/02/Offene-Daten-fuer-Alle/
-
 ---
 
 Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt,

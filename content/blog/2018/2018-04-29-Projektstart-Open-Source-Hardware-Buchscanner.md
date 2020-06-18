@@ -17,8 +17,6 @@ tags:
 
 title: "Open Hardware: Ein Buchscanner für mehr offenes Wissen"
 
-aliases:
-  - /blog/2018/04/Projektstart-Open-Source-Hardware-Buchscanner/
 
 ---
 

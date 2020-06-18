@@ -17,8 +17,6 @@ card: true
 published: true
 title: "Der Jahresbericht 2017 der Open Knowledge Foundation Deutschland" 
 
-aliases:
-  - /blog/2018/05/Jahresbericht-2017/
 
 ---
 

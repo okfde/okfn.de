@@ -18,8 +18,6 @@ tags:
 
 title: "Der Turing-Bus kommt nach Cottbus"
 
-aliases:
-  - /blog/2018/04/Turing-Bus-in-Cottbus/
 
 ---
 

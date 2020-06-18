@@ -27,12 +27,13 @@ A current extract from the register of associations of 2018 can be found [here](
 At the 2018 general meeting, Andreas Pawelke was elected chairman of the board, Lucy Chambers deputy chairman. Kristina Klein was elected treasurer for a period of two years in the 2017 general meeting. Further board members are Daniel Dietrich and Jana Wichmann. Until June 2019, Nadine Evers had been managing director of the association.
 
 #### Ethics Officer
-On 29.03.2017 Paula Grünwald was elected Ethics Officer. Questions regarding ethics and the code of conduct can be directed to ethics@okfn.de .
+Our current OKF Ethics Officer ist Giulia Norberti. Questions regarding ethics and the code of conduct can be directed to ethics@okfn.de .
 
 #### Data protection officer
 Our external data protection officer is Beata-Konstanze Hubrig from [Rechtsanwaltskanzlei Hubrig](https://kanzlei-hubrig.de/).
 
 ### 5. Annual report
+Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
 [Annual Report 2018](https://2018.okfn.de/) <br>
 [Annual Report 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>

@@ -15,8 +15,6 @@ tags:
 - Nachhaltigkeitsstrategie
 title: "Aus dem Schatten heraus - Entwurf der neuen deutschen Nachhaltigkeitsstrategie"
 
-aliases:
-  - /blog/2016/07/Nachhaltigkeitsstrategie/
 
 ---
 

@@ -16,8 +16,6 @@ card: true
 published: true
 title: "Erster deutscher EITI-Bericht veröffentlicht" 
 
-aliases:
-  - /blog/2017/09/Erster-EITI-Bericht-veroeffentlicht/
 
 ---
 

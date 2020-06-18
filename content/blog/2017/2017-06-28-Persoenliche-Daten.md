@@ -16,8 +16,6 @@ card: true
 published: true
 title: "Digitale Souveränität" 
 
-aliases:
-  - /blog/2017/06/Persoenliche-Daten/
 
 ---
 

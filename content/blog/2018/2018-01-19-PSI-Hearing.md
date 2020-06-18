@@ -13,8 +13,6 @@ published: true
 card: true
 title: "Live aus Brüssel: Anhörung zur neuen PSI-Richtlinie" 
 
-aliases:
-  - /blog/2018/01/PSI-Hearing/
 
 ---
 

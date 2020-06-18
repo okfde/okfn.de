@@ -20,8 +20,6 @@ card: true
 
 title: "Making European Subsidy Data Open"
 
-aliases:
-  - /blog/2017/04/Making-EU-Data-Open/
 
 ---
 One month after releasing [subsidystories.eu](http://subsidystories.eu/) a joint project with Open Knowledge International, we have some great news to share. Due to the extensive outreach of our platform and the [data quality report](https://okfn.de/blog/2017/04/esif-data-quality-index/) we published, new datasets have been directly sent to us by several administrations. We have recently added new data for Austria, the Netherlands, France and the United Kingdom. Furthermore, first Romanian data recently arrived and should be available in the near future. 

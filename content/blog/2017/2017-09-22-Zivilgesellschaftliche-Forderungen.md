@@ -17,8 +17,6 @@ layout: post
 card: true
 title: "Zivilgesellschaftliche Forderungen an die zukünftige Bundesregierung" 
 
-aliases:
-  - /blog/2017/09/Zivilgesellschaftliche-Forderungen/
 
 ---
 

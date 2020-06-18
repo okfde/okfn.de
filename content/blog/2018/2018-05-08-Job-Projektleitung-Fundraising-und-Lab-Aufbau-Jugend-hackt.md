@@ -17,8 +17,6 @@ published: false
 title: "Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)"
 jobs: "Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)"
 
-aliases:
-  - /blog/2018/05/Job-Projektleitung-Fundraising-und-Lab-Aufbau-Jugend-hackt/
 
 ---
 

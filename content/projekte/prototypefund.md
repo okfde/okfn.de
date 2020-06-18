@@ -5,6 +5,7 @@ type: research
 kategorien:
   - Civic Tech
   - Community
+  - Public Interest Tech
 tile: double
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
@@ -16,11 +17,13 @@ people:
   - name: Adriana Groh
     role: Projektleitung
   - name: Katharina Meyer
-    role: Head of Communications & Research
+    role: Head of Research
   - name: Thomas Friese
     role: Program Management & Technology
   - name: Marie Gutbub
     role: Program Management & Events
+  - name: Patricia Leu
+    role: Head of Communications
   - name: Gregor Gilka
 financing:
   - BMBF
@@ -44,11 +47,11 @@ more_text: |-
 ---
 Mit dem Prototype Fund unterstützen wir gesellschaftlich relevante Software-Projekte und erhöhen ihre nachhaltige Wirkung durch Open Source aus Prinzip. Kurz: __Wir fördern Public Interest Tech.__
 
-Wir machen digital-soziale Innovation möglich; mit Entwickler\*innen-Gruppen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und ihre guten Ideen weitergeben.
+Wir machen digital-soziale Innovation möglich; mit Entwickler\*innen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und ihre guten Ideen weitergeben.
 Mit bis zu 47.500 Euro pro Projekt und Team unterstützt der Fördertopf Softwareentwickler*innen, Hacker*innen und Kreative dabei, Skizzen für Tools und Anwendungen in den Bereichen Civic Tech, Data Literacy, IT-Sicherheit und Software–Infrastruktur umzusetzen.
 
 Neben der finanziellen Unterstützung bieten wir auf dem Weg zum Prototypen Coachings von Mentor\*innen und den Austausch mit unserem umfangreichen und vielfältigen Netzwerk aus Coder\*innen, weiteren Praktiker\*innen und potenziellen Anwender\*innen.
 
-Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von Selbstständigen angepasst. Bisher konnten wir bereits 4,8 Millionen an 118 Projekte ausgeben (Stand nach Runde 6). Das Programm läuft über insgesamt 8 Förderrunden noch bis 2020.
+Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von Selbstständigen angepasst. Bisher konnten wir bereits 5,75 Millionen an 140 Projekte ausgeben (Stand: März 2020). Das Programm läuft über insgesamt 16 Förderrunden noch bis 2024.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/zgkci_5avz0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MOGdX7ipcu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

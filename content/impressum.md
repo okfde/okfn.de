@@ -151,13 +151,7 @@ Zu diesen Daten gehören zum Beispiel
 - die durchschnittliche Verweildauer in unserem Angebot und
 - die in unserer Web-Site aufgerufenen Seiten.
 
-Für die Nutzung von Matomo verwenden wir sogenannte „Cookies“. Hierbei handelt es sich um kleine Textdateien, die ein Webserver an ihren Computer senden kann, um diesen für die Dauer des Besuches zu identifizieren. Wir setzen die beiden Session Cookies pk_ses sowie die persistenten Cookies pk_id und pk_ref ein. Über diese Cookies erfassen wir keine personenbezogenen Daten von Ihnen.
-
-pk_ses wird grundsätzlich nach dem Beenden Ihrer Browsersitzung gelöscht, lediglich bei pk_id und pk_ref handelt es sich um ein über eine Browsersitzung hinaus bestehendes (sog. persistentes) Cookie, anhand dessen wir erkennen können, wann ein Nutzer unsere Seite erneut besucht. Sofern Sie das Cookie nicht selbst entfernen, löscht es sich nach 1 Jahr bzw. 6 Monaten selbständig.
-
-Die Darstellung unserer Internetseite ist auch ohne Speicherung von Cookies möglich. Sie können das Speichern von Cookies in den Einstellungen ihres Browsers deaktivieren oder diesen so einstellen, dass er Sie über die beabsichtigte Speicherung durch eine Internetseite informiert. In diesem Fall entscheiden Sie über die Annahme des Cookies.
-
-Zudem können durch die Entfernung des folgenden [Hakens](https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de) verhindern, dass wir mittels Matomo Analyse-Cookies auf Ihrem Endgerät setzen. In diesem Fall wird ein Cookie gesetzt um uns zu signalisieren, dass Sie der Nutzung widersprochen haben.
+Durch die Entfernung des folgenden [Hakens](https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de) können Sie verhindern, dass wir mittels Matomo Ihre Besuche zählen. In diesem Fall wird ein Cookie gesetzt um uns zu signalisieren, dass Sie der Nutzung widersprochen haben.
 
 Bitte beachten Sie, dass die jeweiligen Einstellungen bzgl. Cookies nur für Ihr aktuell benutztes Gerät und Ihren aktuell benutzten Browser wirksam sind. Sollten Sie ein anderes Gerät oder einen anderen Browser benutzen, müssen Sie in der Regel die Einstellungen erneut vornehmen. Zudem unterstützen wir die „Do not Track“ Funktion Ihres Browsers. Hiermit können Sie uns aktiv über Ihre Browsereinstellungen mitteilen, ob Sie eine Aufzeichnung Ihrer Aktivitäten wünschen oder nicht. Haben Sie „Do not Track“ aktiviert, erfolgt keine Aufzeichnung Ihrer Aktivitäten.
 
@@ -168,4 +162,4 @@ Die Rechtsgrundlage für die Verwendung von Matomo findet sich in Art. 6 Abs. 1 
 
 Wir treffen alle erdenklichen Vorkehrungen zum Schutz und zur Sicherheit Ihrer Daten. Ihre Fragen und Kommentare zum Datenschutz sind uns willkommen, schreiben Sie einfach eine Mail an info@okfn.de.
 
-Berlin, April 2018
+Berlin, Mai 2020

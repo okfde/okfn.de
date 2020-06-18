@@ -20,8 +20,6 @@ card: true
 published: true
 title: "Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan" 
 
-aliases:
-  - /blog/2017/03/OGP-zivilgesellschaftlichen-Ideen/
 
 ---
 [Update 19.05.17](https://okfn.de/blog/2017/03/OGP-zivilgesellschaftlichen-Ideen/#Update-Dialogworkshop)

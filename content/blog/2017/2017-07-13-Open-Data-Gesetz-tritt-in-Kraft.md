@@ -17,8 +17,6 @@ card: true
 published: true
 title: "Öffentliche Ankündigung: Das Open-Data-Gesetz ist in Kraft" 
 
-aliases:
-  - /blog/2017/07/Open-Data-Gesetz-tritt-in-Kraft/
 
 ---
 

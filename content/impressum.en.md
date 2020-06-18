@@ -154,13 +154,7 @@ This data includes, for example
 - the average length of stay in our offer, and
 - the pages called in our web site.
 
-For the use of Matomo we use so-called "cookies". These are small text files that a web server can send to your computer to identify it for the duration of your visit. We use the two session cookies pk_ses and the persistent cookies pk_id and pk_ref. We do not collect any personal data from you via these cookies.
-
-pk_ses is always deleted after your browser session has ended; only pk_id and pk_ref are persistent cookies that are persistent beyond a browser session and enable us to recognise when a user visits our site again. If you do not remove the cookie yourself, it is deleted automatically after 1 year or 6 months.
-
-The presentation of our website is also possible without the storage of cookies. You can deactivate the storage of cookies in the settings of your browser or set it so that it informs you of the intended storage by an Internet page. In this case, you decide whether to accept the cookie.
-
-In addition, by removing the [hook](https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de), we can prevent Matomo from placing analysis cookies on your device. In this case, a cookie will be set to indicate to us that you have objected to its use.
+In addition, by removing the [check mark on this site](https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de), we can prevent Matomo from counting your visit at all. In this case, a cookie will be set to indicate to us that you have objected to its use.
 
 Please note that the respective settings regarding cookies are only effective for your currently used device and your currently used browser. If you are using a different device or browser, you will usually have to change the settings again. We also support the "Do not Track" function of your browser. This allows you to actively tell us via your browser settings whether you wish your activities to be recorded or not. If you have activated "Do not Track", your activities will not be recorded.
 
@@ -170,4 +164,4 @@ The legal basis for the use of Matomo can be found in Art. 6 para. 1 lit. f) GDP
 
 We take all possible precautions to protect and secure your data. Your questions and comments on data protection are welcome, simply send an e-mail to info@okfn.de.
 
-Berlin, April 2018
+Berlin, Mai 2020

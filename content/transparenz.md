@@ -33,16 +33,17 @@ Aktuelle Ethikbeauftragte der OKF ist Giulia Norberti. Fragen zu Ethik und Verha
 Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechtsanwaltskanzlei Hubrig](https://kanzlei-hubrig.de/).
 
 ### 5. Tätigkeitsbericht
+Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Finanzierung. Seit 2017 erstellen wir unseren Tätigkeits- und Transparenzbericht darum nach Social Reporting Standard.
 
-[Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
-[Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
-[Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
-[Tätigkeitsbericht 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf) <br>
-[Tätigkeitsbericht 2015](/files/documents/OKFDE-Taetigkeitsbericht-2015.pdf) <br>
-[Tätigkeitsbericht 2014](/files/documents/OKFDE-Taetigkeitsbericht-2014.pdf) <br>
-[Tätigkeitsbericht 2013](/files/documents/OKFDE-Taetigkeitsbericht-2013.pdf) <br>
-[Tätigkeitsbericht 2012](/files/documents/OKFDE-Taetigkeitsbericht-2012.pdf) <br>
-[Tätigkeitsbericht 2011](/files/documents/OKFDE-Taetigkeitsbericht-2011.pdf)
+- [Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
+- [Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
+- [Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
+- [Tätigkeitsbericht 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf) <br>
+- [Tätigkeitsbericht 2015](/files/documents/OKFDE-Taetigkeitsbericht-2015.pdf) <br>
+- [Tätigkeitsbericht 2014](/files/documents/OKFDE-Taetigkeitsbericht-2014.pdf) <br>
+- [Tätigkeitsbericht 2013](/files/documents/OKFDE-Taetigkeitsbericht-2013.pdf) <br>
+- [Tätigkeitsbericht 2012](/files/documents/OKFDE-Taetigkeitsbericht-2012.pdf) <br>
+- [Tätigkeitsbericht 2011](/files/documents/OKFDE-Taetigkeitsbericht-2011.pdf)
 
 
 ### 6. Personalstruktur
@@ -53,15 +54,15 @@ Adriana Groh, Alex Taralle, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris J
 
 ### 7. & 8. Angaben zur Mittelherkunft & -verwendung
 
-[Bilanz und Bericht der Wirtschaftsprüfung 2019](/files/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
-[Bilanz und Bericht der Wirtschaftsprüfung 2018](/files/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
-[Einnahmenüberschussrechnung 2017](/files/documents/jahresabschluesse/jahresabschluss-2017.pdf) <br>
-[Einnahmenüberschussrechnung 2016](/files/documents/jahresabschluesse/jahresabschluss-2016.pdf) <br>
-[Einnahmenüberschussrechnung 2015](/files/documents/jahresabschluesse/jahresabschluss-2015.pdf) <br>
-[Einnahmenüberschussrechnung 2014](/files/documents/jahresabschluesse/jahresabschluss-2014.pdf) <br>
-[Einnahmenüberschussrechnung 2013](/files/documents/jahresabschluesse/jahresabschluss-2013.pdf) <br>
-[Einnahmenüberschussrechnung 2012](/files/documents/jahresabschluesse/jahresabschluss-2012.pdf) <br>
-[Einnahmenüberschussrechnung 2011](/files/documents/jahresabschluesse/jahresabschluss-2011.pdf)
+- [Bilanz und Bericht der Wirtschaftsprüfung 2019](/files/WP-Berichte/OKF-DE-WPBericht-2019.pdf) 
+- [Bilanz und Bericht der Wirtschaftsprüfung 2018](/files/WP-Berichte/OKF-DE-WPBericht-2018.pdf) 
+- [Einnahmenüberschussrechnung 2017](/files/documents/jahresabschluesse/jahresabschluss-2017.pdf) 
+- [Einnahmenüberschussrechnung 2016](/files/documents/jahresabschluesse/jahresabschluss-2016.pdf)
+- [Einnahmenüberschussrechnung 2015](/files/documents/jahresabschluesse/jahresabschluss-2015.pdf)
+- [Einnahmenüberschussrechnung 2014](/files/documents/jahresabschluesse/jahresabschluss-2014.pdf)
+- [Einnahmenüberschussrechnung 2013](/files/documents/jahresabschluesse/jahresabschluss-2013.pdf)
+- [Einnahmenüberschussrechnung 2012](/files/documents/jahresabschluesse/jahresabschluss-2012.pdf)
+- [Einnahmenüberschussrechnung 2011](/files/documents/jahresabschluesse/jahresabschluss-2011.pdf)
 
 ### 9. Gesellschaftsrechtliche Verbundenheit mit Dritten
 Es existiert ein [Memorandum of Understanding](/files/documents/05_Memorandum_of_Understanding.pdf) mit der OKFN aus Großbritannien.<br>

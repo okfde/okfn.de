@@ -12,8 +12,6 @@ card: true
 published: true
 title: "Was macht eigentlich die Open Government Partnership"
 
-aliases:
-  - /blog/2017/11/Open-Government Partnership/
 
 ---
 

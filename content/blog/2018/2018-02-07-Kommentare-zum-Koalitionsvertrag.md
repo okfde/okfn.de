@@ -18,8 +18,6 @@ card: true
 published: false
 title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version" 
 
-aliases:
-  - /blog/2018/02/Kommentare-zum-Koalitionsvertrag/
 
 ---
 

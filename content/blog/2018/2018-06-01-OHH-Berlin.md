@@ -13,8 +13,6 @@ card: true
 published: true
 title: "Berlin Doppelhaushalt 2018/2019 im neuem Design und mit erweiterten Funktionen" 
 
-aliases:
-  - /blog/2018/06/OHH-Berlin/
 
 ---
 

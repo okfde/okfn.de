@@ -13,9 +13,11 @@ weight: 2
 img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
-  - name: Michael Peters
+  - name: Adriana Groh
+    role: Projektleitung
+  - name: Claudia Jach
     role: Community Organiser
-contact_person: michaelpeters
+contact_person: adrianagroh
 years: 2014 - heute
 partners:
   - Code for All
@@ -47,4 +49,6 @@ Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilli
 
 Einige Städte haben bereits Open Data Programme und stellen Datensätze offen zur Verfügung, vielerorts mangelt es jedoch noch an Anwendungen und Beispielen, die den praktischen Nutzen von offenen Daten aufzeigen – genau hier setzt Code for Germany an. Neben Software Projekten wird auch an „Do it yourself“ Hardware Projekten gearbeitet wie dem Netzwerk an Feinstaubsensoren oder dem Long Range Wide Area Network (LoRaWan).
 
-Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf 26 Labs angewachsen und umfasst eine Community von über 500 Freiwilligen.
+Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf 26 Labs angewachsen und umfasst eine Community von über 500 Freiwilligen. 
+
+Im Jahr 2020 wird unser Jahresfokus "Code for Climate" mit Mitteln der Deutschen Postcode Lotterie unterstützt.

@@ -13,9 +13,6 @@ tags:
 title: Teamverstärkung für die "Datenschule"
 type: post
 
-aliases:
-  - /blog/2016/04/stellenausschreibung-dS/
-
 ---
 
 <strong>Die Open Knowledge Foundation Deutschland sucht Teamverstärkung im Bereich Projektmanagement und Datenanalyse für das Projekt "Datenschule"</strong>

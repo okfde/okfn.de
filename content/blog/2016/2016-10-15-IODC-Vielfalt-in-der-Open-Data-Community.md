@@ -15,8 +15,6 @@ layout: post
 card: true
 title: IODC2016 – Vielfältigkeit in der Open Data Community
 
-aliases:
-  - /blog/2016/10/IODC-Vielfalt-in-der-Open-Data-Community/
 
 ---
 

@@ -12,8 +12,6 @@ layout: post
 card: true
 title: "Wanted: neue Büroräume" 
 
-aliases:
-  - /blog/2018/04/Wanted-neue-Bueroraeume/
 
 ---
 
