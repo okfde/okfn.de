@@ -15,7 +15,7 @@ Vereinsregister Nr: VR 30468 B <br>
 Gründungsjahr des Open Knowledge Foundation Deutschland e.V. ist 2011.
 
 ### 2. Vollständige Satzung sowie Angaben zu den Organisationszielen
-Die Satzung der Open Knowledge Foundation Deutschland e.V. ist [hier einsehbar](/files/documents/01_Satzung.pdf).
+Die Satzung der Open Knowledge Foundation Deutschland e. V. ist [hier einsehbar](/files/documents/01_Satzung.pdf).
 
 
 ### 3. Angaben zur Steuerbegünstigung
@@ -24,16 +24,17 @@ Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderu
 Ein aktueller Auszug aus dem Vereinsregister von 2018 ist [hier einsehbar](/files/documents/Vereinsregisterauszug_OKFDE_2018.pdf).
 
 ### 4. Name und Funktion wesentlicher Entscheidungsträger
-Gemäß Mitgliederversammlung vom sind Andreas Pawelke zum Vorstandsvorsitzenden, Lucy Chambers zur stellvertretenden Vorstandsvorsitzenden und Kristina Klein zur Kassenwartin für 2 Jahre gewählt. Weitere Vorstandsmitglieder sind Daniel Dietrich und Jana Wichmann. Bis Juni 2019 hatte Nadine Evers die Geschäftsführung inne, seither hat Juliane Krüger kommissarisch die geschäftsführenden Aufgaben übernommen.
+Gemäß Mitgliederversammlung vom 28.05.2020 sind Andreas Pawelke zum Vorstandsvorsitzenden, Jana Wichmann zur stellvertretenden Vorstandsvorsitzenden und Gabriele Klug zur Kassenwartin für 2 Jahre gewählt. Weitere Vorstandsmitglieder sind Daniel Dietrich, Julia Reda, Kristina Klein, Lea Gimpel und Stefan Heumann. Seit Januar 2020 hat Henriette Litta die Geschäftsführung inne.
 
 #### Ethikbeauftragte
-Am 29.03.2017 wurde Paula Grünwald zur Ethikbeauftragten gewählt. Fragen zu Ethik und Verhaltenskodex können an ethics@okfn.de gerichtet werden.
+Aktuelle Ethikbeauftragte der OKF ist Giulia Norberti. Fragen zu Ethik und Verhaltenskodex können an ethics@okfn.de gerichtet werden.
 
 #### Datenschutzbeauftragte
 Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechtsanwaltskanzlei Hubrig](https://kanzlei-hubrig.de/).
 
 ### 5. Tätigkeitsbericht
 
+[Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
 [Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
 [Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
 [Tätigkeitsbericht 2016](/files/documents/OKFDE-Taetigkeitsbericht-2016.pdf) <br>
@@ -46,20 +47,21 @@ Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechts
 
 ### 6. Personalstruktur
 
-#### Teammitglieder Geschäftsjahr 2018
+#### Teammitglieder Geschäftsjahr 2019
 
-Adriana Groh, Andrej Sandorf, Anna Alberts, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris Jantoljak, Edgar Zanella Alvarenga, Elisabeth Lindiger, Ernesto Ruge, Fiona Krakenbürger, Giulia Norberti, Gregor Gilka, Helene Hahn, Jasmin Helm, Jessica Binsch, Jenny Gebske, John David Langlo, Juliane Krüger, Juliane Wessalowski, Katharina Meyer, Knut Perseke, Lea Pfau, Lea Schubert, Leonard Wolf, Lisa Passing, Lydia Böttcher, Mara Mendes, Markus Neuschäfer, Matthias Löwe, Maximilian Richt, Maximiian Voigt, Michael Peters, Moritz Neujeffski, Nadine Evers, Nadine Stammen, Paula Grünwald (geb. Glaser), Philip Steffan, Rebecca Varghese Buchholz, Saadya Windauer, Sebastian Schröder, Sonja Fischbauer, Stefan Wehrmeyer, Tanja Zagel, Thomas Friese, Torben Reichert, Walter Palmetshofer
+Adriana Groh, Alex Taralle, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris Jantoljak, Edgar Zanella Alvarenga, Elisabeth Lindiger, Ernesto Ruge, Eva Holzheimer, Giulia Norberti, Gregor, Jakob Schieck, Jasmin Helm, Judith Doleschal, Juliane Krüger, Juliane Wessalowski, Katharina Meyer, Lea Pfau, Leonard Wolf, Lisa Passing, Lydia Böttcher, Markus Neuschäfer, Matthias Löwe, Marie Gutbub, Maximilian Richt, Maximiian Voigt, Michael Peters, Nadine Evers, Nadine Stammen, Paula Grünwald (geb. Glaser), Philip Steffan, Saadya Windauer, Sebastian Schröder, Sonja Fischbauer, Stefan Wehrmeyer, Thomas Friese, Tomas Novy, Torben Reichert, Walter Palmetshofer
 
 ### 7. & 8. Angaben zur Mittelherkunft & -verwendung
 
-[Bilanz und Bericht der Wirtschaftsprüfung 2018] (/files/documents/OKF-DE-BilanzundWPBericht-2018.pdf) <br>
-[Gewinn- und Verlustrechnung 2017](/files/documents/OKF-DE-Gewinnermittlung-kurz-2017.pdf) <br>
-[Gewinn- und Verlustrechnung 2016](/files/documents/OKF-DE-Gewinnermittlung-kurz-2016.pdf) <br>
-[Gewinn- und Verlustrechnung 2015](/files/documents/OKF-DE-Gewinnermittlung-kurz-2015.pdf) <br>
-[Gewinn- und Verlustrechnung 2014](/files/documents/OKF-DE-Gewinnermittlung-kurz-2014.pdf) <br>
-[Gewinn- und Verlustrechnung 2013](/files/documents/OKF-DE-Gewinnermittlung-kurz-2013.pdf) <br>
-[Gewinn- und Verlustrechnung 2012](/files/documents/OKF-DE-Gewinnermittlung-kurz-2012.pdf) <br>
-[Gewinn- und Verlustrechnung 2011](/files/documents/OKF-DE-Gewinnermittlung-kurz-2011.pdf)
+[Bilanz und Bericht der Wirtschaftsprüfung 2019](/files/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
+[Bilanz und Bericht der Wirtschaftsprüfung 2018](/files/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
+[Einnahmenüberschussrechnung 2017](/files/documents/jahresabschluesse/jahresabschluss-2017.pdf) <br>
+[Einnahmenüberschussrechnung 2016](/files/documents/jahresabschluesse/jahresabschluss-2016.pdf) <br>
+[Einnahmenüberschussrechnung 2015](/files/documents/jahresabschluesse/jahresabschluss-2015.pdf) <br>
+[Einnahmenüberschussrechnung 2014](/files/documents/jahresabschluesse/jahresabschluss-2014.pdf) <br>
+[Einnahmenüberschussrechnung 2013](/files/documents/jahresabschluesse/jahresabschluss-2013.pdf) <br>
+[Einnahmenüberschussrechnung 2012](/files/documents/jahresabschluesse/jahresabschluss-2012.pdf) <br>
+[Einnahmenüberschussrechnung 2011](/files/documents/jahresabschluesse/jahresabschluss-2011.pdf)
 
 ### 9. Gesellschaftsrechtliche Verbundenheit mit Dritten
 Es existiert ein [Memorandum of Understanding](/files/documents/05_Memorandum_of_Understanding.pdf) mit der OKFN aus Großbritannien.<br>
@@ -68,6 +70,7 @@ möglich. Es besteht keine Mitgliedschaft in einer anderen Organisationen.Wir si
 
 ### 10. Namen von juristischen Personen, deren jährliche Zahlungen mehr als 10 % des Gesamtjahresbudgets ausmachen
 
-Die Zahlung des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur Finanzierung der Demokratierlabore macht 33% des Gesamtjahresbudgets für 2018 aus.
+Die Zahlung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds einerseits (20,46%) und des Projekts Turing Bus (2,02%) andererseits machte insgesamt 22,48% des Gesamtjahresbudgets für 2019 aus.
 
-Die Zahlung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds macht 16,8% und zur Förderung der Projekte edulabs, TuringBus und Jugend hackt weitere 9,2% des Gesamtjahresbudgets für 2018 aus.
+Zudem entspricht die Förderung durch die Skala-Initiative weiteren 13,15% unseres Gesamjahresbudgets 2019. Davon wurde zur Hälfte das Projekt Jugend hackt gefördert und zur Hälfte gezielt Maßnahmen zur Organisationsentwicklung unterstützt, um die internen und auch finanziellen Strukturen der OKF an das Wachstum der vergangenen Jahre anzupassen.
+

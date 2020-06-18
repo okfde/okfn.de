@@ -9,4 +9,4 @@ Most of our spendings are linked to the implementation of projects and the organ
 <div class="ausgaben"></div>
 <small>** for example infrastructure, book keeping, insurances</small>
 
-On average, we currently employ 36 people, but not all of them are full-time staff.
+In 2019, on average, we employed 32 people, but not all of them were full-time staff. 27 team members worked directly from our Berlin office, and five additional team members worked from our labs in Ulm and Fürstenberg or from the Berlin OGP office.

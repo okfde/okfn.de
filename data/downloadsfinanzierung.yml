@@ -6,24 +6,16 @@
     text: The notice of exemption is issued by the tax office for corporations and indicates that we are tax-privileged.
   path: /files/documents/FreistellungsbescheidOKF_2018.pdf
 - de:
-    title: Eröffnungsbilanz
-    text: Zum Jahreswechsel 2017/18 hat die OKF auf Bilanzierung umgestellt.
+    title: Bilanz (ab 2018) / Einnahmenüberschussrechnung (vor 2018)
+    text: 2018 hat sich die OKF entschieden, von Einnahmenüberschussrechnung auf Bilanzierung umzusteigen und erstellt seither zudem – ebenfalls freiwillig – Anhang und Lagebericht.
   en:
-    title: Opening balance[DE]
-    text: At the turn of the year 2017/18, OKF switched to balance sheet preparation.
-  path: /files/documents/Eroeffnungsbilanz 2018.pdf
-- de:
-    title: Bilanz mit Lagebericht und Bericht der Wirtschaftsprüfung 2018
-    text: Die Gesamteinnahmen betrugen 2.498.547,10 €. Dem standen Gesamtausgaben von insgesamt 2.385.377,25 € gegenüber.
-  en:
-    title: Balance sheet and audit report 2018 [DE]
-    text: Total revenues amounted to € 2,498,547.10. This was offset by total expenditure of € 2,385377.25 €.
-  path: /files/documents/OKF-DE-BilanzundWPBericht-2018.pdf
-- de:
-    title: Gewinn- und Verlustrechnung
-  en:
-    title: Profit and loss statements [DE]
+    title: Balance sheets / Profit and loss statements [DE]
+    text: In 2018, we decided to switch our accounting method to balance sheets, and in addition, we voluntarily provide the notes to the financial statements and the management report. 
+  prefix: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss
   years:
+    - 2019
+    - 2018
+    - Eröffnungsbilanz_2018
     - 2017
     - 2016
     - 2015
@@ -31,3 +23,18 @@
     - 2013
     - 2012
     - 2011
+- de:
+    title: Bericht der Wirtschaftsprüfung
+    text: Seit 2018 unterziehen wir uns mit Bilanz, Gewinn- und Verlustrechnung sowie Anhang und Lagebericht einer freiwilligen Wirtschaftsprüfung.
+  en:
+    title: audit report 2019 [DE]
+    text: Beginning in 2018, our annual financial statements including notes and managment reports are now voluntarily audited.
+  prefix: /files/documents/WP-Berichte/OKF-DE-WPBericht
+  years:
+    - 2019
+    - 2018
+# 'prefix' will be part of the path and file name, which will be completed using the "years" field like so:
+# prefix: /path/to/file
+# years: 1984
+# -> /path/to/file-1984.pdf
+# (see "finanzierung.html" partial layout file)

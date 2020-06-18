@@ -9,4 +9,4 @@ Der größte Teil der finanziellen Zuwendungen und Umsätze ist an die Durchfüh
 <div class="ausgaben"></div>
 <small>** zum Beispiel Infrastruktur, Buchführung, Versicherungen</small>
 
-Der größte Posten bei den Ausgaben sind materielle Aufwendungen für die Planung und Durchführung von Projekten und Veranstaltungen sowie unsere Gehälter. Die Belegschaft in der Geschäftsstelle der OKF DE in Berlin beläuft sich im Mittel auf 33 Personen. Weitere drei Mitarbeiter\*innen waren mit Vertragsbindung in Ulm oder bei der OGP am Potsdamer Platz in Berlin angestellt. Besonders erfreulich ist, dass der Frauenanteil bei über 60% liegt.
+Der größte Posten bei den Ausgaben sind materielle Aufwendungen für die Planung und Durchführung von Projekten und Veranstaltungen sowie unsere Gehälter. Die Belegschaft in der Geschäftsstelle der OKF DE in Berlin belief sich 2019 im Mittel auf 27 Personen, von denen allerdings ein großer Teil nicht Vollzeit arbeitet. Weitere fünf Mitarbeiter\*innen waren mit Vertragsbindung in Labs in Ulm und Fürstenberg oder bei der OGP am Potsdamer Platz in Berlin angestellt. Besonders erfreulich ist, dass der Frauenanteil bei über 60% liegt.
