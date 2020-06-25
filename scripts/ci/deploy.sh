@@ -18,8 +18,7 @@ mkdir release
 cd release
 
 echo "Shallow-cloning release\n"
-git clone --quiet --branch=release --depth 1 https://${GITHUB_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git .
-
+git clone --no-checkout --quiet --branch=release --depth 1 https://${GITHUB_TOKEN}@github.com/${GH_USER}/${GH_REPO}.git .
 cp -Rf $HOME/public/* .
 
 echo "Adding all changes and committing\n"
