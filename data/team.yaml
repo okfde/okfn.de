@@ -103,9 +103,10 @@
 
 - name: Eva Holzheimer
   img: EvaHolzheimer
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Regionale Koordinatorin Jugend hackt Lab Fürstenberg/Havel
   position_en: Regional Coordination Jugend hackt Lab Fürstenberg/Havel
   bio: "Eva ist bei der Open Knowledge Foundation beim Jugend hackt Team als Koordinatorin für eines der ersten regionalen Jugend hackt Labs tätig. Neben ihrer Arbeit als Sozialpädagogin engagiert sie sich Rahmen einer offenen Werkstatt in Brandenburg für den Austausch von Wissen und Kultur."
@@ -119,8 +120,8 @@
   staff: 0
   board: 1
   advisory: 0
-  position: Kassenwartin
-  position_en: Treasurer
+  position: Beisitzerin
+  position_en: Member of the Board
   bio: "Kristina ist seit 2017 im Vorstand der Open Knowledge Foundation Deutschland. Davor war sie drei Jahre lang Geschäftsführerin der Organisation. Sie war bei der UNHCR in Myanmar für den Bereich Donor Relations zuständig und hat als Senior Program Manager der Carnegie Endowment for International Peace das Brüsseler Büro stellvertretend geleitet sowie als Programm- und Konferenz-Manager den Bereich Internationale Politik der Körber Stiftung begleitet. Weitere berufliche Stationen waren der Danish Refugee Council in Myanmar und das Wall Street Journal Europe in Berlin."
   bio_en: "Kristina is member of the board at Open Knowledge Foundation Deutschland (OKF) since November 2017. She joined OKF in August 2014 as CEO of the organisation. <br /><br /> Before moving to Germany, Kristina was the Peace Building Fund Coordinator at UNHCR and Finance Associate at the Danish Refugee Council in Myanmar. Prior to that, she worked as a Senior Program Manager at Carnegie Europe in Brussels and as a Program Manager at Körber Foundation’s Bergedorf Round Table. <br /> <br /> She is a certified Usability & User Experience Professional (Artop - Humboldt Universität Berlin) and holds a masters in American studies and sociology from the Freie Universität Berlin."
   mail: kristina.klein@okfn.de
@@ -199,9 +200,10 @@
 
 - name: Jasmin Helm
   img: jasminhelm
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektmanagement Datenschule
   position_en: Project management Datenschule
   bio: "Jasmin hat Soziologie und Germanistik in Kiel und Potsdam studiert und arbeitet seit 2016 bei der OKF im Bereich Kommunikation. Zuvor hat sie einige Praktika in Zeitungs- und Fernsehredaktionen absolviert und war ehrenamtlich für Umwelt-NGOs in der Presse- und Öffentlichkeitsarbeit tätig. Der verantwortungsvolle Umgang mit Daten ist ein zentrales Anliegen für sie. Jasmin ist derzeit in Elternzeit."
@@ -229,6 +231,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektmanagement Code for Germany
   bio: "Sarina leitet seit Ende 2017 das Projekt «Code for Germany» und ist Expertin für interne und externe Kommunikation. Sie arbeitete als Redakteurin und Datenanalystin beim Blog Jung & Naiv und bei der gemeinnützigen Gesellschaft Correctiv in Berlin und war Übersetzerin des Campus-Startups Junior Entreprise EPFL in Lausanne, Schweiz. Ihre Herzensthemen sind digitale Bildung, Inklusion und IT-Sicherheit."
   bio_en: "Since the end of 2017, Sarina leads the project „Code for Germany“. She is an expert for internal and external communications. As a journalist and data analyst, she has worked with the blog Jung & Naiv and with the non-profit organisation Correctiv in Berlin, and has translated for the campus startup Junior Entreprise EPFL in Lausanne, Switzerland. Subjects most dear to her include digital education, inclusion and IT security."
@@ -239,9 +242,10 @@
 
 - name: Lydia Böttcher
   img: lydiaboettcher
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektleitung Demokratielabore
   position_en: Project management Demokratielabore
   bio: "Lydia war bei der Open Knowledge Foundation als Projektleiterin der „Demokratielabore“ tätig und arbeitet derzeit am Projekt Umweltdatenschule mit. Neben ihrem Studium der Erziehungs- und Bildungswissenschaft tauchte sie schnell in die Welt der Jugendbeteiligung und politischen Bildungsarbeit ein. Die Koordination verschiedener Freiwilligendienste mit Schwerpunkt Partizipation beschäftigte sie einige Jahre. Gemeinsam mit anderen Freiberufler_innen gründete sie das stuhlkreis_revolte Kollektiv, ein Kollektiv für emanzipatorische Bildungsarbeit und Prozessbegleitung."
@@ -308,6 +312,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektmanagement Prototype Fund
   position_en: Project management Prototype Fund
   bio: "Fiona ist seit 2014 dabei und betreut und berät als Community Organiserin im Projekt Code for Germany über 20 Open Knowledge Labs in Deutschland. Nebenbei studiert sie Techniksoziologie an der Technischen Universität Berlin. Privat engagiert sie sich seit einigen Jahrem im Bereich der digitalen Alphabetisierung, im Chaos Computer Club und interessiert sich für Gleichberechtigung in der IT. 2016 leitete Fiona das Projekt „Digital Refugee Labs“ im Rahmen von Code for Germany."
@@ -336,6 +341,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Organisationsentwicklung
   position_en: Team & Organizational Development
   bio: "Elisa teilt sich derzeit mit Juliane die kommissarische Geschäftsführung und übernimmt die Teamkoordination und Organisationsentwicklung. Seit 2016 ist Elisa bei der OKF, hat an den Digital Refugee Labs von Code for Germany gearbeitet und leitete danach den Prototype Fund. Studiert hat sie Prähistorische Archäologie, war aber immer schon in IT-Projekte im kulturellen Bereich involviert und internationale archäologische Projekte und technische Communities unterstützt und wissenschaftlich begleitet."
@@ -451,6 +457,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektleitung Datenschule
   bio: "Anna Alberts leitet bei der Open Knowledge Foundation Deutschland das EU-Forschungsprojekt OpenBudgets.eu. Anna hat Internationale Entwicklungsstudien und Internationale Beziehungen studiert und als Referentin mit den Schwerpunkten Daten- und Geopolitik im Planungsstab des Außenministeriums der Niederlande gearbeitet. Ehrenamtlich setzt sich Anna beim Peace Innovation Lab Berlin für die Förderung von Social Innovation-Projekten ein."
   bio_en: "Anna Alberts leads the EU research project OpenBudgets.eu. She has a degree in international development studies and international relations and worked as desk officer for data- and geopolitics at the Ministry of Foreign Relations of the Netherlands. Anna develops Social Innovation projectsat the Peace Innovation Lab in Berlin."
@@ -533,6 +540,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Beisitzerin
   position_en: Member of the Board
   bio: "Claudia ist Vorstandsmitglied der Open Knowledge Foundation und Gründerin des OpenAid Projektes. Sie betreibt seit 2009 Lobbyarbeit für offene Daten in der Entwicklungszusammenarbeit, insbesondere für die International Aid Transparency Initiative. Claudia Schwegmann ist Politologin, Theologin und Organisationsberaterin und arbeitet seit 1996 in der Entwicklungszusammenarbeit, vor allem im Bereich Evaluation. Ihr Kernanliegen ist wirksame Entwicklungszusammenarbeit auf der Basis von Transparenz, Rechenschaftslegung, Bürgerbeteiligung und die Nutzung des Potentials digitaler Tools zur Erreichung dieser Ziele (open data, social media, crowdsourcing). Claudia Schwegmann arbeitet als freie Beraterin und engagiert sich ehrenamtlich in der Technical Advisory Groups von IATI, in der Technical Advisory Group des Land Portals und bei Transparency International."
@@ -559,8 +567,9 @@
 - name: Lucy Chambers
   img: lucychambers
   staff: 0
-  board: 1
+  board: 0
   advisory: 0
+  board_alumni: 1
   position: Stellvertretende Vorstandsvorsitzende
   position_en: Deputy Chairwoman of the Management Board
   bio: "Die gebürtige Britin Lucy setzt sich in vielen verschiedenen Rollen mit den Themen offenes Wissen und Daten auseinander. Früher hat sie als Product Owner bei eHealth Africa Produkte konzipiert, die datengetriebene Entscheidungen im öffentlichen Gesundheitswesen in West-Afrikanischen Ländern fördern. Davor leitete sie das School of Data (Datenschule)-Programm bei Open Knowledge International und war Co-Autorin des Data Journalism Handbooks. Auf techtohuman.com schreibt sie über die Auswirkungen von Technologie und Daten."
@@ -674,6 +683,7 @@
   img: rebeccabuchholz
   staff: 0
   board: 0
+  board_alumni: 1
   advisory: 0
   position: Projektleitung 2030watch
   position_en: Project management 2030watch
@@ -689,8 +699,8 @@
   staff: 0
   board: 1
   advisory: 0
-  position: Beisitzerin
-  position_en: Member of the Board
+  position: Stellvertretende Vorstandsvorsitzende
+  position_en: Deputy Chairwoman of the Management Board
   bio: "Jana Wichmann ist jüngstes Mitglied des Vorstandes der Open Knowledge Foundation. Als Head of Operations & Agility bei der Innovationsberatung zero360 unterstützt sie Organisationen bei der Entwicklung von nutzer-zentrierten und agilen Prozessen. Janas Projekte umfassen u.a. die Begleitung strategischer Transformationsprozesse, die Konzeption und Umsetzung partizipativer Innovationsformate von der Problemanalyse über die Entwicklung neuer Lösungsansätze bis zum Nutzertesting. Zudem bildet sie Interessierte in nutzer-zentrierten und agilen Methoden aus. In ihren eigenen Projekten engagiert sie sich für die Institutionalisierung von Future und Design Thinking in Bildungseinrichtungen. Ihr Studium absolvierte sie in Medienmanagement an der Hochschule Mittweida und in Zukunftsforschung an der FU Berlin."
   bio_en: "Jana Wichmann is the youngest member of the board of the Open Knowledge Foundation. As Head of Operations & Agility at the innovation consultancy zero360, she supports organisations in the development of user-centric and agile processes. Jana's projects include the support of strategic transformation processes, the conception and implementation of participative innovation formats from problem analysis to the development of new solutions and user testing. In addition, she trains interested parties in user-centered and agile methods. In its own projects, it is committed to the institutionalization of future and design thinking in educational institutions. She studied media management at the University of Applied Sciences Mittweida and futurology at the FU Berlin."
   mail: jana.wichmann@okfn.de
@@ -703,6 +713,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektmanagement 2030watch
   bio: "John arbeitet als studentische Hilfskraft für 2030Watch und ist dort vornehmlich für Kommunikation zuständig. In Wien hat John internationale Entwicklungspolitik studiert und befindet sich derzeit im Master „Contemporary European Studies: politics, policy and society“ an der University of Bath und der HU Berlin. Praktika absolvierte er unter anderem bei der deutschen Vertretung im UN-Menschenrechtsrat in Genf und beim Deutschlandfunk Kultur in Berlin."
   bio_en: "John is a working student at 2030Watch and mainly responsible for communication and research assistance. In Vienna John majored in development studies and currently studies for his postgraduate degree in „Contemporary European Studies: politics, policy and society“ at the Humboldt University Berlin. As an intern John worked for the German permanent mission to the UN Human Rights Council in Geneva and Deutschlandfunk Kultur broadcasting in Berlin."
@@ -746,6 +757,7 @@
   staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Projektmanagement Prototype Fund
   bio: "Jessica gehört zum Team des Prototype Fund. Sie kümmert sich um Kommunikation und arbeitet an der Weiterentwicklung des Projekts mit. Jessica hat zuvor mehrere Jahre lang als Journalistin gearbeitet. Sie hat für überregionale Medien in Deutschland über Digitalisierung, Netzpolitik und Netzaktivismus berichtet. Sie setzt sich dafür ein, dass mehr Menschen die Digitalisierung mitgestalten können."
   bio_en: "Jessica is part of the Prototype Fund team. She is the communications lead and contributes to strategic development of the project. Previously, Jessica has worked as a journalist for several years. She has covered technology with a focus on tech politics, activism and civil society, and has written for large German media outlets. Her goal is to contribute to making technology more open and to enable more people to contribute to this space."
@@ -759,6 +771,7 @@
   img: xiaoweichen
   staff: 0
   board: 0
+  board_alumni: 1
   advisory: 0
   position: Stipendiat
   bio: "Xiaowei arbeitet seit November 2016 im Rahmen des Bundeskanzler-Stipendiums bei der Open Knowledge Foundation Deutschland als Gastwissenschaftlerin und forscht zu Informationsfreiheit in Deutschland."
@@ -957,9 +970,10 @@
 
 - name: Lisa Passing
   img: lisapassing
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Entwicklung Datenschule
   position_en: Developer Datenschule
   bio: "Lisa ist im April 2018 als Entwicklerin bei der OKF eingestiegen. Sie mag Privatsphäre."

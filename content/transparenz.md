@@ -35,6 +35,8 @@ Unsere externe Datenschutzbeauftragte ist Beata-Konstanze Hubrig von der [Rechts
 ### 5. Tätigkeitsbericht
 Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Finanzierung. Seit 2017 erstellen wir unseren Tätigkeits- und Transparenzbericht darum nach Social Reporting Standard.
 
+[comment]: # (!Achtung: Den aktuellen Bericht KEINESFALLS schon hier verlinken, bevor nicht 1. die Mitgliederversammlung ihn abgesegnet hat und 2. der Wirtschaftsprüfer die Zahlen freigegeben hat!)
+
 - [Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
 - [Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
 - [Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
@@ -44,7 +46,6 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 - [Tätigkeitsbericht 2013](/files/documents/OKFDE-Taetigkeitsbericht-2013.pdf) <br>
 - [Tätigkeitsbericht 2012](/files/documents/OKFDE-Taetigkeitsbericht-2012.pdf) <br>
 - [Tätigkeitsbericht 2011](/files/documents/OKFDE-Taetigkeitsbericht-2011.pdf)
-
 
 ### 6. Personalstruktur
 

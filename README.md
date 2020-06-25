@@ -149,7 +149,9 @@ Ebenfalls auf `/verein` befinden sich die herunterladbaren Jahresberichte bzw T�
 - `pdf` ein Pfad zum Jahresbericht als PDF zum downloads
 - jeweils `title` und `text` under den Sprachoptionen
 
-Für einen neuen Eintrag, einfach einen alten kopieren, an den _Anfang_ der Datei setzen (es wird nicht extra sortiert, die Reihenfolge in der Datei ist wichtig) und anpassen.
+!!Achtung: Den aktuellen Bericht keinesfalls schon auf der Webseite verlinken, bevor nicht 1. die Mitgliederversammlung ihn abgesegnet hat und 2. der Wirtschaftsprüfer die Zahlen freigegeben hat!!
+
+Sobald das passiert ist: Für einen neuen Eintrag, einfach einen alten kopieren, an den _Anfang_ der Datei setzen (es wird nicht extra sortiert, die Reihenfolge in der Datei ist wichtig) und anpassen.
 
 #### Downloads
 
