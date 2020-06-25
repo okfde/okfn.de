@@ -55,15 +55,15 @@ Adriana Groh, Alex Taralle, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris J
 
 ### 7. & 8. Angaben zur Mittelherkunft & -verwendung
 
-- [Bilanz und Bericht der Wirtschaftsprüfung 2019](/files/WP-Berichte/OKF-DE-WPBericht-2019.pdf) 
-- [Bilanz und Bericht der Wirtschaftsprüfung 2018](/files/WP-Berichte/OKF-DE-WPBericht-2018.pdf) 
-- [Einnahmenüberschussrechnung 2017](/files/documents/jahresabschluesse/jahresabschluss-2017.pdf) 
-- [Einnahmenüberschussrechnung 2016](/files/documents/jahresabschluesse/jahresabschluss-2016.pdf)
-- [Einnahmenüberschussrechnung 2015](/files/documents/jahresabschluesse/jahresabschluss-2015.pdf)
-- [Einnahmenüberschussrechnung 2014](/files/documents/jahresabschluesse/jahresabschluss-2014.pdf)
-- [Einnahmenüberschussrechnung 2013](/files/documents/jahresabschluesse/jahresabschluss-2013.pdf)
-- [Einnahmenüberschussrechnung 2012](/files/documents/jahresabschluesse/jahresabschluss-2012.pdf)
-- [Einnahmenüberschussrechnung 2011](/files/documents/jahresabschluesse/jahresabschluss-2011.pdf)
+- [Bilanz und Bericht der Wirtschaftsprüfung 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) 
+- [Bilanz und Bericht der Wirtschaftsprüfung 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) 
+- [Einnahmenüberschussrechnung 2017](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2017.pdf) 
+- [Einnahmenüberschussrechnung 2016](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2016.pdf)
+- [Einnahmenüberschussrechnung 2015](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2015.pdf)
+- [Einnahmenüberschussrechnung 2014](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2014.pdf)
+- [Einnahmenüberschussrechnung 2013](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2013.pdf)
+- [Einnahmenüberschussrechnung 2012](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2012.pdf)
+- [Einnahmenüberschussrechnung 2011](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2011.pdf)
 
 ### 9. Gesellschaftsrechtliche Verbundenheit mit Dritten
 Es existiert ein [Memorandum of Understanding](/files/documents/05_Memorandum_of_Understanding.pdf) mit der OKFN aus Großbritannien.<br>
