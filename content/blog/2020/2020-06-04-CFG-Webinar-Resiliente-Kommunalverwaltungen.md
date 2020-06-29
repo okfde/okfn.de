@@ -14,7 +14,7 @@ type: post
 layout: post
 published: true
 featured: yellow
-title: "Webinar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?"
+title: "Online-Seminar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?"
 ---
 
 Krisenzeiten legen Mängel und Versäumnisse schonungslos offen. Krisenzeiten machen aber auch einen Raum auf für Kreativität, Kooperation und Partizipation. Eine Zeit, in der neue Lösungen entstehen können.
