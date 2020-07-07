@@ -1,3 +1,16 @@
+- name: Gregor Weichbrodt
+  img: gregorweichbrodt
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Development & Design FragDenStaat
+  position_en: development & design FragDenStaat
+  bio: "Gregor arbeitet als Designer und Frontend-Entwickler für FragDenStaat seit Januar 2020. In seiner Freizeit beschäftigt er sich mit digitaler Literatur und generativer Kunst."
+  bio_en: "Gregor has been working as a designer and frontend-developer for FragDenStaat since January 2020. In his free time, he works with digital literature and generative art."
+  mail: gregor.weichbrodt@okfn.de
+  twitter: greg00r
+  website:
+
 - name: Mechthild Schmidt
   img: mechthildschmidt
   staff: 1
