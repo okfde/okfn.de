@@ -1,5 +1,5 @@
 ---
-author: Julia Kloiber
+author: Stefan Wehrmeyer
 date: 2013-01-04 17:45:55
 image:
   src: /files/blog/2013/01/bundesgit_intro.png
