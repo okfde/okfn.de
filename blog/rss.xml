@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Das war 2019: Unser Tätigkeitsbericht ist veröffentlicht</title>
+      <link>https://okfn.de/blog/2020/07/taetigkeitsbericht-2019/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/07/taetigkeitsbericht-2019/</guid>
+      <description>Das letzte Jahr war wieder bunt und turbulent. Eine kurze Übersicht über das Jahr 2019 stellen wir euch hier zusammen. Ausführlichere und übersichtlich zusammengestellte Informationen findet ihr in unserem aktuellen Tätigkeitsbericht, den wir wieder nach dem Social Reporting Standard erstellt haben.
+ Projektentwicklungen: Die langjährigen Projekte FragdenStaat, Jugend hackt und Prototype Fund konnten ihre Arbeit weiter verstetigen und sind auch personell gewachsen. Das seit Mitte 2017 laufende große Projekt Demokratielabore wurde 2019 abgeschlossen, ebenso das Bildungsprojekt edulabs.</description>
+    </item>
     
     <item>
       <title>Unsere Stellungnahme zum Open-Data-Gesetz in NRW</title>
