@@ -19,7 +19,7 @@
   position: Beisitzerin
   position_en: Member of the Board
   bio: "Lea wurde 2020 in den Vorstand der Open Knowledge Foundation gewählt. Lea arbeitet für die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH als Co-Leiterin eines Projekts, das Entwicklungsländer dabei unterstützt künstliche Intelligenz zu nutzen und dafür u.a. offene Trainingsdatensets aufbaut sowie mit Partnern ethische KI-Guidelines entwickelt. Zuvor war sie Senior Expertin zum Digitalen Wandel in der Entwicklungszusammenarbeit und hat Projekte weltweit beraten. Sie setzt sich für die gemeinwohlorientierte Nutzung digitaler Technologien ein und schreibt über Themen an der Schnittstelle digitaler Technologien und nachhaltiger Entwicklung. Sie war Associate bei der stiftung neue verantwortung (snv) und Mitgründerin der Initiative „Das gute digitale Leben“. Zuvor arbeitete Lea in Äthiopien als Beraterin für einen Unternehmerinnenverband zum Einsatz von Informations- und Kommunikationstechnologien."
-  bio_en: "Lea was elected to the board of the Open Knowledge Foundation in 2020. Lea works for the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH as co-leader of a project that supports developing countries in the use of artificial intelligence and, among other things, sets up open training data sets and develops ethical AI guidelines with partners. Previously she was a senior expert on digital change in development cooperation and has advised projects worldwide. She is committed to the use of digital technologies for the common good and is currently founding a think tank for the development of open resources. She was an associate at stiftung neue verantwortung (snv) and co-founder of the initiative "Das gute digitale Leben". Previously, Lea worked in Ethiopia as a consultant for a women's association of entrepreneurs on the use of information and communication technologies."
+  bio_en: "Lea was elected to the board of the Open Knowledge Foundation in 2020. Lea works for the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH as co-leader of a project that supports developing countries in the use of artificial intelligence and, among other things, sets up open training data sets and develops ethical AI guidelines with partners. Previously she was a senior expert on digital change in development cooperation and has advised projects worldwide. She is committed to the use of digital technologies for the common good and is currently founding a think tank for the development of open resources. She was an associate at stiftung neue verantwortung (snv) and co-founder of the initiative “Das gute digitale Leben”. Previously, Lea worked in Ethiopia as a consultant for a women's association of entrepreneurs on the use of information and communication technologies."
   mail: lea.gimpel@okfn.de
   twitter:
   website:
@@ -68,14 +68,14 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektleitung Jugend hackt 
+  position: Projektleitung Jugend hackt
   position_en: project management Jugend hackt
   bio: "Mechthild ist Projektleiterin bei Jugend hackt. Sie koordiniert die Labs und möchte gern an vielen weiteren Orten die Labs etablieren, damit Jugend hackt überall wirkt. Außerdem ist Mechthild bei Jugend hackt für die Finanzen zuständig. "
   bio_en: "Mechthild is project manager for Jugend hackt. She is coordinates the Jugend hackt Labs and aims to scale more Labs within Germany - so Jugend hackt has an impact everywhere. Furthermore, Mechthild is in charge for financial administration."
   mail: mechthild.schmidt@okfn.de
   twitter:
   website:
-  
+
 - name: Dr. Phillip Hofmann
   img: philliphofmann
   staff: 1
@@ -95,12 +95,12 @@
   board: 0
   advisory: 0
   position: Buchhaltung
-  position_en: 
+  position_en:
   bio: "Giulia unterstützt die Geschäftsführung in Sachen Buchhaltung, Finanzen, Abrechnungen und allgemeine Chaosbewältigung."
   bio_en: "Giulia supports the management in bookkeeping, finances, accounting and general chaos management"
   mail: giulia.norberti@okfn.de
-  twitter: 
-  website: 
+  twitter:
+  website:
 
 - name: Gregor
   img: unknown
@@ -112,8 +112,8 @@
   bio: "Gregor unterstützt uns und unsere Projekte als Sytemadministrator. Er arbeitet für den produktiven Einsatz und die Förderung von Open Source Software."
   bio_en: "Gregor supports us and our projects as system administrator. He works on facilitating open source software in business context."
   mail: gregor.gilka@okfn.de
-  twitter: 
-  
+  twitter:
+
 - name: Claudia Jach
   img: claudiajach
   staff: 1
@@ -126,7 +126,7 @@
   mail: claudia.jach@okfn.de
   twitter:
   website:
-  
+
 - name: Patricia Leu
   img: patricialeu
   staff: 1
@@ -509,7 +509,7 @@
   board: 0
   advisory: 0
   position: Projektleitung
-  position_en: Project management 
+  position_en: Project management
   bio: "Maximilian Voigt arbeitet für die OKF an Bildungsprojekten. Zudem engagiert er sich in offenen Werkstätten, beschäftigt sich mit Physical Computing und setzt sich für freie Bildung sowie Open Hardware ein. Maximilian ist Vorstand des [Verbunds Offener Werkstätten](https://www.offene-werkstaetten.org/) und studierte Technikjournalismus, Public Relations sowie Kultur und Technik. Seine Masterarbeit schrieb er über das Bildungspotenzial offener Werkstätten."
   bio_en: "Maximilian Voigt works on projects in the field of open education. Further more he campaigns for fabrication laboratories, is engaged in physical computing and supports free education. Before his work at the OKF he co founded the FabLab Cottbus e.V., studied technical journalism, public relations and culture and technology. His master thesis was about the educational potential of open workshops."
   mail: maximilian.voigt@okfn.de
@@ -999,8 +999,8 @@
   board: 0
   advisory: 0
   board_alumni: 1
-  position: Projektmanagement 
-  position_en: Project management 
+  position: Projektmanagement
+  position_en: Project management
   bio: "Saadya arbeitete zwischen 2017 und 2020 bei der OKF. Sie arbeitete in folgenden Projekten: Datensummit, Demokratielabore, 2030Watch und Jugendhackt."
   bio_en: "Saadya worked between 2017 and 2020 at OKF. She worked in the following projects: Datensummit, Demokratielabore, 2030Watch und Jugendhackt."
   mail: saadya.windauer@okfn.de
@@ -1130,7 +1130,7 @@
   mail: jakob.schiek@okfn.de
   twitter: glitter1horn
   github: jkbschk
-  
+
 - name: Tomas Novy
   img: tomasnovy
   staff: 1
@@ -1138,12 +1138,12 @@
   advisory: 0
   position: Koordination und Programmgestaltung Lab Ulm
   position_en: Coordination Lab Ulm
-  bio: "Tom studierte Soziologie und Gesellschaftstheorie in Chemnitz, Jena und Rom. Er beschäftigte sich mit sozialen Ungleichheiten in der Kunst- und Bildungsvermittlung zwischen high und low culture. Seit Mai 2019 koordiniert und gestaltet er das Programm des Labs im Verschwörhaus. Nebenher gibt er als Dozent Einführungen in soziologische Theorien am Ulmer Aicher-Scholl-Kolleg." 
-  bio_en: "Tom studied sociology and social theory in Chemnitz, Jena and Rome. He researched inequalities between high and low culture. Since May 2019, Tom has been coordinating and designing the lab's program in the Verschwoerhaus. He also teaches introductory courses in sociological theories at the Aicher-Scholl-Kolleg in Ulm." 
-  mail: tomas.novy@jugendhackt.org 
+  bio: "Tom studierte Soziologie und Gesellschaftstheorie in Chemnitz, Jena und Rom. Er beschäftigte sich mit sozialen Ungleichheiten in der Kunst- und Bildungsvermittlung zwischen high und low culture. Seit Mai 2019 koordiniert und gestaltet er das Programm des Labs im Verschwörhaus. Nebenher gibt er als Dozent Einführungen in soziologische Theorien am Ulmer Aicher-Scholl-Kolleg."
+  bio_en: "Tom studied sociology and social theory in Chemnitz, Jena and Rome. He researched inequalities between high and low culture. Since May 2019, Tom has been coordinating and designing the lab's program in the Verschwoerhaus. He also teaches introductory courses in sociological theories at the Aicher-Scholl-Kolleg in Ulm."
+  mail: tomas.novy@jugendhackt.org
   twitter: https://twitter.com/_TomNovy_
-  github: https://github.com/Verschwoercode 
-  
+  github: https://github.com/Verschwoercode
+
 - name: Juliane 'Juka' Wessalowski
   img: juka
   staff: 1
