@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-07-15T00:00:00+0000</updated>
+  <updated>2020-07-28T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/07/neuer-vorstand-okf-gewaehlt/"/>
+    <id>https://okfn.de/blog/2020/07/neuer-vorstand-okf-gewaehlt/</id>
+    <published>2020-07-28T00:00:00+0000</published>
+    <updated>2020-07-28T00:00:00+0000</updated>
+    <summary>Auf der Mitgliederversammlung des Open Knowledge Foundation Deutschland e.V. (OKF) wurde am 28. Mai 2020 ein neuer Vorstand gewählt.
+Die bisherigen Mitglieder des Vorstands Kristina Klein, Jana Wichmann, Daniel Dietrich und Andreas Pawelke wurden für eine weitere zweijährige Amtszeit bestätigt. Als neue Vorstandsmitglieder konnten zudem Lea Gimpel, Dr. Stefan Heumann, Gabriele C. Klug und Julia Reda gewonnen werden.
+Lea Gimpel arbeitet für die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH als Co-Leiterin des Projekts FAIR Forward, das Entwicklungsländer dabei unterstützt, Künstliche Intelligenz zu nutzen und dafür u.</summary>
+  </entry>
   
   <entry>
     <title>Das war 2019: Unser Tätigkeitsbericht ist veröffentlicht</title>
@@ -145,16 +156,6 @@ Die Basis des Berichtes bilden verschiedene Daten, die im Rahmen der Recherche z
     <updated>2019-12-11T00:00:00+0000</updated>
     <summary>Über 100.000 Euro hat das Bundesinstitut für Risikobewertung (BfR) für seine Rechtsstreite schon ausgegeben. Mit seiner einstweiligen Verfügung gegen uns ist es im Sommer schon vor dem Landgericht Köln gescheitert. Aber jetzt verklagt das BfR von Bundeslandwirtschaftsministerin Julia Klöckner (CDU) uns erneut.
 Weil wir im Frühjahr ein von Beamten verfasstes Glyphosat-Gutachten des staatlichen Instituts veröffentlicht haben, verklagt die Behörde FragDenStaat wegen Urheberrechtsverletzung. Und nicht nur das. Wir sollen jetzt auch über 1.</summary>
-  </entry>
-  
-  <entry>
-    <title>Die Zukunft einer impulsgebenden Organisation im Vorstand aktiv mitgestalten!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/12/neuer-vorstand/"/>
-    <id>https://okfn.de/blog/2019/12/neuer-vorstand/</id>
-    <published>2019-12-09T00:00:00+0000</published>
-    <updated>2019-12-09T00:00:00+0000</updated>
-    <summary>Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin. Seit 2011 sind wir maßgeblicher Motor für den selbstbestimmten Umgang mit Technologie und Daten, für Transparenz und Rechenschaft öffentlicher Institutionen und für politische Teilhabe und eine aktive Zivilgesellschaft.
-Digital vernetzte Technologien bringen neue Möglichkeiten, um zivilgesellschaftliche Interessen umzusetzen: Bürger*innen können ihre Rechte und Pflichten einfacher wahrnehmen und sich besser über staatliches Handeln informieren. So wird der faktenbasierte politische Diskurs unterstützt.</summary>
   </entry>
   
 </feed>
