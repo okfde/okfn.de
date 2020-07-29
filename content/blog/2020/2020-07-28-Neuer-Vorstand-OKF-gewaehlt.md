@@ -10,7 +10,7 @@ image:
 type: post
 layout: post
 card: true
-published: false
+published: true
 featured: blue
 title: "Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt" 
 ---
