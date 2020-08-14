@@ -6,7 +6,7 @@ tileclass: mixed
 title: OpenSchufa
 layout: project
 img: projects/openSchufa_Projektuebersicht_smallTile.jpg
-website: https://www.openschufa.de
+website: https://openschufa.de
 people:
   - name: Arne Semsrott
     role: Projektleitung
@@ -15,7 +15,7 @@ people:
 partners: 
   - AlgorithmWatch
 contact:
-  website: https://www.openschufa.de
+  website: https://openschufa.de
   twitter: openschufa
   github: https://github.com/algorithmwatch/openschufa
 financing:
