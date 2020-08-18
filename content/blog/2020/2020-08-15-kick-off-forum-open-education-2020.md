@@ -2,11 +2,6 @@
 authors: 
 - Maximilian Voigt
 date: 2020-08-03
-image:
-  src: 
-  title: "Aufmacher Kick-Off FOE2020"
-  license:
-  license_url:
 type: post
 layout: post
 card: true
