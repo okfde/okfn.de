@@ -3,7 +3,7 @@ authors:
 - Maximilian Voigt
 date: 2020-08-03
 image:
-  src: /files/blog/2020/08/Kick-Off-1.png
+  src: 
   title: "Aufmacher Kick-Off FOE2020"
   license:
   license_url:
@@ -20,6 +20,8 @@ Mit dem dritten [Forum Open Education](https://education.forum-open.de/) intensi
 * Digitale Nachhaltigkeit: Bildung ressourcenschonend transformieren
 * Digital Literacies: offene Materialien und Technologien für mehr digitale Mündigkeit
 * Bildungsgerechtigkeit: Open Education für mehr Teilhabe an Bildung	
+
+<img src="/files/blog/2020/08/Kick-Off-1.png"></img>
 
 Ziel des [#FOE20](https://twitter.com/search?q=%23foe20&src=typed_query) ist der Aufbau einer gemeinsamen und gleichberechtigten Arbeitsbeziehung zwischen der Fachcommunity des Bündnis Freie Bildung sowie Vertreterinnen und Vertretern der Parteien. Bis zum 08. Oktober entwickeln Fachgruppen ein gemeinsames Verständnis und konkrete Visionen für aktuelle Herausforderungen, die sie dann zum digital-analogen Event öffentlich präsentieren. Damit unterscheidet sich das #FOE20 von den [vergangenen Veranstaltungen](https://education.forum-open.de/events/). 
 
