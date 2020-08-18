@@ -11,7 +11,7 @@ type: post
 layout: post
 card: true
 published: true
-featured: blue
+featured: yellow
 title: "Kick-Off #FOE20: Offene Bildung politisch stärken" 
 ---
 
