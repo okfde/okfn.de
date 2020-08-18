@@ -1120,9 +1120,10 @@
 
 - name: Jakob Schiek
   img: jakobschiek
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Bundesfreiwilligendienstleistender Jugend hackt
   position_en: Bundesfreiwilligendienstleistender Jugend hackt
   bio: "Jakob ist bis Mitte des Jahres 2020 der Bundesfreiwilligendienstleistende der OKF. Er ist Teil des Jugend hackt-Eventteams und kümmert sich dort unter anderem um die Verwaltung der Teilnehmenden. In seiner Freizeit fährt er gerne mit dem Fahrrad durch die Gegend, macht Sachen mit Computern oder Unsinn."
