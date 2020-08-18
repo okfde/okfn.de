@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-07-28T00:00:00+0000</updated>
+  <updated>2020-08-15T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Kick-Off #FOE20: Offene Bildung politisch stärken</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/08/kick-off-forum-open-education-2020/"/>
+    <id>https://okfn.de/blog/2020/08/kick-off-forum-open-education-2020/</id>
+    <published>2020-08-15T00:00:00+0000</published>
+    <updated>2020-08-03T00:00:00+0000</updated>
+    <summary>Mit dem dritten Forum Open Education intensivieren wir gemeinsam mit Wikimedia Deutschland und dem Bündnis Freie Bildung den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien, um zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Die folgenden Themen stehen 2020 im Fokus:
+ Digitale Nachhaltigkeit: Bildung ressourcenschonend transformieren Digital Literacies: offene Materialien und Technologien für mehr digitale Mündigkeit Bildungsgerechtigkeit: Open Education für mehr Teilhabe an Bildung
+  Ziel des #FOE20 ist der Aufbau einer gemeinsamen und gleichberechtigten Arbeitsbeziehung zwischen der Fachcommunity des Bündnis Freie Bildung sowie Vertreterinnen und Vertretern der Parteien.</summary>
+  </entry>
   
   <entry>
     <title>Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt</title>
@@ -146,16 +157,6 @@ Kinderjahre Als eine Handvoll Menschen 2010 gemeinsam den Entschluss fassten, di
     <updated>2020-01-10T00:00:00+0000</updated>
     <summary>Seit einigen Monaten arbeitet das Projekt Umweltdatenschule gemeinsam mit der Umweltorganisation ROBIN WOOD an der Neuauflage des Ökostromberichtes 2020, der nun online ist. Mit dem Bericht werden acht von über 1200 Ökostromanbieter empfohlen, die nicht nur ausschließlich Ökostrom vertreiben, sondern auch nahezu keine wirtschaftlichen Verflechtungen zu Unternehmen der Kohle- und Atomenergie aufweisen sowie sich für eine nachhaltige Energiewende engagieren.
 Die Basis des Berichtes bilden verschiedene Daten, die im Rahmen der Recherche zusammengetragen wurden.</summary>
-  </entry>
-  
-  <entry>
-    <title>Zensurheberrecht: Bundesregierung verklagt uns erneut wegen Glyphosat-Gutachten</title>
-    <link rel="alternate" href="https://okfn.de/blog/2019/12/zensurheberrecht-glyphosat-neue-klage/"/>
-    <id>https://okfn.de/blog/2019/12/zensurheberrecht-glyphosat-neue-klage/</id>
-    <published>2019-12-11T00:00:00+0000</published>
-    <updated>2019-12-11T00:00:00+0000</updated>
-    <summary>Über 100.000 Euro hat das Bundesinstitut für Risikobewertung (BfR) für seine Rechtsstreite schon ausgegeben. Mit seiner einstweiligen Verfügung gegen uns ist es im Sommer schon vor dem Landgericht Köln gescheitert. Aber jetzt verklagt das BfR von Bundeslandwirtschaftsministerin Julia Klöckner (CDU) uns erneut.
-Weil wir im Frühjahr ein von Beamten verfasstes Glyphosat-Gutachten des staatlichen Instituts veröffentlicht haben, verklagt die Behörde FragDenStaat wegen Urheberrechtsverletzung. Und nicht nur das. Wir sollen jetzt auch über 1.</summary>
   </entry>
   
 </feed>
