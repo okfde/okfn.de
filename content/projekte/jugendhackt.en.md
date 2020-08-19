@@ -25,12 +25,10 @@ people:
     role: Community and PR
   - name: Leonard Wolf
     role: Project assistant fundraising   
-  - name: Eva Holzheimer
+  - name: Simon Willmann
     role: Regional coordinator
   - name: Tomas Novy
-    role: Regional coordinator
-  - name: Jakob Schiek
-    role: Federal volunteer     
+    role: Regional coordinator   
 contact_person: mechthildschmidt
 years: 2012 - today
 partners:
@@ -79,8 +77,8 @@ Jugend hackt is a non-profit program of the non-profit organizations Open Knowle
 More information is available on the <a href="https://jugendhackt.org/">Jugend hackt website</a>.
 
 **Funding Agencies**<br>
-+ Jugend hackt is funded by the [SKala-Initiative](http://www.skala-initiative.de/initiative/) from 2018 to 2021. 
-+ The [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) funds [Jugend hackt Labs](https://jugendhackt.org/labs) 2019-2020. 
++ Jugend hackt is funded by the [SKala-Initiative](http://www.skala-initiative.de/initiative/) from 2018 to 2021.
++ The [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) funds [Jugend hackt Labs](https://jugendhackt.org/labs) 2019-2020.
 
 **Prizes & Awards** <br>
 Dieter-Baacke-Preis 2015<br>
@@ -91,8 +89,8 @@ BKM-Preis Kulturelle Bildung 2018<br>
 Theodor-Heuss-Medaille 2018
 
 **Resources (German)**<br>
-+ [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) Online Version<br>
-+ [wissenschaftliche Evaluation zu Jugend hackt Events 2015](https://jugendhackt.org/files/2015/03/Jugend-hackt-Kurzversion.pdf) PDF Download<br>
-+ [wissenschaftliche Evaluation zu Jugend hackt Labs 2019](https://jugendhackt.org/wp-content/uploads/2020/02/Jugend-hackt-Labs-Abschlussbericht-2020.pdf) PDF Download
++ [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) online version<br>
++ [wissenschaftliche Evaluation zu Jugend hackt Events 2015](https://jugendhackt.org/files/2015/03/Jugend-hackt-Kurzversion.pdf) PDF download<br>
++ [wissenschaftliche Evaluation zu Jugend hackt Labs 2019](https://jugendhackt.org/wp-content/uploads/2020/02/Jugend-hackt-Labs-Abschlussbericht-2020.pdf) PDF download
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ZmD1_1EuhQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
