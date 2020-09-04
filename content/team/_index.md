@@ -1,6 +1,6 @@
 ---
 title: Team
-blurb: Wir sind 28 Aktivist*innen, Policy-Spezialist*innen & Entwickler*innen
+blurb: Wir sind 29 Aktivist*innen, Policy-Spezialist*innen & Entwickler*innen
 layout: team
 meta: Unser Team
 img_header: /okf/team-social-og.png

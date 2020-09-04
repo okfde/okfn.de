@@ -15,8 +15,8 @@ search_keys:
 stats:
   - number: 2011
     text: The association was founded. The first meeting took place in 2010 at the re:publica with Rufus Pollock, initiator of the Open Knowledge Network.
-  - number: 28
-    text: We now employ 28 people - including activists, scientists, developers, policy specialists and designers.
+  - number: 29
+    text: We now employ 29 people - including activists, scientists, developers, policy specialists and designers.
   - number: 24
     text: Open Knowledge Deutschland e.V. is part of the international Open Knowledge network. The network includes organisations from a total of 24 countries.
   - number: 44
