@@ -1161,12 +1161,13 @@
 
 - name: Max Kronmüller
   img: maxk
-  staff: 0
+  staff: 1
   board: 0
   advisory: 0
   position: Bundesfreiwilligendienstleistender bei FragDenStaat.de
   position_en: Volunteer at FragDenStaat.de
   bio: Max wurde auf FragDenStaat bei Jugend Hackt aufmerksam und absolviert nun seinen Freiwilligendienst bei der OKF.
+  bio_en: Max learned about FragDenStaat at Jugend Hackt and is now doing a voluntary year at OKF.
   mail: max.kronmueller@okfn.de
   twitter: https://twitter.com/krmax44
   github: https://github.com/krmax44
