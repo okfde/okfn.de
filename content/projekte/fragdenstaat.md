@@ -25,6 +25,8 @@ people:
     role: Campaignerin
   - name: Gregor Weichbrodt
     role: Frontend-Entwicklung und Design
+  - name: Max Kronmüller
+    role: Bundesfreiwilligendienstleistender
 contact_person: arnesemsrott
 years: 2011 - heute
 financing:
