@@ -371,7 +371,7 @@
   bio_en: "Bela works at the Open Knowledge Foundation Germany as project lead of the educational projects \"DatenmachenSchule\" and \"Turing-Bus\". As a sociologist of technology he is interested in social transformation processes in the fields of Open Knowledge, Open Source, Open Hardware and Open Education, in which civil society actors become active co-creators."
   mail: bela.seeger@okfn.de
   twitter: bela_data
-  website: https://github.com/seegerseeger/
+  website: seegerseeger/
 
 - name: Fiona Krakenbürger
   img: fionakrakenbuerger
@@ -1142,8 +1142,8 @@
   bio: "Tom studierte Soziologie und Gesellschaftstheorie in Chemnitz, Jena und Rom. Er beschäftigte sich mit sozialen Ungleichheiten in der Kunst- und Bildungsvermittlung zwischen high und low culture. Seit Mai 2019 koordiniert und gestaltet er das Programm des Labs im Verschwörhaus. Nebenher gibt er als Dozent Einführungen in soziologische Theorien am Ulmer Aicher-Scholl-Kolleg."
   bio_en: "Tom studied sociology and social theory in Chemnitz, Jena and Rome. He researched inequalities between high and low culture. Since May 2019, Tom has been coordinating and designing the lab's program in the Verschwoerhaus. He also teaches introductory courses in sociological theories at the Aicher-Scholl-Kolleg in Ulm."
   mail: tomas.novy@jugendhackt.org
-  twitter: https://twitter.com/_TomNovy_
-  github: https://github.com/Verschwoercode
+  twitter: _TomNovy_
+  github: Verschwoercode
 
 - name: Juliane 'Juka' Wessalowski
   img: juka
@@ -1155,9 +1155,9 @@
   bio: "Juka hält die Open Data Flagge für die OKF in Ulm hoch, veranstaltet Jugend hackt Ulm und mehr Programm rund um Digitale Mündigkeit im Verschwörhaus. Sie ist Medieninformatikerin auf dem Papier, Künstlerin im Herzen und hinterfragt gerne alles."
   bio_en: "Juka keeps the flag flying for open data and OKF in Ulm/Southern Germany. Organizes Jugend hackt Ulm and other stuff all about digital literacy in the Verschwoerhaus maker space. She graduated in Computer Science and Media, while being an artist at heart, and loves to question all the things!"
   mail: juliane.wessalowski@okfn.de
-  twitter: https://twitter.com/gruenzeug
+  twitter: gruenzeug
   website: https://verschwoerhaus.de/
-  github: https://github.com/gruenzeug
+  github: gruenzeug
 
 - name: Max Kronmüller
   img: maxk
@@ -1169,5 +1169,5 @@
   bio: Max wurde auf FragDenStaat bei Jugend Hackt aufmerksam und absolviert nun seinen Freiwilligendienst bei der OKF.
   bio_en: Max learned about FragDenStaat at Jugend Hackt and is now doing a voluntary year at OKF.
   mail: max.kronmueller@okfn.de
-  twitter: https://twitter.com/krmax44
-  github: https://github.com/krmax44
+  twitter: krmax44
+  github: krmax44
