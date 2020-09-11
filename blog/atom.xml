@@ -1,23 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-09-11T00:00:00+0000</updated>
+  <updated>2020-08-15T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
-  
-  <entry>
-    <title>Kick-Off #FOE20: Offene Bildung politisch stärken</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/09/open-education-strategie-unser-vorschlag/"/>
-    <id>https://okfn.de/blog/2020/09/open-education-strategie-unser-vorschlag/</id>
-    <published>2020-09-11T00:00:00+0000</published>
-    <updated>2020-08-03T00:00:00+0000</updated>
-    <summary>Mit dem dritten Forum Open Education intensivieren wir gemeinsam mit Wikimedia Deutschland und dem Bündnis Freie Bildung den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien, um zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Die folgenden Themen stehen 2020 im Fokus:
- Digitale Nachhaltigkeit: Bildung ressourcenschonend transformieren Digital Literacies: offene Materialien und Technologien für mehr digitale Mündigkeit Bildungsgerechtigkeit: Open Education für mehr Teilhabe an Bildung</summary>
-  </entry>
   
   <entry>
     <title>Kick-Off #FOE20: Offene Bildung politisch stärken</title>
@@ -156,6 +146,16 @@ Während wir in den bisherigen Schwerpunkten beispielsweise den Fokus darauf gel
 im zurückliegenden Jahr haben wir unsere Organisationsstruktur durchleuchtet und unsere Entscheidungsprozesse hinterfragt. Wir haben begonnen, unsere strategische Ausrichtung auf den Prüfstand zu stellen und unsere Zusammenarbeit neu organisiert.
 Mit diesem Blogpost wollen wir euch darüber informieren, was wir bislang erreicht und uns für 2020 vorgenommen haben.
 Kinderjahre Als eine Handvoll Menschen 2010 gemeinsam den Entschluss fassten, die Open Knowledge Foundation Deutschland zu gründen, war nicht abzusehen, dass unsere Arbeit in derart vielen Bereichen so erfolgreich sein würde.</summary>
+  </entry>
+  
+  <entry>
+    <title>Ökostrombericht 2020: Mehr Transparenz für den Strommarkt</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/01/mehr-transparenz-fuer-den-oekostrommarkt/"/>
+    <id>https://okfn.de/blog/2020/01/mehr-transparenz-fuer-den-oekostrommarkt/</id>
+    <published>2020-01-10T00:00:00+0000</published>
+    <updated>2020-01-10T00:00:00+0000</updated>
+    <summary>Seit einigen Monaten arbeitet das Projekt Umweltdatenschule gemeinsam mit der Umweltorganisation ROBIN WOOD an der Neuauflage des Ökostromberichtes 2020, der nun online ist. Mit dem Bericht werden acht von über 1200 Ökostromanbieter empfohlen, die nicht nur ausschließlich Ökostrom vertreiben, sondern auch nahezu keine wirtschaftlichen Verflechtungen zu Unternehmen der Kohle- und Atomenergie aufweisen sowie sich für eine nachhaltige Energiewende engagieren.
+Die Basis des Berichtes bilden verschiedene Daten, die im Rahmen der Recherche zusammengetragen wurden.</summary>
   </entry>
   
 </feed>
