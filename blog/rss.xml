@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Education: Unser Vorschlag für die OER-Strategie des Bundes</title>
+      <link>https://okfn.de/blog/2020/09/open-education-strategie-unser-vorschlag/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/09/open-education-strategie-unser-vorschlag/</guid>
+      <description>Das Ende der 19. Legislaturperiode des Deutschen Bundestages ist abzusehen und noch immer warten wir mit Wikimedia und dem Bündnis Freie Bildung auf die von der Bundesregierung versprochene „umfassende Open Educational Resources-Strategie“. Anlässlich der kleinen Anfrage der FDP-Fraktion zu ebendieser Thematik veröffentlichen wir - gemeinsam mit dem Bündnis Freie Bildung - unseren Vorschlag für eine Strategie zur Stärkung und Förderung von Offener Bildung.
+Unser Vorschlag für die OER-Strategie des Bundes Im Rahmen eines mehrmonatigen, kollaborativen Prozess haben die engagierten Mitglieder des Bündnisses - darunter zahlreiche Organisationen und Einzelpersonen aus diversen Bildungsbereichen - einen Vorschlag erarbeitet, der zeitgemäße und offene Bildung in Deutschland gelingen lässt.</description>
+    </item>
     
     <item>
       <title>Kick-Off #FOE20: Offene Bildung politisch stärken</title>
