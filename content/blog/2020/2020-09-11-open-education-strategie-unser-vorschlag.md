@@ -1,7 +1,7 @@
 ---
 authors: 
 - Maximilian Voigt
-date: 2020-09-12
+date: 2020-09-11
 image:
   src: /files/blog/2020/09/foe19_dis.jpg
   title: "FOE19"
