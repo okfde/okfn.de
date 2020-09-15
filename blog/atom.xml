@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-09-11T00:00:00+0000</updated>
+  <updated>2020-09-15T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>DigitalPakt Schule: mehr Open Education &amp; Beteiligung der Zivilgesellschaft</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/09/digitalpakt-open-education-zivilgesellschaft-beteiligen/"/>
+    <id>https://okfn.de/blog/2020/09/digitalpakt-open-education-zivilgesellschaft-beteiligen/</id>
+    <published>2020-09-15T00:00:00+0000</published>
+    <updated>2020-09-15T00:00:00+0000</updated>
+    <summary>In seiner 59. Sitzung hat der Ausschuss Digitale Agenda über aktuelle Entwicklungen in der digitalen Schulbildung in Zeiten der Corona-Pandemie diskutiert. &amp;ldquo;Fast sieben Milliarden Euro seien für die Digitalisierung im Bildungssektor von Seiten des Bundes zur Verfügung gestellt worden.&amp;rdquo; Am kommenden Mittwoch tagt der Ausschuss erneut, um Vertretern und Vertreterinnen der Kultusministerkonferenz (KMK) die Teilnahme zu ermöglichen.
+Neben dem Aufbau notwendiger Infrastrukturen ist die Etablierung und Stärkung von Open Education - offenen Bildungsmaterialien, -initiativen und Technologien - eine wichtige Aufgabe.</summary>
+  </entry>
   
   <entry>
     <title>Open Education: Unser Vorschlag für die OER-Strategie des Bundes</title>
@@ -144,18 +154,6 @@ Kontrolliert wird sie dabei kaum: Frontex ist die intransparenteste Behörde der
     <updated>2020-02-06T00:00:00+0000</updated>
     <summary>Nachdem uns über die letzten sieben Runden Projektvorschläge zu so unterschiedlichen Schwerpunkten wie Machine Learning oder Vertrauen in und durch Technologie erreicht haben, wollen wir mit der Runde 8 bis zum 31.3.2020 noch einmal die ganze Bandbreite von Public Interest Technologie einfangen.
 Während wir in den bisherigen Schwerpunkten beispielsweise den Fokus darauf gelegt haben, welche Ansätze Entwickler*innen verfolgen, um Nutzer*innen und ihre Daten zu schützen oder Maschinen lernen zu lassen, ist uns wichtig zu sehen, welche Themen euch darüber hinaus umtreiben – und wie sich das Ökosystem entwickelt hat.</summary>
-  </entry>
-  
-  <entry>
-    <title>OKF 2020: Ein Brief zum Jahresbeginn</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/01/ein-brief-zum-jahresbeginn/"/>
-    <id>https://okfn.de/blog/2020/01/ein-brief-zum-jahresbeginn/</id>
-    <published>2020-01-23T00:00:00+0000</published>
-    <updated>2020-01-23T00:00:00+0000</updated>
-    <summary>Liebe Freund*innen der OKF,
-im zurückliegenden Jahr haben wir unsere Organisationsstruktur durchleuchtet und unsere Entscheidungsprozesse hinterfragt. Wir haben begonnen, unsere strategische Ausrichtung auf den Prüfstand zu stellen und unsere Zusammenarbeit neu organisiert.
-Mit diesem Blogpost wollen wir euch darüber informieren, was wir bislang erreicht und uns für 2020 vorgenommen haben.
-Kinderjahre Als eine Handvoll Menschen 2010 gemeinsam den Entschluss fassten, die Open Knowledge Foundation Deutschland zu gründen, war nicht abzusehen, dass unsere Arbeit in derart vielen Bereichen so erfolgreich sein würde.</summary>
   </entry>
   
 </feed>

@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DigitalPakt Schule: mehr Open Education &amp; Beteiligung der Zivilgesellschaft</title>
+      <link>https://okfn.de/blog/2020/09/digitalpakt-open-education-zivilgesellschaft-beteiligen/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/09/digitalpakt-open-education-zivilgesellschaft-beteiligen/</guid>
+      <description>In seiner 59. Sitzung hat der Ausschuss Digitale Agenda über aktuelle Entwicklungen in der digitalen Schulbildung in Zeiten der Corona-Pandemie diskutiert. &amp;ldquo;Fast sieben Milliarden Euro seien für die Digitalisierung im Bildungssektor von Seiten des Bundes zur Verfügung gestellt worden.&amp;rdquo; Am kommenden Mittwoch tagt der Ausschuss erneut, um Vertretern und Vertreterinnen der Kultusministerkonferenz (KMK) die Teilnahme zu ermöglichen.
+Neben dem Aufbau notwendiger Infrastrukturen ist die Etablierung und Stärkung von Open Education - offenen Bildungsmaterialien, -initiativen und Technologien - eine wichtige Aufgabe.</description>
+    </item>
     
     <item>
       <title>Open Education: Unser Vorschlag für die OER-Strategie des Bundes</title>
