@@ -45,10 +45,15 @@ Hier ist bislang zu wenig passiert. Der vorgelegte Umsetzungsstand lässt zudem 
 **Mehr Ambitionen zeigen**
 
 Aktuell fehlt weiterhin ein Leuchtturmprojekt, das die Bemühungen der Bundesregierung im Zusammenhang mit Open Government unterstreicht und die Öffentlichkeit für die Vorhaben im Rahmen der Initiative begeistern kann. Im kommenden Nationalen Aktionsplan sollte die Regierung daher Selbstverpflichtungen einbeziehen, die diesen Vorgaben entsprechen. Dazu gehören:
+
 - die Weiterentwicklung des Informationsfreiheitsgesetzes zu einem Transparenzgesetz mit Open Data als Kernelement
+
 - die Einführung eines öffentlich kostenfrei zugänglichen Transparenzregisters (beneficial ownership register), wie es in der Mehrheit der Mitglieder der Open Government Partnership bereits üblich ist
+
 - die Einführung eines umfängliches Lobbyregisters
+
 - die Selbstverpflichtung, bei öffentlichen Softwareprojekten grundsätzlich Open Source festzuschreiben (“Public Money, Public Code”)
+
 - die Ausschreibung von umfangreichen Förderprogrammen für digitale Open-Source-Infrastruktur
 
 Dies ist die Zusammenfassung unserer Stellungnahme. [Die gesamte Fassung gibt es hier im Volltext zum Download.](/files/blog/2020/09/2020-08-31_OKF_Stellungnahme_OGP.pdf)
