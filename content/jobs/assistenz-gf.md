@@ -7,7 +7,7 @@ image:
   title: "OKF Team"
   license:
   license_url:
-published: true
+published: false
 title: "Neuer Job bei der OKF: Wir suchen eine Assistenz der Geschäftsführung (Vollzeit oder Teilzeit, ab sofort, zunächst befristet auf 1 Jahr)" 
 ---
 
