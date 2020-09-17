@@ -13,11 +13,12 @@ tags:
 - Jugendbeteiligung
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Open Government in Deutschland: Es gibt Fortschritte, aber große Ambitionen fehlen"
 ---
 **Es geht voran mit Open Government in Deutschland. Die Umsetzung der Ziele der Open Government Partnership ist auf dem Weg, aber es bleibt noch viel zu tun. Nur vorsichtige Schritte in der Jugendbeteiligung, ein Open Data Gesetz mit Reformbedarf, eine Beteiligungsplattform für Gesetze, deren Umsetzung nicht absehbar ist, und das Fehlen eines ambitionierten Leuchtturmprojektes: Diese und weitere Punkte kritisieren wir als OKF DE im Rahmen des Konsultationsverfahrens zum Zwischenbericht der Bundesregierung zur Umsetzung des Zweiten Nationalen OGP-Aktionsplans. Hier fassen wir unsere wichtigsten Punkte zusammen und veröffentlichen die gesamte Stellungnahme.**
+
 
 **Deutschlands Rolle in der OGP**
 
