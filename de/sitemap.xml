@@ -319,11 +319,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/jobs/assistenz-gf/</loc>
-    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/blog/2020/04/prototypefund-verlaengerung/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
@@ -4213,7 +4208,6 @@
   
   <url>
     <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -1,21 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>2020-04-28T00:00:00+0000</updated>
+  <updated>0001-01-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
-  
-  <entry>
-    <title>Neuer Job bei der OKF: Wir suchen eine Assistenz der Geschäftsführung (Vollzeit oder Teilzeit, ab sofort, zunächst befristet auf 1 Jahr)</title>
-    <link rel="alternate" href="https://okfn.de/jobs/assistenz-gf/"/>
-    <id>https://okfn.de/jobs/assistenz-gf/</id>
-    <published>2020-04-28T00:00:00+0000</published>
-    <updated>2020-04-28T00:00:00+0000</updated>
-    <summary>Wer wir sind Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, offene technische Infrastruktur, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Mit unseren Projekten wie zum Beispiel Code for Germany, FragDenStaat, Jugend hackt und Prototype Fund sind wir Teil der digitalen Zivilgesellschaft. Gemeinsam mit unseren Communities, die ehrenamtlich an verschiedenen Schnittstellen von Gesellschaft und Technologie agieren, arbeiten wir seit 2011 daran, die digitale Mündigkeit der Bürger*innen in der Demokratie zu stärken, Partizipation zu ermöglichen und den ethischen Umgang mit Technologie zu unterstützen.</summary>
-  </entry>
   
 </feed>

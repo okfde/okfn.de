@@ -6,19 +6,9 @@
     <description>Jobs on OKF DE</description>
     
     
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/jobs/rss.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Neuer Job bei der OKF: Wir suchen eine Assistenz der Geschäftsführung (Vollzeit oder Teilzeit, ab sofort, zunächst befristet auf 1 Jahr)</title>
-      <link>https://okfn.de/jobs/assistenz-gf/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/jobs/assistenz-gf/</guid>
-      <description>Wer wir sind Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, offene technische Infrastruktur, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Mit unseren Projekten wie zum Beispiel Code for Germany, FragDenStaat, Jugend hackt und Prototype Fund sind wir Teil der digitalen Zivilgesellschaft. Gemeinsam mit unseren Communities, die ehrenamtlich an verschiedenen Schnittstellen von Gesellschaft und Technologie agieren, arbeiten wir seit 2011 daran, die digitale Mündigkeit der Bürger*innen in der Demokratie zu stärken, Partizipation zu ermöglichen und den ethischen Umgang mit Technologie zu unterstützen.</description>
-    </item>
     
   </channel>
 </rss>
