@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-09-15T00:00:00+0000</updated>
+  <updated>2020-09-17T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Government in Deutschland: Es gibt Fortschritte, aber große Ambitionen fehlen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/09/ogp-nap2-zwischenbericht-stellungnahme/"/>
+    <id>https://okfn.de/blog/2020/09/ogp-nap2-zwischenbericht-stellungnahme/</id>
+    <published>2020-09-17T00:00:00+0000</published>
+    <updated>2020-09-17T00:00:00+0000</updated>
+    <summary>Es geht voran mit Open Government in Deutschland. Die Umsetzung der Ziele der Open Government Partnership ist auf dem Weg, aber es bleibt noch viel zu tun. Nur vorsichtige Schritte in der Jugendbeteiligung, ein Open Data Gesetz mit Reformbedarf, eine Beteiligungsplattform für Gesetze, deren Umsetzung nicht absehbar ist, und das Fehlen eines ambitionierten Leuchtturmprojektes: Diese und weitere Punkte kritisieren wir als OKF DE im Rahmen des Konsultationsverfahrens zum Zwischenbericht der Bundesregierung zur Umsetzung des Zweiten Nationalen OGP-Aktionsplans.</summary>
+  </entry>
   
   <entry>
     <title>DigitalPakt Schule: mehr Open Education &amp; Beteiligung der Zivilgesellschaft</title>
@@ -144,16 +153,6 @@ Datengetriebenen Anwendungen und Algorithmen formen unsere Gesellschaften aktuel
     <updated>2020-02-26T00:00:00+0000</updated>
     <summary>Eine EU-Behörde, die mit Waffen auf Flüchtlinge schießt. Nach Aussage des Chefs von Frontex könnte das bald Wirklichkeit werden. Frontex, die Europäische Grenzpolizei, hat in den vergangenen Jahren einen enormen Machtzuwachs erlebt. Sie hat inzwischen Milliarden Euro zur Verfügung, um sich eigene Flugzeuge, Schiffe und Autos zu kaufen – und darf an EU-Außengrenzen Waffen einsetzen.
 Kontrolliert wird sie dabei kaum: Frontex ist die intransparenteste Behörde der EU. Wir kämpfen seit vielen Jahren dafür, dass sich das ändert.</summary>
-  </entry>
-  
-  <entry>
-    <title>Der Prototype Fund geht in die 8. Runde: Förderung von bis zu 47.500 € für Open-Source-Projekte</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/02/prototype-fund-achte-runde/"/>
-    <id>https://okfn.de/blog/2020/02/prototype-fund-achte-runde/</id>
-    <published>2020-02-06T00:00:00+0000</published>
-    <updated>2020-02-06T00:00:00+0000</updated>
-    <summary>Nachdem uns über die letzten sieben Runden Projektvorschläge zu so unterschiedlichen Schwerpunkten wie Machine Learning oder Vertrauen in und durch Technologie erreicht haben, wollen wir mit der Runde 8 bis zum 31.3.2020 noch einmal die ganze Bandbreite von Public Interest Technologie einfangen.
-Während wir in den bisherigen Schwerpunkten beispielsweise den Fokus darauf gelegt haben, welche Ansätze Entwickler*innen verfolgen, um Nutzer*innen und ihre Daten zu schützen oder Maschinen lernen zu lassen, ist uns wichtig zu sehen, welche Themen euch darüber hinaus umtreiben – und wie sich das Ökosystem entwickelt hat.</summary>
   </entry>
   
 </feed>
