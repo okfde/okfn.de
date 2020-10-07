@@ -40,4 +40,5 @@ Die Fachgruppe empfiehlt, Bildung auf regionaler Ebene zu transformieren, um Bil
 
 ### Lernen mit und über KI
 Die Fachgruppe empfiehlt, Künstliche Intelligenz (KI) als Schlüsseltechnologie der Digitalisierung nicht den wirtschaftlichen Akteuren zu überlassen. Im Bildungsbereich spielt die KI schon heute in Schulclouds und Lernsoftware eine zentrale Rolle. Lehrende und Lernende sollen an der Gestaltung dieser Technologien beteiligt werden, um sowohl technisches Verständnis zu fördern als auch um pragmatische Ansätze mitzugestalten.
+
 [Zum Konzept](https://education.forum-open.de/groups/fg4.html)
