@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-09-17T00:00:00+0000</updated>
+  <updated>2020-10-07T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Offene Bildung stärken: Lösungen und Forderungen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/10/open-education-community-und-bundespolitik-ergebnisse/"/>
+    <id>https://okfn.de/blog/2020/10/open-education-community-und-bundespolitik-ergebnisse/</id>
+    <published>2020-10-07T00:00:00+0000</published>
+    <updated>2020-10-06T00:00:00+0000</updated>
+    <summary>Wie lässt sich Bildung inklusiv, gerecht und offen gestalten, lautet die Frage beim Forum Open Education 2020 - #FOE20. Bereits das dritte Jahr in Folge laden das Bündnis Freie Bildung, die Open Knowledge Foundation Deutschland und Wikimedia Deutschland zum Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien.
+Am 8. Oktober werden die Ergebnisse des bisher einmaligen Arbeitsprozesses - in dem Bundespolitik und Zivilgesellschaft auf Augenhöhe korrespondierten - in einer digitalen Abschlussveranstaltung präsentiert und von den Bildungspolitiker*innen Marja-Liisa Völlers, Margit Stumpp, Dr.</summary>
+  </entry>
   
   <entry>
     <title>Open Government in Deutschland: Es gibt Fortschritte, aber große Ambitionen fehlen</title>
@@ -143,16 +153,6 @@ In Krisensituationen zeigt sich die Bedeutung von unabhängigen und belastbaren 
     <updated>2020-03-11T00:00:00+0000</updated>
     <summary>Die Bundesregierung plant ihre Datenstrategie und die Zivilgesellschaft ist gefragt! Mit der Strategie möchte sie eine langfristige Grundlage für Datennutzung, Open Data und den Umgang mit Datenschutz schaffen. Wie immer gilt dabei: öffentliche Daten nützen, private Daten schützen.
 Datengetriebenen Anwendungen und Algorithmen formen unsere Gesellschaften aktuell und auf absehbare Zeit. Durch die Digitalisierung und globalen Austausch haben sich die Entwicklungszyklen in allen Bereichen spürbar beschleunigt. Diese Entwicklungen stellen die aktive Zivilgesellschaft vor neue Herausforderungen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Frontex will 24.000 Euro von FragDenStaat</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/02/frontex-rechnung-fragdenstaat/"/>
-    <id>https://okfn.de/blog/2020/02/frontex-rechnung-fragdenstaat/</id>
-    <published>2020-02-26T00:00:00+0000</published>
-    <updated>2020-02-26T00:00:00+0000</updated>
-    <summary>Eine EU-Behörde, die mit Waffen auf Flüchtlinge schießt. Nach Aussage des Chefs von Frontex könnte das bald Wirklichkeit werden. Frontex, die Europäische Grenzpolizei, hat in den vergangenen Jahren einen enormen Machtzuwachs erlebt. Sie hat inzwischen Milliarden Euro zur Verfügung, um sich eigene Flugzeuge, Schiffe und Autos zu kaufen – und darf an EU-Außengrenzen Waffen einsetzen.
-Kontrolliert wird sie dabei kaum: Frontex ist die intransparenteste Behörde der EU. Wir kämpfen seit vielen Jahren dafür, dass sich das ändert.</summary>
   </entry>
   
 </feed>
