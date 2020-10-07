@@ -17,7 +17,7 @@ title: "Offene Bildung stärken: Lösungen und Forderungen"
 ---
 *Wie lässt sich Bildung inklusiv, gerecht und offen gestalten, lautet die Frage beim [Forum Open Education 2020](https://education.forum-open.de/timeline/) - [#FOE20](https://twitter.com/search?q=%23foe20&src=typed_query&f=live). Bereits das dritte Jahr in Folge laden das Bündnis Freie Bildung, die Open Knowledge Foundation Deutschland und Wikimedia Deutschland zum Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien.*
 
-Am [8. Oktober](https://education.forum-open.de/timeline/) werden die Ergebnisse des bisher einmaligen Arbeitsprozesses - in dem Bundespolitik und Zivilgesellschaft auf Augenhöhe korrespondierten - in einer digitalen Abschlussveranstaltung präsentiert und von den Bildungspolitiker\*innen Marja-Liisa Völlers, Margit Stumpp, Dr. Jens Brandenburg, Ronja Kemmer und Birke Bull-Bischoff diskutiert. 
+Am [8. Oktober](https://education.forum-open.de/timeline/) werden die Ergebnisse des bisher einmaligen Arbeitsprozesses - in dem Bundespolitik und Zivilgesellschaft auf Augenhöhe korrespondieren - in einer digitalen Abschlussveranstaltung präsentiert und von den Bildungspolitiker\*innen Marja-Liisa Völlers, Margit Stumpp, Dr. Jens Brandenburg, Ronja Kemmer und Birke Bull-Bischoff diskutiert. 
 
 Wir veröffentlichen schon jetzt die Ergebnisse, die im Rahmen eines Arbeitsprozessen mit den Abgeordneten entstanden sind und blicken auf vier ganz konkrete Lösungen, gemeinsame Stellungnahmen und Positionierungen.
  
