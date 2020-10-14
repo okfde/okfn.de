@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-10-07T00:00:00+0000</updated>
+  <updated>2020-10-14T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bundespolitik ist sich einig: Es braucht mehr Open Education!</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/10/bundespolitik-einig-mehr-open-education/"/>
+    <id>https://okfn.de/blog/2020/10/bundespolitik-einig-mehr-open-education/</id>
+    <published>2020-10-14T00:00:00+0000</published>
+    <updated>2020-10-14T00:00:00+0000</updated>
+    <summary>Auch wenn eine Debatte vom Diskurs lebt, ist manchmal die Einstimmigkeit der Parteien das Bemerkenswerteste. Fraktionsübergreifend zeigte die Abschlussdiskussion des dritten Forums Open Education eine große Einigkeit für mehr Open Education und freie Bildungsmaterialien.
+  Bundestagsabgeordnete aus fünf verschiedenen Fraktionen diskutierten zum Abschluss des Forum Open Education 2020 die Ergebnisse eines mehrmonatigen Konzeptionsprozesses. Zuvor hatten die Abgeordneten mit Expertinnen und Experten aus den Bereichen Hochschullehre, Schule und außerschulische Bildung Konzepte für eine gerechtere, nachhaltigere und kompetenzorientierte Bildung entwickelt.</summary>
+  </entry>
   
   <entry>
     <title>Offene Bildung stärken: Lösungen und Forderungen</title>
@@ -143,16 +153,6 @@ In Krisensituationen zeigt sich die Bedeutung von unabhängigen und belastbaren 
     <published>2020-03-23T00:00:00+0000</published>
     <updated>2020-03-23T00:00:00+0000</updated>
     <summary>Wie können erfolgreiche ehrenamtliche Civic-Tech-Projekte nachhaltig betreut und weiterentwickelt werden? Mit offenen Daten die Welt verbessern: das klingt ziemlich gut. Und das ist es auch – wenn da nicht das Problem wäre, dass Civic-Tech-Projekte in der Regel im Prototypen-Status hängenbleiben. Ein langfristiger Betrieb einer von vielen als sinnvoll empfundenen Plattform ist meist nicht möglich und Open Data damit nicht nachhaltig. Woran liegt das und welche Entscheidungen müssen getroffen werden, um dies zu ändern?</summary>
-  </entry>
-  
-  <entry>
-    <title>Datenpolitik ist Gesellschaftspolitik</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/03/datenpolitik-gesellschaftspolitik/"/>
-    <id>https://okfn.de/blog/2020/03/datenpolitik-gesellschaftspolitik/</id>
-    <published>2020-03-11T00:00:00+0000</published>
-    <updated>2020-03-11T00:00:00+0000</updated>
-    <summary>Die Bundesregierung plant ihre Datenstrategie und die Zivilgesellschaft ist gefragt! Mit der Strategie möchte sie eine langfristige Grundlage für Datennutzung, Open Data und den Umgang mit Datenschutz schaffen. Wie immer gilt dabei: öffentliche Daten nützen, private Daten schützen.
-Datengetriebenen Anwendungen und Algorithmen formen unsere Gesellschaften aktuell und auf absehbare Zeit. Durch die Digitalisierung und globalen Austausch haben sich die Entwicklungszyklen in allen Bereichen spürbar beschleunigt. Diese Entwicklungen stellen die aktive Zivilgesellschaft vor neue Herausforderungen.</summary>
   </entry>
   
 </feed>

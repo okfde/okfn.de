@@ -269,6 +269,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2020/10/bundespolitik-einig-mehr-open-education/</loc>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2020/10/open-education-community-und-bundespolitik-ergebnisse/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
@@ -3224,7 +3229,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3351,6 +3356,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/civic-tech/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/civic-tech/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3363,12 +3374,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/civic-tech/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/civic-tech/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3453,6 +3458,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/community/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/community/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -3465,12 +3476,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/community/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/community/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4143,6 +4148,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/informationsfreiheit/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/informationsfreiheit/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4155,12 +4166,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/informationsfreiheit/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/informationsfreiheit/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4487,7 +4492,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4773,6 +4778,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-data/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/open-data/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4785,12 +4796,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/open-data/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-data/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4857,7 +4862,7 @@
   
   <url>
     <loc>https://okfn.de/blog/tags/open-education/</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4874,6 +4879,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/tags/open-government/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/categories/open-government/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -4886,12 +4897,6 @@
                 hreflang="de"
                 href="https://okfn.de/categories/open-government/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/blog/tags/open-government/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
