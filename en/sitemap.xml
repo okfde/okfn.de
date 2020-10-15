@@ -426,20 +426,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/en/projektfilter/civic_tech/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projektfilter/civic_tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projektfilter/civic_tech/"
-                />
-  </url>
-  
-  <url>
     <loc>https://okfn.de/en/projekte/codingdavinci/</loc>
     <xhtml:link
                 rel="alternate"
@@ -465,20 +451,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/categories/community/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projektfilter/community/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projektfilter/community/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projektfilter/community/"
                 />
   </url>
   
@@ -578,20 +550,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/categories/education/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projektfilter/bildung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projektfilter/bildung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projektfilter/bildung/"
                 />
   </url>
   
@@ -851,20 +809,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/en/projektfilter/open_data/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projektfilter/open_data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projektfilter/open_data/"
-                />
-  </url>
-  
-  <url>
     <loc>https://okfn.de/en/categories/open-government/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -876,20 +820,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/categories/open-government/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projektfilter/offenes_regierungshandeln/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projektfilter/offenes_regierungshandeln/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projektfilter/offenes_regierungshandeln/"
                 />
   </url>
   
@@ -918,20 +848,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/verein/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projektfilter/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projektfilter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projektfilter/"
                 />
   </url>
   
