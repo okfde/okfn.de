@@ -1,11 +1,6 @@
 <div class="c__nav-list c__nav-list--filter js-shuffle-filter">
-  <a href='{{ with .Site.GetPage "/projekte" }}{{.Permalink}}{{end}}' data-filter="tile">
-    {{ i18n "projects_all" }}
-  </a>
   {{ $title := .Title | anchorize }}
-  {{ range  where .Site.Pages "Section" "projektfilter"}}
-    {{ if eq .Kind "page"}}
-      <a href="{{.Permalink}}" data-filter="{{.Title | anchorize}}" class="{{ if eq (.Title | anchorize) $title }}active{{ end }}">{{.Title}}</a>
-    {{ end }}
+  {{ range $.Site.Data.projektfilter }}
+  <a href="#{{.id}}" data-filter="{{.id}}">{{ i18n .i18n }}</a>
   {{ end }}
 </div>

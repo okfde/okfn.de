@@ -78,3 +78,13 @@
   translation: "Share"
 - id: recommended_post
   translation: "We can also recommend this post"
+- id: filter_education
+  translation: "Education"
+- id: filter_civic_tech
+  translation: "Civic Tech"
+- id: filter_community
+  translation: "Community"
+- id: filter_open_government
+  translation: "Open Government"
+- id: filter_open_data
+  translation: "Open Data"

@@ -82,3 +82,13 @@
   translation: "Teilen"
 - id: recommended_post
   translation: "Von uns für dich empfohlen"
+- id: filter_education
+  translation: "Bildung"
+- id: filter_civic_tech
+  translation: "Civic Tech"
+- id: filter_community
+  translation: "Community"
+- id: filter_open_government
+  translation: "Offenes Regierungshandeln"
+- id: filter_open_data
+  translation: "Open Data"
