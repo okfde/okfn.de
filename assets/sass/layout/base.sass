@@ -32,6 +32,18 @@
     @include make-col(6)
     @include make-col-offset(4)
 
+@media print
+  .js
+    padding-top: 0
+    .l__topbar
+      position: static
+
+  .l__topbar
+    .l__inner
+      justify-content: center
+    .l__nav, .l__topbar__toggle
+      display: none
+
 .l__footer
   border-top: $greyish 1px solid
   > div

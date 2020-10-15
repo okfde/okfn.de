@@ -1,9 +1,9 @@
 <footer class="l__footer">
   <div>
     <div class="l__inner">
-      <section class="l__footer__contact col col-12 col-md-3 offset-md-2 order-2">
+      <section class="l__footer__contact col col-12 col-md-3 offset-md-2 order-2 printer-w-100">
         <h2>{{ i18n "footer_contact" }}</h2>
-        <p>Open Knowledge Foundation<br>
+        <p>Open Knowledge Foundation<br class="printer-hidden">
           Deutschland e.V.</p>
         <p>
           Singerstr. 109<br>
@@ -11,28 +11,39 @@
         <p>+49 30 57 70 36 660<br>
           info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]</p>
       </section>
-      <section class="col col-10 col-sm-10 col-md-7 order-1">
+      <section class="col col-10 col-sm-10 col-md-7 order-1 printer-hidden">
         <h2>Newsletter</h2>
         <p>{{ i18n "newsletter_text" }}</p>
         {{- partial "newsletter" -}}
       </section>
-      <nav class="col col-12 col-sm-10 col-md-7 col-lg-6 order-3">
+      <nav class="col col-12 col-sm-10 col-md-7 col-lg-6 order-3 printer-hidden">
         {{- partial "footer-nav" . -}}
       </nav>
-      <div class="col order-4 col-8 col-sm-6 col-md-3 offset-md-2 offset-lg-3">
+      <div class="col order-4 col-8 col-sm-6 col-md-3 offset-md-2 offset-lg-3 printer-hidden">
         {{- partial "social-media" . -}}
       </div>
 
-      <div class="l__footer__footnote col col-12 col-sm-10 col-md-7 order-5">
+      <div class="l__footer__footnote col col-12 col-sm-10 col-md-7 order-5 printer-hidden">
         {{ if eq .Lang "de" }}
-          <p>Wir verwenden die datenschutzfreundliche Technologie von <a href="https://matomo.org/">Matomo</a>, um statistische Auswertungen der Seitennutzung zu erhalten. Wenn sie dies nicht wollen, <a href="https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de">können Sie hier den Haken entfernen</a>. <br>Näheres in unserer <a href="/impressum/#datenschutzerklärung">Datenschutzerklärung</a>.</p>
-          <p>Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein, Vereinsregister-Nr. VR 30468 B. Die Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert. </p>
+        <p>Wir verwenden die datenschutzfreundliche Technologie von <a href="https://matomo.org/">Matomo</a>, um
+          statistische Auswertungen der Seitennutzung zu erhalten. Wenn sie dies nicht wollen, <a
+            href="https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de">können Sie hier den
+            Haken entfernen</a>. <br>Näheres in unserer <a
+            href="/impressum/#datenschutzerklärung">Datenschutzerklärung</a>.</p>
+        <p>Open Knowledge Foundation Deutschland e.V. ist ein gemeinnütziger Verein, Vereinsregister-Nr. VR 30468 B. Die
+          Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a
+            href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert. </p>
         {{ else }}
-          <p>We use <a href="https://matomo.org/">Matomo's</a> privacy-friendly technology for statistical analysis of site usage. If you do not want this,  <a href="https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de">you can remove the tick here</a>. See our <a href="/en/impressum/#privacy-policy">privacy policy</a> for more information.</p>
-          <p>Open Knowledge Foundation Deutschland e.V. is a non-profit association, register of associations no. VR 30468 B. Unless otherwise stated, the contents of this website are licensed under <a href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a>. </p>
+        <p>We use <a href="https://matomo.org/">Matomo's</a> privacy-friendly technology for statistical analysis of
+          site usage. If you do not want this, <a
+            href="https://traffic.okfn.de/index.php?module=CoreAdminHome&action=optOut&language=de">you can remove the
+            tick here</a>. See our <a href="/en/impressum/#privacy-policy">privacy policy</a> for more information.</p>
+        <p>Open Knowledge Foundation Deutschland e.V. is a non-profit association, register of associations no. VR 30468
+          B. Unless otherwise stated, the contents of this website are licensed under <a
+            href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a>. </p>
         {{ end }}
       </div>
-      <div class="l__footer__itz col col-8 col-sm-6 col-md-3 offset-md-2 order-6 mt-s">
+      <div class="l__footer__itz col col-8 col-sm-6 col-md-3 offset-md-2 order-6 mt-s printer-hidden">
         {{ with .Site.GetPage "/transparenz" }}
         <a href="{{.Permalink}}">
           <img src="/okf/logo_itz_footer.jpg" alt='{{ i18n "itz_alt" }}' width="227" height="110">
