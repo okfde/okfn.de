@@ -1,4 +1,12 @@
+.printer-only
+  display: none
+  @media print
+    display: block
+  
 @media print
+  @page
+    margin: 10mm 10mm 10mm 10mm 
+
   .printer-hidden
     display: none
 
@@ -9,6 +17,22 @@
 
   .container
     max-width: 100%
+
+  body
+    font-size: 14px
+
+  h1, .h1
+    font-size: $h2-font-size
+  h2, .h2
+    font-size: $h3-font-size
+  h3, .h3
+    font-size: $h4-font-size
+  h4, .h4
+    font-size: $h5-font-size
+  h5, .h5
+    font-size: $h6-font-size
+  h6, .h6
+    font-size: $h6-font-size
 
 @mixin avoid-break
   @media print

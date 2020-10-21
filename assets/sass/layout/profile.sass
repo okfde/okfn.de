@@ -3,33 +3,53 @@
     line-height: 1.5
     font-size: 1.1em
     margin-bottom: $space
+
+    @media print
+      margin-bottom: 10px
   h2
     margin: 2em 0 0.75em 0
+
+    @media print
+      margin-top: 0.5em
   img
     width: 100%
     height: auto
-    @media print
-      max-height: 200px
-      object-fit: cover
 
   .row + .row
     margin-top: $space
+    @media print
+      margin-top: 0
+
+  @media print
+    margin-top: $space-half
 
 .l__profile__section
   margin: $space-double 0
 
   @media print
-    margin: $space 0
+    margin: 0
 
-  @include avoid-break()
+    .row
+      margin-left: 0
+      padding-left: 0
+    
+    .col.col-12
+      width: 100%
+      max-width: none
+      flex: 0 0 100%
+      position: static
+      margin-left: 0
+      padding-left: 0
+      @include avoid-break()
+
+    figure
+      display: none
 
 .l__profile__aside
   margin: 120px 0
 
   @media print
     margin: $space-double 0
-
-  @include avoid-break()
 
 .c__additional
   img
@@ -53,6 +73,7 @@
     font-size: 1.4rem
     @include media-breakpoint-up(xl)
       font-size: 1.65rem
+    
   h3 + p
     margin-top: $space
   a
