@@ -22,6 +22,9 @@
   <div class="row">
     <h1 class="col col-12">{{.Params.blurb}}</h1>
   </div>
+  <div class="printer-hidden my-4 print-page">
+    <a href="#!" onclick="window.print()">{{ i18n "print" }}</a>
+  </div>
   <div class="l__profile">
     {{ range (.Paginator 10).Pages }}
     {{ if eq .Params.arrange "img_top"}}

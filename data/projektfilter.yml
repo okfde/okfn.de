@@ -1,13 +1,13 @@
 # Die IDs werden für URLs benutzt, i18n für die Übersetzungen
 - i18n: projects_all
   id: all
-- i18n: filter_education
+- i18n: education
   id: education
-- i18n: filter_civic_tech
+- i18n: civic_tech
   id: civic-tech
-- i18n: filter_community
+- i18n: community
   id: community
-- i18n: filter_open_government
+- i18n: open_government
   id: open-government
-- i18n: filter_open_data
+- i18n: open_data
   id: open-data
