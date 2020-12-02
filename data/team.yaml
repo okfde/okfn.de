@@ -132,10 +132,10 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektmanagerin Code for Germany
-  position_en: Project Manager Code for Germany
-  bio: "Claudia arbeitet bei der OKF im Projekt Code for Germany. Dort ist sie u. a. für den Austausch mit der Community in den Labs zuständig."
-  bio_en: "Claudia works in the Code for Germany project. She is responsible for the exchange with the communities in the labs."
+  position: Projektmanagerin
+  position_en: Project Manager
+  bio: "Claudia arbeitet bei der OKF in verschiedenen Kooperationsprojekten für Netzwerkbildung und Outreach."
+  bio_en: "Claudia works at OKF in various cooperation projects for network building and outreach."
   mail: claudia.jach@okfn.de
   twitter:
   website:
