@@ -1,82 +1,69 @@
 ---
 authors: 
 - Arne Semsrott
-date: 2019-10-31
+- Phillip Hofmann
+date: 2020-12-04
 image:
   src: /files/jobs/fds1.png
   title: "FragDenStaat-Logo"
   license:
   license_url: 
-published: false
-title: "Neuer Job bei FragDenStaat: Wir suchen Jurist*in! (60-100%, ab Februar 2020)" 
+published: true
+title: "FragDenStaat: Wir suchen Volljurist*in! (80-100%, ab Februar 2021)" 
 ---
+
+**Für unseren Bereich der strategischen Klagen suchen wir ab Februar des kommenden Jahres zur Verstärkung eine Volljurist\*in für FragDenStaat!**
 
 ## Wer wir sind
 
-FragDenStaat ist das Portal für Informationsfreiheit in Deutschland. Seit 2011 ermöglicht es allen Menschen, einfach und transparent Informationen von Behörden zu befreien – mit technischen Tools, Kampagnen, strategischen Klagen und journalistischer Berichterstattung. Inzwischen haben rund 80.000 Personen insgesamt 130.000 Anfragen über FragDenStaat gestellt. In den vergangenen drei Jahren haben wir 50 IFG- und UIG-Klagen gegen deutsche und EU-Behörden eingereicht und über unseren Klagefonds weitere finanziert.
+FragDenStaat ist das Portal für Informationsfreiheit in Deutschland. Seit 2011 ermöglicht es allen Menschen, einfach und transparent Informationen von Behörden zu befreien – mit technischen Tools, Kampagnen, strategischen Klagen und journalistischer Berichterstattung. Inzwischen haben rund 100.000 Personen insgesamt 165.000 Anfragen über FragDenStaat gestellt. In den vergangenen drei Jahren haben wir 75 Klagen gegen deutsche und EU-Behörden eingereicht und über unseren Klagefonds weitere finanziert.
 
-Informationsfreiheit ist uns ein Herzensanliegen. FragDenStaat ist ursprünglich als ehrenamtliches Projekt gestartet und wird inzwischen von einem kleinen Team getragen. Wir wachsen weiter und haben viel vor, um Informationsfreiheit in Deutschland strategisch voranzubringen. Dazu bieten wir Raum für neue Ideen, experimentieren gerne und suchen dafür Verstärkung!
-
-Trägerverein von FragDenStaat ist der gemeinnützige Verein Open Knowledge Foundation Deutschland mit Sitz in Berlin, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär. 
+Trägerverein von FragDenStaat ist der gemeinnützige Verein Open Knowledge Foundation Deutschland mit Sitz in Berlin, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär. Informationsfreiheit ist uns ein Herzensanliegen. FragDenStaat ist ursprünglich als ehrenamtliches Projekt gestartet und wird inzwischen von einem hauptamtlichen Team getragen. Wir wachsen weiter und haben viel vor, um Informationsfreiheit in Deutschland und auf EU-Ebene strategisch voranzubringen. Dafür suchen wir Verstärkung!
 
 ## Wen wir suchen
 
-Für unseren Bereich der strategischen Klagen sind wir auf der Suche nach einer teamstarken und politikinteressierten Persönlichkeit, die Lust hat, gemeinsam mit uns FragDenStaat weiterzuentwickeln und das Berliner Kernteam - Arne, Judith, Lea und Stefan - zu verstärken. 
+Für unseren Bereich der strategischen Verwaltungsverfahren und Klagen sind wir auf der Suche nach einer politischen und teamstarken Persönlichkeit, die Lust hat, gemeinsam mit uns FragDenStaat und die Informationsfreiheit auf nationaler und europäischer Ebene voranzubringen und das Berliner Kernteam zu verstärken. 
 
-In diesen Bereichen wirst Du arbeiten: 
+In diesen Bereichen wirst Du arbeiten:
 
-- Weiterentwicklung unserer Strategie für die rechtliche Durchsetzung von Ansprüchen im Bereich Informationsfreiheit und damit zusammenhängenden Rechtsgebieten in Deutschland, aber auch auf EU-Ebene
+- Weiterentwicklung unserer Strategie zur Durchsetzung der Informationsfreiheit in Deutschland und auf EU-Ebene
+- Eigenständige rechtliche Betreuung einer Vielzahl strategischer Informationsfreiheitsanfragen und Erarbeitung von Widersprüchen und Klagen im Informationsfreiheitsrecht mit Bezügen zu Grund- und Menschenrechten, zum Geheimnisschutz-, Urheber- und Datenschutzrecht
+- Rechtliche Prüfung von Veröffentlichungen und Kampagnen, u.a. anhand von Persönlichkeitsrechten
+- Umfassende rechtliche Beratung des FragDenStaat-Teams
+- Rechtliche Prüfung und Ausgestaltung von Legal-Tech-Anwendungen, u.a. für automatisierte Widersprüche und Klagen
+- Vorbereitung von Stellungnahmen im Rahmen von Gesetzgebungsprozessen
 
-- Formulierung von Klagen sowie Entwicklung von Legal-Tech-Vorlagen für automatisierte Widersprüche und Klagen gemeinsam mit spezialisierten Kanzleien
-
-- Mithilfe bei der Entwicklung und Begleitung von Kampagnen und Kooperationen mit NGOs und Journalist*innen
-
-- Pflege und Weiterentwicklung einer Klage- und Urteilsdatenbank für Informationsfreiheit
-
-- Rechtliche Beratung des FragDenStaat-Teams und von FragDenStaat-User*innen
-
-- Erarbeitung von Fachtexten im Bereich Informationsfreiheit, Vorbereitung von Stellungnahmen im Rahmen von Gesetzgebungsprozessen
-
-- Möglichkeit, Interessen und Standpunkte von FragDenStaat in Fachgesprächen gegenüber Politik und Verwaltung zu vertreten
-
-- Möglichkeit der Entwicklung weiterer Projekte im Bereich Informationsfreiheit, Urheberrecht und verwandten Rechtsgebieten
-
-Wir möchten die anfallenden Tätigkeiten und auch die wöchentliche Arbeitszeit so arrangieren, dass sie zu Dir passen. 
-
-Eine Kombination mit einer Beschäftigung in einer Anwaltskanzlei ist grundsätzlich auch möglich. Wir kooperieren mit verschiedenen Kanzleien, bei denen eine Beschäftigung teilweise möglich ist. Es besteht zudem die Gelegenheit, die Stelle mit einer Promotion zu verbinden.
+Wir kooperieren mit vielen Rechtsanwaltskanzleien und stehen im ständigen Austausch mit der juristischen Fachwelt. Innerhalb des Teams arbeitest du eng mit dem Head of Legal sowie mit der FragDenStaat-Projektleitung zusammen und bist ggf. für die Betreuung einer Rechtsreferendar*in zuständig.
 
 ## Profil
 
-Bei uns gibt es viel Raum für Deine eigenen Ideen. Das Projekt lebt von dem starkem Engagement und Einsatz aller Teammitglieder. Dementsprechend wünschen wir uns von Dir, dass Du eigenständig arbeitest, gerne Verantwortung übernimmst und ein gutes Zeitmanagement mitbringst. 
+Du solltest Volljurist\*in sein und nach Möglichkeit ein bis zwei Jahre anwaltliche Vorerfahrung mitbringen, gern aus dem Bereich Prozessführung. Vorerfahrungen in mindestens einem der Rechtsgebiete Informationsfreiheits- und/oder Verwaltungs(verfahrens)recht sind wichtig. Kenntnisse im Geheimnisschutz-, Datenschutz-, Urheber- sowie im Presse- und Persönlichkeitsrecht sind von Vorteil. Die Bereitschaft, sich als Anwält*in zuzulassen, ist erwünscht. Fachlich ist uns ein besonderes Interesse an Informationsfreiheit wichtig sowie die Bereitschaft, sich in die teils komplexen Gesetze und die Kasuistik (UIG, IFG, VIG) einzuarbeiten. Technikoffenheit ist von Vorteil.
 
-Du solltest Volljurist*in sein und ein besonderes Interesse an Informationsfreiheit und verwandten Rechtsgebieten haben. Genauso wichtig wie gründliche juristische Arbeit ist eine kreative Herangehensweise an juristische und politische Fragestellungen. Wenn Du Freude daran hast, mithilfe Deiner Kenntnisse neue Wege in der Informationsfreiheit zu beschreiten, bist Du bei uns genau richtig. Toll wäre, wenn Du eine grundsätzliche Offenheit gegenüber Technik mitbringst.
+Besonders wichtig sind eigenständiges, gründliches und effizientes juristisches Arbeiten und Entscheidungsfreude hinsichtlich juristischer Problemlagen. Hierbei schätzen wir eine kreative und engagierte Herangehensweise an juristische und politische Fragestellungen.
+
+Das Projekt lebt von dem starken Engagement und Einsatz aller Teammitglieder. Dementsprechend wünschen wir uns von Dir, dass Du gerne Verantwortung übernimmst und ein gutes Zeitmanagement mitbringst.
 
 ## Was wir bieten
 
 Wir bieten Dir:
 
-- die Möglichkeit, eigene Ideen umzusetzen und die Zukunft der Informationsfreiheit in Deutschland mitzugestalten
+- Die Möglichkeit, neuartige juristische Problemlagen auf dem Gebiet der Informationsfreiheit zu erschließen, zu lösen und die Zukunft der Informationsfreiheit in Deutschland und auf EU-Ebene mitzugestalten
+- Klassisch anwaltliches Arbeiten und eine enge Zusammenarbeit mit spezialisierten Kanzleien
+- Raum für eigene Ideen und zur Entwicklung weiterer Projekte im Bereich Informationsfreiheit und verwandten Rechtsgebieten
+- Fortbildungen in Bereichen, die für Dich und unsere Arbeit wichtig sind
+- Ein sehr spannendes Arbeitsumfeld bei der Open Knowledge Foundation in Berlin
+- Eine gute Büroatmosphäre mit einem unterhaltsamen und motivierten Team - auch im derzeitigen Home Office
+- flexible, familienfreundliche Arbeitszeiten
+- eine Vergütung nach TV-L E13, Stufe abhängig von Erfahrung
 
-- enge Zusammenarbeit mit dem hauptamtlichen Team von FragDenStaat und spezialisierten Kanzleien
+**Die Stelle ist zum 1. Februar 2021 zu besetzen.** Sie ist derzeit aus finanziellen Gründen auf zwei Jahre befristet. Wir streben eine Verlängerung an.
 
-- dazuzulernen in den Bereichen, die Dir wichtig sind
+Wir freuen uns insbesondere über die Bewerbungen von Frauen*, BPoC, Menschen mit Migrationsgeschichte, Menschen mit Behinderung und Menschen anderer Gruppen, die in der IT- und Jura-Welt unterrepräsentiert sind.
 
-- flexible, familienfreundliche Arbeitszeiten und die Möglichkeit zu gelegentlichem Home Office
+**Du glaubst, dass ein paar Aspekte aus der Ausschreibung nicht zu Dir passen, aber viele andere schon? Dann bewirb Dich bitte trotzdem.**
 
-- ein sehr spannendes Arbeitsumfeld bei der Open Knowledge Foundation in Berlin
-
-- eine gute Büroatmosphäre, gratis Getränke und eine oft aufgefüllte Snackbox
-
-- eine Vergütung nach TV-L E13 Stufe 3
-
-Die Stelle ist zum **1. Februar 2020** zu besetzen. Sie ist derzeit aus finanziellen Gründen auf zwei Jahre befristet. Wir streben aber an, die Stelle dauerhaft zu besetzen.
-
-Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT- und Jura-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
-
-Bitte schicke uns Deine Bewerbung inkl. möglichem Beginn und bevorzugtem Stundenumfang **bis zum 6. Dezember 2019** per E-Mail an arne.semsrott@okfn.de, gerne auch PGP-verschlüsselt. Wir möchten vor allem wissen, woran Du Interesse hast, wofür Du dich engagierst, was Du gut kannst, was Dich bewegt und motiviert.
-
-Du arbeitest besonders gerne und effektiv mit einer anderen Person zusammen, die auch mit uns arbeiten möchte? Dann könnt ihr euch auch gemeinsam als Team bewerben.
+Bitte schicke uns Deine Bewerbung mit Anschreiben, Lebenslauf, Zeugnissen, möglichem Beginn und bevorzugtem Stundenumfang bis zum 3. Januar 2021 per E-Mail an arne.semsrott@okfn.de und phillip.hofmann@okfn.de, gerne auch PGP-verschlüsselt. Wir möchten vor allem wissen, woran Du Interesse hast, wofür Du dich engagierst, was Du gut kannst, was Dich bewegt und motiviert. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
 
 ## Wie es weitergeht
 
-Wir werden alle Bewerbungen sichten, ggf. nachanonymisieren und dann dem Personalverantwortlichen zur Auswahl vorlegen (erste Runde). Danach wird die Anonymisierung aufgehoben, damit wir mit einigen von euch Telefongespräche führen können (zweite Runde). Zur dritten Runde werden wir Bewerber*innen zum persönlichen Kennenlernen nach Berlin einladen. Diese Gespräche finden vom **9.-13.12.2019** in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.
+Wir werden alle Bewerbungen sichten, ggf. nachanonymisieren und dann dem Personalverantwortlichen zur Auswahl vorlegen (erste Runde). Im Anschluss werden wir ausgewählten Kandidat\*innen einen Fall zur eigenständigen Bearbeitung zur Verfügung stellen. Nach Sichtung der Ergebnisse wird die Anonymisierung aufgehoben, damit wir mit einigen von euch Telefongespräche führen können (zweite Runde). Zur dritten Runde werden wir Bewerber\*innen zum persönlichen Kennenlernen einladen. **Diese Gespräche finden vom 18.-22.01.2021 in Berlin oder pandemiebedingt auch online statt.** Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.
