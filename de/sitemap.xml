@@ -269,6 +269,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/jobs/juristin-fragdenstaat/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2020/12/offener-brief-an-die-community/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
   </url>
@@ -4186,6 +4191,7 @@
   
   <url>
     <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4460,7 +4466,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
