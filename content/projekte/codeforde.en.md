@@ -14,10 +14,10 @@ layout: project
 img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
-  - name: Adriana Groh
-    role: Projektleitung
-  - name: Claudia Jach
-    role: Community Organiser
+  - name: 
+    role: 
+  - name: 
+    role:
 contact_person: michaelpeters
 years: 2014 - heute
 weight: 4
