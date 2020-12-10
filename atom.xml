@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-12-02T00:00:00+0000</updated>
+  <updated>2020-12-10T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Publikation des Prototype Fund: Community-Technologien von Nutzer:innen für Nutzer:innen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/12/publikation-digitale-zivilgesellschaft/"/>
+    <id>https://okfn.de/blog/2020/12/publikation-digitale-zivilgesellschaft/</id>
+    <published>2020-12-10T00:00:00+0000</published>
+    <updated>2020-12-10T00:00:00+0000</updated>
+    <summary>Die digitale Zivilgesellschaft zeigt ständig ihr großes Engagement – und hat in der Corona-Krise vollends bewiesen, dass sie unser (digitales) Leben besser macht. Diese wichtige Arbeit hat der Prototype Fund über den Lauf des Jahres in einer Reihe von Blogartikeln dargestellt, welche nun in der Publikation “Community-Technologien: Von Nutzer:innen für Nutzer:innen” zusammengefasst veröffentlicht werden.
+Wie vielfältig die digitale Zivilgesellschaft ist, sehen wir unter anderem in der Breite der Förderprojekte des Prototype Fund sowie der Fülle der unterzeichnenden Organisationen beim “Aufruf der digitalen Zivilgesellschaft”.</summary>
+  </entry>
   
   <entry>
     <title>Offener Brief an die Community</title>
@@ -146,15 +156,6 @@ Was können wir aus der Krise und in der Krise lernen?</summary>
     <published>2020-04-28T00:00:00+0000</published>
     <updated>2020-04-28T00:00:00+0000</updated>
     <summary>Wer wir sind Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, offene technische Infrastruktur, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Mit unseren Projekten wie zum Beispiel Code for Germany, FragDenStaat, Jugend hackt und Prototype Fund sind wir Teil der digitalen Zivilgesellschaft. Gemeinsam mit unseren Communities, die ehrenamtlich an verschiedenen Schnittstellen von Gesellschaft und Technologie agieren, arbeiten wir seit 2011 daran, die digitale Mündigkeit der Bürger*innen in der Demokratie zu stärken, Partizipation zu ermöglichen und den ethischen Umgang mit Technologie zu unterstützen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Der Prototype Fund geht in die Verlängerung</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/04/prototypefund-verlaengerung/"/>
-    <id>https://okfn.de/blog/2020/04/prototypefund-verlaengerung/</id>
-    <published>2020-04-03T00:00:00+0000</published>
-    <updated>2020-04-03T00:00:00+0000</updated>
-    <summary>Lasst die Korken knallen! Wir freuen uns sehr, dass es nach der 8. Förderrunde, deren Bewerbungsfrist am 31. März 2020 zu Ende gegangen ist, nicht nur eine 9., sondern auch die 10., 11., 12., 13., 14., 15. und 16. Runde des Prototype Fund geben wird! Wer also die Einreichungsfrist für die 8. Runde verpasst haben sollte, hat nun also viele neue Gelegenheiten, sich mit einer Idee für Open-Source-Software aus dem Bereich Public Interest Tech zu bewerben!</summary>
   </entry>
   
 </feed>
