@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-12-10T00:00:00+0000</updated>
+  <updated>2020-12-16T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Zum Jahresende: Was für ein Jahr!</title>
+    <link rel="alternate" href="https://okfn.de/blog/2020/12/was-fuer-ein-jahr/"/>
+    <id>https://okfn.de/blog/2020/12/was-fuer-ein-jahr/</id>
+    <published>2020-12-16T00:00:00+0000</published>
+    <updated>2020-12-10T00:00:00+0000</updated>
+    <summary>Das Jahr kann jetzt wirklich einmal zu Ende gehen. Uns reicht es jetzt. 2020 hat uns alle heftig mitgenommen. Ein Wunder, wie entspannt wir alle auf der digitalen Weihnachtsfeier waren. Noch nie schleppte sich ein Jahr so zäh dahin oder ist es doch in Windeseile verflogen? 2020 geht in die Geschichte ein als ein Jahr, in dem alles ein wenig anders ist. Für viele von uns, ist es eine erstaunliche Erfahrung, unsere Gewohnheiten und unseren Alltag anzupassen, um unsere eigene Gesundheit zu schützen, sowie die Gesundheit von unseren Familien, Freunden und allen anderen.</summary>
+  </entry>
   
   <entry>
     <title>Publikation des Prototype Fund: Community-Technologien von Nutzer:innen für Nutzer:innen</title>
@@ -147,15 +156,6 @@ Was können wir aus der Krise und in der Krise lernen?</summary>
     <published>2020-05-12T00:00:00+0000</published>
     <updated>2020-05-12T00:00:00+0000</updated>
     <summary>Wenn wir morgens aufwachen, dauert es meist nicht lang bis zum ersten Griff zum Smartphone oder Tablet: Wir checken E-Mails, verschicken Nachrichten oder scrollen durch Social-Media- und Newsfeeds. Im Job geht es für viele damit weiter: Sei es das gemeinsame Arbeiten an Dokumenten, Chats oder Videokonferenzen – zahlreiche Anwendungen gehören, nicht erst seit viele von uns im Home Office arbeiten, fest zu unserem Alltag. Dabei wird oft vergessen, dass die Anwendungen, die wir nutzen, nur die halbe Miete sind: Sie alle benötigen einen soliden Unterbau, also zum Beispiel Programmiersprachen, in denen ihre Basisfunktionen festgelegt sind, Datenbanken, Hosting oder Clouds.</summary>
-  </entry>
-  
-  <entry>
-    <title>Neuer Job bei der OKF: Wir suchen eine Assistenz der Geschäftsführung (Vollzeit oder Teilzeit, ab sofort, zunächst befristet auf 1 Jahr)</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/04/jobs-assistenz/"/>
-    <id>https://okfn.de/blog/2020/04/jobs-assistenz/</id>
-    <published>2020-04-28T00:00:00+0000</published>
-    <updated>2020-04-28T00:00:00+0000</updated>
-    <summary>Wer wir sind Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, offene technische Infrastruktur, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Mit unseren Projekten wie zum Beispiel Code for Germany, FragDenStaat, Jugend hackt und Prototype Fund sind wir Teil der digitalen Zivilgesellschaft. Gemeinsam mit unseren Communities, die ehrenamtlich an verschiedenen Schnittstellen von Gesellschaft und Technologie agieren, arbeiten wir seit 2011 daran, die digitale Mündigkeit der Bürger*innen in der Demokratie zu stärken, Partizipation zu ermöglichen und den ethischen Umgang mit Technologie zu unterstützen.</summary>
   </entry>
   
 </feed>

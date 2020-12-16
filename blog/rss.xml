@@ -6,10 +6,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zum Jahresende: Was für ein Jahr!</title>
+      <link>https://okfn.de/blog/2020/12/was-fuer-ein-jahr/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/12/was-fuer-ein-jahr/</guid>
+      <description>Das Jahr kann jetzt wirklich einmal zu Ende gehen. Uns reicht es jetzt. 2020 hat uns alle heftig mitgenommen. Ein Wunder, wie entspannt wir alle auf der digitalen Weihnachtsfeier waren. Noch nie schleppte sich ein Jahr so zäh dahin oder ist es doch in Windeseile verflogen? 2020 geht in die Geschichte ein als ein Jahr, in dem alles ein wenig anders ist. Für viele von uns, ist es eine erstaunliche Erfahrung, unsere Gewohnheiten und unseren Alltag anzupassen, um unsere eigene Gesundheit zu schützen, sowie die Gesundheit von unseren Familien, Freunden und allen anderen.</description>
+    </item>
     
     <item>
       <title>Publikation des Prototype Fund: Community-Technologien von Nutzer:innen für Nutzer:innen</title>
