@@ -3,7 +3,7 @@ authors:
 - Maximilian Richt
 date: 2021-01-11
 image:
-  src: files/projects/KleineAnfragen_Header.png
+  src: /files/projects/KleineAnfragen_Header.png
   title: kleineAnfragen
   license: cc-by 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/
