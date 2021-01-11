@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive Cologne on OKF</title>
+    <link>https://okfn.de/tags/interactive-cologne/</link>
+    <description>Recent content in Interactive Cologne on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 08 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/interactive-cologne/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aktivitäten und Projekte im Juni 2013</title>
+      <link>https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/</link>
+      <pubDate>Mon, 08 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/</guid>
+      <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
+ Rückblick in den Juni
+Die ersten Ergebnisse des weltweiten Open Data Census haben gezeigt, dass die vorgestellte &amp;ldquo;Open Data Charta&amp;rdquo; der G8 Staaten nur ein erster Schritt in die richtige Richtung ist.
+Voran gegangen sind die Kommunen Moers und Bochum in denen wir, gemeinsam mit der Initiative OpenRuhr, die offenen Ratsinformationssysteme moers.ris.openruhr.de und bochum.ris.openruhr.de veröffentlichten.
+In Berlin wurde beim Open Data Day die erfolgreiche Entwicklung der Stadt in Richtung mehr Verwaltungstransparenz gewürdigt, aber auch hitzig über aktuelle Streitfragen, wie die neuen deutschen Lizenzmodelle, diskutiert.</description>
+    </item>
+    
+    <item>
+      <title>Apps &amp; the City Cologne</title>
+      <link>https://okfn.de/blog/2013/06/apps-the-city-cologne/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/06/apps-the-city-cologne/</guid>
+      <description>Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _Apps &amp;amp; the City_ Team der Open Knowledge Foundation Deutschland beim diesjährigen [Interactive Cologne](/blog/2013/06/interactive-cologne-apps-the-city/) Festival!
+Angelockt unter anderem durch aktuelle Gerüchte um Open-Transport-Data-Pläne sowohl bei den Kölner Verkehrsbetrieben (KVB) als auch bei den Verkehrsverbünden Rhein-Ruhr (VRR) und Rhein-Sieg (VRS) zog es zwischen 17. und 23. Juni 2013 neben Hackern, App-Entwicklern und Gründern auch das Apps &amp;amp; the City Team der Open Knowledge Foundation Deutschland sowie weitere Open-Data-Aktivisten in die Domstadt am Rhein.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Cologne: Apps &amp; the City in Köln</title>
+      <link>https://okfn.de/blog/2013/06/interactive-cologne-apps-the-city/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/06/interactive-cologne-apps-the-city/</guid>
+      <description>Zwischen 17. und 23. Juni wird die Domstadt Köln zur Hochburg für Hacker, Gründer und kreative Köpfe aus aller Welt, denn kommende Woche startet das Hack, Tech und Biz Festival Interactive Cologne! Mit dabei ist auch das Apps &amp;amp; the City Team der Open Knowledge Foundation Deutschland&amp;hellip;
+Wenn Hacker, Open-Data-Aktivisten und Startup-Gründer in Köln zusammen kommen um zu coden, zu diskutieren, zu planen und von einander zu lernen, dann ist das Interactive Cologne!</description>
+    </item>
+    
+  </channel>
+</rss>

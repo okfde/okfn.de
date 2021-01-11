@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gesetzgebung on OKF</title>
+    <link>https://okfn.de/tags/gesetzgebung/</link>
+    <description>Recent content in Gesetzgebung on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/gesetzgebung/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unsere Stellungnahme zum Open-Data-Gesetz in NRW</title>
+      <link>https://okfn.de/blog/2020/06/stellungnahme-open-data-gesetz-nrw/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/06/stellungnahme-open-data-gesetz-nrw/</guid>
+      <description>Im März 2020 wurden wir gebeten, eine Stellungnahme zum Gesetzentwurf der Landesregierung zur Änderung des E-Government-Gesetzes Nordrhein-Westfalen und zur Änderung weiterer Vorschriften (Drs. 17&amp;frasl;8795 des Landtags Nordrhein-Westfalen) abzugeben. In Vorbereitung der Stellungnahme haben wir Inputs aus unserer Community eingesammelt, um Expertise aus verschiedenen Arbeitsbereichen der OKF einbringen zu können. Alle eingegangenen Stellungnahmen hat der Landtag NRW veröffentlicht. Der schriftlichen Stellungnahme folgte eine öffentliche Anhörung im Landtag NRW am 14.05.2020, an der unsere Geschäftsführerin Henriette Litta teilnahm.</description>
+    </item>
+    
+  </channel>
+</rss>

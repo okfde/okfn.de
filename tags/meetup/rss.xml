@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on OKF</title>
+    <link>https://okfn.de/tags/meetup/</link>
+    <description>Recent content in Meetup on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 30 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/meetup/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OKF in Berlin: Meetup diesen Samstag!</title>
+      <link>https://okfn.de/blog/2012/05/okf-in-berlin-meetup-diesen-samstag/</link>
+      <pubDate>Wed, 30 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/05/okf-in-berlin-meetup-diesen-samstag/</guid>
+      <description>As the Co-Founder and Director of the Open Knowledge Foundation, Rufus Pollock, is currently in Berlin, we&amp;rsquo;re organising a small meetup this Saturday for everyone interested in working on some of the OKFs German open data projects.
+ What: Meetup on Open Data focused on doing some open data coding/hacking around offenedaten.de as well as research around open data availability, esp. for the creation of an Open Data Census Deutschland</description>
+    </item>
+    
+    <item>
+      <title>Regelmäßige Treffen für Open Knowledge Interessierte in Berlin</title>
+      <link>https://okfn.de/blog/2012/01/regelmasige-treffen-fur-open-knowledge-interessierte-in-berlin/</link>
+      <pubDate>Thu, 05 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/01/regelmasige-treffen-fur-open-knowledge-interessierte-in-berlin/</guid>
+      <description>Mit dem Start ins neue Jahr möchten wir unseren ersten guten Vorsatz gleich umsetzen: endlich ein regelmäßiges Treffen für Interessierte an Open Knowledge und Open Data in Berlin!
+Unser Vorschlag ist es, sich regelmässig, immer am zweiten Dienstag eines Monats, zu treffen.
+Den start machen wir also am Dienstag den 10. Januar, ab 18 Uhr in unseren neuen temporären Büroräumen in der Co-Working Etage über dem St. Oberholz (St. Oberholz, Rosenthaler Straße 72a, 10119 Berlin, 2 Stock, Eingang um die Ecke).</description>
+    </item>
+    
+  </channel>
+</rss>

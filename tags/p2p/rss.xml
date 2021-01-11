@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P2p on OKF</title>
+    <link>https://okfn.de/tags/p2p/</link>
+    <description>Recent content in P2p on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 03 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/p2p/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>P2PU Meetup Berlin</title>
+      <link>https://okfn.de/blog/2011/11/p2pu-meetup-berlin/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2011/11/p2pu-meetup-berlin/</guid>
+      <description>P2PU crew will be back to Berlin for the 2011 Workshop. On 10 Nov they are hosting a meetup that is open to the public. They&amp;rsquo;d love to see as much of the Berlin free culture / hacker / edupunk crew as possible there.
+Please help spread the word, here&amp;rsquo;s the event page where attendees should RSVP:
+ P2PU Meetup Berlin
+ Thursday, 10 November 2011, 18:30
+ Supermarkt Berlin</description>
+    </item>
+    
+  </channel>
+</rss>

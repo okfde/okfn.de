@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stadtarchiv on OKF</title>
+    <link>https://okfn.de/tags/stadtarchiv/</link>
+    <description>Recent content in Stadtarchiv on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/stadtarchiv/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kommunale Archive für alle: Start in Kerpen</title>
+      <link>https://okfn.de/blog/2018/01/mein-stadtarchiv/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2018/01/mein-stadtarchiv/</guid>
+      <description>Ein Stadtarchiv besteht aus Unmengen an Dokumenten aus vielen Jahrhunderten, die die Geschichte lebendig machen. Doch viele Bürgerinnen und Bürger wissen nicht viel davon, zudem muss man in Persona dahin, um die Dokumente einzusehen, und eine archivübergreifende Suche ist erst recht schwierig. Das geht besser - mit OpenData.
+Ein Team aus dem Kerpener Stadtarchiv, dem KDVZ Rhein-Erft-Rur und der OKF haben in den vergangenen Monaten im Rahmen einer OpenNRW-Förderung die Daten aus der Archiv-Software extrahiert und diese in eine schnell und komfortabel durchsuchbare Form gebracht.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netzdg on OKF</title>
+    <link>https://okfn.de/tags/netzdg/</link>
+    <description>Recent content in Netzdg on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 12 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/netzdg/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Für Meinungsfreiheit - gegen das NetzDG</title>
+      <link>https://okfn.de/blog/2017/04/deklaration-mf/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/04/deklaration-mf/</guid>
+      <description>Die Open Knowledge Foundation Deutschland unterstützt die &amp;ldquo;Deklaration für die Meinungsfreiheit&amp;rdquo;. In Reaktion auf die Verabschiedung des Netzwerkdurchsetzungsgesetzes (NetzDG) durch das Bundeskabinett am 5. April 2017 zeigen wir gemeinsam mit einer breiten Allianz von Wirtschaftsverbänden, netzpolitischen Vereinen, Bürgerrechtsorganisationen und Rechtsexperten, dass der Gesetzentwurf nicht dem Anspruch genügt, die Meinungsfreiheit adäquat zu wahren.
+Wir sind der Auffassung, dass eine politische Gesamtstrategie notwendig ist, um das Aufkommen von Hassrede und absichtlichen Falschmeldungen im Netz einzudämmen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Offene Daten Im Unterricht on OKF</title>
+    <link>https://okfn.de/tags/offene-daten-im-unterricht/</link>
+    <description>Recent content in Offene Daten Im Unterricht on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 21 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/offene-daten-im-unterricht/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Einladung zur Vorstellung von DatenmachenSchule in Moers</title>
+      <link>https://okfn.de/blog/2017/11/datenmachenschule/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/11/datenmachenschule/</guid>
+      <description>Am Freitag, den 15. Dezember stellt die Open Knowledge Foundation Deutschland zusammen mit dem Leiter der Stabsstelle Zentrales E-Government der Stadt Moers Claus Arndt und dem lokalen Chapter des OK Lab Niederrhein ‘DatenmachenSchule’ vor, eine neue Plattform für offene Daten im Unterricht. Dazu sind Vertreter der Bildungslandschaft, Schüler, Lehrer, und Interessierte herzlich eingeladen.
+‘DatenmachenSchule’ (ehem. Projekt ‘Open Data und Schule’) hat seit 2013 Ansätze und Lösungen entwickelt, um mit lokalen, offenen Daten im Unterricht zu arbeiten.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digitalpolitik on OKF</title>
+    <link>https://okfn.de/tags/digitalpolitik/</link>
+    <description>Recent content in Digitalpolitik on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/digitalpolitik/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aus der Krise lernen: Digitale Zivilgesellschaft stärken!</title>
+      <link>https://okfn.de/blog/2020/04/digiale-zivilgesellschaft/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/04/digiale-zivilgesellschaft/</guid>
+      <description>Mittwoch, 01. April 2020. Als zivilgesellschaftliche Organisationen, die sich für eine unabhängige digitale Infrastruktur und freien Zugang zu Wissen einsetzen, fordern wir: „Der Aufbau eines gemeinwohlorientierten digitalen Ökosystems muss endlich politische Priorität bekommen!“
+In Krisensituationen zeigt sich die Bedeutung von unabhängigen und belastbaren digitalen Infrastrukturen, die es Menschen, Organisationen und Firmen ermöglichen, ihren alltäglichen Aufgaben nachzukommen. Von den Umstellungen zur Eindämmung von Covid-19 haben bislang vor allem die großen Technologiekonzerne profitiert: Die Verlagerung des Lebens in die digitale Sphäre beschert ihnen größere Marktanteile, Nutzungszahlen und Datensammlungen.</description>
+    </item>
+    
+  </channel>
+</rss>

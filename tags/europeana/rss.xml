@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Europeana on OKF</title>
+    <link>https://okfn.de/tags/europeana/</link>
+    <description>Recent content in Europeana on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 11 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/europeana/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hack4Europe! am 5. und 6. Juni 2012 in der Staatsbibliothek zu Berlin</title>
+      <link>https://okfn.de/blog/2012/05/hack4europe-am-5-und-6-juni-2012-in-der-staatsbibliothek-zu-berlin/</link>
+      <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/05/hack4europe-am-5-und-6-juni-2012-in-der-staatsbibliothek-zu-berlin/</guid>
+      <description>Europäische Kultur digital erfahrbar machen: Die Europeana Stiftung und ihre Partner laden zum Hack4Europe! 2012, einer Veranstaltungsreihe mit Hack Days in mehreren europäischen Städten. Ziel der Hack Days ist es, das kreative Potenzial der frei zugänglichen digitalisierten Kulturobjekte in Europa zu erschließen.
+Die Idee: Der Hack Day Hack4Europe! 2012 Berlin bringt bis zu 30 Softwareentwickler aus Deutschland und weiteren europäischen Ländern zu einer auf zwei Tage konzentrierten Veranstaltung zusammen. Dort bekommen die Entwickler Zugang zu den Sammlungen der Europeana mit ihren über 20 Millionen Objekten aus allen Kulturbereichen durch die Europeana Search API, plus Test Key und technischer Dokumentation.</description>
+    </item>
+    
+  </channel>
+</rss>
