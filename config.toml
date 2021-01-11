@@ -11,6 +11,9 @@ enableRobotsTXT = true
   blog = 'blog/:year/:month/:slug/'
   tags = 'blog/tags/:slug/'
 
+[taxonomies]
+  tag = "tags"
+
 [related]
 threshold = 80
 includeNewer = true
