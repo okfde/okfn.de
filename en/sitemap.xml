@@ -396,36 +396,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/en/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/categories/civic-tech/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/civic-tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/civic-tech/"
-                />
-  </url>
-  
-  <url>
     <loc>https://okfn.de/en/projekte/codingdavinci/</loc>
     <xhtml:link
                 rel="alternate"
@@ -436,21 +406,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/codingdavinci/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/categories/community/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/community/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/community/"
                 />
   </url>
   
@@ -535,21 +490,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/spenden/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/categories/education/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/education/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/education/"
                 />
   </url>
   
@@ -648,21 +588,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/impressum/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/categories/informationsfreiheit/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/informationsfreiheit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/informationsfreiheit/"
                 />
   </url>
   
@@ -790,36 +715,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/openbudgets/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/categories/open-data/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/open-data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/open-data/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/categories/open-government/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/categories/open-government/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/categories/open-government/"
                 />
   </url>
   
