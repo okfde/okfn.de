@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2020-12-16T00:00:00+0000</updated>
+  <updated>2021-01-11T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Zur Abschaltung von kleineAnfragen.de</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/01/zur-abschaltung-von-kleine-anfragen/"/>
+    <id>https://okfn.de/blog/2021/01/zur-abschaltung-von-kleine-anfragen/</id>
+    <published>2021-01-11T00:00:00+0000</published>
+    <updated>2021-01-11T00:00:00+0000</updated>
+    <summary>Zum 31.12.2020 wurde kleineAnfragen.de abgeschaltet. Das haben wir schon im Mai 2019 angekündigt. Denn nach mehr als 5 Jahren Betrieb ist die Datensituation der Parlamente kein Stück besser geworden. Was jetzt?
+In fünf Jahren wurden 118.370 Anfragen mit Antworten aus dem Bundestag und allen 16 Landtagen zugänglicher: saubere URLs, Volltextsuche, Feeds, Mail-Abos, Tabellen-Erkennung und markierte Leerstellen, wo Verschlusssachen nur in der Geheimschutzstelle einsehbar sind.
+Der Wissenschaftliche Dienst des Bundestags hat wie auch Politiker:innen selbst kleineAnfragen-URLS in Dokumenten, Anfragen und Gutachten genutzt.</summary>
+  </entry>
   
   <entry>
     <title>Zum Jahresende: Was für ein Jahr!</title>
@@ -147,15 +158,6 @@ Lea Gimpel arbeitet für die Deutsche Gesellschaft für Internationale Zusammena
     <summary>Krisenzeiten legen Mängel und Versäumnisse schonungslos offen. Krisenzeiten machen aber auch einen Raum auf für Kreativität, Kooperation und Partizipation. Eine Zeit, in der neue Lösungen entstehen können.
 In Corona-Zeiten laufen Kommunalverwaltungen auf Hochtouren. Auflagen müssen schnell umgesetzt und dynamisch angepasst werden. Bürger*innen brauchen Informationen und auch die alltäglichen Verwaltungsdienstleistungen müssen weitergehen. Das alles passiert, während auch die Mitarbeiter*innen der Verwaltung zu großen Teilen ins Homeoffice sollen.
 Was können wir aus der Krise und in der Krise lernen?</summary>
-  </entry>
-  
-  <entry>
-    <title>Von Nutzer*innen für Nutzer*innen: Communitytechnologien als Alltagshelfer – nicht nur in der Krise</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/05/communitytechnologien/"/>
-    <id>https://okfn.de/blog/2020/05/communitytechnologien/</id>
-    <published>2020-05-12T00:00:00+0000</published>
-    <updated>2020-05-12T00:00:00+0000</updated>
-    <summary>Wenn wir morgens aufwachen, dauert es meist nicht lang bis zum ersten Griff zum Smartphone oder Tablet: Wir checken E-Mails, verschicken Nachrichten oder scrollen durch Social-Media- und Newsfeeds. Im Job geht es für viele damit weiter: Sei es das gemeinsame Arbeiten an Dokumenten, Chats oder Videokonferenzen – zahlreiche Anwendungen gehören, nicht erst seit viele von uns im Home Office arbeiten, fest zu unserem Alltag. Dabei wird oft vergessen, dass die Anwendungen, die wir nutzen, nur die halbe Miete sind: Sie alle benötigen einen soliden Unterbau, also zum Beispiel Programmiersprachen, in denen ihre Basisfunktionen festgelegt sind, Datenbanken, Hosting oder Clouds.</summary>
   </entry>
   
 </feed>

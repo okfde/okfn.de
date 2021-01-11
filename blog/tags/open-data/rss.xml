@@ -6,10 +6,21 @@
     <description>Recent content in Open Data on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://okfn.de/blog/tags/open-data/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zur Abschaltung von kleineAnfragen.de</title>
+      <link>https://okfn.de/blog/2021/01/zur-abschaltung-von-kleine-anfragen/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/01/zur-abschaltung-von-kleine-anfragen/</guid>
+      <description>Zum 31.12.2020 wurde kleineAnfragen.de abgeschaltet. Das haben wir schon im Mai 2019 angekündigt. Denn nach mehr als 5 Jahren Betrieb ist die Datensituation der Parlamente kein Stück besser geworden. Was jetzt?
+In fünf Jahren wurden 118.370 Anfragen mit Antworten aus dem Bundestag und allen 16 Landtagen zugänglicher: saubere URLs, Volltextsuche, Feeds, Mail-Abos, Tabellen-Erkennung und markierte Leerstellen, wo Verschlusssachen nur in der Geheimschutzstelle einsehbar sind.
+Der Wissenschaftliche Dienst des Bundestags hat wie auch Politiker:innen selbst kleineAnfragen-URLS in Dokumenten, Anfragen und Gutachten genutzt.</description>
+    </item>
     
     <item>
       <title>Open Government in Deutschland: Es gibt Fortschritte, aber große Ambitionen fehlen</title>
