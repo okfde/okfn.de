@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Praktikant on OKF</title>
+    <link>https://okfn.de/blog/tags/praktikant/</link>
+    <description>Recent content in Praktikant on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/praktikant/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Data aus Sicht eines 14-Jährigen</title>
+      <link>https://okfn.de/blog/2017/04/open-data-aus-sicht/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/04/open-data-aus-sicht/</guid>
+      <description>Wer bin ich ?  Ich bin Miles, ich gehe zurzeit in die 9. Klasse auf der Anna-Essinger Gemeinschaftsschule in Berlin. Zurzeit mache ich ein zweiwöchiges Schülerpraktikum bei der Open Knowledge Foundation. Im Rahmen des Praktikums schreibe ich diesen Blog zum Thema Open Data und Medien.
+ Open Data   Meine Sicht auf Open Data nach einer Woche Praktikum bei der Okf.
+Ich denke, Open Data ist ziemlich wichtig und nützlich für die Gesellschaft.</description>
+    </item>
+    
+  </channel>
+</rss>

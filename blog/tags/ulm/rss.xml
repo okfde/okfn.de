@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ulm on OKF</title>
+    <link>https://okfn.de/blog/tags/ulm/</link>
+    <description>Recent content in Ulm on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 15 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/ulm/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Data City Camp in Ulm</title>
+      <link>https://okfn.de/blog/2012/03/open-data-city-camp-in-ulm/</link>
+      <pubDate>Thu, 15 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/03/open-data-city-camp-in-ulm/</guid>
+      <description>Offene Daten sind schön &amp;ndash; aber am wohlsten fühlen sie sich, wenn sie auch von Menschen benutzt und in neue Zusammenhänge, Mashups und praktische Anwendungen geführt werden. Deswegen lädt die datalove-hochschulgruppe am 12. und 13. Mai alle Interessierten zum OpenCityCamp Ulm 2012 an die Universität Ulm.
+Eingeladen sind wie immer alle, die Interesse am Thema oder Lust auf die Umsetzung konkreter Ideen im Rahmen des Wochenendes haben: Die Stadt Ulm und ihre Betriebe hatten sich in der Vergangenheit bereits recht experimentierfreudig gezeigt und erste Daten geöffnet, die zum Teil auch schon in den Prototypen des Baden-Württembergischen OpenData-Portals einflossen.</description>
+    </item>
+    
+  </channel>
+</rss>

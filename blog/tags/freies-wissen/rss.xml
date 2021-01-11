@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freies Wissen on OKF</title>
+    <link>https://okfn.de/blog/tags/freies-wissen/</link>
+    <description>Recent content in Freies Wissen on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 08 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/freies-wissen/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Das OK Lab Hamburg lädt ein zum Forum Offene Stadt am 03. März</title>
+      <link>https://okfn.de/blog/2017/02/forum-offene-stadt-hamburg/</link>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/02/forum-offene-stadt-hamburg/</guid>
+      <description>Das OK Lab Hamburg lädt am 03. März zusammen mit der Open Knowledge Foundation und der Körber-Stiftung zum Forum Offene Stadt, um digitale Lösungen für mehr Teilhabe in der Stadt des 21. Jahrhunderts vorzustellen. Eingeladen sind sowohl interessierte Bürgerinnen, welche diese Anwendungen nutzen können, als auch Mitarbeiter aus den Verwaltungen deren Offene Daten dafür genutzt werden.
+Was ist das “FORUM Offene Stadt”?  Ein eintägiges Forum mit Showroom-Charakter. Unterhaltsame 15 Minuten Talks im KörberForum in Hamburg begleiten durch den Tag.</description>
+    </item>
+    
+    <item>
+      <title>Freies Wissen in der Wikipedia</title>
+      <link>https://okfn.de/blog/2017/01/editathon/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/01/editathon/</guid>
+      <description>Du interessiert dich für Open Everything? Open Data, Open Government, offene Kulturdaten, Informationsfreiheit und weitere? Dann komm zu unserem Editathon am 18. Februar, um diese Themen in der Wikipedia besser darzustellen!
+Wer kann dabei sein? Jede und jeder, der/die sich gerne mit diesen Themen beschäftigt und diese gerne zur Verbesserung der Wikipedia einbauen würde. So können wir beispielsweise Ergebnisse von Open Data Projekten als Belege in der Wikipedia anführen, um diese noch fundierter zu gestalten.</description>
+    </item>
+    
+  </channel>
+</rss>

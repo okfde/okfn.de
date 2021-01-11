@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parlament on OKF</title>
+    <link>https://okfn.de/blog/tags/parlament/</link>
+    <description>Recent content in Parlament on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 25 Mar 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/parlament/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Erklärung zur Parlamentarischen Offenheit</title>
+      <link>https://okfn.de/blog/2013/03/erklaerung-zur-parlamentarischen-offenheit/</link>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/03/erklaerung-zur-parlamentarischen-offenheit/</guid>
+      <description>Die Erklärung zur parlamentarischen Offenheit ist ein Aufruf zivilgesellschaftlicher Akteure an die nationalen Parlamente sowie die regionalen und länderübergreifenden gesetzgebenden Institutionen, stärker für Offenheit und Bürgerbeteiligung in der parlamentarischen Arbeit einzutreten. Zivilgesellschaftliche Organisationen, die Parlamente beobachten (Parliamentary Monitoring Organisations, PMO) bekommen zunehmend Anerkennung dafür, dass sie Bürgern parlamentarische Informationen besser zugänglich zu machen, dass sie es Bürgern erleichtern, an parlamentarischen Prozessen teilzuhaben und dafür, dass sie den Rechenschaftsdruck auf Parlamente erhöhen.</description>
+    </item>
+    
+  </channel>
+</rss>

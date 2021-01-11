@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliotheken on OKF</title>
+    <link>https://okfn.de/blog/tags/bibliotheken/</link>
+    <description>Recent content in Bibliotheken on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 30 Sep 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/bibliotheken/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Konferenz Zugang gestalten! Mehr Verantwortung für das kulturelle Erbe</title>
+      <link>https://okfn.de/blog/2012/09/konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/</link>
+      <pubDate>Sun, 30 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/09/konferenz-zugang-gestalten-mehr-verantwortung-fur-das-kulturelle-erbe/</guid>
+      <description>Öffentlich finanzierte Archive, Museen und Bibliothe- ken sind wichtige Hüter des kulturellen Erbes.
+22. und 23. Oktober 2012, 10:00 – 18:00 Uhr
+Jüdisches Museum Berlin Lindenstraße 9–14, 10969 Berlin
+Allerdings stellen sich ihnen im digitalen Zeitalter viele Fragen neu: Wie gestalten Gedächtnisinstitutionen den Zugang zu den Schätzen, die dort erschlossen, restau- riert und bewahrt werden? Heißt »freier Zugang« auch »kostenfreier Zugang«? Wie ändern sich im Informati- onszeitalter Anforderungen und Selbstverständnis von Gedächtnisinstitutionen?</description>
+    </item>
+    
+    <item>
+      <title>Rechtlicher Leitfaden zur Freigabe von Katalogdaten veröffentlicht</title>
+      <link>https://okfn.de/blog/2011/11/rechtlicher-leitfaden-zur-freigabe-von-katalogdaten-veroffentlicht/</link>
+      <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2011/11/rechtlicher-leitfaden-zur-freigabe-von-katalogdaten-veroffentlicht/</guid>
+      <description>Im Auftrag des Hochschulbibliothekszentrums des Landes Nordrhein-Westfalen (hbz) hat der auf Urheberrecht spezialisierte Rechtswissenschaftler und Rechtsanwalt Dr. Till Kreutzer, Mitglied der Redaktion von irights.info und Mitglied im wissenschaftlichen Beirat der OKF Deutschland, den rechtlichen Leitfaden &amp;ldquo;Open Data – Freigabe von Daten aus Bibliothekskatalogen&amp;rdquo; erstellt. Der Leitfaden
+lässt sich u.a unter folgender URL abrufen (PDF, 896 KB):
+http://www.hbz-nrw.de/dokumentencenter/veroeffentlichungen/open-data-leitfaden.pdf
+National wie international veröffentlichen immer mehr bibliothekarische Organisationen Daten aus ihren Katalogen als Open Data.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Change on OKF</title>
+    <link>https://okfn.de/blog/tags/social-change/</link>
+    <description>Recent content in Social Change on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/social-change/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OffenesParlament.de macht Plenarprotokolle durchsuchbar!</title>
+      <link>https://okfn.de/blog/2017/10/ds-offenes-parlament-relaunch/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/10/ds-offenes-parlament-relaunch/</guid>
+      <description>Welche Themen werden im Bundestag besprochen? Wie positionieren sich die einzelnen Abgeordneten zu den Themen? Die Prozesse und Debatten im deutschen Bundestag sind für Bürger/innen, aber auch politische Organisationen und Initiativen oft nur schwer zu überblicken. Daher haben wir uns gemeinsam mit unserem Kooperationspartner abgeordnetenwatch.de in den letzten vier Monaten die Plenarprotokolle des Bundestages aus der 18. Legislaturperiode (2013-2017) genauer angesehen. Die Ergebnisse unserer Analyse zeigen wir in der neuen Version von OffenesParlament.</description>
+    </item>
+    
+    <item>
+      <title>Interview der Datenschule mit BildungsCent: Über Schuldaten, Digitalisierung &amp; die gemeisame Datenarbeit</title>
+      <link>https://okfn.de/blog/2017/08/interview-datenschule-bildungscent/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/08/interview-datenschule-bildungscent/</guid>
+      <description>In den vergangenen Monaten haben wir bei der Datenschule gemeinsam mit unserem Partner BildungsCent e.V. intensiv an Schuldaten gearbeitet. Mit Silke Ramelow, Vorstandsvorsitzende von BildungsCent, ließen wir die Zeit Revue passieren und sprachen in einem Interview über die Chancen der Digitalisierung für gemeinnützige Organisationen, die Zusammenarbeit an den Daten und unser gemeinsames Projekt JedeSchule.de.
+I Digitalisierung für NGOs Datenschule: Digitalisierung verändert die Welt der gemeinnützigen Organisationen. Was bedeutet bedeutet Digitalisierung für euch?</description>
+    </item>
+    
+    <item>
+      <title>Datenschule und BildungsCent e.V. launchen JedeSchule.de</title>
+      <link>https://okfn.de/blog/2017/03/jedeschule-launch/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/03/jedeschule-launch/</guid>
+      <description>Schule ist weit mehr als nur Unterricht. Potenziale, Persönlichkeit und das Engagement für die Gesellschaft entwickeln sich vorwiegend außerhalb des Stundenplans. Doch gut zugängliche Informationen zu allen Schulen in Deutschland sind oft nur spärlich vorhanden. Die Datenschule der OKF DE und BildungsCent e.V. haben sich daher in den letzten vier Monaten intensiv mit Schuldaten beschäftigt.
+Wie können Daten besser für die Öffentlichkeit aufbereitet werden, die Schulen an Behörden kommunizieren? Welche neuen Perspektiven eröffnen sich dadurch auf die Potenziale von Schulen als Orte gesellschaftlicher Entwicklung?</description>
+    </item>
+    
+    <item>
+      <title>Datenschule - Kooperation mit BildungsCent e.V. zu den Themen Schule &amp; Bildung</title>
+      <link>https://okfn.de/blog/2016/10/ds-kick-off-schule-bildung/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/10/ds-kick-off-schule-bildung/</guid>
+      <description>Schule soll neben Mathe, Deutsch und Physik gesellschaftspolitische Kompetenzen aufbauen und Schüler/innen auf die Welt “da draußen” vorbereiten. Nicht immer klappt das gut - wenig Schulbudget, konservative Lernformate und (viel zu?) hohe Anforderungen an die Lehrer/innen machen den Wandel von einer konservativen Schule zu einer gesellschaftsfähigen Schule zu einer Herausforderung. Neuere Themen, bspw. das Programmieren und Medienkompetenzen, werden vor allem über neue Lernmethoden von außerschulischen Programmen vermittelt.
+Auch unser erster Partner BildungCent e.</description>
+    </item>
+    
+    <item>
+      <title>Einladung zum Workshop: Analyse und Visualisierung von Schadstoffemissionen</title>
+      <link>https://okfn.de/blog/2016/10/ds-codeweek-workshop-einladung/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/10/ds-codeweek-workshop-einladung/</guid>
+      <description>Welche Betriebe belasten die Umwelt in eurer Umgebung am stärksten? Welche Industriebranchen sind für die meisten CO2-Emissionen in Deutschland verantwortlich? Welche Konzerne produzieren den höchsten Abfallberg?
+Bei unserem Workshop im Rahmen der diesjährigen Code Week zeigen wir euch mit einfachen Tools und Tipps, wie sich spannenden Fragen zur Umweltverschmutzung in Deutschland beantworten lassen und wie ihr Ergebnisse ansprechend aufbereiten könnt. Dabei schauen wir uns Daten zu freigesetzten Schadstoffen in Deutschland genauer an, analysieren und visualisieren sie.</description>
+    </item>
+    
+  </channel>
+</rss>

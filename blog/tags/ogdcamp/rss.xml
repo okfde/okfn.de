@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ogdcamp on OKF</title>
+    <link>https://okfn.de/blog/tags/ogdcamp/</link>
+    <description>Recent content in Ogdcamp on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 15 Dec 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/ogdcamp/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OGD Camp reloaded</title>
+      <link>https://okfn.de/blog/2011/12/ogd-camp-reloaded/</link>
+      <pubDate>Thu, 15 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2011/12/ogd-camp-reloaded/</guid>
+      <description>Viele von euch waren sicherlich beim Open Government Data Camp in Warschau dabei, einige wären gerne dagewesen, konnten aber nicht. Alle die da waren konnten sicherlich nicht alles ansehen und behalten was sie wollten.
+In den letzten Wochen haben wir deshalb eifrig Daten gesammelt, Präsentationen und Bilder gesichtet und diese jetzt auf www.ogdcamp.org/after bereitgestellt.
+Testimonials  _“Every community needs a big event to bring everyone together every year. Just like every family has a Christmas party, where all are welcome, regardless of what happened during the year.</description>
+    </item>
+    
+    <item>
+      <title>Registration for Open Government Data Camp 2011 is now open!</title>
+      <link>https://okfn.de/blog/2011/08/registration-for-open-government-data-camp-2011-is-now-open/</link>
+      <pubDate>Sat, 27 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2011/08/registration-for-open-government-data-camp-2011-is-now-open/</guid>
+      <description>The following is a cross post from Jonathan Gray, Community Coordinator at the Open Knowledge Foundation.
+We’re delighted to announce that registration for http://ogdcamp.org/register/
+You can find out more about the event here:
+ http://ogdcamp.org/  If you’d like to know more about open government data, you can see our short #opendata film, which was shot at last year’s camp.
+Update: EU Travel Bursary for Open Government Data Camp 2011</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verschlüsselung on OKF</title>
+    <link>https://okfn.de/blog/tags/verschl%C3%BCsselung/</link>
+    <description>Recent content in Verschlüsselung on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 14 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/verschl%C3%BCsselung/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>eGovernment und Sicherheit: eine schwierige Beziehung</title>
+      <link>https://okfn.de/blog/2016/12/https/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/12/https/</guid>
+      <description>Senden BürgerInnen sensible personenbezogene Daten an Behörden, geht das niemanden etwas an. Daher ist sowohl für Websites als auch für Mailserver von staatlichen Stellen eine gute Verbindungsabsicherung wichtig. Ein Team der Open Knowledge Foundation hat sich dies einmal genauer angeschaut - und neben vielen positiven Beispielen auch schwere Sicherheitslücken gefunden.
+Bei Websites besteht ein ganz erheblicher Nachholbedarf: lediglich ein Zehntel von ihnen bietet überhaupt eine Verbindungssicherheit an. Schaut man auf die Qualität der Verschlüsselung, sieht es noch düsterer aus: lediglich 3 % der Websites sind nach einem an dem Qualys SSL Labs Test orientierten Bewertungsschema als gut oder sehr gut abgesichert zu bezeichnen.</description>
+    </item>
+    
+  </channel>
+</rss>

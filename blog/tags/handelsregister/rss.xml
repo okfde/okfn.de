@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Handelsregister on OKF</title>
+    <link>https://okfn.de/blog/tags/handelsregister/</link>
+    <description>Recent content in Handelsregister on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/handelsregister/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Das Handelsregister: Endlich offene Daten!</title>
+      <link>https://okfn.de/blog/2019/02/handelsregister/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/02/handelsregister/</guid>
+      <description>Gemeinsam mit der Organisation OpenCorporates veröffentlichen wir heute auf OffeneRegister.de Informationen aus dem Handelsregister und den Handelsregisterbekanntmachungen als offene Daten. Damit sind Daten wie Sitz, Rechtsform und vertretungsberechtigte Personen von 5,1 Millionen deutschen Firmen, Stiftungen und Vereinen erstmals offen und frei im Internet verfügbar.
+Auf der Website können die Daten einfach zentral durchsucht, heruntergeladen sowie per Programmierschnittstelle (API) weiterverwendet werden. Abdrucke aus dem Handelsregister, für deren Offenlegung handelsregister.de Gebühren erhebt, sind nicht in den Daten enthalten.</description>
+    </item>
+    
+    <item>
+      <title>Finally: Open Company Data!</title>
+      <link>https://okfn.de/blog/2019/02/finally-open-company-data/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/02/finally-open-company-data/</guid>
+      <description>Today, together with OpenCorporates, we make information from the German company register and its announcements accessible as open data on OffeneRegister.de. For the first time, data such as the registered office, legal form and authorised representatives of 5.1 million German companies, foundations and associations are openly and freely available on the Internet.
+On the website, the data can be searched centrally, downloaded and reused via the programming interface (API). Reprints from the commercial register, for which handelsregister.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Literacy on OKF</title>
+    <link>https://okfn.de/blog/tags/code-literacy/</link>
+    <description>Recent content in Code Literacy on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/code-literacy/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code&#43;Ethik=&lt;3</title>
+      <link>https://okfn.de/blog/2015/07/code-und-ethik/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2015/07/code-und-ethik/</guid>
+      <description>&amp;ldquo;Seit zwei Jahren wissen wir, dass Geheimdienste alles über uns wissen. Seit einem Jahr sind Programmierlernbefürworter an allen Ecken anzutreffen. Und 2015? Müssen wir endlich darüber sprechen, dass Code ohne Ethik wertlos ist. Der Talk will die Motivation hinter der derzeit angesagten Forderung nach „Programmieren als Pflichtfach“ sezieren, einen Blick auf aktuelle Lehrpläne der Informatik werfen und außerschulische Orte für Programmierwillige vorstellen.&amp;rdquo;
+{% youtube lD34A2nuWCs 560 315 %}
+Das war die Ankündigung zu unserem re:publica-Talk, den wir dank voicerepublic  hier auch, angereichert mit unseren Folien, als Video zur Verfügung stellen können.</description>
+    </item>
+    
+  </channel>
+</rss>

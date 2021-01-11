@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digiwhist on OKF</title>
+    <link>https://okfn.de/blog/tags/digiwhist/</link>
+    <description>Recent content in Digiwhist on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/digiwhist/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Live Launch in Brüssel: Opentender.eu geht online </title>
+      <link>https://okfn.de/blog/2018/01/big-data-with-local-impact/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2018/01/big-data-with-local-impact/</guid>
+      <description>Heute geht das Vergabeportal opentender.eu, mit Datensätzen aus 32 Ländern und der Europäischen Kommission, online. Opentender.eu bietet die Möglichkeit Vergabedaten strukturiert einzusehen und zu visualisieren. Risikoindikatoren informieren zusätzlich über die Effizienz und Transparenz von Ausschreibungen.
+Im Rahmen der DIGIWHIST Abschlusskonferenz &amp;ldquo;Big data with local impact: Using open data to improve public procurement&amp;rdquo; wird das Portal erstmalig der Öffentlichkeit vorgestellt. Die Konferenz kann per Live-Stream verfolgt werden.
+Agenda Using open data to improve public procurement DIGIWHIST Project Final Conference 29 January 2018 * 13.</description>
+    </item>
+    
+    <item>
+      <title>OKF at the OGP Summit - Have your say and vote for the sessions you want to see happening at the summit</title>
+      <link>https://okfn.de/blog/2016/08/okf-at-ogp/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/08/okf-at-ogp/</guid>
+      <description>How can we make governments more transparent and accountable? What are tried and true strategies for opening up government data? The annual OGP summit is an opportunity for the open government community to address its current issues and challenges, and discuss the way ahead. This year, the summit will be held in December in Paris, and you can have your say in shaping the agenda. Together with our friends and partners like g0v.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bremen on OKF</title>
+    <link>https://okfn.de/blog/tags/bremen/</link>
+    <description>Recent content in Bremen on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 02 Dec 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/bremen/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Winteraktion: Ganz Deutschland bei FragDenStaat</title>
+      <link>https://okfn.de/blog/2014/12/winteraktion-ganz-deutschland-bei-fragdenstaat/</link>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2014/12/winteraktion-ganz-deutschland-bei-fragdenstaat/</guid>
+      <description>Frohe Weihnachten! Pünktlich zum Start des Weihnachtstrubels schaltet FragDenStaat.de an jedem Adventssonntag ein neues Bundesland auf der Plattform frei. Seit dem 1. Advent lassen sich die 161 Behörden Bremens über das IFG auf FragDenStaat anfragen. Und mit ein bisschen Glück haben die NutzerInnen zu Weihnachten ein paar schöne Infos unter dem Weihnachtsbaum.
+Zu FragDenStaat.de/Bremen
+Das geht jetzt so weiter bis Weihnachten: An den nächsten Adventssonntagen schalten wir nacheinander weitere Bundesländer frei.</description>
+    </item>
+    
+    <item>
+      <title>Konsultation zur Bereitstellung offener Daten in Bremen</title>
+      <link>https://okfn.de/blog/2014/03/konsultation-zur-bereitstellung-offener-daten-in-bremen/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2014/03/konsultation-zur-bereitstellung-offener-daten-in-bremen/</guid>
+      <description>Das Institut für Informationsmanagement Bremen (ifib) führt eine vierwöchige Online-Konsultation über die Bereitstellung Offener Daten durch die Bremische Verwaltung durch. Das Angebot soll damit um die Expertise und Wünsche der Bürger und Bürgerinnen ergänzt werden.
+Das Ziel ist, die Diskrepanz zwischen Angebot und Nachfrage zu schmälern, das Institut möchte also jene Datensätze zur Verfügung stellen, die tatsächlich gewünscht werden. Die Konsultation wird dafür genutzt, das Profil der Nachfrage zu schärfen, damit entsprechend gehandelt werden kann.</description>
+    </item>
+    
+  </channel>
+</rss>

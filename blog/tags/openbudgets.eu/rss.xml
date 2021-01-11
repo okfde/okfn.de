@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openbudgets.eu on OKF</title>
+    <link>https://okfn.de/blog/tags/openbudgets.eu/</link>
+    <description>Recent content in Openbudgets.eu on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/openbudgets.eu/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New site SubsidyStories.eu shows where nearly 300bn of EU subsidies go across Europe</title>
+      <link>https://okfn.de/blog/2017/03/subsidystories-launch/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/03/subsidystories-launch/</guid>
+      <description>Today, Open Knowledge Germany and Open Knowledge International launch SubsidyStories.eu: a database containing all recipients of EU Structural Funds, accounting for 292,9 Billion Euros of EU Subsidies.
+The European Union allocates 44 % of its total 7-year budget through the European Structural Funds. Who received these funds - accounting for 347 Billion Euro from 2007 - 2013 and 477 Billion from 2014 - 2020 - could only be traced through regional and local websites.</description>
+    </item>
+    
+    <item>
+      <title>OKF beim European Alternatives Campus Event 16</title>
+      <link>https://okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/</link>
+      <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/</guid>
+      <description>Brexit, ein wachsender Rechtsradikalismus und eine andauernde wirtschaftliche Stagnation. Die Probleme mit der die Europäische Union (EU) momentan zu kämpfen hat sind gewaltig. Aber wie kann die gegenwärtige Euroskepsis überwunden werden und eine europaweites, starkes Zeichen gegen Rechts gesetzt werden? BeimCampus Event von European Alternatives vergangene Woche sind politische Aktivisten zusammengekommen, um Europa neu zu denken. OpenBudgets und die Datenschule waren dabei und haben mitdiskutiert.
+Unter dem Motto „Shifting Baselines“ wurde in mehreren Workshops erarbeitet, wie politischer ARTivism, eine alternative Stadtentwicklung und transeuropäische Netzwerke ein positives Zeichen für Europa setzen können.</description>
+    </item>
+    
+    <item>
+      <title>OKF at the OGP Summit - Have your say and vote for the sessions you want to see happening at the summit</title>
+      <link>https://okfn.de/blog/2016/08/okf-at-ogp/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/08/okf-at-ogp/</guid>
+      <description>How can we make governments more transparent and accountable? What are tried and true strategies for opening up government data? The annual OGP summit is an opportunity for the open government community to address its current issues and challenges, and discuss the way ahead. This year, the summit will be held in December in Paris, and you can have your say in shaping the agenda. Together with our friends and partners like g0v.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verwaltung on OKF</title>
+    <link>https://okfn.de/blog/tags/verwaltung/</link>
+    <description>Recent content in Verwaltung on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 31 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/verwaltung/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jetzt anmelden zum Berliner Open Data Day 2012</title>
+      <link>https://okfn.de/blog/2012/05/jetzt-noch-anmelden-zum-berliner-open-data-day-2012/</link>
+      <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/05/jetzt-noch-anmelden-zum-berliner-open-data-day-2012/</guid>
+      <description>Wie können offene Daten und Transparenz im Handeln der Verwaltung nachhaltig verankert werden? Wie kann noch mehr Vertrauen und Verständnis zwischen den Akteuren hergestellt werden? Wie können den Bürgern die Vorteile offen zugänglicher Daten noch näher gebracht werden? Unter dem Motto “Näher am Bürger - näher an den Daten” lädt die Aktionsplattform Berlin Open Data am Mittwoch, 6. Juni 2012, von 10 bis 18 Uhr zum zweiten Berlin Open Data Day (BODDy) ins Rote Rathaus in Berlin-Mitte.</description>
+    </item>
+    
+  </channel>
+</rss>

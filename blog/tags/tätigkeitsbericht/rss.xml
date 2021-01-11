@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tätigkeitsbericht on OKF</title>
+    <link>https://okfn.de/blog/tags/t%C3%A4tigkeitsbericht/</link>
+    <description>Recent content in Tätigkeitsbericht on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 05 Feb 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/t%C3%A4tigkeitsbericht/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tätigkeitsbericht OKF DE Januar 2013</title>
+      <link>https://okfn.de/blog/2013/02/okfde-januar-2013/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/02/okfde-januar-2013/</guid>
+      <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland: Zeitraum: Januar 2013
+Kurzberichte aus Projekten mit Finanzierung Fundraising  Erste Gespräche mit Stephen King und Martin Tisné von Omidyar Network auf der PDF-Konferenz in Warschau
+ Fördermitgliedschaften: Vorbereitung Anschreiben, Adressliste
+ 3 Wochen krank  Frag den Staat  Vorbereitung und Unterstützung für den Launch www.FragDenStaat.at in Österreich
+ Froide, die Software von FragdenStaat wurde erweitert und kann jetzt einfach im Design / Theme angepasst werden</description>
+    </item>
+    
+  </channel>
+</rss>

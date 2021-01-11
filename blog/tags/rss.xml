@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OKF</title>
+    <link>https://okfn.de/blog/tags/</link>
+    <description>Recent content on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 02 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ein erster Blick auf Aufzugsdaten: Erste Daten von der Bahn</title>
+      <link>https://okfn.de/blog/2015/11/ein-erster-blick-auf-aufzugsdaten/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2015/11/ein-erster-blick-auf-aufzugsdaten/</guid>
+      <description>Berlin, 02.11.2015 – Wie unlängst angekündigt hatte die Deutsche Bahn die Öffnung erster Datensätze als „echtes&amp;rdquo; Open Data in Aussicht gestellt, was nicht ohne Echo blieb:
+@okfde @_stk wooot! For real? Party to celebrate? Champagne? @OKFN
+&amp;mdash; Pieter Colpaert (@pietercolpaert) October 23, 2015 @_stk @pietercolpaert nur Aufzuege? Naja... Irgendwo muss man ja anfangen :)
+&amp;mdash; Tristram Gräbener (@tristramg) October 23, 2015 @tristramg @_stk @pietercolpaert &amp;#10;No realtime status and position about these elevators?</description>
+    </item>
+    
+    <item>
+      <title>Die Bahn kommt… auf Open Data!</title>
+      <link>https://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/</link>
+      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/</guid>
+      <description>Berlin, 23.10.2015 – Lange Zeit sah es so aus, als sei die Deutsche Bahn die letzte Bastion geschlossener Daten, aus der auf offiziellem Weg nicht auch nur ein Bit zu holen wäre. Doch was in diesem Frühjahr und Sommer mit zwei Hackathons in Frankfurt und Berlin anfing, soll keine Ausnahme bleiben: Auch die DB hat offenkundig die Vorteile von Open Data erkannt und bewegt sich auf eine Öffnung ihrer Daten zu.</description>
+    </item>
+    
+  </channel>
+</rss>

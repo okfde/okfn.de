@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bundesgit on OKF</title>
+    <link>https://okfn.de/blog/tags/bundesgit/</link>
+    <description>Recent content in Bundesgit on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 07 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/blog/tags/bundesgit/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aktivitäten und Projekte im Mai 2013</title>
+      <link>https://okfn.de/blog/2013/06/newsletter-mai-2013/</link>
+      <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/06/newsletter-mai-2013/</guid>
+      <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
+Hier ist unser Bericht für Mai. Wer ihn abonnieren will, kann das hier tun.
+ Rückblick in den Mai
+Im Mai feierte die Open Knowledge Foundation ihren 9. Geburtstag. Spontan wurde am Gründungshaus in Cambridge eine Gedenktafel angebracht und einige Sektflaschen geleert.
+Entgegen unserer Vorsätze haben wir wieder viel zu viele schöne Maitage damit verbracht Überzeugungsarbeit und Lobbying zu betreiben.</description>
+    </item>
+    
+    <item>
+      <title>Die erzwungene Öffnung der juris-Datenbank</title>
+      <link>https://okfn.de/blog/2013/06/die-erzwungene-oeffnung-der-juris-datenbank/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/06/die-erzwungene-oeffnung-der-juris-datenbank/</guid>
+      <description>Verwaltungsgerichtshof Baden-Württemberg (CC BY-SA 3.0)
+Von der großen Öffentlichkeit unbemerkt läuft seit einigen Jahren ein Verfahren zwischen der Bundesrepublik Deutschland, vertreten durch das Bundesverfassungsgericht und der LeXxpress-GmbH. Die Firma LeXxpress klagte darauf im gleichen Maße wie der Mitbewerber die juris GmbH mit Urteilen und deren Begründungen des Gerichts beliefert zu werden. Im Kern des Verfahrens geht es um die Dokumentation und Aufbereitung der Entscheidungen und Entscheidungsbegründungen des höchsten deutschen Gerichts. Dieses schloss 1991 einen Vertrag mit der juris-GmbH über die alleinige &amp;ldquo;automatisierte Rechtsdokumentation&amp;rdquo; seiner wegweisenden Gerichtsentscheidungen.</description>
+    </item>
+    
+    <item>
+      <title>BundesGit Hackday im OKFN Office</title>
+      <link>https://okfn.de/blog/2013/01/bundesgit-hackday-im-okfn-office/</link>
+      <pubDate>Tue, 08 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/01/bundesgit-hackday-im-okfn-office/</guid>
+      <description>An alle Coderinnen und Hacker:
+Am Samstag dem 12.01.2013 wird es einen kleinen BundesGit Hackday im OKFN Office in Berlin geben.
+Wir wollen ein paar Features ausbauen und brauchen dazu eure Unterstützung!
+Beginn: 11.00Uhr | Location: OKFN Office Gneisenaustraße 11a, Berlin
+Anmeldung: https://terminplaner.dfn.de/foodle.php?id=hhndrdx742az60wf.
+Auch alle außerhalb Berlins sind herzlich eingeladen mitzucoden,
+über @bundegit auf twitter wird ein IRC Chat announct.</description>
+    </item>
+    
+    <item>
+      <title>Bundes-Git – German Laws on GitHub</title>
+      <link>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</link>
+      <pubDate>Fri, 04 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</guid>
+      <description>If you compare software code and legislation you can find many similarities: both are big bodies of text spread over multiple units (laws/files). The total amount of text inevitably grows bigger over time with many small changes to existing parts while most of the corpus stays the same.
+However, the tooling and editing process for these domains is very different: while developers are in the fortunate position that they can build and improve their own tools, legislators are stuck with proprietary tools like MS Word that are simply not built to collaboratively work on a big corpus of text.</description>
+    </item>
+    
+  </channel>
+</rss>
