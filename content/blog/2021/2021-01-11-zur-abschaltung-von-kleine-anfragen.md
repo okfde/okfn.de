@@ -61,7 +61,6 @@ Danke für all die Jahre - mit einer Träne im Auge - [@robbi5](https://twitter.
 ## Mehr lesen?
 
 - [Interview mit Maxi auf netzpolitik.org](https://netzpolitik.org/2021/zum-ende-von-kleineanfragen-de-die-loesung-zu-all-unseren-problemen-koennte-in-pdfs-schlummern-die-niemand-liest/)
-- [Rant von _stk](https://twitter.com/_stk/status/1344816090451501056)
 - [Tweets](https://twitter.com/toridykes/status/1345004226678812673) und [Blogpost](https://toridykes.com/blog/2019/6/24/kleine-anfragen) von Tori Dykes
 - [Nachruf von Anna Biselli](https://netzpolitik.org/2019/liebe-parlamente-dass-kleineanfragen-de-stirbt-ist-auch-eure-schuld/)  
 - [Zwischenruf zu OpenData im Landtag Brandenburg](https://netzpolitik.org/2020/der-brandenburger-landtag-will-offener-werden/)
