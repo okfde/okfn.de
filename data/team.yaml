@@ -52,9 +52,10 @@
 
 - name: Gregor Weichbrodt
   img: gregorweichbrodt
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Development & Design FragDenStaat
   position_en: development & design FragDenStaat
   bio: "Gregor arbeitet als Designer und Frontend-Entwickler für FragDenStaat seit Januar 2020. In seiner Freizeit beschäftigt er sich mit digitaler Literatur und generativer Kunst."
