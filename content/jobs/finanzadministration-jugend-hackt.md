@@ -1,19 +1,13 @@
----
 authors:
 - Sonja Fischbauer
 date: 2021-01-14
-image:
+mage:
   src: /files/blog/2019/06/team-foto.jpg
   title: "OKF-Team"
   license:
   license_url:
-tags:
-- Jobs
-type: post
-layout: post
 published: true
-featured: blue
-title: "Jugend hackt sucht eine*n studentische*n Mitarbeiter*in (m/w/d) für Finanzadministration, 19h/Woche, ab sofort "
+title: "Jugend hackt: Wir suchen studentische Finanzadministration (ab März 2021)"
 ---
 
 **Jugend hackt** ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit ihren technischen Fähigkeiten die Welt verbessern wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V.  mit mediale pfade.org - Verein für Medienbildung e.V. Für unsere Finanzbuchhaltung und Spender\*innenverwaltung sowie für allgemeinen Bürotätigkeiten suchen wir ab sofort ein\*e studentische\*n Mitarbeiter\*in.
