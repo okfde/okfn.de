@@ -2,9 +2,9 @@
 authors:
 - Sonja Fischbauer
 date: 2021-01-14
-mage:
-  src: /files/blog/2019/06/team-foto.jpg
-  title: "OKF-Team"
+image:
+  src: /files/blog/2021/21/jugend-hackt-team-2020.jpg
+  title: "Jugend hackt Team"
   license:
   license_url:
 published: true
