@@ -13,7 +13,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: "Job bei der OKF: Finanzadministration bei Jugend hackt (ab März 2021)"
+title: "Job bei der OKF: Finanzadministration bei Jugend hackt (ab sofort)"
 ---
 
 ## Jugend hackt sucht eine\*n studentische\*n Mitarbeiter\*in (m/w/d) für Finanzadministration, 19h/Woche, ab sofort
