@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knut Perseke on OKF</title>
+    <link>https://okfn.de/authors/knut-perseke/</link>
+    <description>Recent content in Knut Perseke on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/authors/knut-perseke/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OffenesParlament.de macht Plenarprotokolle durchsuchbar!</title>
+      <link>https://okfn.de/blog/2017/10/ds-offenes-parlament-relaunch/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/10/ds-offenes-parlament-relaunch/</guid>
+      <description>Welche Themen werden im Bundestag besprochen? Wie positionieren sich die einzelnen Abgeordneten zu den Themen? Die Prozesse und Debatten im deutschen Bundestag sind für Bürger/innen, aber auch politische Organisationen und Initiativen oft nur schwer zu überblicken. Daher haben wir uns gemeinsam mit unserem Kooperationspartner abgeordnetenwatch.de in den letzten vier Monaten die Plenarprotokolle des Bundestages aus der 18. Legislaturperiode (2013-2017) genauer angesehen. Die Ergebnisse unserer Analyse zeigen wir in der neuen Version von OffenesParlament.</description>
+    </item>
+    
+    <item>
+      <title>Datenschule und BildungsCent e.V. launchen JedeSchule.de</title>
+      <link>https://okfn.de/blog/2017/03/jedeschule-launch/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/03/jedeschule-launch/</guid>
+      <description>Schule ist weit mehr als nur Unterricht. Potenziale, Persönlichkeit und das Engagement für die Gesellschaft entwickeln sich vorwiegend außerhalb des Stundenplans. Doch gut zugängliche Informationen zu allen Schulen in Deutschland sind oft nur spärlich vorhanden. Die Datenschule der OKF DE und BildungsCent e.V. haben sich daher in den letzten vier Monaten intensiv mit Schuldaten beschäftigt.
+Wie können Daten besser für die Öffentlichkeit aufbereitet werden, die Schulen an Behörden kommunizieren? Welche neuen Perspektiven eröffnen sich dadurch auf die Potenziale von Schulen als Orte gesellschaftlicher Entwicklung?</description>
+    </item>
+    
+    <item>
+      <title>Datenschule - Lernen, wie man Daten und Technologien effektiv einsetzt!</title>
+      <link>https://okfn.de/blog/2016/08/datenschule-launch/</link>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/08/datenschule-launch/</guid>
+      <description>Als wir Anfang des Jahres als Leuchtturmprojekt bei der Google Impact Challenge nominiert wurden, habt ihr uns mit euren Stimmen sehr unterstützt. Jetzt freuen wir uns umso mehr darauf, unser data literacy-Projekt, die Datenschule, zu launchen!
+In einer zunehmend digitalen Welt vermittelt die Datenschule gemeinnützigen Organisationen die nötigen Fähigkeiten, Daten und Technologien zu verstehen, um sie zielgerichtet für ihre Aufgaben einzusetzen. Mit der Datenschule leisten wir einen Beitrag zur digitalen Alphabetisierung in der Gesellschaft.</description>
+    </item>
+    
+  </channel>
+</rss>

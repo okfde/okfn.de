@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Govdata on OKF</title>
+    <link>https://okfn.de/tags/govdata/</link>
+    <description>Recent content in Govdata on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/govdata/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GovData-Relaunch: Neues Design und Funktionalitäten statt neuer Daten</title>
+      <link>https://okfn.de/blog/2016/01/govdata-relaunch/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/01/govdata-relaunch/</guid>
+      <description>Nach mehreren Jahren in der Übergangsphase ist govdata.de nun endlich überarbeitet. 126.000 Euro wird 2016 in den Betrieb des Portals investiert. Das ist gut, denn die bisherige Version hatte zahlreiche Unzulänglichkeiten. Was ist nun mit dem Relaunch vom 19.01.2016 wirklich neu?
+&amp;quot;Govdata&amp;quot; a la @govdata_de: Wunschkennzeichenerklärungsseite nur nutzbar für Fahrzeuge aus Hannover.&amp;#10;https://t.co/e7XIgq6Y2K
+&amp;mdash; Mathias Schindler (@presroi) 18. Januar 2016 Die Seite ist intuitiver und klarer gestaltet und bietet einige neue Funktionen.</description>
+    </item>
+    
+  </channel>
+</rss>

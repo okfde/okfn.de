@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coworking on OKF</title>
+    <link>https://okfn.de/tags/coworking/</link>
+    <description>Recent content in Coworking on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 03 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/coworking/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coworking im OKF DE Büro</title>
+      <link>https://okfn.de/blog/2015/12/coworking-im-okf-buero/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2015/12/coworking-im-okf-buero/</guid>
+      <description>In unserem gemütlichen Büro in der Singerstraße 109, idyllisch gelegen zwischen U Strausberger Platz und U Jannowitzbrücke, sind ab sofort Coworking Plätze frei!
+Eckdaten: - Einzelplätze und/oder separater Raum (max. 4 Pers.) verfügbar, teils kurz- und teils langfristig - WLAN, Konferenzraumnutzung, Küche, Dusche, optionale Nutzung unseres manigfaltigen Getränkelagers - Meditationszentrum mit leckerem Mittagstisch in unmittelbarer Nähe, dazu wöchentliches Qi Gong - einige der coolsten Socken aus der Aktivistenszene rund um Offene Daten am Nachbarschreibtisch \o/</description>
+    </item>
+    
+  </channel>
+</rss>

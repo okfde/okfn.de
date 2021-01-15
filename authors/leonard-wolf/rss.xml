@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonard Wolf on OKF</title>
+    <link>https://okfn.de/authors/leonard-wolf/</link>
+    <description>Recent content in Leonard Wolf on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/authors/leonard-wolf/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ein Transparenzgesetz für Berlin: Volksbegehren startet im Juli</title>
+      <link>https://okfn.de/blog/2019/05/transparenzgesetz-berlin-startet/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/05/transparenzgesetz-berlin-startet/</guid>
+      <description>Milliardenschwere Bauvorhaben, Geheimverträge mit der Wirtschaft und Einflussnahme von Lobbyist*innen: Ein Bündnis zivilgesellschaftlicher Organisationen will jetzt Licht ins Dunkel der Berliner Verwaltung bringen. Dafür hat es ein eigenes Transparenzgesetz auf den Weg gebracht, das das Recht auf Informationen des Staates in Zukunft weitreichend stärken soll.
+Das Bündnis Volksentscheid Transparenz, zu dem unter anderem die Open Knowledge Foundation Deutschland, Mehr Demokratie, der Chaos Computer Club und die Digitale Gesellschaft zählen, hat dem Senat im April einen Gesetzentwurf vorgelegt, nach dem Berliner Landes- und Bezirksbehörden proaktiv Informationen in einem zentralen Transparenzportal offenlegen müssen.</description>
+    </item>
+    
+    <item>
+      <title>Offene Daten für die digitale Jugendbeteiligung</title>
+      <link>https://okfn.de/blog/2019/04/offene-daten-fuer-die-digitale-jugendbeteiligung/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2019/04/offene-daten-fuer-die-digitale-jugendbeteiligung/</guid>
+      <description>Von Auskünften über die Lärmbelästigung an Straßen und Barrierefreiheit von Bahnübergängen bis hin zu Einnahmen und Ausgaben einer Gemeinde: Offene Daten helfen uns nicht nur dabei, unsere Umwelt und gesellschaftliche Prozesse besser zu verstehen, sondern ermöglichen auch eine aktive Beteiligung und politische Teilhabe. Wir zeigen, welche Potentiale offene Daten für die digitale Jugendbeteiligung haben und teilen unser Wissen, das wir in den vergangenen Monaten dazu gesammelt haben.
+Was sind eigentlich offene Daten?</description>
+    </item>
+    
+    <item>
+      <title>Freies Wissen in der Wikipedia</title>
+      <link>https://okfn.de/blog/2017/01/editathon/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/01/editathon/</guid>
+      <description>Du interessiert dich für Open Everything? Open Data, Open Government, offene Kulturdaten, Informationsfreiheit und weitere? Dann komm zu unserem Editathon am 18. Februar, um diese Themen in der Wikipedia besser darzustellen!
+Wer kann dabei sein? Jede und jeder, der/die sich gerne mit diesen Themen beschäftigt und diese gerne zur Verbesserung der Wikipedia einbauen würde. So können wir beispielsweise Ergebnisse von Open Data Projekten als Belege in der Wikipedia anführen, um diese noch fundierter zu gestalten.</description>
+    </item>
+    
+  </channel>
+</rss>

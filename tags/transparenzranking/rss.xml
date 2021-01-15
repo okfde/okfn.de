@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transparenzranking on OKF</title>
+    <link>https://okfn.de/tags/transparenzranking/</link>
+    <description>Recent content in Transparenzranking on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 02 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/transparenzranking/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Erstes deutsches Transparenzranking: Bund schneidet schlecht ab</title>
+      <link>https://okfn.de/blog/2017/03/ranking/</link>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/03/ranking/</guid>
+      <description>Am 2. März 2017 hat die Open Knowledge Foundation Deutschland das erste Transparenz-Ranking herausgegeben, das in Zusammenarbeit mit der Mehr Demokratie entstanden ist. Das Ergebnis der Untersuchung: In vielen Bundesländern wird den Bürger/innen der Zugang zu Behördeninformationen schwer oder sogar ganz unmöglich gemacht.
+Oftmals müssen Behörden nur sehr begrenzt Auskunft geben, darunter die Landtage, Hochschulen und der Verfassungsschutz. Hinzu kommen teilweise abschreckend hohe Gebühren und lange Antwortfristen. Elf von 16 Bundesländern erhielten in der Bewertung deshalb weniger als die Hälfte der möglichen Punktzahl.</description>
+    </item>
+    
+  </channel>
+</rss>

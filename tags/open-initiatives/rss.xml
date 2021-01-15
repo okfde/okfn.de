@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Initiatives on OKF</title>
+    <link>https://okfn.de/tags/open-initiatives/</link>
+    <description>Recent content in Open Initiatives on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 03 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/open-initiatives/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Veröffentlichungshinweis: Open Initiatives - Offenheit in der digitalen Welt und Wissenschaft</title>
+      <link>https://okfn.de/blog/2012/05/veroffentlichungshinweis-open-initiatives-offenheit-in-der-digitalen-welt-und-wissenschaft/</link>
+      <pubDate>Thu, 03 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2012/05/veroffentlichungshinweis-open-initiatives-offenheit-in-der-digitalen-welt-und-wissenschaft/</guid>
+      <description>Initiativen, die Transparenz, offenen und möglichst einfachen Zugang zu Informationen, etwa in Wissenschaft und Verwaltung fordern und herstellen, gewinnen rasant an Bedeutung und beginnen sich immer weiter zu differenzieren. Die Forderungen reichen von freiem (im Sinne von kostenlosem) Zugang zu Informationen bis hin zu offenem Zugang analog den Prinzipien der Open Source Community.
+Manche Initiativen und Phänomene fokussieren stärker auf Transparenz als auf Offenheit, wie z.B. die Whistleblower-Plattform Wikileaks, während wiederum andere (z.</description>
+    </item>
+    
+  </channel>
+</rss>

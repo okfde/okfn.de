@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katharina Meyer on OKF</title>
+    <link>https://okfn.de/authors/katharina-meyer/</link>
+    <description>Recent content in Katharina Meyer on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/authors/katharina-meyer/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Der Prototype Fund geht in die 8. Runde: Förderung von bis zu 47.500 € für Open-Source-Projekte</title>
+      <link>https://okfn.de/blog/2020/02/prototype-fund-achte-runde/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/02/prototype-fund-achte-runde/</guid>
+      <description>Nachdem uns über die letzten sieben Runden Projektvorschläge zu so unterschiedlichen Schwerpunkten wie Machine Learning oder Vertrauen in und durch Technologie erreicht haben, wollen wir mit der Runde 8 bis zum 31.3.2020 noch einmal die ganze Bandbreite von Public Interest Technologie einfangen.
+Während wir in den bisherigen Schwerpunkten beispielsweise den Fokus darauf gelegt haben, welche Ansätze Entwickler*innen verfolgen, um Nutzer*innen und ihre Daten zu schützen oder Maschinen lernen zu lassen, ist uns wichtig zu sehen, welche Themen euch darüber hinaus umtreiben – und wie sich das Ökosystem entwickelt hat.</description>
+    </item>
+    
+  </channel>
+</rss>

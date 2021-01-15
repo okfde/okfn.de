@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Filter on OKF</title>
+    <link>https://okfn.de/authors/johannes-filter/</link>
+    <description>Recent content in Johannes Filter on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/authors/johannes-filter/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OffeneGesetze: Opening Germany&#39;s Law Gazette (Update)</title>
+      <link>https://okfn.de/blog/2018/12/opening-laws-in-germany/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2018/12/opening-laws-in-germany/</guid>
+      <description>Update, 12/24/2018: In response to OffeneGesetze, the German Ministry of Justice has announced that it will create a digital legislative process in the coming years. The ministry is creating a platform on which federal law gazettes &amp;ldquo;can also be freely printed, searched and re-used&amp;rdquo;. There should be unrestricted access, the Justice Minister Katarina Barley said.
+The Federal Law Gazettes are the central documents of German democracy. To pass a law, it has to be published in the Law Gazette.</description>
+    </item>
+    
+    <item>
+      <title>OffeneGesetze: Zentrale Dokumente der Demokratie erstmals frei zugänglich (Update)</title>
+      <link>https://okfn.de/blog/2018/12/offenegesetze/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2018/12/offenegesetze/</guid>
+      <description>Update, 24.12.2018: Das Justizministerium hat als Reaktion auf OffeneGesetze bekanntgegeben, künftig ein digitales Gesetzgebungsverfahren zu schaffen. Das Ministerium schaffe eine Plattform, auf der Bundesgesetzblätter &amp;ldquo;auch frei ausgedruckt, durchsucht und weiterverwendet werden können.&amp;rdquo; Es solle einen uneingeschränkten Zugang geben.
+Die Bundesgesetzblätter sind die zentralen Dokumente der deutschen Demokratie. Unter OffeneGesetze.de sind sie jetzt erstmals frei zugänglich. Auf unserem neuen Portal stellen wir die Dokumente kostenfrei und zur freien Weiterverwendung bereit.
+Bisher sind Bundesgesetzblätter nur über die Website bgbl.</description>
+    </item>
+    
+  </channel>
+</rss>

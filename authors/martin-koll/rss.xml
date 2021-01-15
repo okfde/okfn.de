@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Koll on OKF</title>
+    <link>https://okfn.de/authors/martin-koll/</link>
+    <description>Recent content in Martin Koll on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/authors/martin-koll/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rückblick Energyhack 2018: &#34; Energyhack^2 - Energie für eine effiziente Stadt &#34; !</title>
+      <link>https://okfn.de/blog/2018/10/energyhack-2018/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2018/10/energyhack-2018/</guid>
+      <description>Energie für eine effiziente Stadt! Am 12. und 13. Oktober fand der vierte Energyhack von Stromnetz Berlin und der Open Knowledge Foundation statt.
+ Video: Lea Pfau
+Ziel des Hackdays war es, innerhalb von 24 Stunden mit offenen Daten aus dem Energiesektor kreative Projekte umzusetzen, um die Gesellschaft stärker für die Themen Strom-, Energienetze und Energiewende zu sensibilisieren und Anwendungen für diese Bereiche zu entwickeln.
+Wie im Vorjahr fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE statt.</description>
+    </item>
+    
+    <item>
+      <title>Rückblick Energyhack 2017: Du hast die Wahl!</title>
+      <link>https://okfn.de/blog/2017/10/r%C3%BCckblick-energyhack-2017-du-hast-die-wahl/</link>
+      <pubDate>Wed, 04 Oct 2017 06:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/10/r%C3%BCckblick-energyhack-2017-du-hast-die-wahl/</guid>
+      <description>Am 22. und 23. September fand der dritte Energyhack von Stromnetz Berlin und der Open Knowledge Foundation statt. Passend zum Wahlwochende lautete das Motto &amp;ldquo;Du hast die Wahl&amp;rdquo;. Wir haben uns sehr über euer großes Interesse gefreut und wollen an dieser Stelle allen die nicht dabei sein konnten einen Überblick geben was alles an dem Wochenende passierte und welche Projekte entstanden sind.
+Ziel des Hackdays war es innerhalb von 24h mit offenen Daten aus dem Energiesektor kreative Projekte umzusetzen, um die Gesellschaft stärker für die Themen Strom-, Energienetze und Energiewende zu sensibilisieren und Anwendungen für diese Bereiche zu entwickeln.</description>
+    </item>
+    
+  </channel>
+</rss>

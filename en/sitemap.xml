@@ -340,6 +340,21 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/en/authors/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okfn.de/en/projekte/big/</loc>
     <xhtml:link
                 rel="alternate"

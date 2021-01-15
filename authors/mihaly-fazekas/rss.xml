@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mihaly Fazekas on OKF</title>
+    <link>https://okfn.de/authors/mihaly-fazekas/</link>
+    <description>Recent content in Mihaly Fazekas on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 31 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/authors/mihaly-fazekas/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Public procurement in Europe needs to enter the digital era</title>
+      <link>https://okfn.de/blog/2016/03/public-procurement-digital-era/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2016/03/public-procurement-digital-era/</guid>
+      <description>Approximately 20% of the EU’s GDP every year is spent on procuring public goods and some estimate that the costs added to government contracts due to corruption amount to around 20-25%. This is a striking amount and it is even more worrying considering that it compromises widely supported public goals such a building safe highways, high quality school buildings, or delivering medicine for a fair price. This is one of the main reasons why more research needs to be done to make public procurement more efficient and transparent.</description>
+    </item>
+    
+  </channel>
+</rss>

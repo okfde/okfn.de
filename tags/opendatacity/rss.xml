@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opendatacity on OKF</title>
+    <link>https://okfn.de/tags/opendatacity/</link>
+    <description>Recent content in Opendatacity on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 19 Feb 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/opendatacity/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Einladung: International Open Data Hackathon 2013 - Berlin</title>
+      <link>https://okfn.de/blog/2013/02/einladung-international-open-data-hackday-2013-berlin/</link>
+      <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2013/02/einladung-international-open-data-hackday-2013-berlin/</guid>
+      <description>Gemeinsam mit Michael Kreil von Open Data City und Zeit ONLINE organisieren wir in Berlin einen Hackday im Rahmen des International Open Data Day 2013. Wir laden alle Interessierten herzlich ein, mit uns über die neusten Entwicklungen im Open Data-Bereich zu diskutieren, an spannenden Projekten zu arbeiten und zu hacken.
+Wann:
+Samstag, 23.02.2013
+Von 13.00 – 21.00h
+Wo:
+In den Räumen der Zeit ONLINE
+Askanischer Platz 1 (Nähe Anhalter Bahnhof)</description>
+    </item>
+    
+  </channel>
+</rss>

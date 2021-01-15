@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smart City on OKF</title>
+    <link>https://okfn.de/tags/smart-city/</link>
+    <description>Recent content in Smart City on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 03 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/smart-city/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lab for CITY (Civic Innovation and Technology) - 21. Nov. via Live Stream verfolgen</title>
+      <link>https://okfn.de/blog/2014/11/labforcity/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2014/11/labforcity/</guid>
+      <description>Unsere Arbeit bei der Open Knowledge Foundation Deutschland ist stets durch die Begeisterung an Technologien und Innovationen gekennzeichnet, die es dem Bürger ermöglichen, komplexe Prozesse zu verstehen und sich an politischen Entscheidungen zu beteiligen. Je mehr Wissen wir teilen, desto mehr Innovationen können entstehen.
+Das Teilen von Wissen und Ideen ist auch der Schlüssel zu einer kognitiven Umwelt für die Zukunft unserer Städte. Daher veranstalten wir als Partner von allryder ein Open-Space-Programm, wo open data Pioniere, Vordenker, Behörden, politische Entscheidungsträger und technologieorientierte Unternehmen zusammenkommen, um ihre Erkenntnisse im Bereich civic innovation zu teilen und voneinander zu lernen.</description>
+    </item>
+    
+  </channel>
+</rss>

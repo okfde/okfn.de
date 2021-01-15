@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constantin Müller on OKF</title>
+    <link>https://okfn.de/authors/constantin-m%C3%BCller/</link>
+    <description>Recent content in Constantin Müller on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/authors/constantin-m%C3%BCller/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rette deinen Nahverkehr: Hilf mit, Fahrplandaten zu befreien</title>
+      <link>https://okfn.de/blog/2017/03/rettedeinennahverkehr/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2017/03/rettedeinennahverkehr/</guid>
+      <description>Deine Nahverkehrsapp nervt? Braucht zu lange zum Starten und du fragst dich, warum du in London eine bessere Auskunft bekommst als hier?
+Dann ist es Zeit für rettedeinennahverkehr.de. Gemeinsam machen wir unsere Landrät*innen und Oberbürgermeister*innen darauf aufmerksam, dass sie in ihrem Verkehrsverbund tatsächlich etwas bewegen können - indem sie die Fahrplandaten als Open Data für alle bereitstellen.
+Zugegeben – der öffentliche Nahverkehr hat noch viele andere Probleme. Er ist chronisch unterfinanziert, in kleinteilige Verbundgebiete zersplittert und hängt der technischen Entwicklung oft mehrere Jahre hinterher.</description>
+    </item>
+    
+  </channel>
+</rss>

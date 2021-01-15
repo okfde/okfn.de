@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fellowship on OKF</title>
+    <link>https://okfn.de/tags/fellowship/</link>
+    <description>Recent content in Fellowship on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/tags/fellowship/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fünf Fellowships für (digitale) GeisteswissenschaftlerInnen. Ausschreibung läuft bis zum 30.09.14!</title>
+      <link>https://okfn.de/blog/2014/07/fuenf-fellowships-fuer-digitale-geisteswissenschaftlerinnen-ausschreibung-laeuft-bis-zum-30-09-14/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2014/07/fuenf-fellowships-fuer-digitale-geisteswissenschaftlerinnen-ausschreibung-laeuft-bis-zum-30-09-14/</guid>
+      <description>Im Rahmen der DH-Nachwuchsförderung sollen über die Ausschreibung von fünf DARIAH-DE Fellowships innovative sowie individuelle Ansätze und Projekte in den digitalen Geisteswissenschaften gefördert werden.
+Das Programm richtet sich an DoktorandInnen/PostDocs aus den Feldern den Geistes- und Kulturwissenschaften, den Informationswissenschaften oder der Informatik, die sich im Rahmen ihrer Qualifikationsarbeiten mit einem Digital Humanities-Forschungsthema beschäftigen. Dabei soll besonders die Anfangskonzeption der Qualifikationsrbeit oder die Abschlussphase unterstützt werden.
+Die insgesamt fünf geförderten Personen forschen in einem Zeitraum von drei bis sechs Monaten in Forschungsfeldern der Digital Humanities, mit Unterstützung aus den Forschungsclustern des DARIAH-Programms.</description>
+    </item>
+    
+  </channel>
+</rss>

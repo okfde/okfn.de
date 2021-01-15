@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Henriette Litta on OKF</title>
+    <link>https://okfn.de/authors/dr.-henriette-litta/</link>
+    <description>Recent content in Dr. Henriette Litta on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://okfn.de/authors/dr.-henriette-litta/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Das war 2019: Unser Tätigkeitsbericht ist veröffentlicht</title>
+      <link>https://okfn.de/blog/2020/07/taetigkeitsbericht-2019/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/07/taetigkeitsbericht-2019/</guid>
+      <description>Das letzte Jahr war wieder bunt und turbulent. Eine kurze Übersicht über das Jahr 2019 stellen wir euch hier zusammen. Ausführlichere und übersichtlich zusammengestellte Informationen findet ihr in unserem aktuellen Tätigkeitsbericht, den wir wieder nach dem Social Reporting Standard erstellt haben.
+ Projektentwicklungen: Die langjährigen Projekte FragDenStaat, Jugend hackt und Prototype Fund konnten ihre Arbeit weiter verstetigen und sind auch personell gewachsen. Das seit Mitte 2017 laufende große Projekt Demokratielabore wurde 2019 abgeschlossen, ebenso das Bildungsprojekt edulabs.</description>
+    </item>
+    
+    <item>
+      <title>Neuer Job bei der OKF: Wir suchen eine Assistenz der Geschäftsführung (Vollzeit oder Teilzeit, ab sofort, zunächst befristet auf 1 Jahr)</title>
+      <link>https://okfn.de/blog/2020/04/jobs-assistenz/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2020/04/jobs-assistenz/</guid>
+      <description>Wer wir sind Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, offene technische Infrastruktur, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Mit unseren Projekten wie zum Beispiel Code for Germany, FragDenStaat, Jugend hackt und Prototype Fund sind wir Teil der digitalen Zivilgesellschaft. Gemeinsam mit unseren Communities, die ehrenamtlich an verschiedenen Schnittstellen von Gesellschaft und Technologie agieren, arbeiten wir seit 2011 daran, die digitale Mündigkeit der Bürger*innen in der Demokratie zu stärken, Partizipation zu ermöglichen und den ethischen Umgang mit Technologie zu unterstützen.</description>
+    </item>
+    
+  </channel>
+</rss>
