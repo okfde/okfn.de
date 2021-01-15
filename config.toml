@@ -9,10 +9,12 @@ enableRobotsTXT = true
 
 [permalinks]
   blog = 'blog/:year/:month/:slug/'
-  tags = 'blog/tags/:slug/'
+  tags = 'tags/:slug/'
+  authors = 'authors/:slug/'
 
 [taxonomies]
   tags = 'tags'
+  authors = 'authors'
 
 [related]
 threshold = 80

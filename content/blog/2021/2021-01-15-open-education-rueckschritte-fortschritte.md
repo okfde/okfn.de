@@ -8,6 +8,9 @@ image:
   license:
   license_url:
 type: post
+tags:
+- Open Education
+- Bildungspolitik
 layout: post
 published: true
 featured: yellow
