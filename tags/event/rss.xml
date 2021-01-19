@@ -6,10 +6,20 @@
     <description>Recent content in Event on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://okfn.de/tags/event/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nachlese: Vorträge auf dem Congress (rc3)</title>
+      <link>https://okfn.de/blog/2021/01/nachlese-wikipaka-rc3/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/01/nachlese-wikipaka-rc3/</guid>
+      <description>Einer unserer Standardtermine jedes Jahr ist der Chaos Communication Congress zwischen Weihnachten und Neujahr. Viele Haupt- und Ehrenamtliche der OKF besuchen den weltweiten Kongress von Hacker:innen und gesellschaftspolitischen Aktivist:innen und gestalten auch das Programm mit.
+Bekanntermaßen war 2020 nicht das Jahr für Präsenzveranstaltungen, weshalb der Congress diesmal unter dem Titel &amp;ldquo;remote Chaos Experience&amp;rdquo; (rC3) komplett online stattfand. Der soziale Teil, dazu gehören auch Workshops und Meetups, passierte dabei in Videocall-Tools wie Jitsi und BBB, darüber hinaus konnten Ticket-Inhaber:innen eine eigens angelegte 2D-Welt im Stil klassischer Computerspiele mit Avataren entdecken.</description>
+    </item>
     
     <item>
       <title>Live Launch in Brüssel: Opentender.eu geht online </title>

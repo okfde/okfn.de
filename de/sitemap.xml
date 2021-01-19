@@ -269,6 +269,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2021/01/nachlese-wikipaka-rc3/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2021/01/open-education-rueckschritte-fortschritte/</loc>
     <lastmod>2021-01-15T00:00:00+00:00</lastmod>
   </url>
@@ -3318,7 +3323,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3419,7 +3424,7 @@
   
   <url>
     <loc>https://okfn.de/tags/chaos-communication-congress/</loc>
-    <lastmod>2015-12-31T19:48:00+00:00</lastmod>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3443,7 +3448,7 @@
   
   <url>
     <loc>https://okfn.de/authors/claudia-jach/</loc>
-    <lastmod>2020-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3895,7 +3900,7 @@
   
   <url>
     <loc>https://okfn.de/tags/event/</loc>
-    <lastmod>2018-01-29T07:00:00+00:00</lastmod>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3990,6 +3995,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/tags/frag-den-staat/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/tags/fragdenstaat/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4058,13 +4069,13 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/gastbeitrag/</loc>
+    <loc>https://okfn.de/tags/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/gastbeitrag/</loc>
+    <loc>https://okfn.de/authors/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4327,7 +4338,7 @@
   
   <url>
     <loc>https://okfn.de/tags/jugend-hackt/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4405,7 +4416,7 @@
   
   <url>
     <loc>https://okfn.de/tags/konferenz/</loc>
-    <lastmod>2016-05-11T12:00:00+00:00</lastmod>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4711,7 +4722,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4915,14 +4926,14 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/okf/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/okf/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/okf/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf/</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5262,6 +5273,12 @@
   <url>
     <loc>https://okfn.de/tags/pers%C3%B6nliche-daten/</loc>
     <lastmod>2017-06-29T23:59:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/authors/philip-steffan/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
