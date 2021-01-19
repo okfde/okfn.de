@@ -17,7 +17,7 @@ people:
     role:
   - name:
     role:
-contact_person: adrianagroh
+contact_person:
 years: 2014 - heute
 partners:
   - Code for All
