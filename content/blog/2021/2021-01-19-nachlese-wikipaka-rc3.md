@@ -33,7 +33,7 @@ Alle Aufzeichnungen finden sich [hier auf media.ccc.de](https://media.ccc.de/c/r
 
 ### Daten und Informationen befreien
 
-Direkt am ersten Tag zeigt Max Kronmüller von **Frag den Staat** (FdS) im Talk [Frag den Staat für Hacker:innen](https://media.ccc.de/v/rc3-90559-fragdenstaat_fuer_hacker), was mit der FdS-API alles machbar ist und ist danach auch im Rahmen eines Meetups ansprechbar.
+Direkt am ersten Tag zeigt Max Kronmüller von **FragDenStaat** (FDS) im Talk [Frag den Staat für Hacker:innen](https://media.ccc.de/v/rc3-90559-fragdenstaat_fuer_hacker), was mit der FDS-API alles machbar ist und ist danach auch im Rahmen eines Meetups ansprechbar.
 
 Im Bereich Offene Daten gibt es auch einiges zu erfahren. Simon Jockers, vom **Prototype Fund**-geförderten Projekt Datenguide zeigt in [Statistiken für alle!](https://media.ccc.de/v/rc3-2020-158-datenguide-statistiken-fr-alle-), wie man mit den Daten aus amtlichen Statistiken arbeitet. Josef von **Code für Karlsruhe** spricht in [Offene Daten für Viele nutzbar machen ](https://media.ccc.de/v/rc3-2020-157-offene-daten-fr-viele-nutzbar-machen) darüber, wie man mit offenen Verwaltungsdaten der Kommunen umgehen kann.
 
