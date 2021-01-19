@@ -4,7 +4,7 @@ authors:
 - Philip Steffan
 date: 2021-01-19
 image:
-  src: files/blog/2021/01/wikipaka_ident.jpg
+  src: /files/blog/2021/01/wikipaka_ident.jpg
   title: Wikipaka Television und Fernstreaming
   license:
   license_url:
