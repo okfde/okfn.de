@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-02-02T00:00:00+0000</updated>
+  <updated>2021-02-03T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Datenstrategie der Bundesregierung: Gute Ansätze, aber zu sehr auf die Wirtschaft verengt</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/02/okf-datenstrategie-nach-kabinettbeschluss/"/>
+    <id>https://okfn.de/blog/2021/02/okf-datenstrategie-nach-kabinettbeschluss/</id>
+    <published>2021-02-03T00:00:00+0000</published>
+    <updated>2021-02-03T00:00:00+0000</updated>
+    <summary>Die Bundesregierung hat am 27.01.2021 ihre erste Datenstrategie im Kabinett verabschiedet. Sie ist ein Schritt in die richtige Richtung und folgt aus unserer Sicht einer richtigen gesellschaftlichen Zielsetzung: Rahmenbedingungen zu schaffen für eine verantwortungsvolle und innovative Datennutzung, die sich an den Werten der informationellen Selbstbestimmung und des Schutzes persönlicher Daten orientiert und dem Gemeinwohl verpflichtet ist. Leider versäumt es die Bundesregierung, diesen Werten das nötige Gewicht zu verleihen. Die Datenstrategie verengt sich zu stark auf wirtschaftliche Aspekte und lässt dabei weitere, gemeinwohlorientierte Aspekte der Datennutzung unter den Tisch fallen.</summary>
+  </entry>
   
   <entry>
     <title>Prototype Fund fördert eure Open-Source-Softwareideen – bewerbt euch jetzt!</title>
@@ -145,16 +154,6 @@ Neben dem Aufbau notwendiger Infrastrukturen ist die Etablierung und Stärkung v
     <updated>2020-09-11T00:00:00+0000</updated>
     <summary>Das Ende der 19. Legislaturperiode des Deutschen Bundestages ist abzusehen und noch immer warten wir mit Wikimedia und dem Bündnis Freie Bildung auf die von der Bundesregierung versprochene „umfassende Open Educational Resources-Strategie“. Anlässlich der kleinen Anfrage der FDP-Fraktion zu ebendieser Thematik veröffentlichen wir - gemeinsam mit dem Bündnis Freie Bildung - unseren Vorschlag für eine Strategie zur Stärkung und Förderung von Offener Bildung.
 Unser Vorschlag für die OER-Strategie des Bundes Im Rahmen eines mehrmonatigen, kollaborativen Prozess haben die engagierten Mitglieder des Bündnisses - darunter zahlreiche Organisationen und Einzelpersonen aus diversen Bildungsbereichen - einen Vorschlag erarbeitet, der zeitgemäße und offene Bildung in Deutschland gelingen lässt.</summary>
-  </entry>
-  
-  <entry>
-    <title>Kick-Off #FOE20: Offene Bildung politisch stärken</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/08/kick-off-forum-open-education-2020/"/>
-    <id>https://okfn.de/blog/2020/08/kick-off-forum-open-education-2020/</id>
-    <published>2020-08-15T00:00:00+0000</published>
-    <updated>2020-08-03T00:00:00+0000</updated>
-    <summary>Mit dem dritten Forum Open Education intensivieren wir gemeinsam mit Wikimedia Deutschland und dem Bündnis Freie Bildung den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien, um zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Die folgenden Themen stehen 2020 im Fokus:
- Digitale Nachhaltigkeit: Bildung ressourcenschonend transformieren Digital Literacies: offene Materialien und Technologien für mehr digitale Mündigkeit Bildungsgerechtigkeit: Open Education für mehr Teilhabe an Bildung</summary>
   </entry>
   
 </feed>

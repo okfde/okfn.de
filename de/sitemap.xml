@@ -269,6 +269,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2021/02/okf-datenstrategie-nach-kabinettbeschluss/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2021/02/ptf-runde-zehn/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
@@ -3328,7 +3333,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3652,7 +3657,7 @@
   
   <url>
     <loc>https://okfn.de/tags/datenstrategie/</loc>
-    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4074,13 +4079,13 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/gastbeitrag/</loc>
+    <loc>https://okfn.de/authors/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/gastbeitrag/</loc>
+    <loc>https://okfn.de/tags/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4194,7 +4199,7 @@
   
   <url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4727,7 +4732,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4931,14 +4936,14 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/okf/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf/</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/okf/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/okf/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5012,7 +5017,7 @@
   
   <url>
     <loc>https://okfn.de/tags/open-data/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6114,7 +6119,7 @@
   
   <url>
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

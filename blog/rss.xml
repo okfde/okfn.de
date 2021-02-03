@@ -6,10 +6,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Datenstrategie der Bundesregierung: Gute Ansätze, aber zu sehr auf die Wirtschaft verengt</title>
+      <link>https://okfn.de/blog/2021/02/okf-datenstrategie-nach-kabinettbeschluss/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/02/okf-datenstrategie-nach-kabinettbeschluss/</guid>
+      <description>Die Bundesregierung hat am 27.01.2021 ihre erste Datenstrategie im Kabinett verabschiedet. Sie ist ein Schritt in die richtige Richtung und folgt aus unserer Sicht einer richtigen gesellschaftlichen Zielsetzung: Rahmenbedingungen zu schaffen für eine verantwortungsvolle und innovative Datennutzung, die sich an den Werten der informationellen Selbstbestimmung und des Schutzes persönlicher Daten orientiert und dem Gemeinwohl verpflichtet ist. Leider versäumt es die Bundesregierung, diesen Werten das nötige Gewicht zu verleihen. Die Datenstrategie verengt sich zu stark auf wirtschaftliche Aspekte und lässt dabei weitere, gemeinwohlorientierte Aspekte der Datennutzung unter den Tisch fallen.</description>
+    </item>
     
     <item>
       <title>Prototype Fund fördert eure Open-Source-Softwareideen – bewerbt euch jetzt!</title>
