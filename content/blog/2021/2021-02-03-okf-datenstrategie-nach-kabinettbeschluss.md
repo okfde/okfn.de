@@ -15,10 +15,10 @@ type: post
 layout: post
 published: true
 featured: blue
-title: Datenstrategie der Bundesregierung: Gute Ansätze, aber zu sehr auf die Wirtschaft verengt
+title: "Datenstrategie der Bundesregierung: Gute Ansätze, aber zu sehr auf die Wirtschaft verengt"
 ---
 
-**Die Bundesregierung hat am 27.01.2021 ihre erste Datenstrategie im Kabinett verabschiedet. Die Datenstrategie ist ein Schritt in die richtige Richtung. Die Datenstrategie folgt aus unserer Sicht einer richtigen gesellschaftlichen Zielsetzung: Rahmenbedingungen zu schaffen für eine verantwortungsvolle und innovative Datennutzung, die sich an den Werten der informationellen Selbstbestimmung und des Schutzes persönlicher Daten orientiert und dem Gemeinwohl verpflichtet ist. Leider versäumt es die Bundesregierung in der Datenstrategie, diesen Werten das nötige Gewicht zu verleihen. Die Datenstrategie verengt sich zu stark auf wirtschaftliche Aspekte und lässt dabei weitere, gemeinwohlorientierte Aspekte der Datennutzung unter den Tisch fallen. Die Zivilgesellschaft bleibt weiterhin Zaungast in der Diskussion: In der Datenstrategie finden sich die Vorschläge, die aus der Zivilgesellschaft kamen, nur teilweise berücksichtigt. Ungehört bleibt auch der Wunsch nach einem Regulativ: Die Gefahr des Datenmissbrauchs durch staatliche Behörden lässt die Datenstrategie gänzlich unbehandelt.**
+**Die Bundesregierung hat am 27.01.2021 ihre erste Datenstrategie im Kabinett verabschiedet. Sie ist ein Schritt in die richtige Richtung und folgt aus unserer Sicht einer richtigen gesellschaftlichen Zielsetzung: Rahmenbedingungen zu schaffen für eine verantwortungsvolle und innovative Datennutzung, die sich an den Werten der informationellen Selbstbestimmung und des Schutzes persönlicher Daten orientiert und dem Gemeinwohl verpflichtet ist. Leider versäumt es die Bundesregierung, diesen Werten das nötige Gewicht zu verleihen. Die Datenstrategie verengt sich zu stark auf wirtschaftliche Aspekte und lässt dabei weitere, gemeinwohlorientierte Aspekte der Datennutzung unter den Tisch fallen. Die Zivilgesellschaft bleibt weiterhin Zaungast in der Diskussion: In der Datenstrategie finden sich die Vorschläge, die aus der Zivilgesellschaft kamen, nur teilweise berücksichtigt. Ungehört bleibt auch der Wunsch nach einem Regulativ: Die Gefahr des Datenmissbrauchs durch staatliche Behörden lässt die Datenstrategie gänzlich unbehandelt.**
 
 ### Ein Dokument für die Wirtschaft, das die Gesellschaft lediglich „mitdenkt“
 
