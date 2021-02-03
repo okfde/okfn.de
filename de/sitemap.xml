@@ -269,6 +269,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2021/02/ptf-runde-zehn/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2021/01/nachlese-wikipaka-rc3/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url>
@@ -3323,7 +3328,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3442,7 +3447,7 @@
   
   <url>
     <loc>https://okfn.de/tags/civic-tech/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4722,7 +4727,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5139,7 +5144,7 @@
   
   <url>
     <loc>https://okfn.de/tags/open-source/</loc>
-    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5254,7 +5259,7 @@
   
   <url>
     <loc>https://okfn.de/authors/patricia-leu/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5400,7 +5405,7 @@
   
   <url>
     <loc>https://okfn.de/tags/prototype-fund/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5430,7 +5435,7 @@
   
   <url>
     <loc>https://okfn.de/tags/public-interest-tech/</loc>
-    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

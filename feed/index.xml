@@ -6,10 +6,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prototype Fund fördert eure Open-Source-Softwareideen – bewerbt euch jetzt!</title>
+      <link>https://okfn.de/blog/2021/02/ptf-runde-zehn/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/02/ptf-runde-zehn/</guid>
+      <description>Seit dem 1. Februar 2021 könnt ihr euch mit eurer Open-Source-Softwareidee für die kommende 10. Förderphase des Prototype Fund bewerben. Die Bewerbungsrunde ist themenoffen – auch wenn wir uns in der Trendforschung speziell an der Schnittstelle von Journalismus, Medien und Technologien umgesehen haben. Die Bereiche, in die eure Idee fallen sollte, heißen Civic Tech, Data Literacy, Datensicherheit und Softwareinfrastruktur. Darüber hinaus sind euch keine Grenzen gesetzt! Wie immer veröffentlichen wir parallel zum Ausschreibungsbeginn einen Trendforschungsreport, in dem wir aktuelle, übergeordnete gesellschaftliche und technologische Entwicklungen diskutieren.</description>
+    </item>
     
     <item>
       <title>Nachlese: Vorträge auf dem Congress (rc3)</title>
