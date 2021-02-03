@@ -13,7 +13,7 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: Datenstrategie der Bundesregierung: Gute Ansätze, aber zu sehr auf die Wirtschaft verengt
 ---
