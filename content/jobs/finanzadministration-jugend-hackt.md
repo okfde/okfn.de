@@ -7,7 +7,7 @@ image:
   title: "Jugend hackt Team"
   license:
   license_url:
-published: true
+published: false
 title: "Jugend hackt: Wir suchen studentische Finanzadministration (ab sofort)"
 ---
 
