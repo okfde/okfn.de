@@ -8,7 +8,7 @@ image:
   license:
   license_url: 
 published: true
-title: "Wir suchen eine Leiter*in der Presse- und Öffentlichkeitsarbeit für FragDenStaat!" 
+title: "Wir suchen eine Leitung der Presse- und Öffentlichkeitsarbeit für FragDenStaat!" 
 ---
 
 Die Leiter*in der Presse- und Öffentlichkeitsarbeit koordiniert die Kommunikation von FragDenStaat nach außen und entwickelt sie strategisch weiter, um die Arbeit des Projekts einer größeren und diversen Öffentlichkeit zugänglich zu machen.
