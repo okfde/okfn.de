@@ -8,7 +8,7 @@ image:
   title: "FragDenStaat-Logo"
   license:
   license_url: 
-published: true
+published: false
 title: "FragDenStaat: Wir suchen Volljurist*in! (80-100%, ab Februar 2021)" 
 ---
 
