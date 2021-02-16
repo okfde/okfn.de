@@ -1,3 +1,6 @@
+{{ $banner := resources.Get "/js/banner.js" }}
+<script src="{{$banner.RelPermalink}}"></script>
+
 {{ $lunr := resources.Get "/js/vendor/lunr.js" | resources.Minify | resources.Fingerprint }}
 <link rel="preload" href="{{$lunr.RelPermalink}}" as="script">
 <script src="{{$lunr.RelPermalink}}"></script>

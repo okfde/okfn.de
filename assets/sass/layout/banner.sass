@@ -1,0 +1,53 @@
+aside.dropbanner
+  position: fixed
+  bottom: 0
+  left: 0
+  right: 0
+  z-index: 1000
+  transition: transform .5s ease-in-out
+
+  &.gone
+    transform: translateY(105%)
+
+  &.zehn
+    display: flex
+    background-image: linear-gradient(45deg, #554ca0 0%, #27377a 25%, #132e80 50%, #59439c 75%, #9558b7 100%)
+    background-size: cover
+    background-repeat: no-repeat
+    padding: 2rem 0
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3)
+
+    @include media-breakpoint-down(md)
+      .logo-zehn
+        display: none
+    
+    img
+      width: auto
+      height: 6rem
+
+    .text
+      display: flex
+      flex-direction: column
+      justify-content: center
+      color: #fff
+      padding: 0 4rem
+
+    a
+      color: #fff
+
+      svg g[fill]
+        fill: #fff !important
+
+  .close
+    position: absolute
+    top: 0
+    right: 0
+
+    button
+      background: none
+      border: none
+      color: #fff
+      font-size: 2rem
+  
+  &.hidden
+    display: none
