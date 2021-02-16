@@ -14,26 +14,32 @@ aside.dropbanner
     background-image: linear-gradient(45deg, #554ca0 0%, #27377a 25%, #132e80 50%, #59439c 75%, #9558b7 100%)
     background-size: cover
     background-repeat: no-repeat
-    padding: 2rem 0
+    padding: 1.5rem
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3)
 
-    @include media-breakpoint-down(md)
-      .logo-zehn
-        display: none
+    .logo-zehn
+      display: flex
+      align-items: center
     
     img
       width: auto
-      height: 6rem
+      height: 5rem
 
     .text
       display: flex
       flex-direction: column
       justify-content: center
       color: #fff
-      padding: 0 4rem
+      font-size: 1.3rem
+      padding-left: 1.5rem
+
+      @include media-breakpoint-up(md)
+        font-size: 1.5rem
+        padding-left: 4rem
 
     a
       color: #fff
+      font-size: 1.1rem
 
       svg g[fill]
         fill: #fff !important
