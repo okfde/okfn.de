@@ -16,7 +16,7 @@ type: post
 layout: post
 published: false
 featured: yellow
-title: Die OKF wird heute 10 Jahre alt. Gründungsvorstand Daniel Dietrich über die alten Zeiten und neue Herausforderungen
+title: Die OKF wird heute 10 Jahre alt
 ---
 
 **Am 19. Februar 2011 wurde die “Open Knowledge Foundation Deutschland” in das Berliner Vereinsregister eingetragen. 10 Jahre ist das her. Unseren ersten runden Geburtstag wollen wir nutzen, um in diesem Jahr auf unsere Arbeit zurückzublicken, mit früheren und aktuellen Wegbegleiter:innen zu sprechen und auch nach vorne zu schauen, was zukünftig wichtig sein wird. Und feiern wollen wir auch. Ein bißchen. Im Sommer.**
