@@ -8,7 +8,7 @@ image:
   license:
   license_url:
 tags:
-- OKFde
+- 10YOKF
 - openknowledge
 - opendata
 - zivilgesellschaft
