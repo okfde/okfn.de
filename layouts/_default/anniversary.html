@@ -31,7 +31,7 @@
         <ul id="tags">
           <li><strong>Gegründet</strong> 19.02.2011</li>
           <li><strong>Mitarbeiter:innen 2011</strong> 0</li>
-          <li><strong>Gegründet 2021</strong> 28</li>
+          <li><strong>Mitarbeiter:innen 2021</strong> 28</li>
         </ul>
 
       </aside>
@@ -45,7 +45,7 @@
       <ul class="l__blog__posts container mt-d">
         {{ range $nate.Pages }}
         {{ if eq .Kind "page"}}
-        {{ if in .Params.tags "Open Education" }}
+        {{ if in .Params.tags "10YOKF" }}
         {{- partial "post_item.html" . -}}
         {{ end }}
         {{ end }}
