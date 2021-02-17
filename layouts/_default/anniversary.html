@@ -26,35 +26,39 @@
     <h1 class="col col-12">{{.Params.blurb}}</h1>
   </div>
 
-  {{ $allProjects := where .Site.Pages ".Params.layout" "==" "project" }}
-  {{ $allProjects := sort (where $allProjects ".Params.years" "!=" nil) ".Params.title" "asc" }}
-  {{ $years := sort (seq 2011 2019) "value" "desc" }} {{/* 2020 has no projects */}}
-  
-  {{ range $year := $years }}
-    {{ $projects := slice }}
-    {{ $count := 0 }}
+  <div class="row anniversary-projects">
+    {{ $allProjects := where .Site.Pages ".Params.layout" "==" "project" }}
+    {{ $allProjects := sort (where $allProjects ".Params.years" "!=" nil) ".Params.title" "asc" }}
+    {{ $years := sort (seq 2011 2019) "value" "desc" }} {{/* 2020 has no projects */}}
+    
+    {{ range $year := $years }}
+      {{ $projects := slice }}
+      {{ $count := 0 }}
 
-    {{ range $project := $allProjects }}
-      {{ $startyear := int (index (findRE "(\\d{4})" $project.Params.years) 0) }}
-      {{ if (eq $startyear $year) }}
-        {{ $projects = $projects | append $project }}
-        {{ $count = (add $count 1) }}
+      {{ range $project := $allProjects }}
+        {{ $startyear := int (index (findRE "(\\d{4})" $project.Params.years) 0) }}
+        {{ if (eq $startyear $year) }}
+          {{ $projects = $projects | append $project }}
+          {{ $count = (add $count 1) }}
+        {{ end }}
       {{ end }}
-    {{ end }}
 
-    <h3>{{ $year }}</h3>
-    <p>
-      {{ $count }}
-      {{ if (eq $count 1) }}{{ i18n "anniversary_one_new_project" }}
-      {{ else }}{{ i18n "anniversary_multiple_new_projects" }}{{ end }}
-    </p>
+      <div class="col-6 col-md-4 anniversary-projects__item">
+        <h3>{{ $year }}</h3>
+        <p class="my-2">
+          {{ $count }}
+          {{ if (eq $count 1) }}{{ i18n "anniversary_one_new_project" }}
+          {{ else }}{{ i18n "anniversary_multiple_new_projects" }}{{ end }}
+        </p>
 
-    <ul>
-    {{ range $project := $projects }}  
-      <li><a href="{{ $project.Permalink }}">{{ $project.Title }}</a></li>
+        <ul>
+        {{ range $project := $projects }}  
+          <li><a href="{{ $project.Permalink }}">{{ $project.Title }}</a></li>
+        {{ end }}
+        </ul>
+      </div>
     {{ end }}
-    </ul>
-  {{ end }}
+  </div>
 
   <div class="l__profile">
     {{ range (.Paginator 10).Pages }}
