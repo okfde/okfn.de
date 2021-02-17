@@ -26,6 +26,25 @@
     <h1 class="col col-12">{{.Params.blurb}}</h1>
   </div>
 
+  {{ $projects := where .Site.Pages ".Params.layout" "==" "project" }}
+  {{ $projects := sort (where $projects ".Params.years" "!=" nil) ".Params.title" "asc" }}
+  {{ $years := sort (seq 2011 2019) "value" "desc" }} {{/* 2020 has no projects */}}
+  {{ range $year := $years }}
+    <h3>{{ $year }}</h3>
+
+    <ul>
+    {{ range $project := $projects }}
+      {{ $startyear := int (index (findRE "(\\d{4})" $project.Params.years) 0) }}
+
+      {{ if (eq $startyear $year) }}
+        <li>
+          <a href="{{ $project.Permalink }}">{{ $project.Title }} </a>
+        </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  {{ end }}
+
   <div class="l__profile">
     {{ range (.Paginator 10).Pages }}
     {{ if eq .Params.arrange "img_top"}}
