@@ -23,8 +23,8 @@ people:
     role: Head of Legal
   - name: Lea Pfau
     role: Campaigner
-  - name: Gregor Weichbrodt
-    role: Frontend Development and Design
+  - name: Layla Ansari
+  - name: Max Kronmüller
 contact_person: arnesemsrott
 years: 2011 - today
 financing:
