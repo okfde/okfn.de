@@ -6,7 +6,6 @@
     <description>Projects on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 01 Jan 1970 00:33:34 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/en/projekte/rss.xml" rel="self" type="application/rss+xml" />
     
@@ -78,16 +77,6 @@ We want non-profit organisations:
       <guid>https://okfn.de/en/projekte/jugendhackt/</guid>
       <description>Jugend hackt is a program for young people who want to improve the world with their technical skills. Supported by volunteer mentors, our participants develop digital tools, prototypes and concepts for a better future. Our offer includes hackathon events in many cities, regional labs, an online community and international exchange programs.
 In line with our motto &amp;ldquo;Improve the world with code&amp;rdquo;, Jugend hackt is about more than just learning to program: We understand technology as a means of social change.</description>
-    </item>
-    
-    <item>
-      <title>Zugang gestalten</title>
-      <link>https://okfn.de/en/projekte/zuganggestalten/</link>
-      <pubDate>Thu, 01 Jan 1970 00:33:34 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/zuganggestalten/</guid>
-      <description>Museums, archives, libraries and momuments are operated and maintained with public funds. The international conference &amp;ldquo;Zugang gestalten&amp;rdquo; asks the question whether this is adequately reflected in the level of access to the cultural treasures that these institutions possess and maintain. The conference invites key figures in culture, science, civic society and politics to publicly explore different ways of accessing digital cultural heritage in Germany.
-&amp;ldquo;Zugang gestalten&amp;rdquo; stands under the auspices of the German UNESCO commission and is a collaboartive project of the Open Knowledge Foundation Deutschland, Stiftung Historische Museen Hamburg, Servicestelle Digitalisierung Berlin, Deutschen Digitalen Bibliothek, Internet &amp;amp; Gesellschaft Collaboratory, Institut Français Deutschland, iRights.</description>
     </item>
     
     <item>
@@ -374,6 +363,16 @@ Examples for such applications include www.fixmystreet.com and www.everyblock.co
       <guid>https://okfn.de/en/projekte/wahldatenhelfer/</guid>
       <description>The &amp;ldquo;Wahl.Daten.Helfer.&amp;rdquo; was originally a platform on which hackathons can be announced for elections. We not only wanted to deal with current election data, but also develop toolkits and apps for upcoming elections, which can be easily adapted and used for example for the European elections.
 The project was continued as a community project with an extended focus. The Wahl.Daten.Helfer now helps you to inform yourself about parties and their programs.</description>
+    </item>
+    
+    <item>
+      <title>Zugang gestalten</title>
+      <link>https://okfn.de/en/projekte/zuganggestalten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/zuganggestalten/</guid>
+      <description>Museums, archives, libraries and momuments are operated and maintained with public funds. The international conference &amp;ldquo;Zugang gestalten&amp;rdquo; asks the question whether this is adequately reflected in the level of access to the cultural treasures that these institutions possess and maintain. The conference invites key figures in culture, science, civic society and politics to publicly explore different ways of accessing digital cultural heritage in Germany.
+&amp;ldquo;Zugang gestalten&amp;rdquo; stands under the auspices of the German UNESCO commission and is a collaboartive project of the Open Knowledge Foundation Deutschland, Stiftung Historische Museen Hamburg, Servicestelle Digitalisierung Berlin, Deutschen Digitalen Bibliothek, Internet &amp;amp; Gesellschaft Collaboratory, Institut Français Deutschland, iRights.</description>
     </item>
     
     <item>

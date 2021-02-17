@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/en/projekte/atom.xml"/>
-  <updated>1970-01-01T00:33:34+0000</updated>
+  <updated>0001-01-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
@@ -79,16 +79,6 @@ In line with our motto &amp;ldquo;Improve the world with code&amp;rdquo;, Jugend
   </entry>
   
   <entry>
-    <title>Zugang gestalten</title>
-    <link rel="alternate" href="https://okfn.de/en/projekte/zuganggestalten/"/>
-    <id>https://okfn.de/en/projekte/zuganggestalten/</id>
-    <published>1970-01-01T00:33:34+0000</published>
-    <updated>1970-01-01T00:33:34+0000</updated>
-    <summary>Museums, archives, libraries and momuments are operated and maintained with public funds. The international conference &amp;ldquo;Zugang gestalten&amp;rdquo; asks the question whether this is adequately reflected in the level of access to the cultural treasures that these institutions possess and maintain. The conference invites key figures in culture, science, civic society and politics to publicly explore different ways of accessing digital cultural heritage in Germany.
-&amp;ldquo;Zugang gestalten&amp;rdquo; stands under the auspices of the German UNESCO commission and is a collaboartive project of the Open Knowledge Foundation Deutschland, Stiftung Historische Museen Hamburg, Servicestelle Digitalisierung Berlin, Deutschen Digitalen Bibliothek, Internet &amp;amp; Gesellschaft Collaboratory, Institut Français Deutschland, iRights.</summary>
-  </entry>
-  
-  <entry>
     <title>2030watch</title>
     <link rel="alternate" href="https://okfn.de/en/projekte/2030-watch/"/>
     <id>https://okfn.de/en/projekte/2030-watch/</id>
@@ -150,6 +140,17 @@ In line with our motto &amp;ldquo;Improve the world with code&amp;rdquo;, Jugend
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>The global Extractive Industries Transparency Initiative (EITI) advocates greater financial transparency and accountability in the extractive sector.
 The initiative, which was founded in 2003 as part of the 2002 Sustainability Summit in Johannesburg, South Africa, is based on close cooperation between governments, companies and civil society in over 50 countries. They disclose information on tax payments, licenses, production volumes and other important data relating to the extraction of oil, gas and mineral resources.</summary>
+  </entry>
+  
+  <entry>
+    <title>DARIAH-DE</title>
+    <link rel="alternate" href="https://okfn.de/en/projekte/dariah/"/>
+    <id>https://okfn.de/en/projekte/dariah/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>DARIAH-DE supports digitally-enabled research and teaching in the arts and humanities. The project developed research infrastructure in support of service and research data as well as materials for research and teaching in the Digital Humanities.
+DARIAH-DE is the german national contribution to the European research infrastructure &amp;ldquo;DARIAH-EU - Digital Research Infrastructure for the Arts and Humanities&amp;rdquo; within the framework of ESFRI.
+As a project partner, we supported DARIAH-DE with the communication and dissemination of the alignment, content, and results of digital humanities.</summary>
   </entry>
   
 </feed>

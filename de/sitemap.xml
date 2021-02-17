@@ -3076,24 +3076,23 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/projekte/zuganggestalten/</loc>
-    <lastmod>1970-01-01T00:33:34+00:00</lastmod>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/anniversary/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/projekte/zuganggestalten/"
+                href="https://okfn.de/en/anniversary/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/projekte/zuganggestalten/"
+                href="https://okfn.de/anniversary/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4084,13 +4083,13 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/gastbeitrag/</loc>
+    <loc>https://okfn.de/authors/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/gastbeitrag/</loc>
+    <loc>https://okfn.de/tags/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4947,14 +4946,14 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/okf/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf/</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/okf/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/okf/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5412,7 +5411,6 @@
   
   <url>
     <loc>https://okfn.de/projekte/</loc>
-    <lastmod>1970-01-01T00:33:34+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -6144,6 +6142,20 @@
     <loc>https://okfn.de/tags/zugang-gestalten/</loc>
     <lastmod>2015-08-17T13:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/projekte/zuganggestalten/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/zuganggestalten/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/zuganggestalten/"
+                />
   </url>
   
   <url>

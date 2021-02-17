@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/projekte/atom.xml"/>
-  <updated>1970-01-01T00:33:34+0000</updated>
+  <updated>0001-01-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
@@ -79,16 +79,6 @@ Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend ha
   </entry>
   
   <entry>
-    <title>Zugang gestalten</title>
-    <link rel="alternate" href="https://okfn.de/projekte/zuganggestalten/"/>
-    <id>https://okfn.de/projekte/zuganggestalten/</id>
-    <published>1970-01-01T00:33:34+0000</published>
-    <updated>1970-01-01T00:33:34+0000</updated>
-    <summary>Mit öffentlichen Mitteln werden Museen, Archive, Bibliotheken und Baudenkmäler betrieben und erhalten. Aber wie gestaltet sich der Zugang zu den Schätzen, die dort erschlossen, restauriert und bewahrt werden? Die jährlich durchgeführte, internationale Konferenz &amp;ldquo;Zugang gestalten! - Mehr Verantwortung für das kulturelle Erbe&amp;rdquo; zeigt die unterschiedlichen Gestaltungsmöglichkeiten beim Zugang zum kulturellen Erbe auf.
-Sie ist das Forum im deutschsprachigen Raum, um die mit dem Zugang zu kulturellen Werken in Zusammenhang stehenden Fragen öffentlich mit Fachleuten aus Kultur, Wirtschaft, Zivilgesellschaft und Politik zu diskutieren.</summary>
-  </entry>
-  
-  <entry>
     <title>2030Watch</title>
     <link rel="alternate" href="https://okfn.de/projekte/2030-watch/"/>
     <id>https://okfn.de/projekte/2030-watch/</id>
@@ -152,6 +142,16 @@ Ziel von Coding da Vinci war nicht nur das Etablieren und Vernetzen einer techni
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>Die globale „Initiative für Transparenz im rohstoffgewinnenden Sektor“ (Extractive Industries Transparency Initiative – EITI) setzt sich ein für mehr Finanztransparenz und Rechenschaftspflicht im Rohstoffsektor.
 Die 2003 gegründete Initiative entstand im Rahmen des Nachhaltigkeitsgipfels 2002 im südafrikanischen Johannesburg und basiert auf einer engen Zusammenarbeit von Regierungen, Unternehmen und Zivilgesellschaften in mittlerweile über 50 Ländern. Diese legen Informationen über Steuerzahlungen, Lizenzen, Fördermengen und andere wichtige Daten rund um die Förderung von Öl-, Gas- und mineralischen Rohstoffen offen.</summary>
+  </entry>
+  
+  <entry>
+    <title>DARIAH-DE</title>
+    <link rel="alternate" href="https://okfn.de/projekte/dariah/"/>
+    <id>https://okfn.de/projekte/dariah/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>DARIAH-DE unterstützt mit digitalen Ressourcen und Methoden arbeitende Geistes- und KulturwissenschaftlerInnen in Forschung und Lehre. Dafür baut das Projekt eine digitale Forschungsinfrastruktur für Werkzeuge und Forschungsdaten auf und entwickelt Materialien für Lehre und Weiterbildung im Bereich der Digital Humanities (DH).
+Als Projektpartner unterstützen wir das Forschungsprojekt DARIAH-DE bei der Kommunikation und Dissemination rund um Ausrichtung, Inhalte und Ergebnisse der digitalen Geisteswissenschaften (Digital Humanities). Ziel ist es, die zunehmend mit digitalen Ressourcen und Methoden arbeitenden Geistes- und Kulturwissenschaftler in Forschung und Lehre zu betreuen und so die Nutzung von digitalen Inhalten, Ressourcen, Werkzeugen und offenen Forschungsinfrastrukturen zu fördern.</summary>
   </entry>
   
 </feed>

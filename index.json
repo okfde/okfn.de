@@ -7040,20 +7040,6 @@
  
    ,
      {
-       "url": "https://okfn.de/projekte/zuganggestalten/",
-       "title": "Zugang gestalten",
-       "section": "projekte",
-       "date": "1970-01-01 00:33:34 +0000 UTC",
-       
-       "img": "projects/zuganggestalten.jpg",
-       
-       
-       "content": ["Mit","öffentlichen","Mitteln","werden","Museen,","Archive,","Bibliotheken","und","Baudenkmäler","betrieben","und","erhalten.","Aber","wie","gestaltet","sich","der","Zugang","zu","den","Schätzen,","die","dort","erschlossen,","restauriert","und","bewahrt","werden?","Die","jährlich","durchgeführte,","internationale","Konferenz","\u0026ldquo;Zugang","gestalten!","-","Mehr","Verantwortung","für","das","kulturelle","Erbe\u0026rdquo;","zeigt","die","unterschiedlichen","Gestaltungsmöglichkeiten","beim","Zugang","zum","kulturellen","Erbe","auf.","Sie","ist","das","Forum","im","deutschsprachigen","Raum,","um","die","mit","dem","Zugang","zu","kulturellen","Werken","in","Zusammenhang","stehenden","Fragen","öffentlich","mit","Fachleuten","aus","Kultur,","Wirtschaft,","Zivilgesellschaft","und","Politik","zu","diskutieren."]
-       
-     }
- 
-   ,
-     {
        "url": "https://okfn.de/projekte/2030-watch/",
        "title": "2030Watch",
        "section": "projekte",
@@ -7551,6 +7537,20 @@
        
        
        "content": ["Der","„Wahl.Daten.Helfer.“","war","ursprünglich","eine","Plattform,","auf","der","Hackathons","zu","Wahlen","angekündigt","werden","können.","Wir","wollten","uns","nicht","nur","treffen,","um","uns","mit","den","aktuellen","Wahldaten","auseinanderzusetzen,","sondern","auch","für","bevorstehende","Wahlen","Toolsets","und","Apps","zu","entwickeln,","die","leicht","adaptiert","und","so","z.B.","für","die","Europawahl","genutzt","und","weiterverwendet","werden","können.","Das","Projekt","wurde","als","Community-Projekt","mit","einem","erweiterten","Fokus","weitergeführt.","Der","Wahl.Daten.Helfer","hilft","nun","dabei,","dir","die","Möglichkeit","geben,","sich","über","Parteien","und","ihre","Programme","zu","informieren."]
+       
+     }
+ 
+   ,
+     {
+       "url": "https://okfn.de/projekte/zuganggestalten/",
+       "title": "Zugang gestalten",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/zuganggestalten.jpg",
+       
+       
+       "content": ["Mit","öffentlichen","Mitteln","werden","Museen,","Archive,","Bibliotheken","und","Baudenkmäler","betrieben","und","erhalten.","Aber","wie","gestaltet","sich","der","Zugang","zu","den","Schätzen,","die","dort","erschlossen,","restauriert","und","bewahrt","werden?","Die","jährlich","durchgeführte,","internationale","Konferenz","\u0026ldquo;Zugang","gestalten!","-","Mehr","Verantwortung","für","das","kulturelle","Erbe\u0026rdquo;","zeigt","die","unterschiedlichen","Gestaltungsmöglichkeiten","beim","Zugang","zum","kulturellen","Erbe","auf.","Sie","ist","das","Forum","im","deutschsprachigen","Raum,","um","die","mit","dem","Zugang","zu","kulturellen","Werken","in","Zusammenhang","stehenden","Fragen","öffentlich","mit","Fachleuten","aus","Kultur,","Wirtschaft,","Zivilgesellschaft","und","Politik","zu","diskutieren."]
        
      }
  

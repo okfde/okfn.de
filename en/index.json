@@ -248,20 +248,6 @@
  
    ,
      {
-       "url": "https://okfn.de/en/projekte/zuganggestalten/",
-       "title": "Zugang gestalten",
-       "section": "projekte",
-       "date": "1970-01-01 00:33:34 +0000 UTC",
-       
-       "img": "projects/zuganggestalten.jpg",
-       
-       
-       "content": ["Museums,","archives,","libraries","and","momuments","are","operated","and","maintained","with","public","funds.","The","international","conference","\u0026ldquo;Zugang","gestalten\u0026rdquo;","asks","the","question","whether","this","is","adequately","reflected","in","the","level","of","access","to","the","cultural","treasures","that","these","institutions","possess","and","maintain.","The","conference","invites","key","figures","in","culture,","science,","civic","society","and","politics","to","publicly","explore","different","ways","of","accessing","digital","cultural","heritage","in","Germany.","\u0026ldquo;Zugang","gestalten\u0026rdquo;","stands","under","the","auspices","of","the","German","UNESCO","commission","and","is","a","collaboartive","project","of","the","Open","Knowledge","Foundation","Deutschland,","Stiftung","Historische","Museen","Hamburg,","Servicestelle","Digitalisierung","Berlin,","Deutschen","Digitalen","Bibliothek,","Internet","\u0026amp;","Gesellschaft","Collaboratory,","Institut","Français","Deutschland,","iRights.info,","Jüdischen","Museum","Berlin,","Stiftung","Haus","der","Geschichte","der","Bundesrepublik","Deutschland,","Stiftung","Preußischer","Kulturbesitz","and","Wikimedia","Deutschland."]
-       
-     }
- 
-   ,
-     {
        "url": "https://okfn.de/en/projekte/2030-watch/",
        "title": "2030watch",
        "section": "projekte",
@@ -747,6 +733,20 @@
        
        
        "content": ["The","\u0026ldquo;Wahl.Daten.Helfer.\u0026rdquo;","was","originally","a","platform","on","which","hackathons","can","be","announced","for","elections.","We","not","only","wanted","to","deal","with","current","election","data,","but","also","develop","toolkits","and","apps","for","upcoming","elections,","which","can","be","easily","adapted","and","used","for","example","for","the","European","elections.","The","project","was","continued","as","a","community","project","with","an","extended","focus.","The","Wahl.Daten.Helfer","now","helps","you","to","inform","yourself","about","parties","and","their","programs."]
+       
+     }
+ 
+   ,
+     {
+       "url": "https://okfn.de/en/projekte/zuganggestalten/",
+       "title": "Zugang gestalten",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/zuganggestalten.jpg",
+       
+       
+       "content": ["Museums,","archives,","libraries","and","momuments","are","operated","and","maintained","with","public","funds.","The","international","conference","\u0026ldquo;Zugang","gestalten\u0026rdquo;","asks","the","question","whether","this","is","adequately","reflected","in","the","level","of","access","to","the","cultural","treasures","that","these","institutions","possess","and","maintain.","The","conference","invites","key","figures","in","culture,","science,","civic","society","and","politics","to","publicly","explore","different","ways","of","accessing","digital","cultural","heritage","in","Germany.","\u0026ldquo;Zugang","gestalten\u0026rdquo;","stands","under","the","auspices","of","the","German","UNESCO","commission","and","is","a","collaboartive","project","of","the","Open","Knowledge","Foundation","Deutschland,","Stiftung","Historische","Museen","Hamburg,","Servicestelle","Digitalisierung","Berlin,","Deutschen","Digitalen","Bibliothek,","Internet","\u0026amp;","Gesellschaft","Collaboratory,","Institut","Français","Deutschland,","iRights.info,","Jüdischen","Museum","Berlin,","Stiftung","Haus","der","Geschichte","der","Bundesrepublik","Deutschland,","Stiftung","Preußischer","Kulturbesitz","and","Wikimedia","Deutschland."]
        
      }
  
