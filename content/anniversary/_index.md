@@ -15,4 +15,4 @@ Zum 10-jährigen Jubiläum blicken wir in loser Folge darauf zurück, was wir in
 
 Alle Beiträge zum Jubiläumsjahr 2021 findet ihr hier.
 
-## 10 Jahre OKF in projekten
+## 10 Jahre OKF in Projekten
