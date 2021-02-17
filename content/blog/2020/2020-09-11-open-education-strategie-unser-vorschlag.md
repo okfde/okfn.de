@@ -9,6 +9,9 @@ image:
   license_url: https://creativecommons.org/licenses/by/4.0/
 type: post
 layout: post
+tags:
+- Open Education
+- Bildungspolitik
 card: true
 published: true
 featured: yellow
