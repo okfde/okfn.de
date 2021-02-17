@@ -37,9 +37,25 @@
       </aside>
       <div class="c__post__main l__content col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">{{ .Content }}</div>
     </div>
-
+    <div class="c__post__main l__content col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">
+      <h3>Alle Beiträge zum Jubiläumsjahr 2021</h3>
+    </div>
+    <div class="row col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">
+      {{ $nate := .Paginate (where .Site.AllPages "Section" "blog") }}
+      <ul class="l__blog__posts container mt-d">
+        {{ range $nate.Pages }}
+        {{ if eq .Kind "page"}}
+        {{ if in .Params.tags "Open Education" }}
+        {{- partial "post_item.html" . -}}
+        {{ end }}
+        {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+    <div class="c__post__main l__content col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">
+      <h3>10 Jahre OKF in Projekten</h3>
+    </div>
     <div class="row anniversary-projects col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">
-
       {{ $allProjects := where .Site.Pages ".Params.layout" "==" "project" }}
       {{ $allProjects := sort (where $allProjects ".Params.years" "!=" nil) ".Params.title" "asc" }}
       {{ $years := sort (seq 2011 2019) "value" "desc" }} {{/* 2020 has no projects */}}

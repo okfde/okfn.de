@@ -48,15 +48,7 @@
   </div>
   {{ end }}
 
-  <div id="js-blog-search-overlay" class="l__blog__search__results container">
-    <div class="row no-gutters">
-      <h2 class="l__blog__search__term col col-12">
-        {{ i18n "blog_search_label" }}: <span id="js-search-term">term</span>
-        <button id="js-blog-search-clear" title='{{ i18n "search_close"}}' class="l__blog__search__clear" type="button" tabindex>
-        {{ readFile "static/files/icons/close.svg" | safeHTML }}</button></h2>
-      <ul id="js-blog-search-results" class="col col-12"></ul>
-    </div>
-  </div>
+
 
   <div id="js-blog-index">
     {{ $nate := .Paginate (where .Site.AllPages "Section" "blog") }}
