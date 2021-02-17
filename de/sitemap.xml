@@ -3097,12 +3097,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/10yokf/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/tags/14-j%C3%A4hriger/</loc>
     <lastmod>2017-04-05T01:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4973,6 +4967,12 @@
   <url>
     <loc>https://okfn.de/authors/okfde/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/tags/okfde10/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
