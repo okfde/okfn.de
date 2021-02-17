@@ -14,7 +14,7 @@ tags:
 - zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: Die OKF wird heute 10 Jahre alt
 ---
