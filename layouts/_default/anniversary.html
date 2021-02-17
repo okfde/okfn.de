@@ -20,13 +20,27 @@
 {{ define "main" }}
 <div class="container align-items-end">
   <div class="row align-items-end">
+    <h1 class="col col-12">{{.Params.blurb}}</h1>
+    <h3 class="col col-12">{{.Params.subblurb}}</h3>
     <div class="col col-12 mt-d mb-0">
       <img style="width: 100%;" src="{{.Params.img_header}}" alt="">
     </div>
-    <h1 class="col col-12">{{.Params.blurb}}</h1>
+    <div class="row">
+      <aside class="c__post__meta col col-12 col-md-3 col-lg-2">
+        <h3>Fakten</h3>
+        <ul id="tags">
+          <li><strong>Gegründet</strong> 19.02.2011</li>
+          <li><strong>Mitarbeiter:innen 2011</strong> 0</li>
+          <li><strong>Gegründet 2021</strong> 28</li>
+        </ul>
+
+      </aside>
+      <div class="c__post__main l__content col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">{{ .Content }}</div>
+    </div>
   </div>
 
-  <div class="row anniversary-projects">
+  <div class="row anniversary-projects ">
+    <h2 class="col col-12">10 Jahre OKF in projekten</h2>
     {{ $allProjects := where .Site.Pages ".Params.layout" "==" "project" }}
     {{ $allProjects := sort (where $allProjects ".Params.years" "!=" nil) ".Params.title" "asc" }}
     {{ $years := sort (seq 2011 2019) "value" "desc" }} {{/* 2020 has no projects */}}
@@ -42,8 +56,7 @@
           {{ $count = (add $count 1) }}
         {{ end }}
       {{ end }}
-
-      <div class="col-6 col-md-4 anniversary-projects__item">
+      <div class="col-6 col-md-2 anniversary-projects__item">
         <h3>{{ $year }}</h3>
         <p class="my-2">
           {{ $count }}
@@ -164,26 +177,5 @@
     {{ end }}
   </div>
 </div>
-<aside class="container printer-hidden">
-  <div class="l__profile__aside row">
-    <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-      <div class="row c__additional no-gutters">
-        <div class="col-12 col-md-6">
-          <figure class="license">
-            <img src="/okf/verein/verein_intro_3.jpg" alt="">
-          </figure>
-        </div>
-        <div class="col-12 col-md-6">
-          <div class="c__additional__info">
-            <h3>{{ .Params.box_title }}</h3>
-            <p>
-              <a href='{{ with .Site.GetPage "/verein" }}{{.Permalink}}{{ end }}'>
-                {{ .Params.box_link_name }}</a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</aside>
+
 {{ end }}
