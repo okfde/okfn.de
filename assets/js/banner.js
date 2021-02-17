@@ -1,11 +1,15 @@
 const BANNER_ID = 'zehn';
+const TARGET_PAGE = 'anniversary';
 
 document.addEventListener('DOMContentLoaded', () => {
   const element = document.querySelector('aside.dropbanner');
 
-  const show = localStorage.getItem('hideDropbanner') !== BANNER_ID;
+  const onTarget = window.location.pathname.endsWith(`${TARGET_PAGE}/`);
+  const show = !onTarget && localStorage.getItem('hideDropbanner') !== BANNER_ID;
   if (show && element) {
     element.classList.remove('gone');
+  } else {
+    element.remove();
   }
 
   const hideBtn = document.querySelector('aside.dropbanner button');
