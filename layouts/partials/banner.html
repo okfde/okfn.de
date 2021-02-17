@@ -9,9 +9,9 @@
             class="d-none d-md-block">
         </div>
         <div class="col text">
-          <p>Die OKF wird zehn Jahre alt. Feiern Sie mit uns!</p>
+          <p>{{ i18n "anniversary_banner_headline" }}</p>
           <a href="#!" class="mt-2">
-            Mehr Informationen {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}
+            {{ i18n "learn_more" }} {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}
           </a>
         </div>
       </div>
@@ -19,6 +19,6 @@
   </div>
 
   <div class="close">
-    <button title="Schließen">&times;</button>
+    <button title="{{ i18n "close" }}">&times;</button>
   </div>
 </aside>

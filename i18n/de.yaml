@@ -72,8 +72,8 @@
   translation: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
 - id: phineo_link
   translation: "Mehr über Phineo"
-- id: mehr_erfahren
-  translation: "Want to know more?"
+- id: learn_more
+  translation: "Mehr erfahren"
 - id: blog_search_js
   translation: "Für die Blogsuche wird JavaScript benötigt."
 - id: blog_search_label
@@ -96,3 +96,11 @@
   translation: "Informationsfreiheit"
 - id: print
   translation: "Diese Seite drucken"
+- id: close
+  translation: Schließen
+- id: anniversary_banner_headline
+  translation: Die OKF wird zehn Jahre alt. Feiere mit uns!
+- id: anniversary_one_new_project
+  translation: neues Projekt
+- id: anniversary_multiple_new_projects
+  translation: neue Projekte

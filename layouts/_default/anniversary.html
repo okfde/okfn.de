@@ -43,7 +43,11 @@
     {{ end }}
 
     <h3>{{ $year }}</h3>
-    <p>{{ $count }} neue{{ if (eq $count 1) }}s{{ end }} Projekt{{ if (ne $count 1) }}e{{ end }}</p>
+    <p>
+      {{ $count }}
+      {{ if (eq $count 1) }}{{ i18n "anniversary_one_new_project" }}
+      {{ else }}{{ i18n "anniversary_multiple_new_projects" }}{{ end }}
+    </p>
 
     <ul>
     {{ range $project := $projects }}  

@@ -70,6 +70,8 @@
   translation: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod"
 - id: phineo_link
   translation: "More about Phineo"
+- id: learn_more
+  translation: Learn more
 - id: blog_search_js
   translation: "JavaScript is required for searching the blog."
 - id: blog_search_label
@@ -92,3 +94,11 @@
   translation: "Freedom of Information"
 - id: print
   translation: "Print this page"
+- id: close
+  translation: Close
+- id: anniversary_banner_headline
+  translation: We're celebrating our tenth anniversary.
+- id: anniversary_one_new_project
+  translation: new project
+- id: anniversary_multiple_new_projects
+  translation: new projects
