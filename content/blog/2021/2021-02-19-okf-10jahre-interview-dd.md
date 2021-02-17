@@ -29,8 +29,8 @@ In Deutschland wurden 2009 zunächst das Gov2.0 Netzwerk und das Open Data Netwo
 
 Nachdem wir also unsere Themen durch einige Pilotprojekte und viel Lobby und Advocacy auf die politische Agenda gebracht hatten, suchten einige von uns dann 2010 nach einer besseren Struktur, um die Wirkung unserer Arbeit zu verstetigen. Die Open Knowledge Foundation in Großbritannien diente uns als Inspiration für eine gesamtgesellschaftliche Vision: Offenes Wissen für die Offene Gesellschaft - mit einer bürgerzentrierten und nutzungsorientierten Perspektive. 
 
-Gruppenbild: Daniel Dietrich (2. von links), die langjährigen Vorstandsmitglieder Lucy Chambers (4. von links) und Friedrich Lindenberg (ganz rechts), OK International Gründer Rufus Pollock (weißes Hemd) und weitere Aktivist:innen der ersten Stunde bei der Open Knowledge Konferenz 2011 in Berlin.
-![Staatssekretär Rickerts](/files/blog/2021/01/interview-daniel-collage.JPG "Rickerts")
+*Gruppenbild: Daniel Dietrich (2. von links), die langjährigen Vorstandsmitglieder Lucy Chambers (4. von links) und Friedrich Lindenberg (ganz rechts), OK International Gründer Rufus Pollock (weißes Hemd) und weitere Aktivist:innen der ersten Stunde bei der Open Knowledge Konferenz 2011 in Berlin.*
+![interview-daniel-collage](/files/blog/2021/01/interview-daniel-collage.JPG)
 
 **Wie lief das erste Jahr in der OKF?** 
 
