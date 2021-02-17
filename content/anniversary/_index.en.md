@@ -1,5 +1,5 @@
 ---
-title: Profile
+title: 10 Years OKFde
 blurb: What we do in short
 layout: anniversary
 meta: What we do
