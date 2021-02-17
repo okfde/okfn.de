@@ -3,7 +3,7 @@ authors:
 - Henriette Litta, Daniel Dietrich
 date: 2021-02-19
 image:
-  src: /files/blog/2020/02/prototypefund.png
+  src: /files/blog/2021/01/happybirthday1.jpg
   title:
   license:
   license_url:
