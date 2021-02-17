@@ -37,26 +37,25 @@
       </aside>
       <div class="c__post__main l__content col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">{{ .Content }}</div>
     </div>
-  </div>
 
-  <div class="row anniversary-projects ">
-    <h2 class="col col-12">10 Jahre OKF in projekten</h2>
-    {{ $allProjects := where .Site.Pages ".Params.layout" "==" "project" }}
-    {{ $allProjects := sort (where $allProjects ".Params.years" "!=" nil) ".Params.title" "asc" }}
-    {{ $years := sort (seq 2011 2019) "value" "desc" }} {{/* 2020 has no projects */}}
-    
-    {{ range $year := $years }}
+    <div class="row anniversary-projects col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">
+
+      {{ $allProjects := where .Site.Pages ".Params.layout" "==" "project" }}
+      {{ $allProjects := sort (where $allProjects ".Params.years" "!=" nil) ".Params.title" "asc" }}
+      {{ $years := sort (seq 2011 2019) "value" "desc" }} {{/* 2020 has no projects */}}
+
+      {{ range $year := $years }}
       {{ $projects := slice }}
       {{ $count := 0 }}
 
       {{ range $project := $allProjects }}
-        {{ $startyear := int (index (findRE "(\\d{4})" $project.Params.years) 0) }}
-        {{ if (eq $startyear $year) }}
-          {{ $projects = $projects | append $project }}
-          {{ $count = (add $count 1) }}
-        {{ end }}
+      {{ $startyear := int (index (findRE "(\\d{4})" $project.Params.years) 0) }}
+      {{ if (eq $startyear $year) }}
+      {{ $projects = $projects | append $project }}
+      {{ $count = (add $count 1) }}
       {{ end }}
-      <div class="col-6 col-md-2 anniversary-projects__item">
+      {{ end }}
+      <div class="col-12 col-sm-5 col-md-4 col-lg-3 anniversary-projects__item">
         <h3>{{ $year }}</h3>
         <p class="my-2">
           {{ $count }}
@@ -65,13 +64,16 @@
         </p>
 
         <ul>
-        {{ range $project := $projects }}  
+          {{ range $project := $projects }}
           <li><a href="{{ $project.Permalink }}">{{ $project.Title }}</a></li>
-        {{ end }}
+          {{ end }}
         </ul>
       </div>
-    {{ end }}
+      {{ end }}
+    </div>
   </div>
+
+
 
   <div class="l__profile">
     {{ range (.Paginator 10).Pages }}
