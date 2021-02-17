@@ -10,6 +10,16 @@
   <id>https://okfn.de</id>
   
   <entry>
+    <title>Die OKF wird 10 Jahre alt</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/"/>
+    <id>https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/</id>
+    <published>2021-02-17T00:00:00+0000</published>
+    <updated>2021-02-17T00:00:00+0000</updated>
+    <summary>Am 19. Februar 2011 wurde die “Open Knowledge Foundation Deutschland” in das Berliner Vereinsregister eingetragen. 10 Jahre ist das her. Unseren ersten runden Geburtstag wollen wir nutzen, um in diesem Jahr auf unsere Arbeit zurückzublicken, mit früheren und aktuellen Wegbegleiter:innen zu sprechen und auch nach vorne zu schauen, was zukünftig wichtig sein wird. Und feiern wollen wir auch. Ein bißchen. Im Sommer.
+Daniel Dietrich ist Mit-Gründer der OKF Deutschland und seit Tag 1 im Vorstand der Organisation aktiv.</summary>
+  </entry>
+  
+  <entry>
     <title>Konsultation zur bundesweiten OER-Strategie gestartet</title>
     <link rel="alternate" href="https://okfn.de/blog/2021/02/oer-strategie-konsultation-gestartet/"/>
     <id>https://okfn.de/blog/2021/02/oer-strategie-konsultation-gestartet/</id>
@@ -144,16 +154,6 @@ Am 8. Oktober werden die Ergebnisse des bisher einmaligen Arbeitsprozesses - in 
     <published>2020-09-17T00:00:00+0000</published>
     <updated>2020-09-17T00:00:00+0000</updated>
     <summary>Es geht voran mit Open Government in Deutschland. Die Umsetzung der Ziele der Open Government Partnership ist auf dem Weg, aber es bleibt noch viel zu tun. Nur vorsichtige Schritte in der Jugendbeteiligung, ein Open Data Gesetz mit Reformbedarf, eine Beteiligungsplattform für Gesetze, deren Umsetzung nicht absehbar ist, und das Fehlen eines ambitionierten Leuchtturmprojektes: Diese und weitere Punkte kritisieren wir als OKF DE im Rahmen des Konsultationsverfahrens zum Zwischenbericht der Bundesregierung zur Umsetzung des Zweiten Nationalen OGP-Aktionsplans.</summary>
-  </entry>
-  
-  <entry>
-    <title>DigitalPakt Schule: mehr Open Education &amp; Beteiligung der Zivilgesellschaft</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/09/digitalpakt-open-education-zivilgesellschaft-beteiligen/"/>
-    <id>https://okfn.de/blog/2020/09/digitalpakt-open-education-zivilgesellschaft-beteiligen/</id>
-    <published>2020-09-15T00:00:00+0000</published>
-    <updated>2020-09-15T00:00:00+0000</updated>
-    <summary>In seiner 59. Sitzung hat der Ausschuss Digitale Agenda über aktuelle Entwicklungen in der digitalen Schulbildung in Zeiten der Corona-Pandemie diskutiert. &amp;ldquo;Fast sieben Milliarden Euro seien für die Digitalisierung im Bildungssektor von Seiten des Bundes zur Verfügung gestellt worden,&amp;rdquo; so ein Sprecher des BMBF im Ausschuss. Am kommenden Mittwoch tagt der Ausschuss erneut, um Vertretern und Vertreterinnen der Kultusministerkonferenz (KMK) die Teilnahme zu ermöglichen.
-Neben dem Aufbau notwendiger Infrastrukturen ist die Etablierung und Stärkung von Open Education - offenen Bildungsmaterialien, -initiativen und Technologien - eine wichtige Aufgabe.</summary>
   </entry>
   
 </feed>

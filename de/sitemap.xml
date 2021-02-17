@@ -269,6 +269,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2021/02/oer-strategie-konsultation-gestartet/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url>
@@ -3333,7 +3338,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4204,6 +4209,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/authors/henriette-litta-daniel-dietrich/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/authors/henriette-litta-leonard-wolf/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4732,7 +4743,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4950,6 +4961,12 @@
   <url>
     <loc>https://okfn.de/tags/okf-de/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/tags/okfde/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5181,7 +5198,7 @@
   
   <url>
     <loc>https://okfn.de/tags/opendata/</loc>
-    <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5194,6 +5211,12 @@
   <url>
     <loc>https://okfn.de/tags/openglam/</loc>
     <lastmod>2017-05-17T09:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/tags/openknowledge/</loc>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6113,7 +6136,7 @@
   
   <url>
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
-    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

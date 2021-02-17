@@ -6,10 +6,20 @@
     <description>Recent content in Opendata on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://okfn.de/tags/opendata/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Die OKF wird 10 Jahre alt</title>
+      <link>https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/</guid>
+      <description>Am 19. Februar 2011 wurde die “Open Knowledge Foundation Deutschland” in das Berliner Vereinsregister eingetragen. 10 Jahre ist das her. Unseren ersten runden Geburtstag wollen wir nutzen, um in diesem Jahr auf unsere Arbeit zurückzublicken, mit früheren und aktuellen Wegbegleiter:innen zu sprechen und auch nach vorne zu schauen, was zukünftig wichtig sein wird. Und feiern wollen wir auch. Ein bißchen. Im Sommer.
+Daniel Dietrich ist Mit-Gründer der OKF Deutschland und seit Tag 1 im Vorstand der Organisation aktiv.</description>
+    </item>
     
     <item>
       <title>PSI public sector information</title>
