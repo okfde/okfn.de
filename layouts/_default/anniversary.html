@@ -26,23 +26,30 @@
     <h1 class="col col-12">{{.Params.blurb}}</h1>
   </div>
 
-  {{ $projects := where .Site.Pages ".Params.layout" "==" "project" }}
-  {{ $projects := sort (where $projects ".Params.years" "!=" nil) ".Params.title" "asc" }}
+  {{ $allProjects := where .Site.Pages ".Params.layout" "==" "project" }}
+  {{ $allProjects := sort (where $allProjects ".Params.years" "!=" nil) ".Params.title" "asc" }}
   {{ $years := sort (seq 2011 2019) "value" "desc" }} {{/* 2020 has no projects */}}
+  
   {{ range $year := $years }}
+    {{ $projects := slice }}
+    {{ $count := 0 }}
+
+    {{ range $project := $allProjects }}
+      {{ $startyear := int (index (findRE "(\\d{4})" $project.Params.years) 0) }}
+      {{ if (eq $startyear $year) }}
+        {{ $projects = $projects | append $project }}
+        {{ $count = (add $count 1) }}
+      {{ end }}
+    {{ end }}
+
     <h3>{{ $year }}</h3>
+    <p>{{ $count }} neue{{ if (eq $count 1) }}s{{ end }} Projekt{{ if (ne $count 1) }}e{{ end }}</p>
 
     <ul>
-    {{ range $project := $projects }}
-      {{ $startyear := int (index (findRE "(\\d{4})" $project.Params.years) 0) }}
-
-      {{ if (eq $startyear $year) }}
-        <li>
-          <a href="{{ $project.Permalink }}">{{ $project.Title }} </a>
-        </li>
-      {{ end }}
-    </ul>
+    {{ range $project := $projects }}  
+      <li><a href="{{ $project.Permalink }}">{{ $project.Title }}</a></li>
     {{ end }}
+    </ul>
   {{ end }}
 
   <div class="l__profile">
