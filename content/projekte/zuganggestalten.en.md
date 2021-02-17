@@ -3,7 +3,7 @@ type: archive
 title: Zugang gestalten
 website: http://www.zugang-gestalten.de/
 img: projects/zuganggestalten.jpg
-date: 2014
+years: 2014
 financing:
   - Donations
 layout: project

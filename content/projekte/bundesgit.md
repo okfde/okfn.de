@@ -12,6 +12,7 @@ layout: project
 people:
 - name: Stefan Wehrmeyer
   role: Projektleitung
+years: 2012
 contact:
   github: https://github.com/bundestag/gesetze
   mailingliste: bundesgit@lists.okfn.org

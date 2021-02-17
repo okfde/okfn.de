@@ -17,7 +17,7 @@ contact:
   twitter: dariahde
 video: "https://www.youtube.com/embed/AWa661KfQG0Y"
 contact_person: markusneuschaefer
-
+years: 2011
 more_text: |-
   Weiterführende Informationen zu Dariah findest du auf https://de.dariah.eu
 ---

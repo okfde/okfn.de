@@ -7,6 +7,7 @@ kategorien:
 categories:
   - Open Government
 tile: single
+years: 2012
 website: https://oparl.org
 img: projects/OParl_Projektuebersicht_smallTile.png
 layout: project

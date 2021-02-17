@@ -18,7 +18,7 @@ contact:
 video: "https://www.youtube.com/embed/AWa661KfQG0Y"
 
 contact_person: markusneuschaefer
-
+years: 2011
 more_text: |-
   Further information can be found on the <a href="https://de.dariah.eu">website</a> of Dariah.
 ---

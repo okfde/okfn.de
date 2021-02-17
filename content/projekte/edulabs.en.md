@@ -23,7 +23,7 @@ contact:
 
 subtitle: Open education with digitally supported methods
 contact_person: markusneuschaefer
-years: 2015 - 2018
+years: 2017 - 2018
 partners:
  - Mediale Pfade
 financing:
