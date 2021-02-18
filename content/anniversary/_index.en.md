@@ -1,15 +1,14 @@
 ---
 title: 10 Years OKF DE
-blurb: What we do in short
-subblurb: Die Open Knowledge Foundation Deutschland hat in diesem Jahr 10. Geburtstag - das wollen wir feiern!
+blurb: 10 Years OKF DE
+subblurb: The Open Knowledge Foundation Germany has its 10th birthday this year - we want to celebrate!
 layout: anniversary
 meta: 10 Years OKF DE
 img_header: /okf/DarkBannerWarm.jpg
 ---
 
-Seit dem 19. Februar 2011 setzen wir uns für offenes Wissen sowie digitale Mündigkeit und den ethischen Umgang mit Technologie ein, zeigen deren demokratisches Potenzial und bringen Menschen zusammen. An diesem Tag wurde der Open Knowledge Foundation Deutschland e.V. in Berlin gegründet.
+Since February 19, 2011, we have been advocating open knowledge as well as digital literacy and the ethical use of technology, demonstrating its democratic potential and bringing people together. On this day, the Open Knowledge Foundation Deutschland e.V. was founded in Berlin.
 
-Seitdem haben wir 56 Projekte umgesetzt, (circa) 4700 Flaschen Mate getrunken und 55797 Commits in unserem GitHub-Repository gemacht. Es wurden OK Labs in 26 Städten gegründet und unsere Community ist auf sagenhafte 1387 Mitglieder angewachsen. 
+Since then, we have implemented 56 projects, drunk (circa) 4700 bottles of mate, and made 55797 commits to our GitHub repository. OK Labs have been founded in 26 cities and our community has grown to a staggering 1387 members. 
 
-Zum 10-jährigen Jubiläum blicken wir in loser Folge darauf zurück, was wir in den letzten Jahren erreicht haben. Wir sprechen mit Mitstreiter:innen der ersten Stunde, Wegbegleiter:innen, Freund:innen und Förder:innen und nehmen euch in Interviews, mit Blogposts und Videos mit in die ersten zehn Jahre OKF in Deutschland.
-
+To celebrate our 10th anniversary, we're taking a look back at what we've accomplished over the past few years. We talk to our early supporters, companions, friends and sponsors and take you on a journey through the first ten years of OKF in Germany in interviews, blogposts and videos.
