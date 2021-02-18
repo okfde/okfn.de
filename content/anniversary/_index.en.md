@@ -1,7 +1,7 @@
 ---
 title: 10 Years OKF DE
 blurb: 10 Years OKF DE
-subblurb: The Open Knowledge Foundation Germany has its 10th birthday this year - we want to celebrate!
+subblurb: The Open Knowledge Foundation Germany has its 10th birthday this year – we want to celebrate!
 layout: anniversary
 meta: 10 Years OKF DE
 img_header: /okf/DarkBannerWarm.jpg
