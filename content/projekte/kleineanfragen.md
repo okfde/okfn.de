@@ -14,7 +14,7 @@ people:
 - name: Maximilian Richt
   role: Projektleitung
 contact_person: maximilianricht
-years: 2011 - heute
+years: 2015 - heute
 financing:
   - ehrenamtliches Projekt
 website: https://kleineanfragen.de
