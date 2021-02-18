@@ -5,7 +5,7 @@ subtitle: The Extractive Industries Transparency Initiative
 img: projects/deiti-logo.png
 layout: project
 website: https://www.d-eiti.de
-
+years: 2014
 people:
   - name: Walter Palmetshofer
     role: Projektleitung
