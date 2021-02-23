@@ -6,6 +6,7 @@ background: backgrounds/jugendhackt.jpg
 website: https://2030-watch.de
 img: projects/2030_Projektuebersicht_smallTile.png
 people:
+years: 2017
 contact:
   github: https://github.com/okfde/2030-watch.de
 

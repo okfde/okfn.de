@@ -4,6 +4,7 @@ layout: project
 title: 2030Watch
 background: backgrounds/jugendhackt.jpg
 website: https://2030-watch.de
+years: 2017
 img: projects/2030_Projektuebersicht_smallTile.png
 contact_person: saadyawindauer
 partners:
