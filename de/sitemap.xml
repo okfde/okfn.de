@@ -4003,6 +4003,20 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/projekte/forumopenedu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/forumopenedu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/forumopenedu/"
+                />
+  </url>
+  
+  <url>
     <loc>https://okfn.de/tags/fotos/</loc>
     <lastmod>2012-11-26T10:13:56+00:00</lastmod>
     <priority>0</priority>

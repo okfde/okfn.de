@@ -480,6 +480,20 @@
  
    ,
      {
+       "url": "https://okfn.de/en/projekte/forumopenedu/",
+       "title": "Forum Open Education",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/foe_Projektuebersicht_bigTile.jpg",
+       
+       
+       "content": ["Mit","dem","\u0026ldquo;Forum","Open:Education\u0026rdquo;","fördern","die","OKF","DE","und","Wikimedia","DE","den","Austausch","zwischen","Zivilgesellschaft,","Bildungspraxis","und","politischen","Entscheidungsgremien","und","die","Debatte","um","offenes","Lehren","und","Lernen."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/en/projekte/frankfurtgestalten/",
        "title": "Frankfurt gestalten",
        "section": "projekte",
