@@ -4,7 +4,7 @@ title: Politik Bei Uns
 website: https://politik-bei-uns.de
 img: projects/politikbeiuns.jpg
 layout: project
-years: 2016-heute
+years: 2015-heute
 contact_person: ernestoruge
 people:
 - name: Ernesto Ruge

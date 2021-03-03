@@ -23,7 +23,7 @@ contact:
 
 subtitle: Open education with digitally supported methods
 contact_person: maximilianvoigt
-years: 2017 - 2018
+years: 2017 - now
 partners:
  - Mediale Pfade
 financing:
