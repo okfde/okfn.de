@@ -45,20 +45,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/projekte/turing-bus/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/turing-bus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/turing-bus/"
-                />
-  </url>
-  
-  <url>
     <loc>https://okfn.de/profil/potential/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5882,6 +5868,20 @@
     <loc>https://okfn.de/tags/turing-bus/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/projekte/turing-bus/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/turing-bus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/turing-bus/"
+                />
   </url>
   
   <url>

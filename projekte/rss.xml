@@ -21,16 +21,6 @@ Das Netzwerk ist ein Zusammenschluss von zivilgesellschaftlichen Organisationen 
     </item>
     
     <item>
-      <title>Turing-Bus</title>
-      <link>https://okfn.de/projekte/turing-bus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/projekte/turing-bus/</guid>
-      <description>Der Turing-Bus ist ein mobiles Bildungsangebot für Schulen und Jugendclubs im ländlichen Raum. Der Bus bringt Vertreter von Fablabs, OK-Labs und Hackspaces sowie Experten in digitalen Themengebieten an oft Angebots-unterversorgte Orte der Jugendbildung, um durch Workshops, Diskussionsformaten, Screenings und mehr einen Wissensaustausch zu generieren. Das Projekt wird im Wissenschaftsjahr des BMBF gefördert.
-Der Bus möchte die Rolle von Digitalisierung und Technologie für Beruf und Gesellschaft mit Workshops, Vorträgen und Hands-on-Sessions ergründen, diskutieren und kritisch hinterfragen.</description>
-    </item>
-    
-    <item>
       <title>Code for Germany</title>
       <link>https://okfn.de/projekte/codeforde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -361,6 +351,16 @@ Beispiele für solche Anwendungen sind etwa: fixmystreet.com oder Every Block. D
       
       <guid>https://okfn.de/projekte/transparenzranking/</guid>
       <description>Gemäß Artikel 5 Grundgesetz hat jede Person das Recht, sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Das hört sich erst einmal vielversprechend an. Doch lange Zeit mangelte es an allgemein zugänglichen Quellen. Erst um die Jahrtausendwende wagten viele deutsche Bundesländer einen großen Schritt: Informationsfreiheit war das Gebot der Stunde. Durch Informationsfreiheitsgesetze verpflichteten in Berlin und Brandenburg die ersten Landtage kommunale Verwaltungen und Landesbehörden zur Abkehr vom bislang geltenden Amtsgeheimnis.</description>
+    </item>
+    
+    <item>
+      <title>Turing-Bus</title>
+      <link>https://okfn.de/projekte/turing-bus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/turing-bus/</guid>
+      <description>Der Turing-Bus ist ein mobiles Bildungsangebot für Schulen und Jugendclubs im ländlichen Raum. Der Bus bringt Vertreter von Fablabs, OK-Labs und Hackspaces sowie Experten in digitalen Themengebieten an oft Angebots-unterversorgte Orte der Jugendbildung, um durch Workshops, Diskussionsformaten, Screenings und mehr einen Wissensaustausch zu generieren. Das Projekt wird im Wissenschaftsjahr des BMBF gefördert.
+Der Bus möchte die Rolle von Digitalisierung und Technologie für Beruf und Gesellschaft mit Workshops, Vorträgen und Hands-on-Sessions ergründen, diskutieren und kritisch hinterfragen.</description>
     </item>
     
     <item>
