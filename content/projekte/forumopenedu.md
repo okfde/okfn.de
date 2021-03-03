@@ -18,7 +18,7 @@ contact:
 
 subtitle: Offene Bildung für eine digitale Gesellschaft
 contact_person: maximilianvoigt
-years: 2018 - jetzt
+years: 2018 - heute
 partners:
  - Wikimedia DE
 financing:

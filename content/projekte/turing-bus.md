@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Turing-Bus
 subtitle: Mobiles Bildungsprojekt im ländlichen Raum
 kategorien:
@@ -8,7 +8,6 @@ categories:
   - Education
 tile: single
 layout: project
-weight: 1
 img: projects/TuringBus_Projektuebersicht_smallTile.jpg
 img_header: projects/TuringBus_Header.jpg
 website: https://turing-bus.de
@@ -16,7 +15,7 @@ partner:
   - Gesellschaft für Informatik e.V.
 financing:
   - BMBF
-years: 2018 - heute
+years: 2018 - 2019
 people:
   - name: Bela Seeger
     role: Projektleitung

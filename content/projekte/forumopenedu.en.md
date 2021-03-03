@@ -16,9 +16,9 @@ contact:
   twitter:
   mail: maximilian.voigt@okfn.de
 
-subtitle: Offene Bildung für eine digitale Gesellschaft
+subtitle: Open education for a digital society
 contact_person: maximilianvoigt
-years: 2018
+years: 2018 - today
 partners:
  - Wikimedia DE
 financing:
@@ -28,4 +28,4 @@ more_text: |-
     
 
 ---
-Mit dem "Forum Open:Education" fördern die OKF DE und Wikimedia DE den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien und die Debatte um offenes Lehren und Lernen.
+With the "Forum Open:Education", OKF DE and Wikimedia DE promote the exchange between civil society, educational practice and political decision-making bodies. The goal is to align educational policy development issues with the practical experience of civil society initiatives and to make education more equitable, open and participatory.

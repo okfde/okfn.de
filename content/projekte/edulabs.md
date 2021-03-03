@@ -2,7 +2,8 @@
 type: education
 kategorien:
   - Bildung
-  - Community
+categories:
+  - Education
 title: edulabs
 tile: double
 layout: project
@@ -22,7 +23,7 @@ contact:
 
 subtitle: Offene Bildung mit digital gestützten Methoden
 contact_person: maximilianvoigt
-years: 2017 - jetzt
+years: 2017 - heute
 partners:
  - Mediale Pfade
 financing:

@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Turing-Bus
 subtitle: Mobile education project in rural areas
 kategorien:
