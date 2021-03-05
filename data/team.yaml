@@ -49,13 +49,25 @@
   mail: julia.reda@okfn.de
   twitter: Senficon
   website:
+  
+  - name: Hannah Vos
+  img: hannahvos
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Volljuristin FragDenStaat
+  position_en: lawyer FragDenStaat
+  bio: "Hannah ist seit März 2021 bei der Open Knowledge Foundation angestellt und Teil des Legal-Teams von FragDenStaat."
+  bio_en: "Hannah is with the OKF since March 2021 and part of FragDenStaat's legal team."
+  mail: hannah.vos@okfn.de
+  twitter: 
+  website:
 
 - name: Gregor Weichbrodt
   img: gregorweichbrodt
   staff: 0
   board: 0
   advisory: 0
-  board_alumni: 1
   position: Development & Design FragDenStaat
   position_en: development & design FragDenStaat
   bio: "Gregor arbeitet als Designer und Frontend-Entwickler für FragDenStaat seit Januar 2020. In seiner Freizeit beschäftigt er sich mit digitaler Literatur und generativer Kunst."
