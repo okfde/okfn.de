@@ -25,6 +25,7 @@ people:
     role: Campaignerin
   - name: Layla Ansari
   - name: Max Kronmüller
+  - name: Hannah Vos
 contact_person: arnesemsrott
 years: 2011 - heute
 financing:
