@@ -830,13 +830,14 @@
 - name: Leonard Wolf
   title:
   img: leonardwolf
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Studentischer Mitarbeiter Jugend hackt
   position_en: Student assistant  Jugend hackt
-  bio: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Nach seinem Schulabschluss im Juli 2016 begann er seinen Bundesfreiwilligendienst bei der Open Knowledge Foundation. Von September 2017 bis April 2019 war Leonard als studentischer Mitarbeiter bei den Demokratielaboren. Seit Mai ist er nun wieder bei Jugend hackt. Außerdem unterstützt er ehrenamtlich den Volksentscheid Transparenz. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
-  bio_en: "Leonard Wolf already supported the team of Jugend hackt as an intern and photographer during the planning and realization of the Berlin event in 2015. After graduating from school in July 2016, he began his Bundesfreiwilligendienst at the Open Knowledge Foundation and worked for Frag Den Staat and Jugend hackt. Since May 2019, Leonard has been working as a student assistant in the Projekt Jugend hackt. His personal interest lies in photography and communication sciences."
+  bio: "Leonard Wolf unterstützte 2015 bereits als Praktikant und Fotograf das Team von „Jugend hackt“ bei der Planung und Durchführung des Berliner Events. Nach seinem Schulabschluss im Juli 2016 begann er seinen Bundesfreiwilligendienst bei der Open Knowledge Foundation und arbeitete für Frag den Staat und Jugend hackt. Von September 2017 bis April 2019 war Leonard als studentischer Mitarbeiter bei den Demokratielaboren. Bis 2021 unterstützte er wieder Jugend hackt. Außerdem unterstützte er ehrenamtlich den Volksentscheid Transparenz. Sein persönliches Interesse liegt in der Fotografie, weshalb er auch regelmäßig als Veranstaltungsfotograf unterwegs ist."
+  bio_en: "Leonard Wolf already supported the team of Jugend hackt as an intern and photographer during the planning and realization of the Berlin event in 2015. After graduating from school in July 2016, he began his Bundesfreiwilligendienst at the Open Knowledge Foundation and worked for Frag Den Staat. Since May 2019, Leonard has been working as a student assistant in the Projekt Jugend hackt. His personal interest lies in photography and communication sciences."
   mail: "leonard.wolf@okfn.de"
   twitter: woleonard
   website:
