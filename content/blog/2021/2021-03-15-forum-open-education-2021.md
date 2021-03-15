@@ -17,7 +17,7 @@ featured: yellow
 title: "Forum Open Education: Bildungspolitik auf Augenhöhe"
 ---
 
-Mit dem vierten [Forum Open Education](https://education.forum-open.de/) lädt das [Bündnis Freie Bildung](https://buendnis-freie-bildung.de/) auch 2021 wieder engagierte Bildungsenthusiat*innen und politischen Entscheidungstragende ein, zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Ziel ist es, die Zusammenarbeit und den Austausch zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Gemeinsam werden Einschätzungen, Strategien und konkrete Handlungsempfehlungen für gerechte, offene und nachhaltige Bildung erarbeitet.
+Mit dem vierten [Forum Open Education](https://education.forum-open.de/) lädt das [Bündnis Freie Bildung](https://buendnis-freie-bildung.de/) auch 2021 wieder engagierte Bildungsenthusiast*innen und politischen Entscheidungstragende ein, zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Ziel ist es, die Zusammenarbeit und den Austausch zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Gemeinsam werden Einschätzungen, Strategien und konkrete Handlungsempfehlungen für gerechte, offene und nachhaltige Bildung erarbeitet.
 
 Das Forum fungiert als Ideengeber und Korrektiv und lebt den politischen Austausch auf Augenhöhe. Bildung ist ein Querschnittsthema und ist dadurch besonders auf den transdisziplinären Diskurs angewiesen. Dieser findet beim Forum Open Education parteiübergreifend statt.
 
