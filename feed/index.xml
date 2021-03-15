@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forum Open Education: Bildungspolitik auf Augenhöhe</title>
+      <link>https://okfn.de/blog/2021/03/forum-open-education-2021/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/03/forum-open-education-2021/</guid>
+      <description>Mit dem vierten Forum Open Education lädt das Bündnis Freie Bildung auch 2021 wieder engagierte Bildungsenthusiat*innen und politischen Entscheidungstragende ein, zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Ziel ist es, die Zusammenarbeit und den Austausch zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Gemeinsam werden Einschätzungen, Strategien und konkrete Handlungsempfehlungen für gerechte, offene und nachhaltige Bildung erarbeitet.
+Das Forum fungiert als Ideengeber und Korrektiv und lebt den politischen Austausch auf Augenhöhe.</description>
+    </item>
     
     <item>
       <title>Die OKF wird 10 Jahre alt</title>

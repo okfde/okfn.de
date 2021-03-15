@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-02-17T00:00:00+0000</updated>
+  <updated>2021-03-15T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Forum Open Education: Bildungspolitik auf Augenhöhe</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/03/forum-open-education-2021/"/>
+    <id>https://okfn.de/blog/2021/03/forum-open-education-2021/</id>
+    <published>2021-03-15T00:00:00+0000</published>
+    <updated>2021-03-15T00:00:00+0000</updated>
+    <summary>Mit dem vierten Forum Open Education lädt das Bündnis Freie Bildung auch 2021 wieder engagierte Bildungsenthusiat*innen und politischen Entscheidungstragende ein, zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Ziel ist es, die Zusammenarbeit und den Austausch zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Gemeinsam werden Einschätzungen, Strategien und konkrete Handlungsempfehlungen für gerechte, offene und nachhaltige Bildung erarbeitet.
+Das Forum fungiert als Ideengeber und Korrektiv und lebt den politischen Austausch auf Augenhöhe.</summary>
+  </entry>
   
   <entry>
     <title>Die OKF wird 10 Jahre alt</title>
@@ -145,15 +155,6 @@ Ziel des Hackdays war es, innerhalb von 24 Stunden mit offenen Daten aus dem Ene
     <updated>2020-10-06T00:00:00+0000</updated>
     <summary>Wie lässt sich Bildung inklusiv, gerecht und offen gestalten, lautet die Frage beim Forum Open Education 2020 - #FOE20. Bereits das dritte Jahr in Folge laden das Bündnis Freie Bildung, die Open Knowledge Foundation Deutschland und Wikimedia Deutschland zum Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien.
 Am 8. Oktober werden die Ergebnisse des bisher einmaligen Arbeitsprozesses - in dem Bundespolitik und Zivilgesellschaft auf Augenhöhe korrespondieren - in einer digitalen Abschlussveranstaltung präsentiert und von den Bildungspolitiker*innen Marja-Liisa Völlers, Margit Stumpp, Dr.</summary>
-  </entry>
-  
-  <entry>
-    <title>Open Government in Deutschland: Es gibt Fortschritte, aber große Ambitionen fehlen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/09/ogp-nap2-zwischenbericht-stellungnahme/"/>
-    <id>https://okfn.de/blog/2020/09/ogp-nap2-zwischenbericht-stellungnahme/</id>
-    <published>2020-09-17T00:00:00+0000</published>
-    <updated>2020-09-17T00:00:00+0000</updated>
-    <summary>Es geht voran mit Open Government in Deutschland. Die Umsetzung der Ziele der Open Government Partnership ist auf dem Weg, aber es bleibt noch viel zu tun. Nur vorsichtige Schritte in der Jugendbeteiligung, ein Open Data Gesetz mit Reformbedarf, eine Beteiligungsplattform für Gesetze, deren Umsetzung nicht absehbar ist, und das Fehlen eines ambitionierten Leuchtturmprojektes: Diese und weitere Punkte kritisieren wir als OKF DE im Rahmen des Konsultationsverfahrens zum Zwischenbericht der Bundesregierung zur Umsetzung des Zweiten Nationalen OGP-Aktionsplans.</summary>
   </entry>
   
 </feed>
