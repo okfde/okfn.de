@@ -21,7 +21,7 @@ Die sechs Landtags- bzw. Abgeordnetenhauswahlen sowie die Bundestagswahl am 26. 
 
 Deshalb haben wir uns mit unseren Forderungen für eine offene, inklusive und gerechte Gesellschaft an Mitglieder aller demokratischen Parteien gewandt. Wir stehen ein für eine starke Demokratie, in der sich staatliches und gesellschaftliches Handeln am Gemeinwohl orientieren. Digitale Technologien können uns dabei helfen. Aber dafür müssen wir sie aktiv gestalten. Wie wir uns das vorstellen, könnt ihr im Folgenden in unseren Forderungen für eine starke Zivilgesellschaft, eine nachhaltige digitale Infrastruktur, einen transparenten Staat und Offene Bildung nachvollziehen.
 
-Hier findet ihr auch das [vollständige Dokument](/files/blog/2021/03/210311_OKF_digitalpolForderungen.pdf) und unsere [Ideen zur Gestaltung Offener Bildung](/files/blog/2021/03/210311_OKF_Extrablatt%20Bildung.pdf), die wir zusätzlich als Gesprächsangebot an die Bildungsausschüsse der Länder, in denen gewählt wird, versendet haben.
+Hier findet ihr auch das [vollständige Dokument](raw/files/blog/2021/03/210311_OKF_digitalpolForderungen.pdf) und unsere [Ideen zur Gestaltung Offener Bildung](/files/blog/2021/03/210311_OKF_Extrablatt%20Bildung.pdf), die wir zusätzlich als Gesprächsangebot an die Bildungsausschüsse der Länder, in denen gewählt wird, versendet haben.
 
 Helft mit, diese Forderungen weiter zu verbreiten und zu ergänzen!
 
