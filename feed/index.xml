@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forderungen für eine gemeinwohlorientierte, demokratische Digitalpolitik</title>
+      <link>https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/</guid>
+      <description>Die sechs Landtags- bzw. Abgeordnetenhauswahlen sowie die Bundestagswahl am 26. September geben dieses Jahr viele Anlässe, die Themen der OKF zu diskutieren und - wie wir aktuell besonders erleben - viel Nachholbedarf bei Open Government und Co. auf Seiten von Staat und Verwaltungen.
+Deshalb haben wir uns mit unseren Forderungen für eine offene, inklusive und gerechte Gesellschaft an Mitglieder aller demokratischen Parteien gewandt. Wir stehen ein für eine starke Demokratie, in der sich staatliches und gesellschaftliches Handeln am Gemeinwohl orientieren.</description>
+    </item>
     
     <item>
       <title>Forum Open Education: Bildungspolitik auf Augenhöhe</title>

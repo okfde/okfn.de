@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-03-15T00:00:00+0000</updated>
+  <updated>2021-03-16T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Forderungen für eine gemeinwohlorientierte, demokratische Digitalpolitik</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/"/>
+    <id>https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/</id>
+    <published>2021-03-16T00:00:00+0000</published>
+    <updated>2021-03-16T00:00:00+0000</updated>
+    <summary>Die sechs Landtags- bzw. Abgeordnetenhauswahlen sowie die Bundestagswahl am 26. September geben dieses Jahr viele Anlässe, die Themen der OKF zu diskutieren und - wie wir aktuell besonders erleben - viel Nachholbedarf bei Open Government und Co. auf Seiten von Staat und Verwaltungen.
+Deshalb haben wir uns mit unseren Forderungen für eine offene, inklusive und gerechte Gesellschaft an Mitglieder aller demokratischen Parteien gewandt. Wir stehen ein für eine starke Demokratie, in der sich staatliches und gesellschaftliches Handeln am Gemeinwohl orientieren.</summary>
+  </entry>
   
   <entry>
     <title>Forum Open Education: Bildungspolitik auf Augenhöhe</title>
@@ -145,16 +155,6 @@ Viele von Euch haben seit Jahr und Tag viel ehrenamtliches Engagement, Zeit und 
     <updated>2020-10-08T00:00:00+0000</updated>
     <summary>Energie für eine effiziente Stadt! Am 25. und 26. September fand der fünfte Energyhack von Stromnetz Berlin und der Open Knowledge Foundation statt. Coronabedingt war es diesmal ein Hybrid-Event, im Engelnest dem neuen infralab Berlin Standort und remote, inclusive Remote-Catering für die TeilnehmerInnen zu Hause!
 Ziel des Hackdays war es, innerhalb von 24 Stunden mit offenen Daten aus dem Energiesektor kreative Projekte umzusetzen, um die Gesellschaft stärker für die Themen Strom-, Energienetze und Energiewende zu sensibilisieren und Anwendungen für diese Bereiche und folgene Challenges zu entwickeln:</summary>
-  </entry>
-  
-  <entry>
-    <title>Offene Bildung stärken: Lösungen und Forderungen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/10/open-education-community-und-bundespolitik-ergebnisse/"/>
-    <id>https://okfn.de/blog/2020/10/open-education-community-und-bundespolitik-ergebnisse/</id>
-    <published>2020-10-07T00:00:00+0000</published>
-    <updated>2020-10-06T00:00:00+0000</updated>
-    <summary>Wie lässt sich Bildung inklusiv, gerecht und offen gestalten, lautet die Frage beim Forum Open Education 2020 - #FOE20. Bereits das dritte Jahr in Folge laden das Bündnis Freie Bildung, die Open Knowledge Foundation Deutschland und Wikimedia Deutschland zum Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien.
-Am 8. Oktober werden die Ergebnisse des bisher einmaligen Arbeitsprozesses - in dem Bundespolitik und Zivilgesellschaft auf Augenhöhe korrespondieren - in einer digitalen Abschlussveranstaltung präsentiert und von den Bildungspolitiker*innen Marja-Liisa Völlers, Margit Stumpp, Dr.</summary>
   </entry>
   
 </feed>
