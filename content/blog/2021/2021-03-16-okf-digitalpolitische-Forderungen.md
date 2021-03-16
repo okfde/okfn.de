@@ -12,7 +12,7 @@ tags:
 - policy
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Forderungen für eine gemeinwohlorientierte, demokratische Digitalpolitik"
 ---
