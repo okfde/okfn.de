@@ -12,7 +12,7 @@ tags:
 - Vorstand
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: Wechsel im Vorstandsvorsitz der OKF DE
 ---
