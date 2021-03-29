@@ -7,7 +7,7 @@ image:
   title: "FragDenStaat-Logo"
   license:
   license_url: 
-published: true
+published: false
 title: "Wir suchen eine Leitung der Presse- und Öffentlichkeitsarbeit für FragDenStaat!" 
 ---
 
