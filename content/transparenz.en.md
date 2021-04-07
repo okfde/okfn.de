@@ -19,9 +19,9 @@ The statutes of the Open Knowledge Foundation Deutschland e. V. can be found [he
 
 
 ### 3. Information on tax relief
-Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Corporation Tax Act and from trade tax pursuant to § 3 no. 6 of the Trade Tax Act due to the promotion of science and research as well as the promotion of popular and vocational education as well as student assistance pursuant to the last [exemption notice](/files/documents/FreistellungsbescheidOKF_2018.pdf) received by us from the Tax Office for Corporations I, Berlin dated 05.08.2019.
+Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Corporation Tax Act and from trade tax pursuant to § 3 no. 6 of the Trade Tax Act due to the promotion of science and research as well as the promotion of popular and vocational education as well as student assistance pursuant to the last [exemption notice](/files/documents/FreistellungsbescheidOKF_2019.pdf) received by us from the Tax Office for Corporations I, Berlin dated 23.02.2021.
 
-A current extract from the register of associations of 2018 can be found [here](/files/documents/Vereinsregisterauszug_OKFDE_2018.pdf).
+A current extract from the register of associations of 2020 can be found [here](/files/documents/Vereinsregisterauszug_OKFDE_2020.pdf).
 
 ### 4. Name and function of essential decision makers
 At the 2020 general meeting, Andreas Pawelke was elected chairman of the board, Jana Wichmann deputy chairwoman and Gabriele Klug was elected treasurer, all valid for a period of two years. Further board members are Daniel Dietrich, Julia Reda, Kristina Klein, Lea Gimpel and Stefan Heumann. Since January 2020, Henriette Litta is managing director of the association.
