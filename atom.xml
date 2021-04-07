@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-03-29T00:00:00+0000</updated>
+  <updated>2021-04-07T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Forum Open Education: jetzt anmelden &amp; Bildungspolitik mitgestalten</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/04/forum-open-education-2021-jetzt-anmelden/"/>
+    <id>https://okfn.de/blog/2021/04/forum-open-education-2021-jetzt-anmelden/</id>
+    <published>2021-04-07T00:00:00+0000</published>
+    <updated>2021-04-07T00:00:00+0000</updated>
+    <summary>Es muss politischer Anspruch sein, Bildung offen, partizipativ und demokratisch zu gestalten. Bildungspolitische Strategien entstehen allerdings häufig hinter verschlossenen Türen. Die Perspektive der Praxis findet zu selten Beachtung im politischen Diskurs. Politik und Praxis können und wollen mehr voneinander profitieren.
+Das „Forum Open Education“ schafft eine Vertrauensbasis, indem es zu einem Arbeitsprozess auf Augenhöhe einlädt. Es zielt darauf ab, die Zusammenarbeit zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Der Prozess ist darauf angelegt, dass politische Entscheidungstragende sowie politisch interessierte und engagierte Bildungsexpertinnen und -experten gemeinsam Einschätzungen, Strategien und konkrete Handlungsempfehlungen für zeitgemäße Bildung erarbeiten.</summary>
+  </entry>
   
   <entry>
     <title>Wechsel im Vorstandsvorsitz der OKF DE</title>
@@ -145,17 +155,6 @@ Der Wissenschaftliche Dienst des Bundestags hat wie auch Politiker:innen selbst 
     <updated>2020-12-10T00:00:00+0000</updated>
     <summary>Die digitale Zivilgesellschaft zeigt ständig ihr großes Engagement – und hat in der Corona-Krise vollends bewiesen, dass sie unser (digitales) Leben besser macht. Diese wichtige Arbeit hat der Prototype Fund über den Lauf des Jahres in einer Reihe von Blogartikeln dargestellt, welche nun in der Publikation “Community-Technologien: Von Nutzer:innen für Nutzer:innen” zusammengefasst veröffentlicht werden.
 Wie vielfältig die digitale Zivilgesellschaft ist, sehen wir unter anderem in der Breite der Förderprojekte des Prototype Fund sowie der Fülle der unterzeichnenden Organisationen beim “Aufruf der digitalen Zivilgesellschaft”.</summary>
-  </entry>
-  
-  <entry>
-    <title>Offener Brief an die Community</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/12/offener-brief-an-die-community/"/>
-    <id>https://okfn.de/blog/2020/12/offener-brief-an-die-community/</id>
-    <published>2020-12-02T00:00:00+0000</published>
-    <updated>2020-12-02T00:00:00+0000</updated>
-    <summary>Dieser offene Brief richtet sich an die Community des Vereins, besonders an die vielen ehrenamtlich arbeitenden Menschen, die sich im Rahmen von Code for Germany engagieren. Wir nehmen damit Stellung zu den Konflikten und strukturellen Problemen, die es schon länger gibt, die jedoch in diesem Jahr besonders deutlich geworden sind.
-Liebe Mitstreiter*innen, liebe Engagierte und Unterstützer*innen, liebe Community!
-Viele von Euch haben seit Jahr und Tag viel ehrenamtliches Engagement, Zeit und Liebe in lokale Projekte, in den Aufbau und Betrieb der OK-Labs und anderer Civic-Tech-, Open-Government- und Transparenz-Initiativen gesteckt.</summary>
   </entry>
   
 </feed>
