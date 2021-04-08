@@ -31,7 +31,7 @@ Das „Forum Open Education“ schafft eine Vertrauensbasis, indem es zu einem A
     Die durch die Praxis angereicherten Vorhaben werden vorgestellt und parteiübergreifend diskutiert.
 
 Wir möchten euch einladen, Teil dieses Prozesses zu werden, eure Erfahrungen zu teilen und mit den Politiker*innen und ihren Mitarbeitenden politische Vorhaben frühzeitig mitzugestalten.
-[Meldet euch jetzt an](https://education.forum-open.de/anmeldung/) und bekommt aktuelle Informationen zum weiteren Vorgehen. Der zeitliche Umfang beschränkt sich auf den Auftakt im Mai, zwei digitale Arbeitstreffen von ca. zwei Stunden Länge zwischen Mai und August sowie die Abschlussveranstaltung am 25. und 26. August. Außerdem freuen wir uns, wenn ihr euch neben den Treffen an den politischen Publikationen beteiligt.
+[Meldet euch jetzt an](https://lime.wikimedia.de/index.php/528382?lang=en) und bekommt aktuelle Informationen zum weiteren Vorgehen. Der zeitliche Umfang beschränkt sich auf den Auftakt im Mai, zwei digitale Arbeitstreffen von ca. zwei Stunden Länge zwischen Mai und August sowie die Abschlussveranstaltung am 25. und 26. August. Außerdem freuen wir uns, wenn ihr euch neben den Treffen an den politischen Publikationen beteiligt.
 
 ### Noch Fragen?
 Am 16.04., um 16:00 Uhr veranstalten wir einen Info-Call, wo wir Eure Fragen beantworten und Euch auf die Zusammenarbeit im Rahmen des Forums vorbereiten. Die Zugangsdaten erhaltet ihr nach der Anmeldung.
