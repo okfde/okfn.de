@@ -701,8 +701,9 @@
 - name: Andreas Pawelke
   img: andreaspawelke
   staff: 0
-  board: 1
+  board: 0
   advisory: 0
+  board_alumni: 1
   position: Vorsitzender des Vorstands
   position_en: Chairman of the Board
   bio: "Andreas ist seit 2014 im Vorstand der Open Knowledge Foundation und seit 2018 Vorstandsvorsitzender. Er arbeitet freiberuflich für internationale Organisationen wie das  Entwicklungsprogramm der Vereinten Nationen (UNDP) und die Gesellschaft für Internationale Zusammenarbeit (GIZ). Als Direktor des Open Data Lab Jakarta leitete er das erste Dateninnovationslabor der World Wide Web Foundation und war zuvor im Bundesministerium des Innern an der Entwicklung der nationalen Open Data Initiative beteiligt."
