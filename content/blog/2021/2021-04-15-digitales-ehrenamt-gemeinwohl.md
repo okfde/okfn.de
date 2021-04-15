@@ -15,7 +15,7 @@ tags:
 - Digitales Ehrenamt
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Das Digitale Ehrenamt ist ein wichtiger Baustein für eine gemeinwohlorientierte Digitalpolitik"
 ---
