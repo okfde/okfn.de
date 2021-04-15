@@ -1,6 +1,6 @@
 ---
 title: Code for Germany
-subtitle: "Community mit Hunderten freiwilligen Stadtentwicklern"
+subtitle: "Community mit Hunderten freiwilligen Stadtentwickler:innenn"
 layout: project
 tile: double
 tileclass: dark
