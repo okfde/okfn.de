@@ -13,11 +13,11 @@ weight: 2
 img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
-  - name:
+  - name: Sonja Fischbauer  
+    role: 
+  - name: über 500 Ehrenamtliche in ganz Deutschland
     role:
-  - name:
-    role:
-contact_person:
+contact_person: sonjafischbauer
 years: 2014 - heute
 partners:
   - Code for All
@@ -51,4 +51,4 @@ Einige Städte haben bereits Open Data Programme und stellen Datensätze offen z
 
 Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf 26 Labs angewachsen und umfasst eine Community von über 500 Freiwilligen. 
 
-Im Jahr 2020 wird unser Jahresfokus "Code for Climate" mit Mitteln der Deutschen Postcode Lotterie unterstützt.
+Im Jahr 2020 wurde unser Jahresfokus "Code for Climate" mit Mitteln der Deutschen Postcode Lotterie unterstützt.
