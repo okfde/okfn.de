@@ -33,7 +33,6 @@ partners:
   - mediale pfade e.V.
 financing:
   - Deutsche Bahn Stiftung
-  - SKala-Initiative
   - Spenden
   - Sponsorings
 contact:
