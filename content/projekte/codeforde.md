@@ -15,7 +15,7 @@ img_header: projects/codefor_Header.png
 people:
   - name: Sonja Fischbauer  
     role: 
-  - name: über 500 Ehrenamtliche in ganz Deutschland
+  - name: + über 500 Ehrenamtliche in ganz Deutschland
     role:
 contact_person: sonjafischbauer
 years: 2014 - heute
