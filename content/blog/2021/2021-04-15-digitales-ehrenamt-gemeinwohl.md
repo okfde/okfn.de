@@ -29,9 +29,7 @@ Digital Ehrenamtliche haben mit der Coronapandemie vermehrt Aufmerksamkeit bekom
 
 ## Ziel: Gesellschaftliche Teilhabe ermöglichen
 
-Digital Ehrenamtliche engagieren sich in der Förderung gesellschaftlicher Teilhabe. Dies kann die Entwicklung einer Plattform sein, die Informationen, die z. B. im parlamentarischen Betrieb anfallen, für Journalist:innen und Aktivist:innen öffnet und automatisch z. B. zur Recherche für ein bestimmtes Thema durchsuchbar macht. Das können Visualisierungen von Haushaltsdaten sein, die 
-
-Haushaltspläne von Kommunen in leicht verständliche und übersichtliche Grafiken überführen. Auch die Zusammenarbeit mit Verwaltungen und die gemeinsame Überlegung, wie (digitale) Dienstleistungen des Staates gemeinwohlorientiert umgesetzt werden können, steht im Fokus.
+Digital Ehrenamtliche engagieren sich in der Förderung gesellschaftlicher Teilhabe. Dies kann die Entwicklung einer Plattform sein, die Informationen, die z. B. im parlamentarischen Betrieb anfallen, für Journalist:innen und Aktivist:innen öffnet und automatisch z. B. zur Recherche für ein bestimmtes Thema durchsuchbar macht. Das können Visualisierungen von Haushaltsdaten sein, die Haushaltspläne von Kommunen in leicht verständliche und übersichtliche Grafiken überführen. Auch die Zusammenarbeit mit Verwaltungen und die gemeinsame Überlegung, wie (digitale) Dienstleistungen des Staates gemeinwohlorientiert umgesetzt werden können, steht im Fokus.
 
 ## Digitales Ehrenamt ist Ehrenamt und braucht mehr Anerkennung
 
