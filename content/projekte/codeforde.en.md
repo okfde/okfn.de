@@ -14,9 +14,9 @@ layout: project
 img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
-  - name: 
+  - name: Sonja Fischbauer      
     role: 
-  - name: 
+  - name: over 500 volunteers all over Germany
     role:
 contact_person: michaelpeters
 years: 2014 - heute
