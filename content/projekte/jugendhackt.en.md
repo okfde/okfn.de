@@ -72,8 +72,8 @@ Jugend hackt is a non-profit program of the non-profit organizations Open Knowle
 More information is available on the <a href="https://jugendhackt.org/">Jugend hackt website</a>.
 
 **Funding Agencies**<br>
-+ Jugend hackt is funded by the [SKala-Initiative](http://www.skala-initiative.de/initiative/) from 2018 to 2021.
-+ The [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) funds [Jugend hackt Labs](https://jugendhackt.org/labs) 2019-2020.
++ The [Deutsche Bahn Stiftung](https://www.deutschebahnstiftung.de/) funds [Jugend hackt Labs](https://jugendhackt.org/labs) since 2019.
++ Jugend hackt was funded by the [SKala-Initiative](http://www.skala-initiative.de/initiative/) from 2018 to March 2021.
 
 **Prizes & Awards** <br>
 Dieter-Baacke-Preis 2015<br>
