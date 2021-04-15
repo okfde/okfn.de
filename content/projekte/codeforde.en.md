@@ -16,7 +16,7 @@ img_header: projects/codefor_Header.png
 people:
   - name: Sonja Fischbauer      
     role: 
-  - name: over 500 volunteers all over Germany
+  - name: + over 500 volunteers all over Germany
     role:
 contact_person: michaelpeters
 years: 2014 - heute
