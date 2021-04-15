@@ -17,20 +17,16 @@ img: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/Jugendhackt_Header.png
 people:
-  - name: Sonja Fischbauer
-    role: Projektleitung
   - name: Mechthild Schmidt
     role: Projektleitung
   - name: Nina Schröter
-    role: Projektmanagerin    
+    role: Projektmanagerin
   - name: Philip Steffan
-    role: Community und Öffentlichkeitsarbeit
-  - name: Leonard Wolf
-    role: Projektmitarbeiter Fundraising   
-  - name: Simon Willmann
-    role: Regionaler Koordinator
-  - name: Tomas Novy
-    role: Regionaler Koordinator   
+    role: Community und Kommunikation
+  - name: Ivan Botica
+    role: Studentischer Mitarbeiter Finanzen  
+  - name: Sonja Fischbauer
+    role: Spenden und Sponsorings
 contact_person: mechthildschmidt
 years: 2012 - heute
 partners:
