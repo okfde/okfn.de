@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2021/04/digitales-ehrenamt-gemeinwohl/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2021/04/forum-open-education-2021-jetzt-anmelden/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -3349,7 +3354,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3474,7 +3479,7 @@
   
   <url>
     <loc>https://okfn.de/authors/claudia-jach/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3547,7 +3552,7 @@
   
   <url>
     <loc>https://okfn.de/tags/community/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3759,6 +3764,12 @@
   <url>
     <loc>https://okfn.de/tags/digitale-zivilgesellschaft/</loc>
     <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/tags/digitales-ehrenamt/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4229,7 +4240,7 @@
   
   <url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4767,7 +4778,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5353,7 +5364,7 @@
   
   <url>
     <loc>https://okfn.de/tags/policy/</loc>
-    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6185,7 +6196,7 @@
   
   <url>
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
