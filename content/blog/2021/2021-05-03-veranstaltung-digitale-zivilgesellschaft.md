@@ -17,7 +17,7 @@ published: false
 featured: yellow
 title: "Eine Bestandsaufnahme der digitalen Zivilgesellschaft. Bildschirmgespräch zum 10. Geburtstag der OKF"
 ---
-### Eckdaten
+### Wir laden ein!
 
 **18. Mai 2021, 17.30 - 19 Uhr**
 
