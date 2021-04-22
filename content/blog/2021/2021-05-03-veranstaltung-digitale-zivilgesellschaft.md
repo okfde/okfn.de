@@ -21,17 +21,17 @@ title: "Eine Bestandsaufnahme der digitalen Zivilgesellschaft. Bildschirmgesprä
 
 **18. Mai 2021, 17.30 - 19 Uhr**
 
-**[LINK EINFÜGEN]
+**[LINK EINFÜGEN]**
 
 **Mit:**
 
-*Victoria Boeck, Technologiestiftung Berlin
+Victoria Boeck, Technologiestiftung Berlin
 
-*Elisa Lindinger, Initiative Digitale Zivilgesellschaft
+Elisa Lindinger, Initiative Digitale Zivilgesellschaft
 
-*Feena Fensky, Vorständin Code for Hamburg e. V.
+Feena Fensky, Vorständin Code for Hamburg e. V.
 
-*Patricia Leu, Moderation
+Patricia Leu, Moderation
 
 ### Wir sind die digitale Zivilgesellschaft! Ihr auch?!
 
