@@ -31,7 +31,7 @@ Elisa Lindinger, Initiative Digitale Zivilgesellschaft
 
 Feena Fensky, Vorständin Code for Hamburg e. V.
 
-Patricia Leu, Moderation
+Patricia Leu, Open Knowledge Foundation Deutschland e. V. – Moderation
 
 ### Wir sind die digitale Zivilgesellschaft! Ihr auch?!
 
