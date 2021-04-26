@@ -40,3 +40,5 @@ Beim Launch-Event diskutieren Julia Reda (ehem. Mitglied des EU-Parlaments, Vors
 *Unterzeichnende Organisationen:*
 
 *Superrr Lab, gut.org, betterplace lab, Social Entrepreneurship Netzwerk Deutschland e.V. (SEND), Free Software Foundation Europe, Open Knowledge Foundation Deutschland e.V., Liquid Democracy e.V., iRights.Lab, Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung e.V. (FIfF), Chaos Computer Club, Bundesverband Smart City e.V., mediale pfade, Stiftung Erneuerbare Freiheit, Center for the Cultivation of Technology, neuland21 e.V., Arbeitskreis Digitalisierung der BUNDjugend, Verstehbahnhof, Bundesnetzwerk Bürgerschaftliches Engagement, Wikimedia Deutschland e. V., Stiftung Neue Verantwortung, D64, epicenter.works e.V., Digitale Gesellschaft e.V., Ashoka Deutschland e. V., Progressives Zentrum e. V., NODE Forum for Digital Arts / NODE e.V., Germanwatch e.V.*
+
+**Kontakt: presse@okfn.de**
