@@ -8,6 +8,7 @@ image:
   license:
   license_url:
 tags:
+- OKFDE10
 - Community
 - Zivilgesellschaft
 - Open-data
