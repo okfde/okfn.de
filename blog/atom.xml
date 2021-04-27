@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-04-15T00:00:00+0000</updated>
+  <updated>2021-04-27T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Digitale Zivilgesellschaft: Vier Forderungen für eine digital souveräne Gesellschaft</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/04/pm-forderungen-digitale-zivilgesellschaft/"/>
+    <id>https://okfn.de/blog/2021/04/pm-forderungen-digitale-zivilgesellschaft/</id>
+    <published>2021-04-27T00:00:00+0000</published>
+    <updated>2021-04-27T00:00:00+0000</updated>
+    <summary>Die OKF ist Mitglied eines Bündnisses aus 30 Organisationen der digitalen Zivilgesellschaft. Gemeinsam stellen wir für die Bundestagswahl 2021 vier Forderungen für eine digital souveräne Gesellschaft an die Politik.
+Am 1. April 2020 forderten wir mit vielen weiteren zivilgesellschaftlichen Organisationen die Politik auf: Aus der Krise lernen - Digitale Zivilgesellschaft stärken! Dafür lieferten wir gemeinsam konkrete Handlungsempfehlungen. Geschehen ist seitdem jedoch viel zu wenig. Das vergangene Jahr hat deutlich gemacht, dass Politik und öffentliche Verwaltung mit ihrer eigenen digitalen Transformation überfordert sind und in der Digitalpolitik Schwerpunkte setzen, die nicht den Bedürfnissen der Gesellschaft entsprechen.</summary>
+  </entry>
   
   <entry>
     <title>Das Digitale Ehrenamt ist ein wichtiger Baustein für eine gemeinwohlorientierte Digitalpolitik</title>
@@ -146,15 +156,6 @@ Bekanntermaßen war 2020 nicht das Jahr für Präsenzveranstaltungen, weshalb de
     <summary>Zum 31.12.2020 wurde kleineAnfragen.de abgeschaltet. Das haben wir schon im Mai 2019 angekündigt. Denn nach mehr als 5 Jahren Betrieb ist die Datensituation der Parlamente kein Stück besser geworden. Was jetzt?
 In fünf Jahren wurden 118.370 Anfragen mit Antworten aus dem Bundestag und allen 16 Landtagen zugänglicher: saubere URLs, Volltextsuche, Feeds, Mail-Abos, Tabellen-Erkennung und markierte Leerstellen, wo Verschlusssachen nur in der Geheimschutzstelle einsehbar sind.
 Der Wissenschaftliche Dienst des Bundestags hat wie auch Politiker:innen selbst kleineAnfragen-URLS in Dokumenten, Anfragen und Gutachten genutzt.</summary>
-  </entry>
-  
-  <entry>
-    <title>Zum Jahresende: Was für ein Jahr!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2020/12/was-fuer-ein-jahr/"/>
-    <id>https://okfn.de/blog/2020/12/was-fuer-ein-jahr/</id>
-    <published>2020-12-16T00:00:00+0000</published>
-    <updated>2020-12-10T00:00:00+0000</updated>
-    <summary>Das Jahr kann jetzt wirklich einmal zu Ende gehen. Uns reicht es jetzt. 2020 hat uns alle heftig mitgenommen. Ein Wunder, wie entspannt wir alle auf der digitalen Weihnachtsfeier waren. Noch nie schleppte sich ein Jahr so zäh dahin oder ist es doch in Windeseile verflogen? 2020 geht in die Geschichte ein als ein Jahr, in dem alles ein wenig anders ist. Für viele von uns, ist es eine erstaunliche Erfahrung, unsere Gewohnheiten und unseren Alltag anzupassen, um unsere eigene Gesundheit zu schützen, sowie die Gesundheit von unseren Familien, Freunden und allen anderen.</summary>
   </entry>
   
 </feed>
