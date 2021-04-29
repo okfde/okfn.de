@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-04-27T00:00:00+0000</updated>
+  <updated>2021-04-29T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Wir laden ein zu unserer Veranstaltungsreihe. Ein Jahrzehnt OKF – Kritik, Politik und Aktivismus</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/04/veranstaltungsreihe-okf10/"/>
+    <id>https://okfn.de/blog/2021/04/veranstaltungsreihe-okf10/</id>
+    <published>2021-04-29T00:00:00+0000</published>
+    <updated>2021-04-29T00:00:00+0000</updated>
+    <summary>10 Jahre OKF, das heißt auch, zehn Jahre Kontakte knüpfen, Expertise herausbilden, Konzepte entwickeln und Austausch befördern. All das möchten wir in diesem Sommer in einer Veranstaltungsreihe mit euch zusammen bringen.
+Digitale Zivilgesellschaft – dem Schlagwort zum Durchbruch verhelfen Eines der Kernanliegen der Open Knowledge Foundation ist die Einbindung in die (inter-)nationale digitale Zivilgesellschaft. Dabei ist der Begriff der digitalen Zivilgesellschaft selbst eher schwammig. Im Bericht „Digitalisierung braucht Zivilgesellschaft“ von verschiedenen deutschen Stiftungen im Jahr 2019 werden drei zivilgesellschaftliche Gruppen unterschieden: Digitale Spezialist:innen, digitale Pionier:innen und digitale Noviz:innen, die alle in unterschiedlichem Maß an Digitalisierung teilhaben, sie mitgestalten oder lediglich nutzen.</summary>
+  </entry>
   
   <entry>
     <title>Digitale Zivilgesellschaft: Vier Forderungen für eine digital souveräne Gesellschaft</title>
@@ -145,17 +155,6 @@ Bekanntermaßen war 2020 nicht das Jahr für Präsenzveranstaltungen, weshalb de
     <published>2021-01-14T00:00:00+0000</published>
     <updated>2021-01-14T00:00:00+0000</updated>
     <summary>Jugend hackt sucht eine*n studentische*n Mitarbeiter*in (m/w/d) für Finanzadministration, 19h/Woche, ab sofort Jugend hackt ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit ihren technischen Fähigkeiten die Welt verbessern wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. mit mediale pfade.org - Verein für Medienbildung e.V. Für unsere Finanzbuchhaltung und Spender*innenverwaltung sowie für allgemeinen Bürotätigkeiten suchen wir ab sofort ein*e studentische*n Mitarbeiter*in.</summary>
-  </entry>
-  
-  <entry>
-    <title>Zur Abschaltung von kleineAnfragen.de</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/01/zur-abschaltung-von-kleine-anfragen/"/>
-    <id>https://okfn.de/blog/2021/01/zur-abschaltung-von-kleine-anfragen/</id>
-    <published>2021-01-11T00:00:00+0000</published>
-    <updated>2021-01-11T00:00:00+0000</updated>
-    <summary>Zum 31.12.2020 wurde kleineAnfragen.de abgeschaltet. Das haben wir schon im Mai 2019 angekündigt. Denn nach mehr als 5 Jahren Betrieb ist die Datensituation der Parlamente kein Stück besser geworden. Was jetzt?
-In fünf Jahren wurden 118.370 Anfragen mit Antworten aus dem Bundestag und allen 16 Landtagen zugänglicher: saubere URLs, Volltextsuche, Feeds, Mail-Abos, Tabellen-Erkennung und markierte Leerstellen, wo Verschlusssachen nur in der Geheimschutzstelle einsehbar sind.
-Der Wissenschaftliche Dienst des Bundestags hat wie auch Politiker:innen selbst kleineAnfragen-URLS in Dokumenten, Anfragen und Gutachten genutzt.</summary>
   </entry>
   
 </feed>
