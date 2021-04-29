@@ -15,7 +15,7 @@ tags:
 - Transparenz
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Wir laden ein zu unserer Veranstaltungsreihe. Ein Jahrzehnt OKF – Kritik, Politik und Aktivismus"
 ---
