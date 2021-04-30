@@ -1141,10 +1141,10 @@
   position_en: Program Manager Prototype Fund
   bio: "Betreut und evaluiert die Förderprojekte des Prototype Funds, begleitet deren Fortschritte und steht insbesondere in technologischen Fragen dem Prototype Fund-Team wie auch den geförderten CoderInnen zur Seite. Thomas ist Generalist, Autodidakt und war zuletzt Systemadministrator, Entwickler und Development Operator."
   bio_en: "Maintains and evaluates the Prototype Fund's funded projects, monitors their progress and, in particular, advises the Prototype Fund team and funded coders on technological issues. Thomas is a generalist, autodidact and most recently worked as a system administrator, developer and development operator."
-  mail: thomas.friese@okfn.de
-  twitter: _tasmo
+  mail:
+  twitter:
   website: 'https://tasmo.rocks'
-  github: tasmo
+  github:
 
 - name: Marie Gutbub
   img: marie_g
