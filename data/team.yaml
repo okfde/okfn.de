@@ -1134,9 +1134,10 @@
 
 - name: Thomas Friese
   img: thomasfriese
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Program Manager Prototype Fund
   position_en: Program Manager Prototype Fund
   bio: "Betreut und evaluiert die Förderprojekte des Prototype Funds, begleitet deren Fortschritte und steht insbesondere in technologischen Fragen dem Prototype Fund-Team wie auch den geförderten CoderInnen zur Seite. Thomas ist Generalist, Autodidakt und war zuletzt Systemadministrator, Entwickler und Development Operator."
