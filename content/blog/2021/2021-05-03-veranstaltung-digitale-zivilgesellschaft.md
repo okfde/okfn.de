@@ -14,7 +14,7 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Eine Bestandsaufnahme der digitalen Zivilgesellschaft. Bildschirmgespräch zum 10. Geburtstag der OKF"
 ---
@@ -22,7 +22,7 @@ title: "Eine Bestandsaufnahme der digitalen Zivilgesellschaft. Bildschirmgesprä
 
 **18. Mai 2021, 17.30 - 19 Uhr**
 
-**[LINK EINFÜGEN]**
+**Hier: https://www.youtube.com/watch?v=EV4MmjaKerU**
 
 **Mit:**
 
