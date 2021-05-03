@@ -1,13 +1,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-04-29T00:00:00+0000</updated>
+  <updated>2021-05-03T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Eine Bestandsaufnahme der digitalen Zivilgesellschaft. Bildschirmgespräch zum 10. Geburtstag der OKF</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/05/veranstaltung-digitale-zivilgesellschaft/"/>
+    <id>https://okfn.de/blog/2021/05/veranstaltung-digitale-zivilgesellschaft/</id>
+    <published>2021-05-03T00:00:00+0000</published>
+    <updated>2021-05-03T00:00:00+0000</updated>
+    <summary>Wir laden ein! 18. Mai 2021, 17.30 - 19 Uhr
+Hier: https://www.youtube.com/watch?v=EV4MmjaKerU
+Mit:
+Victoria Boeck, Technologiestiftung Berlin
+Elisa Lindinger, Initiative Digitale Zivilgesellschaft
+Feena Fensky, Vorständin Code for Hamburg e. V.
+Patricia Leu, Open Knowledge Foundation Deutschland e. V. – Moderation
+Wir sind die digitale Zivilgesellschaft! Ihr auch?! Zu Beginn unserer Veranstaltung möchten wir einkreisen, wovon wir eigentlich sprechen, wenn wir digitale Zivilgesellschaft meinen. Gibt es verschiedene Gruppen, Hierarchien oder Ausschlussmechanismen?</summary>
+  </entry>
   
   <entry>
     <title>Wir laden ein zu unserer Veranstaltungsreihe. Ein Jahrzehnt OKF – Kritik, Politik und Aktivismus</title>
@@ -146,15 +162,6 @@ Bekanntermaßen war 2020 nicht das Jahr für Präsenzveranstaltungen, weshalb de
     <published>2021-01-15T00:00:00+0000</published>
     <updated>2021-01-15T00:00:00+0000</updated>
     <summary>Die im März 2020 herbeigesehnten Entwicklungen im Bildungsbereich haben sich nur bedingt bewahrheitet. Denn über Jahre hin aufgeschobene Defizite lassen sich nicht im Ausnahmezustand aufholen. 2021 blicken wir auf ein Jahr zurück, das durch Chaos und Frustration geprägt ist. In dieser Situation gehen Sensationen, wie der extrem gestiegene Einsatz von Cloud-Systemen in der Schule, beinahe unter: In der JIM-Studie (Jugend Information Medien) berichteten im Juli 55 Prozent der befragten Lernenden, dass sie in der Schule in einer Cloud arbeiten.</summary>
-  </entry>
-  
-  <entry>
-    <title>Job bei der OKF: Finanzadministration bei Jugend hackt (ab sofort)</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/01/jobs-jugend-hackt-finanzadministration/"/>
-    <id>https://okfn.de/blog/2021/01/jobs-jugend-hackt-finanzadministration/</id>
-    <published>2021-01-14T00:00:00+0000</published>
-    <updated>2021-01-14T00:00:00+0000</updated>
-    <summary>Jugend hackt sucht eine*n studentische*n Mitarbeiter*in (m/w/d) für Finanzadministration, 19h/Woche, ab sofort Jugend hackt ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit ihren technischen Fähigkeiten die Welt verbessern wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. mit mediale pfade.org - Verein für Medienbildung e.V. Für unsere Finanzbuchhaltung und Spender*innenverwaltung sowie für allgemeinen Bürotätigkeiten suchen wir ab sofort ein*e studentische*n Mitarbeiter*in.</summary>
   </entry>
   
 </feed>
