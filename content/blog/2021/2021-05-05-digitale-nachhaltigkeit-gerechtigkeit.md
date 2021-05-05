@@ -1,7 +1,7 @@
 ---
 authors:
 - Claudia Jach
-date: 2021-05-06
+date: 2021-05-05
 image:
   src: /files/blog/2021/04/climate_justice_by_markus_spiske_unsplash.jpg
   title:
@@ -12,7 +12,7 @@ tags:
 - Policy
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Digitale Nachhaltigkeit nur mit digitaler Gerechtigkeit!"
 ---
