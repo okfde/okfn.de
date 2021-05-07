@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-05-05T00:00:00+0000</updated>
+  <updated>2021-05-07T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bundespolitik und offene Bildungspraxis gehen in den Austausch</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/05/kickoff-foe21-bildungspolitik-gestalten/"/>
+    <id>https://okfn.de/blog/2021/05/kickoff-foe21-bildungspolitik-gestalten/</id>
+    <published>2021-05-07T00:00:00+0000</published>
+    <updated>2021-05-07T00:00:00+0000</updated>
+    <summary>Am 12. Mai kommen zum vierten Mal engagierte Bildungsenthusiast:innen und Bundespolitiker:innen zusammen, um gemeinsam an zukunftsgerichteten Lösungen für die Bildungslandschaft zu arbeiten. Im Zentrum stehen Einschätzungen, Strategien und konkrete Handlungsempfehlungen für eine gerechte, offene und nachhaltige Bildung.
+Das vergangene Jahr hat gezeigt, wie wichtig der Austausch mit der Bildungspraxis ist und welche wirkmächtigen Strukturen zivilgesellschaftliche Netzwerke und Projekte schaffen können. Aber auch die Politik zeigte, dass schnelles Handeln möglich ist und ebnete mit zahlreichen Maßnahmen den Weg für längst überfällige Veränderungen.</summary>
+  </entry>
   
   <entry>
     <title>Digitale Nachhaltigkeit nur mit digitaler Gerechtigkeit!</title>
@@ -153,16 +163,6 @@ Offenen Bildungsmaterialien wird vor allem im Rahmen von digital gestütztem Leh
     <updated>2021-02-02T00:00:00+0000</updated>
     <summary>Seit dem 1. Februar 2021 könnt ihr euch mit eurer Open-Source-Softwareidee für die kommende 10. Förderphase des Prototype Fund bewerben. Die Bewerbungsrunde ist themenoffen – auch wenn wir uns in der Trendforschung speziell an der Schnittstelle von Journalismus, Medien und Technologien umgesehen haben. Die Bereiche, in die eure Idee fallen sollte, heißen Civic Tech, Data Literacy, Datensicherheit und Softwareinfrastruktur. Darüber hinaus sind euch keine Grenzen gesetzt!
 Wie immer veröffentlichen wir parallel zum Ausschreibungsbeginn einen Trendforschungsreport, in dem wir aktuelle, übergeordnete gesellschaftliche und technologische Entwicklungen diskutieren.</summary>
-  </entry>
-  
-  <entry>
-    <title>Nachlese: Vorträge auf dem Congress (rc3)</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/01/nachlese-wikipaka-rc3/"/>
-    <id>https://okfn.de/blog/2021/01/nachlese-wikipaka-rc3/</id>
-    <published>2021-01-19T00:00:00+0000</published>
-    <updated>2021-01-19T00:00:00+0000</updated>
-    <summary>Einer unserer Standardtermine jedes Jahr ist der Chaos Communication Congress zwischen Weihnachten und Neujahr. Viele Haupt- und Ehrenamtliche der OKF besuchen den weltweiten Kongress von Hacker:innen und gesellschaftspolitischen Aktivist:innen und gestalten auch das Programm mit.
-Bekanntermaßen war 2020 nicht das Jahr für Präsenzveranstaltungen, weshalb der Congress diesmal unter dem Titel &amp;ldquo;remote Chaos Experience&amp;rdquo; (rC3) komplett online stattfand. Der soziale Teil, dazu gehören auch Workshops und Meetups, passierte dabei in Videocall-Tools wie Jitsi und BBB, darüber hinaus konnten Ticket-Inhaber:innen eine eigens angelegte 2D-Welt im Stil klassischer Computerspiele mit Avataren entdecken.</summary>
   </entry>
   
 </feed>
