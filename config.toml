@@ -6,6 +6,10 @@ enableRobotsTXT = true
 
 [params]
   twitter = "okfde"
+  twitter_site_id = "255123777" 
+  author = "okfde" 
+  keywords = ["Offene Daten", "Civic Tech", "Open Government", "Offene Bildung", "Digitale Mündigkeit" , "Informationsfreiheit", " Open Data"]
+  subtitle = "Open Knowledge Foundation Deutschland e.V."
 
 [permalinks]
   blog = 'blog/:year/:month/:slug/'

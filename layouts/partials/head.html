@@ -1,16 +1,47 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{{ hugo.Generator }}
 
-<link rel="apple-touch-icon" sizes="180x180" href="/files/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/files/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/files/favicon/favicon-16x16.png">
-<link rel="manifest" href="/files/favicon/manifest.json">
-<link rel="mask-icon" href="/files/favicon/safari-pinned-tab.svg" color="#5bbad5">
-<link rel="shortcut icon" href="/files/favicon/favicon.ico">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-config" content="/files/favicon/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
+<!-- SEO stuff -->
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+<meta name="google" content="nositelinkssearchbox">
+<meta name="google" content="notranslate">
 
+<meta name="rating" content="General">
+<meta name="referrer" content="no-referrer">
+<meta name="format-detection" content="telephone=no">
+
+    <!-- Description -->
+  {{ if lt (len .Summary) 150 }}
+    <meta name="description" content="{{ .Summary | plainify }}">
+  {{ else }}
+    <meta name="description" content="{{ .Summary | plainify | truncate 150 }}">
+  {{ end }}
+
+  <meta name="keywords" content={{ delimit .Site.Params.keywords ", " }} />
+
+  
+      <!-- Author -->
+  {{ if (isset .Params "author") }}
+    <meta property="article:author" content="{{ .Params.author }}">
+  {{ else }}
+    <meta property="article:author" content="{{ .Site.Params.author }}">
+  {{ end }}
+  
+<!-- Twitter Card and open Graph-->
+  {{- partial "head_openGraph.html" . }}
+
+<!-- Icons -->
+  {{- partial "head_favicon.html" . }}
+
+
+  {{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end -}}
+
+
+<!-- bundling -->
 <link rel="preload" href="/fonts/apercu-bold-pro.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="/fonts/apercu-medium-pro.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="/fonts/apercu-regular-pro.woff" as="font" type="font/woff" crossorigin>
@@ -18,3 +49,13 @@
 {{ $style := resources.Get "sass/main.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{$style.RelPermalink}}">
 {{- partial "js.html" . -}}
+
+
+<link rel="canonical" href="{{ .Permalink }}" />
+
+{{ $ctitle := ( printf "%s - %s" .Title .Site.Title ) }}
+{{ if not .IsHome }}
+  {{ $ctitle = ( printf "%s : %s - %s" .Title .Site.Title .Site.Params.Subtitle) }}
+{{ end }}
+
+<title>{{ $ctitle }}</title>
