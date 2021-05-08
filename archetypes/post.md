@@ -15,4 +15,5 @@ layout: post
 published: true
 featured: yellow
 title: "Das ist der Titel"
+twitter_creator_id: "twitter id of the author | used for open graph"
 ---
