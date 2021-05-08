@@ -1,21 +1,3 @@
-{{ define "title"}}
-<title>{{ .Title }} - {{ strings.FirstUpper .Section }} -  {{ .Site.Title}}</title>
-{{ end }}
-
-{{ define "head" }}
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end -}}
-<meta property="og:title" content="{{ .Site.Title }} - {{ strings.FirstUpper .Section }}: {{ .Title }}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:image" content="" />
-{{with .Params.meta}}
-<meta property="og:description" content="{{.}}">
-<meta name="description" content="{{.}}">
-{{end}}
-{{ end }}
-
 {{ define "main" }}
 <main>
   <header class="l__blog__header container">
