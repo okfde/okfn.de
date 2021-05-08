@@ -1,0 +1,39 @@
+<!--  OpenGraph and Twitter Card Stuff starts here -->
+{{ $permalink := "/files/favicon/apple-touch-icon.png" | absURL }}
+{{ $imgalt := print .Site.Params.subtitle }}
+
+{{ if (isset .Params "image") }}
+  {{ $permalink = print .Params.image.src | absURL }}
+  {{ if (isset .Params.image "title") }}
+    {{ $imgalt = .Params.image.title }}
+  {{ end }}
+{{ end }}
+
+  <!-- Twitter card meta tags can be validated at https://cards-dev.twitter.com/validator -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site:id" content="{{ .Site.Params.twitter_site_id}}">
+
+{{ if (isset .Params "twitter_creator_id") }}
+  <meta name="twitter:creator:id" content="{{ .Params.twitter_creator_id }}">
+{{ end }}
+
+  <!-- add tags to description -->
+{{ if (isset .Params "tags") }}
+  {{ $tagstring := " " }}
+  {{ range  .Params.tags}}
+    {{ $tagstring = (print $tagstring "#" (replace . " " "" ) " ") }}
+  {{ end }}
+  <meta name="twitter:description" content="{{ print (.Summary | plainify | truncate (sub 199 (len $tagstring))) $tagstring }}">
+  {{ else }}
+  <meta name="twitter:description" content="{{ .Summary | plainify | truncate 199 }}">
+{{ end }}
+
+
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ .Title | plainify | truncate 70 }}">
+<meta property="og:description" content="{{ .Summary | plainify | truncate 150 }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="{{ .Site.LanguageCode }}">
+<meta property="og:image" content="{{  $permalink }}">
+<meta property="og:image:alt" content="{{ $imgalt }}">
