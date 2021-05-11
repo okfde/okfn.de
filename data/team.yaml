@@ -758,10 +758,10 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Entwicklung kleineAnfragen
-  position_en: Developer kleineAnfragen
-  bio: "Maximilian hat kleineAnfragen.de und sehrgutachten.de entwickelt. Für die Open Knowledge Foundation Deutschland arbeitet er ehrenamtlich aus Süddeutschland."
-  bio_en: "Maximilian created kleineAnfragen.de and sehrgutachten.de. For the Open Knowledge Foundation Germany he works on a voluntary basis from Southern Germany, where he lives."
+  position: Ehrenamtlicher Mitarbeiter für IT-Infrastruktur
+  position_en: IT Infrastructure Volunteer
+  bio: "Maxi unterstützt das Team der OKF ehrenamtlich: Als Softwareentwickler und Open Enthusiast hat er schon in vielen OKF-Projekten mitgeholfen. Auf diese Erfahrung und Expertise greift unser hauptamtliches Tech-Team gerne zurück und wendet sich regelmäßig an ihn für Beratung und Hands-on-Unterstützung. Maxi hat schon zahlreiche Civic Tech und Open Source Projekte umgesetzt, wobei er sich besonders für Open Data im Mobilitätsbereich begeistert. Er engagiert sich aktiv im Code for Germany Netzwerk und hat in seinem Ehrenamt unter anderem die Portale kleineAnfragen.de und sehrgutachten.de entwickelt."
+  bio_en: "Maxi supports the OKF team in a volunteer capacity: As a software developer and Open enthusiast he has worked on many OKF projects. His experience and expertise are greatly valued by our tech team, who regularly turn to Maxi for consultation and hands-on help. Maxi has developed and deployed numerous Civic Tech and Open Source applications, with a passion for mobility and transport Open Data. As an active member of the volunteer network Code for Germany, he has developed Civic Tech platforms including kleineAnfragen.de and sehrgutachten.de."
   mail: "maximilian.richt@okfn.de"
   twitter: robbi5
   website: https://robbi5.de
