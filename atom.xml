@@ -1,13 +1,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-05-07T00:00:00+0000</updated>
+  <updated>2021-05-17T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Vielleicht hilft eine App? – Prototype Fund kritisiert Solutionismus in der Innovationsentwicklung</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/05/ptf-solutionismus-innovationsentwicklung/"/>
+    <id>https://okfn.de/blog/2021/05/ptf-solutionismus-innovationsentwicklung/</id>
+    <published>2021-05-17T00:00:00+0000</published>
+    <updated>2021-05-17T00:00:00+0000</updated>
+    <summary>Pressemitteilung
+Berlin, 17.05.2021
+Es gibt Apps bei Gesundheitsproblemen und gegen Arbeitslosigkeit, Technologien, die vor Diskriminierung schützen oder Gewalt beenden sollen. Kommt bald die App gegen den Hunger?
+Der Prototype Fund kritisiert die Innovationsentwicklung, in der sich vermeintlich alle Probleme dieser Welt mit ein paar Klicks „lösen“ lassen. Nach dieser solutionistischen Ideologie erfüllen Technologien ein deterministisches Eigenleben und erlösen uns von unseren menschlichen Schwächen. Mit der Coronapandemie hat diese Vorstellung weiter an Auftrieb gewonnen.</summary>
+  </entry>
   
   <entry>
     <title>Bundespolitik und offene Bildungspraxis gehen in den Austausch</title>
@@ -153,16 +165,6 @@ Offenen Bildungsmaterialien wird vor allem im Rahmen von digital gestütztem Leh
     <published>2021-02-03T00:00:00+0000</published>
     <updated>2021-02-03T00:00:00+0000</updated>
     <summary>Die Bundesregierung hat am 27.01.2021 ihre erste Datenstrategie im Kabinett verabschiedet. Sie ist ein Schritt in die richtige Richtung und folgt aus unserer Sicht einer richtigen gesellschaftlichen Zielsetzung: Rahmenbedingungen zu schaffen für eine verantwortungsvolle und innovative Datennutzung, die sich an den Werten der informationellen Selbstbestimmung und des Schutzes persönlicher Daten orientiert und dem Gemeinwohl verpflichtet ist. Leider versäumt es die Bundesregierung, diesen Werten das nötige Gewicht zu verleihen. Die Datenstrategie verengt sich zu stark auf wirtschaftliche Aspekte und lässt dabei weitere, gemeinwohlorientierte Aspekte der Datennutzung unter den Tisch fallen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Prototype Fund fördert eure Open-Source-Softwareideen – bewerbt euch jetzt!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/02/ptf-runde-zehn/"/>
-    <id>https://okfn.de/blog/2021/02/ptf-runde-zehn/</id>
-    <published>2021-02-02T00:00:00+0000</published>
-    <updated>2021-02-02T00:00:00+0000</updated>
-    <summary>Seit dem 1. Februar 2021 könnt ihr euch mit eurer Open-Source-Softwareidee für die kommende 10. Förderphase des Prototype Fund bewerben. Die Bewerbungsrunde ist themenoffen – auch wenn wir uns in der Trendforschung speziell an der Schnittstelle von Journalismus, Medien und Technologien umgesehen haben. Die Bereiche, in die eure Idee fallen sollte, heißen Civic Tech, Data Literacy, Datensicherheit und Softwareinfrastruktur. Darüber hinaus sind euch keine Grenzen gesetzt!
-Wie immer veröffentlichen wir parallel zum Ausschreibungsbeginn einen Trendforschungsreport, in dem wir aktuelle, übergeordnete gesellschaftliche und technologische Entwicklungen diskutieren.</summary>
   </entry>
   
 </feed>
