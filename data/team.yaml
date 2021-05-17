@@ -773,13 +773,12 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Entwicklung OParl
-  position_en: Developer OParl
-  bio: "Ernesto betreut und entwickelt Politik bei Uns mit der Schnittstelle OParl und damit das weite Thema kommunale Transparenz und Ratsinformationssysteme. Außerdem arbeitet er mit Mobilitätsdaten / regenerativer Energie und betreut die Blogfarm der Open Knowledge Foundation. Er ist selbstständiger Berater und Entwickler."
-  bio_en: "Ernesto supervises and develops the projects Politik bei Uns and OParl and therefore the topic local transparency and local government information systems. Additionally, he works with mobility data / renewable energy sources and administrates the OKF-DE blogfarm. He works as a self-employed consultant and developer."
-  mail: "ernesto.ruge@okfn.de"
+  position: Ehrenamtlicher Mitarbeiter für IT-Infrastruktur
+  position_en:  IT Infrastructure Volunteer
+  bio: "Ernesto ist Gründer und Inhaber des Softwareunternehmen binary butterfly, das sich mit seinem aktuell fünfköpfigen Team auf Webanwendungen für Mobilität und Open Data spezialisiert hat. Ernesto unterstützt das Team der OKF ehrenamtlich: Er betreibt die Server der Wordpress-Blogfarm, auf der zahlreiche Webseiten von OKF-Projekten zuhause sind. Wenn er in seiner Freizeit nicht die OKF-Webseiten am Laufen hält, engagiert sich Ernesto im Code for Germany Netzwerk. Als ehrenamtlicher Entwickler hat er die Bürger*innen-Plattformen Politik-bei-uns.de und mein-stadtarchiv.de umgesetzt; Ernesto hat auch die Datenschnittstelle OParl mitentwickelt, die der kommunalen Verwaltung nutzt."
+  bio_en: "Ernesto is the founder and owner of binary butterfly, a software company specializing in web applications for transport and Open Data. Ernesto supports the OKF team in a volunteer capacity: He maintains the servers of the Wordpress blogfarm, housing numerous websites of OKF projects. When not tending to our websites, Ernesto is active in the Code for Germany network. As a volunteer developer he created the Civic Tech platforms Politik-bei-uns.de and mein-stadtarchiv.de. Ernesto also co-developed the data interface OParl, which benefits local government."
   twitter: the_infinity
-  website: https://sectio-aurea.org
+  website: https://binary-butterfly.de/
   github: the-infinity
 
 - name: Moritz Neujeffski
