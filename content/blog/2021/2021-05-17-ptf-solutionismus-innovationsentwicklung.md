@@ -17,9 +17,9 @@ published: true
 featured: blue
 title: "Vielleicht hilft eine App? – Prototype Fund kritisiert Solutionismus in der Innovationsentwicklung"
 ---
-Pressemitteilung
+**Pressemitteilung**
 
-Berlin, 17.05.2021
+**Berlin, 17.05.2021**
 
 Es gibt Apps bei Gesundheitsproblemen und gegen Arbeitslosigkeit, Technologien, die vor Diskriminierung schützen oder Gewalt beenden sollen. Kommt bald die App gegen den Hunger?
 
@@ -35,6 +35,7 @@ Diese Bedeutung von Technologien sollte bereits vor ihrer Entstehung analysiert 
 
 *„Technikfolgenabschätzung und -bewertung  ist wichtiger denn je und muss politisch gestärkt werden! Durch die Einbeziehung verschiedenster Akteur:innen aus Wirtschaft, Politik, Wissenschaft und kritischer Öffentlichkeit bildet die Folgenabschätzung ein Gegengewicht zu solutionistischen Bestrebungen. Nur auf diesem Weg können wir sicherstellen, dass die immer neuen Apps auch einen Mehrwert für unser Leben haben oder andernfalls gar nicht erst in die Breite gelangen“,* bekräftigt Meyer.
 
+**+++**
 
-Für weitere Informationen steht Patricia Leu vom Prototype Fund zur Verfügung: presse@prototypefund.de
+**Für weitere Informationen steht Patricia Leu vom Prototype Fund zur Verfügung: presse@prototypefund.de**
 
