@@ -30,7 +30,7 @@ Victoria Boeck, Technologiestiftung Berlin
 
 Elisa Lindinger, Initiative Digitale Zivilgesellschaft
 
-Feena Fensky, Vorständin Code for Hamburg e. V.
+Maximilian Voigt, Verbund Offener Werkstätten e. V.
 
 Patricia Leu, Open Knowledge Foundation Deutschland e. V. – Moderation
 
