@@ -16,7 +16,7 @@ published: true
 featured: yellow
 title: "Bundespolitik und offene Bildungspraxis gehen in den Austausch"
 ---
-Am 12. Mai kommen zum vierten Mal engagierte Bildungsenthusiast:innen und Bundespolitiker:innen zusammen, um gemeinsam an zukunftsgerichteten Lösungen für die Bildungslandschaft zu arbeiten. Im Zentrum stehen Einschätzungen, Strategien und konkrete Handlungsempfehlungen für eine gerechte, offene und nachhaltige Bildung.
+Ab dem 12. Mai kommen zum vierten Mal engagierte Bildungsenthusiast:innen und Bundespolitiker:innen zusammen, um gemeinsam an zukunftsgerichteten Lösungen für die Bildungslandschaft zu arbeiten. Im Zentrum stehen Einschätzungen, Strategien und konkrete Handlungsempfehlungen für eine gerechte, offene und nachhaltige Bildung.
 
 Das vergangene Jahr hat gezeigt, wie wichtig der Austausch mit der Bildungspraxis ist und welche wirkmächtigen Strukturen zivilgesellschaftliche Netzwerke und Projekte schaffen können. Aber auch die Politik zeigte, dass schnelles Handeln möglich ist und ebnete mit zahlreichen Maßnahmen den Weg für längst überfällige Veränderungen. Wohin sich diese in der kommenden Legislatur entwickeln und wie die zahlreichen Fäden zu einer zeitgemäßen und offenen Bildung verwoben werden können, ist Thema des diesjährigen [Forum Open Education](https://education.forum-open.de).
 
