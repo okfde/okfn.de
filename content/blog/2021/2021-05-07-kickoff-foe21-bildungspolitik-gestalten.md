@@ -29,4 +29,4 @@ Vier Bundestagsabgeordnete aus dem [Ausschuss für Bildung, Forschung und Techni
 
 Bis zum Abschluss des Forums am 25. und 26. August ergänzen die Teilnehmenden die bildungspolitischen Vorhaben der Abgeordneten um Erkenntnisse und Bedarfe aus der Praxis. Im August werden die Ergebnisse vorgestellt und fraktionsübergreifend diskutiert.
 
-Wer noch teilnehmen möchte, ist herzlich eingeladen sich noch bis zum 11. Mai [anzumelden](https://lime.wikimedia.de/index.php/528382?lang=en) und Bildungspolitik mitzugestalten.
+Wer noch teilnehmen möchte, ist herzlich eingeladen sich noch bis zum 11. Mai [anzumelden](https://www.wikimedia.de/foe21-anmeldung/) und Bildungspolitik mitzugestalten.
