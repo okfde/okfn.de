@@ -11,7 +11,7 @@ tags:
 - Policy
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Leitfaden für digitale Demokratie"
 ---
