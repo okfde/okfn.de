@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2021/05/bestandsaufnahme-digitale-zivilgesellschaft/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2021/05/fairer-wahlkampf-campaign-watch/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url>
@@ -3122,14 +3127,14 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3389,7 +3394,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -3587,7 +3592,7 @@
   
   <url>
     <loc>https://okfn.de/tags/community/</loc>
-    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4155,13 +4160,13 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/gastbeitrag/</loc>
+    <loc>https://okfn.de/authors/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/gastbeitrag/</loc>
+    <loc>https://okfn.de/tags/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4813,7 +4818,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5017,14 +5022,14 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/okf/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf/</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/okf/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/okf/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5035,20 +5040,20 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/okfde/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://okfn.de/authors/okfde/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://okfn.de/tags/okfde/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/tags/okfde10/</loc>
-    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5363,7 +5368,7 @@
   
   <url>
     <loc>https://okfn.de/authors/patricia-leu/</loc>
-    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6088,13 +6093,13 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/vorstand/</loc>
+    <loc>https://okfn.de/authors/vorstand/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/vorstand/</loc>
+    <loc>https://okfn.de/tags/vorstand/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -6231,7 +6236,7 @@
   
   <url>
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
-    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
