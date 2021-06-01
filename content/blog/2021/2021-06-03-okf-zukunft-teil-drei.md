@@ -43,5 +43,7 @@ Ich wünsche mir, dass die OKF weiterhin so innovativ und agil ist wie in den le
 
 Dazu gehört eine offene, digitale und zeitgemäße Bildung genauso wie der faire, gerechte und sichere Umgang mit unseren Daten. Zusammen mit einer Innovationsförderung, die auf eine nachhaltige, sozial gerechte und ökologische Transformation ausgerichtet ist, werden wir langfristig dort zu Veränderungen kommen wo es so dringend notwendig ist.
 
+**[Der vollständige Beitrag (Teil I-III) kann hier heruntergeladen werden.](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2021/06/2021_Andreas_Pawelke_Die_OKF_der_Zukunft.pdf)**
+
 
 *Ein großes Dankeschön an Adriana, Arne, Daniel, Henriette, Max und Stefan für Ihre Kommentare und Anmerkungen und an Claudia für das Lektorat.*
