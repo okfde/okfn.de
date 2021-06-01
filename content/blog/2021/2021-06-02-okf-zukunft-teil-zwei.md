@@ -17,6 +17,8 @@ title: "Die OKF der Zukunft – Teil II"
 ---
 Als langjähriges (und [vor kurzem ausgeschiedenes](https://okfn.de/blog/2021/03/okf-vorstandswechsel/)) Vorstandsmitglied nehme ich zum Abschied das Privileg in Anspruch, nicht nur laut über die vergangene und gegenwärtige Arbeit der OKF nachzudenken, sondern auch Überlegungen zur zukünftigen Ausrichtung der Organisation anzustellen.
 
+### Teil II
+
 ### Die Zukunft unserer Daten
 
 Open Data ist Teil des [Gründungsmythos der OKF](https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/). In den frühen Jahren haben Vorstand, Team und unzählige Freiwillige viel Zeit und Energie aufgebracht, um Verwaltungen im ganzen Land von der Sinnhaftigkeit offener Daten zu überzeugen. Mit [Apps für Deutschland](https://blog.okfn.org/2011/11/08/apps-4-germany-contest-launched/) hat die OKF 2011 den ersten Open Data Wettbewerb in Deutschland mitorganisiert. Zahlreiche weitere Projekte folgten wie [Offener Haushalt](https://okfn.de/projekte/offenerhaushalt/) (2011), [Stadt Land Code](http://stadtlandcode.de/) (2012/13) und [Code for Germany](https://www.codefor.de/) (2014). Auch auf politischer Ebene wurden wichtige Erfolge errungen: die [G8 Open Data Charter](https://opendatacharter.net/g8-open-data-charter/) (2013), ein [deutsches Open-Data-Gesetz](https://okfn.de/blog/2016/10/opendata-gesetz/) (2016), der [Beitritt Deutschlands zur Open Government Partnership](https://okfn.de/blog/2016/07/ogp/) (2016) und die Einführung eines [Transparenzregisters](https://okfn.de/blog/2017/02/transparenzregister/) (2017).
