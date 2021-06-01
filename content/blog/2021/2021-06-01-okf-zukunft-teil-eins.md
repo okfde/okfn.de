@@ -23,11 +23,11 @@ Die OKF ist [seit zehn Jahren](https://okfn.de/blog/2021/02/okf-10jahre-intervie
 
 Für mich haben drei große Fragen die Arbeit der OKF in den letzten Jahren geprägt: 
 
-1. Wie muss eine offene, digitale und zeitgemäße Bildung aussehen, die Lernende innerhalb und außerhalb von Schulen dazu befähigt, konstruktiv, souverän aber auch kritisch mit digitalen Räumen umzugehen? Der Umgang mit Technologien ist dabei allerdings nur ein Mittel zum Zweck. Es geht vielmehr darum, unsere zunehmend digitalisierte Gesellschaft zu hinterfragen und mitzugestalten.
+1. Wie muss eine offene, digitale und zeitgemäße Bildung aussehen, die **Lernende** innerhalb und außerhalb von Schulen **dazu befähigt, konstruktiv, souverän aber auch kritisch mit digitalen Räumen umzugehen**? Der Umgang mit Technologien ist dabei allerdings nur ein Mittel zum Zweck. Es geht vielmehr darum, unsere zunehmend digitalisierte Gesellschaft zu hinterfragen und mitzugestalten.
 
-2. Wie gelingt es uns, das demokratische Miteinander zu fördern? Das umfasst sowohl Fragen von staatlicher Transparenz durch Zugang zu Daten und Informationen, als auch eine Kultur der Zusammenarbeit zwischen Politik, Verwaltung und Zivilgesellschaft.
+2. Wie gelingt es uns, **das demokratische Miteinander** zu **fördern**? Das umfasst sowohl Fragen von staatlicher Transparenz durch Zugang zu Daten und Informationen, als auch eine Kultur der Zusammenarbeit zwischen Politik, Verwaltung und Zivilgesellschaft.
 
-3. Wie schaffen wir es (technologische) Innovationen zu ermöglichen, die nicht in erster Linie einen wirtschaftlichen Nutzen verfolgen, sondern Bürger:innen ermächtigen und den gesellschaftlichen Zusammenhalt fördern?
+3. Wie schaffen wir es **(technologische) Innovationen** zu **ermöglichen**, die nicht in erster Linie einen wirtschaftlichen Nutzen verfolgen, sondern **Bürger:innen ermächtigen** und den **gesellschaftlichen Zusammenhalt fördern**?
 
 Jeder dieser drei Themenbereiche für sich ist groß, komplex und festgefahren in überholten Denkmustern, einem mitunter fragwürdigen Verständnis von Staat und Verwaltung und starren Machtstrukturen. Und dennoch ist es der OKF als kleiner und junger Organisation im Verbund mit vielen anderen zivilgesellschaftlichen Akteur:innen immer wieder gelungen, kleine und große Erfolge zu erzielen.
 
