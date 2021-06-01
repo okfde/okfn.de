@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-05-26T00:00:00+0000</updated>
+  <updated>2021-06-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Die OKF der Zukunft – Teil I</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/06/okf-zukunft-teil-eins/"/>
+    <id>https://okfn.de/blog/2021/06/okf-zukunft-teil-eins/</id>
+    <published>2021-06-01T00:00:00+0000</published>
+    <updated>2021-06-01T00:00:00+0000</updated>
+    <summary>Als langjähriges (und vor kurzem ausgeschiedenes) Vorstandsmitglied nehme ich zum Abschied das Privileg in Anspruch, nicht nur laut über die vergangene und gegenwärtige Arbeit der OKF nachzudenken, sondern auch Überlegungen zur zukünftigen Ausrichtung der Organisation anzustellen.
+Die großen Fragen der OKF Die OKF ist seit zehn Jahren Teil einer aktiven Zivilgesellschaft, die den gesellschaftlichen Wandel hin zu einer offenen Wissensgesellschaft gestaltet und vorantreibt. Sie fördert den freien Zugang zu Informationen und die Aneignung digitaler Kompetenzen, damit Menschen informierte Entscheidungen treffen und sich aktiv in soziale, gesellschaftliche und demokratische Prozesse einbringen und diese gestalten können.</summary>
+  </entry>
   
   <entry>
     <title>Von Militärgeschichte zu Datenspaziergängen - eine Bestandsaufnahme der digitalen Zivilgesellschaft</title>
@@ -155,16 +165,6 @@ Deshalb haben wir uns mit unseren Forderungen für eine offene, inklusive und ge
     <updated>2021-03-15T00:00:00+0000</updated>
     <summary>Mit dem vierten Forum Open Education lädt das Bündnis Freie Bildung auch 2021 wieder engagierte Bildungsenthusiast*innen und politischen Entscheidungstragende ein, zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Ziel ist es, die Zusammenarbeit und den Austausch zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Gemeinsam werden Einschätzungen, Strategien und konkrete Handlungsempfehlungen für gerechte, offene und nachhaltige Bildung erarbeitet.
 Das Forum fungiert als Ideengeber und Korrektiv und lebt den politischen Austausch auf Augenhöhe.</summary>
-  </entry>
-  
-  <entry>
-    <title>Die OKF wird 10 Jahre alt</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/"/>
-    <id>https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/</id>
-    <published>2021-02-17T00:00:00+0000</published>
-    <updated>2021-02-17T00:00:00+0000</updated>
-    <summary>Am 19. Februar 2011 wurde die “Open Knowledge Foundation Deutschland” in das Berliner Vereinsregister eingetragen. 10 Jahre ist das her. Unseren ersten runden Geburtstag wollen wir nutzen, um in diesem Jahr auf unsere Arbeit zurückzublicken, mit früheren und aktuellen Wegbegleiter:innen zu sprechen und auch nach vorne zu schauen, was zukünftig wichtig sein wird. Und feiern wollen wir auch. Ein bißchen. Im Sommer.
-Daniel Dietrich ist Mit-Gründer der OKF Deutschland und seit Tag 1 im Vorstand der Organisation aktiv.</summary>
   </entry>
   
 </feed>
