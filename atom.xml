@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-06-01T00:00:00+0000</updated>
+  <updated>2021-06-02T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Die OKF der Zukunft – Teil II</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/06/okf-zukunft-teil-zwei/"/>
+    <id>https://okfn.de/blog/2021/06/okf-zukunft-teil-zwei/</id>
+    <published>2021-06-02T00:00:00+0000</published>
+    <updated>2021-06-02T00:00:00+0000</updated>
+    <summary>Als langjähriges (und vor kurzem ausgeschiedenes) Vorstandsmitglied nehme ich zum Abschied das Privileg in Anspruch, nicht nur laut über die vergangene und gegenwärtige Arbeit der OKF nachzudenken, sondern auch Überlegungen zur zukünftigen Ausrichtung der Organisation anzustellen.
+Teil II Die Zukunft unserer Daten Open Data ist Teil des Gründungsmythos der OKF. In den frühen Jahren haben Vorstand, Team und unzählige Freiwillige viel Zeit und Energie aufgebracht, um Verwaltungen im ganzen Land von der Sinnhaftigkeit offener Daten zu überzeugen.</summary>
+  </entry>
   
   <entry>
     <title>Die OKF der Zukunft – Teil I</title>
@@ -155,16 +165,6 @@ Unsere Jugend hackt Labs sind Orte, an denen Jugendliche regelmäßig zusammenko
     <updated>2021-03-16T00:00:00+0000</updated>
     <summary>Die sechs Landtags- bzw. Abgeordnetenhauswahlen sowie die Bundestagswahl am 26. September geben dieses Jahr viele Anlässe, die Themen der OKF zu diskutieren und - wie wir aktuell besonders erleben - viel Nachholbedarf bei Open Government und Co. auf Seiten von Staat und Verwaltungen.
 Deshalb haben wir uns mit unseren Forderungen für eine offene, inklusive und gerechte Gesellschaft an Mitglieder aller demokratischen Parteien gewandt. Wir stehen ein für eine starke Demokratie, in der sich staatliches und gesellschaftliches Handeln am Gemeinwohl orientieren.</summary>
-  </entry>
-  
-  <entry>
-    <title>Forum Open Education: Bildungspolitik auf Augenhöhe</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/03/forum-open-education-2021/"/>
-    <id>https://okfn.de/blog/2021/03/forum-open-education-2021/</id>
-    <published>2021-03-15T00:00:00+0000</published>
-    <updated>2021-03-15T00:00:00+0000</updated>
-    <summary>Mit dem vierten Forum Open Education lädt das Bündnis Freie Bildung auch 2021 wieder engagierte Bildungsenthusiast*innen und politischen Entscheidungstragende ein, zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Ziel ist es, die Zusammenarbeit und den Austausch zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Gemeinsam werden Einschätzungen, Strategien und konkrete Handlungsempfehlungen für gerechte, offene und nachhaltige Bildung erarbeitet.
-Das Forum fungiert als Ideengeber und Korrektiv und lebt den politischen Austausch auf Augenhöhe.</summary>
   </entry>
   
 </feed>
