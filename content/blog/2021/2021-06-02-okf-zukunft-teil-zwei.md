@@ -11,7 +11,7 @@ tags:
 - Positionen
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Die OKF der Zukunft – Teil II"
 ---
