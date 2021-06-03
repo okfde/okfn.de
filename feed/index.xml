@@ -6,10 +6,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Die OKF der Zukunft – Teil III</title>
+      <link>https://okfn.de/blog/2021/06/okf-zukunft-teil-drei/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/06/okf-zukunft-teil-drei/</guid>
+      <description>Als langjähriges (und vor kurzem ausgeschiedenes) Vorstandsmitglied nehme ich zum Abschied das Privileg in Anspruch, nicht nur laut über die vergangene und gegenwärtige Arbeit der OKF nachzudenken, sondern auch Überlegungen zur zukünftigen Ausrichtung der Organisation anzustellen.
+Teil III Die Innovationsförderung von morgen Der Programme der OKF waren von Beginn an darauf ausgerichtet, Menschen außerhalb der Organisation zu fördern, zu unterstützen und gemeinsam Dinge voranzutreiben. Die 31 OK Labs sind Orte, an denen sich Ehrenamtliche treffen, um lokale Anwendungen für eine offene Gesellschaft zu entwickeln.</description>
+    </item>
     
     <item>
       <title>Die OKF der Zukunft – Teil II</title>

@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-06-02T00:00:00+0000</updated>
+  <updated>2021-06-03T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Die OKF der Zukunft – Teil III</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/06/okf-zukunft-teil-drei/"/>
+    <id>https://okfn.de/blog/2021/06/okf-zukunft-teil-drei/</id>
+    <published>2021-06-03T00:00:00+0000</published>
+    <updated>2021-06-03T00:00:00+0000</updated>
+    <summary>Als langjähriges (und vor kurzem ausgeschiedenes) Vorstandsmitglied nehme ich zum Abschied das Privileg in Anspruch, nicht nur laut über die vergangene und gegenwärtige Arbeit der OKF nachzudenken, sondern auch Überlegungen zur zukünftigen Ausrichtung der Organisation anzustellen.
+Teil III Die Innovationsförderung von morgen Der Programme der OKF waren von Beginn an darauf ausgerichtet, Menschen außerhalb der Organisation zu fördern, zu unterstützen und gemeinsam Dinge voranzutreiben. Die 31 OK Labs sind Orte, an denen sich Ehrenamtliche treffen, um lokale Anwendungen für eine offene Gesellschaft zu entwickeln.</summary>
+  </entry>
   
   <entry>
     <title>Die OKF der Zukunft – Teil II</title>
@@ -155,16 +165,6 @@ Andreas war seit 2014 zunächst Kassenwart, dann Vorsitzender des Vorstands und 
     <summary>Jugend hackt wächst - und wir wollen, dass ihr dabei seid!
 Mit Code die Welt verbessern – das ist seit 2013 das Ziel von Jugend hackt, dem gemeinsamen Programm der OKF DE und mediale pfade - Verein für Medienbildung e.V. Wir sind ein Programm für Jugendliche zwischen 12 und 18 Jahren, die Lust auf Technik haben und darauf, sich damit auseinanderzusetzen, wie Technik und Gesellschaft zusammenhängen.
 Unsere Jugend hackt Labs sind Orte, an denen Jugendliche regelmäßig zusammenkommen, um sich kreativ auszuprobieren und sich selbst einzubringen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Forderungen für eine gemeinwohlorientierte, demokratische Digitalpolitik</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/"/>
-    <id>https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/</id>
-    <published>2021-03-16T00:00:00+0000</published>
-    <updated>2021-03-16T00:00:00+0000</updated>
-    <summary>Die sechs Landtags- bzw. Abgeordnetenhauswahlen sowie die Bundestagswahl am 26. September geben dieses Jahr viele Anlässe, die Themen der OKF zu diskutieren und - wie wir aktuell besonders erleben - viel Nachholbedarf bei Open Government und Co. auf Seiten von Staat und Verwaltungen.
-Deshalb haben wir uns mit unseren Forderungen für eine offene, inklusive und gerechte Gesellschaft an Mitglieder aller demokratischen Parteien gewandt. Wir stehen ein für eine starke Demokratie, in der sich staatliches und gesellschaftliches Handeln am Gemeinwohl orientieren.</summary>
   </entry>
   
 </feed>
