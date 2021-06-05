@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 title: kleineAnfragen
 subtitle: Anfragen von Abgeordneten gebündelt auf einer Plattform 
 categories:
