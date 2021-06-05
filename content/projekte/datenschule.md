@@ -1,7 +1,7 @@
 ---
 title: Datenschule
 subtitle: Mit datengestützten Projekten gesellschaftlichen Wandel positiv gestalten
-type: education
+type: archive
 kategorien:
   - Bildung
 categories:
