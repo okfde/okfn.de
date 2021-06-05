@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/jobs/software-entwicklerin-fragdenstaat/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2021/06/okf-zukunft-teil-drei/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url>
@@ -3301,7 +3306,7 @@
   
   <url>
     <loc>https://okfn.de/authors/arne-semsrott/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4417,6 +4422,7 @@
   
   <url>
     <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4833,7 +4839,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

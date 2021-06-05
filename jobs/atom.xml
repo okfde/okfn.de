@@ -1,12 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>0001-01-01T00:00:00+0000</updated>
+  <updated>2021-06-05T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Wir suchen eine eine*n Software-Entwickler*in für FragDenStaat!</title>
+    <link rel="alternate" href="https://okfn.de/jobs/software-entwicklerin-fragdenstaat/"/>
+    <id>https://okfn.de/jobs/software-entwicklerin-fragdenstaat/</id>
+    <published>2021-06-05T00:00:00+0000</published>
+    <updated>2021-06-05T00:00:00+0000</updated>
+    <summary>Der*die Software-Entwickler*in arbeitet als Teil eines kleinen Teams an der Code Base von FragDenStaat, um neue Funktionen zu entwickeln, Bugs zu fixen und Design-Entwürfe umzusetzen.
+Wir streben eine gleichmäßige Repräsentation gesellschaftlicher Gruppen im Team an und möchten den Anteil von Menschen mit Migrationsgeschichte, Schwarzen Personen/PoCs und Menschen mit Behinderungen im Team erhöhen.
+Wer wir sind FragDenStaat ist das Portal für Informationsfreiheit in Deutschland. Seit 2011 ermöglicht es allen Menschen, einfach und transparent Informationen von Behörden zu befreien – mit technischen Tools, Kampagnen, strategischen Klagen und journalistischer Berichterstattung.</summary>
+  </entry>
   
 </feed>
