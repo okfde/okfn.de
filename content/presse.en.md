@@ -10,7 +10,7 @@ If you are looking for background information, have specific questions about our
 
 
 **Contact person:**
-Michael Peters, Leonard Wolf<br>
+Henriette Litta<br>
 **E-mail:** presse@okfn.de<br>
 **Phone:**
 +49 30 577036660
