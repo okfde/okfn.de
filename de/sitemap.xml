@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2021/06/digitale-kolonialisierung-stoppen/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/jobs/software-entwicklerin-fragdenstaat/</loc>
     <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url>
@@ -3414,7 +3419,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4699,6 +4704,12 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/authors/maximilian-voigt-patricia-leu/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/tags/mdb-guide/</loc>
     <lastmod>2018-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4839,7 +4850,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5457,7 +5468,7 @@
   
   <url>
     <loc>https://okfn.de/tags/positionen/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5558,7 +5569,7 @@
   
   <url>
     <loc>https://okfn.de/tags/public-interest-tech/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6246,6 +6257,12 @@
   <url>
     <loc>https://okfn.de/tags/workshops/</loc>
     <lastmod>2018-02-28T10:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/tags/wto/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

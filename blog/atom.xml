@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-06-03T00:00:00+0000</updated>
+  <updated>2021-06-21T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>WTO eCommerce: Digitale Kolonialisierung stoppen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/06/digitale-kolonialisierung-stoppen/"/>
+    <id>https://okfn.de/blog/2021/06/digitale-kolonialisierung-stoppen/</id>
+    <published>2021-06-21T00:00:00+0000</published>
+    <updated>2021-06-21T00:00:00+0000</updated>
+    <summary>In 10 Jahren OKF hat sich der digitale Datenaustausch explosionsartig entwickelt. Die Ausbreitung und damit auch Macht international agierender Unternehmen ist weit fortgeschritten. Die Welthandelsorganisation (WTO) entwickelt im Rahmen einer „Joint Statement Initiative“ (JSI) seit dem Frühjahr 2019 gemeinsame Regeln (WTO Electronic Commerce Negotiations) für den Handel in der Digitalökonomie. Wir fordern mit Aktivist:innen wie der Anwältin Renata Ávila Pinto den digitalen Kolonialismus zu stoppen und globale Regeln am Gemeinwohl auszurichten.</summary>
+  </entry>
   
   <entry>
     <title>Die OKF der Zukunft – Teil III</title>
@@ -154,17 +163,6 @@ Das „Forum Open Education“ schafft eine Vertrauensbasis, indem es zu einem A
     <updated>2021-03-29T00:00:00+0000</updated>
     <summary>Nach sieben Jahren scheidet Andreas Pawelke zum Monatsende aus dem Vorstand der Open Knowledge Foundation Deutschland aus und übergibt den Vorsitz kommissarisch bis zur nächsten Mitgliederversammlung an Vorstandsmitglied Kristina Klein.
 Andreas war seit 2014 zunächst Kassenwart, dann Vorsitzender des Vorstands und hat zuletzt insbesondere den umfassenden Organisationsentwicklungsprozess der OKF begleitet, um dem rasanten Wachstum der Organisation in den letzten Jahren Rechnung zu tragen. Kernelemente dieser Erneuerung waren die Einführung eines neuen Organisationsmodells, die Rekrutierung einer neuen Geschäftsführung, deren Profil zum neuen Organisationsmodell passt, sowie die Erweiterung und Profilschärfung des Vorstands.</summary>
-  </entry>
-  
-  <entry>
-    <title>Jugend hackt sucht Partner*innen für neue Labs</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/03/jugend-hackt-labs-2021-ausschreibung/"/>
-    <id>https://okfn.de/blog/2021/03/jugend-hackt-labs-2021-ausschreibung/</id>
-    <published>2021-03-17T00:00:00+0000</published>
-    <updated>2021-03-17T00:00:00+0000</updated>
-    <summary>Jugend hackt wächst - und wir wollen, dass ihr dabei seid!
-Mit Code die Welt verbessern – das ist seit 2013 das Ziel von Jugend hackt, dem gemeinsamen Programm der OKF DE und mediale pfade - Verein für Medienbildung e.V. Wir sind ein Programm für Jugendliche zwischen 12 und 18 Jahren, die Lust auf Technik haben und darauf, sich damit auseinanderzusetzen, wie Technik und Gesellschaft zusammenhängen.
-Unsere Jugend hackt Labs sind Orte, an denen Jugendliche regelmäßig zusammenkommen, um sich kreativ auszuprobieren und sich selbst einzubringen.</summary>
   </entry>
   
 </feed>
