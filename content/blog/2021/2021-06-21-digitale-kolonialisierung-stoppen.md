@@ -15,7 +15,7 @@ type: post
 layout: post
 published: true
 featured: yellow
-title: "WTO eCommerce: Digitale Kolonialisierung stoppen"
+title: "WTO eCommerce: digitale Kolonialisierung stoppen"
 ---
 In 10 Jahren OKF hat sich der digitale Datenaustausch explosionsartig entwickelt. Die Ausbreitung und damit auch Macht international agierender Unternehmen ist weit fortgeschritten. Die Welthandelsorganisation (WTO) entwickelt im Rahmen einer „Joint Statement Initiative“ (JSI) seit dem Frühjahr 2019 gemeinsame Regeln ([WTO Electronic Commerce Negotiations](https://www.bilaterals.org/IMG/pdf/wto_plurilateral_ecommerce_draft_consolidated_text.pdf)) für den Handel in der Digitalökonomie. Wir fordern mit Aktivist:innen wie der Anwältin [Renata Ávila Pinto](https://de.wikipedia.org/wiki/Renata_Ávila_Pinto) den digitalen Kolonialismus zu stoppen und globale Regeln am Gemeinwohl auszurichten.
 
