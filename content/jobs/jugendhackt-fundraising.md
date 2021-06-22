@@ -18,7 +18,7 @@ Zur Verstärkung des Jugend hackt Teams suchen wir:
 
 ## Über Jugend hackt
 
-[Jugend hackt](https://jugendhackt.org/) ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit “Code die Welt verbessern” wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. und von mediale pfade.org - Verein für Medienbildung e.V.
+[Jugend hackt](https://jugendhackt.org/) ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit „Code die Welt verbessern“ wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. und von mediale pfade.org - Verein für Medienbildung e.V.
 
 Wichtiger als formale Qualifikationen sind uns Vorstellungsvermögen, Machertum, Fleiß, ernsthafte Begeisterungsfähigkeit, die Fähigkeit, schnell Neues zu erlernen und, Interesse an gesellschaftlichem Wandel mit Tiefgang. Wenn du also das Gefühl hast, die Punkte unten nicht 100%ig zu erfüllen, aber ernsthaftes Interesse und große Begeisterung für unsere Community und unsere Themen hast, dann bewirb dich in jedem Fall trotzdem!
 
@@ -30,7 +30,7 @@ Trägerverein von Jugend hackt ist der gemeinnützige Verein Open Knowledge Foun
 
 Zur Verstärkung unseres Jugend hackt Teams in Berlin sind wir auf der Suche nach einer technik- und bildungsbegeisterten Persönlichkeit, die Lust hat, Jugend hackt im Bereich Fundraising weiterzuentwickeln.
 
-Wir suchen eine begeisterungsfähige, teamstarke, politik- und technikinteressierte Persönlichkeit, die sich aktiv mit den Zusammenhängen zwischen Technologie, Gesellschaft, Bildung und Demokratie auseinandersetzt. Wir wünschen uns eine Person, die Erfahrung und/oder Interesse für Fundraising mitbringt und Lust darauf hat, eigenverantwortlich großen Gestaltungsspielraum zu nutzen. Du solltest Spaß haben am Austausch mit unserer jugendlichen Zielgruppe, mit Spender*\innen und mit offiziellen Entscheidungsträger\*innen in Unternehmen, Stiftungen und Ministerien.
+Wir suchen eine begeisterungsfähige, teamstarke, politik- und technikinteressierte Persönlichkeit, die sich aktiv mit den Zusammenhängen zwischen Technologie, Gesellschaft, Bildung und Demokratie auseinandersetzt. Wir wünschen uns eine Person, die Erfahrung und/oder Interesse für Fundraising mitbringt und Lust darauf hat, eigenverantwortlich großen Gestaltungsspielraum zu nutzen. Du solltest Spaß haben am Austausch mit unserer jugendlichen Zielgruppe, mit Spender\*innen und mit offiziellen Entscheidungsträger\*innen in Unternehmen, Stiftungen und Ministerien.
 
 ## Deine Aufgaben
 
@@ -38,7 +38,7 @@ In Abstimmung mit der Programmleitung von Jugend hackt (Mechthild und Ben) bist 
 In diesen Bereichen wirst du vor allem arbeiten:
 
 * Unsere Fundraising-Strategie weiterentwickeln
-* Akquise und Betreuung von Spender*\innen, Fördermitgliedern und Sponsor\*innen
+* Akquise und Betreuung von Spender\*innen, Fördermitgliedern und Sponsor\*innen
 * Aufbau und pflege einer Datenbank von Geldgeber*innen und Netzwerk-Kontakten (CRM)
 * Förderanträge schreiben, bei Berichten und Reporting für bestehende Förderungen mitarbeiten
 * Andere Organisationsteams im Netzwerk (z.B. die Event-Teams in Köln, Hamburg, Halle, die Jugend hackt Labs, etc.) in ihren eigenen Fundraising-Aktivitäten unterstützen (Materialien bereitstellen, Fragen beantworten, Schulungen geben, …)
@@ -67,7 +67,7 @@ Wir bieten dir:
 * flexible Arbeitszeiten
 * dazuzulernen in den Bereichen, die dir wichtig sind
 * ein spannendes Arbeitsumfeld bei der Open Knowledge Foundation in Berlin
-* eine freundliche, kollegiale Büroatmosphäre im Großraumbüro (Nahe Alexanderplatz) mit der Möglichkeit zum Home Office
+* eine freundliche, kollegiale Büroatmosphäre im Großraumbüro (nahe Alexanderplatz) mit der Möglichkeit zum Home Office
 * eine Vergütung nach [TV-L E 12 Stufe 1](https://oeffentlicher-dienst.info/tv-l/allg/)
 
 ## Wie es weitergeht
@@ -79,7 +79,7 @@ Bitte schicke uns deine Bewerbung **bis spätestens 15. August** mit Anschreiben
 Wir werden alle Bewerbungen sichten und unserem personalverantwortlichen Team zur Auswahl vorlegen (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen nach Berlin ein (zweite Runde).
 
 **Diese Gespräche finden in der Woche von 6. bis 10. September 2021 in Berlin statt (voraussichtlich am 9. September).**
-Wenn wir uns persönlich treffen, halten wir uns strikt an Hygienemaßnahmen, inkl. Test/Impfbeleg, etc. Je nach aktueller Situation weichen wir ggf. auf online Gespräche aus.
+Wenn wir uns persönlich treffen, halten wir uns strikt an Hygienemaßnahmen, inkl. Test/Impfbeleg, etc. Je nach aktueller Situation weichen wir ggf. auf Online-Gespräche aus.
 
 In der Woche darauf entscheiden wir uns.
 
