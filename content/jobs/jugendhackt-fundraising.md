@@ -1,6 +1,6 @@
 ---
 authors:
-- Sonja fischbauer
+- Sonja Fischbauer
 date: 2021-06-22
 image:
   src: /files/blog/2019/31632708378_9e627e19eb_z.jpg
