@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 title: Coding da Vinci
 subtitle: Der Kultur-Hackathon
 layout: project
