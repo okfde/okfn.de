@@ -12,14 +12,14 @@ kategorien:
 categories:
   - Open Government
 people:
-  - name: Michael Peters
+  - name: Walter Palmetshofer
     role: Koordination
 contact:
    twitter: OpenGovGermany
 years: 2011-heute
 partners:
   - Open Government Partnership
-contact_person: michaelpeters
+contact_person: 
 website: https://opengovpartnership.de
 cta: Participate
 cta_text: |-
