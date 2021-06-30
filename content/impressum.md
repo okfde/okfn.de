@@ -19,7 +19,7 @@ Deutschland
 **Vereinsregister-Nr.:** VR 30468 B<br>
 **Umsatzsteuernummer:** DE278022128
 **Registergericht:** Amtsgericht Charlottenburg
-**Vertretungsberichtiger Vorstand**: Andreas Pawelke, Daniel Dietrich, Jana Wichmann, Kristina Klein, Julia Reda, Lea Gimpel, Gabriele C. Klug, Stefan Heumann.
+**Vertretungsberichtiger Vorstand**: Daniel Dietrich, Lea Gimpel, Stefan Heumann, Kristina Klein, Gabriele C. Klug, Julia Reda, Jana Wichmann.
 
 **Technisch:**
     Statisches HTML generiert mit [Hugo](https://gohugo.io/)
