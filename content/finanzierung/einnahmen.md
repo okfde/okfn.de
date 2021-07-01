@@ -8,12 +8,12 @@ Der Großteil (65%) unserer Einnahmen sind Zuschüsse, die wir durch Ausschreibu
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Übersicht</a>
-    <a href="#income-institutions" class="">Öffentliche Geldgeber</a>
-    <a href="#income-companies" class=""> Unternehmen</a>
-    <a href="#income-services">Dienstleistungen</a>
+    <a href="#income-institutions" class="">Zuschüsse</a>
+    <a href="#income-companies" class="">Sponsoring</a>
+    <a href="#income-services">wirtschaftliche Einnahmen</a>
     <a href="#income-donations" class="">Spenden</a>
 </div>
-<div class="js-incomes" id="incomes"><div class="einnahmen-kategorien d3chart"></div></div>
+<div class="js-incomes" id="incomes"><div class="kategorien d3chart"></div></div>
 <div class="js-incomes" id="income-donations"><div class="income-donations d3chart"></div></div>
 <div class="js-incomes" id="income-institutions"><div class="income-institutions d3chart"></div><small>*Verein möchte online nicht genannt werden, kann aber gerne bei uns persönlich erfragt werden</small></div>
 <div class="js-incomes" id="income-companies"><div class="income-companies d3chart"></div></div>
