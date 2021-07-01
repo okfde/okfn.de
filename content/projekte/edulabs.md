@@ -11,12 +11,8 @@ img: projects/edulabs_Projektuebersicht_bigTile.jpg
 img_header: projects/edulabs_Header.jpg
 website: https://edulabs.de
 people:
-  - name: Markus Neuschäfer
-    role: Projektleitung
   - name: Maximilian Voigt
     role: Projektmanager
-  - name: Edgar Zanella Alvarenga
-    role: Entwickler
 contact:
   twitter:
   mail: info@edulabs.de
