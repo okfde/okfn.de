@@ -12,13 +12,9 @@ layout: project
 img: projects/Datenschule_Projektuebersicht_smallTile.png
 img_header:
 people:
-  - name: Anna Alberts
-    role: Projektleitung
-  - name: Jasmin Helm
-    role: Kommunikation
-  - name: Lisa Passing
-    role: Entwicklerin
-contact_person: jasminhelm
+  - name: Maximilian Voigt
+    role: Project Manager
+contact_person: maximilianvoigt
 years: 2015 - today
 website: https://datenschule.de
 contact:
