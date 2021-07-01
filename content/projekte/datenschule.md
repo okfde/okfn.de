@@ -13,13 +13,9 @@ img: projects/Datenschule_Projektuebersicht_smallTile.png
 img_square:
 img_header:
 people:
-  - name: Lydia Böttcher
-    role: Projektmanagement Workshops
-  - name: Jasmin Helm
-    role: Projektmanagement Kommunikation
-  - name: Lisa Passing
-    role: Software-Entwicklung
-contact_person: jasminhelm
+  - name: Maximilian Voigt
+    role: Projektmanagement
+contact_person: maximilianvoigt
 years: 2015 - heute
 website: https://datenschule.de
 contact:
