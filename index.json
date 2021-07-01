@@ -82,18 +82,6 @@
  
    ,
      {
-       "url": "https://okfn.de/finanzierung/einnahmen/",
-       "title": "Einnahmen 2019",
-       "section": "finanzierung",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       
-       "content": ["Der","Großteil","(76%)","unserer","Einnahmen","sind","Gelder","aus","öffentlicher","Hand,","die","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten","erhalten.","Unsere","Spendeneinnahmen","konnten","wir","2019","fast","verdoppeln","auf","15%","unserer","Einnahmen.","Dabei","gingen","die","meisten","Spenden","spezifisch","an","die","Projekte","FragDenStaat","und","Jugend","hackt,","aber","auch","an","die","OKF","als","Ganzes","dank","der","Spendenkampagne","FriendlyFire,","die","im","Dezember","für","uns","und","für","7","andere","Organisationen","gesammelt","hat.","Über","Dienstleistungen","für","meist","Institutionen","oder","Vereine","haben","wir","knapp","8%","erwirtschaftet;","Sponsoring","trägt","aktuell","zu","weniger","als","1%","unserer","Gelder","bei.","Übersicht","Öffentliche","Geldgeber","Unternehmen","Dienstleistungen","Spenden","*Verein","möchte","online","nicht","genannt","werden,","kann","aber","gerne","bei","uns","persönlich","erfragt","werden","Hauptsächlich","durch","Einzelspenden","finanzierte","oder","auf","ehrenamtlicher","Arbeit","beruhende","Projekte","Unsere","Projekte","entstehen","aus","einer","lösungsorientierten","und","idealistischen","Haltung","und","werden","oft","durch","ehrenamtliche","Tätigkeit","initiiert.","Einzelspenden","ermöglichen","die","Verstetigung","und","inhaltliche","Unabhängigkeit","dieser","gemeinnützigen","Werkzeuge.","Unterstütze","uns","deshalb","noch","heute","mit","deiner","Spende!"]
-       
-     }
- 
-   ,
-     {
        "url": "https://okfn.de/profil/wissen/",
        "title": "Wir setzen uns für offenes Wissen ein",
        "section": "profil",
@@ -113,6 +101,18 @@
        
        
        "content": ["Der","größte","Teil","der","finanziellen","Zuwendungen","und","Umsätze","ist","an","die","Durchführung","von","konkreten","Projekten","und","an","die","Organisation","von","Veranstaltungen","gebunden.","Neben","den","projektgebundenen","Ausgaben","versuchen","wir,","die","Fixkosten","gering","zu","halten.","Derzeit","setzen","sie","sich","zusammen","aus","Miete","und","Nebenkosten","für","das","Berliner","Büro,","die","Ausgaben","für","unsere","Buchhaltung,","die","Leitung","unserer","Organisation","sowie","Serverkosten.","**","zum","Beispiel","Infrastruktur,","Buchführung,","Versicherungen","Der","größte","Posten","bei","den","Ausgaben","sind","materielle","Aufwendungen","für","die","Planung","und","Durchführung","von","Projekten","und","Veranstaltungen","sowie","unsere","Gehälter.","Die","Belegschaft","in","der","Geschäftsstelle","der","OKF","DE","in","Berlin","belief","sich","2019","im","Mittel","auf","27","Personen,","von","denen","allerdings","ein","großer","Teil","nicht","Vollzeit","arbeitet.","Weitere","fünf","Mitarbeiter*innen","waren","mit","Vertragsbindung","in","Labs","in","Ulm","und","Fürstenberg","oder","bei","der","OGP","am","Potsdamer","Platz","in","Berlin","angestellt.","Besonders","erfreulich","ist,","dass","der","Frauenanteil","bei","über","60%","liegt."]
+       
+     }
+ 
+   ,
+     {
+       "url": "https://okfn.de/finanzierung/einnahmen/",
+       "title": "Einnahmen 2020",
+       "section": "finanzierung",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Der","Großteil","(76%)","unserer","Einnahmen","sind","Gelder","aus","öffentlicher","Hand,","die","wir","durch","Ausschreibungen,","Förderprogramme","und","Forschungsarbeiten","erhalten.","Unsere","Spendeneinnahmen","konnten","wir","2019","fast","verdoppeln","auf","15%","unserer","Einnahmen.","Dabei","gingen","die","meisten","Spenden","spezifisch","an","die","Projekte","FragDenStaat","und","Jugend","hackt,","aber","auch","an","die","OKF","als","Ganzes","dank","der","Spendenkampagne","FriendlyFire,","die","im","Dezember","für","uns","und","für","7","andere","Organisationen","gesammelt","hat.","Über","Dienstleistungen","für","meist","Institutionen","oder","Vereine","haben","wir","knapp","8%","erwirtschaftet;","Sponsoring","trägt","aktuell","zu","weniger","als","1%","unserer","Gelder","bei.","Übersicht","Öffentliche","Geldgeber","Unternehmen","Dienstleistungen","Spenden","*Verein","möchte","online","nicht","genannt","werden,","kann","aber","gerne","bei","uns","persönlich","erfragt","werden","Hauptsächlich","durch","Einzelspenden","finanzierte","oder","auf","ehrenamtlicher","Arbeit","beruhende","Projekte","Unsere","Projekte","entstehen","aus","einer","lösungsorientierten","und","idealistischen","Haltung","und","werden","oft","durch","ehrenamtliche","Tätigkeit","initiiert.","Einzelspenden","ermöglichen","die","Verstetigung","und","inhaltliche","Unabhängigkeit","dieser","gemeinnützigen","Werkzeuge.","Unterstütze","uns","deshalb","noch","heute","mit","deiner","Spende!"]
        
      }
  
