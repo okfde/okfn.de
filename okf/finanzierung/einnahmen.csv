@@ -1,60 +1,59 @@
 category,item,amount
-Spenden/Mitgliedsbeiträge,Spenden von Privatpersonen <1.000€ ,232308
-Spenden/Mitgliedsbeiträge,Initiative Ulm Digital,47000
-Spenden/Mitgliedsbeiträge,Controlware Stiftung,10000
-Spenden/Mitgliedsbeiträge,Stiftung Erneuerbare Freiheit,10250
-Spenden/Mitgliedsbeiträge,Wau Holland Stiftung,6000
-Spenden/Mitgliedsbeiträge,yvolve GmbH & Co. KG ,37500
-Spenden/Mitgliedsbeiträge,Wild Europe GmbH & Co. KG,5414
-Spenden/Mitgliedsbeiträge,Whollees GmbH,4000
-Spenden/Mitgliedsbeiträge,Deutsche Telekom AG,3000
-Spenden/Mitgliedsbeiträge,IBM,2000
-Spenden/Mitgliedsbeiträge,BitCrowd GmbH,1500
-Spenden/Mitgliedsbeiträge,zero360 GmbH,1500
-Spenden/Mitgliedsbeiträge,Eos.uptrade GmbH,1400
-Spenden/Mitgliedsbeiträge,Spenden von Institutionen/Unternehmen <1% und <1000€,4500
-Öffentliche Geldgeber/Institutionen,BMBF (1),495794
-Öffentliche Geldgeber/Institutionen,SKala-Initiative / Phineo,318650
-Öffentliche Geldgeber/Institutionen,Luminate (Omidyar Network Fund Inc.),220197
-Öffentliche Geldgeber/Institutionen,Open Government Partnership,187290
-Öffentliche Geldgeber/Institutionen,bpb – Bundeszentrale für politische Bildung,145894
-Öffentliche Geldgeber/Institutionen,BMU / Umweltbundesamt,75000
-Öffentliche Geldgeber/Institutionen,DB Stiftung gGmbH,70000
-Öffentliche Geldgeber/Institutionen,Schöpflin Stiftung,50000
-Öffentliche Geldgeber/Institutionen,BMBF (2),48884
-Öffentliche Geldgeber/Institutionen,Deutsch-Türkische Jugendbrücke,48645
-Öffentliche Geldgeber/Institutionen,EngagementGlobal gGmbH / BMZ,48572
-Öffentliche Geldgeber/Institutionen,BMVI,40902
-Öffentliche Geldgeber/Institutionen,Anonymus*,38500
-Öffentliche Geldgeber/Institutionen,Wikimedia Deutschland e. V.,21007
-Öffentliche Geldgeber/Institutionen,Freie und Hansestadt Hamburg,10000
-Öffentliche Geldgeber/Institutionen,Joachim Herz Stiftung,8333
-Öffentliche Geldgeber/Institutionen,Homann-Stiftung,5000
-Öffentliche Geldgeber/Institutionen,Heidehof Stiftung,5000
-Öffentliche Geldgeber/Institutionen,Digital Freedom Fund,4299
-Öffentliche Geldgeber/Institutionen,Stadt Bonn,2500
-Öffentliche Geldgeber/Institutionen,Rückzahlung BMBF (3),-297
-Förderung/Sponsoring durch Unternehmen,adesso insurance solutions GmbH,20000
-Förderung/Sponsoring durch Unternehmen,SpringWORK | mellowmessage GmbH,1700
-Förderung/Sponsoring durch Unternehmen,Sponsoring <1.000€,0
-eigenerwirtschaftete Gelder,eclareon GmbH,13600
-eigenerwirtschaftete Gelder,Goethe-Institut e. V. ,34713
-eigenerwirtschaftete Gelder,Stadt Köln (Stabstelle Digitalisierung),32460
-eigenerwirtschaftete Gelder,Körber Stiftung,31200
-eigenerwirtschaftete Gelder,Bertelsmann Stiftung,13600
-eigenerwirtschaftete Gelder,TU Berlin,11537
-eigenerwirtschaftete Gelder,nexus Institut für Kooperationsmanagement und interdisziplinäre Forschung GmbH,11000
-eigenerwirtschaftete Gelder,Senatsverwaltung Berlin,8403
-eigenerwirtschaftete Gelder,FH Potsdam,4202
-eigenerwirtschaftete Gelder,Golbal-Project Partners,3550
-eigenerwirtschaftete Gelder,ComputerProjekt Köln e. V.,3458
-eigenerwirtschaftete Gelder,Georg-August-Universtität Göttingen,3389
-eigenerwirtschaftete Gelder,Finanzministerium Rheinland-Pfalz,3000
-eigenerwirtschaftete Gelder,Landesjugendring MV e. V. ,2941
-eigenerwirtschaftete Gelder,Berliner Stadtreinigung,1750
-eigenerwirtschaftete Gelder,Deutscher Naturschutzring e. V.,1681
-eigenerwirtschaftete Gelder,Kulturbüro Rheinland Pfalz,1305
-eigenerwirtschaftete Gelder,non plus culture e. V.,1222
-eigenerwirtschaftete Gelder,Deutsch-Amerikanisches Institut Heidelberg,1008
-eigenerwirtschaftete Gelder,Mozilla Corporation,1000
-eigenerwirtschaftete Gelder,Aufträge <1.000€,6426
+Spenden,Spenden von Privatpersonen,320768
+Spenden,Friendly Fire Kampagne,112305
+Spenden,Initiative Ulm Digital e.V.,37000
+Spenden,Joachim Herz Stiftung,18750
+Spenden,Dachstiftung für individuelles Schenken,8000
+Spenden,Goethe-Institut e.V.,7140
+Spenden,Wau Holland Stiftung,6000
+Spenden,Verein „Freie Netze. Freies Wissen.“,5000
+Spenden,Sebastian-Cobler-Stiftung,1000
+Spenden,Wild Europe GmbH & Co. KG,8390
+Spenden,Cosmo Consult GmbH,5000
+Spenden,Galenus-Apotheke,2000
+Spenden,Eggs unimedia GmbH,1000
+Spenden,A + S Anlagenbau und Service GmbH,1000
+Spenden,Spenden von Institutionen/Unternehmen unter 1.000 €,4826
+Zuschüsse,BMBF ,503817
+Zuschüsse,Luminate (Omidyar Network Fund Inc.),378482
+Zuschüsse,SKala-Initiative / Phineo,289102
+Zuschüsse,Schöpflin Stiftung,74704
+Zuschüsse,BMU / Umweltbundesamt,70186
+Zuschüsse,DB Stiftung gGmbH,70000
+Zuschüsse,Deutsche Stiftung für Engagement und Ehrenamt,39042
+Zuschüsse,Phineo SKala Zukunftsfond,37843
+Zuschüsse,Open Government Partnership,33173
+Zuschüsse,anderer Verein,30000
+Zuschüsse,Postcodelotterie,27818
+Zuschüsse,Arnfried und Hannelore Meyer Stiftung,25675
+Zuschüsse,Wegrand-Stiftung,20676
+Zuschüsse,FOE / Wikimedia Deutschland e. V.,16080
+Zuschüsse,Good Move,13500
+Zuschüsse,Youth Policy Labs gGmbH,6850
+Zuschüsse,Stiftung Mitarbeit,5000
+Zuschüsse,EngagementGlobal gGmbH / BMZ,2651
+Zuschüsse,Digital Freedom Fund,1720
+Zuschüsse,BMVI,98
+Sponsoring durch Unternehmen,adesso insurance solutions GmbH,18000
+Sponsoring durch Unternehmen,Sponsoring <1.000€,0
+Wirtschaftliche Einnahmen,Stromnetz Berlin GmbH / Vattenfall GmbH,58500
+Wirtschaftliche Einnahmen,Q3. Quartier für Medien.Bildung.Abenteuer gGmbH,5042
+Wirtschaftliche Einnahmen,IKT Linz GmbH,4310
+Wirtschaftliche Einnahmen,IJAB – Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland e.V.,137750
+Wirtschaftliche Einnahmen,Körber Stiftung,26800
+Wirtschaftliche Einnahmen,nexus Institut,24700
+Wirtschaftliche Einnahmen,Stadt Leipzig,19184
+Wirtschaftliche Einnahmen,Robert Bosch Stiftung,18900
+Wirtschaftliche Einnahmen,Goethe-Institut e.V.,6000
+Wirtschaftliche Einnahmen,ComputerProjekt Köln e.V. (Fachstelle für Jugendmedienkultur NRW),5997
+Wirtschaftliche Einnahmen,Deutsche Umwelthilfe e.V.,4138
+Wirtschaftliche Einnahmen,Global Project Partners,3675
+Wirtschaftliche Einnahmen,BSR Berliner Stadtreinigung,3500
+Wirtschaftliche Einnahmen,Fundacja ePaństwo,3419
+Wirtschaftliche Einnahmen,Behörde für Schule und Berufsbildung Jugendinformationszentrum Freie und Hansestadt Hamburg Kasse,3081
+Wirtschaftliche Einnahmen,Brandenburgische Technische Universität Cottbus-Senftenberg,2800
+Wirtschaftliche Einnahmen,Schurman-Gesellschaft e.V. - Deutsch-Amerikanisches Institut Heidelberg,2586
+Wirtschaftliche Einnahmen,The New Institute,2000
+Wirtschaftliche Einnahmen,Wissenschaftsladen Potsdam e.V.,1681
+Wirtschaftliche Einnahmen,Node Verein zur Förderung Digitaler Kultur e.V.,1000
+Wirtschaftliche Einnahmen,Aufträge <1.000€,4033
