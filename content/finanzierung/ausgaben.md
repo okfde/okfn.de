@@ -1,6 +1,6 @@
 ---
 title: Ausgaben 2020
-weight: 4
+weight: 3
 data: path/to/data.csv
 ---
 
