@@ -11,4 +11,4 @@ search_keys:
   - Profit and loss statement
 ---
 
-Since our launch in 2011, we have been funded by foundations, ministries, research contracts and individual donors from the public and private sectors. In the financial year 2019, we raised anmore th 2.424 million euros for our work. This was offset by total expenditure of € 2.253 million.
+Since our launch in 2011, we have been funded by foundations, ministries, research contracts and individual donors from the public and private sectors. In the financial year 2020, we raised more than 2.532 million euros for our work. This was offset by total expenditure of 2.028 million euros.
