@@ -93,7 +93,7 @@ function developmentViz() {
 }
 
 function incomesViz() {
-  incomesHelper('div.einnahmen-kategorien', '/okf/finanzierung/einnahmen-kategorien.csv', 24);
+  incomesHelper('div.kategorien', '/okf/finanzierung/einnahmen-kategorien.csv', 24);
   incomesHelper('div.income-donations', '/okf/finanzierung/einnahmen-spenden.csv', 15);
   incomesHelper('div.income-institutions', '/okf/finanzierung/einnahmen-institutionen.csv', 15);
   incomesHelper('div.income-companies', '/okf/finanzierung/einnahmen-unternehmen.csv', 15);
