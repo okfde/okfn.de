@@ -94,18 +94,6 @@
  
    ,
      {
-       "url": "https://okfn.de/finanzierung/ausgaben/",
-       "title": "Ausgaben 2019",
-       "section": "finanzierung",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       
-       "content": ["Der","größte","Teil","der","finanziellen","Zuwendungen","und","Umsätze","ist","an","die","Durchführung","von","konkreten","Projekten","und","an","die","Organisation","von","Veranstaltungen","gebunden.","Neben","den","projektgebundenen","Ausgaben","versuchen","wir,","die","Fixkosten","gering","zu","halten.","Derzeit","setzen","sie","sich","zusammen","aus","Miete","und","Nebenkosten","für","das","Berliner","Büro,","die","Ausgaben","für","unsere","Buchhaltung,","die","Leitung","unserer","Organisation","sowie","Serverkosten.","**","zum","Beispiel","Infrastruktur,","Buchführung,","Versicherungen","Der","größte","Posten","bei","den","Ausgaben","sind","materielle","Aufwendungen","für","die","Planung","und","Durchführung","von","Projekten","und","Veranstaltungen","sowie","unsere","Gehälter.","Die","Belegschaft","in","der","Geschäftsstelle","der","OKF","DE","in","Berlin","belief","sich","2019","im","Mittel","auf","27","Personen,","von","denen","allerdings","ein","großer","Teil","nicht","Vollzeit","arbeitet.","Weitere","fünf","Mitarbeiter*innen","waren","mit","Vertragsbindung","in","Labs","in","Ulm","und","Fürstenberg","oder","bei","der","OGP","am","Potsdamer","Platz","in","Berlin","angestellt.","Besonders","erfreulich","ist,","dass","der","Frauenanteil","bei","über","60%","liegt."]
-       
-     }
- 
-   ,
-     {
        "url": "https://okfn.de/finanzierung/einnahmen/",
        "title": "Einnahmen 2020",
        "section": "finanzierung",
@@ -137,6 +125,18 @@
        
        
        "content": ["#bildung","#openeducation","Wir","wollen","unser","Wissen","weitergeben","–","und","fangen","dabei","schon","bei","den","Jüngsten","in","unserer","Gesellschaft","an.","Denn","nur","wer","Technologie","versteht,","kann","sie","mitgestalten","und","sich","kritisch","mit","ihr","auseinandersetzen.","Daher","geben","wir","Workshops","zu","den","unterschiedlichsten","Themen","wie","Data","Literacy,","Offene","Daten","oder","Offene","Bildung","und","entwickeln","zudem","eigene","Bildungsformate","für","IT-begeisterte","Schüler*innen."]
+       
+     }
+ 
+   ,
+     {
+       "url": "https://okfn.de/finanzierung/ausgaben/",
+       "title": "Ausgaben 2020",
+       "section": "finanzierung",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Der","größte","Teil","der","finanziellen","Zuwendungen","und","Umsätze","ist","an","die","Durchführung","von","konkreten","Projekten","und","an","die","Organisation","von","Veranstaltungen","gebunden.","Neben","den","projektgebundenen","Ausgaben","versuchen","wir,","die","Fixkosten","gering","zu","halten.","Derzeit","setzen","sie","sich","zusammen","aus","Miete","und","Nebenkosten","für","das","Berliner","Büro,","die","Ausgaben","für","unsere","Buchhaltung,","die","Leitung","unserer","Organisation","sowie","Serverkosten.","**","zum","Beispiel","Infrastruktur,","Buchführung,","Versicherungen","Der","größte","Posten","bei","den","Ausgaben","sind","materielle","Aufwendungen","für","die","Planung","und","Durchführung","von","Projekten","und","Veranstaltungen","sowie","unsere","Gehälter.","Die","Belegschaft","in","der","Geschäftsstelle","der","OKF","DE","in","Berlin","belief","sich","2020","im","Mittel","auf","28","Personen,","von","denen","allerdings","ein","großer","Teil","nicht","Vollzeit","arbeitet.","Weitere","drei","Mitarbeiter*innen","waren","mit","Vertragsbindung","in","Labs","in","Ulm","und","Fürstenberg","angestellt.","Besonders","erfreulich","ist,","dass","der","Frauenanteil","bei","über","55%","liegt."]
        
      }
  

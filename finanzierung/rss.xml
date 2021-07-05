@@ -20,7 +20,16 @@
     </item>
     
     <item>
-      <title>Ausgaben 2019</title>
+      <title>Einnahmen 2020</title>
+      <link>https://okfn.de/finanzierung/einnahmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/finanzierung/einnahmen/</guid>
+      <description>Der Großteil (65%) unserer Einnahmen sind Zuschüsse, die wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten erhalten. Unsere Spendeneinnahmen entsprechen ca. 21% unserer Einnahmen. Dabei gingen die meisten Spenden spezifisch an die Projekte FragDenStaat und Jugend hackt, aber auch an die OKF als Ganzes dank der Spendenkampagne FriendlyFire, die im Dezember 2019 für uns und für 7 andere Organisationen gesammelt hat. Über wirtschaftliche Einnahmen haben wir 13% erwirtschaftet, Sponsoring trägt aktuell zu weniger als 1% unserer Gelder bei.</description>
+    </item>
+    
+    <item>
+      <title>Ausgaben 2020</title>
       <link>https://okfn.de/finanzierung/ausgaben/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -28,15 +37,6 @@
       <description>Der größte Teil der finanziellen Zuwendungen und Umsätze ist an die Durchführung von konkreten Projekten und an die Organisation von Veranstaltungen gebunden. Neben den projektgebundenen Ausgaben versuchen wir, die Fixkosten gering zu halten. Derzeit setzen sie sich zusammen aus Miete und Nebenkosten für das Berliner Büro, die Ausgaben für unsere Buchhaltung, die Leitung unserer Organisation sowie Serverkosten.
  ** zum Beispiel Infrastruktur, Buchführung, Versicherungen
 Der größte Posten bei den Ausgaben sind materielle Aufwendungen für die Planung und Durchführung von Projekten und Veranstaltungen sowie unsere Gehälter.</description>
-    </item>
-    
-    <item>
-      <title>Einnahmen 2020</title>
-      <link>https://okfn.de/finanzierung/einnahmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/finanzierung/einnahmen/</guid>
-      <description>Der Großteil (65%) unserer Einnahmen sind Zuschüsse, die wir durch Ausschreibungen, Förderprogramme und Forschungsarbeiten erhalten. Unsere Spendeneinnahmen entsprechen ca. 21% unserer Einnahmen. Dabei gingen die meisten Spenden spezifisch an die Projekte FragDenStaat und Jugend hackt, aber auch an die OKF als Ganzes dank der Spendenkampagne FriendlyFire, die im Dezember 2019 für uns und für 7 andere Organisationen gesammelt hat. Über wirtschaftliche Einnahmen haben wir 13% erwirtschaftet, Sponsoring trägt aktuell zu weniger als 1% unserer Gelder bei.</description>
     </item>
     
   </channel>

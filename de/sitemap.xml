@@ -101,20 +101,6 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/finanzierung/ausgaben/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/finanzierung/ausgaben/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/finanzierung/ausgaben/"
-                />
-  </url>
-  
-  <url>
     <loc>https://okfn.de/finanzierung/einnahmen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -153,6 +139,20 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/profil/muendigkeit/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/finanzierung/ausgaben/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/finanzierung/ausgaben/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/finanzierung/ausgaben/"
                 />
   </url>
   
