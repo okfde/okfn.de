@@ -17,4 +17,4 @@ search_keys:
   - Einnahmen-Ausgaben-Überschussrechnung
 ---
 
-Seit unserer Gründung im Jahr 2011 werden wir durch Stiftungen, Ministerien, Forschungsaufträge sowie einzelne private und wirtschaftliche Gebern finanziert. Im Geschäftsjahr 2020 standen uns 2,532 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen Gesamtausgaben von insgesamt 2,028 Mio € gegenüber.
+Seit unserer Gründung im Jahr 2011 werden wir durch Stiftungen, Ministerien, Forschungsaufträge sowie einzelne private und wirtschaftliche Gebern finanziert. Im Geschäftsjahr 2020 standen uns 2,532 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen Gesamtausgaben von insgesamt 2,028 Millionen Euro gegenüber.
