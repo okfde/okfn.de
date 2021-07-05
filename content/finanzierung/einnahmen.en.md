@@ -1,10 +1,10 @@
 ---
-title: Revenues 2019
+title: Revenues 2020
 weight: 2
 ---
 
 
-The majority (76%) of our income comes from public funds. We obtain these funds through public tenders, funding programmes and research work. Donations almost doubled in 2019 to approximately 15% of our income. The majority of these donations were specificially given to our projects FragdenStaat and Jugend hackt. Additionally, the charity campaign <a href="https://de.wikipedia.org/wiki/Friendly_Fire_(Charity-Livestream)">FriendlyFire</a> contributed to this increase of donations by raising <a href="https://www.youtube.com/watch?v=iMAl9q7iGgQ">donations for the OKF as a whole</a> as well as for 7 other organizations in December. Furthermore, we generated about 8% of our income through services usually provided for institutions or associations. Sponsoring currently accounts for less than 1% of our funds.
+The majority (65%) of our income comes from grants. We obtain these grants through public tenders, funding programmes and research work. Donation income represents approximately 21% of our income. The majority of these donations were specificially given to our projects FragdenStaat and Jugend hackt. Additionally, the charity campaign <a href="https://de.wikipedia.org/wiki/Friendly_Fire_(Charity-Livestream)">FriendlyFire</a> contributed to this increase of donations by raising <a href="https://www.youtube.com/watch?v=iMAl9q7iGgQ">donations for the OKF as a whole</a> as well as for 7 other organizations in December 2019. Furthermore, we generated about 13% of our income from contracts. Sponsoring currently accounts for less than 1% of our funds.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Overview</a>
