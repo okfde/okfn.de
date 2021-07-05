@@ -19,15 +19,6 @@
   </entry>
   
   <entry>
-    <title>Revenues 2020</title>
-    <link rel="alternate" href="https://okfn.de/en/finanzierung/einnahmen/"/>
-    <id>https://okfn.de/en/finanzierung/einnahmen/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>The majority (65%) of our income comes from grants. We obtain these grants through public tenders, funding programmes and research work. Donation income represents approximately 21% of our income. The majority of these donations were specificially given to our projects FragdenStaat and Jugend hackt. Additionally, the charity campaign FriendlyFire contributed to this increase of donations by raising donations for the OKF as a whole as well as for 7 other organizations in December 2019.</summary>
-  </entry>
-  
-  <entry>
     <title>Expenses 2020</title>
     <link rel="alternate" href="https://okfn.de/en/finanzierung/ausgaben/"/>
     <id>https://okfn.de/en/finanzierung/ausgaben/</id>
@@ -36,6 +27,15 @@
     <summary>Most of our spendings are linked to the implementation of projects and the organisation of events. We try to keep fixed costs (non project-related expenditure) low. Rent, ancillary costs for the Berlin office and server expenses represent the majority of such costs.
  ** for example infrastructure, book keeping, insurances
 In 2020, on average, we employed 28 people, but not all of them were full-time staff. 25 team members worked directly from our Berlin office, and three additional team members worked from our labs in Ulm and Fürstenberg.</summary>
+  </entry>
+  
+  <entry>
+    <title>Revenues 2020</title>
+    <link rel="alternate" href="https://okfn.de/en/finanzierung/einnahmen/"/>
+    <id>https://okfn.de/en/finanzierung/einnahmen/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>The majority (65%) of our income comes from grants. We obtain these grants through public tenders, funding programmes and research work. Donation income represents approximately 21% of our income. The majority of these donations were specificially given to our projects FragdenStaat and Jugend hackt. Additionally, the charity campaign FriendlyFire contributed to this increase of donations by raising donations for the OKF as a whole as well as for 7 other organizations in December 2019.</summary>
   </entry>
   
 </feed>
