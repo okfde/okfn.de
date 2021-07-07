@@ -63,13 +63,8 @@ Adriana Groh, Alex Taralle, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris J
 - [Profit and Loss Report 2012](/files/documents/jahresabschluesse/jahresabschluss-2012.pdf)
 - [Profit and Loss Report 2011](/files/documents/jahresabschluesse/jahresabschluss-2011.pdf)
 
-### 9. Coroporate solidarity with third parties
-There is a [Memorandum of Understanding](/files/documents/05_Memorandum_of_Understanding.pdf) with [Open Knowledge International](https://okfn.org/).<br>
+### 9. Legal affiliations
 Neither private nor legal persons hold shares in our association. This would not be possible. There is no membership in any other organisation, we are not legally affiliated with any organisation, and hold no shares in any other organisation.
 
 ### 10. Names of legal entities whose annual payments account for more than 10% of the total annual budget.
-
-Funding from the Federal Ministry of Education and Research to finance the Prototype Fund (20.46%) and the Turing Bus (2.02%) accounts for 22.48% of our total annual budget for 2019.
-
-Funding from Skala Initiative accounts for another 13.15% of the total annual budget for 2019. Half of the funding was dedicated to support the Jugend hackt project. The other half was specifically granted to finance necessary changes in our internal organization structures as well as our financial structure, adjusting it to the last years' growth of the OKF.
-
+Project funding from the Federal Ministry of Education and Research to finance the Prototype Fund in 2020 accounts for approximately 20% of the total annual budget. Core funding from Luminate accounts for approx. 15% of the total income in 2020. Funding from the SKala-Initiative for Jugend hackt and for OKF’s organizational development corresponds to approx. 11% of the total income in 2020. All other income is well below 10% of total income.
