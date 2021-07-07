@@ -4,7 +4,7 @@ weight: 3
 data: path/to/data.csv
 ---
 
-Die Personalkosten stellen den mit Abstand größten Ausgabeposten dar. Unser hervorragendes Team ist für uns die wichtigste Ressource. Darüber hinaus fallen – wie in jedem Jahr - Sach- und Honorarkosten an sowie Steuerzahlungen. Der größte Teil der Ausgaben ist projektbezogen. Die Verwaltungskosten der Organisation versuchen wir gering zu halten (ca. 15-20% der Gesamtausgaben). Sie umfassen beispielsweise Personalkosten für Geschäftsführung, Systemadministration und Buchhaltung sowie Sachkosten für Miete, Finanzbuchhaltung, Versicherungen und technische Infrastruktur.
+Die Personalkosten stellen den mit Abstand größten Ausgabeposten dar. Unser hervorragendes Team ist für uns die wichtigste Ressource. Darüber hinaus fallen – wie in jedem Jahr - Sach- und Honorarkosten an sowie Steuerzahlungen. Der größte Teil der Ausgaben ist projektbezogen. Die Verwaltungskosten der Organisation versuchen wir gering zu halten (ca. 5% der Gesamtausgaben). Sie umfassen beispielsweise Personalkosten für Geschäftsführung, Systemadministration und Buchhaltung sowie Sachkosten für Miete, Finanzbuchhaltung, Versicherungen und technische Infrastruktur.
 
 <div class="ausgaben"></div>
 <small>** zum Beispiel Infrastruktur, Buchführung, Versicherungen</small>
