@@ -4,7 +4,7 @@ weight: 3
 ---
 
 
-The majority (65%) of our income comes from grants. We obtain these grants through public tenders, funding programmes and research work. Donation income represents approximately 21% of our income. The majority of these donations were specificially given to our projects FragdenStaat and Jugend hackt. Additionally, the charity campaign <a href="https://de.wikipedia.org/wiki/Friendly_Fire_(Charity-Livestream)">FriendlyFire</a> contributed to this increase of donations by raising <a href="https://www.youtube.com/watch?v=iMAl9q7iGgQ">donations for the OKF as a whole</a> as well as for 7 other organizations in December 2019. Furthermore, we generated about 13% of our income from contracts. Sponsoring currently accounts for less than 1% of our funds.
+The majority (65%) of our income comes from project-related grants. In addition, there is growing donation income amounting to approximately 21% of our income. Most of the donations are addressed to FragDenStaat. Additionally, the charity campaign <a href="https://de.wikipedia.org/wiki/Friendly_Fire_(Charity-Livestream)">FriendlyFire</a> contributed to this increase of donations by raising <a href="https://www.youtube.com/watch?v=iMAl9q7iGgQ">donations for the OKF as a whole</a> as well as for 7 other organizations in December 2019. Furthermore, we generated about 13% of our income from economic income sources. Sponsoring currently accounts for less than 1% of our funds.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Overview</a>
@@ -34,6 +34,6 @@ The majority (65%) of our income comes from grants. We obtain these grants throu
     <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
 </div>
 
-Our projects emerge from a solution-oriented as well well idealistic approach, and are often driven by volunteer activities.
+Our projects emerge from a solution-oriented as well as idealistic attitude, and are often initiated by volunteer activities.
 
-Individual donations make the continuity and independence of these activities for the public possible. Help us by donating today!
+Individual donations enable our continued work, keep us independent and support the sustainability of our efforts. Help us by donating today!
