@@ -65,14 +65,9 @@ Adriana Groh, Alex Taralle, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris J
 - [Einnahmenüberschussrechnung 2012](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2012.pdf)
 - [Einnahmenüberschussrechnung 2011](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2011.pdf)
 
-### 9. Gesellschaftsrechtliche Verbundenheit mit Dritten
-Es existiert ein [Memorandum of Understanding](/files/documents/05_Memorandum_of_Understanding.pdf) mit der OKFN aus Großbritannien.<br>
+### 9. Gesellschaftsrechtliche Verbundenheit
 An unserem Verein halten weder private noch juristische Personen Anteile. Dies ist auch nicht
 möglich. Es besteht keine Mitgliedschaft in einer anderen Organisationen.Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine Anteile an anderen Organisationen.
 
 ### 10. Namen von juristischen Personen, deren jährliche Zahlungen mehr als 10 % des Gesamtjahresbudgets ausmachen
-
-Die Zahlung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds einerseits (20,46%) und des Projekts Turing Bus (2,02%) andererseits machte insgesamt 22,48% des Gesamtjahresbudgets für 2019 aus.
-
-Zudem entspricht die Förderung durch die Skala-Initiative weiteren 13,15% unseres Gesamjahresbudgets 2019. Davon wurde zur Hälfte das Projekt Jugend hackt gefördert und zur Hälfte gezielt Maßnahmen zur Organisationsentwicklung unterstützt, um die internen und auch finanziellen Strukturen der OKF an das Wachstum der vergangenen Jahre anzupassen.
-
+Die Projektförderung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds im Jahr 2020 macht ca. 20% des Gesamtjahresbudgets aus. Die institutionelle Förderung der OKF durch Luminate (core funding) entspricht 2020 ca. 15% der Gesamteinnahmen. Die Förderung durch die SKala-Initiative für Jugend hackt sowie für die Organisationsentwicklung der OKF entspricht 2020 ca. 11% der Gesamteinnahmen. Alle weiteren Einnahmen liegen jeweils deutlich unter 10% der Gesamteinnahmen.
