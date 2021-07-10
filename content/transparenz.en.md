@@ -14,7 +14,7 @@ D-10179 Berlin <br>
 Register of associations no.: VR 30468 B <br>
 The Open Knowledge Foundation Deutschland e.V. was founded in 2011.
 
-### 2. Complete statutes as well as information on the organisational goals
+### 2. Complete statutes as well as information on the organisational goals (DE)
 The statutes of the Open Knowledge Foundation Deutschland e. V. can be found [here](/files/documents/01_Satzung.pdf).
 
 
@@ -24,7 +24,7 @@ Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Co
 A current extract from the register of associations of 2020 can be found [here](/files/documents/Vereinsregisterauszug_OKFDE_2020.pdf).
 
 ### 4. Name and function of essential decision makers
-At the 2020 general meeting, Andreas Pawelke was elected chairman of the board, Jana Wichmann deputy chairwoman and Gabriele Klug was elected treasurer, all valid for a period of two years. Further board members are Daniel Dietrich, Julia Reda, Kristina Klein, Lea Gimpel and Stefan Heumann. Since January 2020, Henriette Litta is managing director of the association.
+Since April 2021, Kristina Klein is interim chairwoman of the board (until the next general meeting). At the 2020 general meeting, Jana Wichmann was elected deputy chairwoman and Gabriele Klug was elected treasurer, all valid for a period of two years. Further board members are Daniel Dietrich, Julia Reda, Lea Gimpel and Stefan Heumann. Henriette Litta is managing director of the association.
 
 #### Ethics Officer
 Our current OKF Ethics Officer ist Giulia Norberti. Questions regarding ethics and the code of conduct can be directed to ethics@okfn.de .
@@ -47,9 +47,9 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### 6. Personnel structure
 
-#### Team members 2019
+#### Team members 2020
 
-Adriana Groh, Alex Taralle, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris Jantoljak, Edgar Zanella Alvarenga, Elisabeth Lindiger, Ernesto Ruge, Eva Holzheimer, Giulia Norberti, Gregor, Jakob Schieck, Jasmin Helm, Judith Doleschal, Juliane Krüger, Juliane Wessalowski, Katharina Meyer, Lea Pfau, Leonard Wolf, Lisa Passing, Lydia Böttcher, Markus Neuschäfer, Matthias Löwe, Marie Gutbub, Maximilian Richt, Maximiian Voigt, Michael Peters, Nadine Evers, Nadine Stammen, Paula Grünwald (geb. Glaser), Philip Steffan, Saadya Windauer, Sebastian Schröder, Sonja Fischbauer, Stefan Wehrmeyer, Thomas Friese, Tomas Novy, Torben Reichert, Walter Palmetshofer
+With an average of 28, the number of employed team members is slightly below the previous year's level (32). At Jugend hackt, funding for some positions expired as planned at the beginning of the year; the projects Data School and Turingbus were completed. As of January, the position of managing director, which had been held on an interim basis since June 2019, was filled. FragDenStaat was able to grow in terms of staff thanks to high donation income. For the first time, it was possible to hire an in-house lawyer who also provides general advice to the association. A developer position was also filled in the project. At Jugend hackt, one of two program heads changed in January. The majority of employees (25) is based in the Berlin office. For Jugend hackt, there are also two employees in Ulm and one in Fürstenberg/Havel. It is particularly pleasing that the proportion of women at OKF DE is over 55 percent. Eight full-time team members hold leadership positions, half of whom are female. 
 
 ### 7. & 8. Information on source & use of funds
 
