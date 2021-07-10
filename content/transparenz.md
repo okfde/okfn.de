@@ -23,8 +23,8 @@ Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderu
 
 Ein aktueller Auszug aus dem Vereinsregister von 2020 ist [hier einsehbar](/files/documents/Vereinsregisterauszug_OKFDE_2020.pdf).
 
-### 4. Name und Funktion wesentlicher Entscheidungsträger
-Gemäß Mitgliederversammlung vom 28.05.2020 sind Andreas Pawelke zum Vorstandsvorsitzenden, Jana Wichmann zur stellvertretenden Vorstandsvorsitzenden und Gabriele Klug zur Kassenwartin für 2 Jahre gewählt. Weitere Vorstandsmitglieder sind Daniel Dietrich, Julia Reda, Kristina Klein, Lea Gimpel und Stefan Heumann. Seit Januar 2020 hat Henriette Litta die Geschäftsführung inne.
+### 4. Name und Funktion wesentlicher Entscheidungsträger:innen
+Kommissarische Vorsitzende ist Kristina Klein (bis zur nächsten Mitgliederversammlung), stellv. Vorsitzende ist Jana Wichmann, Kassenwartin ist Gabriele C. Klug. Weitere Vorstandsmitglieder sind Daniel Dietrich, Julia Reda, Lea Gimpel und Stefan Heumann. Vom Vorstand bevollmächtigte Geschäftsführerin ist Henriette Litta.
 
 #### Ethikbeauftragte
 Aktuelle Ethikbeauftragte der OKF ist Giulia Norberti. Fragen zu Ethik und Verhaltenskodex können an ethics@okfn.de gerichtet werden.
@@ -49,9 +49,9 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 ### 6. Personalstruktur
 
-#### Teammitglieder Geschäftsjahr 2019
+#### Teammitglieder Geschäftsjahr 2020
 
-Adriana Groh, Alex Taralle, Arne Semsrott, Bela Seeger, Cin Pietschmann, Doris Jantoljak, Edgar Zanella Alvarenga, Elisabeth Lindiger, Ernesto Ruge, Eva Holzheimer, Giulia Norberti, Gregor, Jakob Schieck, Jasmin Helm, Judith Doleschal, Juliane Krüger, Juliane Wessalowski, Katharina Meyer, Lea Pfau, Leonard Wolf, Lisa Passing, Lydia Böttcher, Markus Neuschäfer, Matthias Löwe, Marie Gutbub, Maximilian Richt, Maximiian Voigt, Michael Peters, Nadine Evers, Nadine Stammen, Paula Grünwald (geb. Glaser), Philip Steffan, Saadya Windauer, Sebastian Schröder, Sonja Fischbauer, Stefan Wehrmeyer, Thomas Friese, Tomas Novy, Torben Reichert, Walter Palmetshofer
+Mit durchschnittlich 28 liegt die Zahl der beschäftigten Teammitglieder etwas unter dem Vorjahresniveau (32). Im Programm Jugend hackt lief die Finanzierung einiger Stellen plangemäß zu Jahresbeginn aus; die Projekte Datenschule und Turingbus wurden abgeschlossen. Zum Januar wurde die Position der Geschäftsführung, die seit Juni 2019 kommissarisch ausgeübt wurde, besetzt. Das Programm FragDenStaat konnte dank hoher Spendeneinnahmen personell wachsen. Erstmals konnte ein Syndikusanwalt eingestellt werden, der den Verein auch allgemein berät. Auch eine Entwickler-Position wurde im Projekt besetzt. Bei Jugend hackt wechselte im Januar eine von zwei Programmleitungen. Der überwiegende Teil der Beschäftigten (25) ist im Berliner Büro angesiedelt. Für Jugend hackt sind darüber hinaus zwei Mitarbeitende in Ulm sowie ein Mitarbeiter in Fürstenberg/Havel beschäftigt. Besonders erfreulich ist, dass der Frauenanteil in der OKF DE bei über 55 Prozent liegt. Acht hauptamtliche Teammitglieder üben Leitungsfunktionen aus, wobei die Hälfte weiblich ist. 
 
 ### 7. & 8. Angaben zur Mittelherkunft & -verwendung
 
