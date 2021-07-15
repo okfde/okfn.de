@@ -1,5 +1,7 @@
 ---
-authors: Vorstand
+authors:
+- Vorstand
+- Henriette Litta
 date: 2021-07-15
 image:
   src: /files/blog/2021/07/titelbild_fuer_blog.png
