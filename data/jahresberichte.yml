@@ -1,10 +1,20 @@
 # Den neuen Bericht immer erst einpflegen, wenn die MV ihn bestäigt und der Wirtschaftsprüfer die Zahlen bestötigt hat!
+- year: 2020
+  img: /okf/verein/jahresbericht_2020.png
+  pdf: https://2020.okfn.de/
+  de:
+    title: Jahresbericht 2020
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2020, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Annual Report 2020
+    text: In addition to funding information and program activities from the 2020 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+
 - year: 2019
   img: /okf/verein/jahresbericht_2019.png
   pdf: https://2019.okfn.de/
   de:
     title: Tätigkeitsbericht 2019
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2019, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten. 2018 veröffentlichen wir unseren Jahresberich erstmalig als Online-Variante!
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2019, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten. 2018 veröffentlichen wir unseren Jahresbericht erstmalig als Online-Variante!
   en:
     title: Annual Report 2019
     text: In addition to funding information and program activities from the 2018 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end. This is the first online/non-PDF version of our annual report.
@@ -14,7 +24,7 @@
   pdf: https://2018.okfn.de/
   de:
     title: Tätigkeitsbericht 2018
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2018, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten. 2018 veröffentlichen wir unseren Jahresberich erstmalig als Online-Variante!
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2018, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten. 2018 veröffentlichen wir unseren Jahresbericht erstmalig als Online-Variante!
   en:
     title: Annual Report 2018
     text: In addition to funding information and program activities from the 2018 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end. This is the first online/non-PDF version of our annual report.
