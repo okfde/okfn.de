@@ -35,6 +35,7 @@ Our external data protection officer is Beata-Konstanze Hubrig from [Rechtsanwal
 ### 5. Annual report [DE]
 Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
+- [Jahresbericht 2020](https://2020.okfn.de/) <br>
 - [Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
 - [Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
 - [Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
