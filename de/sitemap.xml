@@ -255,6 +255,11 @@
   </url>
   
   <url>
+    <loc>https://okfn.de/blog/2021/07/jahresbericht-2020/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://okfn.de/blog/2021/07/freiheit-fuer-wissen-freiheit-fuer-uns/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url>
@@ -3162,14 +3167,14 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2015-11-02T22:14:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3429,7 +3434,7 @@
   
   <url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -4195,13 +4200,13 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/gastbeitrag/</loc>
+    <loc>https://okfn.de/authors/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/gastbeitrag/</loc>
+    <loc>https://okfn.de/tags/gastbeitrag/</loc>
     <lastmod>2016-04-20T10:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4420,6 +4425,12 @@
   <url>
     <loc>https://okfn.de/tags/iodc/</loc>
     <lastmod>2016-10-16T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/tags/jahresbericht/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4866,7 +4877,7 @@
   
   <url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -5070,14 +5081,14 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/okf/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf/</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/okf/</loc>
-    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/okf/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5088,14 +5099,14 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/okfde/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/okfde/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/okfde/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5345,7 +5356,7 @@
   
   <url>
     <loc>https://okfn.de/tags/openknowledge/</loc>
-    <lastmod>2021-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -6141,13 +6152,13 @@
   </url>
   
   <url>
-    <loc>https://okfn.de/tags/vorstand/</loc>
+    <loc>https://okfn.de/authors/vorstand/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://okfn.de/authors/vorstand/</loc>
+    <loc>https://okfn.de/tags/vorstand/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -6164,6 +6175,12 @@
                 hreflang="de"
                 href="https://okfn.de/vorstand/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://okfn.de/authors/vorstand-henriette-litta/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
