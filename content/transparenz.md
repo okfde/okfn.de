@@ -37,6 +37,7 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 [comment]: # (!Achtung: Den aktuellen Bericht KEINESFALLS schon hier verlinken, bevor nicht 1. die Mitgliederversammlung ihn abgesegnet hat und 2. der Wirtschaftsprüfer die Zahlen freigegeben hat!)
 
+- [Jahresbericht 2020](https://2020.okfn.de/) <br>
 - [Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
 - [Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
 - [Tätigkeitsbericht 2017](/files/documents/OKFDE-Taetigkeitsbericht-2017.pdf) <br>
