@@ -34,6 +34,8 @@ In Baden-Württemberg dagegen verspricht der Koalitionsvertrag künftig mehr Ein
 
 Die Regelungen auf Bundesebene liegen im Vergleich zu den Länderregeln im unteren Mittelfeld. Eine aktive Veröffentlichung von Informationen durch die Bundesbehörden findet gar nicht statt, was zum schlechten Abschneiden beim Kriterium „Informationsrechte“ führt. Insgesamt gestaltet sich der Prozess für interessierte Bürgerinnen und Bürger eher mühsam. Marie Jünemann fasst zusammen: “Gerade in Zeiten, in denen die Spaltung der Gesellschaft zunimmt, Fake News auf dem Vormarsch sind und Politikerverdrossenheit allgegenwärtig ist, brauchen wir mehr Transparenz auf Bundesebene und in den Ländern. Denn Transparenz schafft Vertrauen zwischen Regierenden und Regierten.”
 
+[Zum Transparenzranking](https://transparenzranking.de/)
+
 *Pressekontakt:*
 
 FragDenStaat
