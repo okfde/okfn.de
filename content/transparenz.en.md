@@ -54,6 +54,7 @@ With an average of 28, the number of employed team members is slightly below the
 
 ### 7. & 8. Information on source & use of funds
 
+- [Balance Sheet and audit report 2020](/files/WP-Berichte/OKF-DE-WPBericht-2020.pdf)
 - [Balance Sheet and audit report 2019](/files/WP-Berichte/OKF-DE-WPBericht-2019.pdf)
 - [Balance Sheet and audit report 2018](/files/WP-Berichte/OKF-DE-WPBericht-2018.pdf)
 - [Profit and Loss Report 2017](/files/documents/jahresabschluesse/jahresabschluss-2017.pdf) 
