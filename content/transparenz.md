@@ -56,6 +56,7 @@ Mit durchschnittlich 28 liegt die Zahl der beschäftigten Teammitglieder etwas u
 
 ### 7. & 8. Angaben zur Mittelherkunft & -verwendung
 
+- [Bilanz und Bericht der Wirtschaftsprüfung 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf)
 - [Bilanz und Bericht der Wirtschaftsprüfung 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) 
 - [Bilanz und Bericht der Wirtschaftsprüfung 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) 
 - [Einnahmenüberschussrechnung 2017](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2017.pdf) 
