@@ -32,6 +32,7 @@
     text: Beginning in 2018, our annual financial statements including notes and managment reports are now voluntarily audited.
   prefix: /files/documents/WP-Berichte/OKF-DE-WPBericht
   years:
+    - 2020
     - 2019
     - 2018
 # 'prefix' will be part of the path and file name, which will be completed using the "years" field like so:
