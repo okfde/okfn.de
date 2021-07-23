@@ -1,16 +1,3 @@
-{{ define "title"}}
-<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
-{{ end }}
-
-{{ define "head" }}
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end -}}
-<meta property="og:title" content="{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="{{ .Permalink }}" />
-{{ end }}
-
 {{ define "main" }}
 <main>
   <section class="container l__projects">

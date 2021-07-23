@@ -1,18 +1,3 @@
-{{ define "title"}}
-<title>OKF - Open Knowledge Foundation Deutschland e.V.</title>
-{{ end }}
-
-{{ define "head" }}
-<meta property="og:title" content="OKF DE" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://okfn.de" />
-{{ with .Params.img_header }}<meta property="og:image" content="{{ . }}" />{{ end }}
-{{with .Params.meta}}
-<meta property="og:description" content="{{.}}">
-<meta name="description" content="{{.}}">
-{{end}}
-{{ end }}
-
 {{ define "main" }}
 <main>
   <div class="l__home">

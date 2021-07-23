@@ -1,33 +1,3 @@
-{{ define "title"}}
-<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
-{{ end }}
-
-{{ define "head" }}
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end -}}
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="{{ .Permalink }}" />
-<meta property="article:published_time" content="{{ .Date }}" />
-{{ with .Params.tags }}
-  {{ range . }}
-    <meta property="article:tag" content="{{ . }}" />
-  {{ end }}
-{{ end }}
-<meta property="og:description" content="{{ truncate 200 .Content }}">
-<meta name="description" content="{{ truncate 200 .Content }}">
-<meta name="twitter:description" content="{{ truncate 200 .Content}}">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Title }}">
-<meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
-<meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
-{{ if (isset .Params "image") }}
-<meta property="og:image" content='{{ .Site.BaseURL }}/{{ trim .Params.image.src "/"}}' />
-<meta name="twitter:image" content='{{ .Site.BaseURL }}/{{ trim .Params.image.src "/"}}'>
-{{end}}
-{{ end }}
-
 {{ define "main" }}
 <main>
   <article class="c__post--single">
