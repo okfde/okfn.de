@@ -4,7 +4,7 @@ authors:
 date: 2021-08-01
 image:
   src: /files/blog/2021/08/fds.png
-  title: 
+  title: Ausschnitt aus dem Aufghanistan-Lagebericht des Auswärtigen Amts
   license: 
   license_url: 
 tags:
