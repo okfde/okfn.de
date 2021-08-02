@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-07-20T00:00:00+0000</updated>
+  <updated>2021-08-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>10 Jahre FragDenStaat: Fortschritte sind durchaus erkennbar</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/08/10-jahre-fragdenstaat/"/>
+    <id>https://okfn.de/blog/2021/08/10-jahre-fragdenstaat/</id>
+    <published>2021-08-01T00:00:00+0000</published>
+    <updated>2021-08-01T00:00:00+0000</updated>
+    <summary>FragDenStaat wird heute zehn Jahre alt. Darüber freuen wir uns sehr!
+Selbstverständlich ist das überhaupt nicht. Denn unser Kernthema, Informationsfreiheit, ist zunächst einmal das langweiligste Thema der Welt. Es geht um Paragrafen, juristische Worthülsen und um Akten, jede Menge Dokumente, Vermerke, Verträge. Spannend wir es meist erst, wenn deutlich wird, was die Akten bedeuten: Dass es um Machtkämpfe geht, um Lobbyismus und gegen Korruption und darum, die Gesellschaft transparenter, offener, gerechter und besser zu machen.</summary>
+  </entry>
   
   <entry>
     <title>Neues Transparenz-Ranking 2021: Bundesländer meilenweit auseinander</title>
@@ -154,16 +164,6 @@ Wir sind die digitale Zivilgesellschaft! Ihr auch?! Zu Beginn unserer Veranstalt
     <updated>2021-04-29T00:00:00+0000</updated>
     <summary>10 Jahre OKF, das heißt auch, zehn Jahre Kontakte knüpfen, Expertise herausbilden, Konzepte entwickeln und Austausch befördern. All das möchten wir in diesem Sommer in einer Veranstaltungsreihe mit euch zusammen bringen.
 Digitale Zivilgesellschaft – dem Schlagwort zum Durchbruch verhelfen Eines der Kernanliegen der Open Knowledge Foundation ist die Einbindung in die (inter-)nationale digitale Zivilgesellschaft. Dabei ist der Begriff der digitalen Zivilgesellschaft selbst eher schwammig. Im Bericht „Digitalisierung braucht Zivilgesellschaft“ von verschiedenen deutschen Stiftungen im Jahr 2019 werden drei zivilgesellschaftliche Gruppen unterschieden: Digitale Spezialist:innen, digitale Pionier:innen und digitale Noviz:innen, die alle in unterschiedlichem Maß an Digitalisierung teilhaben, sie mitgestalten oder lediglich nutzen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Digitale Zivilgesellschaft: Vier Forderungen für eine digital souveräne Gesellschaft</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/04/pm-forderungen-digitale-zivilgesellschaft/"/>
-    <id>https://okfn.de/blog/2021/04/pm-forderungen-digitale-zivilgesellschaft/</id>
-    <published>2021-04-27T00:00:00+0000</published>
-    <updated>2021-04-27T00:00:00+0000</updated>
-    <summary>Die OKF ist Mitglied eines Bündnisses aus 30 Organisationen der digitalen Zivilgesellschaft. Gemeinsam stellen wir für die Bundestagswahl 2021 vier Forderungen für eine digital souveräne Gesellschaft an die Politik.
-Am 1. April 2020 forderten wir mit vielen weiteren zivilgesellschaftlichen Organisationen die Politik auf: Aus der Krise lernen - Digitale Zivilgesellschaft stärken! Dafür lieferten wir gemeinsam konkrete Handlungsempfehlungen. Geschehen ist seitdem jedoch viel zu wenig. Das vergangene Jahr hat deutlich gemacht, dass Politik und öffentliche Verwaltung mit ihrer eigenen digitalen Transformation überfordert sind und in der Digitalpolitik Schwerpunkte setzen, die nicht den Bedürfnissen der Gesellschaft entsprechen.</summary>
   </entry>
   
 </feed>
