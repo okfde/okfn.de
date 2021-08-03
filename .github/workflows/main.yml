@@ -1,0 +1,38 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Release
+
+on:
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: NPM or Yarn install with caching
+        uses: bahmutov/npm-install@v1.6.0
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2.4.13
+        with:
+          extended: true
+      - run: hugo
+      - run: pwd
+      - name: Create site search index
+        run: cat public/index.json | node scripts/lunr/site-index.js > public/js/site-search-index.json
+      - name: Create blog search index
+        run: cat public/blog/index.json | node scripts/lunr/blog-index.js > public/js/blog-search-index.json
+      - name: Copy atom feed in place
+        run: cp public/blog/atom.xml public/atom.xml
+      - name: Copy more feeds in place
+        run: mkdir public/feed/ && cp public/blog/rss.xml public/feed/index.xml
+      - name: Deploy
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: release
+          FOLDER: public
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
