@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tanja Zagel on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Tanja Zagel on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/tanja-zagel/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/tanja-zagel/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wanted: neue Büroräume</title>
       <link>https://okfn.de/blog/2018/04/wanted-neue-bueroraeume/</link>
@@ -18,12 +14,8 @@
       
       <guid>https://okfn.de/blog/2018/04/wanted-neue-bueroraeume/</guid>
       <description>Die Open Knowledge Foundation wächst und wächst und wächst und unser Büro platzt bald aus allen Nähten. Help! Unser ewiger Dank und jede Menge Swag ist der- oder demjenigen sicher, die / der uns hilft, schöne neue Räume zu finden!
-Das brauchen wir:
-• Büroräume in Berlin möglichst innerhalb des S-Bahn-Rings und mit guter Öffi-Anbindung
-• Fläche: 600 – 1.000m²
-• NGO-kompatible Preisgestaltung
-Das wünschen wir uns:
-• genügend Meeting-Räume</description>
+Das brauchen wir:• Büroräume in Berlin möglichst innerhalb des S-Bahn-Rings und mit guter Öffi-Anbindung• Fläche: 600 – 1.000m²• NGO-kompatible Preisgestaltung
+Das wünschen wir uns:• genügend Meeting-Räume• abschließbaren Lagerraum• abschließbaren Serverraum• andere NGOs im Gebäude</description>
     </item>
     
   </channel>

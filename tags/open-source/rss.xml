@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Source on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/open-source/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-source/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prototype Fund fördert eure Open-Source-Softwareideen – bewerbt euch jetzt!</title>
       <link>https://okfn.de/blog/2021/02/ptf-runde-zehn/</link>
@@ -28,7 +24,7 @@ Wie immer veröffentlichen wir parallel zum Ausschreibungsbeginn einen Trendfors
       
       <guid>https://okfn.de/blog/2020/02/prototype-fund-achte-runde/</guid>
       <description>Nachdem uns über die letzten sieben Runden Projektvorschläge zu so unterschiedlichen Schwerpunkten wie Machine Learning oder Vertrauen in und durch Technologie erreicht haben, wollen wir mit der Runde 8 bis zum 31.3.2020 noch einmal die ganze Bandbreite von Public Interest Technologie einfangen.
-Während wir in den bisherigen Schwerpunkten beispielsweise den Fokus darauf gelegt haben, welche Ansätze Entwickler*innen verfolgen, um Nutzer*innen und ihre Daten zu schützen oder Maschinen lernen zu lassen, ist uns wichtig zu sehen, welche Themen euch darüber hinaus umtreiben – und wie sich das Ökosystem entwickelt hat.</description>
+Während wir in den bisherigen Schwerpunkten beispielsweise den Fokus darauf gelegt haben, welche Ansätze Entwicklerinnen verfolgen, um Nutzerinnen und ihre Daten zu schützen oder Maschinen lernen zu lassen, ist uns wichtig zu sehen, welche Themen euch darüber hinaus umtreiben – und wie sich das Ökosystem entwickelt hat.</description>
     </item>
     
     <item>
@@ -46,7 +42,7 @@ Während wir in den bisherigen Schwerpunkten beispielsweise den Fokus darauf gel
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/09/anmeldung-codingdavinci/</guid>
-      <description>Wir möchten euch herzlich zum 4. Kultur-Hackathon &amp;ldquo;Coding da Vinci&amp;rdquo; in Berlin einladen! Um was es geht: Kulturinstitutionen aus Deutschland stellen Daten zu ihren Sammlungsbeständen als frei zur Verfügung. Gemeinsam mit Kulturinteressierten, Entwickler*innen und Designer*innen wollen wir dieses vielfältige Kulturerbe in neue Kontexte setzen.
+      <description>Wir möchten euch herzlich zum 4. Kultur-Hackathon &amp;ldquo;Coding da Vinci&amp;rdquo; in Berlin einladen! Um was es geht: Kulturinstitutionen aus Deutschland stellen Daten zu ihren Sammlungsbeständen als frei zur Verfügung. Gemeinsam mit Kulturinteressierten, Entwicklerinnen und Designerinnen wollen wir dieses vielfältige Kulturerbe in neue Kontexte setzen.
 Coding da Vinci dauert insgesamt 6 Wochen, die Auftaktveranstaltung findet am 21./22. Oktober statt, die Preisverleihung am 2. Dezember. Dazwischen haben die Teams und Kulturinstitutionen Zeit, ihre Ideen und Projekte weiterzuentwickeln.</description>
     </item>
     
@@ -58,7 +54,7 @@ Coding da Vinci dauert insgesamt 6 Wochen, die Auftaktveranstaltung findet am 21
       <guid>https://okfn.de/blog/2017/09/zivilgesellschaftliche-forderungen/</guid>
       <description>Digitalisierung ist ein zentrales Thema für eine neue Bundesregierung. Die Open Knowledge Foundation Deutschland ist eine der größten zivilgesellschaftlichen Organisationen in diesem Bereich. Wir setzen uns für den freien Zugang zu Informationen ein, vermitteln Wissen und stärken die digitale Zivilgesellschaft.
 An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderungen:
-1. Transparenz vorantreiben Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein.</description>
+1. Transparenz vorantreiben Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein. Zugang zu Informationen muss möglichst umfassend, unmittelbar und barrierefrei sein, um die demokratische Meinungsbildung und Teilhabe zu fördern.</description>
     </item>
     
     <item>

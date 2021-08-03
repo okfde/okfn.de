@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bildung on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Bildung on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/bildung/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/bildung/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jugend hackt sucht Partner*innen für neue Labs</title>
       <link>https://okfn.de/blog/2021/03/jugend-hackt-labs-2021-ausschreibung/</link>
@@ -39,8 +35,8 @@ Die Fragestellung: „Wie verändert sich aus Ihrer Sicht das Engagement von Jug
       
       <guid>https://okfn.de/blog/2018/05/okfde-beim-deutschen-stiftungstag-2018/</guid>
       <description>Der Deutsche Stiftungstag wird jedes Jahr vom Verband Deutscher Stiftungen als Informations- und Vernetzungsangebot für seine Mitglieder organisiert. Die diesjährige Ausgabe fand unter dem Motto Update! - Stiftungen und Digitalisierung vom 16. - 18. Mai in Nürnberg statt.
-Drei von fünf Kategorien der diesjährigen Veranstaltung waren - #DST18_OffeneDaten - #DST18_Transparenz - #DST18_Partizipation
-Also genau passend für uns! Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln dieser Themen ist und wie lange die Umsetzung von Forderungen braucht.</description>
+Drei von fünf Kategorien der diesjährigen Veranstaltung waren
+ #DST18_OffeneDaten #DST18_Transparenz #DST18_Partizipation  Also genau passend für uns! Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln dieser Themen ist und wie lange die Umsetzung von Forderungen braucht.</description>
     </item>
     
     <item>

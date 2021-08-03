@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Offene Daten on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Offene Daten on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/offene-daten/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/offene-daten/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transparenzregister? Diesmal bitte transparent</title>
       <link>https://okfn.de/blog/2018/06/transparenz-register/</link>
@@ -48,8 +44,8 @@ Die OKF DE ist Teil des Arbeitskreis Open Government Partnership und koordiniert
       <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/11/blogpost-snb-energyhack-reloaded/</guid>
-      <description>Blackout und Krisenvorsorge  - mit diesen zwei zentralen Themen beschäftigten sich letzten Samstag, am 14. November 2015 in Berlin, 30 Open Data- und Energie-Expert/innen beim Energyhack Reloaded.
-Energyhack Reloaded ist der zweite Hackday zum Thema Energieversorgung, durchgeführt von der Open Knowledge Foundation Deutschland und Stromnetz Berlin in Kooperation mit u.a. der Senatsverwaltung für Wirtschaft, Technologie und Forschung sowie dem Förderverein Freie Netzwerke e.V..
+      <description>Blackout und Krisenvorsorge - mit diesen zwei zentralen Themen beschäftigten sich letzten Samstag, am 14. November 2015 in Berlin, 30 Open Data- und Energie-Expert/innen beim Energyhack Reloaded.
+Energyhack Reloadedist der zweite Hackday zum Thema Energieversorgung, durchgeführt von der Open Knowledge Foundation Deutschland und Stromnetz Berlin in Kooperation mit u.a. der Senatsverwaltung für Wirtschaft, Technologie und Forschung sowie dem Förderverein Freie Netzwerke e.V..
 Ziel des Hackdays war es, in einem experimentellen Rahmen Projektideen zu entwickelt, um die Gesellschaft stärker für die Themen zu sensibilisieren und Anwendungen für den Ernstfall zu entwickeln.</description>
     </item>
     
@@ -151,10 +147,7 @@ Datennutzer trafen auf Datenbereitsteller und tauschten sich zu Themen wie Urban
       
       <guid>https://okfn.de/blog/2014/12/apps4europe-sucht-die-besten-opendata-apps/</guid>
       <description>Arbeitest Du an einer App, die offene Daten verwendet? Du möchtest Deine App in ein nachhaltiges Unternehmen weiterentwickeln? Apps for Europe hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:
- Neu und nützlich
- Einfach benutzbar
- Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen
- Der Welt das Potenzial von offenen Daten zu zeigen  Du kannst Dich jetzt mit deiner App und deinem Geschäftsplan unter www.</description>
+ Neu und nützlich Einfach benutzbar Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen Der Welt das Potenzial von offenen Daten zu zeigen  Du kannst Dich jetzt mit deiner App und deinem Geschäftsplan unter www.</description>
     </item>
     
     <item>
@@ -223,10 +216,7 @@ Die Lizenz in den Varianten &amp;ldquo;Zero&amp;rdquo; (also &amp;ldquo;einschr�
       
       <guid>https://okfn.de/blog/2014/09/apps-for-europe-sucht-die-besten-opendata-apps/</guid>
       <description>Arbeitest Du an einer App, die offene Daten verwendet? Du möchtest Deine App in ein nachhaltiges Unternehmen weiterentwickeln? Apps for Europe hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:
- Neu und nützlich
- Einfach benutzbar
- Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen
- Der Welt das Potenzial von offenen Daten zu zeigen  Du kannst Dich jetzt mit deiner App und deinem Geschäftsplan unter www.</description>
+ Neu und nützlich Einfach benutzbar Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen Der Welt das Potenzial von offenen Daten zu zeigen  Du kannst Dich jetzt mit deiner App und deinem Geschäftsplan unter www.</description>
     </item>
     
     <item>
@@ -323,16 +313,6 @@ Ich glaube nicht! Ja, es geht zu langsam, ja, es gibt eine drastische Unterausst
     </item>
     
     <item>
-      <title>Effizienter Staat 2014: Offene Daten und transparentes Regierungshandeln in der Verwaltungsrealität</title>
-      <link>https://okfn.de/blog/2014/04/effizienter-staat-2014-offene-daten-und-transparentes-regierungshandeln-in-der-verwaltungsrealitaet/</link>
-      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/blog/2014/04/effizienter-staat-2014-offene-daten-und-transparentes-regierungshandeln-in-der-verwaltungsrealitaet/</guid>
-      <description>In dieser Zeit geht einiges durcheinander: Dr. Göttrik Wewer, Vize-Präsident E-Government bei der Deutschen Post, holt in einem kürzlich veröffentlichten Artikel zu einem Generalschlag gegen die “Transparenzbewegung” aus. Aber ist das alles wirklich so einfach? Besteht die Entwicklung rund um offene Daten und transparentes Regierungshandeln in Deutschland aktuell nur aus &amp;ldquo;Transparenzterror&amp;rdquo;, sowie aus &amp;ldquo;Konfrontation, Kontrolle und Konflikt&amp;rdquo;?
-Ich glaube nicht! Ja, es geht zu langsam, ja, es gibt eine drastische Unterausstattung der Verwaltungen bei dem Thema und ja, es gibt auch manchmal unschöne Konfrontationen - aber was im Moment in Bezug auf Open Government Data wirklich in den deutschen Verwaltungsstuben passiert, konnte man viel besser auf dem Verwaltungskongress des Behördenspiegels &amp;ldquo;Effizienter Staat 2014&amp;rdquo; beobachten.</description>
-    </item>
-    
-    <item>
       <title>Open Science Sum – Up Februar</title>
       <link>https://okfn.de/blog/2014/03/open-science-sum-up-februar/</link>
       <pubDate>Fri, 21 Mar 2014 00:00:00 +0000</pubDate>
@@ -394,10 +374,7 @@ Aktuelle Neuigkeiten und Informationen zu unserer Arbeit bekommt ihr wie immer a
       
       <guid>https://okfn.de/blog/2013/12/apps-for-europe-wettbewerb-mitmachen/</guid>
       <description>Arbeiten Sie an einer App, die offene Daten verwendet? Apps for Europe hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:
- Neu
- Einfach benutzbar
- Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen
- Der Welt das Potzenzial von offenen Daten zu zeigen  Sie können sich jetzt unter www.appsforeurope.eu/competition bewerben. Die Frist läuft am 7. Februar 2014 ab.</description>
+ Neu Einfach benutzbar Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen Der Welt das Potzenzial von offenen Daten zu zeigen  Sie können sich jetzt unter www.appsforeurope.eu/competition bewerben. Die Frist läuft am 7. Februar 2014 ab. Sie haben also nicht mehr viel Zeit!</description>
     </item>
     
     <item>
@@ -409,7 +386,7 @@ Aktuelle Neuigkeiten und Informationen zu unserer Arbeit bekommt ihr wie immer a
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Ein fröhliches Halloween wünschen wir! (CC-BY)
 Rückblick in den Oktober
-Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;rdquo;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;ldquo;&amp;gt;berichtet.
+Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;quot;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;quot;&amp;gt;berichtet.
 Der Open Data-Index, den wir kurz vor dem OGP-Treffen veröffentlicht haben, zeigt, wo die einzelnen Länder stehen. Er zeigt auch, dass die Bundesregierung noch einiges tun muss, um ihren Verpflichtungen aus der G8 Open Data Charter nachzukommen.</description>
     </item>
     
@@ -432,18 +409,7 @@ Der Open Data Index bewertet die Länder anhand der Verfügbarkeit und Zugängli
       <description>Am 7. und 8. November findet in Amsterdam das dritte Open Development Camp statt.
 Anknüpfend an den Erfolg der Open Development Camps in 2011 und 2012 möchten die Organisatoren in diesem Jahr ein breiteres Spektrum des Open Knowledge Movements (unterschiedliche Domains) zusammenbringen um gemeinsam die Zukunft der Entwicklungszusammenarbeit mitzubestimmen.
 In Camp 2013 dreht sich alles um die drei Bereiche
- Open Data for Development
- Open Organisations for Development
- Open Tools for Development  Das Camp wird sich zudem explizit mit der generellen Frage des Entwicklungsbegriffs befassen und die potentielle Rolle von Open Development für eine Neugestaltung konventioneller geographischer und ökonomischer Spaltung diskutieren.</description>
-    </item>
-    
-    <item>
-      <title>GovData in der Evaluationsphase</title>
-      <link>https://okfn.de/blog/2013/10/govdata-in-der-evaluationsphase/</link>
-      <pubDate>Fri, 11 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/blog/2013/10/govdata-in-der-evaluationsphase/</guid>
-      <description>„GovData – Das Datenportal für Deutschland“ ging als föderal übergreifendes Datenportal am 19. Februar als Pilotprojekt online und besteht nun über ein halbes Jahr. Von ehemals 1.100 Datensätzen sind nun knapp 3.700 Daten online verfügbar - davon auch Datensätze in 14 Kategorien, die über eine Stadt oder ein Bundesland viel mehr Informationen beinhalten als bspw. ein regionales Datenangebot. Der Großteil der Daten steht unter einer freien Nutzung (Namensnennung) zur Verfügung, knapp 700 Daten sind leider nur eingeschränkt (kommerzielle Nutzung ausgeschlossen oder kostenpflichtig) nutzbar.</description>
+ Open Data for Development Open Organisations for Development Open Tools for Development  Das Camp wird sich zudem explizit mit der generellen Frage des Entwicklungsbegriffs befassen und die potentielle Rolle von Open Development für eine Neugestaltung konventioneller geographischer und ökonomischer Spaltung diskutieren.</description>
     </item>
     
     <item>
@@ -502,7 +468,7 @@ Code for America ist eine NGO die 2009 in San Francisco gegründet wurde.</descr
       <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2013/06/apps-the-city-cologne/</guid>
-      <description>Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _Apps &amp;amp; the City_ Team der Open Knowledge Foundation Deutschland beim diesjährigen [Interactive Cologne](/blog/2013/06/interactive-cologne-apps-the-city/) Festival!
+      <description>Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _Apps &amp;amp; the City_ Team der Open Knowledge Foundation Deutschland beim diesjährigen _Interactive Cologne_ Festival!
 Angelockt unter anderem durch aktuelle Gerüchte um Open-Transport-Data-Pläne sowohl bei den Kölner Verkehrsbetrieben (KVB) als auch bei den Verkehrsverbünden Rhein-Ruhr (VRR) und Rhein-Sieg (VRS) zog es zwischen 17. und 23. Juni 2013 neben Hackern, App-Entwicklern und Gründern auch das Apps &amp;amp; the City Team der Open Knowledge Foundation Deutschland sowie weitere Open-Data-Aktivisten in die Domstadt am Rhein.</description>
     </item>
     

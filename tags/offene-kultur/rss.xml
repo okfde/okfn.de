@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Offene Kultur on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Offene Kultur on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 22 May 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/offene-kultur/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 22 May 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/offene-kultur/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einladung und Call for Papers zur WikiCon 2016</title>
       <link>https://okfn.de/blog/2016/05/wikicon/</link>
@@ -105,7 +101,7 @@ Neben Keynotes, von renommierten Persönlichkeiten wie Neelie Kroes, der EU-Komm
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2014/03/coding-da-vinci/</guid>
-      <description>Kennt ihr gute Apps, Dienste oder Visualisierungen mit offenen Kulturdaten? Nein? Gemeinsam mit euch wollen wir das ändern und laden zu [Coding da Vinci](http://codingdavinci.de/), dem ersten deutschen Kultur-Hackathon nach Berlin ein!
+      <description>Kennt ihr gute Apps, Dienste oder Visualisierungen mit offenen Kulturdaten? Nein? Gemeinsam mit euch wollen wir das ändern und laden zu **Coding da Vinci**, dem ersten deutschen Kultur-Hackathon nach Berlin ein!
 Coding da Vinci möchte aus ganz Deutschland kulturbegeisterte Entwickler-, Designer- und Gamer/innen mit Kulturinstitutionen zusammenbringen, um gemeinsam nachhaltige Anwendungen, Visualisierungen und Apps mit offenen Kulturdaten zu entwickeln. Ziel ist es, das Potenzial der digitalen Kulturschätze aufzuzeigen und auch Daten im Kulturbereich offen zugänglich und nachnutzbar zu machen.</description>
     </item>
     
@@ -117,7 +113,7 @@ Coding da Vinci möchte aus ganz Deutschland kulturbegeisterte Entwickler-, Desi
       <guid>https://okfn.de/blog/2014/01/der-erste-weltkrieg-in-digitalen-quellen/</guid>
       <description>Europa und der Erste Weltkrieg
 Das Jahr 2014 wird weltweit von der Erinnerung des Ersten Weltkrieges vor 100 Jahren geprägt sein. Viele europäische Kultureinrichtungen, aber auch Privatpersonen sind dem Aufruf gefolgt, ihre handschriftlichen und gedruckten Materialien sowie Filmbestände zu digitalisieren.
- 
+** **
 CC-BY-SA 3.0
 Zugängliche Erinnerungsstücke für alle
 Das neue Themenportal 1914-1918 macht diese Schätze nun kostenlos online zugänglich. Das Portal vereint unerzählte Geschichten des Ersten Weltkriegs aus persönlicher und historischer Perspektive von 20 Ländern.</description>
@@ -142,7 +138,7 @@ Wer war da und Was waren die Highlights?</description>
       <pubDate>Thu, 28 Nov 2013 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2013/11/konferenz-zugang-gestalten-livestream/</guid>
-      <description>Heute und morgen findet im Jüdischen Museum Berlin die Konferenz „Zugang gestalten! – „Mehr Verantwortung für das kulturelle Erbe” statt. Wir von der Open Knowledge Foundation Deutschland sind natürlich auch mit dabei. Soeben haben drei Teilnehmer von „Jugend hackt&amp;rdquo; ihr Projekt „Plate Collect&amp;rdquo; vorgestellt. Mehr spannenden Sessions zum Thema kulturelles Erbe, den Aufgaben des Staates und den Einfluss neuer Techniologien kann man entweder vor Ort oder über den Live Straem verfolgen.</description>
+      <description>Heute und morgen findet im Jüdischen Museum Berlin die Konferenz „Zugang gestalten! – „Mehr Verantwortung für das kulturelle Erbe” statt. Wir von der Open Knowledge Foundation Deutschland sind natürlich auch mit dabei. Soeben haben drei Teilnehmer von „Jugend hackt&amp;quot; ihr Projekt „Plate Collect&amp;quot; vorgestellt. Mehr spannenden Sessions zum Thema kulturelles Erbe, den Aufgaben des Staates und den Einfluss neuer Techniologien kann man entweder vor Ort oder über den Live Straem verfolgen.</description>
     </item>
     
     <item>

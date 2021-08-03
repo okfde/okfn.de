@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Openschufa on OKF</title>
+    <title>OpenSchufa on OKF</title>
     <link>https://okfn.de/tags/openschufa/</link>
-    <description>Recent content in Openschufa on OKF</description>
+    <description>Recent content in OpenSchufa on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/openschufa/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/openschufa/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Schufa gibt nach: Elektronische Auskünfte ab 2019</title>
       <link>https://okfn.de/blog/2018/12/schufa-elektronische-auskuenfte/</link>
@@ -93,9 +89,9 @@ Mehr über die OpenSCHUFA-Datenspende und die mangelnde Kontrolle der Auskunftei
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/03/openschufa-endspurt/</guid>
-      <description> Unsere Initiative OpenSchufa hat schon jetzt ein großes Echo gefunden. Animiert durch nationalen und internationale Berichterstattung haben schon fast 15.000 Menschen ihre kostenlose Selbstauskunft bei der Schufa angefordert.
+      <description>Unsere Initiative OpenSchufa hat schon jetzt ein großes Echo gefunden. Animiert durch nationalen und internationale Berichterstattung haben schon fast 15.000 Menschen ihre kostenlose Selbstauskunft bei der Schufa angefordert.
 Damit wir die anonymisierten Daten daraus gut auswerten können, brauchen wir jetzt Deine Unterstützung: Noch drei Tage lang läuft das Crowdfunding für OpenSchufa. Spende uns bitte für das Projekt jetzt 20 oder 50 Euro!
- Präsentation beim netzpolitschen Abend 06.03.2018  </description>
+Präsentation beim netzpolitschen Abend 06.03.2018 </description>
     </item>
     
     <item>
@@ -104,10 +100,10 @@ Damit wir die anonymisierten Daten daraus gut auswerten können, brauchen wir je
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/02/1-week-openschufa/</guid>
-      <description>Last week we launched our newest project OpenSCHUFA together with AlgorithmWatch.
-Inspired by OKF Finland and the „mydata“ project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.
+      <description>Last week we launched our newest project OpenSCHUFA together with AlgorithmWatch.Inspired by OKF Finland and the „mydata“ project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.
 Over the last 7 days, the campaign generated Germany-wide media attention (see press listing) and already over 8.000 individual Schufa data request (30.000 personal data requests in total).
-Congrats to selbstauskunft.net for serving 1 million personal data requests!</description>
+Congrats to selbstauskunft.net for serving 1 million personal data requests!
+Why we started OpenSCHUFA and why you should care about credit scoring Germany’s leading credit rating bureau, SCHUFA, has immense power over people’s lives.</description>
     </item>
     
     <item>
@@ -117,7 +113,7 @@ Congrats to selbstauskunft.net for serving 1 million personal data requests!</de
       
       <guid>https://okfn.de/blog/2018/02/openschufa/</guid>
       <description>Ob Kredite, Handyverträge oder Wohnungsbewerbungen - bei wichtigen Verbraucherfragen spielt der Schufa-Score eine zentrale Rolle. Wer zu wenige Punkte hat, geht oft leer aus. Das Scoring-Verfahren des Privatunternehmens Schufa ist allerdings höchst intransparent. Als Geschäftsgeheimnis ist es der Öffentlichkeit nicht zugänglich.
-Das wollen wir ab heute mit dem Projekt OpenSCHUFA ändern. Gemeinsam mit AlgorithmWatch wollen wir den Algorithmus der Schufa mit Reverse Engineering rekonstruieren.
+Das wollen wir ab heute mit dem Projekt OpenSCHUFAändern. Gemeinsam mit AlgorithmWatchwollen wir den Algorithmus der Schufa mit Reverse Engineering rekonstruieren.
 Dazu rufen wir zur Datenspende auf: Alle Menschen können unter selbstauskunft.</description>
     </item>
     

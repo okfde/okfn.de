@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Konferenz on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Konferenz on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/konferenz/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/konferenz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nachlese: Vorträge auf dem Congress (rc3)</title>
       <link>https://okfn.de/blog/2021/01/nachlese-wikipaka-rc3/</link>
@@ -37,7 +33,7 @@ Bislang agieren Umwelt-Aktivist/innen und digitale Menschenrechtler/innen oft ne
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/05/re-repubublica/</guid>
-      <description>re:re:publica Die jährlich in Berlin statt findende re:publica ist die wichtigste und größte Konferenz rund um das digitale Leben und Netzpolitik im deutschsprachigen Raum. Ein großer Teil des Teams war vor Ort, um spannenden Talks zu lauschen und um sich mit anderen Leuten auszutauschen. Ein paar von uns und aus der Community haben das Programm auch aktiv mitgestaltet und unsere Themen rund um Transparenz, Open Data und offenes Wissen in Talks, Meetups und Lightning Talks aufbereitet.</description>
+      <description>Die jährlich in Berlin statt findende re:publicaist die wichtigste und größte Konferenz rund um das digitale Leben und Netzpolitik im deutschsprachigen Raum. Ein großer Teil des Teams war vor Ort, um spannenden Talks zu lauschen und um sich mit anderen Leuten auszutauschen. Ein paar von uns und aus der Community haben das Programm auch aktiv mitgestaltet und unsere Themen rund um Transparenz, Open Data und offenes Wissen in Talks, Meetupsund Lightning Talksaufbereitet.</description>
     </item>
     
     <item>
@@ -82,9 +78,7 @@ Das OKFestival fand 2012 zum ersten Mal statt und ist das größte Festival rund
       <description>Am 7. und 8. November findet in Amsterdam das dritte Open Development Camp statt.
 Anknüpfend an den Erfolg der Open Development Camps in 2011 und 2012 möchten die Organisatoren in diesem Jahr ein breiteres Spektrum des Open Knowledge Movements (unterschiedliche Domains) zusammenbringen um gemeinsam die Zukunft der Entwicklungszusammenarbeit mitzubestimmen.
 In Camp 2013 dreht sich alles um die drei Bereiche
- Open Data for Development
- Open Organisations for Development
- Open Tools for Development  Das Camp wird sich zudem explizit mit der generellen Frage des Entwicklungsbegriffs befassen und die potentielle Rolle von Open Development für eine Neugestaltung konventioneller geographischer und ökonomischer Spaltung diskutieren.</description>
+ Open Data for Development Open Organisations for Development Open Tools for Development  Das Camp wird sich zudem explizit mit der generellen Frage des Entwicklungsbegriffs befassen und die potentielle Rolle von Open Development für eine Neugestaltung konventioneller geographischer und ökonomischer Spaltung diskutieren.</description>
     </item>
     
     <item>
@@ -257,8 +251,7 @@ Die neu konzeptionalisierte Wikipedia Academy biete eine interdisiziplinäre Pla
       <guid>https://okfn.de/blog/2012/01/lapsi-zweite-offentliche-konferenz/</guid>
       <description>Am 23. and 24. Januar 2012 findet in Brüssel die zweite öffentliche Konferenz des LAPSI thematic network statt. Die Teilnahme an der Konferenz ist kostenfrei, um Anmeldung wird aber gebeten. Ich werde dort einen kurzen Vortrag zur Frage, inwieweit offene Daten bürgerliche Grundrechte stärken können, halten.
 Das ganze Programm scheint vielversprechend und ist in fünf thematische Blöcke aufgeteilt:
- Public Sector Information and Intellectual Property Issues
- Public Sector Information, Privacy and Personal Data</description>
+ Public Sector Information and Intellectual Property Issues Public Sector Information, Privacy and Personal Data Public Sector Information and Competition Law Regulatory Bodies How Open Government Information can Help &amp;lsquo;Operationalize&amp;rsquo; Fundamental Rights  LAPSI (Legal Aspects of Public Sector Information) ist ein von der Europäischen Commission gefördertes Forschungsprojekt zu den rechtlichen Aspekten der PSI Direktive 2003/98/EC.</description>
     </item>
     
     <item>

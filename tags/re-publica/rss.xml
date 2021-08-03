@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Re Publica on OKF</title>
+    <title>re-publica on OKF</title>
     <link>https://okfn.de/tags/re-publica/</link>
-    <description>Recent content in Re Publica on OKF</description>
+    <description>Recent content in re-publica on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/re-publica/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/re-publica/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OKFDE auf der re:publica 2019</title>
       <link>https://okfn.de/blog/2019/05/okfde-auf-der-rp19/</link>

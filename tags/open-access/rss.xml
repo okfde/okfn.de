@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Access on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Access on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 21 Oct 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/open-access/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Oct 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-access/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mission Statement der deutschsprachigen Open Science AG veröffentlicht</title>
       <link>https://okfn.de/blog/2014/10/mission-statement-der-deutschsprachigen-open-science-ag-veroeffentlicht/</link>
@@ -52,7 +48,7 @@ Aus Berlin beispielsweise kommt die Anwendung „Bürger baut Stadt“ - die Sei
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Ein fröhliches Halloween wünschen wir! (CC-BY)
 Rückblick in den Oktober
-Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;rdquo;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;ldquo;&amp;gt;berichtet.
+Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;quot;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;quot;&amp;gt;berichtet.
 Der Open Data-Index, den wir kurz vor dem OGP-Treffen veröffentlicht haben, zeigt, wo die einzelnen Länder stehen. Er zeigt auch, dass die Bundesregierung noch einiges tun muss, um ihren Verpflichtungen aus der G8 Open Data Charter nachzukommen.</description>
     </item>
     
@@ -118,8 +114,8 @@ Bildungseinrichtungen und ihre Bibliotheken stehen vor akuten finanziellen Herau
       
       <guid>https://okfn.de/blog/2011/08/anmeldung-open-access-tage/</guid>
       <description>Am 4. und 5. Oktober 2011 finden in Regensburg die Open-Access-Tage 2011 statt. Wir würden uns sehr freuen, Sie in Regensburg begrüßen zu dürfen. Die Anmeldung ist noch bis Ende September online möglich.
- Zur Anmeldung
- Weitere Informationen
+  Zur Anmeldung
+  Weitere Informationen
   </description>
     </item>
     

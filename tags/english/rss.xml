@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>English on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in English on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/english/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/english/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copyright Censorship: Cologne Court orders us to take down Glyphosate Report (Update)</title>
       <link>https://okfn.de/blog/2019/04/copyright-censorship-update/</link>
@@ -68,8 +64,7 @@ The Federal Law Gazettes are the central documents of German democracy. To pass 
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/12/fragdenstaat-in-2018/</guid>
-      <description>2018 proved, again, why we need to strengthen the infrastructure for democracy. This year, our freedom of information project FragDenStaat has revealed how the Ministry of Family Affairs cooperates with the Domestic Intelligence Service, we have published the Ministry of the Interior&#39;s Master Plan on Migration and documents on “concentration camp-like prisons”&amp;nbsp;in Libya.
-Democracy is not only under fire in the USA or Brazil, but also in Germany. And yet there is too little controversy about how we can expand democratic structures in this country.</description>
+      <description></description>
     </item>
     
     <item>

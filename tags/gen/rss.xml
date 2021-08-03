@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gen on OKF</title>
+    <title>GEN on OKF</title>
     <link>https://okfn.de/tags/gen/</link>
-    <description>Recent content in Gen on OKF</description>
+    <description>Recent content in GEN on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 20 May 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/gen/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 20 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/gen/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Knowledge Foundation Deutschland gewinnt Editors Lab Hackday</title>
       <link>https://okfn.de/blog/2014/05/open-knowledge-foundation-deutschland-gewinnt-editors-lab-f-a-z-hackday/</link>

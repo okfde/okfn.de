@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semantic Web on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Semantic Web on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 07 Feb 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/semantic-web/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 07 Feb 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/semantic-web/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einladung zum LSWT10</title>
       <link>https://okfn.de/blog/2010/02/einladung-zum-lswt10/</link>

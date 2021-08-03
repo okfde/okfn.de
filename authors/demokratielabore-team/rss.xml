@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demokratielabore Team on OKF</title>
+    <title>Demokratielabore-Team on OKF</title>
     <link>https://okfn.de/authors/demokratielabore-team/</link>
-    <description>Recent content in Demokratielabore Team on OKF</description>
+    <description>Recent content in Demokratielabore-Team on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/demokratielabore-team/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/demokratielabore-team/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digitalisierung in der Jugendarbeit - unsere Erfahrungen mit den Demokratielaboren</title>
       <link>https://okfn.de/blog/2019/04/digitalisierung-jugendarbeit-erfahrungen-demokratielabore/</link>

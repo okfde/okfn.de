@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Europeana on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Europeana on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 11 May 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/europeana/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 11 May 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/europeana/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hack4Europe! am 5. und 6. Juni 2012 in der Staatsbibliothek zu Berlin</title>
       <link>https://okfn.de/blog/2012/05/hack4europe-am-5-und-6-juni-2012-in-der-staatsbibliothek-zu-berlin/</link>

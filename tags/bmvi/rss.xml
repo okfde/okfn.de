@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bmvi on OKF</title>
+    <title>BMVI on OKF</title>
     <link>https://okfn.de/tags/bmvi/</link>
-    <description>Recent content in Bmvi on OKF</description>
+    <description>Recent content in BMVI on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/bmvi/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/bmvi/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pressemitteilung statt Offenheit: Open Government ist mehr als nur Open Data</title>
       <link>https://okfn.de/blog/2017/01/bmvi-wetterdaten/</link>

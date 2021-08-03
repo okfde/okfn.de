@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Data on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Data on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/open-data/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-data/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wir laden ein zu unserer Veranstaltungsreihe. Ein Jahrzehnt OKF – Kritik, Politik und Aktivismus</title>
       <link>https://okfn.de/blog/2021/04/veranstaltungsreihe-okf10/</link>
@@ -56,7 +52,7 @@ Der Wissenschaftliche Dienst des Bundestags hat wie auch Politiker:innen selbst 
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2020/06/stellungnahme-open-data-gesetz-nrw/</guid>
-      <description>Im März 2020 wurden wir gebeten, eine Stellungnahme zum Gesetzentwurf der Landesregierung zur Änderung des E-Government-Gesetzes Nordrhein-Westfalen und zur Änderung weiterer Vorschriften (Drs. 17&amp;frasl;8795 des Landtags Nordrhein-Westfalen) abzugeben. In Vorbereitung der Stellungnahme haben wir Inputs aus unserer Community eingesammelt, um Expertise aus verschiedenen Arbeitsbereichen der OKF einbringen zu können. Alle eingegangenen Stellungnahmen hat der Landtag NRW veröffentlicht. Der schriftlichen Stellungnahme folgte eine öffentliche Anhörung im Landtag NRW am 14.05.2020, an der unsere Geschäftsführerin Henriette Litta teilnahm.</description>
+      <description>Im März 2020 wurden wir gebeten, eine Stellungnahme zum Gesetzentwurf der Landesregierung zur Änderung des E-Government-Gesetzes Nordrhein-Westfalen und zur Änderung weiterer Vorschriften (Drs. 17/8795 des Landtags Nordrhein-Westfalen) abzugeben. In Vorbereitung der Stellungnahme haben wir Inputs aus unserer Community eingesammelt, um Expertise aus verschiedenen Arbeitsbereichen der OKF einbringen zu können. Alle eingegangenen Stellungnahmen hat der Landtag NRW veröffentlicht. Der schriftlichen Stellungnahme folgte eine öffentliche Anhörung im Landtag NRW am 14.05.2020, an der unsere Geschäftsführerin Henriette Litta teilnahm.</description>
     </item>
     
     <item>
@@ -163,8 +159,7 @@ Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe of
       
       <guid>https://okfn.de/blog/2018/10/energyhack-2018/</guid>
       <description>Energie für eine effiziente Stadt! Am 12. und 13. Oktober fand der vierte Energyhack von Stromnetz Berlin und der Open Knowledge Foundation statt.
- Video: Lea Pfau
-Ziel des Hackdays war es, innerhalb von 24 Stunden mit offenen Daten aus dem Energiesektor kreative Projekte umzusetzen, um die Gesellschaft stärker für die Themen Strom-, Energienetze und Energiewende zu sensibilisieren und Anwendungen für diese Bereiche zu entwickeln.
+Video: Lea PfauZiel des Hackdays war es, innerhalb von 24 Stunden mit offenen Daten aus dem Energiesektor kreative Projekte umzusetzen, um die Gesellschaft stärker für die Themen Strom-, Energienetze und Energiewende zu sensibilisieren und Anwendungen für diese Bereiche zu entwickeln.
 Wie im Vorjahr fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE statt.</description>
     </item>
     
@@ -183,8 +178,7 @@ Wie im Vorjahr fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/07/psi-directive-joint-effort/</guid>
-      <description>Updates: 25.08.18 Stellungnahme zur PSI Richtlinie
-A short update on the PSI directive (the proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the re-use of public sector information (recast). Today the joint Open Knowledge comment for the PSI directive recast was submitted.
+      <description>Updates: 25.08.18 Stellungnahme zur PSI RichtlinieA short update on the PSI directive (the proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the re-use of public sector information (recast). Today the joint Open Knowledge comment for the PSI directive recast was submitted.
 Thanks to Open Knowledge International, OK Finnland and OK Austria for the combined effort.
 More background information and a rough timeline of the next steps:</description>
     </item>
@@ -196,10 +190,8 @@ More background information and a rough timeline of the next steps:</description
       
       <guid>https://okfn.de/blog/2018/06/eiti-woche-in-berlin/</guid>
       <description>Diese Woche findet in Berlin das internationale Board-Meeting von EITI statt.
-EITI steht für Extractive Industry Transparency Initiative und bemüht sich um die Offenlegung der Zahlungsströme im Rohstoffsektor. Mehr Infos gibt es hier. D-EITI publizierte 2017 seinen ersten Bericht.
-Im Rahmen des Board-Meetings gibt es folgende Veranstaltung von der bzw. für die Zivilgesellschaft:
-Dienstag 26. Juni &amp;ldquo;Workshop on resource governance, transparency and climate change&amp;rdquo; 
-mit Publish What You Pay, Global Witness, Heinrich Böll Foundation, openoil.</description>
+EITI steht für Extractive Industry Transparency Initiative und bemüht sich um die Offenlegung der Zahlungsströme im Rohstoffsektor. Mehr Infos gibt es hier. D-EITI publizierte 2017 seinen ersten Bericht.Im Rahmen des Board-Meetings gibt es folgende Veranstaltung von der bzw. für die Zivilgesellschaft:
+Dienstag 26. Juni &amp;ldquo;Workshop on resource governance, transparency and climate change&amp;rdquo; mit Publish What You Pay, Global Witness, Heinrich Böll Foundation, openoil.</description>
     </item>
     
     <item>
@@ -218,7 +210,7 @@ Deutschland gilt nach wie vor als Geldwäscheparadies. Die Bundesrepublik sei �
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/05/jahresbericht-2017/</guid>
-      <description>Unser Jahresbericht 2017 ist online! Zum ersten Mal berichten wir angelehnt an den Social Reporting Standard. Schreibt uns bei Fragen und Kommentaren.
+      <description>Unser Jahresbericht 2017 ist online! Zum ersten Mal berichten wir angelehnt an den Social Reporting Standard. Schreibt unsbei Fragen und Kommentaren.
 Der Bericht kommt als Punktladung zum Deutschen StiftungsTag 2018. Wir sind dort mit drei Veranstaltungen vertreten:
 Donnerstag 17:00 Uhr - Demokratie reloaded: Wie Stiftungen das neue Verhältnis von Staat und Zivilgesellschaft im digitalen Zeitaltermitgestalten können
 Freitag 11:00 Uhr - Digitales Ehrenamt fördern mit offenem Wissen. Wie Stiftungen ehrenamtliches Engagement mit freien Inhalten und offenen Lizenzen entwickeln können</description>
@@ -300,7 +292,7 @@ Die Plattform wurden in der ersten Wochen bereits zahlreich genutzt und zwölf w
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/01/multimodale-reiseinformationsdienste/</guid>
-      <description>Am 31.01.18 fand im BMVI ein Dialogforum zur zentralen Bereitstellung EU-weiter multimodaler Reiseinformationsdienste statt. Hintergrund dafür ist die delegierte Verordnung (EU) Nr. 2017&amp;frasl;1926 welche am 10.11.2017 in Kraft getreten ist. Das Ziel dieser Verordnung ist die Verbesserung der Zugänglichkeit und des Austausches von Reise und Verkehrsdaten sowie derer Aktualisierung.
+      <description>Am 31.01.18 fand im BMVI ein Dialogforum zur zentralen Bereitstellung EU-weiter multimodaler Reiseinformationsdienste statt. Hintergrund dafür ist die delegierte Verordnung (EU) Nr. 2017/1926 welche am 10.11.2017 in Kraft getreten ist. Das Ziel dieser Verordnung ist die Verbesserung der Zugänglichkeit und des Austausches von Reise und Verkehrsdaten sowie derer Aktualisierung.
 Dies betrifft Personenverkehrdienste im Luft-, Schienen- und Straßenverkehr, in der Binnenschifffahrt oder Kombinationen davon. Der Wirkungsbereich bezieht das gesamte Streckennetz einschließlich urbaner Knoten ein.</description>
     </item>
     
@@ -321,7 +313,7 @@ Dies betrifft Personenverkehrdienste im Luft-, Schienen- und Straßenverkehr, in
       <guid>https://okfn.de/blog/2018/01/big-data-with-local-impact/</guid>
       <description>Heute geht das Vergabeportal opentender.eu, mit Datensätzen aus 32 Ländern und der Europäischen Kommission, online. Opentender.eu bietet die Möglichkeit Vergabedaten strukturiert einzusehen und zu visualisieren. Risikoindikatoren informieren zusätzlich über die Effizienz und Transparenz von Ausschreibungen.
 Im Rahmen der DIGIWHIST Abschlusskonferenz &amp;ldquo;Big data with local impact: Using open data to improve public procurement&amp;rdquo; wird das Portal erstmalig der Öffentlichkeit vorgestellt. Die Konferenz kann per Live-Stream verfolgt werden.
-Agenda Using open data to improve public procurement DIGIWHIST Project Final Conference 29 January 2018 * 13.</description>
+Agenda Using open data to improve public procurement DIGIWHIST Project Final Conference 29 January 2018</description>
     </item>
     
     <item>
@@ -380,7 +372,7 @@ Für Deutschland bedeutete dies mehr als 1 Mio. Euro im Bereich Open Data von Fe
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/09/anmeldung-codingdavinci/</guid>
-      <description>Wir möchten euch herzlich zum 4. Kultur-Hackathon &amp;ldquo;Coding da Vinci&amp;rdquo; in Berlin einladen! Um was es geht: Kulturinstitutionen aus Deutschland stellen Daten zu ihren Sammlungsbeständen als frei zur Verfügung. Gemeinsam mit Kulturinteressierten, Entwickler*innen und Designer*innen wollen wir dieses vielfältige Kulturerbe in neue Kontexte setzen.
+      <description>Wir möchten euch herzlich zum 4. Kultur-Hackathon &amp;ldquo;Coding da Vinci&amp;rdquo; in Berlin einladen! Um was es geht: Kulturinstitutionen aus Deutschland stellen Daten zu ihren Sammlungsbeständen als frei zur Verfügung. Gemeinsam mit Kulturinteressierten, Entwicklerinnen und Designerinnen wollen wir dieses vielfältige Kulturerbe in neue Kontexte setzen.
 Coding da Vinci dauert insgesamt 6 Wochen, die Auftaktveranstaltung findet am 21./22. Oktober statt, die Preisverleihung am 2. Dezember. Dazwischen haben die Teams und Kulturinstitutionen Zeit, ihre Ideen und Projekte weiterzuentwickeln.</description>
     </item>
     
@@ -392,7 +384,7 @@ Coding da Vinci dauert insgesamt 6 Wochen, die Auftaktveranstaltung findet am 21
       <guid>https://okfn.de/blog/2017/09/zivilgesellschaftliche-forderungen/</guid>
       <description>Digitalisierung ist ein zentrales Thema für eine neue Bundesregierung. Die Open Knowledge Foundation Deutschland ist eine der größten zivilgesellschaftlichen Organisationen in diesem Bereich. Wir setzen uns für den freien Zugang zu Informationen ein, vermitteln Wissen und stärken die digitale Zivilgesellschaft.
 An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderungen:
-1. Transparenz vorantreiben Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein.</description>
+1. Transparenz vorantreiben Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein. Zugang zu Informationen muss möglichst umfassend, unmittelbar und barrierefrei sein, um die demokratische Meinungsbildung und Teilhabe zu fördern.</description>
     </item>
     
     <item>
@@ -433,7 +425,7 @@ Für den nächsten Aktionsplan 2019 - 2021 bleiben noch genügend Arbeitsfelder 
       
       <guid>https://okfn.de/blog/2017/07/germanys-open-data-law-english/</guid>
       <description>Disclaimer: we translated the German Open Data Law to make it accessible for the international Open Data community. This is not an official legal translation, but we gave it our very best. The German version can be found below or here.
- Law for the advancement of digital public administration (E-Government-Law - EGovG)   § 12a Open Data for public authorities subordinate to the federal administration  (1) The public authorities subordinate to the federal administration will provide raw data, obtained fulfilling their public-law duties or through third parties, to be retrieved on publicly accessible networks.</description>
+(1) The public authorities subordinate to the federal administration will provide raw data, obtained fulfilling their public-law duties or through third parties, to be retrieved on publicly accessible networks. A claim for the provision of this data is not founded herewith.</description>
     </item>
     
     <item>
@@ -462,8 +454,7 @@ Rund 280 Teilnehmerinnen durften wir am ersten Tag im Erich-Klausener-Saal des B
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/join-the-story-hunt/</guid>
-      <description>&amp;lsquo;The Story Hunt: Uncover the EU&amp;rsquo; is a programme hosted by the Open Knowledge Foundation Germany&amp;rsquo;s teams of Datenschule, OpenBudgets, and SubsidyStories.eu. Together with journalists, analysts, non-profit organisations, developers and designers, we want to develop and apply the skills needed to hunt stories in financial data.
- The Story Hunt is split into two separate parts: a series of Workshops and an Expedition Weekend in Berlin.  The workshops are tailored to aspiring data journalists and non-profit organisations that are interested in improving their data-literacy skills.</description>
+      <description></description>
     </item>
     
     <item>
@@ -492,7 +483,7 @@ Als Sachverständige in der öffentlichen Anhörung des Verkehrsausschusses dazu
       
       <guid>https://okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/</guid>
       <description>Personal Democracy Forum in Danzig! Zwei Tage lang treffen sich hier zivilgesellschaftliche Organisationen aus Mittel- und Osteuropa, um über Transparenz, Meinungsfreiheit und Civic-Tech-Projekte in ihren Ländern zu sprechen. Wir aus den Teams OpenBudgets.eu und Datenschule waren dieses Jahr vor Ort und haben sowohl beim OpenContracting Workshop als auch bei unserer World Cafè Session fleißig mitdiskutiert.
- Beim OpenContracting Workshop:  Die Open Contracting Partnership hat als eintägiges Pre-Event zur Konferenz einen Workshop organisiert wo es um die zentrale Frage ging: Wie die öffentliche Vergabepraxis transparenter und effizienter gestaltet werden kann.</description>
+Beim OpenContracting Workshop: Die Open Contracting Partnership hat als eintägiges Pre-Event zur Konferenz einen Workshop organisiert wo es um die zentrale Frage ging: Wie die öffentliche Vergabepraxis transparenter und effizienter gestaltet werden kann.</description>
     </item>
     
     <item>
@@ -514,9 +505,8 @@ In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Plan
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/open-data-aus-sicht/</guid>
-      <description>Wer bin ich ?  Ich bin Miles, ich gehe zurzeit in die 9. Klasse auf der Anna-Essinger Gemeinschaftsschule in Berlin. Zurzeit mache ich ein zweiwöchiges Schülerpraktikum bei der Open Knowledge Foundation. Im Rahmen des Praktikums schreibe ich diesen Blog zum Thema Open Data und Medien.
- Open Data   Meine Sicht auf Open Data nach einer Woche Praktikum bei der Okf.
-Ich denke, Open Data ist ziemlich wichtig und nützlich für die Gesellschaft.</description>
+      <description>Ich bin Miles, ich gehe zurzeit in die 9. Klasse auf der Anna-Essinger Gemeinschaftsschulein Berlin. Zurzeit mache ich ein zweiwöchiges Schülerpraktikum bei der Open Knowledge Foundation.Im Rahmen des Praktikums schreibe ich diesen Blog zum Thema Open Data und Medien.
+Meine Sicht auf Open Data nach einer Woche Praktikum bei der Okf.Ich denke, Open Data ist ziemlich wichtig und nützlich für die Gesellschaft. Es gibt so viel mehr an Daten, die wir im Alltag benutzen können.</description>
     </item>
     
     <item>
@@ -525,7 +515,7 @@ Ich denke, Open Data ist ziemlich wichtig und nützlich für die Gesellschaft.</
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/esif-data-quality-index/</guid>
-      <description>Today, OpenBudgets.eu presents the European Structural Funds Data Quality Index.  Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.</description>
+      <description></description>
     </item>
     
     <item>
@@ -555,8 +545,8 @@ Zugegeben – der öffentliche Nahverkehr hat noch viele andere Probleme. Er ist
       <pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/02/open-data-day/</guid>
-      <description>Am 04. März laden Aktivistinnen auf der ganzen Welt zum International Open Data Day ein.
-In über einhundert Städten werden Workshops, Hackathons und Events rund um Offene Daten von der Community organisiert und alle Interessierten sind eingeladen. Wie immer sind auch die Open Knowledge Labs vertreten, dieses Jahr mit beeindruckenden 20 Events in 19 Städten! Wir freuen uns sehr darüber, dieses Jahr so breit aufgestellt zu sein. Mit dabei sind gleich drei Neuzugänge, in Heidelberg, Erfurt und Schwerin - willkommen an Bord!</description>
+      <description>In über einhundert Städten werden Workshops, Hackathons und Events rund um Offene Daten von der Community organisiert und alle Interessierten sind eingeladen. Wie immer sind auch die Open Knowledge Labsvertreten, dieses Jahr mit beeindruckenden 20 Events in 19 Städten! Wir freuen uns sehr darüber, dieses Jahr so breit aufgestellt zu sein. Mit dabei sind gleich drei Neuzugänge, in Heidelberg, Erfurtund Schwerin- willkommen an Bord!
+Dieses Jahr legen die OK Labs ein vielfältiges Programm mit den unterschiedlichsten Schwerpunkten vor:</description>
     </item>
     
     <item>
@@ -566,7 +556,7 @@ In über einhundert Städten werden Workshops, Hackathons und Events rund um Off
       
       <guid>https://okfn.de/blog/2016/10/opendata-gesetz/</guid>
       <description>Großes Treiben vor dem Wahlkampf im Bundesinnenministerium (BMI): In den nächsten Wochen will das Ministerium Eckpunkte zu einem Open-Data-Gesetz veröffentlichen, die bis zu den Wahlen im kommenden Jahr in einen Gesetzestext umgesetzt und vom Bundestag verabschiedet werden sollen - ein ambitionierter Zeitplan, nachdem die Koalition lange das Thema verschlafen hat.
-Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste eigentlich kein eigenes Regelwerk geschaffen werden. Das Informationsfreiheitsgesetz, das Informationsweiterverwendungsgesetz und das Verwaltungsverfahrensgesetz wären eigentlich prädestiniert dafür, auch Open Data in der Bundesverwaltung zu regeln.</description>
+Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste eigentlich kein eigenes Regelwerk geschaffen werden. Das Informationsfreiheitsgesetz, das Informationsweiterverwendungsgesetzund das Verwaltungsverfahrensgesetz wären eigentlich prädestiniert dafür, auch Open Data in der Bundesverwaltung zu regeln.</description>
     </item>
     
     <item>
@@ -575,7 +565,7 @@ Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste ei
       <pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/10/iodc-vielfalt-in-der-open-data-community/</guid>
-      <description>Dass offene Daten Auftrieb haben, wird nicht zuletzt durch Initiativen wie die Open Government Partnership oder jüngste Bestrebungen der Koalition deutlich, Datenbestände der Verwaltungen zu öffnen. Auch die International Open Data Conference (IODC) zeigt, dass das Konzept von Open Data mehr und mehr Einzug in die Gesellschaft hält. Jährlich treffen sich Vertreter aus Zivilgesellschaft, Verwaltung und Unternehmen, um sich über neueste Entwicklungen in der Open-Data-Community auszutauschen. Im Rahmen der IODC werden vielfältige Themen im Kontext von Open Data diskutiert.</description>
+      <description>Dass offene Daten Auftrieb haben, wird nicht zuletzt durch Initiativen wie die Open Government Partnershipoder jüngste Bestrebungen der Koalitiondeutlich, Datenbestände der Verwaltungen zu öffnen. Auch die International Open Data Conference (IODC)zeigt, dass das Konzept von Open Data mehr und mehr Einzug in die Gesellschaft hält. Jährlich treffen sich Vertreter aus Zivilgesellschaft, Verwaltung und Unternehmen, um sich über neueste Entwicklungen in der Open-Data-Community auszutauschen. Im Rahmen der IODC werden vielfältige Themen im Kontext von Open Data diskutiert.</description>
     </item>
     
     <item>
@@ -593,8 +583,7 @@ Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste ei
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/04/gastbeitrag-snv-open-data/</guid>
-      <description>Ein Kommentar von Dr. Tobias Knobloch (Projektleiter &amp;ldquo;Open Data and Privacy Project&amp;rdquo; bei der stiftung neue verantwortung) zur “Digitalen Strategie 2025” des Wirtschaftsministers
-Das Strategiepapier aus dem Hause Gabriel ist bereits vielfach kritisiert worden. Für die Kluft zwischen dem Anspruch des Papiers und der Wirklichkeit (z.B. beim Breitbandausbau, Stichwort Vectoring). Für das, was wichig wäre, aber nicht angegangen wird (z.B. eine Konsolidierung des IT-Sicherheitsgesetzes mit der Europäischen Datenschutzgrundverordnung). Und auch für das, was geplant bzw.</description>
+      <description>Ein Kommentar von Dr. Tobias Knobloch (Projektleiter &amp;ldquo;Open Data and Privacy Project&amp;rdquo; bei der stiftung neue verantwortung) zur “Digitalen Strategie 2025” des WirtschaftsministersDas Strategiepapier aus dem Hause Gabriel ist bereits vielfach kritisiert worden. Für die Kluft zwischen dem Anspruch des Papiers und der Wirklichkeit (z.B. beim Breitbandausbau, Stichwort Vectoring). Für das, was wichig wäre, aber nicht angegangen wird (z.B. eine Konsolidierung des IT-Sicherheitsgesetzes mit der Europäischen Datenschutzgrundverordnung). Und auch für das, was geplant bzw.</description>
     </item>
     
     <item>
@@ -632,9 +621,8 @@ Dabei ging es vielfach um Datensätze und APIs rund um die Aufzüge und Parkplä
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/01/govdata-relaunch/</guid>
-      <description>Nach mehreren Jahren in der Übergangsphase ist govdata.de nun endlich überarbeitet. 126.000 Euro wird 2016 in den Betrieb des Portals investiert. Das ist gut, denn die bisherige Version hatte zahlreiche Unzulänglichkeiten. Was ist nun mit dem Relaunch vom 19.01.2016 wirklich neu?
-&amp;quot;Govdata&amp;quot; a la @govdata_de: Wunschkennzeichenerklärungsseite nur nutzbar für Fahrzeuge aus Hannover.&amp;#10;https://t.co/e7XIgq6Y2K
-&amp;mdash; Mathias Schindler (@presroi) 18. Januar 2016 Die Seite ist intuitiver und klarer gestaltet und bietet einige neue Funktionen.</description>
+      <description>Nach mehreren Jahren in der Übergangsphase ist govdata.de nun endlich überarbeitet. 126.000 Euro wird 2016in den Betrieb des Portals investiert. Das ist gut, denn die bisherige Version hatte zahlreiche Unzulänglichkeiten. Was ist nun mit dem Relaunch vom 19.01.2016 wirklich neu?
+Die Seite ist intuitiver und klarer gestaltet und bietet einige neue Funktionen. Nutzer können jetzt den Umfang der Ergebnistreffer deutlich besser an ihre eigenen Anforderungen anpassen, statt von einer großen Zahl oft nur begrenzt hilfreicher Datensätze erschlagen zu werden.</description>
     </item>
     
     <item>
@@ -662,7 +650,7 @@ Open Data Projekte adressieren meist eine bestimmte Stadt, einen bestimmten Zwec
       <pubDate>Thu, 16 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/07/stadtgeschichten-codeforde/</guid>
-      <description>Code for Germany ist ein Projekt der Open Knowledge Foundation Deutschland, das seit Februar 2014 AktivistInnen zusammenbringt, die mit offenen Daten interessante und wichtige Anwendungen entwickeln. Manche Projekte ermöglichen mehr Bürgerbeteiligung, andere schaffen Transparenz, und wiederum andere helfen im Alltag. Bisher konnte man ihre Arbeit auf der Website verfolgen. Nun gibt es einen Blick hinter die Kulissen.
+      <description>Code for Germany ist ein Projekt der Open Knowledge Foundation Deutschland, das seit Februar 2014 AktivistInnen zusammenbringt, die mit offenen Daten interessante und wichtige Anwendungen entwickeln. Manche Projekte ermöglichen mehr Bürgerbeteiligung, andere schaffen Transparenz, und wiederum andere helfen im Alltag. Bisher konnte man ihre Arbeit auf der Websiteverfolgen. Nun gibt es einen Blick hinter die Kulissen.
 Die neuen Stadtgeschichten erzählen von Frust und Freude am Entwickeln, vom Design, von Behördendeutsch und maschinenlesbaren Daten.</description>
     </item>
     
@@ -716,10 +704,7 @@ Berlin – 25.01.2014 – The tell-tale signs of public spending gone wrong are 
       
       <guid>https://okfn.de/blog/2014/12/apps4europe-sucht-die-besten-opendata-apps/</guid>
       <description>Arbeitest Du an einer App, die offene Daten verwendet? Du möchtest Deine App in ein nachhaltiges Unternehmen weiterentwickeln? Apps for Europe hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:
- Neu und nützlich
- Einfach benutzbar
- Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen
- Der Welt das Potenzial von offenen Daten zu zeigen  Du kannst Dich jetzt mit deiner App und deinem Geschäftsplan unter www.</description>
+ Neu und nützlich Einfach benutzbar Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen Der Welt das Potenzial von offenen Daten zu zeigen  Du kannst Dich jetzt mit deiner App und deinem Geschäftsplan unter www.</description>
     </item>
     
     <item>
@@ -800,8 +785,8 @@ Wir richten uns besonders an diese Gruppen, weil wir glauben, dass es wichtig is
       <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/</guid>
-      <description>Im Sommer 2013 unterzeichneten die G8 Staaten, darunter auch Deutschland, überraschend die “Open Data&amp;rdquo;-Charta. Die Unterzeichnerländer verpflichteten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um “Transparenz und Innovation” zu fördern.
-Die einzelnen Mitgliedsländer einigten sich auch darauf bis Ende 2013 konkrete Aktionspläne zu erstellen und die dort festgeschriebenen Fortschritte beim nächsten G8-Treffen, am 4. und 5.</description>
+      <description>Im Sommer 2013 unterzeichneten die G8 Staaten, darunter auch Deutschland, überraschend die “Open Data&amp;quot;-Charta. Die Unterzeichnerländer verpflichteten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um “Transparenz und Innovation” zu fördern.
+Die einzelnen Mitgliedsländer einigten sich auch darauf bis Ende 2013 konkrete Aktionspläne zu erstellen und die dort festgeschriebenen Fortschritte beim nächsten G8-Treffen, am 4. und 5. Juni 2014 in Sotschi, zu überprüfen.</description>
     </item>
     
     <item>
@@ -811,10 +796,7 @@ Die einzelnen Mitgliedsländer einigten sich auch darauf bis Ende 2013 konkrete 
       
       <guid>https://okfn.de/blog/2013/12/apps-for-europe-wettbewerb-mitmachen/</guid>
       <description>Arbeiten Sie an einer App, die offene Daten verwendet? Apps for Europe hat einen Online-Wettbewerb gestartet, der die besten App-Entwickler dieses Erdteils finden soll. Wir suchen Apps, die folgendes sind:
- Neu
- Einfach benutzbar
- Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen
- Der Welt das Potzenzial von offenen Daten zu zeigen  Sie können sich jetzt unter www.appsforeurope.eu/competition bewerben. Die Frist läuft am 7. Februar 2014 ab.</description>
+ Neu Einfach benutzbar Darauf ausgerichtet, tragfähige Unternehmen und Dienstleistungen zu schaffen Der Welt das Potzenzial von offenen Daten zu zeigen  Sie können sich jetzt unter www.appsforeurope.eu/competition bewerben. Die Frist läuft am 7. Februar 2014 ab. Sie haben also nicht mehr viel Zeit!</description>
     </item>
     
     <item>
@@ -826,9 +808,7 @@ Die einzelnen Mitgliedsländer einigten sich auch darauf bis Ende 2013 konkrete 
       <description>Am 7. und 8. November findet in Amsterdam das dritte Open Development Camp statt.
 Anknüpfend an den Erfolg der Open Development Camps in 2011 und 2012 möchten die Organisatoren in diesem Jahr ein breiteres Spektrum des Open Knowledge Movements (unterschiedliche Domains) zusammenbringen um gemeinsam die Zukunft der Entwicklungszusammenarbeit mitzubestimmen.
 In Camp 2013 dreht sich alles um die drei Bereiche
- Open Data for Development
- Open Organisations for Development
- Open Tools for Development  Das Camp wird sich zudem explizit mit der generellen Frage des Entwicklungsbegriffs befassen und die potentielle Rolle von Open Development für eine Neugestaltung konventioneller geographischer und ökonomischer Spaltung diskutieren.</description>
+ Open Data for Development Open Organisations for Development Open Tools for Development  Das Camp wird sich zudem explizit mit der generellen Frage des Entwicklungsbegriffs befassen und die potentielle Rolle von Open Development für eine Neugestaltung konventioneller geographischer und ökonomischer Spaltung diskutieren.</description>
     </item>
     
     <item>
@@ -1247,8 +1227,7 @@ Den start machen wir also am Dienstag den 10. Januar, ab 18 Uhr in unseren neuen
       <guid>https://okfn.de/blog/2012/01/lapsi-zweite-offentliche-konferenz/</guid>
       <description>Am 23. and 24. Januar 2012 findet in Brüssel die zweite öffentliche Konferenz des LAPSI thematic network statt. Die Teilnahme an der Konferenz ist kostenfrei, um Anmeldung wird aber gebeten. Ich werde dort einen kurzen Vortrag zur Frage, inwieweit offene Daten bürgerliche Grundrechte stärken können, halten.
 Das ganze Programm scheint vielversprechend und ist in fünf thematische Blöcke aufgeteilt:
- Public Sector Information and Intellectual Property Issues
- Public Sector Information, Privacy and Personal Data</description>
+ Public Sector Information and Intellectual Property Issues Public Sector Information, Privacy and Personal Data Public Sector Information and Competition Law Regulatory Bodies How Open Government Information can Help &amp;lsquo;Operationalize&amp;rsquo; Fundamental Rights  LAPSI (Legal Aspects of Public Sector Information) ist ein von der Europäischen Commission gefördertes Forschungsprojekt zu den rechtlichen Aspekten der PSI Direktive 2003/98/EC.</description>
     </item>
     
     <item>

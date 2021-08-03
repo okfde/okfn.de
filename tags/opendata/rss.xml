@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Opendata on OKF</title>
+    <title>opendata on OKF</title>
     <link>https://okfn.de/tags/opendata/</link>
-    <description>Recent content in Opendata on OKF</description>
+    <description>Recent content in opendata on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/opendata/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/opendata/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Die OKF wird 10 Jahre alt</title>
       <link>https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/</link>
@@ -38,8 +34,7 @@ Das Europäische Parlament hat heute die überarbeitete Neufassung der Richtlini
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2019/02/offene-daten-fuer-alle/</guid>
-      <description>Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt, Bericht siehe hier, aktuell wird in Deutschland über &amp;ldquo;Daten für alle&amp;rdquo; gesprochen und wir sind zur heutigen Veranstaltung eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss.
-Update: Video von der Veranstaltung
+      <description>Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt, Bericht siehe hier, aktuell wird in Deutschland über &amp;ldquo;Daten für alle&amp;rdquo; gesprochen und wir sind zur heutigen Veranstaltung eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss.Update: Video von der Veranstaltung
 tl;dr:
 Ein kurzer Kommentar u.a. zu grundlegenderen offenen Punkte in diesem Zusammenhang:
 1. Allgemein: (offene) Daten für alle. Wer Daten für alle fordert, sollte selbst auch die eigenen Daten liefern.</description>
@@ -62,9 +57,9 @@ Today, January 22 2019 the final trilogue between European Commission, Parliamen
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/12/psi-public-sector-information/</guid>
-      <description>Opendata in Europe, on the re-use of public sector information, otherwise known as the PSI Directive, is an EU directive that encourages EU member states to make as much public sector information available for re-use as possible.
-Documents &amp;amp; upcoming English summary below.
-Seit 2012 beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector Information Directive, aka Open Data. Und so wie es scheint, auch noch länger.</description>
+      <description>Opendata in Europe, on the re-use of public sector information, otherwise known as the PSI Directive, is an EU directive that encourages EU member states to make as much public sector information available for re-use as possible.Documents &amp;amp; upcoming English summary below.
+Seit 2012 beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector Information Directive, aka Open Data. Und so wie es scheint, auch noch länger.
+Am Montag den 5.</description>
     </item>
     
     <item>
@@ -74,8 +69,8 @@ Seit 2012 beschäftigt sich die OKFDE aktiv mit der PSI - Public Sector Informat
       
       <guid>https://okfn.de/blog/2018/05/okfde-beim-deutschen-stiftungstag-2018/</guid>
       <description>Der Deutsche Stiftungstag wird jedes Jahr vom Verband Deutscher Stiftungen als Informations- und Vernetzungsangebot für seine Mitglieder organisiert. Die diesjährige Ausgabe fand unter dem Motto Update! - Stiftungen und Digitalisierung vom 16. - 18. Mai in Nürnberg statt.
-Drei von fünf Kategorien der diesjährigen Veranstaltung waren - #DST18_OffeneDaten - #DST18_Transparenz - #DST18_Partizipation
-Also genau passend für uns! Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln dieser Themen ist und wie lange die Umsetzung von Forderungen braucht.</description>
+Drei von fünf Kategorien der diesjährigen Veranstaltung waren
+ #DST18_OffeneDaten #DST18_Transparenz #DST18_Partizipation  Also genau passend für uns! Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln dieser Themen ist und wie lange die Umsetzung von Forderungen braucht.</description>
     </item>
     
     <item>

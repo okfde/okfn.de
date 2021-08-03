@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oer on OKF</title>
+    <title>OER on OKF</title>
     <link>https://okfn.de/tags/oer/</link>
-    <description>Recent content in Oer on OKF</description>
+    <description>Recent content in OER on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/oer/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/oer/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Knowledge Foundation beim Deutschen Stiftungstag 2018</title>
       <link>https://okfn.de/blog/2018/05/okfde-beim-deutschen-stiftungstag-2018/</link>
@@ -18,8 +14,8 @@
       
       <guid>https://okfn.de/blog/2018/05/okfde-beim-deutschen-stiftungstag-2018/</guid>
       <description>Der Deutsche Stiftungstag wird jedes Jahr vom Verband Deutscher Stiftungen als Informations- und Vernetzungsangebot für seine Mitglieder organisiert. Die diesjährige Ausgabe fand unter dem Motto Update! - Stiftungen und Digitalisierung vom 16. - 18. Mai in Nürnberg statt.
-Drei von fünf Kategorien der diesjährigen Veranstaltung waren - #DST18_OffeneDaten - #DST18_Transparenz - #DST18_Partizipation
-Also genau passend für uns! Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln dieser Themen ist und wie lange die Umsetzung von Forderungen braucht.</description>
+Drei von fünf Kategorien der diesjährigen Veranstaltung waren
+ #DST18_OffeneDaten #DST18_Transparenz #DST18_Partizipation  Also genau passend für uns! Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln dieser Themen ist und wie lange die Umsetzung von Forderungen braucht.</description>
     </item>
     
     <item>
@@ -78,7 +74,7 @@ Das OER-Festival 2016 #OERde16 macht die Breite und Vielfalt von Open Educationa
       <pubDate>Thu, 16 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/07/stadtgeschichten-codeforde/</guid>
-      <description>Code for Germany ist ein Projekt der Open Knowledge Foundation Deutschland, das seit Februar 2014 AktivistInnen zusammenbringt, die mit offenen Daten interessante und wichtige Anwendungen entwickeln. Manche Projekte ermöglichen mehr Bürgerbeteiligung, andere schaffen Transparenz, und wiederum andere helfen im Alltag. Bisher konnte man ihre Arbeit auf der Website verfolgen. Nun gibt es einen Blick hinter die Kulissen.
+      <description>Code for Germany ist ein Projekt der Open Knowledge Foundation Deutschland, das seit Februar 2014 AktivistInnen zusammenbringt, die mit offenen Daten interessante und wichtige Anwendungen entwickeln. Manche Projekte ermöglichen mehr Bürgerbeteiligung, andere schaffen Transparenz, und wiederum andere helfen im Alltag. Bisher konnte man ihre Arbeit auf der Websiteverfolgen. Nun gibt es einen Blick hinter die Kulissen.
 Die neuen Stadtgeschichten erzählen von Frust und Freude am Entwickeln, vom Design, von Behördendeutsch und maschinenlesbaren Daten.</description>
     </item>
     
@@ -89,7 +85,7 @@ Die neuen Stadtgeschichten erzählen von Frust und Freude am Entwickeln, vom Des
       
       <guid>https://okfn.de/blog/2015/06/jugund-hackt-sued/</guid>
       <description>42 Stunden, 48 technikbegeisterte Jugendliche, 16 Mentorinnen und Mentoren, und ebenso viele helfende Hände – das war das Rezept für Jugend hackt Süd. Ermöglicht wurde die Veranstaltung durch den Code Week Award, den Jugend hackt Süd für die Austragung des Events erhalten hatte.
-  CC BY 3.0 Jugend hackt, Foto: Eva-Maria Kühling/Peter Wozniak  Projekte, wie „World of Schoolcraft“, in dem mit spielerischen Belohnungen, ähnlich wie im Online-Rollenspiel, Schule vollkommen neu definiert wird, zeigen eindrucksvoll, wie kreativ man seine technischen Fähigkeiten einsetzten kann.</description>
+Projekte, wie „World of Schoolcraft“, in dem mit spielerischen Belohnungen, ähnlich wie im Online-Rollenspiel, Schule vollkommen neu definiert wird, zeigen eindrucksvoll, wie kreativ man seine technischen Fähigkeiten einsetzten kann.</description>
     </item>
     
     <item>
@@ -148,7 +144,7 @@ Freie Bildungsmaterialien werden als ein Mittel für eine gerechtere und partizi
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Ein fröhliches Halloween wünschen wir! (CC-BY)
 Rückblick in den Oktober
-Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;rdquo;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;ldquo;&amp;gt;berichtet.
+Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;quot;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;quot;&amp;gt;berichtet.
 Der Open Data-Index, den wir kurz vor dem OGP-Treffen veröffentlicht haben, zeigt, wo die einzelnen Länder stehen. Er zeigt auch, dass die Bundesregierung noch einiges tun muss, um ihren Verpflichtungen aus der G8 Open Data Charter nachzukommen.</description>
     </item>
     

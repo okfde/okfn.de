@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arne Semsrott on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Arne Semsrott on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/arne-semsrott/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/arne-semsrott/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Jahre FragDenStaat: Fortschritte sind durchaus erkennbar</title>
       <link>https://okfn.de/blog/2021/08/10-jahre-fragdenstaat/</link>
@@ -36,7 +32,7 @@ Selbstverständlich ist das überhaupt nicht. Denn unser Kernthema, Informations
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/jobs/software-entwicklerin-fragdenstaat/</guid>
-      <description>Der*die Software-Entwickler*in arbeitet als Teil eines kleinen Teams an der Code Base von FragDenStaat, um neue Funktionen zu entwickeln, Bugs zu fixen und Design-Entwürfe umzusetzen.
+      <description>Derdie Software-Entwicklerin arbeitet als Teil eines kleinen Teams an der Code Base von FragDenStaat, um neue Funktionen zu entwickeln, Bugs zu fixen und Design-Entwürfe umzusetzen.
 Wir streben eine gleichmäßige Repräsentation gesellschaftlicher Gruppen im Team an und möchten den Anteil von Menschen mit Migrationsgeschichte, Schwarzen Personen/PoCs und Menschen mit Behinderungen im Team erhöhen.
 Wer wir sind FragDenStaat ist das Portal für Informationsfreiheit in Deutschland. Seit 2011 ermöglicht es allen Menschen, einfach und transparent Informationen von Behörden zu befreien – mit technischen Tools, Kampagnen, strategischen Klagen und journalistischer Berichterstattung.</description>
     </item>
@@ -160,7 +156,7 @@ Arne Semsrott, project lead of FragDenStaat: &amp;ldquo;It is shameful to see th
       
       <guid>https://okfn.de/blog/2019/03/zensurheberrecht/</guid>
       <description>Die Bundesregierung hat FragDenStaat für die Veröffentlichung eines staatlichen Gutachtens zu den Risiken von Glyphosat abgemahnt. Das zuständige Bundesinstitut für Risikobewertung (BfR), das dem Landwirtschaftsministerium von Julia Klöckner (CDU) untersteht, wirft uns eine Urheberrechtsverletzung vor und fordert von uns die Unterzeichnung einer Unterlassungserklärung.
-Arne Semsrott, Projektleiter von FragDenStaat: &amp;ldquo;Es ist beschämend zu sehen, dass das Landwirtschaftsministerium das Urheberrecht missbraucht, um unliebsame Berichterstattung zu unterdrücken. Wir lassen uns aber nicht einschüchtern.</description>
+Arne Semsrott, Projektleiter von FragDenStaat: &amp;ldquo;Es ist beschämend zu sehen, dass das Landwirtschaftsministerium das Urheberrecht missbraucht, um unliebsame Berichterstattung zu unterdrücken. Wir lassen uns aber nicht einschüchtern. Wenn es sein muss, ziehen wir mit dem Fall bis vor den Europäischen Gerichtshof.</description>
     </item>
     
     <item>
@@ -233,8 +229,7 @@ Bisher sind Bundesgesetzblätter nur über die Website bgbl.</description>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/12/fragdenstaat-in-2018/</guid>
-      <description>2018 proved, again, why we need to strengthen the infrastructure for democracy. This year, our freedom of information project FragDenStaat has revealed how the Ministry of Family Affairs cooperates with the Domestic Intelligence Service, we have published the Ministry of the Interior&#39;s Master Plan on Migration and documents on “concentration camp-like prisons”&amp;nbsp;in Libya.
-Democracy is not only under fire in the USA or Brazil, but also in Germany. And yet there is too little controversy about how we can expand democratic structures in this country.</description>
+      <description></description>
     </item>
     
     <item>
@@ -319,9 +314,9 @@ Mehr über die OpenSCHUFA-Datenspende und die mangelnde Kontrolle der Auskunftei
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/03/openschufa-endspurt/</guid>
-      <description> Unsere Initiative OpenSchufa hat schon jetzt ein großes Echo gefunden. Animiert durch nationalen und internationale Berichterstattung haben schon fast 15.000 Menschen ihre kostenlose Selbstauskunft bei der Schufa angefordert.
+      <description>Unsere Initiative OpenSchufa hat schon jetzt ein großes Echo gefunden. Animiert durch nationalen und internationale Berichterstattung haben schon fast 15.000 Menschen ihre kostenlose Selbstauskunft bei der Schufa angefordert.
 Damit wir die anonymisierten Daten daraus gut auswerten können, brauchen wir jetzt Deine Unterstützung: Noch drei Tage lang läuft das Crowdfunding für OpenSchufa. Spende uns bitte für das Projekt jetzt 20 oder 50 Euro!
- Präsentation beim netzpolitschen Abend 06.03.2018  </description>
+Präsentation beim netzpolitschen Abend 06.03.2018 </description>
     </item>
     
     <item>
@@ -330,10 +325,10 @@ Damit wir die anonymisierten Daten daraus gut auswerten können, brauchen wir je
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/02/1-week-openschufa/</guid>
-      <description>Last week we launched our newest project OpenSCHUFA together with AlgorithmWatch.
-Inspired by OKF Finland and the „mydata“ project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.
+      <description>Last week we launched our newest project OpenSCHUFA together with AlgorithmWatch.Inspired by OKF Finland and the „mydata“ project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.
 Over the last 7 days, the campaign generated Germany-wide media attention (see press listing) and already over 8.000 individual Schufa data request (30.000 personal data requests in total).
-Congrats to selbstauskunft.net for serving 1 million personal data requests!</description>
+Congrats to selbstauskunft.net for serving 1 million personal data requests!
+Why we started OpenSCHUFA and why you should care about credit scoring Germany’s leading credit rating bureau, SCHUFA, has immense power over people’s lives.</description>
     </item>
     
     <item>
@@ -343,7 +338,7 @@ Congrats to selbstauskunft.net for serving 1 million personal data requests!</de
       
       <guid>https://okfn.de/blog/2018/02/openschufa/</guid>
       <description>Ob Kredite, Handyverträge oder Wohnungsbewerbungen - bei wichtigen Verbraucherfragen spielt der Schufa-Score eine zentrale Rolle. Wer zu wenige Punkte hat, geht oft leer aus. Das Scoring-Verfahren des Privatunternehmens Schufa ist allerdings höchst intransparent. Als Geschäftsgeheimnis ist es der Öffentlichkeit nicht zugänglich.
-Das wollen wir ab heute mit dem Projekt OpenSCHUFA ändern. Gemeinsam mit AlgorithmWatch wollen wir den Algorithmus der Schufa mit Reverse Engineering rekonstruieren.
+Das wollen wir ab heute mit dem Projekt OpenSCHUFAändern. Gemeinsam mit AlgorithmWatchwollen wir den Algorithmus der Schufa mit Reverse Engineering rekonstruieren.
 Dazu rufen wir zur Datenspende auf: Alle Menschen können unter selbstauskunft.</description>
     </item>
     
@@ -363,7 +358,7 @@ Dazu rufen wir zur Datenspende auf: Alle Menschen können unter selbstauskunft.<
       
       <guid>https://okfn.de/blog/2017/09/kunstedition/</guid>
       <description>Pünktlich zum Internationalen Tag der Informationsfreiheit: Unsere neue Kunstedition ist da!
-Wir haben die Antwort der EU-Kommission auf eine Anfrage nach Dokumenten zu Fake News künstlerisch aufgearbeitet. Die ersten 50 Personen, die Fördermitglied von FragDenStaat werden, erhalten als Dankeschön ein Exemplar der limitierten Fake-News-Edition.
+Wir haben die Antwort der EU-Kommission auf eine Anfrage nach Dokumenten zu Fake News künstlerisch aufgearbeitet. Die ersten 50 Personen, die Fördermitglied von FragDenStaatwerden, erhalten als Dankeschön ein Exemplar der limitierten Fake-News-Edition.
 Zur Kunstedition</description>
     </item>
     
@@ -384,7 +379,7 @@ Die Open Knowledge Foundation Deutschland unterstützt gemeinsam mit 30 anderen 
       
       <guid>https://okfn.de/blog/2017/08/digitalomat/</guid>
       <description>Ab sofort können alle Wahlberechtigten ein neues Online-Tool als Entscheidungshilfe für die Bundestagswahl nutzen: Mit 12 Klicks verrät der Digital-O-Mat Wählerinnen und Wählern, mit welcher Partei sie bei netzpolitischen Themen auf einer Wellenlänge liegen.
-Warum ist eine Hilfestellung zu netzpolitischen Themen nötig? Digitale Themen gewinnen auch im Alltag der Wählerinnen und Wähler zunehmend an Bedeutung, kommen in der allgemeinen Wahlberichterstattung jedoch oft zu kurz. Der Digital-O-Mat macht die jeweiligen Parteipositionen zu netzpolitisch relevanten Themen sichtbar und erleichtert es, sich auf dieser Grundlage eine Meinung zu bilden und eine Wahlentscheidung zu treffen.</description>
+Digitale Themen gewinnen auch im Alltag der Wählerinnen und Wähler zunehmend an Bedeutung, kommen in der allgemeinen Wahlberichterstattung jedoch oft zu kurz. Der Digital-O-Mat macht die jeweiligen Parteipositionen zu netzpolitisch relevanten Themen sichtbar und erleichtert es, sich auf dieser Grundlage eine Meinung zu bilden und eine Wahlentscheidung zu treffen.</description>
     </item>
     
     <item>
@@ -478,7 +473,7 @@ Heißt das, dass das BMVI jetzt im Wetter-Bereich auf Open Data setzt? Das wäre
       <description>Wir haben gegenüber dem Bundesinnenministerium eine Stellungnahme für den ersten Entwurf für ein Open-Data-Gesetz aka Änderung des E-Government-Gesetzes abgegeben.
 Der Entwurf enthält einige begrüßenswerte Regelungen, geht aber in vielen Bereichen nicht weit genug. Daher setzen wir uns für eine weitere Anpassung des Gesetzes im weiteren Gesetzgebungsprozess ein.
 Zur vollständigen Stellungnahme (pdf)
-Die Stellungnahme im Volltext:
+ Die Stellungnahme im Volltext:
 Stellungnahme der Open Knowledge Foundation Deutschland zum Entwurf eines Gesetzes zur Änderung des E-Government-Gesetzes (Stand des Entwurfs: 15.</description>
     </item>
     
@@ -530,8 +525,9 @@ Auf der Plattform von FragDenStaat.de können bereits seit einigen Jahren Auskun
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/11/ogp-paris/</guid>
-      <description>Seit Jahren hat die Open Knowledge Foundation Deutschland den Beitritt Deutschlands zur Open Government Partnership (OGP) gefordert und sich für starkes Open Government eingesetzt. Tatsächlich sind 32 Länder aus Europa und Zentralasien der Initiative beigetreten, Deutschland aber bisher nicht.
-Das ändert sich bald jedoch. Wir nehmen die politischen Entwicklungen zum Anlass, beim OGP Summit in Paris vom 7. bis 9. Dezember Themen der deutschen Zivilgesellschaft in verschiedenen Veranstaltungen zu vertreten:</description>
+      <description>Seit Jahren hat die Open Knowledge Foundation Deutschland den Beitritt Deutschlands zur Open Government Partnership (OGP) gefordertund sich für starkes Open Government eingesetzt. Tatsächlich sind 32 Länder aus Europa und Zentralasien der Initiative beigetreten, Deutschland aber bisher nicht.
+Das ändert sich bald jedoch. Wir nehmen die politischen Entwicklungen zum Anlass, beim OGP Summit in Paris vom 7. bis 9. Dezember Themen der deutschen Zivilgesellschaft in verschiedenen Veranstaltungen zu vertreten:
+  FOI Flooding: Using Freedom of Information platforms for political movement  Tools to track corruption and engage stakeholders in public contracting  How did your country spend its EU Subsidy?</description>
     </item>
     
     <item>
@@ -540,7 +536,7 @@ Das ändert sich bald jedoch. Wir nehmen die politischen Entwicklungen zum Anlas
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/10/sh-stellungnahme/</guid>
-      <description>In einer Stellungnahme an den Innenausschuss des Schleswig-Holsteinischen Landtags haben wir die geplante Reform des Informationszugangsgesetzes begrüßt. Gleichzeitig fordern wir jedoch eine deutlich ambitioniertere Verbesserung des Gesetzes. Dazu gehören die Einbettung von Open Data in die Verwaltung, die Abschaffung von Gebühren sowie Transparenz im Gesetzgebungsprozess. Dass der Landtag sich selbst in großen Teilen vom Informationszugang ausnehmen will, widerspricht dem Sinn eines solchen Gesetzes.
+      <description>In einer Stellungnahme an den Innenausschuss des Schleswig-Holsteinischen Landtags haben wir die geplante Reform des Informationszugangsgesetzesbegrüßt. Gleichzeitig fordern wir jedoch eine deutlich ambitioniertere Verbesserung des Gesetzes. Dazu gehören die Einbettung von Open Data in die Verwaltung, die Abschaffung von Gebühren sowie Transparenz im Gesetzgebungsprozess. Dass der Landtag sich selbst in großen Teilen vom Informationszugang ausnehmen will, widerspricht dem Sinn eines solchen Gesetzes.
 Zu unserer Stellungnahme</description>
     </item>
     
@@ -551,7 +547,7 @@ Zu unserer Stellungnahme</description>
       
       <guid>https://okfn.de/blog/2016/10/opendata-gesetz/</guid>
       <description>Großes Treiben vor dem Wahlkampf im Bundesinnenministerium (BMI): In den nächsten Wochen will das Ministerium Eckpunkte zu einem Open-Data-Gesetz veröffentlichen, die bis zu den Wahlen im kommenden Jahr in einen Gesetzestext umgesetzt und vom Bundestag verabschiedet werden sollen - ein ambitionierter Zeitplan, nachdem die Koalition lange das Thema verschlafen hat.
-Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste eigentlich kein eigenes Regelwerk geschaffen werden. Das Informationsfreiheitsgesetz, das Informationsweiterverwendungsgesetz und das Verwaltungsverfahrensgesetz wären eigentlich prädestiniert dafür, auch Open Data in der Bundesverwaltung zu regeln.</description>
+Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste eigentlich kein eigenes Regelwerk geschaffen werden. Das Informationsfreiheitsgesetz, das Informationsweiterverwendungsgesetzund das Verwaltungsverfahrensgesetz wären eigentlich prädestiniert dafür, auch Open Data in der Bundesverwaltung zu regeln.</description>
     </item>
     
     <item>
@@ -560,8 +556,8 @@ Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste ei
       <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/10/transparenzgesetz-berlin/</guid>
-      <description>Es ist höchste Zeit, dass Berlin ein Transparenzgesetz einführt, durch das die Verwaltung wichtige Daten proaktiv veröffentlichen muss. Wie in Hamburg müssen auch die Behörden der Hauptstadt verpflichtet werden, unter anderem Verträge der öffentlichen Verwaltung, Haushalts- und Vergabedaten sowie interne Weisungen offenzulegen. Die neue rot-rot-grüne Koaltion muss jetzt handeln:
-1) Besser für die Verwaltung: Größter Nutznießer des Hamburger Transparenzgesetzes ist die Verwaltung selbst. Durch das Transparenzportal werden Datensilos abgeschafft. VerwaltungsmitarbeiterInnen müssen Daten anderer Behörden nicht mehr einzeln anfordern, sondern können sie direkt selbst im Internet abrufen.</description>
+      <description>Es ist höchste Zeit, dass Berlin ein Transparenzgesetz einführt, durch das die Verwaltung wichtige Daten proaktiv veröffentlichen muss. Wie in Hamburgmüssen auch die Behörden der Hauptstadt verpflichtet werden, unter anderem Verträge der öffentlichen Verwaltung, Haushalts- und Vergabedaten sowie interne Weisungen offenzulegen. Die neue rot-rot-grüne Koaltion muss jetzt handeln:
+  Besser für die Verwaltung: Größter Nutznießer des Hamburger Transparenzgesetzes ist die Verwaltung selbst. Durch das Transparenzportal werden Datensilos abgeschafft. VerwaltungsmitarbeiterInnen müssen Daten anderer Behörden nicht mehr einzeln anfordern, sondern können sie direkt selbst im Internet abrufen.</description>
     </item>
     
     <item>
@@ -572,8 +568,7 @@ Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste ei
       <guid>https://okfn.de/blog/2016/09/tagderinformationsfreiheit/</guid>
       <description>Heute ist internationaler Tag der Informationsfreiheit! Vor 250 Jahren trat in Schweden das erste Informationsfreiheitsgesetz der Welt in Kraft.
 Wir feiern das Jubiläum mit dem Druck der limitierten Kunst-Edition #000000: Fördermitglieder der Open Knowledge Foundation Deutschland erhalten eine gerahmte Antwort des Bundeswirtschaftsministeriums auf eine Anfrage nach dem Informationsfreiheitsgesetz. Sie ist komplett in schwarz gehalten.
-Hier geht es zur Kunstedition #000000
-Die Antwort des Wirtschaftsministeriums auf eine Anfrage zu Automobilkonzernen steht für die Transparenzpolitik staatlicher Stellenin Bezug auf den Volkswagen-Betrug.</description>
+Hier geht es zur Kunstedition #000000Die Antwort des Wirtschaftsministeriums auf eine Anfrage zu Automobilkonzernen steht für die Transparenzpolitik staatlicher Stellenin Bezug auf den Volkswagen-Betrug.</description>
     </item>
     
     <item>
@@ -592,8 +587,8 @@ Wir nehmen das FragDenStaat-Jubiläum zum Anlass, ein Fazit zu ziehen aus fünf 
       <pubDate>Thu, 18 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/08/obs-studie/</guid>
-      <description>Heute erscheint das neue Arbeitspapier der Otto-Brenner-Stiftung mit dem Titel „Informationsfreiheit – Mehr Transparenz für mehr Demokratie“. Darin liefern wir eine aktuelle Bestandsaufnahme aus der Praxis des Informationsfreiheitsgesetzes (IFG) und stellen innovative Reformoptionen zur Diskussion. Das Arbeitspapier gibt einen Überblick über die Handhabung des IFGs in Deutschland und zeigt Schwachstellen der bestehenden Regelungen auf, darunter abschreckende Gebühren, restriktiver Umgang mit Geschäftsgeheimnissen und laxe Fristen für Behörden.
-Das Papier kann hier kostenfrei heruntergeladen werden.</description>
+      <description>Heute erscheint das neue Arbeitspapierder Otto-Brenner-Stiftung mit dem Titel „Informationsfreiheit – Mehr Transparenz für mehr Demokratie“. Darin liefern wir eine aktuelle Bestandsaufnahme aus der Praxis des Informationsfreiheitsgesetzes (IFG) und stellen innovative Reformoptionen zur Diskussion. Das Arbeitspapier gibt einen Überblick über die Handhabung des IFGs in Deutschland und zeigt Schwachstellen der bestehenden Regelungen auf, darunter abschreckende Gebühren, restriktiver Umgang mit Geschäftsgeheimnissen und laxe Fristen für Behörden.
+Das Papier kann hier kostenfreiheruntergeladen werden.</description>
     </item>
     
     <item>
@@ -602,8 +597,8 @@ Das Papier kann hier kostenfrei heruntergeladen werden.</description>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/03/sehrgutachten/</guid>
-      <description>Nach dem Erfolg von #FragDenBundestag hat der Deutsche Bundestag inzwischen mehr als 1.500 Gutachten des Wissenschaftlichen Dienstes auf seine Webseite gestellt.
-Da die Dokumente jedoch auf der Bundestags-Webseite nur als reine Linksammlung verfügbar sind, hat die Plattform sehrgutachten.de alle bereits veröffentlichten Gutachten in einer Datenbank abgebildet. Auf der Seite, die von der Open Knowledge Foundation Deutschland betrieben wird, sind sie im Volltext durchsuchbar, können per Feed abonniert und unter anderem von Abgeordneten selbst, Journalisten und Entwicklerinnen weitergenutzt werden.</description>
+      <description>Nach dem Erfolg von #FragDenBundestaghat der Deutsche Bundestag inzwischen mehr als 1.500 Gutachten des Wissenschaftlichen Dienstes auf seine Webseite gestellt.
+Da die Dokumente jedoch auf der Bundestags-Webseite nur als reine Linksammlung verfügbar sind, hat die Plattform sehrgutachten.dealle bereits veröffentlichten Gutachten in einer Datenbank abgebildet. Auf der Seite, die von der Open Knowledge Foundation Deutschland betrieben wird, sind sie im Volltext durchsuchbar, können per Feed abonniert und unter anderem von Abgeordneten selbst, Journalisten und Entwicklerinnen weitergenutzt werden.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anhörung on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Anhörung on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 29 Aug 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/anh%C3%B6rung/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 29 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/anh%C3%B6rung/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Data Anhörung im Unterausschuss Neue Medien</title>
       <link>https://okfn.de/blog/2012/08/open-data-anhorung-im-unterausschuss-neue-medien/</link>

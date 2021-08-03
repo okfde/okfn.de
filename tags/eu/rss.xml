@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eu on OKF</title>
+    <title>EU on OKF</title>
     <link>https://okfn.de/tags/eu/</link>
-    <description>Recent content in Eu on OKF</description>
+    <description>Recent content in EU on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/eu/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/eu/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join The Story Hunt - Uncover the EU!</title>
       <link>https://okfn.de/blog/2017/04/join-the-story-hunt/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/join-the-story-hunt/</guid>
-      <description>&amp;lsquo;The Story Hunt: Uncover the EU&amp;rsquo; is a programme hosted by the Open Knowledge Foundation Germany&amp;rsquo;s teams of Datenschule, OpenBudgets, and SubsidyStories.eu. Together with journalists, analysts, non-profit organisations, developers and designers, we want to develop and apply the skills needed to hunt stories in financial data.
- The Story Hunt is split into two separate parts: a series of Workshops and an Expedition Weekend in Berlin.  The workshops are tailored to aspiring data journalists and non-profit organisations that are interested in improving their data-literacy skills.</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,7 +31,7 @@
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/esif-data-quality-index/</guid>
-      <description>Today, OpenBudgets.eu presents the European Structural Funds Data Quality Index.  Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.</description>
+      <description></description>
     </item>
     
     <item>

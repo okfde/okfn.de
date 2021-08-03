@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julia Thomaschki on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Julia Thomaschki on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/julia-thomaschki/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/julia-thomaschki/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FORUM Offene Stadt &amp; Code for Germany Summit</title>
       <link>https://okfn.de/blog/2019/10/forum-offene-stadt-code-for-germany-summit/</link>

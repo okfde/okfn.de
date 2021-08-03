@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://okfn.de/en/finanzierung/entwicklung/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/finanzierung/entwicklung/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/themen/open_data/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/themen/open_data/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/ogp/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/ogp/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/turing-bus/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/turing-bus/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/profil/potential/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/profil/potential/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/themen/civic_tech/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +73,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/themen/civic_tech/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/profil/wissen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,9 +85,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/profil/wissen/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/finanzierung/ausgaben/</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,9 +97,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/finanzierung/ausgaben/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/themen/offenes_regierungshandeln/</loc>
     <xhtml:link
                 rel="alternate"
@@ -126,9 +109,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/themen/offenes_regierungshandeln/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/finanzierung/einnahmen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -140,9 +121,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/finanzierung/einnahmen/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/profil/vernetzen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -154,9 +133,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/profil/vernetzen/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/profil/muendigkeit/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,9 +145,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/profil/muendigkeit/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/codeforde/</loc>
     <xhtml:link
                 rel="alternate"
@@ -182,9 +157,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/codeforde/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/fragdenstaat/</loc>
     <xhtml:link
                 rel="alternate"
@@ -196,9 +169,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/fragdenstaat/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/themen/bildung/</loc>
     <xhtml:link
                 rel="alternate"
@@ -210,9 +181,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/themen/bildung/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/prototypefund/</loc>
     <xhtml:link
                 rel="alternate"
@@ -224,9 +193,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/prototypefund/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/datenschule/</loc>
     <xhtml:link
                 rel="alternate"
@@ -238,9 +205,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/datenschule/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/themen/informationsfreiheit/</loc>
     <xhtml:link
                 rel="alternate"
@@ -252,9 +217,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/themen/informationsfreiheit/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/jugendhackt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -266,9 +229,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/jugendhackt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/anniversary/</loc>
     <xhtml:link
                 rel="alternate"
@@ -280,9 +241,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/anniversary/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/2030-watch/</loc>
     <xhtml:link
                 rel="alternate"
@@ -294,9 +253,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/2030-watch/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/jahresberichte/</loc>
     <xhtml:link
                 rel="alternate"
@@ -308,9 +265,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/jahresberichte/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/appsandthecity/</loc>
     <xhtml:link
                 rel="alternate"
@@ -322,9 +277,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/appsandthecity/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/appsforeurope/</loc>
     <xhtml:link
                 rel="alternate"
@@ -336,11 +289,8 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/appsforeurope/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/authors/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -351,9 +301,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/big/</loc>
     <xhtml:link
                 rel="alternate"
@@ -365,9 +313,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/big/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/blog/</loc>
     <xhtml:link
                 rel="alternate"
@@ -379,9 +325,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/vorstand/</loc>
     <xhtml:link
                 rel="alternate"
@@ -393,9 +337,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/vorstand/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/bundesgit/</loc>
     <xhtml:link
                 rel="alternate"
@@ -407,9 +349,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/bundesgit/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/codingdavinci/</loc>
     <xhtml:link
                 rel="alternate"
@@ -421,9 +361,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/codingdavinci/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/eiti/</loc>
     <xhtml:link
                 rel="alternate"
@@ -435,9 +373,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/eiti/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/dariah/</loc>
     <xhtml:link
                 rel="alternate"
@@ -449,9 +385,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/dariah/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/datenmachenschule/</loc>
     <xhtml:link
                 rel="alternate"
@@ -463,9 +397,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/datenmachenschule/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/demokratielabore/</loc>
     <xhtml:link
                 rel="alternate"
@@ -477,9 +409,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/demokratielabore/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/digiwhist/</loc>
     <xhtml:link
                 rel="alternate"
@@ -491,9 +421,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/digiwhist/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/spenden/</loc>
     <xhtml:link
                 rel="alternate"
@@ -505,9 +433,19 @@
                 hreflang="en"
                 href="https://okfn.de/en/spenden/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://okfn.de/en/projekte/edulabs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/edulabs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/edulabs/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/energyhack/</loc>
     <xhtml:link
                 rel="alternate"
@@ -519,9 +457,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/energyhack/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/europeanacloud/</loc>
     <xhtml:link
                 rel="alternate"
@@ -533,9 +469,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/europeanacloud/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/familienlabore/</loc>
     <xhtml:link
                 rel="alternate"
@@ -547,9 +481,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/familienlabore/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/farmsubsidy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -561,9 +493,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/farmsubsidy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/forumopenedu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -575,9 +505,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/forumopenedu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/frankfurtgestalten/</loc>
     <xhtml:link
                 rel="alternate"
@@ -589,9 +517,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/frankfurtgestalten/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/finanzierung/</loc>
     <xhtml:link
                 rel="alternate"
@@ -603,9 +529,19 @@
                 hreflang="en"
                 href="https://okfn.de/en/finanzierung/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://okfn.de/en/projekte/httpsjetzt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/httpsjetzt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/httpsjetzt/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/impressum/</loc>
     <xhtml:link
                 rel="alternate"
@@ -617,9 +553,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/impressum/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/jobs/</loc>
     <xhtml:link
                 rel="alternate"
@@ -631,9 +565,19 @@
                 hreflang="en"
                 href="https://okfn.de/en/jobs/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://okfn.de/en/projekte/kleineanfragen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/kleineanfragen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/kleineanfragen/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/odine/</loc>
     <xhtml:link
                 rel="alternate"
@@ -645,37 +589,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/odine/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projekte/oparl/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/oparl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/oparl/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/offenedaten/</loc>
     <xhtml:link
                 rel="alternate"
@@ -687,9 +601,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/offenedaten/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/offenegesetze/</loc>
     <xhtml:link
                 rel="alternate"
@@ -701,23 +613,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/offenegesetze/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projekte/offeneregister/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/offeneregister/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/offeneregister/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/offenerhaushalt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -729,9 +625,43 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/offenerhaushalt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://okfn.de/en/projekte/offeneregister/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/offeneregister/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/offeneregister/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/projekte/oparl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/oparl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/oparl/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/openbudgets/</loc>
     <xhtml:link
                 rel="alternate"
@@ -743,9 +673,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/openbudgets/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/openschufa/</loc>
     <xhtml:link
                 rel="alternate"
@@ -757,9 +685,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/openschufa/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/verein/</loc>
     <xhtml:link
                 rel="alternate"
@@ -771,9 +697,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/verein/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/politikbeiuns/</loc>
     <xhtml:link
                 rel="alternate"
@@ -785,9 +709,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/politikbeiuns/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/presse/</loc>
     <xhtml:link
                 rel="alternate"
@@ -799,9 +721,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/presse/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/profil/</loc>
     <xhtml:link
                 rel="alternate"
@@ -813,9 +733,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/profil/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/</loc>
     <xhtml:link
                 rel="alternate"
@@ -827,9 +745,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/refugeephrasebook/</loc>
     <xhtml:link
                 rel="alternate"
@@ -841,9 +757,19 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/refugeephrasebook/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://okfn.de/en/projekte/sehrgutachten/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/sehrgutachten/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/sehrgutachten/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/stadtlandcode/</loc>
     <xhtml:link
                 rel="alternate"
@@ -855,11 +781,8 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/stadtlandcode/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -870,9 +793,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -884,9 +805,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/team/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/themen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -898,9 +817,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/themen/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/transparenz/</loc>
     <xhtml:link
                 rel="alternate"
@@ -912,9 +829,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/transparenz/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/transparenzranking/</loc>
     <xhtml:link
                 rel="alternate"
@@ -926,9 +841,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/transparenzranking/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/volksentscheid/</loc>
     <xhtml:link
                 rel="alternate"
@@ -940,9 +853,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/volksentscheid/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/wahldatenhelfer/</loc>
     <xhtml:link
                 rel="alternate"
@@ -954,9 +865,7 @@
                 hreflang="en"
                 href="https://okfn.de/en/projekte/wahldatenhelfer/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://okfn.de/en/projekte/zuganggestalten/</loc>
     <xhtml:link
                 rel="alternate"
@@ -969,61 +878,4 @@
                 href="https://okfn.de/en/projekte/zuganggestalten/"
                 />
   </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projekte/edulabs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/edulabs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/edulabs/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projekte/httpsjetzt/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/httpsjetzt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/httpsjetzt/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projekte/kleineanfragen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/kleineanfragen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/kleineanfragen/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://okfn.de/en/projekte/sehrgutachten/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/sehrgutachten/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/sehrgutachten/"
-                />
-  </url>
-  
 </urlset>

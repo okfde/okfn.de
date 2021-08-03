@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Knowledge on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Knowledge on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/open-knowledge/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-knowledge/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freiheit für Wissen! Freiheit für uns?</title>
       <link>https://okfn.de/blog/2021/07/freiheit-fuer-wissen-freiheit-fuer-uns/</link>
@@ -40,8 +36,7 @@ Zugänge zu digitaler Nachhaltigkeit Als Teil des Bits &amp;amp; Bäume Konsorti
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/01/editathon/</guid>
-      <description>Du interessiert dich für Open Everything? Open Data, Open Government, offene Kulturdaten, Informationsfreiheit und weitere? Dann komm zu unserem Editathon am 18. Februar, um diese Themen in der Wikipedia besser darzustellen!
-Wer kann dabei sein? Jede und jeder, der/die sich gerne mit diesen Themen beschäftigt und diese gerne zur Verbesserung der Wikipedia einbauen würde. So können wir beispielsweise Ergebnisse von Open Data Projekten als Belege in der Wikipedia anführen, um diese noch fundierter zu gestalten.</description>
+      <description>Wenn ihr dabei sein wollt, dann tragt euch gerne auf der entsprechenden Wikipediaseite dazu ein: 18.02. - Freies Wissen in der WikipediaFoto: CC BY 2.0Fotograf: Sebastiaan ter Burg</description>
     </item>
     
     <item>
@@ -259,7 +254,7 @@ Die symbolische Gründung der Open Knowledge Foundation Deutschland wurde durch 
       
       <guid>https://okfn.de/blog/2010/05/gruendung-okfn-deutschland/</guid>
       <description>Am 6. Mai 2010 werden wir, im Rahmen des Leipziger Semantic Web Tages, mit einer symbolischen Gründungszeremonie den deutschen Zweiges der Open Knowledge Foundation ins Leben rufen. Dazu möchte ich Sie herzlich einladen.
-Die Open Knowledge Foundation (OKFN) ist eine internationale, gemeinnützige Nichtregierungsorganisation die sich seit ihrem Bestehen 2004 für den freien und uneingeschränkten Zugang zu &amp;ldquo;offenem&amp;ldquo; Wissen im digitalen Zeitalter einsetzt. Mit der Gründung des deutschen Zweiges der OKFN möchten wir hierzulande Projekte und Veranstaltungen zu Open Knowledge, Open Access, Open Data und Open Government in enger Zusammenarbeit mit dem Open Data Network und anderen Organisationen und Institutionen initiieren und fördern, die sich für die Offenheit unserer Wissensgesellschaft einsetzen.</description>
+Die Open Knowledge Foundation (OKFN) ist eine internationale, gemeinnützige Nichtregierungsorganisation die sich seit ihrem Bestehen 2004 für den freien und uneingeschränkten Zugang zu &amp;ldquo;offenem&amp;rdquo; Wissen im digitalen Zeitalter einsetzt. Mit der Gründung des deutschen Zweiges der OKFN möchten wir hierzulande Projekte und Veranstaltungen zu Open Knowledge, Open Access, Open Data und Open Government in enger Zusammenarbeit mit dem Open Data Network und anderen Organisationen und Institutionen initiieren und fördern, die sich für die Offenheit unserer Wissensgesellschaft einsetzen.</description>
     </item>
     
     <item>

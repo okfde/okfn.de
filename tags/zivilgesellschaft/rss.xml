@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zivilgesellschaft on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Zivilgesellschaft on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/zivilgesellschaft/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/zivilgesellschaft/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Von Militärgeschichte zu Datenspaziergängen - eine Bestandsaufnahme der digitalen Zivilgesellschaft</title>
       <link>https://okfn.de/blog/2021/05/bestandsaufnahme-digitale-zivilgesellschaft/</link>
@@ -131,7 +127,7 @@ Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe of
       <guid>https://okfn.de/blog/2017/09/zivilgesellschaftliche-forderungen/</guid>
       <description>Digitalisierung ist ein zentrales Thema für eine neue Bundesregierung. Die Open Knowledge Foundation Deutschland ist eine der größten zivilgesellschaftlichen Organisationen in diesem Bereich. Wir setzen uns für den freien Zugang zu Informationen ein, vermitteln Wissen und stärken die digitale Zivilgesellschaft.
 An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderungen:
-1. Transparenz vorantreiben Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein.</description>
+1. Transparenz vorantreiben Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein. Zugang zu Informationen muss möglichst umfassend, unmittelbar und barrierefrei sein, um die demokratische Meinungsbildung und Teilhabe zu fördern.</description>
     </item>
     
     <item>

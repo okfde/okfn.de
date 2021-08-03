@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code for Germany on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Code for Germany on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/code-for-germany/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/code-for-germany/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Online-Seminar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?</title>
       <link>https://okfn.de/blog/2020/06/cfg-webinar-resiliente-kommunalverwaltungen/</link>
@@ -29,7 +25,8 @@ Was können wir aus der Krise und in der Krise lernen?</description>
       
       <guid>https://okfn.de/blog/2017/04/wahlsalons/</guid>
       <description>Dieses Jahr steht der Schwerpunkt von Code for Germany ganz im Zeichen von Wahlen, Politik und Demokratie
-Wahlen und Technik Im Herbst diesen Jahres finden die 19. Bundestagswahlen statt. Zu diesem Anlass nehmen wir uns dieses Jahr das Thema Wahldaten und Wahlen als Schwerpunkt vor. Wir wollen nützliche und informative Tools rund um die Wahl entwickeln und mit Offenen Wahldaten arbeiten. Dafür organisieren wir die Wahlsalons in Berlin und Köln.</description>
+Wahlen und Technik Im Herbst diesen Jahres finden die 19. Bundestagswahlen statt. Zu diesem Anlass nehmen wir uns dieses Jahr das Thema Wahldaten und Wahlen als Schwerpunkt vor. Wir wollen nützliche und informative Tools rund um die Wahl entwickeln und mit Offenen Wahldaten arbeiten. Dafür organisieren wir die Wahlsalonsin Berlin und Köln.
+Es gibt zahlreiche Möglichkeiten, Code und Design zum Thema Wahlen einzusetzen: Vom Wahllokalfinderüber den Wahl-o-matenund informative Seiten wie Abgeordnetenwatchbis hin zum Faktenchecker - rund um Wahlen, Politik und Parteien gibt es eine Vielzahl an nützlichen Einsatzmöglichkeiten für Code und Design.</description>
     </item>
     
     <item>

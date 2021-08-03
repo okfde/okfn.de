@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transparency on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Transparency on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/transparency/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/transparency/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Policy advocacy with a twist</title>
       <link>https://okfn.de/blog/2018/07/policy-advocacy-with-a-twist/</link>
@@ -27,10 +23,8 @@
       
       <guid>https://okfn.de/blog/2018/06/eiti-woche-in-berlin/</guid>
       <description>Diese Woche findet in Berlin das internationale Board-Meeting von EITI statt.
-EITI steht für Extractive Industry Transparency Initiative und bemüht sich um die Offenlegung der Zahlungsströme im Rohstoffsektor. Mehr Infos gibt es hier. D-EITI publizierte 2017 seinen ersten Bericht.
-Im Rahmen des Board-Meetings gibt es folgende Veranstaltung von der bzw. für die Zivilgesellschaft:
-Dienstag 26. Juni &amp;ldquo;Workshop on resource governance, transparency and climate change&amp;rdquo; 
-mit Publish What You Pay, Global Witness, Heinrich Böll Foundation, openoil.</description>
+EITI steht für Extractive Industry Transparency Initiative und bemüht sich um die Offenlegung der Zahlungsströme im Rohstoffsektor. Mehr Infos gibt es hier. D-EITI publizierte 2017 seinen ersten Bericht.Im Rahmen des Board-Meetings gibt es folgende Veranstaltung von der bzw. für die Zivilgesellschaft:
+Dienstag 26. Juni &amp;ldquo;Workshop on resource governance, transparency and climate change&amp;rdquo; mit Publish What You Pay, Global Witness, Heinrich Böll Foundation, openoil.</description>
     </item>
     
     <item>
@@ -49,7 +43,7 @@ Rund 280 Teilnehmerinnen durften wir am ersten Tag im Erich-Klausener-Saal des B
       <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/</guid>
-      <description>Berlin, 23.10.2015 – Lange Zeit sah es so aus, als sei die Deutsche Bahn die letzte Bastion geschlossener Daten, aus der auf offiziellem Weg nicht auch nur ein Bit zu holen wäre. Doch was in diesem Frühjahr und Sommer mit zwei Hackathons in Frankfurt und Berlin anfing, soll keine Ausnahme bleiben: Auch die DB hat offenkundig die Vorteile von Open Data erkannt und bewegt sich auf eine Öffnung ihrer Daten zu.</description>
+      <description>Berlin, 23.10.2015– Lange Zeit sah es so aus, als sei die Deutsche Bahn die letzte Bastion geschlossener Daten, aus der auf offiziellem Weg nicht auch nur ein Bit zu holen wäre. Doch was in diesem Frühjahr und Sommer mit zwei Hackathons in Frankfurt und Berlin anfing, soll keine Ausnahme bleiben: Auch die DB hat offenkundig die Vorteile von Open Data erkannt und bewegt sich auf eine Öffnung ihrer Daten zu.</description>
     </item>
     
     <item>
@@ -58,7 +52,7 @@ Rund 280 Teilnehmerinnen durften wir am ersten Tag im Erich-Klausener-Saal des B
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/10/open-budget-survey-bundeshaushalt/</guid>
-      <description>Berlin, 15.10.2015 - Der deutsche Bundeshaushalt ist zu großen Teilen transparent, sollte aber vor allem im Bereich der öffentlichen Beteiligung weiter ausgebaut werden. Das ist das Ergebnis des internationalen Open Budget Survey (OBS) 2015 der International Budget Partnership (IBP). Der Bericht zeigt, dass der Haushalt Deutschlands in den Bereichen Transparenz und Haushaltsaufsicht den Kriterien für Offenheit in vielen Teilen entspricht.
+      <description>Berlin, 15.10.2015- Der deutsche Bundeshaushalt ist zu großen Teilen transparent, sollte aber vor allem im Bereich der öffentlichen Beteiligung weiter ausgebaut werden. Das ist das Ergebnis des internationalen Open Budget Survey (OBS) 2015 der International Budget Partnership (IBP). Der Bericht zeigt, dass der Haushalt Deutschlands in den Bereichen Transparenz und Haushaltsaufsicht den Kriterien für Offenheit in vielen Teilen entspricht.
 Jedoch hat die Bevölkerung nur wenige Möglichkeiten, den Haushalt mitzugestalten. Es fehlt etwa auf Bundesebene ein Bürgerhaushalt, der die Grundlagen der Haushaltspolitik in einfacher Form darstellt.</description>
     </item>
     

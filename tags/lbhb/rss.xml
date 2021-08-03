@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lbhb on OKF</title>
+    <title>LBHB on OKF</title>
     <link>https://okfn.de/tags/lbhb/</link>
-    <description>Recent content in Lbhb on OKF</description>
+    <description>Recent content in LBHB on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/lbhb/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/lbhb/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Öffentliche Ankündigung: Das Open-Data-Gesetz ist in Kraft</title>
       <link>https://okfn.de/blog/2017/07/open-data-gesetz-tritt-in-kraft/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/07/open-data-gesetz-tritt-in-kraft/</guid>
-      <description>Gut Ding will Weile haben. Nachdem es im Mai im Bundestag beschlossen wurde und im Juni durch den Bundesrat ging, wurde das Open-Data-Gesetz gestern endlich im Bundesgesetzblatt verkündet.
-Das Gesetz firmiert offiziell unter dem Titel Erstes Gesetz zur Änderung des E-Government-Gesetzes. Eine kurze inhaltliche Zusammenfassung findet sich hier.
+      <description>Das Gesetz firmiert offiziell unter dem Titel Erstes Gesetz zur Änderung des E-Government-Gesetzes. Eine kurze inhaltliche Zusammenfassung findet sich hier.
 Nochmals vielen Dank an alle Beteiligten!</description>
     </item>
     

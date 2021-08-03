@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Data Charter on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Data Charter on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 18 Mar 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/open-data-charter/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 18 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-data-charter/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kurz vor dem G7 Summit in Deutschland: Report kritisiert deutsche Implementierung von G8 (G7) Open Data Charter</title>
       <link>https://okfn.de/blog/2015/03/kurz-vor-dem-g7-summit-in-deutschland-report-kritisiert-deutsche-implementierung-von-g8-g7-open-data-charter/</link>
@@ -36,8 +32,8 @@ Das Center for Data Innovation, ein gemeinnütziges Forschungsinstitut, hat heut
       <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2014/01/empfehlungen-zum-deutschen-aktionsplan-zur-open-data-charta-der-g8/</guid>
-      <description>Im Sommer 2013 unterzeichneten die G8 Staaten, darunter auch Deutschland, überraschend die “Open Data&amp;rdquo;-Charta. Die Unterzeichnerländer verpflichteten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um “Transparenz und Innovation” zu fördern.
-Die einzelnen Mitgliedsländer einigten sich auch darauf bis Ende 2013 konkrete Aktionspläne zu erstellen und die dort festgeschriebenen Fortschritte beim nächsten G8-Treffen, am 4. und 5.</description>
+      <description>Im Sommer 2013 unterzeichneten die G8 Staaten, darunter auch Deutschland, überraschend die “Open Data&amp;quot;-Charta. Die Unterzeichnerländer verpflichteten sich damit unter anderem Haushaltsdaten, Unternehmensregister und andere Regierungsinformationen öffentlich zugänglich zu machen und sich gänzlich zur Offenheit zu bekennen, auch um “Transparenz und Innovation” zu fördern.
+Die einzelnen Mitgliedsländer einigten sich auch darauf bis Ende 2013 konkrete Aktionspläne zu erstellen und die dort festgeschriebenen Fortschritte beim nächsten G8-Treffen, am 4. und 5. Juni 2014 in Sotschi, zu überprüfen.</description>
     </item>
     
     <item>

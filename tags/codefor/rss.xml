@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Codefor on OKF</title>
+    <title>codefor on OKF</title>
     <link>https://okfn.de/tags/codefor/</link>
-    <description>Recent content in Codefor on OKF</description>
+    <description>Recent content in codefor on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/codefor/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/codefor/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rückblick auf unseren Open Data Day 2018</title>
       <link>https://okfn.de/blog/2018/04/rueckblick-open-data-day/</link>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Peters on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Michael Peters on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/michael-peters/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/michael-peters/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Datenpolitik ist Gesellschaftspolitik</title>
       <link>https://okfn.de/blog/2020/03/datenpolitik-gesellschaftspolitik/</link>
@@ -125,7 +121,8 @@ Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe of
       
       <guid>https://okfn.de/blog/2018/08/ogp-georgia/</guid>
       <description>Beim „5. Open Government Global Summit 2018“ der Open Government Partnership (OGP) in Tiflis tauschten sich vom 17. bis 19. Juli etwa 2000 Teilnehmer aus Regierung, Verwaltung und Zivilgesellschaft aus über 75 Ländern aus.
-Die Schwerpunkte der diesjährigen Konferenz lagen auf Korruptionsbekämpfung, bürgerlichem Engagement und der Bereitstellung öffentlicher Dienstleistungen. Die dreitägige Konferenz bot am ersten Tag getrennte Veranstaltungen für die Zivilgesellschaft und Regierungsvertreterinnen, darauf folgten zwei Tage gemeinsamer Summit.</description>
+Die Schwerpunkte der diesjährigen Konferenz lagen auf Korruptionsbekämpfung, bürgerlichem Engagement und der Bereitstellung öffentlicher Dienstleistungen. Die dreitägige Konferenz bot am ersten Tag getrennte Veranstaltungen für die Zivilgesellschaft und Regierungsvertreterinnen, darauf folgten zwei Tage gemeinsamer Summit.
+Solch große internationale Kongresse können häufig überwältigend sein.</description>
     </item>
     
     <item>
@@ -220,7 +217,7 @@ Die Aufstellung und Debatte eines Haushalts ist die zentrale Aufgabe eines Parla
       
       <guid>https://okfn.de/blog/2017/07/germanys-open-data-law-english/</guid>
       <description>Disclaimer: we translated the German Open Data Law to make it accessible for the international Open Data community. This is not an official legal translation, but we gave it our very best. The German version can be found below or here.
- Law for the advancement of digital public administration (E-Government-Law - EGovG)   § 12a Open Data for public authorities subordinate to the federal administration  (1) The public authorities subordinate to the federal administration will provide raw data, obtained fulfilling their public-law duties or through third parties, to be retrieved on publicly accessible networks.</description>
+(1) The public authorities subordinate to the federal administration will provide raw data, obtained fulfilling their public-law duties or through third parties, to be retrieved on publicly accessible networks. A claim for the provision of this data is not founded herewith.</description>
     </item>
     
     <item>
@@ -239,7 +236,7 @@ Die Aufstellung und Debatte eines Haushalts ist die zentrale Aufgabe eines Parla
       
       <guid>https://okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/</guid>
       <description>Personal Democracy Forum in Danzig! Zwei Tage lang treffen sich hier zivilgesellschaftliche Organisationen aus Mittel- und Osteuropa, um über Transparenz, Meinungsfreiheit und Civic-Tech-Projekte in ihren Ländern zu sprechen. Wir aus den Teams OpenBudgets.eu und Datenschule waren dieses Jahr vor Ort und haben sowohl beim OpenContracting Workshop als auch bei unserer World Cafè Session fleißig mitdiskutiert.
- Beim OpenContracting Workshop:  Die Open Contracting Partnership hat als eintägiges Pre-Event zur Konferenz einen Workshop organisiert wo es um die zentrale Frage ging: Wie die öffentliche Vergabepraxis transparenter und effizienter gestaltet werden kann.</description>
+Beim OpenContracting Workshop: Die Open Contracting Partnership hat als eintägiges Pre-Event zur Konferenz einen Workshop organisiert wo es um die zentrale Frage ging: Wie die öffentliche Vergabepraxis transparenter und effizienter gestaltet werden kann.</description>
     </item>
     
     <item>
@@ -248,7 +245,7 @@ Die Aufstellung und Debatte eines Haushalts ist die zentrale Aufgabe eines Parla
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/esif-data-quality-index/</guid>
-      <description>Today, OpenBudgets.eu presents the European Structural Funds Data Quality Index.  Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.</description>
+      <description></description>
     </item>
     
   </channel>

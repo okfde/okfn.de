@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Helene Hahn on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Helene Hahn on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/helene-hahn/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/helene-hahn/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OffenesParlament.de macht Plenarprotokolle durchsuchbar!</title>
       <link>https://okfn.de/blog/2017/10/ds-offenes-parlament-relaunch/</link>
@@ -26,7 +22,7 @@
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/09/anmeldung-codingdavinci/</guid>
-      <description>Wir möchten euch herzlich zum 4. Kultur-Hackathon &amp;ldquo;Coding da Vinci&amp;rdquo; in Berlin einladen! Um was es geht: Kulturinstitutionen aus Deutschland stellen Daten zu ihren Sammlungsbeständen als frei zur Verfügung. Gemeinsam mit Kulturinteressierten, Entwickler*innen und Designer*innen wollen wir dieses vielfältige Kulturerbe in neue Kontexte setzen.
+      <description>Wir möchten euch herzlich zum 4. Kultur-Hackathon &amp;ldquo;Coding da Vinci&amp;rdquo; in Berlin einladen! Um was es geht: Kulturinstitutionen aus Deutschland stellen Daten zu ihren Sammlungsbeständen als frei zur Verfügung. Gemeinsam mit Kulturinteressierten, Entwicklerinnen und Designerinnen wollen wir dieses vielfältige Kulturerbe in neue Kontexte setzen.
 Coding da Vinci dauert insgesamt 6 Wochen, die Auftaktveranstaltung findet am 21./22. Oktober statt, die Preisverleihung am 2. Dezember. Dazwischen haben die Teams und Kulturinstitutionen Zeit, ihre Ideen und Projekte weiterzuentwickeln.</description>
     </item>
     

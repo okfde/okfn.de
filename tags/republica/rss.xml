@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Republica on OKF</title>
+    <title>republica on OKF</title>
     <link>https://okfn.de/tags/republica/</link>
-    <description>Recent content in Republica on OKF</description>
+    <description>Recent content in republica on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 07 May 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/republica/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 07 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/republica/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Love out Loud: Smart und Rebel Cities, State of the Open und Geld für Open Source</title>
       <link>https://okfn.de/blog/2017/05/republica/</link>
@@ -18,8 +14,8 @@
       
       <guid>https://okfn.de/blog/2017/05/republica/</guid>
       <description>Die re:publica geht wieder los! Vom 8. bis 10. Mai treffen sich in Berlin wieder Tausende Menschen und diskutieren über alle möglichen Digitalthemen. Wir sind wie jedes Jahr zahlreich vertreten. Zu diesen Gelegenheiten könnt ihr Mitglieder aus unserem Team treffen:
- Montag, 14 Uhr: Fork and Merge – Collaboration in Civic Tech - mit Chia-liang Kao &amp;amp; Julia Kloiber
- Montag, 16 Uhr: Smart and Rebel Cities - What&amp;rsquo;s On? - mit Christian Rickerts, Francesca Bria &amp;amp; Arne Semsrott</description>
+  Montag, 14 Uhr: Fork and Merge – Collaboration in Civic Tech - mit Chia-liang Kao &amp;amp; Julia Kloiber
+  Montag, 16 Uhr: Smart and Rebel Cities - What&amp;rsquo;s On?</description>
     </item>
     
     <item>
@@ -28,7 +24,7 @@
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/05/re-repubublica/</guid>
-      <description>re:re:publica Die jährlich in Berlin statt findende re:publica ist die wichtigste und größte Konferenz rund um das digitale Leben und Netzpolitik im deutschsprachigen Raum. Ein großer Teil des Teams war vor Ort, um spannenden Talks zu lauschen und um sich mit anderen Leuten auszutauschen. Ein paar von uns und aus der Community haben das Programm auch aktiv mitgestaltet und unsere Themen rund um Transparenz, Open Data und offenes Wissen in Talks, Meetups und Lightning Talks aufbereitet.</description>
+      <description>Die jährlich in Berlin statt findende re:publicaist die wichtigste und größte Konferenz rund um das digitale Leben und Netzpolitik im deutschsprachigen Raum. Ein großer Teil des Teams war vor Ort, um spannenden Talks zu lauschen und um sich mit anderen Leuten auszutauschen. Ein paar von uns und aus der Community haben das Programm auch aktiv mitgestaltet und unsere Themen rund um Transparenz, Open Data und offenes Wissen in Talks, Meetupsund Lightning Talksaufbereitet.</description>
     </item>
     
     <item>
@@ -39,7 +35,7 @@
       <guid>https://okfn.de/blog/2015/07/code-und-ethik/</guid>
       <description>&amp;ldquo;Seit zwei Jahren wissen wir, dass Geheimdienste alles über uns wissen. Seit einem Jahr sind Programmierlernbefürworter an allen Ecken anzutreffen. Und 2015? Müssen wir endlich darüber sprechen, dass Code ohne Ethik wertlos ist. Der Talk will die Motivation hinter der derzeit angesagten Forderung nach „Programmieren als Pflichtfach“ sezieren, einen Blick auf aktuelle Lehrpläne der Informatik werfen und außerschulische Orte für Programmierwillige vorstellen.&amp;rdquo;
 {% youtube lD34A2nuWCs 560 315 %}
-Das war die Ankündigung zu unserem re:publica-Talk, den wir dank voicerepublic  hier auch, angereichert mit unseren Folien, als Video zur Verfügung stellen können.</description>
+Das war die Ankündigungzu unserem re:publica-Talk, den wir dank voicerepublic hier auch, angereichert mit unseren Folien, als Video zur Verfügung stellen können.</description>
     </item>
     
     <item>

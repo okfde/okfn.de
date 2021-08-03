@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Openbudgets.eu on OKF</title>
+    <title>OpenBudgets.eu on OKF</title>
     <link>https://okfn.de/tags/openbudgets.eu/</link>
-    <description>Recent content in Openbudgets.eu on OKF</description>
+    <description>Recent content in OpenBudgets.eu on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/openbudgets.eu/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/openbudgets.eu/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New site SubsidyStories.eu shows where nearly 300bn of EU subsidies go across Europe</title>
       <link>https://okfn.de/blog/2017/03/subsidystories-launch/</link>
@@ -27,7 +23,7 @@ The European Union allocates 44 % of its total 7-year budget through the Europea
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/</guid>
-      <description>Brexit, ein wachsender Rechtsradikalismus und eine andauernde wirtschaftliche Stagnation. Die Probleme mit der die Europäische Union (EU) momentan zu kämpfen hat sind gewaltig. Aber wie kann die gegenwärtige Euroskepsis überwunden werden und eine europaweites, starkes Zeichen gegen Rechts gesetzt werden? BeimCampus Event von European Alternatives vergangene Woche sind politische Aktivisten zusammengekommen, um Europa neu zu denken. OpenBudgets und die Datenschule waren dabei und haben mitdiskutiert.
+      <description>Brexit, ein wachsender Rechtsradikalismus und eine andauernde wirtschaftliche Stagnation. Die Probleme mit der die Europäische Union (EU) momentan zu kämpfen hat sind gewaltig. Aber wie kann die gegenwärtige Euroskepsis überwunden werden und eine europaweites, starkes Zeichen gegen Rechts gesetzt werden? BeimCampus Event von European Alternativesvergangene Woche sind politische Aktivisten zusammengekommen, um Europa neu zu denken. OpenBudgetsund die Datenschulewaren dabei und haben mitdiskutiert.
 Unter dem Motto „Shifting Baselines“ wurde in mehreren Workshops erarbeitet, wie politischer ARTivism, eine alternative Stadtentwicklung und transeuropäische Netzwerke ein positives Zeichen für Europa setzen können.</description>
     </item>
     

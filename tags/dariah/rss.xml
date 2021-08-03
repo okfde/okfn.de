@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dariah on OKF</title>
+    <title>DARIAH on OKF</title>
     <link>https://okfn.de/tags/dariah/</link>
-    <description>Recent content in Dariah on OKF</description>
+    <description>Recent content in DARIAH on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 20 Apr 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/dariah/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Apr 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/dariah/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digitale Geisteswissenschaften: Video zum DH Summit 2015</title>
       <link>https://okfn.de/blog/2015/04/dh-summit-video/</link>

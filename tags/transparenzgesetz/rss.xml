@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transparenzgesetz on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Transparenzgesetz on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/transparenzgesetz/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/transparenzgesetz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Volksentscheid Transparenz Berlin: 33.000 Unterschriften für mehr Transparenz</title>
       <link>https://okfn.de/blog/2019/12/volksentscheid-33000-unterschriften-eingereicht/</link>
@@ -49,8 +45,8 @@ Wir glauben, dass der Entwurf eine gute Grundlage ist, um den Zugang zu amtliche
       <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/10/transparenzgesetz-berlin/</guid>
-      <description>Es ist höchste Zeit, dass Berlin ein Transparenzgesetz einführt, durch das die Verwaltung wichtige Daten proaktiv veröffentlichen muss. Wie in Hamburg müssen auch die Behörden der Hauptstadt verpflichtet werden, unter anderem Verträge der öffentlichen Verwaltung, Haushalts- und Vergabedaten sowie interne Weisungen offenzulegen. Die neue rot-rot-grüne Koaltion muss jetzt handeln:
-1) Besser für die Verwaltung: Größter Nutznießer des Hamburger Transparenzgesetzes ist die Verwaltung selbst. Durch das Transparenzportal werden Datensilos abgeschafft. VerwaltungsmitarbeiterInnen müssen Daten anderer Behörden nicht mehr einzeln anfordern, sondern können sie direkt selbst im Internet abrufen.</description>
+      <description>Es ist höchste Zeit, dass Berlin ein Transparenzgesetz einführt, durch das die Verwaltung wichtige Daten proaktiv veröffentlichen muss. Wie in Hamburgmüssen auch die Behörden der Hauptstadt verpflichtet werden, unter anderem Verträge der öffentlichen Verwaltung, Haushalts- und Vergabedaten sowie interne Weisungen offenzulegen. Die neue rot-rot-grüne Koaltion muss jetzt handeln:
+  Besser für die Verwaltung: Größter Nutznießer des Hamburger Transparenzgesetzes ist die Verwaltung selbst. Durch das Transparenzportal werden Datensilos abgeschafft. VerwaltungsmitarbeiterInnen müssen Daten anderer Behörden nicht mehr einzeln anfordern, sondern können sie direkt selbst im Internet abrufen.</description>
     </item>
     
   </channel>

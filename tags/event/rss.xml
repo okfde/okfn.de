@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Event on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/event/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/event/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nachlese: Vorträge auf dem Congress (rc3)</title>
       <link>https://okfn.de/blog/2021/01/nachlese-wikipaka-rc3/</link>
@@ -29,7 +25,7 @@ Bekanntermaßen war 2020 nicht das Jahr für Präsenzveranstaltungen, weshalb de
       <guid>https://okfn.de/blog/2018/01/big-data-with-local-impact/</guid>
       <description>Heute geht das Vergabeportal opentender.eu, mit Datensätzen aus 32 Ländern und der Europäischen Kommission, online. Opentender.eu bietet die Möglichkeit Vergabedaten strukturiert einzusehen und zu visualisieren. Risikoindikatoren informieren zusätzlich über die Effizienz und Transparenz von Ausschreibungen.
 Im Rahmen der DIGIWHIST Abschlusskonferenz &amp;ldquo;Big data with local impact: Using open data to improve public procurement&amp;rdquo; wird das Portal erstmalig der Öffentlichkeit vorgestellt. Die Konferenz kann per Live-Stream verfolgt werden.
-Agenda Using open data to improve public procurement DIGIWHIST Project Final Conference 29 January 2018 * 13.</description>
+Agenda Using open data to improve public procurement DIGIWHIST Project Final Conference 29 January 2018</description>
     </item>
     
     <item>
@@ -58,9 +54,7 @@ Der in Deutschland stattfindende G7-Gipfel ist ein willkommener Anlass, um eine 
       <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/05/event-open-data-fighting-corruption/</guid>
-      <description>Wir freuen uns, dass die Hertie School of Governance und Transparency International am 21. Mai zu einer Diskussion zur Nutzung von Open Data in der Korruptionsbekämpfung einladen. Hierbei wird auch das DIGIWHIST Projekt an dem wir zusammen mit unter anderem der Hertie School of Governance arbeiten vorgestellt. Diskutiert wird auf Englisch. Mehr Infos findet ihr hier
- Event Details:
-Innovative open data tools have a key role to play in increasing trust in governments and fighting corruption.</description>
+      <description>Wir freuen uns, dass die Hertie School of Governance und Transparency International am 21. Mai zu einer Diskussion zur Nutzung von Open Data in der Korruptionsbekämpfung einladen. Hierbei wird auch das DIGIWHIST Projektan dem wir zusammen mit unter anderem der Hertie School of Governance arbeiten vorgestellt. Diskutiert wird auf Englisch. Mehr Infos findet ihr hierInnovative open data tools have a key role to play in increasing trust in governments and fighting corruption.</description>
     </item>
     
     <item>
@@ -79,8 +73,7 @@ Ziel der Arbeitsgruppe, bestehend aus rund 30 Personen, gut die Hälfte davon ak
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/04/open-tech-summit/</guid>
-      <description>Wir freuen uns sehr darüber, dass es dieses Jahr zum ersten Mal einen Open Tech Summit in Berlin geben wird, der die verschiedenen Open Disziplinen zusammenbringt:
-  Open data und freies Wissen   Free, Libre Software, Linux  Open Infrastructure, free networks  Maker projects, open hardware und manufacturing  Open design, 3D, Libre graphics  Copyright, Patente, Lizenzen, Startups und Businessmodelle  Ziel ist es, eine Austauschplattform zu etablieren, die einerseits verschiedene Communities miteinander verbindet und die gemeinsamen Werte formuliert und stärkt.</description>
+      <description>Weitere Infos finden sich unter: Open Tech Summit.OpenTechSummit - 14. Mai 2015,	Kalkscheune, Johannisstraße 2, 10117 Berlin</description>
     </item>
     
     <item>
@@ -235,11 +228,7 @@ TOP-IX und die Open Knowledge Foundation laden am Mittwoch dem 15.</description>
       
       <guid>https://okfn.de/blog/2011/08/freies-wissen-fur-berlin/</guid>
       <description>Unsere Freunde und Kollegen von der Wikimedia bereiten eine weitere interessante Veranstaltung vor zu der ihr alle herzlich eingeladen seid: Wikipedia für Berlin - Berlin für Wikipedia?
- Freitag, 2.9.2011 - 19 Uhr
- Berlin Agora im
- RADIALSYSTEM V
- Holzmarktstr. 33
- 10243 Berlin  Wissen erstellen, nutzen und weiterverbreiten - das ist im digitalen Zeitalter einfacher als je zuvor. Wir wollen darüber sprechen, wie das Wissen Berlins zusammenkommen und unter Freien Lizenzen der Öffentlichkeit zur Verfügung gestellt werden kann und uns dabei über Wikipedia und das Freie Medienarchiv Wikimedia Commons unterhalten.</description>
+ Freitag, 2.9.2011 - 19 Uhr Berlin Agora im RADIALSYSTEM V Holzmarktstr. 33 10243 Berlin  Wissen erstellen, nutzen und weiterverbreiten - das ist im digitalen Zeitalter einfacher als je zuvor. Wir wollen darüber sprechen, wie das Wissen Berlins zusammenkommen und unter Freien Lizenzen der Öffentlichkeit zur Verfügung gestellt werden kann und uns dabei über Wikipedia und das Freie Medienarchiv Wikimedia Commons unterhalten.</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Innovation on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Innovation on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 07 Jan 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/open-innovation/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 07 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-innovation/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Raum Schiff Erde 2013</title>
       <link>https://okfn.de/blog/2013/01/raum-schiff-erde-2013/</link>

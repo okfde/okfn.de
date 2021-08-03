@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Literacy on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Data Literacy on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 21 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/data-literacy/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/data-literacy/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einladung zur Vorstellung von DatenmachenSchule in Moers</title>
       <link>https://okfn.de/blog/2017/11/datenmachenschule/</link>
@@ -77,7 +73,7 @@ Auch unser erster Partner BildungCent e.</description>
       
       <guid>https://okfn.de/blog/2016/10/ds-codeweek-workshop-einladung/</guid>
       <description>Welche Betriebe belasten die Umwelt in eurer Umgebung am stärksten? Welche Industriebranchen sind für die meisten CO2-Emissionen in Deutschland verantwortlich? Welche Konzerne produzieren den höchsten Abfallberg?
-Bei unserem Workshop im Rahmen der diesjährigen Code Week zeigen wir euch mit einfachen Tools und Tipps, wie sich spannenden Fragen zur Umweltverschmutzung in Deutschland beantworten lassen und wie ihr Ergebnisse ansprechend aufbereiten könnt. Dabei schauen wir uns Daten zu freigesetzten Schadstoffen in Deutschland genauer an, analysieren und visualisieren sie.</description>
+Bei unserem Workshop im Rahmen der diesjährigen Code Weekzeigen wir euch mit einfachen Tools und Tipps, wie sich spannenden Fragen zur Umweltverschmutzung in Deutschland beantworten lassen und wie ihr Ergebnisse ansprechend aufbereiten könnt. Dabei schauen wir uns Daten zu freigesetzten Schadstoffen in Deutschland genauer an, analysieren und visualisieren sie.</description>
     </item>
     
     <item>
@@ -86,7 +82,7 @@ Bei unserem Workshop im Rahmen der diesjährigen Code Week zeigen wir euch mit e
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/08/2030watch-datenschule-bmz/</guid>
-      <description>Wie sich besser für mehr Transparenz und offene Daten einsetzen, als innerhalb der Ministerien selber? Am Tag der offenen Tür beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) waren wir mit den Projekten 2030 Watch und der Datenschule vertreten.
+      <description>Wie sich besser für mehr Transparenz und offene Daten einsetzen, als innerhalb der Ministerien selber? Am Tag der offenen Tür beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) waren wir mit den Projekten 2030 Watchund der Datenschulevertreten.
 Trotz besten Wetters erreichten viele BesucherInnen nach einem “Marsch durch die Institution” unseren Stand in der 11. Etage. Hier diskutierten wir mit den BesucherInnen, NGO-MitarbeiterInnen und Staatssekretär Thomas Silberhorn die Vorteile von offenen Daten für die internationale Entwicklungsarbeit.</description>
     </item>
     
@@ -124,8 +120,7 @@ In einer zunehmend digitalen Welt vermittelt die Datenschule gemeinnützigen Org
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/04/stellenausschreibung-ds/</guid>
-      <description>Die Open Knowledge Foundation Deutschland sucht Teamverstärkung im Bereich Projektmanagement und Datenanalyse für das Projekt &amp;ldquo;Datenschule&amp;rdquo;
-Du interessierst dich für Tech-Projekte, Daten und digitale Tools - und hast Spaß daran, auch selbst mit Daten zu arbeiten? Du kannst anderen Tech-Kenntnisse verständlich vermitteln und für Tech-Themen begeistern?
+      <description>Die Open Knowledge Foundation Deutschland sucht Teamverstärkung im Bereich Projektmanagement und Datenanalyse für das Projekt &amp;ldquo;Datenschule&amp;rdquo;Du interessierst dich für Tech-Projekte, Daten und digitale Tools - und hast Spaß daran, auch selbst mit Daten zu arbeiten? Du kannst anderen Tech-Kenntnisse verständlich vermitteln und für Tech-Themen begeistern?
 Zum 01. Juni 2016 suchen wir Teamverstärkung in unserem neuen Projekt Datenschule. Deine Haupttätigkeit wird zum einen im Bereich Durchführung und Konzeption von Trainingsmodulen und zum anderen in der Datenerhebung und -analyse liegen, die gemeinnützigen Organisationen und öffentliche Stellen bereitstellen.</description>
     </item>
     

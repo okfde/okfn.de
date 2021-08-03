@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ogp Summit on OKF</title>
+    <title>OGP Summit on OKF</title>
     <link>https://okfn.de/tags/ogp-summit/</link>
-    <description>Recent content in Ogp Summit on OKF</description>
+    <description>Recent content in OGP Summit on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/ogp-summit/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/ogp-summit/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OGP Summit in Paris: Wir vertreten deutsche Zivilgesellschaft</title>
       <link>https://okfn.de/blog/2016/11/ogp-paris/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/11/ogp-paris/</guid>
-      <description>Seit Jahren hat die Open Knowledge Foundation Deutschland den Beitritt Deutschlands zur Open Government Partnership (OGP) gefordert und sich für starkes Open Government eingesetzt. Tatsächlich sind 32 Länder aus Europa und Zentralasien der Initiative beigetreten, Deutschland aber bisher nicht.
-Das ändert sich bald jedoch. Wir nehmen die politischen Entwicklungen zum Anlass, beim OGP Summit in Paris vom 7. bis 9. Dezember Themen der deutschen Zivilgesellschaft in verschiedenen Veranstaltungen zu vertreten:</description>
+      <description>Seit Jahren hat die Open Knowledge Foundation Deutschland den Beitritt Deutschlands zur Open Government Partnership (OGP) gefordertund sich für starkes Open Government eingesetzt. Tatsächlich sind 32 Länder aus Europa und Zentralasien der Initiative beigetreten, Deutschland aber bisher nicht.
+Das ändert sich bald jedoch. Wir nehmen die politischen Entwicklungen zum Anlass, beim OGP Summit in Paris vom 7. bis 9. Dezember Themen der deutschen Zivilgesellschaft in verschiedenen Veranstaltungen zu vertreten:
+  FOI Flooding: Using Freedom of Information platforms for political movement  Tools to track corruption and engage stakeholders in public contracting  How did your country spend its EU Subsidy?</description>
     </item>
     
     <item>
@@ -39,7 +36,7 @@ Das ändert sich bald jedoch. Wir nehmen die politischen Entwicklungen zum Anlas
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Ein fröhliches Halloween wünschen wir! (CC-BY)
 Rückblick in den Oktober
-Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;rdquo;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;ldquo;&amp;gt;berichtet.
+Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;quot;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;quot;&amp;gt;berichtet.
 Der Open Data-Index, den wir kurz vor dem OGP-Treffen veröffentlicht haben, zeigt, wo die einzelnen Länder stehen. Er zeigt auch, dass die Bundesregierung noch einiges tun muss, um ihren Verpflichtungen aus der G8 Open Data Charter nachzukommen.</description>
     </item>
     

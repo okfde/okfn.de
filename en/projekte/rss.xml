@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Knowledge Foundation DE</title>
@@ -26,7 +25,7 @@ The network is an association of civil society organisations and individuals tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/projekte/turing-bus/</guid>
-      <description>The Turing Bus is a mobile educational project for schools and youth clubs in rural areas. The bus brings representatives of Fablabs, OK-Labs and Hackspaces as well as experts in digital topics to often underserved places of youth education. Its goal is to generate an exchange of knowledge and experiences through workshops, discussions, screenings, and more. The project is funded in the Science Year of the BMBF.
+      <description>The Turing Bus is a mobile educational project for schools and youth clubs in rural areas. The bus brings representatives of Fablabs, OK-Labs and Hackspaces as well as experts in digital topics to often underserved places of youth education. Its goal is to generate an exchange of knowledge and experiences through workshops, discussions, screenings, and more. The project is funded in the Science Yearof the BMBF.
 The Bus wants to explore, discuss, and critically question the role of digitisation and technology in the professional landscape and society as a whole.</description>
     </item>
     
@@ -66,7 +65,7 @@ We make digital-social innovation possible with developers that bring a wide ran
       <guid>https://okfn.de/en/projekte/datenschule/</guid>
       <description>The Data School is a nationwide educational program on the subject of data and technologies. We mainly target non-profit organisations that work with data, or alternatively want to deepen their existing data knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.
 We want non-profit organisations:
- to encourage targeted use of data and technology in their work.</description>
+  to encourage targeted use of data and technology in their work.</description>
     </item>
     
     <item>
@@ -161,7 +160,7 @@ As a project partner, we supported DARIAH-DE with the communication and dissemin
       
       <guid>https://okfn.de/en/projekte/datenmachenschule/</guid>
       <description>DatenmachenSchule shows the potential open data in the classroom. The initial idea for the project came from a study published in 2013 on the subject of Open Data by the Fraunhofer Focus Institute:
-&amp;ldquo;Open administrative data [&amp;hellip;] in principle holds the chance of a new educational design (Open Educational Resources)&amp;ldquo;.
+&amp;ldquo;Open administrative data [&amp;hellip;] in principle holds the chance of a new educational design (Open Educational Resources)&amp;rdquo;.
 In order to pursue this thesis, a cooperation between the administration of the city of Moers, the Gymnasium Adolfinum, the Rhein-Waal University of Applied Sciences and the Open Knowledge Lab Niederrhein was formed.</description>
     </item>
     
@@ -183,6 +182,15 @@ In order to answer these and other questions, we have developed various workshop
       <guid>https://okfn.de/en/projekte/digiwhist/</guid>
       <description>The allocation of funds through public procurement (services, bulding contracts, and goods) represents a significant share of state expenditure. In the EU, this amounts to about 16% of the GDP. In many cases, the allocation of these contracts is not conducted transparently. As a result, 20-25% of the total number of orders can be lost to corruption.
 In order to change this, we are working together with five partners on the EU project, DIGIWHIST.</description>
+    </item>
+    
+    <item>
+      <title>edulabs</title>
+      <link>https://okfn.de/en/projekte/edulabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/edulabs/</guid>
+      <description>edulabs sees itself as a supra-regional incubator in which people use their didactic, technical, and creative skills to develop innovative and re-usable educational materials. The project works on three levels: concept development, provision and advertising of open educational resources as well as community building and support. Throughout Germany, edulabs organises meetings of interdisciplinary teams where open educational resources and digitally supported methods are evaluated, created, documented, and improved. The lab community is supported editorially, didactically, technically, as well as with the organisation of events.</description>
     </item>
     
     <item>
@@ -241,6 +249,25 @@ In 2017, we took over the project on a voluntary basis in order to guarantee the
     </item>
     
     <item>
+      <title>https.jetzt</title>
+      <link>https://okfn.de/en/projekte/httpsjetzt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/httpsjetzt/</guid>
+      <description>https.jetzt! shows how many government websites support encryption via HTTPS. Why is website encryption important?
+Any unencrypted transmission of data can be intercepted on the Internet and thus manipulated. Therefore, it is obvious that any transmission of sensitive data, such as orders in online shops, online banking, or logins to websites with non-public content should always be encrypted. For the user this means: when in doubt you should always check in your browser whether an encrypted transmission is displayed there.</description>
+    </item>
+    
+    <item>
+      <title>kleineAnfragen</title>
+      <link>https://okfn.de/en/projekte/kleineanfragen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/kleineanfragen/</guid>
+      <description>The right to ask questions is an important right of MPs - and a frequently used parliamentary control instrument. In the German parliament alone, thousands of so-called &amp;ldquo;small questions&amp;rdquo; are asked in each parliamentary term, which must be answered in writing by the government. If you add the questions asked in the parliaments of the federal states, a huge pool of useful information results which is scattered throughout the various online archives.</description>
+    </item>
+    
+    <item>
       <title>ODINE</title>
       <link>https://okfn.de/en/projekte/odine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -248,15 +275,6 @@ In 2017, we took over the project on a voluntary basis in order to guarantee the
       <guid>https://okfn.de/en/projekte/odine/</guid>
       <description>The Open Data Incubator for Europe (ODINE) was a 6-month incubator for open data entrepreneurs across Europe. The programme was funded with a grant of €7.8 million from the EU Horizon 2020 programme and was implemented by seven partners.
 ODINE aimed to support the next generation of digital enterprises and help them accelerate the development of their products. We are already committed to the best European digital talent and look forward to more outstanding companies to be founded.</description>
-    </item>
-    
-    <item>
-      <title>OParl</title>
-      <link>https://okfn.de/en/projekte/oparl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/oparl/</guid>
-      <description>Many municipalities, counties and regions in Germany have council information systems at their disposal in order to organise committee work in local councils and at district assemblies. A lot of information is hidden in these council information systems of German municipalities. The entire municipal policy is documented - decisions that have a direct impact on the inhabitants of the city. Nonetheless, to involve citizens and their creative potential in the city&amp;rsquo;s politics, it is important to provide information.</description>
     </item>
     
     <item>
@@ -280,6 +298,15 @@ So far, Federal Law Gazettes were only available via the website bgbl.de of the 
     </item>
     
     <item>
+      <title>Offener Haushalt</title>
+      <link>https://okfn.de/en/projekte/offenerhaushalt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/offenerhaushalt/</guid>
+      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, budget data format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
+    </item>
+    
+    <item>
       <title>OffeneRegister</title>
       <link>https://okfn.de/en/projekte/offeneregister/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -287,16 +314,16 @@ So far, Federal Law Gazettes were only available via the website bgbl.de of the 
       <guid>https://okfn.de/en/projekte/offeneregister/</guid>
       <description>The corporate registry is the public repository of companies, foundations and associations in Germany. It contains data about legal status, address and officers of an entity.
 This data is important for trust in business and the people involved. However, this data is not made openly accessible by the government.
-Together with OpenCorporates we published the German corporate registry as open data for the first time.  Picture: Hamburg. Speicherstadt von Max Stolbinsky under CC BY 2.</description>
+Together with OpenCorporates we published the German corporate registry as open data for the first time. Picture: Hamburg. Speicherstadtvon Max Stolbinskyunder CC BY 2.</description>
     </item>
     
     <item>
-      <title>Offener Haushalt</title>
-      <link>https://okfn.de/en/projekte/offenerhaushalt/</link>
+      <title>OParl</title>
+      <link>https://okfn.de/en/projekte/oparl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://okfn.de/en/projekte/offenerhaushalt/</guid>
-      <description>The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, budget data format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites.</description>
+      <guid>https://okfn.de/en/projekte/oparl/</guid>
+      <description>Many municipalities, counties and regions in Germany have council information systems at their disposal in order to organise committee work in local councils and at district assemblies. A lot of information is hidden in these council information systems of German municipalities. The entire municipal policy is documented - decisions that have a direct impact on the inhabitants of the city. Nonetheless, to involve citizens and their creative potential in the city&amp;rsquo;s politics, it is important to provide information.</description>
     </item>
     
     <item>
@@ -334,6 +361,16 @@ The SCHUFA score tries to summarise the financial trustworthiness of a person in
       
       <guid>https://okfn.de/en/projekte/refugeephrasebook/</guid>
       <description>Refugeephrasebook.de organises volunteer translations and distributes useful information for refugees and their helpers. Together with partner institutions in Germany, Greece and the Netherlands, the refugee phrasebook team develops sustainable communication tools to share phrases, icons and other helpful resources. All materials are adaptable for local needs and distributed with open licences to foster communication between refugees, citizens and helpers all over Europe. Our goal is to empower refugees all across Europe to communicate and voice their needs, independently of network access and battery life, even if they can only stay in a country for a limited time.</description>
+    </item>
+    
+    <item>
+      <title>sehrGutachten</title>
+      <link>https://okfn.de/en/projekte/sehrgutachten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/sehrgutachten/</guid>
+      <description>After the campaign #FragDenBundestag by FragDenStaat and Abgeordnetenwatch, the German parliament decided to publish all reports of its scientific service online. In the three weeks leading up to that decision, thousands of users have requested expert opinions via FragDenBundestag.de, which the German parliament has to publish according to the Freedom of Information Act (FOIA).
+However, the documents have not been prepared - the list is unclear and not searchable. That is why there is sehrGutachten: a platform that presents the reports in a structured way to make them searchable in full text.</description>
     </item>
     
     <item>
@@ -382,44 +419,6 @@ The project was continued as a community project with an extended focus. The Wah
       <guid>https://okfn.de/en/projekte/zuganggestalten/</guid>
       <description>Museums, archives, libraries and momuments are operated and maintained with public funds. The international conference &amp;ldquo;Zugang gestalten&amp;rdquo; asks the question whether this is adequately reflected in the level of access to the cultural treasures that these institutions possess and maintain. The conference invites key figures in culture, science, civic society and politics to publicly explore different ways of accessing digital cultural heritage in Germany.
 &amp;ldquo;Zugang gestalten&amp;rdquo; stands under the auspices of the German UNESCO commission and is a collaboartive project of the Open Knowledge Foundation Deutschland, Stiftung Historische Museen Hamburg, Servicestelle Digitalisierung Berlin, Deutschen Digitalen Bibliothek, Internet &amp;amp; Gesellschaft Collaboratory, Institut Français Deutschland, iRights.</description>
-    </item>
-    
-    <item>
-      <title>edulabs</title>
-      <link>https://okfn.de/en/projekte/edulabs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/edulabs/</guid>
-      <description>edulabs sees itself as a supra-regional incubator in which people use their didactic, technical, and creative skills to develop innovative and re-usable educational materials. The project works on three levels: concept development, provision and advertising of open educational resources as well as community building and support. Throughout Germany, edulabs organises meetings of interdisciplinary teams where open educational resources and digitally supported methods are evaluated, created, documented, and improved. The lab community is supported editorially, didactically, technically, as well as with the organisation of events.</description>
-    </item>
-    
-    <item>
-      <title>https.jetzt</title>
-      <link>https://okfn.de/en/projekte/httpsjetzt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/httpsjetzt/</guid>
-      <description>https.jetzt! shows how many government websites support encryption via HTTPS. Why is website encryption important?
-Any unencrypted transmission of data can be intercepted on the Internet and thus manipulated. Therefore, it is obvious that any transmission of sensitive data, such as orders in online shops, online banking, or logins to websites with non-public content should always be encrypted. For the user this means: when in doubt you should always check in your browser whether an encrypted transmission is displayed there.</description>
-    </item>
-    
-    <item>
-      <title>kleineAnfragen</title>
-      <link>https://okfn.de/en/projekte/kleineanfragen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/kleineanfragen/</guid>
-      <description>The right to ask questions is an important right of MPs - and a frequently used parliamentary control instrument. In the German parliament alone, thousands of so-called &amp;ldquo;small questions&amp;rdquo; are asked in each parliamentary term, which must be answered in writing by the government. If you add the questions asked in the parliaments of the federal states, a huge pool of useful information results which is scattered throughout the various online archives.</description>
-    </item>
-    
-    <item>
-      <title>sehrGutachten</title>
-      <link>https://okfn.de/en/projekte/sehrgutachten/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/sehrgutachten/</guid>
-      <description>After the campaign #FragDenBundestag by FragDenStaat and Abgeordnetenwatch, the German parliament decided to publish all reports of its scientific service online. In the three weeks leading up to that decision, thousands of users have requested expert opinions via FragDenBundestag.de, which the German parliament has to publish according to the Freedom of Information Act (FOIA).
-However, the documents have not been prepared - the list is unclear and not searchable. That is why there is sehrGutachten: a platform that presents the reports in a structured way to make them searchable in full text.</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Change on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Social Change on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/social-change/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/social-change/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OffenesParlament.de macht Plenarprotokolle durchsuchbar!</title>
       <link>https://okfn.de/blog/2017/10/ds-offenes-parlament-relaunch/</link>
@@ -57,7 +53,7 @@ Auch unser erster Partner BildungCent e.</description>
       
       <guid>https://okfn.de/blog/2016/10/ds-codeweek-workshop-einladung/</guid>
       <description>Welche Betriebe belasten die Umwelt in eurer Umgebung am stärksten? Welche Industriebranchen sind für die meisten CO2-Emissionen in Deutschland verantwortlich? Welche Konzerne produzieren den höchsten Abfallberg?
-Bei unserem Workshop im Rahmen der diesjährigen Code Week zeigen wir euch mit einfachen Tools und Tipps, wie sich spannenden Fragen zur Umweltverschmutzung in Deutschland beantworten lassen und wie ihr Ergebnisse ansprechend aufbereiten könnt. Dabei schauen wir uns Daten zu freigesetzten Schadstoffen in Deutschland genauer an, analysieren und visualisieren sie.</description>
+Bei unserem Workshop im Rahmen der diesjährigen Code Weekzeigen wir euch mit einfachen Tools und Tipps, wie sich spannenden Fragen zur Umweltverschmutzung in Deutschland beantworten lassen und wie ihr Ergebnisse ansprechend aufbereiten könnt. Dabei schauen wir uns Daten zu freigesetzten Schadstoffen in Deutschland genauer an, analysieren und visualisieren sie.</description>
     </item>
     
   </channel>

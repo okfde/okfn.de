@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transparenz on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Transparenz on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/transparenz/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/transparenz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wir laden ein zu unserer Veranstaltungsreihe. Ein Jahrzehnt OKF – Kritik, Politik und Aktivismus</title>
       <link>https://okfn.de/blog/2021/04/veranstaltungsreihe-okf10/</link>
@@ -139,7 +135,7 @@ Arne Semsrott, project lead of FragDenStaat: &amp;ldquo;It is shameful to see th
       
       <guid>https://okfn.de/blog/2019/03/zensurheberrecht/</guid>
       <description>Die Bundesregierung hat FragDenStaat für die Veröffentlichung eines staatlichen Gutachtens zu den Risiken von Glyphosat abgemahnt. Das zuständige Bundesinstitut für Risikobewertung (BfR), das dem Landwirtschaftsministerium von Julia Klöckner (CDU) untersteht, wirft uns eine Urheberrechtsverletzung vor und fordert von uns die Unterzeichnung einer Unterlassungserklärung.
-Arne Semsrott, Projektleiter von FragDenStaat: &amp;ldquo;Es ist beschämend zu sehen, dass das Landwirtschaftsministerium das Urheberrecht missbraucht, um unliebsame Berichterstattung zu unterdrücken. Wir lassen uns aber nicht einschüchtern.</description>
+Arne Semsrott, Projektleiter von FragDenStaat: &amp;ldquo;Es ist beschämend zu sehen, dass das Landwirtschaftsministerium das Urheberrecht missbraucht, um unliebsame Berichterstattung zu unterdrücken. Wir lassen uns aber nicht einschüchtern. Wenn es sein muss, ziehen wir mit dem Fall bis vor den Europäischen Gerichtshof.</description>
     </item>
     
     <item>
@@ -166,7 +162,8 @@ Arne Semsrott, Projektleiter von FragDenStaat: &amp;ldquo;Es ist beschämend zu 
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2018/09/oparl-1-1-politik-bei-uns/</guid>
-      <description>Vor zwei Jahren haben wir mit der offenen Schnittstelle OParl 1.0 den ersten großen Schritt zur Transparenz kommunaler Beschlüsse gemacht. Seitdem ist viel passiert: * Die vier größten Ratsinformationssystem-Hersteller haben ein OParl-Modul für ihre Software entwickelt, sodass Kommunen OParl ganz einfach in ihre bestehende Software integrieren können. * Ca. 30 Kommunen haben eine offizielle OParl-Schnittstelle, in etlichen weiteren Kommunen ist das OParl-Modul zur Zeit in Einrichtung. Zuletzt dazugekommen sind Aachen und der Kreis Viersen.</description>
+      <description>Vor zwei Jahren haben wir mit der offenen Schnittstelle OParl 1.0 den ersten großen Schritt zur Transparenz kommunaler Beschlüsse gemacht. Seitdem ist viel passiert:
+ Die vier größten Ratsinformationssystem-Hersteller haben ein OParl-Modul für ihre Software entwickelt, sodass Kommunen OParl ganz einfach in ihre bestehende Software integrieren können. Ca. 30 Kommunen haben eine offizielle OParl-Schnittstelle, in etlichen weiteren Kommunen ist das OParl-Modul zur Zeit in Einrichtung. Zuletzt dazugekommen sind Aachen und der Kreis Viersen.</description>
     </item>
     
     <item>
@@ -176,8 +173,8 @@ Arne Semsrott, Projektleiter von FragDenStaat: &amp;ldquo;Es ist beschämend zu 
       
       <guid>https://okfn.de/blog/2018/05/okfde-beim-deutschen-stiftungstag-2018/</guid>
       <description>Der Deutsche Stiftungstag wird jedes Jahr vom Verband Deutscher Stiftungen als Informations- und Vernetzungsangebot für seine Mitglieder organisiert. Die diesjährige Ausgabe fand unter dem Motto Update! - Stiftungen und Digitalisierung vom 16. - 18. Mai in Nürnberg statt.
-Drei von fünf Kategorien der diesjährigen Veranstaltung waren - #DST18_OffeneDaten - #DST18_Transparenz - #DST18_Partizipation
-Also genau passend für uns! Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln dieser Themen ist und wie lange die Umsetzung von Forderungen braucht.</description>
+Drei von fünf Kategorien der diesjährigen Veranstaltung waren
+ #DST18_OffeneDaten #DST18_Transparenz #DST18_Partizipation  Also genau passend für uns! Aus eigener Erfahrung wissen wir, wie schwierig und mühsam das Vermitteln dieser Themen ist und wie lange die Umsetzung von Forderungen braucht.</description>
     </item>
     
     <item>
@@ -265,7 +262,7 @@ Die Aufstellung und Debatte eines Haushalts ist die zentrale Aufgabe eines Parla
       <guid>https://okfn.de/blog/2017/09/zivilgesellschaftliche-forderungen/</guid>
       <description>Digitalisierung ist ein zentrales Thema für eine neue Bundesregierung. Die Open Knowledge Foundation Deutschland ist eine der größten zivilgesellschaftlichen Organisationen in diesem Bereich. Wir setzen uns für den freien Zugang zu Informationen ein, vermitteln Wissen und stärken die digitale Zivilgesellschaft.
 An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderungen:
-1. Transparenz vorantreiben Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein.</description>
+1. Transparenz vorantreiben Das Handeln von Staat und Regierung soll für alle Bürgerinnen und Bürger transparent nachvollziehbar sein. Zugang zu Informationen muss möglichst umfassend, unmittelbar und barrierefrei sein, um die demokratische Meinungsbildung und Teilhabe zu fördern.</description>
     </item>
     
     <item>
@@ -274,8 +271,7 @@ An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderu
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/join-the-story-hunt/</guid>
-      <description>&amp;lsquo;The Story Hunt: Uncover the EU&amp;rsquo; is a programme hosted by the Open Knowledge Foundation Germany&amp;rsquo;s teams of Datenschule, OpenBudgets, and SubsidyStories.eu. Together with journalists, analysts, non-profit organisations, developers and designers, we want to develop and apply the skills needed to hunt stories in financial data.
- The Story Hunt is split into two separate parts: a series of Workshops and an Expedition Weekend in Berlin.  The workshops are tailored to aspiring data journalists and non-profit organisations that are interested in improving their data-literacy skills.</description>
+      <description></description>
     </item>
     
     <item>
@@ -294,7 +290,7 @@ An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderu
       
       <guid>https://okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/</guid>
       <description>Personal Democracy Forum in Danzig! Zwei Tage lang treffen sich hier zivilgesellschaftliche Organisationen aus Mittel- und Osteuropa, um über Transparenz, Meinungsfreiheit und Civic-Tech-Projekte in ihren Ländern zu sprechen. Wir aus den Teams OpenBudgets.eu und Datenschule waren dieses Jahr vor Ort und haben sowohl beim OpenContracting Workshop als auch bei unserer World Cafè Session fleißig mitdiskutiert.
- Beim OpenContracting Workshop:  Die Open Contracting Partnership hat als eintägiges Pre-Event zur Konferenz einen Workshop organisiert wo es um die zentrale Frage ging: Wie die öffentliche Vergabepraxis transparenter und effizienter gestaltet werden kann.</description>
+Beim OpenContracting Workshop: Die Open Contracting Partnership hat als eintägiges Pre-Event zur Konferenz einen Workshop organisiert wo es um die zentrale Frage ging: Wie die öffentliche Vergabepraxis transparenter und effizienter gestaltet werden kann.</description>
     </item>
     
     <item>
@@ -303,7 +299,7 @@ An die künftige Bundesregierung der nächsten vier Jahre haben wir vier Forderu
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/esif-data-quality-index/</guid>
-      <description>Today, OpenBudgets.eu presents the European Structural Funds Data Quality Index.  Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.</description>
+      <description></description>
     </item>
     
     <item>
@@ -422,7 +418,7 @@ Alle UN Mitgliedsstaaten haben sich am 25. September 2015 verpflichtet die 17 Zi
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/10/open-budget-survey-bundeshaushalt/</guid>
-      <description>Berlin, 15.10.2015 - Der deutsche Bundeshaushalt ist zu großen Teilen transparent, sollte aber vor allem im Bereich der öffentlichen Beteiligung weiter ausgebaut werden. Das ist das Ergebnis des internationalen Open Budget Survey (OBS) 2015 der International Budget Partnership (IBP). Der Bericht zeigt, dass der Haushalt Deutschlands in den Bereichen Transparenz und Haushaltsaufsicht den Kriterien für Offenheit in vielen Teilen entspricht.
+      <description>Berlin, 15.10.2015- Der deutsche Bundeshaushalt ist zu großen Teilen transparent, sollte aber vor allem im Bereich der öffentlichen Beteiligung weiter ausgebaut werden. Das ist das Ergebnis des internationalen Open Budget Survey (OBS) 2015 der International Budget Partnership (IBP). Der Bericht zeigt, dass der Haushalt Deutschlands in den Bereichen Transparenz und Haushaltsaufsicht den Kriterien für Offenheit in vielen Teilen entspricht.
 Jedoch hat die Bevölkerung nur wenige Möglichkeiten, den Haushalt mitzugestalten. Es fehlt etwa auf Bundesebene ein Bürgerhaushalt, der die Grundlagen der Haushaltspolitik in einfacher Form darstellt.</description>
     </item>
     
@@ -521,16 +517,6 @@ Von großem Nutzen dürfte den Lesern die interaktive Karte zu den Unfallschwerp
       <description>Der folgende, eingeladene Gastbeitrag stammt von Claus Arndt, Referent des Bürgermeisters für E-Government und neue Medien der Stadt Moers und Christian Geiger, dem Beauftragten für Grundsatzfragen ulm 2.0 der Stadt Ulm. Sie schildern darin ihre Erfahrungen mit dem Open Data City Census Deutschland. Wir danken den Autoren für Ihren Debattenbeitrag, der ungekürzt wiedergegeben wird.
 Rahmen
 Der Open Data City Census hat direkt nach seinem Start für eine hohe Aufmerksamkeit in interessierten Verwaltungen gesorgt.</description>
-    </item>
-    
-    <item>
-      <title>Effizienter Staat 2014: Offene Daten und transparentes Regierungshandeln in der Verwaltungsrealität</title>
-      <link>https://okfn.de/blog/2014/04/effizienter-staat-2014-offene-daten-und-transparentes-regierungshandeln-in-der-verwaltungsrealitaet/</link>
-      <pubDate>Fri, 04 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/blog/2014/04/effizienter-staat-2014-offene-daten-und-transparentes-regierungshandeln-in-der-verwaltungsrealitaet/</guid>
-      <description>In dieser Zeit geht einiges durcheinander: Dr. Göttrik Wewer, Vize-Präsident E-Government bei der Deutschen Post, holt in einem kürzlich veröffentlichten Artikel zu einem Generalschlag gegen die “Transparenzbewegung” aus. Aber ist das alles wirklich so einfach? Besteht die Entwicklung rund um offene Daten und transparentes Regierungshandeln in Deutschland aktuell nur aus &amp;ldquo;Transparenzterror&amp;rdquo;, sowie aus &amp;ldquo;Konfrontation, Kontrolle und Konflikt&amp;rdquo;?
-Ich glaube nicht! Ja, es geht zu langsam, ja, es gibt eine drastische Unterausstattung der Verwaltungen bei dem Thema und ja, es gibt auch manchmal unschöne Konfrontationen - aber was im Moment in Bezug auf Open Government Data wirklich in den deutschen Verwaltungsstuben passiert, konnte man viel besser auf dem Verwaltungskongress des Behördenspiegels &amp;ldquo;Effizienter Staat 2014&amp;rdquo; beobachten.</description>
     </item>
     
     <item>
@@ -668,15 +654,6 @@ Sieglinde Gauer-Lietz (Leiterin der Arbeitsgruppe Staatliche Entwicklungszusamme
       
       <guid>https://okfn.de/blog/2013/02/hintergrund-offene-entwicklungshilfe-de/</guid>
       <description>Wenn man Finanzdaten zur Entwicklungshilfe sucht, gibt es praktisch nur zwei Optionen. Hoch aggregierte Daten beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, wo nur ein paar Zahlen angeboten werden, oder akademisch anmutende Webseiten der OECD, wo man nach Zahlen forschen muss. Offene-Entwicklungshilfe.de soll anders sein. Hier werden Daten anschaulich dargestellt, so dass man einfach durch die Zahlen wandern kann, statt komplizierte Anwendungen zu bedienen. Außerdem gibt es hier detaillierte alle staatlichen Ausgaben der Entwicklungshilfe nach Ländern, Schwerpunkten und bis auf die Projektebene.</description>
-    </item>
-    
-    <item>
-      <title>Offene Daten gegen Armut?</title>
-      <link>https://okfn.de/blog/2013/01/offene-daten-gegen-armut/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/blog/2013/01/offene-daten-gegen-armut/</guid>
-      <description>Gibt es in der Entwicklungszusammenarbeit nicht wirklich Wichtigeres als offene Daten? Es gibt in der Tat viele sehr wichtige Themen, um die Armut in weiten Teilen der Welt zu bekämpfen. Das OpenAid Projekt der Open Knowledge Foundation ist überzeugt, dass Transparenz und detaillierte, offene Daten die Voraussetzung dafür sind, um die Entwicklungszusammenarbeit in allen Sektoren (Landwirtschaft, Bildung, Gesundheit, etc.) effizienter zu gestalten. Wichtig für die Entwicklungszusammenarbeit sind beispielsweise offene Daten über soziale, wirtschaftliche Entwicklungen, Klimadaten oder zu landwirtschaftlicher Produktion und zum Handelsverkehr.</description>
     </item>
     
     <item>

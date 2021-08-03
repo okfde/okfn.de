@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Henriette Litta on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Dr. Henriette Litta on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/dr.-henriette-litta/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/dr.-henriette-litta/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Das war 2019: Unser Tätigkeitsbericht ist veröffentlicht</title>
       <link>https://okfn.de/blog/2020/07/taetigkeitsbericht-2019/</link>
@@ -18,7 +14,7 @@
       
       <guid>https://okfn.de/blog/2020/07/taetigkeitsbericht-2019/</guid>
       <description>Das letzte Jahr war wieder bunt und turbulent. Eine kurze Übersicht über das Jahr 2019 stellen wir euch hier zusammen. Ausführlichere und übersichtlich zusammengestellte Informationen findet ihr in unserem aktuellen Tätigkeitsbericht, den wir wieder nach dem Social Reporting Standard erstellt haben.
- Projektentwicklungen: Die langjährigen Projekte FragDenStaat, Jugend hackt und Prototype Fund konnten ihre Arbeit weiter verstetigen und sind auch personell gewachsen. Das seit Mitte 2017 laufende große Projekt Demokratielabore wurde 2019 abgeschlossen, ebenso das Bildungsprojekt edulabs.</description>
+  Projektentwicklungen: Die langjährigen Projekte FragDenStaat, Jugend hackt und Prototype Fund konnten ihre Arbeit weiter verstetigen und sind auch personell gewachsen. Das seit Mitte 2017 laufende große Projekt Demokratielabore wurde 2019 abgeschlossen, ebenso das Bildungsprojekt edulabs.</description>
     </item>
     
     <item>

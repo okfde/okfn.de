@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Initiatives on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Initiatives on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 03 May 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/open-initiatives/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 03 May 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-initiatives/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Veröffentlichungshinweis: Open Initiatives - Offenheit in der digitalen Welt und Wissenschaft</title>
       <link>https://okfn.de/blog/2012/05/veroffentlichungshinweis-open-initiatives-offenheit-in-der-digitalen-welt-und-wissenschaft/</link>

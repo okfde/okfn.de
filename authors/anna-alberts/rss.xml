@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anna Alberts on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Anna Alberts on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/anna-alberts/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/anna-alberts/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Berlin Doppelhaushalt 2018/2019 im neuem Design und mit erweiterten Funktionen</title>
       <link>https://okfn.de/blog/2018/06/ohh-berlin/</link>
@@ -38,7 +34,7 @@ Die Bürger*innen können im Kachel-Diagramm über einen Soll-Ist-Vergleichen au
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/esif-data-quality-index/</guid>
-      <description>Today, OpenBudgets.eu presents the European Structural Funds Data Quality Index.  Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.</description>
+      <description></description>
     </item>
     
     <item>
@@ -47,7 +43,7 @@ Die Bürger*innen können im Kachel-Diagramm über einen Soll-Ist-Vergleichen au
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/</guid>
-      <description>Brexit, ein wachsender Rechtsradikalismus und eine andauernde wirtschaftliche Stagnation. Die Probleme mit der die Europäische Union (EU) momentan zu kämpfen hat sind gewaltig. Aber wie kann die gegenwärtige Euroskepsis überwunden werden und eine europaweites, starkes Zeichen gegen Rechts gesetzt werden? BeimCampus Event von European Alternatives vergangene Woche sind politische Aktivisten zusammengekommen, um Europa neu zu denken. OpenBudgets und die Datenschule waren dabei und haben mitdiskutiert.
+      <description>Brexit, ein wachsender Rechtsradikalismus und eine andauernde wirtschaftliche Stagnation. Die Probleme mit der die Europäische Union (EU) momentan zu kämpfen hat sind gewaltig. Aber wie kann die gegenwärtige Euroskepsis überwunden werden und eine europaweites, starkes Zeichen gegen Rechts gesetzt werden? BeimCampus Event von European Alternativesvergangene Woche sind politische Aktivisten zusammengekommen, um Europa neu zu denken. OpenBudgetsund die Datenschulewaren dabei und haben mitdiskutiert.
 Unter dem Motto „Shifting Baselines“ wurde in mehreren Workshops erarbeitet, wie politischer ARTivism, eine alternative Stadtentwicklung und transeuropäische Netzwerke ein positives Zeichen für Europa setzen können.</description>
     </item>
     

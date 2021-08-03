@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ag Community on OKF</title>
+    <title>AG Community on OKF</title>
     <link>https://okfn.de/authors/ag-community/</link>
-    <description>Recent content in Ag Community on OKF</description>
+    <description>Recent content in AG Community on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/ag-community/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/ag-community/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Offener Brief an die Community</title>
       <link>https://okfn.de/blog/2020/12/offener-brief-an-die-community/</link>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Government on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Open Government on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/open-government/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-government/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forderungen für eine gemeinwohlorientierte, demokratische Digitalpolitik</title>
       <link>https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/</link>
@@ -96,7 +92,8 @@ Bis zum 26. April ist es einen Monat lang möglich, hierzu online Ideen einzurei
       
       <guid>https://okfn.de/blog/2018/08/ogp-georgia/</guid>
       <description>Beim „5. Open Government Global Summit 2018“ der Open Government Partnership (OGP) in Tiflis tauschten sich vom 17. bis 19. Juli etwa 2000 Teilnehmer aus Regierung, Verwaltung und Zivilgesellschaft aus über 75 Ländern aus.
-Die Schwerpunkte der diesjährigen Konferenz lagen auf Korruptionsbekämpfung, bürgerlichem Engagement und der Bereitstellung öffentlicher Dienstleistungen. Die dreitägige Konferenz bot am ersten Tag getrennte Veranstaltungen für die Zivilgesellschaft und Regierungsvertreterinnen, darauf folgten zwei Tage gemeinsamer Summit.</description>
+Die Schwerpunkte der diesjährigen Konferenz lagen auf Korruptionsbekämpfung, bürgerlichem Engagement und der Bereitstellung öffentlicher Dienstleistungen. Die dreitägige Konferenz bot am ersten Tag getrennte Veranstaltungen für die Zivilgesellschaft und Regierungsvertreterinnen, darauf folgten zwei Tage gemeinsamer Summit.
+Solch große internationale Kongresse können häufig überwältigend sein.</description>
     </item>
     
     <item>
@@ -114,8 +111,7 @@ Die Schwerpunkte der diesjährigen Konferenz lagen auf Korruptionsbekämpfung, b
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/join-the-story-hunt/</guid>
-      <description>&amp;lsquo;The Story Hunt: Uncover the EU&amp;rsquo; is a programme hosted by the Open Knowledge Foundation Germany&amp;rsquo;s teams of Datenschule, OpenBudgets, and SubsidyStories.eu. Together with journalists, analysts, non-profit organisations, developers and designers, we want to develop and apply the skills needed to hunt stories in financial data.
- The Story Hunt is split into two separate parts: a series of Workshops and an Expedition Weekend in Berlin.  The workshops are tailored to aspiring data journalists and non-profit organisations that are interested in improving their data-literacy skills.</description>
+      <description></description>
     </item>
     
     <item>
@@ -133,7 +129,7 @@ Die Schwerpunkte der diesjährigen Konferenz lagen auf Korruptionsbekämpfung, b
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2017/04/esif-data-quality-index/</guid>
-      <description>Today, OpenBudgets.eu presents the European Structural Funds Data Quality Index.  Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.</description>
+      <description></description>
     </item>
     
     <item>
@@ -191,7 +187,7 @@ Kleine Anfragen sind Fragen von Parlaments-Abgeordneten an die Regierung. Diese 
       <pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2015/10/open-budget-survey-bundeshaushalt/</guid>
-      <description>Berlin, 15.10.2015 - Der deutsche Bundeshaushalt ist zu großen Teilen transparent, sollte aber vor allem im Bereich der öffentlichen Beteiligung weiter ausgebaut werden. Das ist das Ergebnis des internationalen Open Budget Survey (OBS) 2015 der International Budget Partnership (IBP). Der Bericht zeigt, dass der Haushalt Deutschlands in den Bereichen Transparenz und Haushaltsaufsicht den Kriterien für Offenheit in vielen Teilen entspricht.
+      <description>Berlin, 15.10.2015- Der deutsche Bundeshaushalt ist zu großen Teilen transparent, sollte aber vor allem im Bereich der öffentlichen Beteiligung weiter ausgebaut werden. Das ist das Ergebnis des internationalen Open Budget Survey (OBS) 2015 der International Budget Partnership (IBP). Der Bericht zeigt, dass der Haushalt Deutschlands in den Bereichen Transparenz und Haushaltsaufsicht den Kriterien für Offenheit in vielen Teilen entspricht.
 Jedoch hat die Bevölkerung nur wenige Möglichkeiten, den Haushalt mitzugestalten. Es fehlt etwa auf Bundesebene ein Bürgerhaushalt, der die Grundlagen der Haushaltspolitik in einfacher Form darstellt.</description>
     </item>
     
@@ -265,7 +261,7 @@ Das Ziel ist, die Diskrepanz zwischen Angebot und Nachfrage zu schmälern, das I
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Ein fröhliches Halloween wünschen wir! (CC-BY)
 Rückblick in den Oktober
-Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;rdquo;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;ldquo;&amp;gt;berichtet.
+Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;quot;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;quot;&amp;gt;berichtet.
 Der Open Data-Index, den wir kurz vor dem OGP-Treffen veröffentlicht haben, zeigt, wo die einzelnen Länder stehen. Er zeigt auch, dass die Bundesregierung noch einiges tun muss, um ihren Verpflichtungen aus der G8 Open Data Charter nachzukommen.</description>
     </item>
     

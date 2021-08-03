@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mara Mendes on OKF</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Mara Mendes on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/authors/mara-mendes/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/mara-mendes/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Live Launch in Brüssel: Opentender.eu geht online </title>
       <link>https://okfn.de/blog/2018/01/big-data-with-local-impact/</link>
@@ -19,7 +15,7 @@
       <guid>https://okfn.de/blog/2018/01/big-data-with-local-impact/</guid>
       <description>Heute geht das Vergabeportal opentender.eu, mit Datensätzen aus 32 Ländern und der Europäischen Kommission, online. Opentender.eu bietet die Möglichkeit Vergabedaten strukturiert einzusehen und zu visualisieren. Risikoindikatoren informieren zusätzlich über die Effizienz und Transparenz von Ausschreibungen.
 Im Rahmen der DIGIWHIST Abschlusskonferenz &amp;ldquo;Big data with local impact: Using open data to improve public procurement&amp;rdquo; wird das Portal erstmalig der Öffentlichkeit vorgestellt. Die Konferenz kann per Live-Stream verfolgt werden.
-Agenda Using open data to improve public procurement DIGIWHIST Project Final Conference 29 January 2018 * 13.</description>
+Agenda Using open data to improve public procurement DIGIWHIST Project Final Conference 29 January 2018</description>
     </item>
     
     <item>

@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ngo on OKF</title>
+    <title>NGO on OKF</title>
     <link>https://okfn.de/tags/ngo/</link>
-    <description>Recent content in Ngo on OKF</description>
+    <description>Recent content in NGO on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 31 Aug 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://okfn.de/tags/ngo/rss.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/ngo/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OKF beim European Alternatives Campus Event 16</title>
       <link>https://okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/</link>
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/</guid>
-      <description>Brexit, ein wachsender Rechtsradikalismus und eine andauernde wirtschaftliche Stagnation. Die Probleme mit der die Europäische Union (EU) momentan zu kämpfen hat sind gewaltig. Aber wie kann die gegenwärtige Euroskepsis überwunden werden und eine europaweites, starkes Zeichen gegen Rechts gesetzt werden? BeimCampus Event von European Alternatives vergangene Woche sind politische Aktivisten zusammengekommen, um Europa neu zu denken. OpenBudgets und die Datenschule waren dabei und haben mitdiskutiert.
+      <description>Brexit, ein wachsender Rechtsradikalismus und eine andauernde wirtschaftliche Stagnation. Die Probleme mit der die Europäische Union (EU) momentan zu kämpfen hat sind gewaltig. Aber wie kann die gegenwärtige Euroskepsis überwunden werden und eine europaweites, starkes Zeichen gegen Rechts gesetzt werden? BeimCampus Event von European Alternativesvergangene Woche sind politische Aktivisten zusammengekommen, um Europa neu zu denken. OpenBudgetsund die Datenschulewaren dabei und haben mitdiskutiert.
 Unter dem Motto „Shifting Baselines“ wurde in mehreren Workshops erarbeitet, wie politischer ARTivism, eine alternative Stadtentwicklung und transeuropäische Netzwerke ein positives Zeichen für Europa setzen können.</description>
     </item>
     
@@ -27,7 +23,7 @@ Unter dem Motto „Shifting Baselines“ wurde in mehreren Workshops erarbeitet,
       <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/blog/2016/08/2030watch-datenschule-bmz/</guid>
-      <description>Wie sich besser für mehr Transparenz und offene Daten einsetzen, als innerhalb der Ministerien selber? Am Tag der offenen Tür beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) waren wir mit den Projekten 2030 Watch und der Datenschule vertreten.
+      <description>Wie sich besser für mehr Transparenz und offene Daten einsetzen, als innerhalb der Ministerien selber? Am Tag der offenen Tür beim Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) waren wir mit den Projekten 2030 Watchund der Datenschulevertreten.
 Trotz besten Wetters erreichten viele BesucherInnen nach einem “Marsch durch die Institution” unseren Stand in der 11. Etage. Hier diskutierten wir mit den BesucherInnen, NGO-MitarbeiterInnen und Staatssekretär Thomas Silberhorn die Vorteile von offenen Daten für die internationale Entwicklungsarbeit.</description>
     </item>
     
