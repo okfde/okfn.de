@@ -218,14 +218,8 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2021/08/10-jahre-fragdenstaat/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/arne-semsrott/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -238,7 +232,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -250,14 +244,17 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/fragdenstaat/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/community/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/informationsfreiheit/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/judith-doleschal/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -269,8 +266,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/okfde10/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-knowledge/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -281,6 +284,18 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2021/08/freiheit-fuer-wissen/</loc>
+    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2021/08/10-jahre-fragdenstaat/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/arne-semsrott/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/fragdenstaat/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/07/transparenzranking-2021/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
@@ -306,19 +321,7 @@
     <loc>https://okfn.de/authors/vorstand/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/community/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2021/07/freiheit-fuer-wissen-freiheit-fuer-uns/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/judith-doleschal/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/okfde10/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-knowledge/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/</loc>
