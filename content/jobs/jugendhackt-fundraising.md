@@ -9,12 +9,12 @@ image:
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 published: true
-title: "Jugend hackt sucht ein*e Fundraiser*in (80%, Bewerbungsschluss 15.08.2021)"
+title: "Jugend hackt sucht ein*e Fundraiser*in (80%, Bewerbungsschluss verlängert auf 31.08.2021)"
 ---
 
 Zur Verstärkung des Jugend hackt Teams suchen wir:
 
-**Fundraiser*in (80%) ab November 2021, Bewerbungsschluss 15. August 2021**
+**Fundraiser*in (80%) ab November 2021, Bewerbungsschluss verlängert auf 31. August 2021**
 
 ## Über Jugend hackt
 
@@ -74,11 +74,11 @@ Wir bieten dir:
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen*, BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind.
 
-Bitte schicke uns deine Bewerbung **bis spätestens 15. August** mit Anschreiben, Lebenslauf und frühestmöglichem Beginn per E-Mail an Mechthild und Ben via [jobs@jugendhackt.org](mailto:jobs@jugendhackt.org). Bitte verzichte in deiner Bewerbung auf Fotos und Angaben zu Alter und Familienstand.
+Bitte schicke uns deine Bewerbung **bis spätestens 31. August** mit Anschreiben, Lebenslauf und frühestmöglichem Beginn per E-Mail an Mechthild und Ben via [jobs@jugendhackt.org](mailto:jobs@jugendhackt.org). Bitte verzichte in deiner Bewerbung auf Fotos und Angaben zu Alter und Familienstand.
 
 Wir werden alle Bewerbungen sichten und unserem personalverantwortlichen Team zur Auswahl vorlegen (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen nach Berlin ein (zweite Runde).
 
-**Diese Gespräche finden in der Woche von 6. bis 10. September 2021 in Berlin statt (voraussichtlich am 9. September).**
+**Diese Gespräche finden in der Woche von 13. bis 17. September 2021 in Berlin statt (voraussichtlich am 16. September).**
 Wenn wir uns persönlich treffen, halten wir uns strikt an Hygienemaßnahmen, inkl. Test/Impfbeleg, etc. Je nach aktueller Situation weichen wir ggf. auf Online-Gespräche aus.
 
 In der Woche darauf entscheiden wir uns.
