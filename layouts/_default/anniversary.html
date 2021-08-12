@@ -44,13 +44,11 @@
     <h3>Alle Beiträge zum Jubiläumsjahr 2021</h3>
   </div>
   <div class="row col col-12 col-sm-10 col-md-8 col-lg-7 offset-lg-1">
-    {{ $nate := .Paginate (where .Site.AllPages "Section" "blog") }}
-    <ul class="l__blog__posts container ">
-      {{ range $nate.Pages }}
-        {{ if eq .Kind "page"}}
-          {{ if in .Params.tags "OKFDE10" }}
-            {{- partial "post_item.html" . -}}
-          {{ end }}
+    {{ $nate :=  (where .Site.AllPages "Section" "blog") }}
+    <ul>
+      {{ range $nate }}
+        {{ if in .Params.tags "OKFDE10" }}
+          {{- partial "post_item.html" . -}}
         {{ end }}
       {{ end }}
     </ul>
