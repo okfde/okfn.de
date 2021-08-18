@@ -6,7 +6,25 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Civic Tech</title>
+      <link>https://okfn.de/tags/civic-tech/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/civic-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Hardware</title>
+      <link>https://okfn.de/tags/open-hardware/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/open-hardware/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Community</title>
       <link>https://okfn.de/tags/community/</link>
@@ -265,15 +283,6 @@
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/datenstrategie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Civic Tech</title>
-      <link>https://okfn.de/tags/civic-tech/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/civic-tech/</guid>
       <description></description>
     </item>
     
@@ -616,15 +625,6 @@
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/openschufa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Hardware</title>
-      <link>https://okfn.de/tags/open-hardware/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/open-hardware/</guid>
       <description></description>
     </item>
     
