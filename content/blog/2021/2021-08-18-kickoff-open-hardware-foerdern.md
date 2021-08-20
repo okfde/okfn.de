@@ -25,4 +25,4 @@ Unter dem Themenbereich der Reparaturkultur ruft das Projektbündnis aus [Netzwe
 
 Das Projekt wird vom BMBF gefördert und hat eine Projektlaufzeit von zwei Jahren.
 
-Du hast jetzt schon Interesse, Rückfragen oder möchtest auf dem Laufenden bleiben? Dann meldet euch gerne mit einer Mail oder schreibt euch auf den [Open-Hardware-Mailingliste](https://mailman.offene-werkstaetten.org/mailman/listinfo/hardware-offene-werkstaetten.org). 
+Du hast jetzt schon Interesse, Rückfragen oder möchtest auf dem Laufenden bleiben? Dann meldet euch gerne mit einer Mail oder schreibt euch auf die [Open-Hardware-Mailingliste](https://mailman.offene-werkstaetten.org/mailman/listinfo/hardware-offene-werkstaetten.org). 
