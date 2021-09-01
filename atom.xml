@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-08-27T00:00:00+0000</updated>
+  <updated>2021-09-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Mach mit: für transparente und offene Politikgestaltung</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/09/abschluss-foe/"/>
+    <id>https://okfn.de/blog/2021/09/abschluss-foe/</id>
+    <published>2021-09-01T00:00:00+0000</published>
+    <updated>2021-09-01T00:00:00+0000</updated>
+    <summary>Mit dem vierten Forum Open Education geht die über vier Jahre gewachsene Veranstaltung zu Ende. Begonnen als Paneldiskussion ist daraus ein über fünf Monate verlaufendes Beteiligungsprogramm entstanden, durch das Abgeordnete und Aktivisten intensiv zusammenarbeiten. Die Teilnehmenden diskutieren Positionen, Ideen und entwickeln gemeinsame Konzepte. In diesem Jahr waren es folgende Themen:
+ Bildungsbenachteiligungen erfassen und strukturiert angehen
+“Wir brauchen Daten und geeignete Instrumente, um strukturelle Benachteiligungen im Bildungssystem anzugehen und bestehende Förderangebote gerecht und effektiv zu verteilen.</summary>
+  </entry>
   
   <entry>
     <title>Infrastructure first, Innovation second!</title>
@@ -147,16 +158,6 @@ Noch nie war ein Bundestagswahlkampf so digital wie 2021: In der Pandemie findet
 Berlin, 17.05.2021
 Es gibt Apps bei Gesundheitsproblemen und gegen Arbeitslosigkeit, Technologien, die vor Diskriminierung schützen oder Gewalt beenden sollen. Kommt bald die App gegen den Hunger?
 Der Prototype Fund kritisiert die Innovationsentwicklung, in der sich vermeintlich alle Probleme dieser Welt mit ein paar Klicks „lösen“ lassen. Nach dieser solutionistischen Ideologie erfüllen Technologien ein deterministisches Eigenleben und erlösen uns von unseren menschlichen Schwächen. Mit der Coronapandemie hat diese Vorstellung weiter an Auftrieb gewonnen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Bundespolitik und offene Bildungspraxis gehen in den Austausch</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/05/kickoff-foe21-bildungspolitik-gestalten/"/>
-    <id>https://okfn.de/blog/2021/05/kickoff-foe21-bildungspolitik-gestalten/</id>
-    <published>2021-05-07T00:00:00+0000</published>
-    <updated>2021-05-07T00:00:00+0000</updated>
-    <summary>Ab dem 12. Mai kommen zum vierten Mal engagierte Bildungsenthusiast:innen und Bundespolitiker:innen zusammen, um gemeinsam an zukunftsgerichteten Lösungen für die Bildungslandschaft zu arbeiten. Im Zentrum stehen Einschätzungen, Strategien und konkrete Handlungsempfehlungen für eine gerechte, offene und nachhaltige Bildung.
-Das vergangene Jahr hat gezeigt, wie wichtig der Austausch mit der Bildungspraxis ist und welche wirkmächtigen Strukturen zivilgesellschaftliche Netzwerke und Projekte schaffen können. Aber auch die Politik zeigte, dass schnelles Handeln möglich ist und ebnete mit zahlreichen Maßnahmen den Weg für längst überfällige Veränderungen.</summary>
   </entry>
   
 </feed>
