@@ -1,0 +1,10 @@
+{{ if .IsNamedParams }}
+<div class="{{ if .Get "class" }}{{ .Get "class" }}{{ else }}responsive-iframe{{ end }}">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ if .Get "id" }}{{ .Get "id" }}{{ else }}{{ .Get 0 }}{{ end }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{{ else }}
+<div class="responsive-iframe">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ .Get "0" }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{{ end }}
+

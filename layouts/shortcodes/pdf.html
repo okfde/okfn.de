@@ -1,0 +1,10 @@
+{{ if .IsNamedParams }}
+<div class="{{ if .Get "class" }}{{ .Get "class" }}{{ else }}responsive-iframe{{ end }}">
+    <iframe src="{{ if .Get "url" }}{{ .Get "url" }}{{ else }}{{ .Get 0 }}{{ end }}"></iframe>
+</div>
+{{ else }}
+<div class="responsive-iframe">
+    <iframe src="{{ .Get "0" }}" ></iframe>
+</div>
+{{ end }}
+
