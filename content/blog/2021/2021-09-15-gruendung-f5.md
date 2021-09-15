@@ -12,7 +12,7 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: OKF gründet gemeinsam mit Partnerorganisationen Bündnis F5 für eine gemeinwohlorientierte Digitalisierung
 ---
@@ -20,6 +20,6 @@ title: OKF gründet gemeinsam mit Partnerorganisationen Bündnis F5 für eine ge
  
 Erstmals vorgestellt haben wir uns als Bündnis F5 auf dem [Internet Governance Forum](https://www.igf-d.de/igf-d-2021/) gestern am 14. September 2021. „Mit aktiven Gesprächsangeboten an Abgeordnete wollen wir uns dafür einsetzen, dass Prinzipien der offenen und transparenten Regierungsführung auch durch den Einsatz von digitalen Instrumenten besser umgesetzt werden“, sagt Henriette Litta, Geschäftsführerin der OKF. Ausgehend von einem demokratischen Verständnis der Digitalisierung wendet sich das Bündnis der Kernfrage der kommenden Jahre und Jahrzehnte zu: Wie können Offenheit und Transparenz, Teilhabe und Zugang konkret in politische Formen gegossen werden, um bessere Spielregeln für die digitale Welt zu schaffen? Am Freitag ist zudem ein Artikel im [Tagesspiegel Background](https://background.tagesspiegel.de/digitalisierung/dis-kurswechsel-in-der-digitalpolitik) zum Bündnis erschienen. 
 
-Das Bündnis F5 wird Gesetzesvorhaben begleiten und Debatten vorantreiben, die richtungsweisend sind und gleichzeitig im politischen Tagesgeschäft zu kurz kommen. Zudem wird es einen Workshop geben, bei dem das Bündnis Neuabgeordneten einen Crashkurs zu gemeinwohlorientierter Digitalpolitik gibt. “Uns ist es wichtig, die Stimme der Digitale Zivilgesellschaft stärker in gesellschaftspolitischen Debatten einzubringen. In unserem deutschlandweiten Netzwerk Code for Germany bringen wir digitale Ehrenamtliche zusammen, um vorort an digitalen Werkzeuge für die Lösung gesellschaftlicher Probleme zu arbeiten. Mit dem Transparenzportal FragDenStaat arbeiten wir seit zehn Jahren daran, mehr Offenheit in politische Prozesse zu bringen,“ sagt Henriette Litta.
+Das Bündnis F5 wird Gesetzesvorhaben begleiten und Debatten vorantreiben, die richtungsweisend sind und gleichzeitig im politischen Tagesgeschäft zu kurz kommen. Zudem wird es einen Workshop geben, bei dem das Bündnis Neuabgeordneten einen Crashkurs zu gemeinwohlorientierter Digitalpolitik gibt. “Uns ist es wichtig, die Stimme der Digitale Zivilgesellschaft stärker in gesellschaftspolitischen Debatten einzubringen. In unserem deutschlandweiten Netzwerk Code for Germany bringen wir digitale Ehrenamtliche zusammen, um vorort an digitalen Werkzeugen für die Lösung gesellschaftlicher Probleme zu arbeiten. Mit dem Transparenzportal FragDenStaat arbeiten wir seit zehn Jahren daran, mehr Offenheit in politische Prozesse zu bringen,“ sagt Henriette Litta.
 
 Bei Rückfragen schreibt uns gern an presse@okfn.de
