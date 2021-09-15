@@ -6,7 +6,25 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Government</title>
+      <link>https://okfn.de/tags/open-government/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/open-government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zivilgesellschaft</title>
+      <link>https://okfn.de/tags/zivilgesellschaft/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/zivilgesellschaft/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bildungspolitik</title>
       <link>https://okfn.de/tags/bildungspolitik/</link>
@@ -31,15 +49,6 @@
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/infrastructure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zivilgesellschaft</title>
-      <link>https://okfn.de/tags/zivilgesellschaft/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/zivilgesellschaft/</guid>
       <description></description>
     </item>
     
@@ -265,15 +274,6 @@
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/jugendarbeit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Government</title>
-      <link>https://okfn.de/tags/open-government/</link>
-      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/open-government/</guid>
       <description></description>
     </item>
     

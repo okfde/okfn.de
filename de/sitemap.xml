@@ -219,7 +219,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -231,11 +231,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/bildungspolitik/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -247,14 +244,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2021/09/abschluss-foe/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -266,11 +260,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-education/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2021/09/gruendung-f5/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-government/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -282,6 +279,21 @@
                 href="https://okfn.de/tags/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/bildungspolitik/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2021/09/abschluss-foe/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-education/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/adriana-groh/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -292,9 +304,6 @@
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/katharina-meyer/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/civic-tech/</loc>
@@ -340,9 +349,6 @@
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/07/jahresbericht-2020/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/jahresbericht/</loc>
@@ -488,9 +494,6 @@
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/</loc>
-    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-government/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/03/forum-open-education-2021/</loc>

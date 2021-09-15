@@ -5,10 +5,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OKF gründet gemeinsam mit Partnerorganisationen Bündnis F5 für eine gemeinwohlorientierte Digitalisierung</title>
+      <link>https://okfn.de/blog/2021/09/gruendung-f5/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/09/gruendung-f5/</guid>
+      <description>Die Open Knowledge Foundation Deutschland (OKF), AlgorithmWatch, die Gesellschaft für Freiheitsrechte, Reporter ohne Grenzen und Wikimedia Deutschland schließen sich zum Bündnis F5 zusammen. Ziel der Kooperation ist es, für einen Neustart in der Digitalpolitik (F5) zu werben, um die Digitalisierung an den Interessen der Menschen in Deutschland und Europa auszurichten. Der Fokus sollte in Zukunft auf dem Gemeinwohl liegen, anstatt Interessen von Behörden und die Einnahmen von Tech-Konzerne zum Gradmesser zu machen.</description>
+    </item>
     
     <item>
       <title>Mach mit: für transparente und offene Politikgestaltung</title>

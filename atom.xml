@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-09-01T00:00:00+0000</updated>
+  <updated>2021-09-15T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>OKF gründet gemeinsam mit Partnerorganisationen Bündnis F5 für eine gemeinwohlorientierte Digitalisierung</title>
+    <link rel="alternate" href="https://okfn.de/blog/2021/09/gruendung-f5/"/>
+    <id>https://okfn.de/blog/2021/09/gruendung-f5/</id>
+    <published>2021-09-15T00:00:00+0000</published>
+    <updated>2021-09-15T00:00:00+0000</updated>
+    <summary>Die Open Knowledge Foundation Deutschland (OKF), AlgorithmWatch, die Gesellschaft für Freiheitsrechte, Reporter ohne Grenzen und Wikimedia Deutschland schließen sich zum Bündnis F5 zusammen. Ziel der Kooperation ist es, für einen Neustart in der Digitalpolitik (F5) zu werben, um die Digitalisierung an den Interessen der Menschen in Deutschland und Europa auszurichten. Der Fokus sollte in Zukunft auf dem Gemeinwohl liegen, anstatt Interessen von Behörden und die Einnahmen von Tech-Konzerne zum Gradmesser zu machen.</summary>
+  </entry>
   
   <entry>
     <title>Mach mit: für transparente und offene Politikgestaltung</title>
@@ -146,18 +155,6 @@ Die großen Fragen der OKF Die OKF ist seit zehn Jahren Teil einer aktiven Zivil
     <updated>2021-05-21T00:00:00+0000</updated>
     <summary>Zivilgesellschaft fordert Parteien zu mehr Einsatz gegen Hetze und Desinformation auf Ein breites zivilgesellschaftliches Bündnis mit der Open Knowledge Foundation fordert im Wahlkampf 2021 die Parteien zur Einhaltung eines “Leitfaden für Digitale Demokratie” auf. Die Unterzeichner:innen des Appells richten sich an Wahlkämpfende aller Parteien.
 Noch nie war ein Bundestagswahlkampf so digital wie 2021: In der Pandemie findet Meinungsbildung vor allem online statt. Während es jedoch für den Wahlkampf auf der Straße und im Fernsehen klare Regeln gibt, bleibt der digitale Wahlkampf weitgehend unreglementiert.</summary>
-  </entry>
-  
-  <entry>
-    <title>Vielleicht hilft eine App? – Prototype Fund kritisiert Solutionismus in der Innovationsentwicklung</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/05/ptf-solutionismus-innovationsentwicklung/"/>
-    <id>https://okfn.de/blog/2021/05/ptf-solutionismus-innovationsentwicklung/</id>
-    <published>2021-05-17T00:00:00+0000</published>
-    <updated>2021-05-17T00:00:00+0000</updated>
-    <summary>Pressemitteilung
-Berlin, 17.05.2021
-Es gibt Apps bei Gesundheitsproblemen und gegen Arbeitslosigkeit, Technologien, die vor Diskriminierung schützen oder Gewalt beenden sollen. Kommt bald die App gegen den Hunger?
-Der Prototype Fund kritisiert die Innovationsentwicklung, in der sich vermeintlich alle Probleme dieser Welt mit ein paar Klicks „lösen“ lassen. Nach dieser solutionistischen Ideologie erfüllen Technologien ein deterministisches Eigenleben und erlösen uns von unseren menschlichen Schwächen. Mit der Coronapandemie hat diese Vorstellung weiter an Auftrieb gewonnen.</summary>
   </entry>
   
 </feed>
