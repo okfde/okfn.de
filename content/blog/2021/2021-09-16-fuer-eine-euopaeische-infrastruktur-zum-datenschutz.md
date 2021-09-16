@@ -16,7 +16,7 @@ featured: yellow
 title: Für eine euopäische Infrastruktur zum Datenschutz
 ---
 
-**In diesem Blogartikel meldet sich Datenschutzexpertin Beata Hubrig zu Wort. 
+**In diesem Blogartikel meldet sich die OKF-Datenschutzexpertin Beata Hubrig zu Wort. 
 Die Rechtsanwältin fordert den Einsatz der Europäischen Kommission für den Aufbau einer entsprechenden europäischen Infrastruktur. 
 Im Zuge der anstehenden Bundestagswahl können und sollen die Weichen für einen solchen Ansatz in Deutschland und der EU gestellt werden.**
 
