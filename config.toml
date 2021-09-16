@@ -68,3 +68,8 @@ section = [ "HTML", "Atom", "Json", "Rss" ]
 
 [frontmatter]
 date  = [":filename", ":default"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
