@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Für eine euopäische Infrastruktur zum Datenschutz</title>
+      <link>https://okfn.de/blog/2021/09/fuer-eine-euopaeische-infrastruktur-zum-datenschutz/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/09/fuer-eine-euopaeische-infrastruktur-zum-datenschutz/</guid>
+      <description>In diesem Blogartikel meldet sich Datenschutzexpertin Beata Hubrig zu Wort. Die Rechtsanwältin fordert den Einsatz der Europäischen Kommission für den Aufbau einer entsprechenden europäischen Infrastruktur. Im Zuge der anstehenden Bundestagswahl können und sollen die Weichen für einen solchen Ansatz in Deutschland und der EU gestellt werden.
+In der gestrigen Rede der EU-Kommissionspräsidentin Ursula von der Leyen zur Lage Europas legte sie unverändert einen Schwerpunkt auf die Digitalisierung in Europa. Dazu gehört, meiner Meinung nach, besonders die Übernahme der politischen Verantwortung für Safe Harbor und das Data Privacy Shield.</description>
+    </item>
     
     <item>
       <title>OKF gründet gemeinsam mit Partnerorganisationen Bündnis F5 für eine gemeinwohlorientierte Digitalisierung</title>

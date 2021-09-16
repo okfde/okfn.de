@@ -6,7 +6,16 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>https://okfn.de/tags/datenschutz/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/datenschutz/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Open Government</title>
       <link>https://okfn.de/tags/open-government/</link>
@@ -490,15 +499,6 @@
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/nachhaltigkeit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Datenschutz</title>
-      <link>https://okfn.de/tags/datenschutz/</link>
-      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/datenschutz/</guid>
       <description></description>
     </item>
     
