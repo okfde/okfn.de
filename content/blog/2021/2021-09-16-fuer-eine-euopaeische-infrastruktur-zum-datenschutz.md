@@ -13,7 +13,7 @@ type: post
 layout: post
 published: true
 featured: yellow
-title: Für eine euopäische Infrastruktur zum Datenschutz
+title: Für eine europäische Infrastruktur zum Datenschutz
 ---
 
 **In diesem Blogartikel meldet sich die OKF-Datenschutzexpertin Beata Hubrig zu Wort. 
