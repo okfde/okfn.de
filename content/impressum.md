@@ -44,6 +44,7 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Sie sind mit einer Creative Commons Lizenz urheberrechtlich geschützt. Sofern nicht anders angegeben, stehen die Inhalte dieser Seite unter der Creative Commons Namensnennung 3.0 DE Lizenz. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
 <div id="datenschutzerklaerung"></div>
+
 ## Datenschutzerklärung
 
 Die Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (nachfolgend als „Open Knowledge Foundation“ oder „wir“ bezeichnet) betreibt die im Internet unter https://okfn.de/ und den jeweils dazu gehörenden Unterverzeichnissen abrufbare Internetseite (nachfolgend „okfn.de“ oder die „Website“).
