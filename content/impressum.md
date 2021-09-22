@@ -100,6 +100,14 @@ Diese Informationen bleiben für uns anonym. Ein Rückschluss auf eine Person is
 
 Nehmen Sie unter der auf unserer Website angegebenen E-Mail-Adresse Kontakt zu uns auf, teilen Sie uns zumindest Ihre E-Mail-Adresse mit, sowie gegebenenfalls weitere Informationen, die Sie in Ihrer E-Mail preisgeben. Damit wir Ihr Anliegen bearbeiten können, müssen wir diese Daten verarbeiten.
 
+##### Newsletterdaten
+
+Wenn Sie den auf der Website angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen unserer Überprüfung, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind (Bestätigungs-E-mail). Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben diese nicht an Dritte weiter.
+
+Die Verarbeitung der in das Newsletteranmeldeformular eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die erteilte Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen, etwa über den „Austragen“-Link im Newsletter. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+
+Die von Ihnen zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Ihrer Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters gelöscht.
+
 #### 3. Zwecke und Rechtsgrundlage der Datenverarbeitung
 
 Die Verarbeitung Ihrer IP-Adresse während des Verbindungsaufbaus erfolgt, damit wir Ihnen unsere Website zur Verfügung stellen können. Sie basiert auf Art. 6 Abs. 1 lit. f) DS-GVO. Unser berechtigtes Interesse besteht im genannten Zweck.
