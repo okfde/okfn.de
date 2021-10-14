@@ -6,7 +6,7 @@ title: MoFab
 tile: double
 layout: project
 img: projects/mofab_oshw.png
-img_header: projects/102_CarlaCargoCrowd_2D_003.JPG
+img_header: projects/mofab_head.JPG
 website: https://digitale-reparaturfabrik.de/projekte/
 people:
   - name: Maximilian Voigt

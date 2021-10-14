@@ -3,10 +3,10 @@ authors:
 - Maximilian Voigt
 date: 2021-08-18
 image:
-  src: /files/projects/102_CarlaCargoCrowd_2D_003.JPG
-  title: Carla Cargo Drawing
-  license: CC-BY-NC 4.0 Carla Cargo
-  license_url: https://creativecommons.org/licenses/by-nc/4.0/
+  src: https://preciousplastic.com/images/basic-extruder.jpg
+  title: Precious Plastic Extrusion
+  license: CC-BY-SA 4.0 
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
 tags:
 - Open Hardware
 - Civic Tech
