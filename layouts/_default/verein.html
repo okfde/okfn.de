@@ -30,12 +30,15 @@
         {{ .Content }}
       </div>
     </div>
+    {{ $team_count := len (where .Site.Data.team "staff" 1) }}
     <div class="row l__verein__stats mt-d mb-d">
       {{ with .Params.stats }}
-      {{ range .}}
+      {{ range $index, $item := . }}
       <div class="col col-12 col-sm-6 col-md-4 mb-d">
-        <p><span class="h1">{{.number}}</span><br>
-          {{.text}}
+        <p>
+          <span class="h1">{{ replace $item.number "$team_count" $team_count }}</span>
+          <br>
+          {{ replace $item.text "$team_count" $team_count }}
         </p>
       </div>
       {{ end }}
