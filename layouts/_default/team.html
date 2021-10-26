@@ -19,11 +19,12 @@
 
 {{ define "main" }}
 {{ $team := where .Site.Data.team "staff" 1 }}
+{{ $lang := .Lang }}
 <main>
   <div class="container l__team">
     <div class="row l__team__title">
       <h1 class="col col-12 col-sm-10">
-        {{ if eq .Lang "en"}}
+        {{ if eq $lang "en"}}
           We are {{ len $team }} activists, policy specialists & developers
         {{ else }}
           Wir sind {{ len $team }} Aktivist*innen, Policy-Spezialist*innen & Entwickler*innen
@@ -36,7 +37,7 @@
       <li class="col col-12 col-sm-6 col-lg-4">
         <img src="/team/{{.img}}.jpg" alt="{{.img}}">
         <h2 class="h3">{{.name}}</h2>
-        {{ if eq .Lang "en"}}
+        {{ if eq $lang "en"}}
           <p class="l__team__meta">{{.position_en}}</p>
           <p>{{.bio_en | markdownify}}</p>
         {{ else }}
