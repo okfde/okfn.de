@@ -23,7 +23,7 @@ people:
   - name: Gregor Gilka
 financing:
   - BMBF
-contact_person: 
+contact_person: patricialeu
 contact_alternate_email: info@prototypefund.de
 years: 2016 - heute
 website: https://prototypefund.de
