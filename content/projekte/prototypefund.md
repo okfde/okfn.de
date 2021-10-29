@@ -14,10 +14,10 @@ img_header: projects/PrototypeFund_Header.png
 layout: project
 weight: 4
 people:
-  - name: Patricia leu
-    role: Co-Projektleitung / Schwerpunkt Kommunikation und Projektmanagement
+  - name: Patricia Leu
+    role: Co-Projektleitung \/ Schwerpunkt Kommunikation und Projektmanagement
   - name: Marie Gutbub
-    role: Co-Projektleitung / Schwerpunkt: Projektmanagement und Events
+    role: Co-Projektleitung \/ Schwerpunkt: Projektmanagement und Events
   - name: Claudia Jach
     role: Begleitforschung
   - name: Gregor Gilka
