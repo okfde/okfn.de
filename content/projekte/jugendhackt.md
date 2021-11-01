@@ -23,10 +23,10 @@ people:
     role: Projektmanagerin
   - name: Philip Steffan
     role: Community und Kommunikation
+  - name: Anne Ware
+    role: Fundraising
   - name: Ivan Botica
     role: Studentischer Mitarbeiter Finanzen  
-  - name: Sonja Fischbauer
-    role: Spenden und Sponsorings
 contact_person: mechthildschmidt
 years: 2012 - heute
 partners:
