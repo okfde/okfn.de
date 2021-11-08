@@ -5,33 +5,9 @@
     <description>Jobs on OKF DE</description>
     
     
-    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/jobs/rss.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Jugend hackt sucht ein*e Fundraiser*in (80%, Bewerbungsschluss verlängert auf 31.08.2021)</title>
-      <link>https://okfn.de/jobs/jugendhackt-fundraising/</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/jobs/jugendhackt-fundraising/</guid>
-      <description>Zur Verstärkung des Jugend hackt Teams suchen wir:
-Fundraiser*in (80%) ab November 2021, Bewerbungsschluss verlängert auf 31. August 2021
-Über Jugend hackt Jugend hackt ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die mit „Code die Welt verbessern“ wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. und von mediale pfade.org - Verein für Medienbildung e.V.
-Wichtiger als formale Qualifikationen sind uns Vorstellungsvermögen, Machertum, Fleiß, ernsthafte Begeisterungsfähigkeit, die Fähigkeit, schnell Neues zu erlernen und, Interesse an gesellschaftlichem Wandel mit Tiefgang.</description>
-    </item>
-    
-    <item>
-      <title>Wir suchen eine eine*n Software-Entwickler*in für FragDenStaat!</title>
-      <link>https://okfn.de/jobs/software-entwicklerin-fragdenstaat/</link>
-      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/jobs/software-entwicklerin-fragdenstaat/</guid>
-      <description>Derdie Software-Entwicklerin arbeitet als Teil eines kleinen Teams an der Code Base von FragDenStaat, um neue Funktionen zu entwickeln, Bugs zu fixen und Design-Entwürfe umzusetzen.
-Wir streben eine gleichmäßige Repräsentation gesellschaftlicher Gruppen im Team an und möchten den Anteil von Menschen mit Migrationsgeschichte, Schwarzen Personen/PoCs und Menschen mit Behinderungen im Team erhöhen.
-Wer wir sind FragDenStaat ist das Portal für Informationsfreiheit in Deutschland. Seit 2011 ermöglicht es allen Menschen, einfach und transparent Informationen von Behörden zu befreien – mit technischen Tools, Kampagnen, strategischen Klagen und journalistischer Berichterstattung.</description>
-    </item>
     
   </channel>
 </rss>

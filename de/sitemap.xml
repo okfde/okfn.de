@@ -375,25 +375,6 @@
     <loc>https://okfn.de/blog/2021/07/freiheit-fuer-wissen-freiheit-fuer-uns/</loc>
     <lastmod>2021-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
-                />
-  </url><url>
-    <loc>https://okfn.de/jobs/jugendhackt-fundraising/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
-    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/authors/maximilian-voigt-patricia-leu/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -408,9 +389,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/06/digitale-kolonialisierung-stoppen/</loc>
     <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/jobs/software-entwicklerin-fragdenstaat/</loc>
-    <lastmod>2021-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/andreas-pawelke/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
@@ -557,6 +535,9 @@
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/jobs/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/maximilian-richt/</loc>
@@ -3526,6 +3507,18 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/impressum/"
+                />
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/kleineanfragen/</loc>
