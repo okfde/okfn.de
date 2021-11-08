@@ -8,7 +8,7 @@ image:
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
-published: true
+published: false
 title: "Jugend hackt sucht ein*e Fundraiser*in (80%, Bewerbungsschluss verlängert auf 31.08.2021)"
 ---
 

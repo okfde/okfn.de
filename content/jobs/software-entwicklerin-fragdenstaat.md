@@ -1,14 +1,14 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
 date: 2021-06-05
 image:
   src: /files/jobs/fds1.png
   title: "FragDenStaat-Logo"
   license:
-  license_url: 
-published: true
-title: "Wir suchen eine eine*n Software-Entwickler*in für FragDenStaat!" 
+  license_url:
+published: false
+title: "Wir suchen eine eine*n Software-Entwickler*in für FragDenStaat!"
 ---
 
 Der*die Software-Entwickler*in arbeitet als Teil eines kleinen Teams an der Code Base von FragDenStaat, um neue Funktionen zu entwickeln, Bugs zu fixen und Design-Entwürfe umzusetzen.
@@ -79,7 +79,7 @@ Du solltest Freude daran haben, an der Schnittstelle von Technik und Politik neu
 ## Was wir bieten
 
 Wir bieten dir:
- 
+
 - Eine sinnstiftende Tätigkeit zur Stärkung von Demokratie und Informationsfreiheit
 
 - enge Zusammenarbeit mit dem hauptamtlichen Team von FragDenStaat sowie mit unseren Kooperationspartner:innen
