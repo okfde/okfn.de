@@ -11,6 +11,8 @@ website: https://digitale-reparaturfabrik.de/projekte/
 people:
   - name: Maximilian Voigt
     role: Projektleiter
+  - name: Dr. Daniel Wessolek
+    role: Projektmanager
 contact:
   twitter:
   mail: maximilian.voigt@okfn.de
