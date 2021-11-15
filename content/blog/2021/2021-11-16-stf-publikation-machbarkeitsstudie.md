@@ -40,6 +40,8 @@ Mit dem dafür vorgeschlagenen neuen Förderprogramm sollen die folgenden **Ziel
 
 Die STF Machbarkeitsstudie wurde von Adriana Groh, Katharina Meyer, Fiona Krakenbürger und Eileen Wagner verfasst und ist über [diesen Link](https://cloud.prototypefund.de/s/C7yDtYRo44Rp5w5) verfügbar.
 
+Website Sovereign Tech Fund: https://infrastructurefund.de/
+
 Die Machbarkeitsstudie wurde vom Bundesministerium für Wirtschaft und Energie gefördert.
 
 +++
