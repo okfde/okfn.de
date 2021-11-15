@@ -36,7 +36,7 @@ Mit dem dafür vorgeschlagenen neuen Förderprogramm sollen die folgenden **Ziel
 * Die Innovationskraft von Unternehmen und öffentlichen Einrichtungen wird durch bessere digitalen Grundlagen für Weiterentwicklung und Neuentwicklung erhöht.
 * Ein Wissenshub für Vernetzung und den Wissenstransfer zwischen Forschung, Anwender:innen, Anbieter:innen und den verschiedenen Softwarecommunitys entsteht. 
 
-Die Machbarkeitsstudie wurde von Adriana Groh, Katharina Meyer, Fiona Krakenbürger und Eileen Wagner verfasst und ist über [diesen Link](https://cloud.prototypefund.de/s/C7yDtYRo44Rp5w5/download) verfügbar.
+Die Machbarkeitsstudie wurde von Adriana Groh, Katharina Meyer, Fiona Krakenbürger und Eileen Wagner verfasst und ist über [diesen Link](https://cloud.prototypefund.de/s/C7yDtYRo44Rp5w5) verfügbar.
 
 Die Machbarkeitsstudie wurde vom Bundesministerium für Wirtschaft und Energie gefördert.
 
