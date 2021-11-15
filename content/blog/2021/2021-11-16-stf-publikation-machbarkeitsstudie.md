@@ -36,7 +36,7 @@ Mit dem dafür vorgeschlagenen neuen Förderprogramm sollen die folgenden **Ziel
 
 Die Machbarkeitsstudie wurde von Adriana Groh, Katharina Meyer, Fiona Krakenbürger und Eileen Wagner verfasst und ist über [diesen Link] verfügbar.
 
-Die Machbarkeitsstudie wurde vom Bundesministerium für Wirtschaft gefördert.
+Die Machbarkeitsstudie wurde vom Bundesministerium für Wirtschaft und Energie gefördert.
 
 +++
 
