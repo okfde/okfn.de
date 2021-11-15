@@ -27,7 +27,7 @@ Projektleiterin und Co-Autorin Adriana Groh: _“Open Source ist zu einer große
 
 Es wird daher höchste Zeit, die Relevanz von Wartung und Absicherung Offener Digitaler Basistechnologien zu erkennen und die Aufmerksamkeit nicht nur auf die Förderung von Innovationen zu legen. Die Sicherheit und Qualität offener Softwarekomponenten wird maßgeblich mitbestimmen, wie resilient und wettbewerbsfähig das Software-Ökosystem in Deutschland und Europa in Zukunft ist. Unter digitaler Souveränität wird in diesem Kontext das Sichern von Handlungsoptionen und Unabhängigkeit verstanden, das durch Investitionen in Offene Digitale Basistechnologien und die damit entstehende größere Auswahlmöglichkeit offener und sicherer Alternativen unterstützt werden kann. Diese Unterstützung muss flexibel an eine diverse Gruppe an Empfänger:innen fließen, da digitale Basistechnologien dezentral in Communitys, Unternehmen und von Einzelpersonen entwickelt und gepflegt werden.
 
-![STF_mission](/files/blog/2021/09/STF_mission.png "STF")
+![STF_mission](/files/blog/2021/09/STF_mission.png)
 
 Mit dem dafür vorgeschlagenen neuen Förderprogramm sollen die folgenden **Ziele** verfolgt werden:
 * Offene Digitale Basistechnologien werden durch das Bereitstellen von Ressourcen für identifizierte Akteur:innen und neue Zielgruppen im Open-Source-Ökosystem gesichert und verbessert.
