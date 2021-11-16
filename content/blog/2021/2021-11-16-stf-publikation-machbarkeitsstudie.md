@@ -12,7 +12,7 @@ tags:
 - Basistechnologien
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: Wir brauchen ein Förderprogramm für Offene Digitale Basistechnologien
 ---
