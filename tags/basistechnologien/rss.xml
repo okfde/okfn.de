@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basistechnologien on OKF</title>
+    <link>https://okfn.de/tags/basistechnologien/</link>
+    <description>Recent content in Basistechnologien on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/basistechnologien/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir brauchen ein Förderprogramm für Offene Digitale Basistechnologien</title>
+      <link>https://okfn.de/blog/2021/11/stf-publikation-machbarkeitsstudie/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2021/11/stf-publikation-machbarkeitsstudie/</guid>
+      <description>Berlin, 16.11.2021
+Die Gestaltung der Digitalisierung muss eines der zentralen Themen der neuen Bundesregierung werden. Um die digitale Souveränität Deutschlands zu stärken, brauchen wir ein starkes Open Source Ökosystem. Damit dieses auf stabilen Füßen stehen kann, braucht es dringend ein Förderprogramm für Offene Digitale Basistechnologien. Die Open Knowledge Foundation Deutschland hat mithilfe verschiedener Expertinnen in einer heute veröffentlichten Machbarkeitsstudie analysiert, wie ein solches umfassendes Förderinstrument aussehen könnte und was es braucht, um mit der Umsetzung loszulegen.</description>
+    </item>
+    
+  </channel>
+</rss>

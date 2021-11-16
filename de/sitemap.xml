@@ -218,8 +218,11 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/adriana-groh/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -231,11 +234,11 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/beata-hubrig/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/basistechnologien/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -247,14 +250,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/datenschutz/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2021/09/fuer-eine-euopaeische-infrastruktur-zum-datenschutz/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/infrastructure/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -267,7 +267,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -278,6 +278,18 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2021/11/stf-publikation-machbarkeitsstudie/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/beata-hubrig/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/datenschutz/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2021/09/fuer-eine-euopaeische-infrastruktur-zum-datenschutz/</loc>
+    <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
@@ -302,12 +314,6 @@
   </url><url>
     <loc>https://okfn.de/tags/open-education/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/adriana-groh/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/infrastructure/</loc>
-    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/08/stf-infrastructure/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
