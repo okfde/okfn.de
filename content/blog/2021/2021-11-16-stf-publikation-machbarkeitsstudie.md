@@ -42,8 +42,6 @@ Die STF Machbarkeitsstudie wurde von Adriana Groh, Katharina Meyer, Fiona Kraken
 
 Die Machbarkeitsstudie wurde vom Bundesministerium für Wirtschaft und Energie gefördert.
 
-Thomas Jarzombek, Beauftragter des Bundeswirtschaftsministeriums für die Digitale Wirtschaft und Start-ups, sagt zur Studie: _"Mit einer Initiative zur Förderung von Open Source Basistechnologien können wir das globale Ökosystem für quelloffene Software unterstützen und leisten einen wichtigen Beitrag für offene Systeme und technologische Souveränität. Hier würde Deutschland global eine vielbeachtete Rolle einnehmen. Open Source Technologien sind die Basis für viele kommerzielle wie auch besonders kritische Technologien. Es ist im nationalen wie europäischen Interesse, dieses Ökosystem zu pflegen. Die Wartung und Weiterentwicklung von Open Source Basistechnologien ist eine unverzichtbare Grundlage, wenn es darum geht Innovation zu fördern und zur digitalen Souveränität beizutragen"._
-
 +++
 
 Pressekontakt: presse@okfn.de
