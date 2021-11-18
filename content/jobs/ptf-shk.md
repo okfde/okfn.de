@@ -27,13 +27,13 @@ Du hast ein Herz für Tech-Projekte aller Art und für Free & Open Source Softwa
 #### Wichtig für uns ist:
 - Du interessierst dich für (FOSS-)Technologien und hast Lust, dich mit vielen verschiedenen (und spannenden!) Projekten auseinanderzusetzen und diese zu verstehen.
 - Du bringst technische Grundkenntnisse mit, kennst dich mit Github aus und bastelst gern mal an Skripten.
-- Du bist kommunikativ und daran interessiert, Communities und bestehende oder neue Ideen und Entwickler*innen zu vernetzen.
-- Du bist ein*e Teamplayer*in.
+- Du bist kommunikativ und daran interessiert, Communities und bestehende oder neue Ideen und Entwickler\*innen zu vernetzen.
+- Du bist ein\*e Teamplayer\*in.
 
 
 ## SHK mit Schwerpunkt Kommunikation
 
-Du willst gemeinsam mit uns den Prototype Fund gestalten, Public Interest Tech in Deutschland voranbringen und die Ideen der Entwickler*innen in die Öffentlichkeit tragen. Du kannst gut schreiben und übernimmst gern Recherche-Aufgaben. 
+Du willst gemeinsam mit uns den Prototype Fund gestalten, Public Interest Tech in Deutschland voranbringen und die Ideen der Entwickler\*innen in die Öffentlichkeit tragen. Du kannst gut schreiben und übernimmst gern Recherche-Aufgaben. 
 
 #### Deine Aufgaben:
 - Du unterstützt uns bei der Eventvorbereitung und -durchführung (Flyer, Website).
@@ -47,7 +47,7 @@ Du willst gemeinsam mit uns den Prototype Fund gestalten, Public Interest Tech i
 - Du interessierst dich für (FOSS-)Technologien und hast Lust, dich mit vielen verschiedenen (und spannenden!) Projekten auseinanderzusetzen und diese zu verstehen.
 - Du schreibst gern und hast ein Händchen für Social Media.
 - Du bist kommunikativ und daran interessiert, Communities und bestehende oder neue Ideen und Entwickler*innen zu vernetzen.
-- Du bist ein*e Teamplayer*in.
+- Du bist ein\*e Teamplayer\*in.
 
 ## Wir bieten dir:
 - die Mitarbeit an einem spannenden Projekt mit einer engagierten Community und einem großartigen Team,
@@ -60,16 +60,15 @@ Du willst gemeinsam mit uns den Prototype Fund gestalten, Public Interest Tech i
 
 ### Weitere Infos:
 
-- Vertragsbeginn: am liebsten zum 17.01.22
-- Laufzeit: Zunächst Befristung auf 1 Jahr mit Aussicht auf Verlängerung
-- Zeitl. Aufwand: 15 h/Woche
-- Arbeitszeiten sprechen wir individuell mit euch ab, sodass sie zu euren Studienplänen passen.
-- Gehalt: 906,05€ bei 15h/Woche (nach TV Stud III Berlin § 7 (1)) 
-Ort: Berlin
+- **Vertragsbeginn**: am liebsten zum 17.01.22
+- **Laufzeit**: Zunächst Befristung auf 1 Jahr mit Aussicht auf Verlängerung
+- **Zeitl. Aufwand**: 15 h/Woche. Arbeitszeiten sprechen wir individuell mit euch ab, sodass sie zu euren Studienplänen passen.
+- **Gehalt**: 906,05€ bei 15h/Woche (nach TV Stud III Berlin § 7 (1)) 
+- **Ort**: Berlin
 - **Bewerbungsfrist: 13.12.2021**
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen*, BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Unser Büro ist eingeschränkt barrierefrei (es ist z. B. über Fahrstuhl erreichbar, aber die Toiletten sind nicht barrierefrei). Wir arbeiten hier an Lösungen, bei Bedarf und Interesse gern auch mit dir zusammen.
-Für beide Stellen haben wir Profile definiert, die zusammen alle Aufgaben abdecken, bei denen wir uns Unterstützung wünschen; diese sind jedoch flexibel und je nach Qualifikationen und Interessen der Bewerber*innen auch noch anpassbar bzw. vermischbar. 
+Für beide Stellen haben wir Profile definiert, die zusammen alle Aufgaben abdecken, bei denen wir uns Unterstützung wünschen; diese sind jedoch flexibel und je nach Qualifikationen und Interessen der Bewerber\*innen auch noch anpassbar bzw. vermischbar. 
 
 Wichtiger als formale Qualifikationen sind uns ernsthafte Begeisterung für unsere Themen, die Fähigkeit, schnell Neues zu erlernen und Interesse an gesellschaftlichem Wandel mit Tiefgang. Wenn du also das Gefühl hast, die Punkte unten nicht 100%ig zu erfüllen, dich aber trotzdem bei uns einbringen möchtest, dann bewirb dich in jedem Fall trotzdem!
 Bewerbungen (Lebenslauf, Anschreiben mit Motivation) bitte ohne Foto und Altersangabe bis 13.12.2021 an: bewerbung@prototypefund.de.
