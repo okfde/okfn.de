@@ -7934,6 +7934,18 @@
  
    ,
      {
+       "url": "https://okfn.de/newsletter/",
+       "title": "Vielen Dank",
+       "section": "",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Bitte","bestätige","deine","Anmeldung","zu","unserem","Newsletter","über","den","Link","in","der","Mail,","die","du","erhalten","hast."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/projekte/volksentscheid/",
        "title": "Volksentscheid Transparenz Berlin",
        "section": "projekte",
