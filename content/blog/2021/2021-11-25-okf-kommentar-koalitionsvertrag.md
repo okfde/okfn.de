@@ -12,12 +12,12 @@ tags:
 - zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: Der Koalitionsvertrag liegt vor':' In der Digitalpolitik soll vieles anders werden. Gut so. Aber bitte auch liefern.
 ---
 
-**Gestern hat die Ampel ihren [Koalitionsvertrag](https://fragdenstaat.de/dokumente/142083-koalitionsvertrag-2021-2025/#page-1) vorgestellt. Für die Digitalpolitik nimmt sie sich viel vor. Sehr erfreulich ist der vorgenommene Perspektivwechsel: Im Zentrum der Vorschläge stehen die Bürger:innen, mit ihren Rechten, ihrem Bedürfnis nach Sicherheit und dem Wunsch nach mehr Partizipation. Darüber hinaus gelingt es den Verhandelnden, die Digitalpolitik in ihrer gesamten Bandbreite quer über alle Themen zu verankern: Von der Infrastruktur, den Digitalkompetenzen, den Verbraucher:innenrechten bis zur IT-Sicherheit und der Außenpolitik. Aus der Zivilgesellschaft bekommt die Ampel daher viel Lob zum Start. Ob sie die ambitionierten Pläne wirklich umsetzt, werden wir ab jetzt kritisch begleiten.**
+**Gestern hat die Ampel ihren [Koalitionsvertrag](https://fragdenstaat.de/dokumente/142083-koalitionsvertrag-2021-2025/#page-1) vorgestellt. Für die Digitalpolitik nimmt sie sich viel vor. Sehr erfreulich ist der vorgenommene Perspektivwechsel: Im Zentrum der Vorschläge stehen die Bürger:innen mit ihren Rechten, ihrem Bedürfnis nach Sicherheit und dem Wunsch nach mehr Partizipation. Darüber hinaus ist es den Verhandelnden gelungen, die Digitalpolitik in ihrer gesamten Bandbreite quer über alle Themen zu verankern: Von der Infrastruktur, den Digitalkompetenzen, den Verbraucher:innenrechten bis zur IT-Sicherheit und der Außenpolitik. Aus der Zivilgesellschaft bekommt die Ampel daher viel Lob zum Start. Ob sie die ambitionierten Pläne wirklich umsetzt, werden wir ab jetzt kritisch begleiten.**
 
 **Transparenzgesetz kommt endlich, aber verbindliche Standards fehlen**
 
@@ -25,13 +25,13 @@ Die Open Knowledge Foundation Deutschland freut sich ausdrücklich über die Ein
 
 **Klares Bekenntnis zu Offener Regierungsführung und zu Public Money Public Code**
 
-Die Formulierung: “hin zu einem ermöglichenden, lernenden und digitalen Staat, der vorausschauend für die Bürgerinnen und Bürger arbeitet” sehen wir als starke Verpflichtung für die Regierungsarbeit. Wir freuen uns über das Bekenntnis zu den Zielen der [Open Government Partnership](https://opengovpartnership.de/). Wir plädieren dafür, die Nationalen Aktionspläne ambitionierter zu gestalten und alle Ressorts zum Entwickeln von Maßnahmen zu verpflichten. Eine verstärkte Einbindung der Bundesländer und Städte, wie z.B. durch die OGP Local Initiative, und eine Umsetzung von “Offener Justiz” wäre begrüßenswert. Die Festschreibung von offenen Standards und Open Source bei öffentlichen IT-Projekten ist sehr erfreulich und längst überfällig.
+Die Formulierung “hin zu einem ermöglichenden, lernenden und digitalen Staat, der vorausschauend für die Bürgerinnen und Bürger arbeitet” sehen wir als starke Verpflichtung für die Regierungsarbeit. Wir freuen uns über das Bekenntnis zu den Zielen der [Open Government Partnership](https://opengovpartnership.de/). Wir plädieren dafür, die Nationalen Aktionspläne ambitionierter zu gestalten und alle Ressorts zum Entwickeln von Maßnahmen zu verpflichten. Eine verstärkte Einbindung der Bundesländer und Städte, wie z.B. durch die OGP Local Initiative, und eine Umsetzung von “Offener Justiz” wäre begrüßenswert. Die Festschreibung von offenen Standards und Open Source bei öffentlichen IT-Projekten ist ein weiterer Grund zu großer Freude und längst überfällig.
 
 **Stärkung der Zivilgesellschaft: Wertschätzung ist vorhanden, jetzt muss sie auch mit Partizipation und Finanzierung hinterlegt werden**
 
 Die Ampel möchte eine “Kultur der Zusammenarbeit etablieren, die auch aus der Kraft der Zivilgesellschaft gespeist wird” und die Zivilgesellschaft besser in digitalpolitische Vorhaben einbeziehen. Dies ist ohne Zweifel ein neuer und wünschenswerter Ansatz der Politikgestaltung; es zeugt von hoher Wertschätzung gegenüber der Zivilgesellschaft und ihrer vielfältigen Expertise. Um diese Versprechen einlösen zu können, braucht es mehr Repräsentanz der Zivilgesellschaft in Gremien, Runden und Entscheidungsfindungsprozessen aller Art, beispielsweise durch Quotierung in Ausschuss-Anhörungen, und das Aufsetzen von neuen ko-kreativen Projekten zwischen den Sektoren.
 
-Wir freuen uns auch sehr über die Erwähnung des [digitalen Ehrenamts](https://okfn.de/blog/2021/04/digitales-ehrenamt-gemeinwohl/) und der Notwendigkeit, mehr Unterstützung und Sichtbarkeit herzustellen. Viele Ehrenamtliche bringen sich unermüdlich in die Belange ihrer Kommunen ein und entwickeln digitale Lösungen, stellen Infrastruktur zur Verfügung und übernehmen Wartungsarbeiten. Aktuell gibt es für ihre Arbeit weder passende Förderlinien, noch ausreichende Möglichkeiten, gemeinsam an Problemlösungen mit Verwaltungen zu arbeiten. Die geplanten Bürger:innenräte könnten auch für digital Ehrenamtliche eine Möglichkeit zu mehr Interaktion und Sichtbarkeit sein.  
+Wir freuen uns auch sehr über die Erwähnung des [digitalen Ehrenamts](https://okfn.de/blog/2021/04/digitales-ehrenamt-gemeinwohl/) und der Notwendigkeit, mehr Unterstützung und Sichtbarkeit herzustellen. Viele Ehrenamtliche bringen sich unermüdlich in die Belange ihrer Kommunen ein und entwickeln digitale Lösungen, stellen Infrastruktur zur Verfügung und übernehmen Wartungsarbeiten. Aktuell gibt es für ihre Arbeit weder passende Förderlinien, noch ausreichende Möglichkeiten, gemeinsam an Problemlösungen mit Verwaltungen zu arbeiten. Die geplanten Bürger:innenräte könnten für digital Ehrenamtliche eine Möglichkeit zu mehr Interaktion und Sichtbarkeit sein.  
 
 **Förderung von Open Source Basistechnologien**
 
