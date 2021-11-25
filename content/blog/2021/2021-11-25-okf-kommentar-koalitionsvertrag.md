@@ -35,7 +35,7 @@ Wir freuen uns auch sehr über die Erwähnung des [digitalen Ehrenamts](https://
 
 **Förderung von Open Source Basistechnologien**
 
-Mit zunehmender Wichtigkeit von Open Source in allen Bereichen (zukünftig auch im Bund) müssen die Strukturen hinter der jeweiligen Software, also die offenen Basistechnologien, vom Kopf auf die Füße gestellt werden. Aktuell wird vielfältig verbaute Basistechnologie sehr häufig ausschließlich von engagierten Einzelpersonen gewartet und aktualisiert. Es braucht deutlich mehr Infrastruktur und Stabilität. 
+Mit zunehmender Wichtigkeit von Open Source in allen Bereichen (zukünftig auch im Bund) müssen die Infrastrukturen hinter der jeweiligen Software, also die offenen Basistechnologien, vom Kopf auf die Füße gestellt werden. Aktuell wird vielfältig verbaute Basistechnologie sehr häufig ausschließlich von engagierten Einzelpersonen gewartet und aktualisiert. Es braucht deutlich mehr Struktur und Stabilität. 
 
 Mit dem von der Open Knowledge Foundation Deutschland vorgeschlagenen [Sovereign Tech Fund](https://sovereigntechfund.de/) kann eine solche Struktur in Deutschland aufgebaut werden. Die Ampel verpflichtet sich zu Open Source, sie möchte die digitale Zivilgesellschaft im Bereich der Community-basierten Civic Tech Arbeit stärken und definiert als Zukunftsfeld der missionsorientierten Forschung den Bereich der technologischen Souveränität. Damit sind die Grundlagen für die Einrichtung eines solchen Funds aus unserer Sicht gelegt.
 
