@@ -14,7 +14,7 @@ type: post
 layout: post
 published: false
 featured: blue
-title: Der Koalitionsvertrag liegt vor: In der Digitalpolitik soll vieles anders werden. Gut so. Aber bitte auch liefern.
+title: Der Koalitionsvertrag liegt vor':' In der Digitalpolitik soll vieles anders werden. Gut so. Aber bitte auch liefern.
 ---
 
 **Gestern hat die Ampel ihren [Koalitionsvertrag](https://fragdenstaat.de/dokumente/142083-koalitionsvertrag-2021-2025/#page-1) vorgestellt. Für die Digitalpolitik nimmt sie sich viel vor. Sehr erfreulich ist der vorgenommene Perspektivwechsel: Im Zentrum der Vorschläge stehen die Bürger:innen, mit ihren Rechten, ihrem Bedürfnis nach Sicherheit und dem Wunsch nach mehr Partizipation. Darüber hinaus gelingt es den Verhandelnden, die Digitalpolitik in ihrer gesamten Bandbreite quer über alle Themen zu verankern: Von der Infrastruktur, den Digitalkompetenzen, den Verbraucher:innenrechten bis zur IT-Sicherheit und der Außenpolitik. Aus der Zivilgesellschaft bekommt die Ampel daher viel Lob zum Start. Ob sie die ambitionierten Pläne wirklich umsetzt, werden wir ab jetzt kritisch begleiten.**
