@@ -6,7 +6,25 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Politik</title>
+      <link>https://okfn.de/tags/politik/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/politik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zivilgesellschaft</title>
+      <link>https://okfn.de/tags/zivilgesellschaft/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/zivilgesellschaft/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Basistechnologien</title>
       <link>https://okfn.de/tags/basistechnologien/</link>
@@ -40,15 +58,6 @@
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/open-government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zivilgesellschaft</title>
-      <link>https://okfn.de/tags/zivilgesellschaft/</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/zivilgesellschaft/</guid>
       <description></description>
     </item>
     
@@ -1939,15 +1948,6 @@
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/govdata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politik</title>
-      <link>https://okfn.de/tags/politik/</link>
-      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/politik/</guid>
       <description></description>
     </item>
     

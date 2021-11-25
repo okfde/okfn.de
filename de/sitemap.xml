@@ -219,7 +219,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -230,6 +230,57 @@
                 hreflang="de"
                 href="https://okfn.de/authors/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2021/11/okf-kommentar-koalitionsvertrag/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/politik/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
@@ -247,19 +298,6 @@
     <loc>https://okfn.de/authors/marie/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/jobs/ptf-shk/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -269,34 +307,8 @@
     <loc>https://okfn.de/tags/basistechnologien/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/infrastructure/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2021/11/stf-publikation-machbarkeitsstudie/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
@@ -310,16 +322,10 @@
     <loc>https://okfn.de/blog/2021/09/fuer-eine-euopaeische-infrastruktur-zum-datenschutz/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2021/09/gruendung-f5/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/open-government/</loc>
-    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/bildungspolitik/</loc>
@@ -1963,9 +1969,6 @@
     <lastmod>2016-01-22T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/michael-h%C3%B6rz/</loc>
-    <lastmod>2016-01-22T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/politik/</loc>
     <lastmod>2016-01-22T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/portal/</loc>
