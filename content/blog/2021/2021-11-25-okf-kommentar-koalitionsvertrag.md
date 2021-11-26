@@ -4,8 +4,8 @@ authors:
 date: 2021-11-25
 image:
   src: /files/blog/2021/09/Screenshot_KoaVertrag2021.png
-  title: Screenshot_KoaVertrag2021
-  license: 
+  title: Screenshot vom Titel des Koalitionsvertrags
+  license: Screenshot vom Titel des Koalitionsvertrags
   license_url: 
 tags:
 - politik
