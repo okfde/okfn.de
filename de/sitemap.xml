@@ -219,7 +219,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -232,7 +232,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -244,14 +244,20 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2021/11/okf-kommentar-koalitionsvertrag/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/civic-tech/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/community/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2021/12/okf-beim-rc3/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -263,11 +269,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/politik/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-education/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -278,6 +287,15 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2021/11/okf-kommentar-koalitionsvertrag/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/politik/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
@@ -334,29 +352,14 @@
     <loc>https://okfn.de/blog/2021/09/abschluss-foe/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-education/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2021/08/stf-infrastructure/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/katharina-meyer/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/civic-tech/</loc>
-    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2021/08/kickoff-open-hardware-foerdern/</loc>
     <lastmod>2021-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
-    <lastmod>2021-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/community/</loc>
-    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/informationsfreiheit/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
