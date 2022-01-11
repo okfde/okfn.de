@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2021-12-22T00:00:00+0000</updated>
+  <updated>2022-01-11T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Für den Schutz des Pseudonyms</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/01/fuer-den-schutz-des-pseudonyms/"/>
+    <id>https://okfn.de/blog/2022/01/fuer-den-schutz-des-pseudonyms/</id>
+    <published>2022-01-11T00:00:00+0000</published>
+    <updated>2022-01-11T00:00:00+0000</updated>
+    <summary>In diesem Blogartikel meldet sich die OKF-Datenschutzexpertin Beata Hubrig zu Wort. Die Rechtsanwältin tritt dafür ein, dass Nutzer*innen Profile auf Facebook etc. weiterhin unter Pseudonymen verwenden können. Das Oberlandesgericht München hatte zuletzt anders geurteilt.
+Unter einem Pseudonym in der Öffentlichkeit auftreten zu können, ist ein eigentlich unumstrittenes, notwendiges Schutzrecht. Diese Meinung vertrete auch ich, gerade im digitalen öffentlichen Raum, weil ich mich – wie viele andere Nutzer*innen auch – in sozialen Netzwerken gefährdet fühle.</summary>
+  </entry>
   
   <entry>
     <title>Die OKF beim rC3</title>
@@ -144,16 +154,6 @@ Jede*r hat ein Recht auf Zugang zu Informationen – was nun? Informationsfreihe
     <published>2021-06-21T00:00:00+0000</published>
     <updated>2021-06-21T00:00:00+0000</updated>
     <summary>In 10 Jahren OKF hat sich der digitale Datenaustausch explosionsartig entwickelt. Die Ausbreitung und damit auch Macht international agierender Unternehmen ist weit fortgeschritten. Die Welthandelsorganisation (WTO) entwickelt im Rahmen einer „Joint Statement Initiative“ (JSI) seit dem Frühjahr 2019 gemeinsame Regeln (WTO Electronic Commerce Negotiations) für den Handel in der Digitalökonomie. Wir fordern mit Aktivist:innen wie der Anwältin Renata Ávila Pinto den digitalen Kolonialismus zu stoppen und globale Regeln am Gemeinwohl auszurichten.</summary>
-  </entry>
-  
-  <entry>
-    <title>Die OKF der Zukunft – Teil III</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/06/okf-zukunft-teil-drei/"/>
-    <id>https://okfn.de/blog/2021/06/okf-zukunft-teil-drei/</id>
-    <published>2021-06-03T00:00:00+0000</published>
-    <updated>2021-06-03T00:00:00+0000</updated>
-    <summary>Als langjähriges (und vor kurzem ausgeschiedenes) Vorstandsmitglied nehme ich zum Abschied das Privileg in Anspruch, nicht nur laut über die vergangene und gegenwärtige Arbeit der OKF nachzudenken, sondern auch Überlegungen zur zukünftigen Ausrichtung der Organisation anzustellen.
-Teil III Die Innovationsförderung von morgen Der Programme der OKF waren von Beginn an darauf ausgerichtet, Menschen außerhalb der Organisation zu fördern, zu unterstützen und gemeinsam Dinge voranzutreiben. Die 31 OK Labs sind Orte, an denen sich Ehrenamtliche treffen, um lokale Anwendungen für eine offene Gesellschaft zu entwickeln.</summary>
   </entry>
   
 </feed>
