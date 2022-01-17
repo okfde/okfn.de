@@ -3,9 +3,9 @@ type: research
 kategorien:
   - Civic Tech
 title: MoFab
-tile: double 
+tile: double
+layout: project 
 tileclass: dark
-layout: project
 img: projects/mofab_repair.jpg
 img_header: projects/mofab_head.JPG
 website: https://digitale-reparaturfabrik.de/projekte/
