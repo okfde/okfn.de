@@ -1,7 +1,7 @@
 ---
 title: 10 Jahre OKF DE
 blurb: 10 Jahre OKF DE
-subblurb: Die Open Knowledge Foundation Deutschland hat in diesem Jahr 10. Geburtstag – das wollen wir feiern!
+subblurb: Die Open Knowledge Foundation Deutschland hatte 2021 10. Geburtstag – hier blicken wir zurück!
 layout: anniversary
 meta: 10 Jahre OKF DE
 img_header: /okf/DarkBannerWarm.jpg
