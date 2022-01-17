@@ -74,6 +74,18 @@
                 href="https://okfn.de/projekte/codeforde/"
                 />
   </url><url>
+    <loc>https://okfn.de/projekte/prototypefundhardware/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/prototypefundhardware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/prototypefundhardware/"
+                />
+  </url><url>
     <loc>https://okfn.de/profil/wissen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3556,6 +3568,16 @@
                 />
   </url><url>
     <loc>https://okfn.de/projekte/mofab/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/mofab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/mofab/"
+                />
   </url><url>
     <loc>https://okfn.de/projekte/odine/</loc>
     <xhtml:link

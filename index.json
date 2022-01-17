@@ -82,6 +82,20 @@
  
    ,
      {
+       "url": "https://okfn.de/projekte/prototypefundhardware/",
+       "title": "Prototype Fund Hardware",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/pf_oshw.png",
+       
+       
+       "content": []
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/profil/wissen/",
        "title": "Wir setzen uns für offenes Wissen ein",
        "section": "profil",
@@ -7705,7 +7719,7 @@
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "img": "projects/mofab_oshw.png",
+       "img": "projects/mofab_repair.jpg",
        
        
        "content": []

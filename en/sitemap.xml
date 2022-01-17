@@ -74,6 +74,18 @@
                 href="https://okfn.de/en/themen/civic_tech/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/projekte/prototypefundhardware/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/prototypefundhardware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/prototypefundhardware/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/profil/wissen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -576,6 +588,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/kleineanfragen/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/projekte/mofab/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/mofab/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/mofab/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/odine/</loc>

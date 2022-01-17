@@ -82,6 +82,20 @@
  
    ,
      {
+       "url": "https://okfn.de/en/projekte/prototypefundhardware/",
+       "title": "Prototype Fund Hardware",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/pf_oshw.png",
+       
+       
+       "content": []
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/en/profil/wissen/",
        "title": "We promote open knowledge",
        "section": "profil",
@@ -557,6 +571,20 @@
        
        
        "content": ["The","right","to","ask","questions","is","an","important","right","of","MPs","-","and","a","frequently","used","parliamentary","control","instrument.","In","the","German","parliament","alone,","thousands","of","so-called","\u0026ldquo;small","questions\u0026rdquo;","are","asked","in","each","parliamentary","term,","which","must","be","answered","in","writing","by","the","government.","If","you","add","the","questions","asked","in","the","parliaments","of","the","federal","states,","a","huge","pool","of","useful","information","results","which","is","scattered","throughout","the","various","online","archives.","On","kleineanfragen.de","we","collect","and","bundle","these","documents","and","make","them","-","as","a","contribution","to","transparency","and","participation","-","more","easily","accessible","for","the","public.","Awards","Deutschland","–","Land","der","Ideen"]
+       
+     }
+ 
+   ,
+     {
+       "url": "https://okfn.de/en/projekte/mofab/",
+       "title": "MoFab",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/mofab_repair.jpg",
+       
+       
+       "content": []
        
      }
  
