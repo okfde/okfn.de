@@ -231,7 +231,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -243,11 +243,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/beata-hubrig/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -259,14 +256,14 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/datenschutz/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/civic-tech/</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2022/01/fuer-den-schutz-des-pseudonyms/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -278,8 +275,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -291,8 +294,14 @@
                 href="https://okfn.de/tags/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/civic-tech/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/beata-hubrig/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/datenschutz/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/01/fuer-den-schutz-des-pseudonyms/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/community/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
@@ -300,13 +309,7 @@
     <loc>https://okfn.de/blog/2021/12/okf-beim-rc3/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/open-education/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/11/okf-kommentar-koalitionsvertrag/</loc>

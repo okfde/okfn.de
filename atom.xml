@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-01-11T00:00:00+0000</updated>
+  <updated>2022-01-19T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Prototype Fund Hardware gestartet</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/"/>
+    <id>https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/</id>
+    <published>2022-01-19T00:00:00+0000</published>
+    <updated>2022-01-19T00:00:00+0000</updated>
+    <summary>Mit dem Prototype Fund besteht bereits ein Programm zur Förderung von zivilgesellschaftlich orientierter Open-Source-Software. Insgesamt wurden bereits 248 Projekte unterstützt, die großartige Ergebnisse hervorgebracht haben. Immer wieder kamen auch Bewerbungen aus dem Bereich der Hardware, die allerdings aus formalen Gründen nicht gefördert werden können. Das versuchen wir - Daniel Wessolek und Maximilian Voigt - nun mit unserem Partnerprogramm zu ändern und damit eine Lücke zu schließen.
+Denn ein Förderprogramm für offene Hardware ist ein Anliegen, an dem einige schon lange arbeiten und das viele ebenso lange herbeisehnen.</summary>
+  </entry>
   
   <entry>
     <title>Für den Schutz des Pseudonyms</title>
@@ -145,15 +155,6 @@ Ein Bildschirmgespräch zum 10. Geburtstag der OKF
 20. Juli 2021, 18 - 19 Uhr
 Zum Livestream auf YouTube
 Jede*r hat ein Recht auf Zugang zu Informationen – was nun? Informationsfreiheit ist dank FragDenStaat kein Fremdwort mehr. Dennoch sind sich immer noch viele ihrer Rechte nicht bewusst.</summary>
-  </entry>
-  
-  <entry>
-    <title>WTO eCommerce: digitale Kolonialisierung stoppen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/06/digitale-kolonialisierung-stoppen/"/>
-    <id>https://okfn.de/blog/2021/06/digitale-kolonialisierung-stoppen/</id>
-    <published>2021-06-21T00:00:00+0000</published>
-    <updated>2021-06-21T00:00:00+0000</updated>
-    <summary>In 10 Jahren OKF hat sich der digitale Datenaustausch explosionsartig entwickelt. Die Ausbreitung und damit auch Macht international agierender Unternehmen ist weit fortgeschritten. Die Welthandelsorganisation (WTO) entwickelt im Rahmen einer „Joint Statement Initiative“ (JSI) seit dem Frühjahr 2019 gemeinsame Regeln (WTO Electronic Commerce Negotiations) für den Handel in der Digitalökonomie. Wir fordern mit Aktivist:innen wie der Anwältin Renata Ávila Pinto den digitalen Kolonialismus zu stoppen und globale Regeln am Gemeinwohl auszurichten.</summary>
   </entry>
   
 </feed>
