@@ -49,6 +49,9 @@ Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilli
 
 Einige Städte haben bereits Open Data Programme und stellen Datensätze offen zur Verfügung, vielerorts mangelt es jedoch noch an Anwendungen und Beispielen, die den praktischen Nutzen von offenen Daten aufzeigen – genau hier setzt Code for Germany an. Neben Software Projekten wird auch an „Do it yourself“ Hardware Projekten gearbeitet wie dem Netzwerk an Feinstaubsensoren oder dem Long Range Wide Area Network (LoRaWan).
 
-Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf 26 Labs angewachsen und umfasst eine Community von über 500 Freiwilligen. 
+Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf rund 20 Labs angewachsen und umfasst eine Community von über 500 Freiwilligen. 
 
-Im Jahr 2020 wurde unser Jahresfokus "Code for Climate" mit Mitteln der Deutschen Postcode Lotterie unterstützt.
+<b> Fördergeber:innen und Finanzierung </b>: 
+Im Jahr 2022 wird das Netzwerk im Projekt 'Code for Germany - Digitale Nachhaltigkeit stärken' von der Deutschen Postcode Lotterie unterstützt. 
+Prozesse rund um unsere Communityarbeit werden im Jahr 2022 gefördert durch den Fonds Soziokultur aus Mitteln der Beauftragten der Bundesregierung für Kultur und Medien im Rahmen von NEUSTART KULTUR.
+
