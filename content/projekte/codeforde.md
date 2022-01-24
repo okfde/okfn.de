@@ -51,7 +51,8 @@ Einige Städte haben bereits Open Data Programme und stellen Datensätze offen z
 
 Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf rund 20 Labs angewachsen und umfasst eine Community von über 500 Freiwilligen. 
 
-<b> Fördergeber:innen und Finanzierung </b>: 
+<b> Fördergeber:innen und Finanzierung: </b>
+
 Im Jahr 2022 wird das Netzwerk im Projekt 'Code for Germany - Digitale Nachhaltigkeit stärken' von der Deutschen Postcode Lotterie unterstützt. 
 Prozesse rund um unsere Communityarbeit werden im Jahr 2022 gefördert durch den Fonds Soziokultur aus Mitteln der Beauftragten der Bundesregierung für Kultur und Medien im Rahmen von NEUSTART KULTUR.
 
