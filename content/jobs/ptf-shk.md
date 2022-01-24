@@ -7,7 +7,7 @@ image:
   title:
   license:
   license_url:
-published: true
+published: false
 title: "Studentische Hilfskraft mit Schwerpunkt Tech, ca. 15 Std./Woche &
 Studentische Hilfskraft mit Schwerpunkt Kommunikation, ca. 15 Std./Woche"
 ---
