@@ -324,25 +324,6 @@
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
-                />
-  </url><url>
-    <loc>https://okfn.de/authors/marie/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/jobs/ptf-shk/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/authors/adriana-groh/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -3556,6 +3537,18 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/impressum/"
+                />
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/kleineanfragen/</loc>
