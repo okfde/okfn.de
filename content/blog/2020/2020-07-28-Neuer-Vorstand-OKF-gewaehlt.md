@@ -17,7 +17,7 @@ title: "Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt"
 
 Auf der Mitgliederversammlung des Open Knowledge Foundation Deutschland e.V. (OKF) wurde am 28. Mai 2020 ein neuer Vorstand gewählt.
 
-Die bisherigen Mitglieder des Vorstands Kristina Klein, Jana Wichmann, Daniel Dietrich und Andreas Pawelke wurden für eine weitere zweijährige Amtszeit bestätigt. Als neue Vorstandsmitglieder konnten zudem Lea Gimpel, Dr. Stefan Heumann, Gabriele C. Klug und Julia Reda gewonnen werden.
+Die bisherigen Mitglieder des Vorstands Kristina Klein, Jana Wichmann, Daniel Dietrich und Andreas Pawelke wurden für eine weitere zweijährige Amtszeit bestätigt. Als neue Vorstandsmitglieder konnten zudem Lea Gimpel, Dr. Stefan Heumann, Gabriele C. Klug und Felix Reda gewonnen werden.
 
 **Lea Gimpel** arbeitet für die Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH als Co-Leiterin des Projekts FAIR Forward, das Entwicklungsländer dabei unterstützt, Künstliche Intelligenz zu nutzen und dafür u.a. offene Trainingsdatensätze aufbaut. Sie war u.a. Associate bei der Stiftung Neue Verantwortung, wo sie zu Netzneutralität und Menschenrechten gearbeitet hat. Lea spricht und schreibt über Themen an der Schnittstelle von digitalen Technologien und nachhaltiger Entwicklung. 
 
@@ -31,9 +31,9 @@ Die bisherigen Mitglieder des Vorstands Kristina Klein, Jana Wichmann, Daniel Di
 
 > Zitat von Stefan: "Frei zugängliches Wissen ist die Voraussetzung für eine offene und freie Gesellschaft. Diese Maxime verbindet die OKF in ihrer Arbeit auf einzigartige Weise mit den Chancen digitaler Technologien. Ich freue mich die OKF bei dieser wichtigen Mission unterstützen und begleiten zu dürfen.“
 
-**Julia Reda** ist Expertin für Urheberrecht und Kommunikationsfreiheit und leitet seit Frühjahr 2020 den Arbeitsschwerpunkt „control ©“ bei der Gesellschaft für Freiheitsrechte. Von 2014 bis 2019 war Julia Mitglied des Europäischen Parlaments innerhalb der Fraktion Die Grünen / EFA. Sie ist mittlerweile parteilos, war vorher viele Jahr bei der Piratenpartei engagiert; 2013-2015 war sie Vorsitzende der Young Pirates of Europe.
+**Felix Reda** ist Experte für Urheberrecht und Kommunikationsfreiheit und leitet seit Frühjahr 2020 das Projekt „control ©“ bei der Gesellschaft für Freiheitsrechte. Von 2014 bis 2019 war Felix Mitglied des Europäischen Parlaments innerhalb der Fraktion Die Grünen / EFA. Felix ist Fellow der Shuttleworth Foundation und Affiliate des Berkman Klein Center for Internet and Society an der Harvard-Universität.
 
-> Zitat von Julia: "Ob Open Data, Informationsfreiheit, Civic Tech oder Urheberrecht, die OKFDE war während meines Mandats als Mitglied des Europäischen Parlaments einer meiner wichtigsten zivilgesellschaftlichen Partner für eine offene Gesellschaft. Ich freue mich sehr, die OKFDE von nun an als Mitglied des Vorstands unterstützen zu können."
+> Zitat von Felix: "Ob Open Data, Informationsfreiheit, Civic Tech oder Urheberrecht, die OKFDE war während meines Mandats als Mitglied des Europäischen Parlaments einer meiner wichtigsten zivilgesellschaftlichen Partner für eine offene Gesellschaft. Ich freue mich sehr, die OKFDE von nun an als Mitglied des Vorstands unterstützen zu können."
 
 Die Erweiterung unseres Vorstands von fünf auf acht Mitglieder ist Teil unseres Organisationsentwicklungsprozesses. Wir möchten die Arbeit des Vorstands stärker mit der Organisation verzahnen und durch die unterschiedlichen Expertisen im Vorstand Impulse in die projektübergreifenden Vorhaben in Form der neu gegründeten Governance-Zirkel senden.
 

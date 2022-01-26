@@ -24,7 +24,7 @@ Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderu
 Ein aktueller Auszug aus dem Vereinsregister von 2020 ist [hier einsehbar](/files/documents/Vereinsregisterauszug_OKFDE_2020.pdf).
 
 ### 4. Name und Funktion wesentlicher Entscheidungsträger:innen
-Kommissarische Vorsitzende ist Kristina Klein (bis zur nächsten Mitgliederversammlung), stellv. Vorsitzende ist Jana Wichmann, Kassenwartin ist Gabriele C. Klug. Weitere Vorstandsmitglieder sind Daniel Dietrich, Julia Reda, Lea Gimpel und Stefan Heumann. Vom Vorstand bevollmächtigte Geschäftsführerin ist Henriette Litta.
+Kommissarische Vorsitzende ist Kristina Klein (bis zur nächsten Mitgliederversammlung), stellv. Vorsitzende ist Jana Wichmann, Kassenwartin ist Gabriele C. Klug. Weitere Vorstandsmitglieder sind Daniel Dietrich, Felix Reda, Lea Gimpel und Stefan Heumann. Vom Vorstand bevollmächtigte Geschäftsführerin ist Henriette Litta.
 
 #### Ethikbeauftragte
 Aktuelle Ethikbeauftragte der OKF ist Giulia Norberti. Fragen zu Ethik und Verhaltenskodex können an ethics@okfn.de gerichtet werden.

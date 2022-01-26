@@ -58,7 +58,7 @@ Nächstes Update erfolgt am 12.12.2012 am Abend nach dem Triolog.
 
 <a id="english"></a>
 #### Dokumente:
-IMCO Julia Reda Opinion [IMCO](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.902+02+DOC+PDF+V0//EN&language=EN)<br>
+IMCO Felix Reda Opinion [IMCO](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.902+02+DOC+PDF+V0//EN&language=EN)<br>
 28.11 [NGOs urge European Parliament to vote for free access to company and UBO registers](https://openstate.eu/en/2018/11/psidirectiverevision/)<br>
 5.12 [Abstimmungsergebnisse im Detail](/files/blog/2018/12/20181203-PSI-voting-SCAN_181203_172755.pdf)<br>
 12.12 [Tagesspiegel Digitalisierung Background zu PSI Trilog by Lina Rusch](/files/blog/2018/12/20181212-Tagesspiegel-Digitalisierung-Background-PSI-Trilog.pdf)<br>

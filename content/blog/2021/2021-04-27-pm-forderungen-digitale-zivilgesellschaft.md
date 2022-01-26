@@ -35,7 +35,7 @@ OKF-Geschäftsführerin Henriette Litta bringt es auf den Punkt: **„Digitalisi
 
 ### Launch-Event am 5. Mai 2021 – Austausch mit Beteiligung der OKF
 
-Beim Launch-Event diskutieren Julia Reda (ehem. Mitglied des EU-Parlaments, Vorstandsmitglied der OKF), Henning Tillmann (Softwareentwickler und Co-Vorstand von D64) und Julia Kloiber (Co-Gründerin Superrr Lab) am 5. Mai 2021 von 18:00 Uhr bis 19:30 Uhr diese vier Forderungen. Moderiert wird die Runde von Katja Jäger (betterplace lab). Anschließend gibt es für alle Teilnehmenden die Möglichkeit, sich in vier Themenräumen zu Lösungen, Maßnahmen und Handlungsaufforderungen auszutauschen. Sonja Fischbauer von der OKF wird die Diskussion in den Themenräumen mitgestalten. Weitere Informationen und Anmeldung zum Launch-Event findet ihr auf digitalezivilgesellschaft.org.
+Beim Launch-Event diskutieren Felix Reda (ehem. Mitglied des EU-Parlaments, Vorstandsmitglied der OKF), Henning Tillmann (Softwareentwickler und Co-Vorstand von D64) und Julia Kloiber (Co-Gründerin Superrr Lab) am 5. Mai 2021 von 18:00 Uhr bis 19:30 Uhr diese vier Forderungen. Moderiert wird die Runde von Katja Jäger (betterplace lab). Anschließend gibt es für alle Teilnehmenden die Möglichkeit, sich in vier Themenräumen zu Lösungen, Maßnahmen und Handlungsaufforderungen auszutauschen. Sonja Fischbauer von der OKF wird die Diskussion in den Themenräumen mitgestalten. Weitere Informationen und Anmeldung zum Launch-Event findet ihr auf digitalezivilgesellschaft.org.
 
 *Unterzeichnende Organisationen:*
 

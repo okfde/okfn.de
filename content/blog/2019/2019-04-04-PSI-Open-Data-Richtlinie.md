@@ -66,7 +66,7 @@ Gelegenheiten zu solch einer ermutigenden Umsetzung gäbe es. So sollte demnäch
 
 Es sei die Anmerkung gestattet, wer das AI-Lied anstimmt – und damit KI und nicht AutoIndustrie meint – sollte schön langsam nach den Sonntagsreden Butter bei den Fischen abliefern. Ohne Daten kein KI-Neuland.
 
-Dank gilt auch dem Policy Team von Julia Reda, unter anderem Mathias Schindler und Sebastian Raible, die Julia Reda als Berichterstatterin für den meinungsgebenden Verbraucher-Ausschuss (IMCO) tatkräftig unterstützt haben und jahrelang hartnäckig an der Sache dranbleiben.
+Dank gilt auch dem Policy Team von Felix Reda, unter anderem Mathias Schindler und Sebastian Raible, die Felix Reda als Berichterstatterin für den meinungsgebenden Verbraucher-Ausschuss (IMCO) tatkräftig unterstützt haben und jahrelang hartnäckig an der Sache dranbleiben.
 
 Im Prinzip sollte es gemäß *“public money public code”* (in Deutschland ÖGÖG - öffentliches Geld, öffentliches Gut) *public money public data* heißen, auch im Forschungsbereich: In diesem Sinne eine erfolgreiche OpenData-PSI-Richtlinie-Umsetzung, welche die Mindestanforderungen
 übererfüllt.

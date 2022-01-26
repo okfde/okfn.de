@@ -24,7 +24,7 @@ Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Co
 A current extract from the register of associations of 2020 can be found [here](/files/documents/Vereinsregisterauszug_OKFDE_2020.pdf).
 
 ### 4. Name and function of essential decision makers
-Since April 2021, Kristina Klein is interim chairwoman of the board (until the next general meeting). At the 2020 general meeting, Jana Wichmann was elected deputy chairwoman and Gabriele Klug was elected treasurer, all valid for a period of two years. Further board members are Daniel Dietrich, Julia Reda, Lea Gimpel and Stefan Heumann. Henriette Litta is managing director of the association.
+Since April 2021, Kristina Klein is interim chairwoman of the board (until the next general meeting). At the 2020 general meeting, Jana Wichmann was elected deputy chairwoman and Gabriele Klug was elected treasurer, all valid for a period of two years. Further board members are Daniel Dietrich, Felix Reda, Lea Gimpel and Stefan Heumann. Henriette Litta is managing director of the association.
 
 #### Ethics Officer
 Our current OKF Ethics Officer ist Giulia Norberti. Questions regarding ethics and the code of conduct can be directed to ethics@okfn.de .

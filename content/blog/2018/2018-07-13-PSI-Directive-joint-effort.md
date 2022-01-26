@@ -36,7 +36,7 @@ The committee responsible for the PSI Directive is [ITRE](http://www.europarl.eu
 The report is expected towards the end of October, rapporteur is [Neoklis Sylikiotis](http://www.europarl.europa.eu/meps/nl/124689/NEOKLIS_SYLIKIOTIS_home.html) (GUE/NGL).<br> 
 <i>(Hint: Anybody from the Greek open data scene is highly welcome to talk to us or to Neoklis Sylikiotis.)</i>
 
-ITRE shadow rapporteurs are: EPP: [Michal Boni](http://www.europarl.europa.eu/meps/nl/124896/MICHAL_BONI_home.html), S&D [Razvan Popa](http://www.europarl.europa.eu/meps/en/189490/Răzvan_POPA_home.html), ALDE [Morten Helveg Petersen](http://www.europarl.europa.eu/meps/en/124872/MORTEN+HELVEG_PETERSEN_home.html), Greens: [Julia Reda](http://www.europarl.europa.eu/meps/nl/124816/JULIA_REDA_home.html)
+ITRE shadow rapporteurs are: EPP: [Michal Boni](http://www.europarl.europa.eu/meps/nl/124896/MICHAL_BONI_home.html), S&D [Razvan Popa](http://www.europarl.europa.eu/meps/en/189490/Răzvan_POPA_home.html), ALDE [Morten Helveg Petersen](http://www.europarl.europa.eu/meps/en/124872/MORTEN+HELVEG_PETERSEN_home.html), Greens: [Felix Reda](http://www.europarl.europa.eu/meps/nl/124816/JULIA_REDA_home.html)
 [More details here:](http://www.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=&reference=2018/0111(COD))
 
 IMCO has special competence, which is why it is also good to address these shadow rapporteurs:

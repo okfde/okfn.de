@@ -42,7 +42,7 @@ Deutsche EU-Abgeordnete im JURI-Kommittee sind:
 
 
 Sylvia-Yvonne Kaufmann, [@KaufmannSylvia](http://twitter.com/KaufmanSylvia) (SPD / S&D)	<br>
-Julia Reda, [@Senficon](http://twitter.com/Senficon) (Piraten / Grüne/EFA)<br>
+Felix Reda, [@Senficon](http://twitter.com/Senficon) (Piraten / Grüne/EFA)<br>
 Axel Voss, [@AxelVossMdEP](http://twitter.com/AxelVossMdEP) (CDU / EVP)<br>
 Evelyne Gebhardt (stellvertretend, SPD / S&D)<br>
 Angelika Niebler, [@ANiebler](http://twitter.com/ANiebler) (stellvertretend, CSU / EVP)<br>
@@ -60,5 +60,5 @@ Weitere Links:<br>
 [EDRi European Digital Rights](https://edri.org)<br>
 [Netzpolitik-Artikel](https://netzpolitik.org/2018/eu-kommission-immer-mehr-plattformen-sollen-uploads-filtern/)<br>
 [copybuzz Artikel](http://copybuzz.com/pl/copyright/mep-voss-proposal-on-the-censorship-machine-art-13-not-die-beste-idee-either/)<br>
-[MEP Julia Reda](https://juliareda.eu/2018/02/voss-uploadfilter/)
+[MEP Felix Reda](https://juliareda.eu/2018/02/voss-uploadfilter/)
 

@@ -38,7 +38,7 @@ title: "Das war 2020: Unser Jahresbericht ist jetzt veröffentlicht"
  
  *   Traditionell klingt jedes Jahr auf dem Congress aus. In diesem Jahr war das ein bisschen anders, aber auch sehr schön! Der jährliche CCC-Congress vom 27. bis 30. Dezember fand aber natürlich wie so vieles dieses Jahr virtuell statt – unter dem Titel rC3. Auch die [WikiPaka-WG](https://jugendhackt.org/kalender/wikipaka-wg-auf-der-rc3/), seit einigen Jahren Ort und Bühne der Communities von OKF DE, Wikimedia und weiteren Freund:innen der Offenheit, wurde zum Stream und liebevoll virtuell gestaltet und eingerichtet.
  
- *   Im Januar hat mit Henriette Litta eine erfahrene neue [Geschäftsführung](https://okfn.de/blog/2019/12/willkommen-henriette/) begonnen. Wir haben zudem unseren [Vorstand](https://okfn.de/vorstand/) erweitert und mit Lea Gimpel, Stefan Heumann, Gabriele C. Klug und Julia Reda wahnsinnig spannende Menschen neu dazu gewonnen.
+ *   Im Januar hat mit Henriette Litta eine erfahrene neue [Geschäftsführung](https://okfn.de/blog/2019/12/willkommen-henriette/) begonnen. Wir haben zudem unseren [Vorstand](https://okfn.de/vorstand/) erweitert und mit Lea Gimpel, Stefan Heumann, Gabriele C. Klug und Felix Reda wahnsinnig spannende Menschen neu dazu gewonnen.
  
  *   2020 war das Jahr, in dem wir unsere erste mehrjährige Kernfinanzierung mit Luminate festzurren konnten. Ein großer Erfolg für unsere harte Arbeit. 
  

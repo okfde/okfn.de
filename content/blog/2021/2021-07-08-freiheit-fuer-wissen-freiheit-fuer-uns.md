@@ -21,7 +21,7 @@ title: "Freiheit für Wissen! Freiheit für uns?"
 
 ### Wir laden ein!
 
-**Julia Reda**, Internetaktivistin und Vorständin der OKF und **Stefan Wehrmeyer**, Gründer von FragDenStaat.de, diskutieren über Informationsfreiheit, Urheberrechte und demokratische Möglichkeiten durch freien Zugang zu Wissen.
+**Felix Reda**, Internetaktivist und Vorstand der OKF und **Stefan Wehrmeyer**, Gründer von FragDenStaat.de, diskutieren über Informationsfreiheit, Urheberrechte und demokratische Möglichkeiten durch freien Zugang zu Wissen.
 
 **Ein Bildschirmgespräch zum 10. Geburtstag der OKF**
 
