@@ -150,7 +150,7 @@ Mittlerweile erklärt schon eine <a href="https://www.youtube.com/watch?v=ltzy5v
 2218 hochgeladene Inhalte nach urheberrechtsverletzenden Inhalten zu „filtern“, lehnen
 2219 wir als unverhältnismäßig ab. <br></i><br>
 <b>#Upload-Filter Ablehung, klingt mal gut.</b><br>
-Wir warten mal die Entwicklungen <a href="https://juliareda.eu/eu-copyright-reform/">der MEPs der Groko im März in Brüssel ab</a>.
+Wir warten mal die Entwicklungen <a href="https://felixreda.eu/eu-copyright-reform/">der MEPs der Groko im März in Brüssel ab</a>.
 <br><br>
 <i>
 6095 Wir stehen zu unseren Verpflichtungen aus dem internationalen Open Government<br>

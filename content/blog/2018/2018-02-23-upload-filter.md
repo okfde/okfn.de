@@ -60,5 +60,5 @@ Weitere Links:<br>
 [EDRi European Digital Rights](https://edri.org)<br>
 [Netzpolitik-Artikel](https://netzpolitik.org/2018/eu-kommission-immer-mehr-plattformen-sollen-uploads-filtern/)<br>
 [copybuzz Artikel](http://copybuzz.com/pl/copyright/mep-voss-proposal-on-the-censorship-machine-art-13-not-die-beste-idee-either/)<br>
-[MEP Felix Reda](https://juliareda.eu/2018/02/voss-uploadfilter/)
+[MEP Felix Reda](https://felixreda.eu/2018/02/voss-uploadfilter/)
 
