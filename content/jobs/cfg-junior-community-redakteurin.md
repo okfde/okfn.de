@@ -5,7 +5,7 @@ authors:
 - Sonja Fischbauer
 date: 2022-01-27
 image:
-  src: static/okf/themen/civictech.jpg
+  src: okf/themen/civictech.jpg
   title: "Community Redakteur:in gesucht!"
   license: CC-BY 4.0, Urheberin Nadine Stammen
   license_url: https://creativecommons.org/licenses/by/4.0/
