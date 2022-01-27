@@ -14,7 +14,7 @@ published: true
 title: "Wir suchen eine:n Junior Community Redakteur:in für Code for Germany (Studentische Hilfskraft, 19h/Woche)"
 ---
 
-Um die Geschichten aus unserem ehrenamtlichen Netzwerk Code for Germany aufzubereiten, suchen wir eine 
+Um die Geschichten aus unserem ehrenamtlichen Netzwerk Code for Germany aufzubereiten, suchen wir eine:n 
 
 **Junior Community Redakteur:in (Studentische Hilfskraft, 19h/Woche) ab März/April 2022, Bewerbungsschluss 01. März 2022** 
 
