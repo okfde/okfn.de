@@ -1,11 +1,9 @@
-
-
 ---
 authors:
 - Sonja Fischbauer
 date: 2022-01-27
 image:
-  src: static/files/jobs/cfg-redakteurin.jpg
+  src: /files/jobs/cfg-redakteurin.jpg
   title: "Community Redakteur:in gesucht!"
   license: CC-BY 4.0, Urheber: Leonard Wolf
   license_url: https://creativecommons.org/licenses/by/4.0/
