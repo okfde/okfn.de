@@ -18,17 +18,17 @@ Um die Geschichten aus unserem ehrenamtlichen Netzwerk Code for Germany aufzuber
 
 **Junior Community Redakteur:in (Studentische Hilfskraft, 19h/Woche) ab März/April 2022, Bewerbungsschluss 01. März 2022** 
 
-## Wer wir sind:
+### Wer wir sind:
 Die Open Knowledge Foundation Deutschland e.V. (OKF) ist ein gemeinnütziger Verein mit Sitz in Berlin-Friedrichshain, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär (mehr erfährst du auf okfn.de). Eine der Aufgaben unseres Vereins ist es, das Netzwerk Code for Germany Netzwerk zu unterstützen: Code for Germany ist ein Netzwerk von ehrenamtlich engagierten Menschen, die sich in ihrer Region für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzen. Sie treffen sich in regionalen Labs und sind online aktiv. Mehr erfährst du auf [codefor.de](https://codefor.de). 
 
-## Wen wir suchen:
+### Wen wir suchen:
 Wir suchen eine motivierte, kommunikative Person, die Geschichten aus unserem ehrenamtlichen Netzwerk Code for Germany aufspürt und verbreitet.
  
 Die Ehrenamtlichen bei Code for Germany machen in ihrer Freizeit tolle Sachen: Sie programmieren eine App, die Feuerwehren bei der Waldbrandbekämpfung hilft; sie entwickeln DIY-Sensoren, mit denen jede:r die Luftqualität in der eigenen Stadt messen kann; sie überzeugen die Verwaltung in ihrer Kommune von Offenen Daten. Wir brauchen Unterstützung dabei, diese Arbeit sichtbarer zu machen..  Konkrete Aufgaben dabei können sein: Themen recherchieren, Artikel schreiben, Interviews führen, Twitter bespielen, regelmäßig Updates einholen und neue Formate für Content ausdenken. 
 
 Erfahrungen im Bereich Netzpolitik, Civic Tech, Open Data oder Open Government können von Vorteil sein, sind aber keine Voraussetzung. Wichtiger als formale Qualifikationen ist uns deine Motivation und dein Einsatz für gesellschaftlichen Wandel. Wenn du also das Gefühl hast, die Punkte unten nicht voll  zu erfüllen, aber interessiert und begeistert bist, dann bewirb dich in jedem Fall trotzdem!
 
-## Dein Profil:
+### Dein Profil:
 Du…
 * hast Freude an transparenter, wertschätzender Kommunikation mit Freiwilligen (= ehrenamtlich arbeitenden Menschen)
 * hast Humor und Feingefühl für Zwischentöne in der Kommunikation, auch im Geschriebenen
@@ -39,7 +39,7 @@ Du…
 
 Code for Germany ist ein Netzwerk für Menschen, die mit Daten und Code arbeiten -  aber du musst nicht programmieren können, um bei uns zu arbeiten! 
 
-## Deine Verantwortlichkeiten:
+### Deine Verantwortlichkeiten:
 In diesen Bereichen wirst du vor allem arbeiten:
 * Geschichten von Code for Germany aufbereiten: recherchieren, abfragen, aufschreiben, Bilder zusammenstellen, Texte veröffentlichen (darunter z.B. regelmäßige Updates aus den regionalen Code for Germany Labs); in deutscher Sprache und wenn du magst auch zusätzlich auf englisch und/oder in weiteren Sprachen
 * Schnittstelle sein: Informationen aus dem ehrenamtlichen Netzwerk abfragen, aufbereiten und an die richtigen Stellen verteilen
@@ -50,11 +50,11 @@ In diesen Bereichen wirst du vor allem arbeiten:
 
 Bei uns gibt es viel Raum für Deine eigenen Ideen. Wir möchten die anfallenden Tätigkeiten und die wöchentliche Arbeitszeit so arrangieren, dass sie zu dir passen. 
 
-## Dein Team:
+### Dein Team:
 Deine Teamleitung ist Sonja (Organisationsentwicklung & Community Strategie). 
 Du wirst auch mit anderen hauptamtlichen Teamkolleg:innen aus der OKF arbeiten und viel mit den Ehrenamtlichen von Code for Germany in Kontakt sein. 
 
-## Was wir bieten:
+### Was wir bieten:
 * Zugang zu unserem Netzwerk, darunter die internationale Open Knowledge Community, und das internationale Netzwerk Code for All
 * die Möglichkeit, mit viel Gestaltungsspielraum eigene Ideen umzusetzen
 * Dazulernen in Bereichen, die dir wichtig sind
@@ -63,7 +63,7 @@ Du wirst auch mit anderen hauptamtlichen Teamkolleg:innen aus der OKF arbeiten u
 * und ein Büro voll netter Leute, Kaffee, Tee, Saft und Mate - aber auch die Möglichkeit, von Zuhause zu arbeiten. Derzeit arbeiten wir im Homeoffice und treffen uns einmal wöchentlich als Team im Büro. Wir stellen Schnelltests kostenlos zur Verfügung und wir halten Hygiene- und Abstandsregeln ein.
 * Ein Gehalt von € 1.173 brutto bei 19 Stunden/Woche. (Das Gehalt liegt 10% über dem aktuellen Tarifvertrag für Studierende in Berlin.) 
 
-## Weitere Infos:
+### Weitere Infos:
 * **Vertragsbeginn:** flexibel, am besten März/April (ideal ist zwischen Mitte März und Mitte April)
 * **Laufzeit:** Zunächst Befristung auf 1 Jahr mit Aussicht auf Verlängerung
 * **Zeitl. Aufwand:** 19 h/Woche. Arbeitszeiten sprechen wir individuell mit dir ab, sodass sie zu deinen Studienplänen passen.
@@ -71,7 +71,7 @@ Du wirst auch mit anderen hauptamtlichen Teamkolleg:innen aus der OKF arbeiten u
 * **Ort:** Berlin
 * **Bewerbungsfrist: 01. März 2022**
 
-## Wie es weitergeht:
+### Wie es weitergeht:
 Wir freuen uns insbesondere über die Bewerbungen von Frauen*, BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. 
 
 Bitte schicke uns deine Bewerbung **bis spätestens Dienstag, 1. März 2022** mit Anschreiben, Lebenslauf und frühestmöglichem Arbeitsbeginn per E-Mail an Sonja via **jobs@okfn.de**. 
