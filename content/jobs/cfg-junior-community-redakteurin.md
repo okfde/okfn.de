@@ -3,10 +3,10 @@ authors:
 - Sonja Fischbauer
 date: 2022-01-27
 image:
-  src: /files/jobs/cfg-redakteurin.jpg
-  title: "Community Redakteur:in gesucht!"
-  license: CC-BY 4.0, Urheber: Leonard Wolf
-  license_url: https://creativecommons.org/licenses/by/4.0/
+  src: 
+  title: 
+  license: 
+  license_url: 
 tags:
 published: true
 title: "Wir suchen eine:n Junior Community Redakteur:in für Code for Germany (Studentische Hilfskraft, 19h/Woche)"
