@@ -3,7 +3,7 @@ authors:
 - Sonja Fischbauer
 date: 2022-01-27
 image:
-  src: 
+  src: "/files/jobs/cfg-redakteurin.jpg"
   title: 
   license: 
   license_url: 
