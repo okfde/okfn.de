@@ -3,10 +3,10 @@ authors:
 - Henriette Litta
 date: 2022-02-10
 image:
-  src: https://hardware.prototypefund.de/wp-content/uploads/2021/12/unbo_blackbox.png
-  title: "Unbox / Blackbox"
-  license: CC-BY 4.0
-  license_url: https://creativecommons.org/licenses/by/4.0/
+  src: /files/blog/2019/11/reichstag-juergen-matern.jpg
+  title: "Reichstag"
+  license: CC BY-SA 3.0
+  license_url: https://creativecommons.org/licenses/by-sa/3.0
 tags:
 - Transparenz
 - Open Government
@@ -18,7 +18,7 @@ featured: blue
 title: Das neue Lobbyregister braucht schon jetzt ein Update (und wir sind auch drin)
 ---
 
-Berlin, 02.02.2022
+**Berlin, 10.02.2022**
 
 **Die OKF DE ist unter die Lobbyist:innen gegangen und hat sich heute im neuen Lobbyregister des Bundestags registriert (Eintrag Nr. XXX). Seit dem 1. Januar 2022 ist das neue Lobbyregister des Bundestags in Kraft getreten, und es herrscht helle Aufregung in der Welt der Verbände, Vereine und sonstigen Interessenvertretungen: Erstmals drohen Sanktionen bei fehlender Registrierung oder falschen Angaben, im schlimmsten Falle ein Bußgeld von 50.000 Euro.** 
 
