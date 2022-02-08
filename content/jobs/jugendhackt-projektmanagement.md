@@ -62,8 +62,6 @@ In diesen Bereichen wirst du vor allem arbeiten:
 
 ## Das bieten wir dir
 
-Wir bieten dir:
-
 * viel Gestaltungsspielraum bei der Weiterentwicklung unserer Angebote
 * die Mitarbeit in einem erfolgreichen, wachsenden, sichtbaren Programm
 * ein spannendes und kreatives Arbeitsumfeld
