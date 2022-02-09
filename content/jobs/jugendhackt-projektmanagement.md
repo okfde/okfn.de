@@ -33,9 +33,6 @@ Wir suchen eine begeisterungsfähige, teamstarke, technik- und politikinteressie
 
 ## Deine Verantwortungsbereiche
 
-In Abstimmung mit der Programmleitung von Jugend hackt (Mechthild und Ben) bist du verantwortlich für die finanzielle Akquise für Jugend hackt.
-In diesen Bereichen wirst du vor allem arbeiten:
-
 * Bei dir liegt die organisatorische Leitung des Berliner Events im Herbst mit ca. 100 jungen Teilnehmer\*innen sowie etwa 60 ehrenamtlichen Mentor\*innen und Helfer\*innen
     * Akquise und Betreuung externer Dienstleister*innen (u.a. Location, Netzwerk, Catering, Übernachtung)
     * Koordination der Teilnehmer\*innenanmeldung und -kommunikation
