@@ -13,14 +13,14 @@ tags:
 - Advocacy
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: Das neue Lobbyregister braucht schon jetzt ein Update (und wir sind auch drin)
 ---
 
 **Berlin, 10.02.2022**
 
-**Die OKF DE ist unter die Lobbyist:innen gegangen und hat sich heute im neuen Lobbyregister des Bundestags registriert (Eintrag Nr. XXX). Seit dem 1. Januar 2022 ist das neue Lobbyregister des Bundestags in Kraft getreten, und es herrscht helle Aufregung in der Welt der Verbände, Vereine und sonstigen Interessenvertretungen: Erstmals drohen Sanktionen bei fehlender Registrierung oder falschen Angaben, im schlimmsten Falle ein Bußgeld von 50.000 Euro.** 
+**Die OKF DE ist unter die Lobbyist:innen gegangen und hat sich heute im neuen Lobbyregister des Bundestags registriert (Registernummer R000405). Seit dem 1. Januar 2022 ist das neue Lobbyregister des Bundestags in Kraft getreten, und es herrscht helle Aufregung in der Welt der Verbände, Vereine und sonstigen Interessenvertretungen: Erstmals drohen Sanktionen bei fehlender Registrierung oder falschen Angaben, im schlimmsten Falle ein Bußgeld von 50.000 Euro.** 
 
 Am 16. April 2021 hatte die Große Koalition die Einführung eines öffentlich einsehbaren [Lobbyregisters](https://www.lobbyregister.bundestag.de/startseite) beschlossen. Viele Jahre lang wehrten sich die jeweils amtierenden Regierungen dagegen. Unter dem Druck von Skandalen mehrerer Abgeordneter über Nebenverdienste und unethischem Verhalten, gelang also im letzten Jahr der Durchbruch. Das neue Lobbyregister löst die alte Verbändeliste ab, die immer schon ein zahnloser Tiger war. 
 
