@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-01-19T00:00:00+0000</updated>
+  <updated>2022-02-10T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Das neue Lobbyregister braucht schon jetzt ein Update (und wir sind auch drin)</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/02/okf-lobbyregister/"/>
+    <id>https://okfn.de/blog/2022/02/okf-lobbyregister/</id>
+    <published>2022-02-10T00:00:00+0000</published>
+    <updated>2022-02-10T00:00:00+0000</updated>
+    <summary>Berlin, 10.02.2022
+Die OKF DE ist unter die Lobbyist:innen gegangen und hat sich heute im neuen Lobbyregister des Bundestags registriert (Registernummer R000405). Seit dem 1. Januar 2022 ist das neue Lobbyregister des Bundestags in Kraft getreten, und es herrscht helle Aufregung in der Welt der Verbände, Vereine und sonstigen Interessenvertretungen: Erstmals drohen Sanktionen bei fehlender Registrierung oder falschen Angaben, im schlimmsten Falle ein Bußgeld von 50.000 Euro.
+Am 16. April 2021 hatte die Große Koalition die Einführung eines öffentlich einsehbaren Lobbyregisters beschlossen.</summary>
+  </entry>
   
   <entry>
     <title>Prototype Fund Hardware gestartet</title>
@@ -142,19 +153,6 @@ Selbstverständlich ist das überhaupt nicht. Denn unser Kernthema, Informations
     <published>2021-07-15T00:00:00+0000</published>
     <updated>2021-07-15T00:00:00+0000</updated>
     <summary>Das letzte Jahr war mal wieder besonders aufregend. Eine kurze Übersicht über 2020 stellen wir euch hier zusammen. Ausführlichere und übersichtlich zusammengestellte Informationen findet ihr in unserem Jahresbericht 2020.   In diesem Jahr eröffnete Jugend hackt drei neue Labs in Cottbus, Heilbronn und Heidelberg. Zusammen mit den 2019 gestarteten Pilot-Labs in Fürstenberg und Ulm gibt es damit in fünf deutschen Städten ein regelmäßiges Angebot von Jugend hackt mit Workshops, Vorträgen und offenen Nachmittagen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Freiheit für Wissen! Freiheit für uns?</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/07/freiheit-fuer-wissen-freiheit-fuer-uns/"/>
-    <id>https://okfn.de/blog/2021/07/freiheit-fuer-wissen-freiheit-fuer-uns/</id>
-    <published>2021-07-08T00:00:00+0000</published>
-    <updated>2021-07-08T00:00:00+0000</updated>
-    <summary>Wir laden ein! Felix Reda, Internetaktivist und Vorstand der OKF und Stefan Wehrmeyer, Gründer von FragDenStaat.de, diskutieren über Informationsfreiheit, Urheberrechte und demokratische Möglichkeiten durch freien Zugang zu Wissen.
-Ein Bildschirmgespräch zum 10. Geburtstag der OKF
-20. Juli 2021, 18 - 19 Uhr
-Zum Livestream auf YouTube
-Jede*r hat ein Recht auf Zugang zu Informationen – was nun? Informationsfreiheit ist dank FragDenStaat kein Fremdwort mehr. Dennoch sind sich immer noch viele ihrer Rechte nicht bewusst.</summary>
   </entry>
   
 </feed>

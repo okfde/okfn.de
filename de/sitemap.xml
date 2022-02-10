@@ -230,8 +230,11 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/advocacy/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -242,6 +245,57 @@
                 hreflang="de"
                 href="https://okfn.de/authors/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2022/02/okf-lobbyregister/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/open-government/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/transparenz/</loc>
+    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/</loc>
     <lastmod>2022-02-08T00:00:00+00:00</lastmod>
@@ -259,19 +313,6 @@
     <loc>https://okfn.de/authors/nina-schr%C3%B6ter/</loc>
     <lastmod>2022-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2022-02-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/jobs/jugendhackt-projektmanagement/</loc>
     <lastmod>2022-02-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -280,19 +321,6 @@
   </url><url>
     <loc>https://okfn.de/jobs/cfg-junior-community-redakteurin/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/civic-tech/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
@@ -305,19 +333,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/beata-hubrig/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
@@ -338,9 +353,6 @@
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/11/okf-kommentar-koalitionsvertrag/</loc>
-    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/politik/</loc>
@@ -365,9 +377,6 @@
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/09/gruendung-f5/</loc>
-    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-government/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/bildungspolitik/</loc>
@@ -491,9 +500,6 @@
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/open-data/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/transparenz/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/04/veranstaltungsreihe-okf10/</loc>
