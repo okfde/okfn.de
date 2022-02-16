@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-02-10T00:00:00+0000</updated>
+  <updated>2022-02-16T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Recht auf Reparatur: ein erster Schritt zu offenen Technologien</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/02/okf-unterstuetzt-recht-auf-reparatur/"/>
+    <id>https://okfn.de/blog/2022/02/okf-unterstuetzt-recht-auf-reparatur/</id>
+    <published>2022-02-16T00:00:00+0000</published>
+    <updated>2022-02-16T00:00:00+0000</updated>
+    <summary>Die Open Knowledge Foundation unterstützt mit zahlreichen anderen Initiativen den Appell des Runden Tisch Für Reparatur an die Bundesregierung, das Recht auf Reparatur wirksam umzusetzen. Die bessere Reparierbarkeit, der Zugang zu Ersatzteilen und Reparaturanleitungen sowie verpflichtende Update-Zeiträume sind wichtige Maßnahmen, um die Lebensdauer unserer Alltagstechnologien zu verlängern und dadurch Ressourcen zu schonen. Es sind aber auch maßgebliche Aspekte der Beteiligung an Technologie. Seit Jahren erleben wir, dass Hardware immer verschlossener designt wird.</summary>
+  </entry>
   
   <entry>
     <title>Das neue Lobbyregister braucht schon jetzt ein Update (und wir sind auch drin)</title>
@@ -144,15 +153,6 @@ Selbstverständlich ist das überhaupt nicht. Denn unser Kernthema, Informations
     <published>2021-07-20T00:00:00+0000</published>
     <updated>2021-07-20T00:00:00+0000</updated>
     <summary>Das neue Transparenz-Ranking zeigt große Unterschiede zwischen den Bundesländern in Sachen Informationsfreiheit: Verträge der öffentlichen Hand, Gutachten oder für die Allgemeinheit wichtigen Informationen, zum Beispiel über staatlich kontrollierte Unternehmen, Hochschulen oder Strafverfolgungsbehörden, sind noch immer nicht in allen Bundesländern einsehbar. In Hamburg (Platz 1) macht die Verwaltung solche amtlichen Dokumente und Aufzeichnungen von sich aus kostenlos zugänglich, seitdem 2012 eine Volksinitiative für ein Transparenzgesetz erfolgreich war. Bayern, Sachsen und Niedersachsen (gemeinsam auf dem letzten Platz) dagegen ermöglichen der Bevölkerung bisher nicht einmal auf Nachfrage, an Informationen zu gelangen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Das war 2020: Unser Jahresbericht ist jetzt veröffentlicht</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/07/jahresbericht-2020/"/>
-    <id>https://okfn.de/blog/2021/07/jahresbericht-2020/</id>
-    <published>2021-07-15T00:00:00+0000</published>
-    <updated>2021-07-15T00:00:00+0000</updated>
-    <summary>Das letzte Jahr war mal wieder besonders aufregend. Eine kurze Übersicht über 2020 stellen wir euch hier zusammen. Ausführlichere und übersichtlich zusammengestellte Informationen findet ihr in unserem Jahresbericht 2020.   In diesem Jahr eröffnete Jugend hackt drei neue Labs in Cottbus, Heilbronn und Heidelberg. Zusammen mit den 2019 gestarteten Pilot-Labs in Fürstenberg und Ulm gibt es damit in fünf deutschen Städten ein regelmäßiges Angebot von Jugend hackt mit Workshops, Vorträgen und offenen Nachmittagen.</summary>
   </entry>
   
 </feed>
