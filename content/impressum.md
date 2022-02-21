@@ -104,9 +104,12 @@ Nehmen Sie unter der auf unserer Website angegebenen E-Mail-Adresse Kontakt zu u
 
 Wenn Sie den auf der Website angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine E-Mail-Adresse sowie Informationen unserer Überprüfung, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind (Bestätigungs-E-mail). Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben diese nicht an Dritte weiter.
 
-Die Verarbeitung der in das Newsletteranmeldeformular eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die erteilte Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen, etwa über den „Austragen“-Link im Newsletter. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+Wir nutzen rapidmail für den Versand von Newslettern. Der Anbieter ist die rapidmail GmbH, Wentzingerstraße, 21, 79106 Freiburg, Deutschland. 
 
-Die von Ihnen zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Ihrer Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters gelöscht.
+**Rechtsgrundlage:** Die Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. a) DSGVO. 
+**Empfänger:** Empfänger der Daten ist die rapidmail GmbH. 
+**Übermittlung an Drittstaaten:** Eine Übermittlung der Daten in Drittstaaten findet nicht statt. 
+**Dauer:** Die Ihrerseits im Rahmen der Einwilligung für den Zweck des Newsletters bei uns gespeicherten Datenwerden von uns bis zu Ihrer Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters sowohl von unseren Servern als auch von den Servern von rapidmail gelöscht.
 
 #### 3. Zwecke und Rechtsgrundlage der Datenverarbeitung
 
