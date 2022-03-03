@@ -230,8 +230,11 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/advocacy/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -244,7 +247,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,11 +259,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2022/02/open-data-berlin/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -272,17 +275,17 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-government/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2022/02/okf-unterstuetzt-recht-auf-reparatur/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/stk-und-walter/</loc>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -294,16 +297,22 @@
                 href="https://okfn.de/tags/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/advocacy/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/02/okf-unterstuetzt-recht-auf-reparatur/</loc>
+    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/02/okf-lobbyregister/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-government/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/transparenz/</loc>
@@ -504,9 +513,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/05/veranstaltung-digitale-zivilgesellschaft/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-data/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/04/veranstaltungsreihe-okf10/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
