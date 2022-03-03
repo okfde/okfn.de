@@ -13,7 +13,7 @@ tags:
 - Advocacy
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: Eine neue Open Data Strategie für Berlin
 ---
