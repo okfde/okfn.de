@@ -32,8 +32,8 @@ Wir hoffen, dass dieser Ansatz als Modell für künftige Beteiligungsprozesse di
 
 **Wie kann ich mitmachen?** 
 
-https://commons.wikimedia.org/wiki/File:Wikidata_pump_at_35c3_02.jpg
-Leonhard Lenz, Wikidata pump at 35c3 02, CC BY-SA 4.0
+![datenpumpe](/files/blog/2022/02/iWikidata_pump_at_35c3_02.jpg)
+*Leonhard Lenz, Wikidata pump at 35c3 02, CC BY-SA 4.0.*
 
 Du kannst dich auf mehrere Weisen einbringen. <b>Seit dem 18. Februar und noch bis zum 18. März</b> [richtet sich ein Online-Fragebogen an Menschen aus der Zivilgesellschaft, Verwaltung, Wirtschaft und Wissenschaft](richtet sich ein Online-Fragebogen an Menschen aus der Zivilgesellschaft, Verwaltung, Wirtschaft und Wissenschaft) – und natürlich auch an alle GrenzgängerInnen, die in mehr als nur einer dieser Welten unterwegs sind. (Achtung, für die Teilnahme ist eine Registrierung im meinBerlin-Portal erforderlich). Unter dem Link zur Umfrage findest du auch Informationen zum Gesamtprozess. 
 
