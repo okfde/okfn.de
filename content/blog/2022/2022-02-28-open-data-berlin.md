@@ -1,6 +1,6 @@
 ---
 authors:
-- _STK & walter
+- STK und walter
 date: 2022-02-28
 image:
   src: /files/blog/2022/02/opendataberlin.png
