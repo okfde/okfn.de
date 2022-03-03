@@ -42,4 +42,4 @@ Ende März wird es jeweils einen Workshop mit Menschen aus der Verwaltung und au
 
 Für den Mai planen wir die Veröffentlichung eines ersten Strategiegerüsts auf GitHub, das mindestens bis zur Veröffentlichung der offiziellen Strategie im Juni weiterentwickelt werden kann.
 
-Für Inputs, Hinweise oder Interesse melde dich gerne einfach bei walter@okfn.de.
+Für Inputs, Hinweise oder Interesse melde dich gerne einfach bei opendataberlin@okfn.de.
