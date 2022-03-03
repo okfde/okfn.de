@@ -3,7 +3,7 @@ authors:
 - STK und walter
 date: 2022-02-28
 image:
-  src: /files/blog/2022/02/opendataberlin.png
+  src: /files/blog/2022/02/Bebelplatz_berlin_1998.jpg
   title: "Reichstag"
   license: CC BY-SA 3.0
   license_url: https://creativecommons.org/licenses/by-sa/3.0
@@ -32,7 +32,7 @@ Wir hoffen, dass dieser Ansatz als Modell für künftige Beteiligungsprozesse di
 
 **Wie kann ich mitmachen?** 
 
-![Datenpumpe](/files/blog/2022/02/iWikidata_pump_at_35c3_02.jpg)
+![Datenpumpe](/files/blog/2022/02/800px-Wikidata_pump_at_35c3_02.jpg)
 *Leonhard Lenz, Wikidata pump at 35c3 02, CC BY-SA 4.0.*
 
 Du kannst dich auf mehrere Weisen einbringen. <b>Seit dem 18. Februar und noch bis zum 18. März</b> [richtet sich ein Online-Fragebogen an Menschen aus der Zivilgesellschaft, Verwaltung, Wirtschaft und Wissenschaft](richtet sich ein Online-Fragebogen an Menschen aus der Zivilgesellschaft, Verwaltung, Wirtschaft und Wissenschaft) – und natürlich auch an alle GrenzgängerInnen, die in mehr als nur einer dieser Welten unterwegs sind. (Achtung, für die Teilnahme ist eine Registrierung im meinBerlin-Portal erforderlich). Unter dem Link zur Umfrage findest du auch Informationen zum Gesamtprozess. 
@@ -41,4 +41,4 @@ Ende März wird es jeweils einen Workshop mit Menschen aus der Verwaltung und au
 
 Für den Mai planen wir die Veröffentlichung eines ersten Strategiegerüsts auf GitHub, das mindestens bis zur Veröffentlichung der offiziellen Strategie im Juni weiterentwickelt werden kann.
 
-Für Inputs, Hinweise oder Interesse melde dich gerne einfach bei opendataberlin@okfn.de.
+Für Inputs, Hinweise oder Interesse melde dich gerne einfach bei walter@okfn.de.
