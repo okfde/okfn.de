@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Kaufmann und Walter Palmetshofer on OKF</title>
+    <link>https://okfn.de/authors/stefan-kaufmann-und-walter-palmetshofer/</link>
+    <description>Recent content in Stefan Kaufmann und Walter Palmetshofer on OKF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/stefan-kaufmann-und-walter-palmetshofer/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eine neue Open Data Strategie für Berlin</title>
+      <link>https://okfn.de/blog/2022/02/open-data-berlin/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2022/02/open-data-berlin/</guid>
+      <description>Als das Land Berlin letztes Jahr 10 Jahre Open Data feierte, war das Anlass für einige Diskussionen unter denjenigen, die den Prozess schon länger aus Sicht der Zivilgesellschaft begleiteten: Auch 10 Jahre später scheinen wir noch weit entfernt von einer automatisierten Open-by-Default-Strategie. Umso mehr freut uns, dass Berlin sich genau diesen kritischen Blick als Unterstützung bei der Ausarbeitung einer neuen Open-Data-Strategie gewünscht hat. Die Open Knowledge Foundation darf das Land bei der Entwicklung dieser Strategie unterstützen, und wir wünschen uns ganz ausdrücklich viel Beteiligung von all denjenigen in unserem weiten und erfahrenen Ehrenamtsnetzwerk, die die üblichen Fallstricke und Probleme kennen!</description>
+    </item>
+    
+  </channel>
+</rss>
