@@ -33,9 +33,10 @@ Wir hoffen, dass dieser Ansatz als Modell für künftige Beteiligungsprozesse di
 **Wie kann ich mitmachen?** 
 
 ![Datenpumpe](/files/blog/2022/02/800px-Wikidata_pump_at_35c3_02.jpg)
+
 *Leonhard Lenz, Wikidata pump at 35c3 02, CC BY-SA 4.0.*
 
-Du kannst dich auf mehrere Weisen einbringen. <b>Seit dem 18. Februar und noch bis zum 18. März</b> [richtet sich ein Online-Fragebogen an Menschen aus der Zivilgesellschaft, Verwaltung, Wirtschaft und Wissenschaft](richtet sich ein Online-Fragebogen an Menschen aus der Zivilgesellschaft, Verwaltung, Wirtschaft und Wissenschaft) – und natürlich auch an alle GrenzgängerInnen, die in mehr als nur einer dieser Welten unterwegs sind. (Achtung, für die Teilnahme ist eine Registrierung im meinBerlin-Portal erforderlich). Unter dem Link zur Umfrage findest du auch Informationen zum Gesamtprozess. 
+Du kannst dich auf mehrere Weisen einbringen. **Seit dem 18. Februar und noch bis zum 18. März** [richtet sich ein Online-Fragebogen an Menschen aus der Zivilgesellschaft, Verwaltung, Wirtschaft und Wissenschaft](richtet sich ein Online-Fragebogen an Menschen aus der Zivilgesellschaft, Verwaltung, Wirtschaft und Wissenschaft) – und natürlich auch an alle GrenzgängerInnen, die in mehr als nur einer dieser Welten unterwegs sind. (Achtung, für die Teilnahme ist eine Registrierung im meinBerlin-Portal erforderlich). Unter dem Link zur Umfrage findest du auch Informationen zum Gesamtprozess. 
 
 Ende März wird es jeweils einen Workshop mit Menschen aus der Verwaltung und aus der Zivilgesellschaft geben, und Ende April je einen Workshop mit Fokus auf Wirtschaft und Wissenschaft. n den Workshops wollen wir möglichst viel Raum für Austausch und strukturiertes Ideensammeln lassen, z.B. mit Anwendung des Wardley-Mapping. Parallel zu diesem „offiziellen“ Prozess möchten wir in Austauschrunden mit den verschiedenen aktiven Communities die Beteiligung begleiten – vor allem auch, um den Input von denjenigen von euch einzusammeln, die beim offiziellen Workshop nicht dabei sein können.
 
