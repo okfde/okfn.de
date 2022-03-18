@@ -17,7 +17,7 @@ Auf fragdenstaat.de/koalitionstracker können Bürger:innen, Journalist:innen un
 
 Mit dem Koalitionstracker sind die unterschiedlichen Informationen, die bisher verstreut bei Ministerien, Arbeitsgruppen oder Gremien zu finden waren, gebündelt und durchsuchbar zu finden. Vorhaben-Updates können abonniert werden, Neuigkeiten von allen Menschen vorgeschlagen werden.
 
-##Wir tracken knapp 250 konkrete Vorhaben
+## Wir tracken knapp 250 konkrete Vorhaben
 
 Die Ampel-Koalition hat sich ambitionierte Ziele gesetzt. Aber ob sie alle tatsächlich nach der von Olaf Scholz angekündigten “Zeitenwende” umgesetzt werden, ist unklar. So wurden vor kurzem einzelne Versprechen wieder zur Diskussion gestellt, etwa Ölbohrungen in der Nordsee. Andere wurden zurückgestellt, etwa die Kindergrundsicherung.
 
@@ -25,7 +25,7 @@ Die Ampel-Koalition hat sich ambitionierte Ziele gesetzt. Aber ob sie alle tats�
 
 Ergänzt wird der Koalitionstracker durch externe Einschätzungen. Denn nur weil ein Gesetz verabschiedet wurde, ist noch lange nicht gut geworden. Deswegen überwachen viele zivilgesellschaftliche Partner:innen aktuelle Entwicklungen einschätzen und bewerten die Fortschritte. 
 
-##Monitoring durch zivilgesellschaftliches Netzwerk – und Sie!
+## Monitoring durch zivilgesellschaftliches Netzwerk – und Sie!
 
 Zum Start sind foodwatch, Wikimedia Deutschland, Mehr Demokratie, Lobbycontrol, ProAsyl und viele weitere Organisationen dabei. Weitere Interessierte Organisationen, Verbände, Initiativen und Verein sind herzlich eingeladen, ebenfalls mitzumachen.
 
