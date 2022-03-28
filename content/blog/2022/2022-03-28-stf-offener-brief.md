@@ -11,7 +11,7 @@ tags:
 - Infrastruktur
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Sovereign Tech Fund: Bundestag muss Open Source im Haushalt verankern"
 ---
