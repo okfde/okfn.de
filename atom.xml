@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-03-18T00:00:00+0000</updated>
+  <updated>2022-03-28T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Sovereign Tech Fund: Bundestag muss Open Source im Haushalt verankern</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/03/stf-offener-brief/"/>
+    <id>https://okfn.de/blog/2022/03/stf-offener-brief/</id>
+    <published>2022-03-28T00:00:00+0000</published>
+    <updated>2022-03-28T00:00:00+0000</updated>
+    <summary>Berlin, 28.03.2022
+Die Open Knowledge Foundation Deutschland wendet sich heute in einem gemeinsamen offenen Brief an die Bundestagsfraktionen der Ampel-Koalition, um für eine Kurskorrektur beim Bundeshaushalt zu werben. Trotz der Ankündigung des Bundesministeriums für Wirtschaft und Klimaschutz, mit dem Sovereign Tech Fund in diesem Jahr eine Förderstruktur für die nachhaltige Unterstützung von Open-Source-Basistechnologien zu schaffen, fehlen Mittel für dieses Schlüsselprojekt im Kabinettsbeschluss über den Haushalt, der nun vom Bundestag beraten wird.</summary>
+  </entry>
   
   <entry>
     <title>Neu: Wir starten Koalitionstracker, um Regierungsarbeit zu kontrollieren</title>
@@ -143,16 +153,6 @@ In der gestrigen Rede der EU-Kommissionspräsidentin Ursula von der Leyen zur La
     <updated>2021-08-18T00:00:00+0000</updated>
     <summary>Mit dem Prototype Fund besteht bereits ein starkes Programm zur Förderung von Open Source Software, das stetig weiterentwickelt wird. Durch das BMBF geförderte Forschungsprojekt MoFab - Mobile Fablabs - kann erstmals ein Open Hardware Fund aufgebaut werden. Gefördert werden bis zu sechs Vorhaben, die Ausschreibung wird voraussichtlich im Frühjahr 2022 starten.
 Ziel des Projektes ist es, den Potenzialen zivilgesellschaftlich entwickelter Hardware nachzugehen. Im Zentrum stehen die Fragen, wie im kleinstädtischen und ländlichen Raum die Auseinandersetzung mit Open Source gefördert werden kann und offene Technologien aussehen können, die lokale Probleme lösen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Von der ersten Anfrage bis zu großen Enthüllung - zwei Perspektiven auf 10 Jahre Informationsfreiheit</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/08/freiheit-fuer-wissen/"/>
-    <id>https://okfn.de/blog/2021/08/freiheit-fuer-wissen/</id>
-    <published>2021-08-05T00:00:00+0000</published>
-    <updated>2021-08-05T00:00:00+0000</updated>
-    <summary>Unser Veranstaltungsreihe im Rahmen des 10. Geburtstags der OKF ist am 20. Juli 2021 in die nächste Runde gegangen. Dieses Mal haben sich Felix Reda und Stefan Wehrmeyer über Informationsfreiheit ausgetauscht.
-Informationsfreiheit spielt schon seit Gründung in der OKF eine wichtige Rolle, denn FragDenStaat.de – die Plattform für Informationsfreiheit – wird dieses Jahr ebenfalls 10 Jahre alt und war somit von Anfang an mit dabei. Stefan erzählt, wie er 2011 als Softwareentwickler nach guten Civic Tech-Anwendungsfällen gesucht und bei befreundeten internationalen Organisationen das Thema entdeckt hat.</summary>
   </entry>
   
 </feed>

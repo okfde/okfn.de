@@ -231,7 +231,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -243,8 +243,11 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/basistechnologien/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,14 +259,14 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/leonie-gehrke/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/felix-reda/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2022/03/koalitionstracker/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/infrastruktur/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -275,8 +278,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/open-source/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/03/stf-offener-brief/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,6 +296,12 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/leonie-gehrke/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/03/koalitionstracker/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/transparenz/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
@@ -377,9 +392,6 @@
     <lastmod>2021-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/adriana-groh/</loc>
-    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/basistechnologien/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/infrastructure/</loc>
@@ -579,9 +591,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/02/okf-datenstrategie-nach-kabinettbeschluss/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-source/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/02/ptf-runde-zehn/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
@@ -3091,9 +3100,6 @@
     <lastmod>2012-04-04T12:08:26+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/datenkataloge/</loc>
-    <lastmod>2012-04-02T10:06:45+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/infrastruktur/</loc>
     <lastmod>2012-04-02T10:06:45+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2012/04/wikidata-freie-daten-fur-freie-nutzung/</loc>
