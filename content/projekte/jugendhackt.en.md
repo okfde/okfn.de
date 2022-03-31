@@ -15,17 +15,17 @@ img: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/Jugendhackt_Header.png
 people:
-  - name: Mechthild Schmidt
-    role: Project lead
   - name: Nina Schröter
-    role: Project manager
+    role: Project lead
+  - name: Anne Ware
+    role: Project lead    
   - name: Philip Steffan
     role: Community and PR
   - name: Ivan Botica
-    role: Student employe finances
-  - name: Sonja Fischbauer
-    role: Donations and sponsorings
-contact_person: mechthildschmidt
+    role: Student assistant (accounting)
+  - name: Benjamin Laske
+    role: federal volunteer
+contact_person: nina
 years: 2012 - today
 partners:
   - mediale pfade e.V.
@@ -37,17 +37,17 @@ contact:
   twitter: jugendhackt
   facebook: https://www.facebook.com/jugendhackt
   mailinglist: https://jugendhackt.org/newsletter
-  website: https://jugendhackt.org
+  website: https://jugendhackt.org/about
   mastodon:
     handle: jugendhackt
     server: chaos.social
-video: "https://www.youtube.com/embed/lkNZyfhUvEc"
+video: "https://www.youtube.com/watch?v=4LQvWzOS8IY"
 
 subtitle: A program for young people who want to improve the world with their technical skills
 cta: Participate
 cta_text: |-
   You can become a <a href="https://jugendhackt.org">participant or mentor</a>.<br>
-  With a <a href="https://freundeskreis.jugendhackt.org/unterstuetzen">donation or sponsoring membership</a> you support the next generation of responsible, world-improving technicians. For sponsorings and cooperations, please <a href="mailto:sonja.fischbauer@okfn.de">contact us via email</a>.
+  With a <a href="https://jugendhackt.org/spenden/">donation or sponsoring membership</a> you support the next generation of responsible, world-improving technicians. For sponsorings and cooperations, please <a href="mailto:anne-ware@okfn.de">contact us via email</a>.
 more_text: |-
     More information is available on the <a href="https://jugendhackt.org/">Jugend hackt website</a>.
 ---
@@ -88,4 +88,4 @@ Theodor-Heuss-Medaille 2018
 + [wissenschaftliche Evaluation zu Jugend hackt Events 2015](https://jugendhackt.org/files/2015/03/Jugend-hackt-Kurzversion.pdf) PDF download<br>
 + [wissenschaftliche Evaluation zu Jugend hackt Labs 2019](https://jugendhackt.org/wp-content/uploads/2020/02/Jugend-hackt-Labs-Abschlussbericht-2020.pdf) PDF download
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ZmD1_1EuhQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4LQvWzOS8IY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

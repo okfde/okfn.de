@@ -17,17 +17,17 @@ img: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_square: projects/Jugendhackt_Projektuebersicht_bigTile.png
 img_header: projects/Jugendhackt_Header.png
 people:
-  - name: Mechthild Schmidt
-    role: Projektleitung
   - name: Nina Schröter
-    role: Projektmanagerin
+    role: Projektleitung
+  - name: Anne ware
+    role: Projektleitung
   - name: Philip Steffan
     role: Community und Kommunikation
-  - name: Anne Ware
-    role: Fundraising
+  - name: Benjamin Laske
+    role: Bundesfreiwilligendienstleistender
   - name: Ivan Botica
     role: Studentischer Mitarbeiter Finanzen  
-contact_person: mechthildschmidt
+contact_person: nina
 years: 2012 - heute
 partners:
   - mediale pfade e.V.
@@ -43,13 +43,13 @@ contact:
   mastodon:
     handle: jugendhackt
     server: chaos.social
-video: "https://www.youtube.com/embed/lkNZyfhUvEc"
+video: "https://www.youtube.com/watch?v=4LQvWzOS8IY"
 
 subtitle: Förderprogramm für technikbegeisterte Jugendliche
 cta: Teilnehmen
 cta_text: |-
     Du kannst <a href="https://jugendhackt.org">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
-    Mit deiner <a href="https://freundeskreis.jugendhackt.org/unterstuetzen">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:sonja.fischbauer@okfn.de">Kontaktaufnahme</a>.
+    Mit deiner <a href="https://jugendhackt.org/spenden/">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:anne.ware@okfn.de">Kontaktaufnahme</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://jugendhackt.org/">Website von Jugend hackt</a>.
 
@@ -93,4 +93,4 @@ Theodor-Heuss-Medaille 2018
 + [wissenschaftliche Evaluation zu Jugend hackt Labs 2019](https://jugendhackt.org/wp-content/uploads/2020/02/Jugend-hackt-Labs-Abschlussbericht-2020.pdf) PDF-Download
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ZmD1_1EuhQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/4LQvWzOS8IY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

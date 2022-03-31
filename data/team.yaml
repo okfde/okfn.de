@@ -60,8 +60,8 @@
   bio: "Leonie arbeitet bei der Open Knowledge Foundation in dem Projekt FragDenStaat. Hier leitet sie den Bereich Presse- und Öffentlichkeitsarbeit. Zuvor war die Politik- und Medienwissenschaftlerin mehrere Jahre als Pressesprecherin tätig und hat die Markenentwicklung sowie verschiedene Kampagnen bei einer NGO verantwortet und begleitet."
   bio_en: "Leonie works for FragDenStaat where she manages press and public relations. Before, the political and media scientist worked as a spokesperson for multiple years and was responsible for brand development and various campaigns at an NGO."
   mail: leonie.gehrke@okfn.de
-  twitter: 
-  website: 
+  twitter:
+  website:
 
 - name: Magdalena Noffke
   img: unknown
@@ -73,9 +73,9 @@
   bio: "Magda ist Entwicklerin bei FragDenStaat und Aktive bei Code for Berlin."
   bio_en: "Magda is a developer with FragDenStaat and an activist at Code for Berlin."
   mail: magdalena.noffke@okfn.de
-  twitter: 
-  website: 
-  
+  twitter:
+  website:
+
 - name: Melek Bazgan
   img: melekbazgan
   staff: 1
@@ -86,8 +86,8 @@
   bio: "Melek absolvierte ihren Bachelor in International Relations and Organisations und war anschließend als Praktikantin im Bereich Antimilitarismus und Migrationsrecht tätig. Seit September 2021 wirkt sie im Rahmen eines Bundesfreiwilligendienstes bei der Open Knowledge Foundation im Projekt FragDenStaat mit."
   bio_en: "Melek has a Bachelors degree in International Relations and Organisations. She interned in the areas of anti-militarism and migration. Since September 2021, she is doing her voluntary year at the OKF, working with FragDenStaat."
   mail: melek.bazgan@okfn.de
-  twitter: 
-  website: 
+  twitter:
+  website:
 
 - name: Vera Deleja-Hotko
   img: veradelejahotko
@@ -112,7 +112,7 @@
   bio: "Ivan ist seit März 2021 bei der OKF und unterstützt Jugend hackt hauptsächlich bei der Finanzarbeit. Derzeit befindet er sich im letzten Semester des Soziologiestudiums an der FU Berlin. Sein Interesse gilt der Freiwilligenarbeit und den Integrationsperspektiven in Deutschland."
   bio_en: "Since March 2021 Ivan supports Jugend hackt with administration of financies. Being in his last semester of social studies at FU Berlin his interests are volunteer work and perspectives of integration in Germany."
   mail: ivan.botica@okfn.de
-  twitter: 
+  twitter:
   website:
 
 - name: Anne Ware
@@ -121,14 +121,14 @@
   board: 0
   advisory: 0
   board_alumni: 0
-  position: Fundraising Jugend hackt
-  position_en: Fundraising Jugend hackt
-  bio: "Anne ist seit Oktober 2021 bei Jugend hackt für Fundraising, Spenden und Sponsoring zuständig. Sie hat Politik- und Sozialwissenschaften studiert und als Projektmanagerin und Coach mehrere Jahre in der freien Jugendhilfe an Inklusions- und Beteiligungsformaten für junge Menschen gearbeitet."  
-  bio_en: "Anne is responsible for fundraising at Jugend hackt. She has a degree in political and social sciences and has previously worked as a project manager and coach for youth participation and community programs."  
+  position: Programmleitung Jugend hackt
+  position_en: Program lead Jugend hackt
+  bio: "Anne ist seit Oktober 2021 bei Jugend hackt für Fundraising, Spenden und Sponsoring zuständig, seit März 2022 auch als Programmleitung. Sie hat Politik- und Sozialwissenschaften studiert und als Projektmanagerin und Coach mehrere Jahre in der freien Jugendhilfe an Inklusions- und Beteiligungsformaten für junge Menschen gearbeitet."
+  bio_en: "Anne is responsible for fundraising at Jugend hackt. She has a degree in political and social sciences and has previously worked as a project manager and coach for youth participation and community programs."
   mail: anne.ware@okfn.de
-  twitter: 
-  website: 
-  github: 
+  twitter:
+  website:
+  github:
 
 - name: Hannah Vos
   img: hannahvos
@@ -140,7 +140,7 @@
   bio: "Hannah ist seit März 2021 bei der Open Knowledge Foundation angestellt und Teil des Legal-Teams von FragDenStaat."
   bio_en: "Hannah is with the OKF since March 2021 and part of FragDenStaat's legal team."
   mail: hannah.vos@okfn.de
-  twitter: 
+  twitter:
   website:
 
 - name: Gregor Weichbrodt
@@ -158,13 +158,13 @@
 
 - name: Mechthild Schmidt
   img: mechthildschmidt
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Projektleitung Jugend hackt
   position_en: project management Jugend hackt
-  bio: "Mechthild ist Projektleiterin bei Jugend hackt. Sie koordiniert die Labs und möchte gern an vielen weiteren Orten die Labs etablieren, damit Jugend hackt überall wirkt. Außerdem ist Mechthild bei Jugend hackt für die Finanzen zuständig. "
-  bio_en: "Mechthild is project manager for Jugend hackt. She is coordinates the Jugend hackt Labs and aims to scale more Labs within Germany - so Jugend hackt has an impact everywhere. Furthermore, Mechthild is in charge for financial administration."
+  bio: "Mechthild war 2020 bis 2022 Projektleiterin bei Jugend hackt. Sie koordinierte die Labs und möchte gern an vielen weiteren Orten die Labs etablieren, damit Jugend hackt überall wirkt. Außerdem war Mechthild bei Jugend hackt für die Finanzen zuständig. "
+  bio_en: "Mechthild was project manager for Jugend hackt. She coordinated the Jugend hackt Labs and aims to scale more Labs within Germany - so Jugend hackt has an impact everywhere. Furthermore, Mechthild was in charge for financial administration."
   mail: mechthild.schmidt@okfn.de
   twitter:
   website:
@@ -174,9 +174,9 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektmanagerin Jugend hackt
-  position_en: project management Jugend hackt
-  bio: "Nina ist seit Anfang 2020 für die Jugend hackt Events zuständig. Vor ihrer Zeit bei Jugend hackt hat sie viele Jahre Beteiligungsprozesse konzipiert und begleitet."
+  position: Programmleitung Jugend hackt
+  position_en: program leads Jugend hackt
+  bio: "Nina ist seit Anfang 2020 für die Jugend hackt Events zuständig, seit März 2022 als Programmleitung. Vor ihrer Zeit bei Jugend hackt hat sie viele Jahre Beteiligungsprozesse konzipiert und begleitet."
   bio_en: "Nina has been responsible for the events ath Jugend hackt since the beginning of 2020. Prior to her time at Jugend hackt, she spent many years designing and supporting participation processes."
   mail: nina.schroeter@okfn.de
   twitter:
@@ -207,7 +207,7 @@
   mail: giulia.norberti@okfn.de
   twitter:
   website:
-  
+
 - name: Petra Balint
   img: petra
   staff: 1
@@ -1179,8 +1179,8 @@
   board_alumni: 0
   position: Organisationsentwicklung & Community Strategie
   position_en: Organisational Development & Community Strategy
-  bio: "Sonja arbeitet als Spezialistin für Organisationsentwicklung und Community Strategie im Team der Geschäftsführung. Sie ist die hauptamtliche Kontaktperson für das Civic Tech Netzwerk Code for Germany. Von 2018 bis 2020 war sie Projektleitung von Jugend hackt."  
-  bio_en: "Sonja works as specialist for organizational development and community strategy in the management team. She is the full-time point of contact for the civic tech network Code for Germany. From 2018 to 2020, she was a project lead for Jugend hackt."  
+  bio: "Sonja arbeitet als Spezialistin für Organisationsentwicklung und Community Strategie im Team der Geschäftsführung. Sie ist die hauptamtliche Kontaktperson für das Civic Tech Netzwerk Code for Germany. Von 2018 bis 2020 war sie Projektleitung von Jugend hackt."
+  bio_en: "Sonja works as specialist for organizational development and community strategy in the management team. She is the full-time point of contact for the civic tech network Code for Germany. From 2018 to 2020, she was a project lead for Jugend hackt."
   mail: sonja.fischbauer@okfn.de
   twitter: sonkiki
   website: https://sonjafischbauer.com/
@@ -1295,7 +1295,7 @@
   mail: max.kronmueller@okfn.de
   twitter: krmax44
   github: krmax44
-  
+
 - name: Dr. Daniel Wessolek
   img: daniel_wessolek_
   staff: 1
@@ -1309,7 +1309,7 @@
   twitter: wessolek
   website: https://danielwessolek.com/
   github: nielek2
-  
+
 - name: Francesca Giacco
   img: francescagiacco
   staff: 1
@@ -1317,8 +1317,7 @@
   advisory: 0
   position: Studentische Mitarbeiterin bei Prototype Fund
   position_en: Student Assistant at Prototype Fund
-  bio: Francesca ist Studentische Hilfskraft mit Schwerpunkt Tech im Prototype Fund. Sie hilft bei der Eventsorganisierung und Betreuung der Förderprojekte. Sie absolviert ihr Master Data Science for Public Policy und hat zuvor Wirtschaft, Politik und Philosophie studiert. 
+  bio: Francesca ist Studentische Hilfskraft mit Schwerpunkt Tech im Prototype Fund. Sie hilft bei der Eventsorganisierung und Betreuung der Förderprojekte. Sie absolviert ihr Master Data Science for Public Policy und hat zuvor Wirtschaft, Politik und Philosophie studiert.
   bio_en: Francesca is a student assistant with a focus on tech in the Prototype Fund. She helps with the organisation of events and with the supervision of funded projects. She is pursuing her Master's degree in Data Science for Public Policy and has previously studied Economics, Politics and Philosophy
   mail: francesca.giacco@okfn.de
   github: francescagiacco
-  
