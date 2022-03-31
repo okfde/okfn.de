@@ -19,7 +19,7 @@ img_header: projects/Jugendhackt_Header.png
 people:
   - name: Nina Schröter
     role: Projektleitung
-  - name: Anne ware
+  - name: Anne Ware
     role: Projektleitung
   - name: Philip Steffan
     role: Community und Kommunikation
