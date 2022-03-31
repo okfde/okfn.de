@@ -231,7 +231,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -243,11 +243,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/basistechnologien/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -259,14 +256,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/felix-reda/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/infrastruktur/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2022/03/open-source-investigation/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -278,14 +272,17 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-source/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/patricia-leu/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2022/03/stf-offener-brief/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/tag1/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/tag2/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -296,6 +293,21 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/basistechnologien/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/felix-reda/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/infrastruktur/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-source/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/03/stf-offener-brief/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/leonie-gehrke/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
@@ -495,9 +507,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/06/okf-zukunft-teil-eins/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/patricia-leu/</loc>
-    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/05/bestandsaufnahme-digitale-zivilgesellschaft/</loc>
     <lastmod>2021-05-26T00:00:00+00:00</lastmod>

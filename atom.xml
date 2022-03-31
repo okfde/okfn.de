@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-03-28T00:00:00+0000</updated>
+  <updated>2022-03-31T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Mit Open Source Investigation gegen Menschenrechtsverletzungen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/03/open-source-investigation/"/>
+    <id>https://okfn.de/blog/2022/03/open-source-investigation/</id>
+    <published>2022-03-31T00:00:00+0000</published>
+    <updated>2022-03-31T00:00:00+0000</updated>
+    <summary>Hadi al-Khatib ist Geschäftsführer der gemeinnützigen Organisation Mnemonic und Gründer des Syrian Archive. Beide Projekte konzentrieren sich auf Open Source Investigation - eine Methodik, die sich immer weiter verbreitet und über die im Kontext des Krieges in der Ukraine immer wieder auch in den Medien berichtet wird. Das Syrian Archive wurde im Jahr 2017 im Rahmen des Prototype Fund gefördert. Wir haben mit Hadi über seine Arbeit, die Vorteile von Open Source Investigation und deren Entwicklung über die letzten Jahre gesprochen.</summary>
+  </entry>
   
   <entry>
     <title>Sovereign Tech Fund: Bundestag muss Open Source im Haushalt verankern</title>
@@ -143,16 +152,6 @@ In der gestrigen Rede der EU-Kommissionspräsidentin Ursula von der Leyen zur La
     <published>2021-08-27T00:00:00+0000</published>
     <updated>2021-08-27T00:00:00+0000</updated>
     <summary>Verschiedene Arten von Infrastrukturen verbindet, dass sie in der Regel beinahe unsichtbar sind - und deshalb gerne in Vergessenheit geraten. Ob Internet-Kabel auf dem Meeresgrund, die Straßen unter unseren Füßen und Reifen, oder die untersten Schichten eines Technologiestacks - Infrastrukturen wirken im Verborgenen. Weshalb die Resilienz und Sicherheit von Software-Infrastruktur und Raum für offene Standards für die Arbeit der OKF und die gesamte Gesellschaft wichtig ist - und was wir zu deren Steigerung unternehmen wollen, berichtet wir euch im Blogpost.</summary>
-  </entry>
-  
-  <entry>
-    <title>Kickoff MoFab: zivilgesellschaftlich orientierte, offene Hardware fördern</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/08/kickoff-open-hardware-foerdern/"/>
-    <id>https://okfn.de/blog/2021/08/kickoff-open-hardware-foerdern/</id>
-    <published>2021-08-18T00:00:00+0000</published>
-    <updated>2021-08-18T00:00:00+0000</updated>
-    <summary>Mit dem Prototype Fund besteht bereits ein starkes Programm zur Förderung von Open Source Software, das stetig weiterentwickelt wird. Durch das BMBF geförderte Forschungsprojekt MoFab - Mobile Fablabs - kann erstmals ein Open Hardware Fund aufgebaut werden. Gefördert werden bis zu sechs Vorhaben, die Ausschreibung wird voraussichtlich im Frühjahr 2022 starten.
-Ziel des Projektes ist es, den Potenzialen zivilgesellschaftlich entwickelter Hardware nachzugehen. Im Zentrum stehen die Fragen, wie im kleinstädtischen und ländlichen Raum die Auseinandersetzung mit Open Source gefördert werden kann und offene Technologien aussehen können, die lokale Probleme lösen.</summary>
   </entry>
   
 </feed>
