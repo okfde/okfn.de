@@ -11,7 +11,7 @@ Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu uns
 Henriette Litta<br>
 **E-Mail:** presse@okfn.de<br>
 **Telefon:**
-+49 30 57 70 36 660
++49 30 97 89 42 30
 
 ## Presseverteiler
 
