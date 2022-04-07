@@ -61,7 +61,7 @@ Singerstr. 109
 Deutschland
 
 E-Mail: info@okfn.de<br>
-Telefon: +49 30 57703666 0<br>
+Telefon: +49 30 97 89 42 30<br>
 Fax: +49 30 57703666 9<br>
 
 Unser Datenschutzbeauftragter ist erreichbar unter:
