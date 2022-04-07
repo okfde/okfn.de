@@ -13,7 +13,7 @@ If you are looking for background information, have specific questions about our
 Henriette Litta<br>
 **E-mail:** presse@okfn.de<br>
 **Phone:**
-+49 30 577036660
++49 30 97 89 42 30
 
 ## Press mailing list
 
