@@ -168,6 +168,20 @@
  
    ,
      {
+       "url": "https://okfn.de/en/projekte/bits-und-baeume/",
+       "title": "Bits \u0026 Bäume",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/B&B_Logo_RGB.svg",
+       
+       
+       "content": ["After","the","successful","first","Bits","\u0026amp;","Bäume","Conference","in","2018,","the","topics","of","digitalization","and","sustainability","are","more","present","in","our","society","today","than","ever","before.","We","are","facing","major","societal","and","global","challenges","for","a","just","and","sustainable","shaping","of","our","(surrounding)","world.","Therefore,","we","would","like","to","broaden","and","consolidate","the","networking","of","environmental","and","justice","activists,","technology","experts","and","human","rights","activists","with","the","Bits","\u0026amp;","Bäume","2022","conference","from","September","30","to","October","2,","2022.","This","also","includes","networking","our","communities","with","representatives","of","social-ecological","small","digital","businesses","and","founders","as","well","as","politicians","in","order","to","find","concrete","solutions","for","the","pressing","issues","of","our","time.","We","want","to","discuss","major","political","strategies","and","governance","proposals,","but","also","learn","from","each","other","through","best","practice","examples","how","we","can","realize","climate","and","environmental","protection,","social","justice,","democracy","and","fundamental","rights","in","the","digital","age.","Together","we","want","to","discuss","on","panels,","in","workshops","and","open","spaces:","How","can","digitalization","be","designed","to","contribute","to","a","sustainable","transformation","of","society?","What","does","a","globally,","economically,","socially","and","ecologically","just","future","look","like","in","the","digitized","world?","What","can","the","tech","community","(bits)","and","the","justice","and","environmental","movement","(trees)","learn","from","each","other?","And","how","can","we","become","politically","active,","also","together","with","progressive","and","alternative-economic","actors?","The","Bits","\u0026amp;","Bäume","Conference","2022","is","organized","by","a","supporting/sponsoring","committee,","a","conference","office","and","many","dedicated","volunteers.","The","following","organizations","are","represented","in","the","sponsoring","committee:","Bund","für","Umwelt","und","Naturschutz","Deutschland","(BUND),","Brot","für","die","Welt,","Chaos","Computer","Club","(CCC),","Deutscher","Naturschutz","Ring","(DNR),","Einstein","Center","Digital","Future","/","Technische","Universität","Berlin,","Forum","InformatikerInnen","für","Frieden","und","gesellschaftliche","Verantwortung","e.","V.","(FIfF),","Free","Software","Foundation","Europe","(FSFE),","Germanwatch","e.V.,","Institut","für","ökologische","Wirtschaftsforschung","(IÖW),","Konzeptwerk","Neue","Ökonomie,","Open","Knowledge","Foundation","Deutschland","e.","V.","(OKF),","Weizenbaum","Institut","e.V.,","Vereinte","Dienstleistungsgewerkschaft","(ver.di)"]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/en/projekte/codeforde/",
        "title": "Code for Germany",
        "section": "projekte",

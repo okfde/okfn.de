@@ -158,6 +158,18 @@
                 href="https://okfn.de/en/profil/muendigkeit/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/projekte/bits-und-baeume/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/bits-und-baeume/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/bits-und-baeume/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/codeforde/</loc>
     <xhtml:link
                 rel="alternate"
