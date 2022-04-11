@@ -1,7 +1,7 @@
 ---
 title: Bits & Bäume
 subtitle: Die Bewegung für Digitalisierung und Nachhaltigkeit
-type:
+type: politics
 kategorien:
   - Community
   - Nachhaltigkeit
