@@ -1,6 +1,6 @@
 ---
 title: Bits & Bäume
-subtitle: Die Bewegung für Digitalisierung und Nachhaltigkeit
+subtitle: The movement for digitization and sustainability 
 type:
 kategorien:
   - Community
@@ -32,7 +32,7 @@ cta_text: |-
 more_text: |-
     For more info, links to our communication channels, and all materials, visit the <a href="https://bits-und-baeume.org/de">website</a> of Bits & Bäume.
 ---
-After the successful first Bits & Bäume Conference in 2018, the topics of digitalization and sustainability are more present in our society today than ever before. We are facing major societal and global challenges for a just and sustainable shaping of our (surrounding) world. Therefore, we would like to broaden and consolidate the networking of environmental and justice activists, technology experts and human rights activists with the Bits & Bäume 2022 conference from September 30 to October 2, 2022. This also includes networking our communities with representatives of social-ecological small digital businesses and founders as well as politicians in order to find concrete solutions for the pressing issues of our time. We want to discuss major political strategies and governance proposals, but also learn from each other through best practice examples how we can realize climate and environmental protection, social justice, democracy and fundamental rights in the digital age. 
+After the successful first Bits & Bäume Conference in 2018, the topics of digitalization and sustainability are more present in our society today than ever before. We are facing major societal and global challenges for a just and sustainable shaping of our (surrounding) world. Therefore, we would like to broaden and consolidate the networking of environmental and justice activists, technology experts and human rights activists with the **Bits & Bäume 2022 conference from September 30 to October 2, 2022.** This also includes networking our communities with representatives of social-ecological small digital businesses and founders as well as politicians in order to find concrete solutions for the pressing issues of our time. We want to discuss major political strategies and governance proposals, but also learn from each other through best practice examples how we can realize climate and environmental protection, social justice, democracy and fundamental rights in the digital age. 
 
 Together we want to discuss on panels, in workshops and open spaces:   
  
