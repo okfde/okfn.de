@@ -11,7 +11,7 @@ img: projects/B&B_Logo_RGB.svg
 img_square: projects/B&B_Logo_RGB.svg
 img_header: projects/B&B_Logo_RGB.svg
 layout: project
-weight: 4
+weight: 1
 people:
   - name: Claudia Jach
     role: Trägerkreis/sponsoring committee Bits & Bäume Conference
