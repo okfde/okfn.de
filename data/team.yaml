@@ -1321,3 +1321,16 @@
   bio_en: Francesca is a student assistant with a focus on tech in the Prototype Fund. She helps with the organisation of events and with the supervision of funded projects. She is pursuing her Master's degree in Data Science for Public Policy and has previously studied Economics, Politics and Philosophy
   mail: francesca.giacco@okfn.de
   github: francescagiacco
+
+- name: Karl Engelhardt
+  img: karlengelhardt
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Studentische Mitarbeiter*in bei FragDenStaat
+  position_en: Student Assistant at FragDenStaat
+  bio: Karl studiert Informatik und ist als studentische Hilfskraft Software-Entwickler*in bei FragDenStaat.
+  bio_en: Karl is studying computer science and is a software developer at FragDenStaat.
+  mail: karl.engelhardt@okfn.de
+  github: pajowu
+  twitter: pajowu
