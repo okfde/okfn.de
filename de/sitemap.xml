@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,11 +268,14 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2022/03/open-source-investigation/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/civic-tech/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -284,17 +287,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/patricia-leu/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/tag1/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/tag2/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2022/04/prototype-fund-hardware-jetzt-bewerben/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -305,6 +305,18 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2022/03/open-source-investigation/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/patricia-leu/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/tag1/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/tag2/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/basistechnologien/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
@@ -345,12 +357,6 @@
     <loc>https://okfn.de/authors/stefan-kaufmann-und-walter-palmetshofer/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -381,9 +387,6 @@
   </url><url>
     <loc>https://okfn.de/jobs/jugendhackt-projektmanagement/</loc>
     <lastmod>2022-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/civic-tech/</loc>
-    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>

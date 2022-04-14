@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-03-31T00:00:00+0000</updated>
+  <updated>2022-04-14T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Prototype Fund Hardware: ab dem 15. April bewerben</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/04/prototype-fund-hardware-jetzt-bewerben/"/>
+    <id>https://okfn.de/blog/2022/04/prototype-fund-hardware-jetzt-bewerben/</id>
+    <published>2022-04-14T00:00:00+0000</published>
+    <updated>2022-04-14T00:00:00+0000</updated>
+    <summary>Für eine Welt, in der die Reparatur normal ist, muss Technik neu erfunden werden. Denn unsere Alltagstechnik wurde über Jahre hinweg immer mehr zur Blackbox. Ab dem 15. April startet die Bewerbungsphase des Prototype Fund Hardware - dem Förderprogramm für offene, transparente Technologien.
+Verklebte Gehäuse, keine Ersatzteile, geplante Obsoleszenz sowie eine ungerechte Verteilung von Wissen und Infrastruktur: Technik ist schon immer auch eine Frage der Macht und hat große Auswirkungen auf unsere Umwelt.</summary>
+  </entry>
   
   <entry>
     <title>Mit Open Source Investigation gegen Menschenrechtsverletzungen</title>
@@ -143,15 +153,6 @@ In der gestrigen Rede der EU-Kommissionspräsidentin Ursula von der Leyen zur La
     <updated>2021-09-01T00:00:00+0000</updated>
     <summary>Mit dem vierten Forum Open Education geht die über vier Jahre gewachsene Veranstaltung zu Ende. Begonnen als Paneldiskussion ist daraus ein über fünf Monate verlaufendes Beteiligungsprogramm entstanden, durch das Abgeordnete und Aktivist*en intensiv zusammenarbeiten. Die Teilnehmenden diskutieren Positionen, Ideen und entwickeln gemeinsame Konzepte. In diesem Jahr waren es folgende Themen:
  Bildungsbenachteiligungen erfassen und strukturiert angehen “Wir brauchen Daten und geeignete Instrumente, um strukturelle Benachteiligungen im Bildungssystem anzugehen und bestehende Förderangebote gerecht und effektiv zu verteilen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Infrastructure first, Innovation second!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/08/stf-infrastructure/"/>
-    <id>https://okfn.de/blog/2021/08/stf-infrastructure/</id>
-    <published>2021-08-27T00:00:00+0000</published>
-    <updated>2021-08-27T00:00:00+0000</updated>
-    <summary>Verschiedene Arten von Infrastrukturen verbindet, dass sie in der Regel beinahe unsichtbar sind - und deshalb gerne in Vergessenheit geraten. Ob Internet-Kabel auf dem Meeresgrund, die Straßen unter unseren Füßen und Reifen, oder die untersten Schichten eines Technologiestacks - Infrastrukturen wirken im Verborgenen. Weshalb die Resilienz und Sicherheit von Software-Infrastruktur und Raum für offene Standards für die Arbeit der OKF und die gesamte Gesellschaft wichtig ist - und was wir zu deren Steigerung unternehmen wollen, berichtet wir euch im Blogpost.</summary>
   </entry>
   
 </feed>
