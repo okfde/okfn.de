@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-04-14T00:00:00+0000</updated>
+  <updated>2022-04-21T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bits &amp; Bäume 2022 und die OKF</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/04/auftakt-bits-und-baeume/"/>
+    <id>https://okfn.de/blog/2022/04/auftakt-bits-und-baeume/</id>
+    <published>2022-04-21T00:00:00+0000</published>
+    <updated>2022-04-21T00:00:00+0000</updated>
+    <summary>Vom 30.9. bis 2.10.2022 findet die zweite große Bits &amp;amp; Bäume Konferenz statt - mit der OKF im Trägerkreis. Bits &amp;amp; Bäume ist eine Konferenz, aber auch eine Bewegung von allen Menschen, die Digitalisierung nachhaltiger gestalten wollen, also u. a. gerechter, transparenter, zugänglicher, umweltfreundlicher und ressourcenschonender.
+Digitale Gerechtigkeit als Fokus Was digitale Nachhaltigkeit und nachhaltige Digitalisierung im Kontext unserer Arbeit bei der OKF für uns bedeuten, haben wir hier schon einmal aufgeschrieben.</summary>
+  </entry>
   
   <entry>
     <title>Prototype Fund Hardware: ab dem 15. April bewerben</title>
@@ -143,16 +153,6 @@ In der gestrigen Rede der EU-Kommissionspräsidentin Ursula von der Leyen zur La
     <published>2021-09-15T00:00:00+0000</published>
     <updated>2021-09-15T00:00:00+0000</updated>
     <summary>Die Open Knowledge Foundation Deutschland (OKF), AlgorithmWatch, die Gesellschaft für Freiheitsrechte, Reporter ohne Grenzen und Wikimedia Deutschland schließen sich zum Bündnis F5 zusammen. Ziel der Kooperation ist es, für einen Neustart in der Digitalpolitik (F5) zu werben, um die Digitalisierung an den Interessen der Menschen in Deutschland und Europa auszurichten. Der Fokus sollte in Zukunft auf dem Gemeinwohl liegen, anstatt Interessen von Behörden und die Einnahmen von Tech-Konzerne zum Gradmesser zu machen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Mach mit: für transparente und offene Politikgestaltung</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/09/abschluss-foe/"/>
-    <id>https://okfn.de/blog/2021/09/abschluss-foe/</id>
-    <published>2021-09-01T00:00:00+0000</published>
-    <updated>2021-09-01T00:00:00+0000</updated>
-    <summary>Mit dem vierten Forum Open Education geht die über vier Jahre gewachsene Veranstaltung zu Ende. Begonnen als Paneldiskussion ist daraus ein über fünf Monate verlaufendes Beteiligungsprogramm entstanden, durch das Abgeordnete und Aktivist*en intensiv zusammenarbeiten. Die Teilnehmenden diskutieren Positionen, Ideen und entwickeln gemeinsame Konzepte. In diesem Jahr waren es folgende Themen:
- Bildungsbenachteiligungen erfassen und strukturiert angehen “Wir brauchen Daten und geeignete Instrumente, um strukturelle Benachteiligungen im Bildungssystem anzugehen und bestehende Förderangebote gerecht und effektiv zu verteilen.</summary>
   </entry>
   
 </feed>

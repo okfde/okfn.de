@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,8 +255,11 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
+    <loc>https://okfn.de/blog/2022/04/auftakt-bits-und-baeume/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,14 +271,17 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/civic-tech/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/claudia-jach/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/community/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/nachhaltigkeit/</loc>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,14 +293,8 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2022/04/prototype-fund-hardware-jetzt-bewerben/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -305,6 +305,18 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/civic-tech/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/04/prototype-fund-hardware-jetzt-bewerben/</loc>
+    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/03/open-source-investigation/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
@@ -399,9 +411,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2022/01/fuer-den-schutz-des-pseudonyms/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/community/</loc>
-    <lastmod>2021-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/12/okf-beim-rc3/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
@@ -540,9 +549,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/05/kickoff-foe21-bildungspolitik-gestalten/</loc>
     <lastmod>2021-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/claudia-jach/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/05/digitale-nachhaltigkeit-gerechtigkeit/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
@@ -860,9 +866,6 @@
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/k%C3%BCnstliche-intelligenz/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/nachhaltigkeit/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2019/07/bits-und-baeume-publikation/</loc>
