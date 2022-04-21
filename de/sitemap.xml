@@ -778,10 +778,10 @@
     <loc>https://okfn.de/blog/2020/01/ein-brief-zum-jahresbeginn/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/strommarkt/</loc>
+    <loc>https://okfn.de/blog/2020/01/mehr-transparenz-fuer-den-oekostrommarkt/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2020/01/mehr-transparenz-fuer-den-oekostrommarkt/</loc>
+    <loc>https://okfn.de/tags/strommarkt/</loc>
     <lastmod>2020-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/zensurheberrecht/</loc>
@@ -1853,10 +1853,10 @@
     <loc>https://okfn.de/blog/2016/10/sh-stellungnahme/</loc>
     <lastmod>2016-10-31T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/innenministerium/</loc>
+    <loc>https://okfn.de/blog/2016/10/opendata-gesetz/</loc>
     <lastmod>2016-10-24T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2016/10/opendata-gesetz/</loc>
+    <loc>https://okfn.de/tags/innenministerium/</loc>
     <lastmod>2016-10-24T11:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/iodc/</loc>
@@ -3291,10 +3291,10 @@
     <loc>https://okfn.de/blog/2011/08/freies-wissen-fur-berlin/</loc>
     <lastmod>2011-08-16T16:32:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/right-to-access/</loc>
+    <loc>https://okfn.de/blog/2011/08/fragdenstaat-neues-internetportal-erleichtert-zugang-zu-informationen/</loc>
     <lastmod>2011-08-01T10:30:38+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2011/08/fragdenstaat-neues-internetportal-erleichtert-zugang-zu-informationen/</loc>
+    <loc>https://okfn.de/tags/right-to-access/</loc>
     <lastmod>2011-08-01T10:30:38+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2011/07/welcome-to-our-wikimedian-in-residence-on-open-science/</loc>
@@ -3830,6 +3830,18 @@
   </url><url>
     <loc>https://okfn.de/styleguide/</loc>
   </url><url>
+    <loc>https://okfn.de/jahresberichte/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jahresberichte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jahresberichte/"
+                />
+  </url><url>
     <loc>https://okfn.de/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3888,18 +3900,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/projekte/turing-bus/"
-                />
-  </url><url>
-    <loc>https://okfn.de/jahresberichte/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jahresberichte/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jahresberichte/"
                 />
   </url><url>
     <loc>https://okfn.de/verein/</loc>
