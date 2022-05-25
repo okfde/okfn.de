@@ -8,7 +8,7 @@ image:
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
-published: true
+published: false
 title: "Verstärke Jugend hackt als Projektmanager*in und Netzwerkkoordinator*in (50%)"
 ---
 
