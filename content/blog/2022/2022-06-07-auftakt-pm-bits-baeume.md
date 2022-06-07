@@ -11,7 +11,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: " Gemeinsame Pressemitteilung von 13 Organisationen aus Umwelt- und Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft 7. Juni 2022"
+title: "Gemeinsame Pressemitteilung von 13 Organisationen aus Umwelt- und Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft 7. Juni 2022"
 ---
 
 **++ Digitalisierung und Nachhaltigkeit zusammendenken – Zweite bundesweite Bits & Bäume Konferenz vom 30. September bis 2. Oktober – Aufruf für Konferenzbeiträge ++**
