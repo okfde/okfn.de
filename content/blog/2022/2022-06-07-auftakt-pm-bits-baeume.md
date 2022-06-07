@@ -2,8 +2,8 @@
 authors:
 - Claudia Jach
 date: 2022-06-07
-image: /files/blog/2022/03/B&B Logo mit Schrift.jpg
-  src: 
+image: 
+  src: /files/blog/2022/03/B&B Logo mit Schrift.jpg
 tags:
 - Community
 - Nachhaltigkeit
