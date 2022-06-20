@@ -21,7 +21,7 @@ Die Satzung der Open Knowledge Foundation Deutschland e. V. ist [hier einsehbar]
 ### 3. Angaben zur Steuerbegünstigung
 Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/Freistellungsbescheid2020.pdf) des Finanzamts für Körperschaften I, Berlin vom 03.09.2021 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
-Ein aktueller Auszug aus dem Vereinsregister von 2020 ist [hier einsehbar](/files/documents/Vereinsregisterauszug_OKFDE_2020.pdf).
+Ein aktueller Auszug aus dem Vereinsregister ist [hier einsehbar](/files/documents/2022-03-21-Vereinsregisterauszug-OKF-DE.pdf).
 
 ### 4. Name und Funktion wesentlicher Entscheidungsträger:innen
 Vorsitzende ist Kristina Klein, Kassenwartin ist Gabriele C. Klug. Weitere Vorstandsmitglieder sind Daniel Dietrich, Felix Reda, Lea Gimpel und Stefan Heumann. Vom Vorstand bevollmächtigte Geschäftsführerin ist Henriette Litta.
