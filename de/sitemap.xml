@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -266,6 +266,47 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2022/06/jahresbericht-2021/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/jahresbericht/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/okfde/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/openknowledge/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/authors/claudia-jach/</loc>
@@ -279,32 +320,6 @@
   </url><url>
     <loc>https://okfn.de/tags/nachhaltigkeit/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2022/04/auftakt-bits-und-baeume/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
@@ -474,15 +489,6 @@
     <loc>https://okfn.de/blog/2021/07/jahresbericht-2020/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/jahresbericht/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/okfde/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/openknowledge/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/authors/vorstand/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -634,9 +640,6 @@
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/jobs/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/maximilian-richt/</loc>
