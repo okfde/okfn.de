@@ -12,7 +12,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: "Das war 2021: Unser Jahresbericht ist jetzt veröffentlicht""
+title: "Das war 2021: Unser Jahresbericht ist jetzt veröffentlicht"
 ---
 
 
