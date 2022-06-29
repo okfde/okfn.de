@@ -1,10 +1,10 @@
 ---
-title: Einnahmen 2020
+title: Einnahmen 2021
 weight: 3
 ---
 
 
-Den Großteil (65%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Dazu kommen wachsende Spendeneinnahmen in Höhe von ca. 21% unserer Einnahmen. Die meisten Spenden sind an FragDenStaat adressiert; aber auch die OKF als Ganzes verbucht dank der Spendenkampagne <a href="https://de.wikipedia.org/wiki/Friendly_Fire_(Charity-Livestream)">FriendlyFire</a>, die im Dezember 2019 <a href="https://www.youtube.com/watch?v=iMAl9q7iGgQ">für uns</a> und für 7 andere Organisationen gesammelt hat, hohe Spendeneinnahmen. Über wirtschaftliche Einnahmen haben wir 13% erwirtschaftet, Sponsoring trägt aktuell zu weniger als 1% unserer Gelder bei.
+Den Großteil (75%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Dazu kommen wachsende Spendeneinnahmen in Höhe von ca. 19% unserer Einnahmen. Die meisten Spenden sind an FragDenStaat adressiert; aber auch Jugend hackt, Code for Germany und die OKF als Ganzes verbuchen Spendeneinnahmen. Über wirtschaftliche Einnahmen haben wir 6% erwirtschaftet, Sponsoring trägt aktuell zu weniger als 1% unserer Gelder bei.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Übersicht</a>
