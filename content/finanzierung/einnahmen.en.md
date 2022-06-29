@@ -1,10 +1,10 @@
 ---
-title: Revenues 2020
+title: Revenues 2021
 weight: 3
 ---
 
 
-The majority (65%) of our income comes from project-related grants. In addition, there is growing donation income amounting to approximately 21% of our income. Most of the donations are addressed to FragDenStaat. Additionally, the charity campaign <a href="https://de.wikipedia.org/wiki/Friendly_Fire_(Charity-Livestream)">FriendlyFire</a> contributed to this increase of donations by raising <a href="https://www.youtube.com/watch?v=iMAl9q7iGgQ">donations for the OKF as a whole</a> as well as for 7 other organizations in December 2019. Furthermore, we generated about 13% of our income from economic income sources. Sponsoring currently accounts for less than 1% of our funds.
+The majority (75%) of our income comes from project-related grants. In addition, there is growing donation income amounting to approximately 19% of our income. Most of the donations are addressed to FragDenStaat. Additionally, Jugend hackt, Code for Germany and OKF DE as a whole record donations. Furthermore, we generated about 6% of our income from economic income sources. Sponsoring currently accounts for less than 1% of our funds.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Overview</a>
