@@ -1,12 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>0001-01-01T00:00:00+0000</updated>
+  <updated>2022-07-12T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Der Prototype Fund sucht eine Person für Kommunikation und Content als Elternzeitvertretung</title>
+    <link rel="alternate" href="https://okfn.de/jobs/ptf-ez-kommunikation/"/>
+    <id>https://okfn.de/jobs/ptf-ez-kommunikation/</id>
+    <published>2022-07-12T00:00:00+0000</published>
+    <updated>2022-07-12T00:00:00+0000</updated>
+    <summary>Im Rahmen einer Elternzeitvertretung suchen wir eine Person, die unsere Arbeit und Ziele über verschiedene Kanäle kommuniziert. Dabei nutzt du proaktiv Möglichkeiten, um unsere Inhalte zu platzieren und unterstützt die geförderten Projekte (und ggf. Alumni) dabei, sich und ihre Ideen vorzustellen und zu vernetzen. Dafür nutzen wir bereits etablierte Formate und freuen uns über neue Ideen und Vorschläge!
+Wir sind begeistert, wenn du Kenntnisse in der Presse- und Öffentlichkeitsarbeit sowie Content-Produktion mitbringst.</summary>
+  </entry>
   
 </feed>
