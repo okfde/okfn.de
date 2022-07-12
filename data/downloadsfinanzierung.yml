@@ -13,6 +13,7 @@
     text: In 2018, we decided to switch our accounting method to balance sheets, and in addition, we voluntarily provide the notes to the financial statements and the management report. 
   prefix: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss
   years:
+    - 2021
     - 2020
     - 2019
     - 2018
@@ -32,6 +33,7 @@
     text: Beginning in 2018, our annual financial statements including notes and managment reports are now voluntarily audited.
   prefix: /files/documents/WP-Berichte/OKF-DE-WPBericht
   years:
+    - 2021
     - 2020
     - 2019
     - 2018
