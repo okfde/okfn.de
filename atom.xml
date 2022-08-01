@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-06-22T00:00:00+0000</updated>
+  <updated>2022-08-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Prototype Fund: Jetzt bewerben für Runde 13</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/08/ptf-runde-13/"/>
+    <id>https://okfn.de/blog/2022/08/ptf-runde-13/</id>
+    <published>2022-08-01T00:00:00+0000</published>
+    <updated>2022-08-01T00:00:00+0000</updated>
+    <summary>Seit dem 1. August 2022 ist es wieder soweit: Ihr könnt eure Public-Interest-Tech-Ideen für die kommende Förderphase des Prototype Fund einreichen. Wenn eure Bewerbung den Zuschlag erhält, startet ihr mit den anderen Prototypler*innen am 1. März 2023 in die Förderung.
+Das Programm sucht Software-Innovationen mit gesellschaftlichem Mehrwert, die in enger Zusammenarbeit mit der Zielgruppe, bottom-up und zwingend Open Source entwickelt werden. Das Bundesministerium für Bildung und Forschung entscheidet über die Förderung der von unserer Jury vorgeschlagenen Projekte.</summary>
+  </entry>
   
   <entry>
     <title>Das war 2021: Unser Jahresbericht ist jetzt veröffentlicht</title>
@@ -144,16 +154,6 @@ Prototype Fund Hardware: Einblicke &amp;amp; Ausblicke Im Frühjahr 2022 startet
     <published>2021-11-25T00:00:00+0000</published>
     <updated>2021-11-25T00:00:00+0000</updated>
     <summary>Gestern hat die Ampel ihren Koalitionsvertrag vorgestellt. Für die Digitalpolitik nimmt sie sich viel vor. Sehr erfreulich ist der vorgenommene Perspektivwechsel: Im Zentrum der Vorschläge stehen die Bürger:innen mit ihren Rechten, ihrem Bedürfnis nach Sicherheit und dem Wunsch nach mehr Partizipation. Darüber hinaus ist es den Verhandelnden gelungen, die Digitalpolitik in ihrer gesamten Bandbreite quer über alle Themen zu verankern: Von der Infrastruktur, den Digitalkompetenzen, den Verbraucher:innenrechten bis zur IT-Sicherheit und der Außenpolitik.</summary>
-  </entry>
-  
-  <entry>
-    <title>Wir brauchen ein Förderprogramm für Offene Digitale Basistechnologien</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/11/stf-publikation-machbarkeitsstudie/"/>
-    <id>https://okfn.de/blog/2021/11/stf-publikation-machbarkeitsstudie/</id>
-    <published>2021-11-16T00:00:00+0000</published>
-    <updated>2021-11-16T00:00:00+0000</updated>
-    <summary>Berlin, 16.11.2021
-Die Gestaltung der Digitalisierung muss eines der zentralen Themen der neuen Bundesregierung werden. Um die digitale Souveränität Deutschlands zu stärken, brauchen wir ein starkes Open Source Ökosystem. Damit dieses auf stabilen Füßen stehen kann, braucht es dringend ein Förderprogramm für Offene Digitale Basistechnologien. Die Open Knowledge Foundation Deutschland hat mithilfe verschiedener Expertinnen in einer heute veröffentlichten Machbarkeitsstudie analysiert, wie ein solches umfassendes Förderinstrument aussehen könnte und was es braucht, um mit der Umsetzung loszulegen.</summary>
   </entry>
   
 </feed>

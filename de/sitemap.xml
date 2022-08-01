@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -253,6 +253,54 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/patricia-leu/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/prototype-fund/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/08/ptf-runde-13/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/jobs/ptf-ez-kommunikation/</loc>
@@ -271,35 +319,6 @@
                 href="https://okfn.de/jobs/"
                 />
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
-    <loc>https://okfn.de/authors/patricia-leu/</loc>
-    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
     <loc>https://okfn.de/blog/2022/06/jahresbericht-2021/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -314,19 +333,6 @@
   </url><url>
     <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/claudia-jach/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
@@ -546,9 +552,6 @@
   </url><url>
     <loc>https://okfn.de/tags/policy/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/prototype-fund/</loc>
-    <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/05/ptf-solutionismus-innovationsentwicklung/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
