@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -253,6 +253,38 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/jobs/okf-policy-opendata/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
+                />
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
@@ -266,19 +298,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/blog/"
-                />
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
                 />
   </url><url>
     <loc>https://okfn.de/authors/patricia-leu/</loc>
@@ -305,19 +324,6 @@
   </url><url>
     <loc>https://okfn.de/jobs/ptf-ez-kommunikation/</loc>
     <lastmod>2022-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2022-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2022/06/jahresbericht-2021/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
@@ -416,9 +422,6 @@
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/02/okf-lobbyregister/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/</loc>
