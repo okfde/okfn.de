@@ -3,18 +3,18 @@ authors:
 - Henriette Litta
 date: 2022-08-03
 image:
-  src: /files/jobs/ptf-kommunikation.png
-  title: "Elternzeitvertretung: Kommunikations- und Content-Management"
+  src: /files/blog/2021/03/Logo_okfde_black_centered.png
+  title:
   license: 
   license_url:
 tags:
-published: false
+published: true
 title: "Die OKF sucht eine:n Projektmanager:in für Policy und Open Data"
 ---
 
 Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär.
 
-Wir suchen **eine:n Projektmanager:in Policy und Open Data** (in Voll- oder Teilzeit) ab Oktober 2022, befristet für 2 Jahre und entlohnt angelehnt an TVL 13/1.
+Wir suchen **eine:n Projektmanager:in Policy und Open Data** (in Voll- oder Teilzeit) ab Oktober 2022, befristet für 2 Jahre und entlohnt angelehnt an [TVL 13/1](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/west?id=tv-l-2023&matrix=1).
 
 Mit dieser Stelle trägst du dazu bei, die vielfältigen praktischen Erfahrungswerte aus den OKF-Projekten in gesellschaftliche Forderungen zu bündeln und in den politischen Raum zu tragen. Außerdem arbeitest du daran, die OKF als zentralen Hub für Open Data zu etablieren.
 
