@@ -806,6 +806,18 @@
                 href="https://okfn.de/en/projekte/sehrgutachten/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/projekte/stf-machbarkeitsstudie/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/stf-machbarkeitsstudie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/stf-machbarkeitsstudie/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/stadtlandcode/</loc>
     <xhtml:link
                 rel="alternate"

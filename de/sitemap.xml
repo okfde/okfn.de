@@ -3816,6 +3816,18 @@
                 href="https://okfn.de/projekte/sehrgutachten/"
                 />
   </url><url>
+    <loc>https://okfn.de/projekte/stf-machbarkeitsstudie/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/stf-machbarkeitsstudie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/stf-machbarkeitsstudie/"
+                />
+  </url><url>
     <loc>https://okfn.de/spenden/</loc>
     <xhtml:link
                 rel="alternate"
