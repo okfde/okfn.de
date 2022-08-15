@@ -37,6 +37,7 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 [comment]: # (!Achtung: Den aktuellen Bericht KEINESFALLS schon hier verlinken, bevor nicht 1. die Mitgliederversammlung ihn abgesegnet hat und 2. der Wirtschaftsprüfer die Zahlen freigegeben hat!)
 
+- [Jahresbericht 2021](https://2021.okfn.de/) <br>
 - [Jahresbericht 2020](https://2020.okfn.de/) <br>
 - [Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
 - [Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
@@ -50,12 +51,13 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 ### 6. Personalstruktur
 
-#### Teammitglieder Geschäftsjahr 2020
+#### Teammitglieder Geschäftsjahr 2021
 
 Mit durchschnittlich 28 liegt die Zahl der beschäftigten Teammitglieder etwas unter dem Vorjahresniveau (32). Im Programm Jugend hackt lief die Finanzierung einiger Stellen plangemäß zu Jahresbeginn aus; die Projekte Datenschule und Turingbus wurden abgeschlossen. Zum Januar wurde die Position der Geschäftsführung, die seit Juni 2019 kommissarisch ausgeübt wurde, besetzt. Das Programm FragDenStaat konnte dank hoher Spendeneinnahmen personell wachsen. Erstmals konnte ein Syndikusanwalt eingestellt werden, der den Verein auch allgemein berät. Auch eine Entwickler-Position wurde im Projekt besetzt. Bei Jugend hackt wechselte im Januar eine von zwei Programmleitungen. Der überwiegende Teil der Beschäftigten (25) ist im Berliner Büro angesiedelt. Für Jugend hackt sind darüber hinaus zwei Mitarbeitende in Ulm sowie ein Mitarbeiter in Fürstenberg/Havel beschäftigt. Besonders erfreulich ist, dass der Frauenanteil in der OKF DE bei über 55 Prozent liegt. Acht hauptamtliche Teammitglieder üben Leitungsfunktionen aus, wobei die Hälfte weiblich ist. 
 
 ### 7. & 8. Angaben zur Mittelherkunft & -verwendung
 
+- [Bilanz und Bericht der Wirtschaftsprüfung 2021](/files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf)
 - [Bilanz und Bericht der Wirtschaftsprüfung 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf)
 - [Bilanz und Bericht der Wirtschaftsprüfung 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) 
 - [Bilanz und Bericht der Wirtschaftsprüfung 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) 
