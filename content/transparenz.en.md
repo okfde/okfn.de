@@ -35,6 +35,7 @@ Our external data protection officer is Beata-Konstanze Hubrig from [Rechtsanwal
 ### 5. Annual reports [DE]
 Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
+- [Jahresbericht 2021](https://2021.okfn.de/) <br>
 - [Jahresbericht 2020](https://2020.okfn.de/) <br>
 - [Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
 - [Tätigkeitsbericht 2018](https://2018.okfn.de/) <br>
@@ -48,12 +49,13 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### 6. Personnel structure
 
-#### Team members 2020
+#### Team members 2021
 
 With an average of 28, the number of employed team members is slightly below the previous year's level (32). At Jugend hackt, funding for some positions expired as planned at the beginning of the year; the projects Data School and Turingbus were completed. As of January, the position of managing director, which had been held on an interim basis since June 2019, was filled. FragDenStaat was able to grow in terms of staff thanks to high donation income. For the first time, it was possible to hire an in-house lawyer who also provides general advice to the association. A developer position was also filled in the project. At Jugend hackt, one of two program heads changed in January. The majority of employees (25) is based in the Berlin office. For Jugend hackt, there are also two employees in Ulm and one in Fürstenberg/Havel. It is particularly pleasing that the proportion of women at OKF DE is over 55 percent. Eight full-time team members hold leadership positions, half of whom are female. 
 
 ### 7. & 8. Information on source & use of funds
 
+- [Balance Sheet and audit report 2021](/files/WP-Berichte/OKF-DE-WPBericht-2021.pdf)
 - [Balance Sheet and audit report 2020](/files/WP-Berichte/OKF-DE-WPBericht-2020.pdf)
 - [Balance Sheet and audit report 2019](/files/WP-Berichte/OKF-DE-WPBericht-2019.pdf)
 - [Balance Sheet and audit report 2018](/files/WP-Berichte/OKF-DE-WPBericht-2018.pdf)
