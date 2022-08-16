@@ -49,9 +49,7 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### 6. Personnel structure
 
-#### Team members 2021
-
-With an average of 28, the number of employed team members is slightly below the previous year's level (32). At Jugend hackt, funding for some positions expired as planned at the beginning of the year; the projects Data School and Turingbus were completed. As of January, the position of managing director, which had been held on an interim basis since June 2019, was filled. FragDenStaat was able to grow in terms of staff thanks to high donation income. For the first time, it was possible to hire an in-house lawyer who also provides general advice to the association. A developer position was also filled in the project. At Jugend hackt, one of two program heads changed in January. The majority of employees (25) is based in the Berlin office. For Jugend hackt, there are also two employees in Ulm and one in Fürstenberg/Havel. It is particularly pleasing that the proportion of women at OKF DE is over 55 percent. Eight full-time team members hold leadership positions, half of whom are female. 
+In addition to the managing director, OKF DE employs around team members. The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes the positions of system administration, organizational development, accounting and finance. OKF DE pays salaries to all employees based on the collective agreement of the federal states (TVL). It is particularly pleasing that the proportion of women working at OKF DE is over 57 percent.
 
 ### 7. & 8. Information on source & use of funds
 
