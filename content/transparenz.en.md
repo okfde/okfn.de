@@ -49,7 +49,7 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### 6. Personnel structure
 
-In addition to the managing director, OKF DE employs around team members. The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes the positions of system administration, organizational development, accounting and finance. OKF DE pays salaries to all employees based on the collective agreement of the federal states (TVL). It is particularly pleasing that the proportion of women working at OKF DE is over 57 percent.
+In addition to the managing director, OKF DE employs around 30 team members. The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes the positions of system administration, organizational development, accounting and finance. OKF DE pays salaries to all employees based on the collective agreement of the federal states (TVL). It is particularly pleasing that the proportion of women working at OKF DE is over 57 percent.
 
 ### 7. & 8. Information on source & use of funds
 
