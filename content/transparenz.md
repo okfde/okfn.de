@@ -51,9 +51,7 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 ### 6. Personalstruktur
 
-#### Teammitglieder Geschäftsjahr 2021
-
-Mit durchschnittlich 28 liegt die Zahl der beschäftigten Teammitglieder etwas unter dem Vorjahresniveau (32). Im Programm Jugend hackt lief die Finanzierung einiger Stellen plangemäß zu Jahresbeginn aus; die Projekte Datenschule und Turingbus wurden abgeschlossen. Zum Januar wurde die Position der Geschäftsführung, die seit Juni 2019 kommissarisch ausgeübt wurde, besetzt. Das Programm FragDenStaat konnte dank hoher Spendeneinnahmen personell wachsen. Erstmals konnte ein Syndikusanwalt eingestellt werden, der den Verein auch allgemein berät. Auch eine Entwickler-Position wurde im Projekt besetzt. Bei Jugend hackt wechselte im Januar eine von zwei Programmleitungen. Der überwiegende Teil der Beschäftigten (25) ist im Berliner Büro angesiedelt. Für Jugend hackt sind darüber hinaus zwei Mitarbeitende in Ulm sowie ein Mitarbeiter in Fürstenberg/Havel beschäftigt. Besonders erfreulich ist, dass der Frauenanteil in der OKF DE bei über 55 Prozent liegt. Acht hauptamtliche Teammitglieder üben Leitungsfunktionen aus, wobei die Hälfte weiblich ist. 
+Die OKF DE beschäftigt neben der Geschäftsführung noch ca. 30 hauptamtliche Teammitglieder. Die Projektleitungen steuern ihre Projekte eigenständig und haben Projektteams mit Projektmanager:innen und Projektassistent:innen. Im Team der Geschäftsführung sind die Positionen Systemadministration, Organisationsentwicklung, Buchhaltung und Finanzen verortet. Die OKF DE zahlt allen Mitarbeitenden Gehälter angelehnt an den Tarifvertrag der Länder (TVL). Besonders erfreulich ist, dass der Frauenanteil in der OKF DE bei über 57 Prozent liegt.
 
 ### 7. & 8. Angaben zur Mittelherkunft & -verwendung
 
