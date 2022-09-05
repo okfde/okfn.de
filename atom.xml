@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-08-01T00:00:00+0000</updated>
+  <updated>2022-09-05T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bündnis fordert von Politik: Digitalisierung muss sozial-ökologischem Wandel dienen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/09/forderungen-bits-und-baeume/"/>
+    <id>https://okfn.de/blog/2022/09/forderungen-bits-und-baeume/</id>
+    <published>2022-09-05T00:00:00+0000</published>
+    <updated>2022-09-05T00:00:00+0000</updated>
+    <summary>Pressemitteilung
+13 Organisationen veröffentlichen Forderungen anlässlich der „Bits &amp;amp; Bäume“-Konferenz 2022
+Berlin, 5. September 2022 – Die Digitalisierung muss stärker in den Dienst der Gesellschaft und des sozial-ökologischen Wandels gestellt werden. Digitale Technologien sollten durch gleichberechtigte gesellschaftliche Teilhabe und innerhalb der planetaren Grenzen zur Verbesserung von Lebensbedingungen und der Umwelt beitragen, anstatt durch explodierenden Energiebedarf, Ressourcenverbrauch und mangelnde Teilhabe vor allem des Globalen Südens existierende Krisen noch weiter zu verschärfen. Mit diesem Appell und insgesamt mehr als 60 thematischen Forderungen wenden sich heute 13 Organisationen aus Umwelt,- Klima- und Naturschutz, Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft anlässlich der bevorstehenden „Bits &amp;amp; Bäume“-Konferenz an die Bundesregierung, die Europäische Union und politische Akteure weltweit.</summary>
+  </entry>
   
   <entry>
     <title>Prototype Fund: Jetzt bewerben für Runde 13</title>
@@ -145,15 +156,6 @@ Unter einem Pseudonym in der Öffentlichkeit auftreten zu können, ist ein eigen
     <updated>2021-12-22T00:00:00+0000</updated>
     <summary>Auch in diesem Jahr wird der jährliche Congress des Chaos Computer Clubs wieder online stattfinden. Dazu bieten verschiedene Hackspaces Bühnen für Veranstaltungen (eine Übersicht gibt es hier). Außerdem könnt ihr euch in der Remote Chaos Experience treffen - dazu müsst ihr euch nur ein Ticket klicken. Auch die OKF ist mit ein paar Talks, Workshops und Community-Treffen dabei, die wir hier auflisten:
 Prototype Fund Hardware: Einblicke &amp;amp; Ausblicke Im Frühjahr 2022 startet die Open Knowledge Foundation den ersten Prototype Fund für Hardware.</summary>
-  </entry>
-  
-  <entry>
-    <title>Der Koalitionsvertrag liegt vor. In der Digitalpolitik soll vieles anders werden. Gut so. Aber bitte auch liefern.</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/11/okf-kommentar-koalitionsvertrag/"/>
-    <id>https://okfn.de/blog/2021/11/okf-kommentar-koalitionsvertrag/</id>
-    <published>2021-11-25T00:00:00+0000</published>
-    <updated>2021-11-25T00:00:00+0000</updated>
-    <summary>Gestern hat die Ampel ihren Koalitionsvertrag vorgestellt. Für die Digitalpolitik nimmt sie sich viel vor. Sehr erfreulich ist der vorgenommene Perspektivwechsel: Im Zentrum der Vorschläge stehen die Bürger:innen mit ihren Rechten, ihrem Bedürfnis nach Sicherheit und dem Wunsch nach mehr Partizipation. Darüber hinaus ist es den Verhandelnden gelungen, die Digitalpolitik in ihrer gesamten Bandbreite quer über alle Themen zu verankern: Von der Infrastruktur, den Digitalkompetenzen, den Verbraucher:innenrechten bis zur IT-Sicherheit und der Außenpolitik.</summary>
   </entry>
   
 </feed>
