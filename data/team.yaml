@@ -104,7 +104,7 @@
 
 - name: Ivan Botica
   img: unknown
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Studentischer Mitarbeiter bei Jugend hackt / Finanzadministration
@@ -1360,7 +1360,7 @@
   mail: lisa.jahn@okfn.de
   twitter:
   website:
-  
+
 - name: Felizitas Fauther
   img: felizitasfauther
   staff: 1
@@ -1371,4 +1371,3 @@
   bio: Feli ist Studentische Hilfskraft mit Schwerpunkt Kommunikation im Prototype Fund. Sie unterstützt Patricia bei der Kommunikation mit den Förderprojekten und innerhalb des Prototype Funds. Feli studiert Kulturwissenschaften im Bachelor und hat eine Ausbildung zur Interkulturellen Peertutorin absolviert. Außerdem tanzt sie noch.
   bio_en: Feli works as a student assistant with a focus in communication at the Prototype Fund. She supports Patricia in communicating with the funded projects and in the Prototype Fund. Feli is studying cultural science and is an intercultural tutor. Apart from that, she is also dancing.
   mail: felizitas.fauther@okfn.de
-  
