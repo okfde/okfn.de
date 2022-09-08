@@ -3,7 +3,7 @@ layout: verein
 title: Verein
 blurb: Wir sind ein gemeinnütziger Verein mit Sitz in Berlin
 meta: Über den Verein, die Dachorganisation und Jahresberichte
-img_header: /okf/verein-social-og.png
+img_header: /okf/social-og/verein-social-og.png
 img: /okf/verein/verein_intro_2.jpg
 search_keys:
   - Satzung

@@ -1,7 +1,7 @@
 ---
 title: Transparenz
 meta: Freiwillige Angaben zur Vereinstransparenz
-img_header: /okf/transparenz-social-og.png
+img_header: /okf/social-og/transparenz-social-og.png
 ---
 
 ### 1. Name, Sitz, Anschrift und Gründungsjahr

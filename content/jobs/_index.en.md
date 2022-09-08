@@ -1,7 +1,7 @@
 ---
 title: Jobs
 meta: Open positions at OKF DE
-img_header: /okf/jobs-social-og.png
+img_header: /okf/social-og/jobs-social-og.png
 layout: jobs
 no_jobs: We have no vacancies at the moment. Subscribe to our newsletter to stay informed about job opportunities.
 img_1:

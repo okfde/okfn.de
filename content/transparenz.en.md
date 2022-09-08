@@ -1,7 +1,7 @@
 ---
 title: Transparency
 meta: Voluntary transparency information about the organisation
-img_header: /okf/transparenz-social-og.png
+img_header: /okf/social-og/transparenz-social-og.png
 ---
 
 ### 1. Name, registered office, address and year of incorporation

@@ -5,5 +5,5 @@ work: Wir setzen uns für offenes Wissen und demokratische Teilhabe ein. Dafür 
 donate_title: Unterstütze jetzt offenes Wissen!
 donate_text: Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht kommerziell. Mit einer Spende unterstützt Du uns und unsere Community.
 meta: Open Knowledge Foundation Deutschland e.V.
-img_header: /okf/start-social-og.png
+img_header: /okf/social-og/start-social-og.png
 ---

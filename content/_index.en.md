@@ -5,5 +5,5 @@ work: We fight for open knowledge and democratic participation by developing tec
 donate_title: Support our mission now!
 donate_text: Our work is independent, non-partisan, interdisciplinary and non-commercial. With a donation you can help us and our community.
 meta: Open Knowledge Foundation Germany e.V.
-img_header: /okf/start-social-og.png
+img_header: /okf/social-og/start-social-og.png
 ---

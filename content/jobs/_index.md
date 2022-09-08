@@ -1,7 +1,7 @@
 ---
 title: Jobs
 meta: Stellenausschreibungen bei der OKF
-img_header: /okf/jobs-social-og.png
+img_header: /okf/social-og/jobs-social-og.png
 layout: jobs
 no_jobs: Wir haben zur Zeit leider keine Jobs zu vergeben. Am besten abonnierst Du unseren Newsletter, um über zukünftige Stellenausschreibungen informiert zu werden.
 img_1:

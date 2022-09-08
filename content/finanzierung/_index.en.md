@@ -4,7 +4,7 @@ layout: finance
 meta: Overview of our funding
 box_title: To meet our own transparency requirements, we compiled the most important transparency information
 box_link_name: Find out more
-img_header: /okf/finanzierung-social-og.png
+img_header: /okf/social-og/finanzierung-social-og.png
 search_keys:
   - Notice of exemption
   - Opening balance
