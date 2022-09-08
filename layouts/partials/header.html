@@ -17,6 +17,7 @@
         {{ with .Site.GetPage "/anniversary" }}<li><a href="{{ .Permalink }}" class="l__nav-link--anniversary">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/profil" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/projekte" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/events" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/team" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         <li><a href="/blog">Blog</a></li>
 

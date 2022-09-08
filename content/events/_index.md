@@ -1,5 +1,5 @@
 ---
-title: Veranstaltungen
+title: Events
 layout: events
 meta: Bevorstehende Veranstaltungen
 type: "current"
