@@ -1,0 +1,6 @@
+<li class="c__post--item">
+  <a href="{{.url}}" class="row no-gutters">
+    <h2 class="c__post__title h4 col col-12 col-sm-10">{{.name}}</h2>
+    <p class="c__post__date h4 col-12 col-sm-2"><time datetime="{{ (time .enddate) }}">{{ (time .enddate).Format "02.01.2006" }}</time></p>
+  </a>
+</li>
