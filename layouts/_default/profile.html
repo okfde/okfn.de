@@ -26,9 +26,6 @@
     <a href="#!" onclick="window.print()">{{ i18n "print" }}</a>
   </div>
 </div>
-<aside class="container printer-hidden">
-
-</aside>
 <div class="container">
   <div class="printer-hidden">
     <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
@@ -44,15 +41,15 @@
             <ul>
               <li>
                 <a href='{{ with .Site.GetPage "/verein" }}{{.Permalink}}{{ end }}'>
-                  - {{ .Params.box_link_name_verein }}</a>
+                  {{ .Params.box_link_name_verein }}{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>
               </li>
               <li>
                 <a href='{{ with .Site.GetPage "/themen" }}{{.Permalink}}{{ end }}'>
-                  - {{ .Params.box_link_name_themen }}</a>
+                  {{ .Params.box_link_name_themen }}{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>
               </li>
               <li>
                 <a href='{{ with .Site.GetPage "/team" }}{{.Permalink}}{{ end }}'>
-                  - {{ .Params.box_link_name_team }}</a>
+                  {{ .Params.box_link_name_team }}{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }}</a>
               </li>
             </ul>
           </div>

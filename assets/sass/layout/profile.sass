@@ -84,15 +84,17 @@
   a
     font-size: 18px
     font-weight: 400
-    padding-bottom: 1px
-    border-bottom: 2px solid transparent
-    transition: all 300ms ease-in-out
-  a:hover,
-  a:active
-    color: $anchor
-    text-decoration: none
-    padding-bottom: 1px
-    border-bottom: 2px solid $anchor
+    position: relative
+    svg
+      position: absolute
+      top: 3px
+      right: -20px
+      transition: transform 300ms ease
+    &:hover,
+    &:active
+      text-decoration: none
+      svg
+        transform: translateX(1em)
 
 .print-page
   text-align: right
