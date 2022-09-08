@@ -3558,6 +3558,18 @@
                 href="https://okfn.de/projekte/europeanacloud/"
                 />
   </url><url>
+    <loc>https://okfn.de/events/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/events/"
+                />
+  </url><url>
     <loc>https://okfn.de/projekte/familienlabore/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3930,18 +3942,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/projekte/turing-bus/"
-                />
-  </url><url>
-    <loc>https://okfn.de/events/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/events/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/events/"
                 />
   </url><url>
     <loc>https://okfn.de/verein/</loc>
