@@ -25,6 +25,40 @@
   <div class="printer-hidden my-4 print-page">
     <a href="#!" onclick="window.print()">{{ i18n "print" }}</a>
   </div>
+</div>
+<aside class="container printer-hidden">
+  <div class="l__profile__aside row">
+    <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+      <div class="row c__additional no-gutters">
+        <div class="col-12 col-md-6">
+          <figure class="license">
+            <img src="/okf/verein/verein_intro_3.jpg" alt="">
+          </figure>
+        </div>
+        <div class="col-12 col-md-6">
+          <div class="c__additional__info">
+            <p>{{ .Params.box_title }}</p>
+            <ul>
+              <li>
+                <a href='{{ with .Site.GetPage "/verein" }}{{.Permalink}}{{ end }}'>
+                  {{ .Params.box_link_name_verein }}</a>
+              </li>
+              <li>
+                <a href='{{ with .Site.GetPage "/themen" }}{{.Permalink}}{{ end }}'>
+                  {{ .Params.box_link_name_themen }}</a>
+              </li>
+              <li>
+                <a href='{{ with .Site.GetPage "/team" }}{{.Permalink}}{{ end }}'>
+                  {{ .Params.box_link_name_team }}</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</aside>
+<div class="container">
   <div class="l__profile">
     {{ range (.Paginator 10).Pages }}
     {{ if eq .Params.arrange "img_top"}}
@@ -129,26 +163,5 @@
     {{ end }}
   </div>
 </div>
-<aside class="container printer-hidden">
-  <div class="l__profile__aside row">
-    <div class="col col-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-      <div class="row c__additional no-gutters">
-        <div class="col-12 col-md-6">
-          <figure class="license">
-            <img src="/okf/verein/verein_intro_3.jpg" alt="">
-          </figure>
-        </div>
-        <div class="col-12 col-md-6">
-          <div class="c__additional__info">
-            <h3>{{ .Params.box_title }}</h3>
-            <p>
-              <a href='{{ with .Site.GetPage "/verein" }}{{.Permalink}}{{ end }}'>
-                {{ .Params.box_link_name }}</a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</aside>
+
 {{ end }}
