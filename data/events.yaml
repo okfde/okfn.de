@@ -4,15 +4,27 @@
   startdate: "2022-09-30"
   venue: Technische Universität Berlin
   show: true
-- name: Jugend hackt 2022
-  url: https://jugendhackt.org/events/
-  enddate:
+- name: Jugend hackt Berlin 2022
+  url: https://jugendhackt.org/events/berlin/
+  enddate: "2022-10-02"
   startdate: "2022-09-30"
-  venue: Station Berlin
+  venue: TUECHTIG
   show: true
-- name: Jugend hackt 2021
-  url: https://jugendhackt.org/events/
-  enddate:
-  startdate: "2021-09-30"
-  venue: Station Berlin
+- name: Jugend hackt Linz/AT 2022
+  url: https://jugendhackt.org/events/at-linz/
+  enddate: "2022-10-30"
+  startdate: "2022-10-28"
+  venue: Wissensturm
+  show: true
+- name: Jugend hackt Köln 2022
+  url: https://jugendhackt.org/events/koeln/
+  enddate: "2022-11-06"
+  startdate: "2022-11-04"
+  venue: Jugendzentrum.Digital
+  show: true
+- name: Konfererenz „Beyond Code“
+  url: https://jugendhackt.org/events/konferenz-beyond-code/
+  enddate: "2022-11-18"
+  startdate: "2022-11-17"
+  venue: Technische Sammlungen Dresden
   show: true
