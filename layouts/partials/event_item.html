@@ -1,5 +1,5 @@
 <li class="c__post--item">
-  <a href="{{.url}}" class="row no-gutters">
+  <a href="{{.url}}" target="_blank" class="row no-gutters">
     <h2 class="c__post__title h4 col col-12 col-sm-12">{{.name}}</h2>
     <p class="c__post__title h4 col-12 col-sm-7">{{ .venue }}</p>
     <p class="c__post__date h4 col-12 col-sm-5">{{ if .startdate }}{{ if not .enddate }}Am {{ else }}Vom{{ end }} <time datetime="{{ (time .startdate) }}">{{ (time .startdate).Format "02.01.2006" }}</time>{{ end }}{{ if .enddate }} bis zum <time datetime="{{ (time .enddate) }}">{{ (time .enddate).Format "02.01.2006" }}</time>{{ end }}</p>
