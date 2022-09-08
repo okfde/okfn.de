@@ -3390,6 +3390,18 @@
                 href="https://okfn.de/projekte/2030-watch/"
                 />
   </url><url>
+    <loc>https://okfn.de/profil/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/profil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/profil/"
+                />
+  </url><url>
     <loc>https://okfn.de/projekte/appsandthecity/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3772,18 +3784,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/presse/"
-                />
-  </url><url>
-    <loc>https://okfn.de/profil/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/</loc>

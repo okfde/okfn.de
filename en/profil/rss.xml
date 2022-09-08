@@ -2,7 +2,7 @@
   <channel>
     <title>Open Knowledge Foundation DE</title>
     <link rel="self" href="https://okfn.de/en/profil/atom.xml"/>
-    <description>Profile on OKF DE</description>
+    <description>About on OKF DE</description>
     
     
     
@@ -35,8 +35,7 @@ In a democracy, open knowledge is a prerequisite for participation. We want to s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/profil/vernetzen/</guid>
-      <description>#community
-Over the past seven years, we have built a community in Germany with thousands of volunteers. We support labs in more than 26 cities, organise conferences and hackathons, and connect representatives from politics and civil society to foster change.</description>
+      <description>Over the past seven years, we have built a community in Germany with thousands of volunteers. We support labs in more than 26 cities, organise conferences and hackathons, and connect representatives from politics and civil society to foster change.</description>
     </item>
     
     <item>
@@ -45,7 +44,7 @@ Over the past seven years, we have built a community in Germany with thousands o
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/en/profil/muendigkeit/</guid>
-      <description>#education #openeducation
+      <description>#openeducation
 Only those who understand technology can help shape it. This is why we offer workshops on a wide variety of topics such as data literacy, open data, and open education. We also develop individual educational concepts.</description>
     </item>
     

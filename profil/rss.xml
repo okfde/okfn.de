@@ -2,7 +2,7 @@
   <channel>
     <title>Open Knowledge Foundation DE</title>
     <link rel="self" href="https://okfn.de/profil/atom.xml"/>
-    <description>Profil on OKF DE</description>
+    <description>About on OKF DE</description>
     
     
     
@@ -35,7 +35,7 @@ Offenes Wissen ist in einem demokratischen Staat Voraussetzung jeder Mitbestimmu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/profil/muendigkeit/</guid>
-      <description>#bildung #openeducation
+      <description>#openeducation
 Wir wollen unser Wissen weitergeben – und fangen dabei schon bei den Jüngsten in unserer Gesellschaft an. Denn nur wer Technologie versteht, kann sie mitgestalten und sich kritisch mit ihr auseinandersetzen. Daher geben wir Workshops zu den unterschiedlichsten Themen wie Data Literacy, Offene Daten oder Offene Bildung und entwickeln zudem eigene Bildungsformate für IT-begeisterte Schüler*innen.</description>
     </item>
     
@@ -45,8 +45,7 @@ Wir wollen unser Wissen weitergeben – und fangen dabei schon bei den Jüngsten
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/profil/vernetzen/</guid>
-      <description>#community
-In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, d. h. Regionalgruppen, in über 26 Städten, organisieren Konferenzen und Hackathons und bringen Vertreter*innen aus Politik, Verwaltungen und der Zivilgesellschaft zusammen.</description>
+      <description>In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, d. h. Regionalgruppen, in über 26 Städten, organisieren Konferenzen und Hackathons und bringen Vertreter*innen aus Politik, Verwaltungen und der Zivilgesellschaft zusammen.</description>
     </item>
     
   </channel>
