@@ -32,17 +32,38 @@
         {{ end }}
       </h1>
       <ul class="l__blog__posts container mt-d">
-
+        {{ $.Scratch.Set "current" 0 }}
+        {{ $.Scratch.Set "past" 0 }}
         {{ range $events }}
-        {{ if eq $kind "current" }}
-          {{ if and (.startdate) ((time .startdate).After now) }}
-          {{- partial "event_item.html" . -}}
-          {{ end }}
-        {{ else if eq $kind "past" }}
-          {{ if and (.startdate) ((time .startdate).Before now) }}
-          {{- partial "event_item.html" . -}}
+          {{ if eq $kind "current" }}
+            {{ if and (.startdate) ((time .startdate).After now) }}
+              {{ $.Scratch.Set "current" (add ($.Scratch.Get "current") 1) }}
+              {{- partial "event_item.html" . -}}
+            {{ end }}
+          {{ else if eq $kind "past" }}
+            {{ if and (.startdate) ((time .startdate).Before now) }}
+              {{ $.Scratch.Set "past" (add ($.Scratch.Get "past") 1) }}
+              {{- partial "event_item.html" . -}}
+            {{ end }}
           {{ end }}
         {{ end }}
+
+        {{ if eq $kind "current" }}
+          {{ if lt ($.Scratch.Get "current") 1}}
+            {{ if eq $lang "en"}}
+              <p>There are no events.</p>
+            {{ else }}
+              <p>Aktuell gibt es keine Veranstaltungen.</p>
+            {{ end }}
+          {{ end }}
+        {{ else if eq $kind "past" }}
+          {{ if lt ($.Scratch.Get "past") 1}}
+            {{ if eq $lang "en"}}
+              <p>There are no past events.</p>
+            {{ else }}
+              <p>Aktuell gibt es keine vergangenen Veranstaltungen.</p>
+            {{ end }}
+          {{ end }}
         {{ end }}
       </ul>
 
