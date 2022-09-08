@@ -26,9 +26,9 @@
     <div class="row l__team__title">
       <h1 class="col col-12 col-sm-10">
         {{ if eq $lang "en"}}
-        {{ if eq $kind "current" }}Events{{ else }}Past Events{{ end }}
+          {{ if eq $kind "current" }}Events{{ else }}Past Events{{ end }}
         {{ else }}
-        {{ if eq $kind "current" }}Veranstaltungen{{ else }}Vergangene Veranstaltungen{{ end }}
+          {{ if eq $kind "current" }}Veranstaltungen{{ else }}Vergangene Veranstaltungen{{ end }}
         {{ end }}
       </h1>
       <ul class="l__blog__posts container mt-d">
@@ -47,24 +47,25 @@
             {{ end }}
           {{ end }}
         {{ end }}
-
+        <p>
         {{ if eq $kind "current" }}
           {{ if lt ($.Scratch.Get "current") 1}}
             {{ if eq $lang "en"}}
-              <p>There are no events.</p>
+              There are no events.
             {{ else }}
-              <p>Aktuell gibt es keine Veranstaltungen.</p>
+              Aktuell gibt es keine Veranstaltungen.
             {{ end }}
           {{ end }}
         {{ else if eq $kind "past" }}
           {{ if lt ($.Scratch.Get "past") 1}}
             {{ if eq $lang "en"}}
-              <p>There are no past events.</p>
+              There are no past events.
             {{ else }}
-              <p>Aktuell gibt es keine vergangenen Veranstaltungen.</p>
+              Aktuell gibt es keine vergangenen Veranstaltungen.
             {{ end }}
           {{ end }}
         {{ end }}
+        </p>
       </ul>
 
     </div>
