@@ -30,15 +30,17 @@
           Veranstaltungen
         {{ end }}
       </h1>
-    </div>
-    <ul class="l__blog__posts container mt-d">
+      <ul class="l__blog__posts container mt-d">
 
-      {{ range $events }}
-      {{ if and (.startdate) ((time .startdate).After now) }}
-      {{- partial "event_item.html" . -}}
-      {{ end }}
-      {{ end }}
-    </ul>
+        {{ range $events }}
+        {{ if and (.startdate) ((time .startdate).After now) }}
+        {{- partial "event_item.html" . -}}
+        {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+
+
   </div>
 </main>
 {{ end }}

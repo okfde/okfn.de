@@ -10,3 +10,9 @@
   startdate: "2022-09-30"
   venue: Station Berlin
   show: true
+- name: Jugend hackt 2021
+  url: https://jugendhackt.org/events/
+  enddate:
+  startdate: "2021-09-30"
+  venue: Station Berlin
+  show: true
