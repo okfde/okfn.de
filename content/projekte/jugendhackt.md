@@ -21,12 +21,14 @@ people:
     role: Projektleitung
   - name: Anne Ware
     role: Projektleitung
+  - name: Lisa Jahn
+    role: Projektmanagement Events
   - name: Philip Steffan
     role: Community und Kommunikation
-  - name: Benjamin Laske
+  - name: Anton Melchert
     role: Bundesfreiwilligendienstleistender
-  - name: Ivan Botica
-    role: Studentischer Mitarbeiter Finanzen  
+  - name: Benjamin Laske
+    role: Studentischer Mitarbeiter  
 contact_person: nina
 years: 2012 - heute
 partners:
@@ -89,7 +91,7 @@ Theodor-Heuss-Medaille 2018
 
 **Ressourcen**<br>
 + [Handbuch Jugendhackathons](http://www.handbuch.jugendhackt.de/) Online-Version<br>
-+ [wissenschaftliche Evaluation zu Jugend hackt Events 2015](https://jugendhackt.org/files/2015/03/Jugend-hackt-Kurzversion.pdf) PDF-Download<br>
++ [wissenschaftliche Evaluation zu Jugend hackt Events 2015](https://jugendhackt.org/wp-content/uploads/2019/12/Jugend-hackt-2015-Evaluationsbericht.pdf) PDF-Download<br>
 + [wissenschaftliche Evaluation zu Jugend hackt Labs 2019](https://jugendhackt.org/wp-content/uploads/2020/02/Jugend-hackt-Labs-Abschlussbericht-2020.pdf) PDF-Download
 
 
