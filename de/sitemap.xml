@@ -3956,6 +3956,18 @@
                 href="https://okfn.de/verein/"
                 />
   </url><url>
+    <loc>https://okfn.de/events/past/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/events/past/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/events/past/"
+                />
+  </url><url>
     <loc>https://okfn.de/newsletter/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/volksentscheid/</loc>
