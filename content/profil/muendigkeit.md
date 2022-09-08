@@ -14,7 +14,6 @@ arrange: img_bottom_2
 
 ---
 
-[#bildung](../projekte/#education)
 [#openeducation](../themen/bildung/)
 
 Wir wollen unser Wissen weitergeben – und fangen dabei schon bei den Jüngsten in unserer Gesellschaft an. Denn nur wer Technologie versteht, kann sie mitgestalten und sich kritisch mit ihr auseinandersetzen. Daher geben wir Workshops zu den unterschiedlichsten Themen wie Data Literacy, Offene Daten oder Offene Bildung und entwickeln zudem eigene Bildungsformate für IT-begeisterte Schüler*innen.

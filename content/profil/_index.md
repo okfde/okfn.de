@@ -1,5 +1,5 @@
 ---
-title: Profil
+title: About
 blurb: Was wir machen in Kürze zusammengefasst
 layout: profile
 meta: Was wir machen

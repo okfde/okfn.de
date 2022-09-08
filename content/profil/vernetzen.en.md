@@ -11,6 +11,5 @@ img:
 arrange: img_bottom
 ---
 
-[#community](../projekte/#community)
 
 Over the past seven years, we have built a community in Germany with thousands of volunteers. We support labs in more than 26 cities, organise conferences and hackathons, and connect representatives from politics and civil society to foster change.

@@ -16,7 +16,7 @@ arrange: img_top
 
 ---
 
-[#civictech](../projekte/#civic-tech)
+[#civictech](../themen/civic_tech/)
 [#freedomofinformation](../themen/informationsfreiheit/)
 
 Digital technologies create new opportunities for civil society: citizens can exercise their rights more easily and obtain better information about what governments are doing. To support fact-based political discourse, we develop software, provide infrastructure, and fund open source projects. We experiment as well as offer a space for experiments to others.

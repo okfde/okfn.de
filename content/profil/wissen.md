@@ -11,7 +11,7 @@ img:
 arrange: img_right
 ---
 
-[#opendata](../projekte/#open-data)
-[#offenesregierungshandeln](../projekte/#open-government)
+[#opendata](../themen/open_data/)
+[#offenesregierungshandeln](../themen/offenes_regierungshandeln/)
 
 Offenes Wissen ist in einem demokratischen Staat Voraussetzung jeder Mitbestimmung, darum streben wir nach einer Welt, in der Wissen online wie offline frei verfügbar ist. Das bedeutet Wissen nicht nur zu nutzen, sondern auch zu teilen, weiterzuentwickeln und anzupassen. Wir stärken damit eine Gemeinschaft, an der alle partizipieren können. Um das zu erreichen, halten wir Vorträge, starten Initiativen, erforschen die Wirkungen offener Daten und veröffentlichen Studien. Das Besondere an unserer Arbeit ist, dass wir nicht nur fordern, sondern mit unseren Projekten und Kampagnen selbst zeigen, wie offenes Wissen die Demokratie stärkt.

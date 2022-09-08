@@ -14,7 +14,6 @@ arrange: img_bottom_2
 
 ---
 
-[#education](../projekte/#education)
 [#openeducation](../themen/bildung/)
 
 Only those who understand technology can help shape it. This is why we offer workshops on a wide variety of topics such as data literacy, open data, and open education. We also develop individual educational concepts.

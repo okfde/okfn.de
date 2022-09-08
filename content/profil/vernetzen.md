@@ -12,6 +12,4 @@ img:
 arrange: img_bottom
 ---
 
-[#community](../projekte/#community)
-
 In den vergangenen sieben Jahren haben wir in Deutschland eine Community mit Tausenden ehrenamtlich Engagierten aufgebaut. Wir unterstützen Labs, d. h. Regionalgruppen, in über 26 Städten, organisieren Konferenzen und Hackathons und bringen Vertreter*innen aus Politik, Verwaltungen und der Zivilgesellschaft zusammen.
