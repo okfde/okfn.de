@@ -34,7 +34,7 @@
     <ul class="l__blog__posts container mt-d">
 
       {{ range $events }}
-      {{ if (time .enddate).After now }}
+      {{ if and (.startdate) ((time .startdate).After now) }}
       {{- partial "event_item.html" . -}}
       {{ end }}
       {{ end }}

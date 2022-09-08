@@ -1,12 +1,12 @@
 - name: Bits & Bäume 2022
   url: https://bits-und-baeume.org/konferenz-2022/
   enddate: "2022-10-02"
-  duration: vom 30. September bis 2. Oktober 2022
+  startdate: "2022-09-30"
   venue: Technische Universität Berlin
   show: true
 - name: Jugend hackt 2022
-  url: https://bits-und-baeume.org/konferenz-2022/
-  enddate: "2021-10-02"
-  duration: vom 30. September bis 2. Oktober 2022
-  venue: Technische Universität Berlin
+  url: https://jugendhackt.org/events/
+  enddate:
+  startdate: "2022-09-30"
+  venue: Station Berlin
   show: true
