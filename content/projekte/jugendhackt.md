@@ -7,6 +7,7 @@ categories:
   - Education
   - Community
 tile: double
+type: featured
 tileclass: dark
 layout: project
 weight: 6

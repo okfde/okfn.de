@@ -5,6 +5,7 @@ categories:
   - community
 title: edulabs
 tile: double
+type: archive
 layout: project
 img_header: projects/edulabs_Header.jpg
 img: projects/edulabs_Projektuebersicht_bigTile.jpg

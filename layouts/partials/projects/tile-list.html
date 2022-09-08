@@ -1,5 +1,5 @@
 <ul class="row l__projects__list js-shuffle-container">
-  {{ range sort ( where .Pages ".Params.type" "!=" "archive" ) "Weight" "desc"}}
+  {{ range sort ( where .Pages ".Params.type" "==" "featured") "Weight" "desc"}}
     {{- partial "projects/tile" . -}}
   {{ end }}
 </ul>

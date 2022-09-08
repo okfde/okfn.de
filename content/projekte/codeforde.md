@@ -3,6 +3,7 @@ title: Code for Germany
 subtitle: "Community mit Hunderten freiwilligen Stadtentwickler:innenn"
 layout: project
 tile: double
+type: featured
 tileclass: dark
 kategorien:
   - Community

@@ -6,6 +6,7 @@ categories:
   - Informationsfreiheit
 tile: double
 title: FragDenStaat
+type: featured
 subtitle: The Freedom of Information Platform
 weight: 4
 layout: project

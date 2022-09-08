@@ -3,6 +3,7 @@ title: Code for Germany
 subtitle: "Community of hundreds of volunteers"
 layout: project
 tile: double
+type: featured
 kategorien:
   - Community
   - Civic Tech

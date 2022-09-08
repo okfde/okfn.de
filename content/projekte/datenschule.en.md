@@ -2,6 +2,7 @@
 title: Datenschule
 subtitle: Do good with data. Learn how to use data.
 type: education
+type: archive
 kategorien:
   - Bildung
 categories:

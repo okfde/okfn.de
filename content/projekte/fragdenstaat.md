@@ -5,6 +5,7 @@ kategorien:
   - Community
   - Informationsfreiheit
 tile: double
+type: featured
 title: FragDenStaat
 subtitle: Das Informationsfreiheitsportal
 layout: project

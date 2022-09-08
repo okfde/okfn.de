@@ -6,6 +6,36 @@
 $theight-small: 235px
 $theight-large: 503px
 
+.c__project__info
+  padding: $space $space-double $space $space
+  background-color: none
+
+  p
+    font-size: 18px
+    font-weight: 400
+    padding-bottom: 5px
+    @include media-breakpoint-up(xl)
+      font-size: 18px
+      font-weight: 400
+      padding-bottom: 5px
+
+  h3 + p
+    margin-top: $space
+  a
+    font-size: 18px
+    font-weight: 400
+    position: relative
+    svg
+      position: absolute
+      top: 3px
+      right: -20px
+      transition: transform 300ms ease
+    &:hover,
+    &:active
+      text-decoration: none
+      svg
+        transform: translateX(1em)
+
 .l__projects__item
   width: 100%
   margin-bottom: 30px

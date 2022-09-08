@@ -6,6 +6,7 @@ title: Prototype Fund Hardware
 tile: double
 layout: project
 img: projects/pf_oshw.png
+type: featured
 img_header: projects/pf-hardware-pattern.png
 website: https://hardware.prototypefund.de/
 people:

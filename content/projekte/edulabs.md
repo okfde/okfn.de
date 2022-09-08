@@ -5,6 +5,7 @@ kategorien:
 categories:
   - Education
 title: edulabs
+type: archive
 tile: double
 layout: project
 img: projects/edulabs_Projektuebersicht_bigTile.jpg

@@ -12,6 +12,7 @@ img_square: projects/prototypefund_square.jpg
 img_header: projects/PrototypeFund_Header.png
 layout: project
 weight: 4
+type: featured
 people:
   - name: Marie Gutbub
     role: Project Co-Leadership

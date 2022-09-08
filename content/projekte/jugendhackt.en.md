@@ -9,6 +9,7 @@ categories:
 tile: double
 weight: 6
 layout: project
+type: featured
 title: Jugend hackt
 website: https://jugendhackt.org
 img: projects/Jugendhackt_Projektuebersicht_bigTile.png
