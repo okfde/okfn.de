@@ -1,7 +1,7 @@
 ---
-title: Events
+title: Past Events
 layout: events
-meta: upcoming events
-type: "current"
+meta: Past Events
+type: "past"
 img_header: /okf/team-social-og.png
 ---

@@ -20,6 +20,7 @@
 {{ define "main" }}
 {{ $events := where .Site.Data.events "show" true }}
 {{ $lang := .Lang }}
+{{ $kind := .Params.type }}
 <main>
   <div class="container l__team">
     <div class="row l__team__title">
@@ -33,11 +34,31 @@
       <ul class="l__blog__posts container mt-d">
 
         {{ range $events }}
-        {{ if and (.startdate) ((time .startdate).After now) }}
-        {{- partial "event_item.html" . -}}
+        {{ if eq $kind "current" }}
+          {{ if and (.startdate) ((time .startdate).After now) }}
+          {{- partial "event_item.html" . -}}
+          {{ end }}
+        {{ else if eq $kind "past" }}
+          {{ if and (.startdate) ((time .startdate).Before now) }}
+          {{- partial "event_item.html" . -}}
+          {{ end }}
         {{ end }}
         {{ end }}
       </ul>
+
+    </div>
+    <div class="l__blog__paginator container">
+      <div class="row no-gutters justify-content-end">
+        {{ if eq $kind "current" }}
+        <a href="../events/past/" class="l__blog__paginator__btn">
+          <span>{{ if eq $lang "en"}}Past{{ else }}Vergangene{{ end }}</span><span class="l__paginator__arrow--r">→</span>
+        </a>
+        {{ else if eq $kind "past" }}
+        <a href="../" class="l__blog__paginator__btn">
+          <span>{{ if eq $lang "en"}}Current{{ else }}Aktuelle{{ end }}</span><span class="l__paginator__arrow--r">→</span>
+        </a>
+        {{ end }}
+      </div>
     </div>
 
 
