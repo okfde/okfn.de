@@ -34,7 +34,7 @@
       <ul class="l__blog__posts container mt-d">
         {{ $.Scratch.Set "current" 0 }}
         {{ $.Scratch.Set "past" 0 }}
-        {{ range $events }}
+        {{ range sort $events ".startdate" }}
           {{ if eq $kind "current" }}
             {{ if and (.startdate) ((time .startdate).After now) }}
               {{ $.Scratch.Set "current" (add ($.Scratch.Get "current") 1) }}
