@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-09-05T00:00:00+0000</updated>
+  <updated>2022-09-13T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bits &amp; Bäume 2022: Nachhaltigkeit braucht digitales Gemeingut!</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/09/bb-digitales-gemeingut/"/>
+    <id>https://okfn.de/blog/2022/09/bb-digitales-gemeingut/</id>
+    <published>2022-09-13T00:00:00+0000</published>
+    <updated>2022-09-13T00:00:00+0000</updated>
+    <summary>Die Digitalisierung schafft neue Möglichkeiten für eine offene und gerechtere Gesellschaft. Dafür muss sie allerdings auch mit den Herausforderungen des Klimawandels vereinbar sein. Im Rahmen der Bits &amp;amp; Bäume 2022 fordern wir eine digitale Transformation, die aktiv zu einer gerechten, nachhaltigen und demokratischen Zukunft beiträgt. Um diese Zukunft zu ermöglichen, muss der Fokus auf das Gemeingut rücken – das Natürliche wie das Digitale!
+Die natürliche Umwelt ist unsere Lebensgrundlage. Ob und in welcher Form diese weiter existiert, stellt sich inzwischen durch vom Klimawandel beförderte Extremwetterereignisse wie Flutkatastrophen, Waldbrände und Hitzewellen immer häufiger.</summary>
+  </entry>
   
   <entry>
     <title>Bündnis fordert von Politik: Digitalisierung muss sozial-ökologischem Wandel dienen</title>
@@ -146,16 +156,6 @@ Denn ein Förderprogramm für offene Hardware ist ein Anliegen, an dem einige sc
     <updated>2022-01-11T00:00:00+0000</updated>
     <summary>In diesem Blogartikel meldet sich die OKF-Datenschutzexpertin Beata Hubrig zu Wort. Die Rechtsanwältin tritt dafür ein, dass Nutzer*innen Profile auf Facebook etc. weiterhin unter Pseudonymen verwenden können. Das Oberlandesgericht München hatte zuletzt anders geurteilt. Update vom 27.01.2022: Der Bundesgerichtshof entschied zugunsten der pseudonymisierten Nutzung.
 Unter einem Pseudonym in der Öffentlichkeit auftreten zu können, ist ein eigentlich unumstrittenes, notwendiges Schutzrecht. Diese Meinung vertrete auch ich, gerade im digitalen öffentlichen Raum, weil ich mich – wie viele andere Nutzer*innen auch – in sozialen Netzwerken gefährdet fühle.</summary>
-  </entry>
-  
-  <entry>
-    <title>Die OKF beim rC3</title>
-    <link rel="alternate" href="https://okfn.de/blog/2021/12/okf-beim-rc3/"/>
-    <id>https://okfn.de/blog/2021/12/okf-beim-rc3/</id>
-    <published>2021-12-22T00:00:00+0000</published>
-    <updated>2021-12-22T00:00:00+0000</updated>
-    <summary>Auch in diesem Jahr wird der jährliche Congress des Chaos Computer Clubs wieder online stattfinden. Dazu bieten verschiedene Hackspaces Bühnen für Veranstaltungen (eine Übersicht gibt es hier). Außerdem könnt ihr euch in der Remote Chaos Experience treffen - dazu müsst ihr euch nur ein Ticket klicken. Auch die OKF ist mit ein paar Talks, Workshops und Community-Treffen dabei, die wir hier auflisten:
-Prototype Fund Hardware: Einblicke &amp;amp; Ausblicke Im Frühjahr 2022 startet die Open Knowledge Foundation den ersten Prototype Fund für Hardware.</summary>
   </entry>
   
 </feed>
