@@ -10,7 +10,7 @@ tags:
 - Policy
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Bits & Bäume 2022: Nachhaltigkeit braucht digitales Gemeingut!"
 ---
