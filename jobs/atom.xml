@@ -1,23 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>2022-08-03T00:00:00+0000</updated>
+  <updated>0001-01-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
-  
-  <entry>
-    <title>Die OKF sucht eine:n Projektmanager:in für Policy und Open Data</title>
-    <link rel="alternate" href="https://okfn.de/jobs/okf-policy-opendata/"/>
-    <id>https://okfn.de/jobs/okf-policy-opendata/</id>
-    <published>2022-08-03T00:00:00+0000</published>
-    <updated>2022-08-03T00:00:00+0000</updated>
-    <summary>Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär.
-Wir suchen eine:n Projektmanager:in Policy und Open Data (in Voll- oder Teilzeit) ab Oktober 2022, befristet für 2 Jahre und entlohnt angelehnt an TVL 13/1.
-Mit dieser Stelle trägst du dazu bei, die vielfältigen praktischen Erfahrungswerte aus den OKF-Projekten in gesellschaftliche Forderungen zu bündeln und in den politischen Raum zu tragen.</summary>
-  </entry>
   
 </feed>
