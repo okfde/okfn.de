@@ -8,7 +8,7 @@ image:
   license: 
   license_url:
 tags:
-published: true
+published: false
 title: "Die OKF sucht eine:n Projektmanager:in für Policy und Open Data"
 ---
 
