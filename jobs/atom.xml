@@ -1,12 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>0001-01-01T00:00:00+0000</updated>
+  <updated>2022-09-22T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Der Prototype Fund sucht eine Person für Begleitforschung und Projektmanagement</title>
+    <link rel="alternate" href="https://okfn.de/jobs/ptf-begleitforschung/"/>
+    <id>https://okfn.de/jobs/ptf-begleitforschung/</id>
+    <published>2022-09-22T00:00:00+0000</published>
+    <updated>2022-09-22T00:00:00+0000</updated>
+    <summary>Zur Unterstützung unseres Teams suchen wir eine Person, die die Evaluation und Weiterentwicklung unseres Förderprogramms im Rahmen der Begleitforschung vorantreibt. Dafür recherchierst du zu technologischen Trends, führst Interviews mit (ehemaligen) Geförderten, erhebst Daten und verarbeitest die Ergebnisse regelmäßig zu Forschungsberichten. Außerdem übernimmst du im Team Projektmanagementaufgaben wie z. B. unsere Events. Dafür nutzen wir bereits etablierte Formate und freuen uns über neue Ideen und Vorschläge!
+Wir sind begeistert, wenn du schon Forschungsberichte geschrieben hast und/oder dich mit einigen unserer Themen (Technologie mit gesellschaftlichem Mehrwert, Open Source, Innovation) beschäftigt hast.</summary>
+  </entry>
   
 </feed>

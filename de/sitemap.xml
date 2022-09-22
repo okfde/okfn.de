@@ -242,6 +242,35 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/jobs/ptf-begleitforschung/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
+                />
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -279,19 +308,6 @@
   </url><url>
     <loc>https://okfn.de/tags/nachhaltigkeit/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/policy/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
@@ -3630,18 +3646,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/impressum/"
-                />
-  </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/kleineanfragen/</loc>
