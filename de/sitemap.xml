@@ -242,7 +242,39 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/bildung/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
     <loc>https://okfn.de/jobs/ptf-begleitforschung/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/09/konferenz-beyond-code/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/</loc>
@@ -258,6 +290,12 @@
                 href="https://okfn.de/jobs/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/jugend-hackt/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/ki/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -271,17 +309,20 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/philip-steffan/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/authors/"
+                href="https://okfn.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/authors/"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/authors/ben-burmeister/</loc>
@@ -293,37 +334,11 @@
     <loc>https://okfn.de/blog/2022/09/bb-digitales-gemeingut/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/nachhaltigkeit/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/policy/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/bits-b%C3%A4ume/</loc>
     <lastmod>2022-09-05T00:00:00+00:00</lastmod>
@@ -607,19 +622,10 @@
     <loc>https://okfn.de/tags/ausschreibung/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/bildung/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/jugend-hackt/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2021/03/jugend-hackt-labs-2021-ausschreibung/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/jugendarbeit/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/philip-steffan/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/</loc>
