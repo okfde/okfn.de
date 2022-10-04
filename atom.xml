@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-09-22T00:00:00+0000</updated>
+  <updated>2022-10-04T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Hardware &amp; Circular Economy – eine Zukunftsvision</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/10/open-hardware-und-circular-economy/"/>
+    <id>https://okfn.de/blog/2022/10/open-hardware-und-circular-economy/</id>
+    <published>2022-10-04T00:00:00+0000</published>
+    <updated>2022-10-04T00:00:00+0000</updated>
+    <summary>Trotz der multiplen Krisen darf die Gestaltung der Zukunft nicht aus den Augen geraten. Das betonten auch die zweite Bürgermeisterin der Stadt Hamburg, Katharina Fegebank und Kai Gehring, Vorsitzender des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung bei der Abschlussveranstaltung &amp;ldquo;Zukunft erfinden&amp;rdquo; der Bündnis 90/Die Grünen Bundestagsfraktion, am 21. September. Doch wie soll diese Zukunft aussehen? Und wie wollen wir in ihr wirtschaften?
+Mit Blick auf die EU-Kommission sind es Kreisläufe, in denen wir in Zukunft Produkte entwickeln, nutzen und verwerten.</summary>
+  </entry>
   
   <entry>
     <title>Einladung zur Jugendkonferenz „Beyond Code“</title>
@@ -147,16 +157,6 @@ Mit dem Koalitionstracker sind die unterschiedlichen Informationen, die bisher v
     <summary>Berlin, 10.02.2022
 Die OKF DE ist unter die Lobbyist:innen gegangen und hat sich heute im neuen Lobbyregister des Bundestags registriert (Registernummer R000405). Seit dem 1. Januar 2022 ist das neue Lobbyregister des Bundestags in Kraft getreten, und es herrscht helle Aufregung in der Welt der Verbände, Vereine und sonstigen Interessenvertretungen: Erstmals drohen Sanktionen bei fehlender Registrierung oder falschen Angaben, im schlimmsten Falle ein Bußgeld von 50.000 Euro.
 Am 16. April 2021 hatte die Große Koalition die Einführung eines öffentlich einsehbaren Lobbyregisters beschlossen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Prototype Fund Hardware gestartet</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/"/>
-    <id>https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/</id>
-    <published>2022-01-19T00:00:00+0000</published>
-    <updated>2022-01-19T00:00:00+0000</updated>
-    <summary>Mit dem Prototype Fund besteht bereits ein Programm zur Förderung von zivilgesellschaftlich orientierter Open-Source-Software. Insgesamt wurden bereits 248 Projekte unterstützt, die großartige Ergebnisse hervorgebracht haben. Immer wieder kamen auch Bewerbungen aus dem Bereich der Hardware, die allerdings aus formalen Gründen nicht gefördert werden können. Das versuchen wir - Daniel Wessolek und Maximilian Voigt - nun mit unserem Partnerprogramm zu ändern und damit eine Lücke zu schließen.
-Denn ein Förderprogramm für offene Hardware ist ein Anliegen, an dem einige schon lange arbeiten und das viele ebenso lange herbeisehnen.</summary>
   </entry>
   
 </feed>

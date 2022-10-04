@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,11 +255,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/bildung/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -270,6 +267,50 @@
                 hreflang="de"
                 href="https://okfn.de/blog/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/circular-economy/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/circular-society/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/10/open-hardware-und-circular-economy/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/bildung/</loc>
+    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/ptf-begleitforschung/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
@@ -296,34 +337,8 @@
     <loc>https://okfn.de/tags/ki/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/authors/philip-steffan/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/ben-burmeister/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
@@ -383,12 +398,6 @@
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/civic-tech/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2022-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/04/prototype-fund-hardware-jetzt-bewerben/</loc>
