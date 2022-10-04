@@ -15,7 +15,7 @@ type: post
 layout: post
 published: true
 featured: yellow
-title: "Den Krisen zum Trotz: eine digital-nachhaltige Zulkunftspolitik"
+title: "Den Krisen zum Trotz: eine digital-nachhaltige Zukunftspolitik"
 ---
 Trotz der multiplen Krisen darf die Gestaltung der Zukunft nicht aus den Augen geraten. Das betonten auch die zweite Bürgermeisterin der Stadt Hamburg, Katharina Fegebank und Kai Gehring, Vorsitzender des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung bei der[ Abschlussveranstaltung "Zukunft erfinden"](https://www.gruene-bundestag.de/termine/abschlussveranstaltung-zukunft-erfinden#m-tab-0-programm) der Bündnis 90/Die Grünen Bundestagsfraktion, am 21. September. Doch wie soll diese Zukunft aussehen? Und wie wollen wir in ihr wirtschaften?
 
