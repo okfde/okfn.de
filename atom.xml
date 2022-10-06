@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-10-04T00:00:00+0000</updated>
+  <updated>2022-10-06T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Für eine nachhaltige Digitalisierung: 2.500 Teilnehmende auf der Konferenz Bits &amp; Bäume</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/10/bits-und-baeume-alternative-digitalstrategie/"/>
+    <id>https://okfn.de/blog/2022/10/bits-und-baeume-alternative-digitalstrategie/</id>
+    <published>2022-10-06T00:00:00+0000</published>
+    <updated>2022-10-06T00:00:00+0000</updated>
+    <summary>Pressemitteilung
+Akteur*innen aus Zivilgesellschaft fordern mehr Mitsprache bei der Gestaltung politischer Strategien zur Digitalisierung // Nächste „Bits &amp;amp; Bäume“-Regionalkonferenz für Juni 2023 in Köln angekündigt
+Berlin, 5. Oktober 2022 – „Die Bits dürfen uns nicht die Bäume kosten.“ Diese Forderung brachte am vergangenen Wochenende über 2.500 Teilnehmende zur Konferenz für Digitalisierung und Nachhaltigkeit „Bits &amp;amp; Bäume“ nach Berlin. Auf Einladung von 13 Organisationen aus Umwelt,- Klima- und Naturschutz, Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft trafen sich Wissenschaftler*innen, Aktivist*innen und Politiker*innen, um politische Forderungen und Handlungsansätze für eine nachhaltige Digitalisierung zu diskutieren.</summary>
+  </entry>
   
   <entry>
     <title>Den Krisen zum Trotz: eine digital-nachhaltige Zukunftspolitik</title>
@@ -146,17 +157,6 @@ Mit dem Koalitionstracker sind die unterschiedlichen Informationen, die bisher v
     <published>2022-02-16T00:00:00+0000</published>
     <updated>2022-02-16T00:00:00+0000</updated>
     <summary>Die Open Knowledge Foundation unterstützt mit zahlreichen anderen Initiativen den Appell des Runden Tisch Für Reparatur an die Bundesregierung, das Recht auf Reparatur wirksam umzusetzen. Die bessere Reparierbarkeit, der Zugang zu Ersatzteilen und Reparaturanleitungen sowie verpflichtende Update-Zeiträume sind wichtige Maßnahmen, um die Lebensdauer unserer Alltagstechnologien zu verlängern und dadurch Ressourcen zu schonen. Es sind aber auch maßgebliche Aspekte der Beteiligung an Technologie. Seit Jahren erleben wir, dass Hardware immer verschlossener designt wird.</summary>
-  </entry>
-  
-  <entry>
-    <title>Das neue Lobbyregister braucht schon jetzt ein Update (und wir sind auch drin)</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/02/okf-lobbyregister/"/>
-    <id>https://okfn.de/blog/2022/02/okf-lobbyregister/</id>
-    <published>2022-02-10T00:00:00+0000</published>
-    <updated>2022-02-10T00:00:00+0000</updated>
-    <summary>Berlin, 10.02.2022
-Die OKF DE ist unter die Lobbyist:innen gegangen und hat sich heute im neuen Lobbyregister des Bundestags registriert (Registernummer R000405). Seit dem 1. Januar 2022 ist das neue Lobbyregister des Bundestags in Kraft getreten, und es herrscht helle Aufregung in der Welt der Verbände, Vereine und sonstigen Interessenvertretungen: Erstmals drohen Sanktionen bei fehlender Registrierung oder falschen Angaben, im schlimmsten Falle ein Bußgeld von 50.000 Euro.
-Am 16. April 2021 hatte die Große Koalition die Einführung eines öffentlich einsehbaren Lobbyregisters beschlossen.</summary>
   </entry>
   
 </feed>
