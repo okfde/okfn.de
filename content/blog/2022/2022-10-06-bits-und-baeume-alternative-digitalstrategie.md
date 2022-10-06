@@ -10,7 +10,7 @@ tags:
 - Policy
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Für eine nachhaltige Digitalisierung: 2.500 Teilnehmende auf der Konferenz Bits & Bäume"
 ---
