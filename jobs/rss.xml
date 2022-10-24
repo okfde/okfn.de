@@ -5,20 +5,9 @@
     <description>Jobs on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/jobs/rss.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Der Prototype Fund sucht eine Person für Begleitforschung und Projektmanagement</title>
-      <link>https://okfn.de/jobs/ptf-begleitforschung/</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/jobs/ptf-begleitforschung/</guid>
-      <description>Zur Unterstützung unseres Teams suchen wir eine Person, die die Evaluation und Weiterentwicklung unseres Förderprogramms im Rahmen der Begleitforschung vorantreibt. Dafür recherchierst du zu technologischen Trends, führst Interviews mit (ehemaligen) Geförderten, erhebst Daten und verarbeitest die Ergebnisse regelmäßig zu Forschungsberichten. Außerdem übernimmst du im Team Projektmanagementaufgaben wie z. B. unsere Events. Dafür nutzen wir bereits etablierte Formate und freuen uns über neue Ideen und Vorschläge!
-Wir sind begeistert, wenn du schon Forschungsberichte geschrieben hast und/oder dich mit einigen unserer Themen (Technologie mit gesellschaftlichem Mehrwert, Open Source, Innovation) beschäftigt hast.</description>
-    </item>
     
   </channel>
 </rss>
