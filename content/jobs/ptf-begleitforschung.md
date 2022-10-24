@@ -7,7 +7,7 @@ image:
   title: Begleitforschung und Projektmanagement
   license:
   license_url:
-published: true
+published: false
 title: "Der Prototype Fund sucht eine Person für Begleitforschung und Projektmanagement"
 ---
 
