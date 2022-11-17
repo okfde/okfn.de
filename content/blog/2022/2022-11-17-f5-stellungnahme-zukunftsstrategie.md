@@ -49,4 +49,4 @@ Damit sich alle Menschen selbstbestimmt und kritisch mit der Nutzung digitaler M
 
 
 
-Die ganze Stellungnahme ist [hier](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/10/2022-11-17_Lang_F5_StellungnahmeZukunftsstrategie_finfin.pdf) zu finden. 
+Die ganze Stellungnahme ist [hier](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/10/2022-11-17_Lang_F5_Stellungnahme_Zukunftsstrategie_finfin.pdf) zu finden. 
