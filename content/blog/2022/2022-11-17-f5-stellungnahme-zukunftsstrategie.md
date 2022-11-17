@@ -4,7 +4,7 @@ authors:
 - Henriette Litta
 date: 2022-11-17
 image: 
-  src: /files/blog/2022/03/B&B Logo mit Schrift.jpg
+  src: /files/blog/2022/10/klein_kadir-celep-I3N-kVCYvA4-unsplash.jpg
 tags:
 - Innovation
 - Forschung
