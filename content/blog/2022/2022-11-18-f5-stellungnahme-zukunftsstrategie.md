@@ -11,7 +11,7 @@ tags:
 - OpenScience
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Innovation geht nicht ohne Offenheit & Partizipation"
 ---
