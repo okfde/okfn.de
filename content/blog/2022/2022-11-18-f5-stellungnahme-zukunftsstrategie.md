@@ -2,7 +2,7 @@
 authors:
 - Christina Willems
 - Henriette Litta
-date: 2022-11-17
+date: 2022-11-18
 image: 
   src: /files/blog/2022/10/klein_kadir-celep-I3N-kVCYvA4-unsplash.jpg
 tags:
@@ -32,7 +32,7 @@ Für die Erreichung von mehr staatlicher bzw. europäischer digitaler Sicherheit
 ### 2.	Partizipation ermöglichen und fördern
 
 Um mehr Beteiligung im Bereich Forschung und Innovation zu erreichen, braucht es einen leichteren Zugang zu mehr Wissen. Open Access ist hier das Schlagwort. Open Access als Bestandteil von Open Science senkt die Barrieren zur Beteiligung an Wissenschaft, da auch nicht akademisch aktive Menschen umfassenden Zugang zu Forschungsergebnissen bekommen.
-Auch der Innovationsbegriff ist im Austausch zu entwickeln und nicht rein wirtschaftlich zu verstehen: Bevor Technologien entwickelt werden oder zum Einsatz kommen, soll eine partizipative Technikfolgenabschätzung unter Einbezug von Expert:innen der Zivilgesellschaft 
+Auch der Innovationsbegriff ist im Austausch zu entwickeln und nicht rein wirtschaftlich zu verstehen: Bevor Technologien entwickelt werden oder zum Einsatz kommen, soll eine partizipative Technikfolgenabschätzung unter Einbezug von Expert:innen der Zivilgesellschaft erfolgen.
 
 
 ### 3.	Kriterien bei der Vergabe von Fördergeldern anpassen
