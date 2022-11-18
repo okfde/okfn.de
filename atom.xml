@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-10-06T00:00:00+0000</updated>
+  <updated>2022-11-18T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Innovation geht nicht ohne Offenheit &amp; Partizipation</title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/11/f5-stellungnahme-zukunftsstrategie/"/>
+    <id>https://okfn.de/blog/2022/11/f5-stellungnahme-zukunftsstrategie/</id>
+    <published>2022-11-18T00:00:00+0000</published>
+    <updated>2022-11-18T00:00:00+0000</updated>
+    <summary>Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht. Die derzeit von der Bundesregierung ressortübergreifend entwickelte Zukunftsstrategie Forschung und Innovation ist jedoch zu stark auf wirtschaftlichen Erfolg fokussiert. Hier muss nachgebessert werden.
+Im Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) haben wir im Rahmen der Online-Konsultation des Bundesministeriums für Bildung und Forschung (BMBF) eine Stellungnahme auf die vorgegebenen Fragen zur „Zukunftsstrategie Forschung und Innovation“ abgegeben.</summary>
+  </entry>
   
   <entry>
     <title>Für eine nachhaltige Digitalisierung: 2.500 Teilnehmende auf der Konferenz Bits &amp; Bäume</title>
@@ -148,15 +158,6 @@ Mit dem Koalitionstracker sind die unterschiedlichen Informationen, die bisher v
     <published>2022-02-28T00:00:00+0000</published>
     <updated>2022-02-28T00:00:00+0000</updated>
     <summary>Als das Land Berlin letztes Jahr 10 Jahre Open Data feierte, war das Anlass für einige Diskussionen unter denjenigen, die den Prozess schon länger aus Sicht der Zivilgesellschaft begleiteten: Auch 10 Jahre später scheinen wir noch weit entfernt von einer automatisierten Open-by-Default-Strategie. Umso mehr freut uns, dass Berlin sich genau diesen kritischen Blick als Unterstützung bei der Ausarbeitung einer neuen Open-Data-Strategie gewünscht hat. Die Open Knowledge Foundation darf das Land bei der Entwicklung dieser Strategie unterstützen, und wir wünschen uns ganz ausdrücklich viel Beteiligung von all denjenigen in unserem weiten und erfahrenen Ehrenamtsnetzwerk, die die üblichen Fallstricke und Probleme kennen!</summary>
-  </entry>
-  
-  <entry>
-    <title>Recht auf Reparatur: ein erster Schritt zu offenen Technologien</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/02/okf-unterstuetzt-recht-auf-reparatur/"/>
-    <id>https://okfn.de/blog/2022/02/okf-unterstuetzt-recht-auf-reparatur/</id>
-    <published>2022-02-16T00:00:00+0000</published>
-    <updated>2022-02-16T00:00:00+0000</updated>
-    <summary>Die Open Knowledge Foundation unterstützt mit zahlreichen anderen Initiativen den Appell des Runden Tisch Für Reparatur an die Bundesregierung, das Recht auf Reparatur wirksam umzusetzen. Die bessere Reparierbarkeit, der Zugang zu Ersatzteilen und Reparaturanleitungen sowie verpflichtende Update-Zeiträume sind wichtige Maßnahmen, um die Lebensdauer unserer Alltagstechnologien zu verlängern und dadurch Ressourcen zu schonen. Es sind aber auch maßgebliche Aspekte der Beteiligung an Technologie. Seit Jahren erleben wir, dass Hardware immer verschlossener designt wird.</summary>
   </entry>
   
 </feed>

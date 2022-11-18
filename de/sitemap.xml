@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,14 +255,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/bits-b%C3%A4ume/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/bits-b%C3%A4ume/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -274,14 +268,23 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2022/10/bits-und-baeume-alternative-digitalstrategie/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/christina-willems/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/nachhaltigkeit/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/forschung/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/innovation/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/11/f5-stellungnahme-zukunftsstrategie/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -293,11 +296,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/policy/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/openscience/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -308,6 +311,21 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/bits-b%C3%A4ume/</loc>
+    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/bits-b%C3%A4ume/</loc>
+    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/10/bits-und-baeume-alternative-digitalstrategie/</loc>
+    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/nachhaltigkeit/</loc>
+    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/policy/</loc>
+    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/circular-economy/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
@@ -445,9 +463,6 @@
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/02/okf-lobbyregister/</loc>
-    <lastmod>2022-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2022-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/</loc>
@@ -2409,9 +2424,6 @@
     <lastmod>2014-09-15T15:43:02+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/europe/</loc>
-    <lastmod>2014-09-15T15:43:02+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/innovation/</loc>
     <lastmod>2014-09-15T15:43:02+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2014/09/jugend-hackt-ein-wochenende-lang-hacken-basteln-und-programmieren-mit-120-jugendlichen/</loc>
