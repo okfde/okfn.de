@@ -19,7 +19,7 @@ Die Satzung der Open Knowledge Foundation Deutschland e. V. ist [hier einsehbar]
 
 
 ### 3. Angaben zur Steuerbegünstigung
-Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/2022 Freistellungsbescheid für 2021.pdf) des Finanzamts für Körperschaften I, Berlin vom 03.09.2021 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
+Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung sowie Förderung der Volks- und Berufsbildung sowie der Studentenhilfe nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/2022_Freistellungsbescheid_fuer_2021.pdf) des Finanzamts für Körperschaften I, Berlin vom 03.09.2021 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
 Ein aktueller Auszug aus dem Vereinsregister ist [hier einsehbar](/files/documents/2022-03-21-Vereinsregisterauszug-OKF-DE.pdf).
 
