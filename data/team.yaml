@@ -1397,7 +1397,7 @@
   mail: christina.willems@okfn.de
  
 - name: Tiziana Saab
-  img: tizianasaab
+  img: unknown
   staff: 1
   board: 0
   advisory: 0
@@ -1409,7 +1409,7 @@
   
   
 - name: Monica Phương Thúy Nguyễn
-  img: monicanguyen
+  img: unknown
   staff: 1
   board: 0
   advisory: 0
@@ -1420,7 +1420,7 @@
   mail: monica.nguyen@okfn.de
    
 - name: Dr. Vivian Kube
-  img: viviankube
+  img: unknown
   staff: 1
   board: 0
   advisory: 0
@@ -1428,10 +1428,10 @@
   position_en:  FragDenStaat
   bio: Vivian ist seit 2022 Teil des Legal-Teams und Expertin für den Bereich Informationsfreiheit, Pressefreiheit und Auskunftsansprüche.
   bio_en:  
-  mail: @okfn.de
+  mail: vivian.kube@okfn.de
   
 - name: Aiko Kempen
-  img: aikokempen
+  img: unknown
   staff: 1
   board: 0
   advisory: 0
@@ -1442,7 +1442,7 @@
   mail: aiko.kempen@okfn.de
   
 - name: Isa Lachmann
-  img: isalachmann
+  img: unknown
   staff: 1
   board: 0
   advisory: 0
@@ -1453,7 +1453,7 @@
   mail: isa.lachmann@okfn.de
   
 - name: Luisa Izuzquiza
-  img: luisaizuzquiza
+  img: unknown
   staff: 1
   board: 0
   advisory: 0
