@@ -50,7 +50,7 @@
   twitter: Senficon
   website:
 
-- name: Leonie Gehrke
+- name: Leonie Gehrke (Elternzeit)
   img: leoniegehrke
   staff: 1
   board: 0
@@ -59,7 +59,7 @@
   position_en: Press and public relations FragDenStaat
   bio: "Leonie arbeitet bei der Open Knowledge Foundation in dem Projekt FragDenStaat. Hier leitet sie den Bereich Presse- und Öffentlichkeitsarbeit. Zuvor war die Politik- und Medienwissenschaftlerin mehrere Jahre als Pressesprecherin tätig und hat die Markenentwicklung sowie verschiedene Kampagnen bei einer NGO verantwortet und begleitet."
   bio_en: "Leonie works for FragDenStaat where she manages press and public relations. Before, the political and media scientist worked as a spokesperson for multiple years and was responsible for brand development and various campaigns at an NGO."
-  mail: leonie.gehrke@okfn.de
+  mail: 
   twitter:
   website:
 
@@ -81,10 +81,10 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Bundesfreiwilligendienstleistende FragDenStaat
-  position_en: Volunteer FragDenStaat
+  position: Recherche FragDenStaat
+  position_en: Research FragDenStaat
   bio: "Melek absolvierte ihren Bachelor in International Relations and Organisations und war anschließend als Praktikantin im Bereich Antimilitarismus und Migrationsrecht tätig. Seit September 2021 wirkt sie im Rahmen eines Bundesfreiwilligendienstes bei der Open Knowledge Foundation im Projekt FragDenStaat mit."
-  bio_en: "Melek has a Bachelors degree in International Relations and Organisations. She interned in the areas of anti-militarism and migration. Since September 2021, she is doing her voluntary year at the OKF, working with FragDenStaat."
+  bio_en: "Melek unterstützt FragDenStaat als studentische Hilfskraft und recherchiert unter anderem zu Frontex. Sie studiert Soziokulturelle Studien in Frankfurt (Oder)."
   mail: melek.bazgan@okfn.de
   twitter:
   website:
@@ -137,7 +137,7 @@
   advisory: 0
   position: Volljuristin FragDenStaat
   position_en: lawyer FragDenStaat
-  bio: "Hannah ist seit März 2021 bei der Open Knowledge Foundation angestellt und Teil des Legal-Teams von FragDenStaat."
+  bio: "Hannah ist seit März 2021 bei der Open Knowledge Foundation angestellt und leitet das Legal-Teams von FragDenStaat."
   bio_en: "Hannah is with the OKF since March 2021 and part of FragDenStaat's legal team."
   mail: hannah.vos@okfn.de
   twitter:
@@ -587,7 +587,7 @@
   advisory: 0
   position: Projektleitung FragDenStaat
   position_en: Project management FragDenStaat
-  bio: "Arne ist bei der Open Knowledge Foundation Projektleiter des Portals FragDenStaat.de und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet  als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus, unter anderem als ehrenamtlicher Vorstand von LobbyControl und im Beirat des Whistleblower-Netzwerks."
+  bio: "Arne ist bei der Open Knowledge Foundation Projektleiter von FragDenStaat und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet  als freier Journalist und engagiert sich in weiteren NGOs zu Themen wie Transparenz und Lobbyismus, unter anderem als ehrenamtlicher Vorstand von LobbyControl und Fründer des Freiheitsfonds."
   bio_en: "Arne leads FragDenStaat.de and is an expert in the domain of Freedom of Information (FOI). With a background in political science, he also works as a freelance journalist and engages with other NGOs in topics related to transparency and lobbyism, e.g. for LobbyControl and the Whistleblower Network."
   mail: arne.semsrott@okfn.de
   twitter: arnesemsrott
@@ -1395,4 +1395,71 @@
   bio: Christina ist Projektmanagerin für Policy und Open Data. Sie hat Politikwissenschaften in Köln und Trier studiert und interessiert sich insbesondere für das demokratische Potenzial von (digitalen) Technologien.
   bio_en: Christina is a project manager for policy and open data. She studied political science in Cologne and Trier and is particularly interested in the democratic potential of (digital) technologies. 
   mail: christina.willems@okfn.de
+ 
+- name: Tiziana Saab
+  img: tizianasaab
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Bundesfreiwilligendienst FragDenStaat
+  position_en: Volunteer FragDenStaat
+  bio: Tiziana unterstützt als Bundesfreiwilligendienstleistende das Team von FragDenStaat.
+  bio_en:  
+  mail: tiziana.saab@okfn.de
+  
+  
+- name: Monica Phương Thúy Nguyễn
+  img: monicanguyen
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Öffentlichkeitsarbeit FragDenStaat
+  position_en: PR FragDenStaat
+  bio: Monica ist studierte Informations- und Sozialwissenschaftlerin und seit Oktober 2022 bei FragDenStaat dabei. Sie ist Gründungsmitglied des Autonomen BIPoC Referates an der Universität zu Köln und interessiert sich für abolitionistische Handlungsweisen an der Schnittstelle von nationalstaatlichen Grenzen und biometrischen Technologien.
+  bio_en:  
+  mail: monica.nguyen@okfn.de
+   
+- name: Dr. Vivian Kube
+  img: viviankube
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Legal FragDenStaat
+  position_en:  FragDenStaat
+  bio: Vivian ist seit 2022 Teil des Legal-Teams und Expertin für den Bereich Informationsfreiheit, Pressefreiheit und Auskunftsansprüche.
+  bio_en:  
+  mail: @okfn.de
+  
+- name: Aiko Kempen
+  img: aikokempen
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Investigativer Journalist FragDenStaat
+  position_en: Investigative Journalist FragDenStaat
+  bio: Aiko ist investigativer Journalist und seit 2022 im Recherche-Team von FragDenStaat. Er recherchiert seit vielen Jahren zu den Themen Polizei und Rechtsextremismus. 2021 erschien sein Buch „Auf dem rechten Weg? Rassisten und Neonazis in der deutschen Polizei“.
+  bio_en:  
+  mail: aiko.kempen@okfn.de
+  
+- name: Isa Lachmann
+  img: isalachmann
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Presse- und Öffentlichkeitsarbeit FragDenStaat
+  position_en: PR FragDenStaat
+  bio: Isa ist gelernte Fotografin, Kultur- und Medienwissenschaftlerin und koordiniert die Öffentlichkeitsarbeit von FragDenStaat seit Oktober 2022.
+  bio_en:  
+  mail: isa.lachmann@okfn.de
+  
+- name: Luisa Izuzquiza
+  img: luisaizuzquiza
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Leitung Brüsseler Büro FragDenStaat
+  position_en: Brussels Liaison Officer FragDenStaat
+  bio: Luisa leitet unser Brüsseler Büro und kümmert sich um Frontex. Sie ist zuständig für den Zugang zu EU-Informationen und hat einen besonderen Schwerpunkt auf Migration und Grenzkontrolle.
+  bio_en:  
+  mail: luisa.izuzquiza@okfn.de
  
