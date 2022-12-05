@@ -9,7 +9,7 @@ tags:
 - Digitales-Ehrenamt
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Digitales Ehrenamt bei der OKF"
 ---
