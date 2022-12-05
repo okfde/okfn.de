@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -266,6 +266,44 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/digitales-ehrenamt/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/12/digitales-ehrenamt-bei-der-okf/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/ehrenamt/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/nora-titz/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/authors/christina-willems/</loc>
@@ -283,34 +321,8 @@
     <loc>https://okfn.de/blog/2022/11/f5-stellungnahme-zukunftsstrategie/</loc>
     <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/openscience/</loc>
     <lastmod>2022-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/bits-b%C3%A4ume/</loc>
     <lastmod>2022-10-06T00:00:00+00:00</lastmod>
@@ -616,9 +628,6 @@
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/04/digitales-ehrenamt-gemeinwohl/</loc>
-    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitales-ehrenamt/</loc>
     <lastmod>2021-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/04/forum-open-education-2021-jetzt-anmelden/</loc>
@@ -1194,9 +1203,6 @@
   </url><url>
     <loc>https://okfn.de/tags/offener-haushalt/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/ehrenamt/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/markus-neusch%C3%A4fer-tanja-zagel-timo-lundelius-walter-palmetshofer/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
