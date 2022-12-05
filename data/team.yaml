@@ -850,6 +850,20 @@
   website: https://binary-butterfly.de/
   github: the-infinity
 
+- name: Dr. Jochen Klar
+  title:
+  img: jochenklar
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Ehrenamtlicher Mitarbeiter für IT-Infrastruktur
+  position_en:  IT Infrastructure Volunteer
+  bio: "Jochen entwickelt Software im wissenschaftlichen Umfeld und arbeitet in vielen Projekten daran, Forschungsdaten professionell zu erfassen, zu speichern und möglichst frei über das Internet zugänglich zu machen. Jochen unterstützt das Team der OKF ehrenamtlich: Er administriert den Community Server. Er ist auch im Code for Germany Netzwerk aktiv und organisiert das OK Lab Berlin mit."
+  bio_en: "Jochen develops software in the scientific environment and works in various projects to professionally capture and store research data and to make it freely accessible via the Internet. Jochen supports the OKF team on a voluntary basis: he administrates the community server. He is also active in the Code for Germany network and co-organises the OK Lab Berlin."
+  twitter: jochenklar
+  website: https://jochenklar.de
+  github: jochenklar
+
 - name: Moritz Neujeffski
   title:
   img: moritzneujeffski
