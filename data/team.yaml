@@ -824,7 +824,8 @@
 - name: Maximilian Richt
   title:
   img: maximilianricht
-  staff: 1
+  staff: 0
+  volunteer: 1
   board: 0
   advisory: 0
   position: Ehrenamtlicher Mitarbeiter für IT-Infrastruktur
@@ -839,7 +840,8 @@
 - name: Ernesto Ruge
   title:
   img: ernestoruge
-  staff: 1
+  staff: 0
+  volunteer: 1
   board: 0
   advisory: 0
   position: Ehrenamtlicher Mitarbeiter für IT-Infrastruktur
@@ -853,7 +855,8 @@
 - name: Dr. Jochen Klar
   title:
   img: jochenklar
-  staff: 1
+  staff: 0
+  volunteer: 1
   board: 0
   advisory: 0
   position: Ehrenamtlicher Mitarbeiter für IT-Infrastruktur
