@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-12-05T00:00:00+0000</updated>
+  <updated>2022-12-09T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title></title>
+    <link rel="alternate" href="https://okfn.de/blog/2022/12/f5-digitalgipfel/"/>
+    <id>https://okfn.de/blog/2022/12/f5-digitalgipfel/</id>
+    <published>2022-12-09T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>authors:
+Christina Willems Henriette Litta date: 2022-12-09 image: src: /files/blog/2022/10/klein_kadir-celep-I3N-kVCYvA4-unsplash.jpg tags: Innovation Forschung OpenScience type: post layout: post published: false featured: blue title: &amp;ldquo;Innovation geht nicht ohne Offenheit &amp;amp; Partizipation&amp;rdquo; Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht. Die derzeit von der Bundesregierung ressortübergreifend entwickelte Zukunftsstrategie Forschung und Innovation ist jedoch zu stark auf wirtschaftlichen Erfolg fokussiert.</summary>
+  </entry>
   
   <entry>
     <title>Digitales Ehrenamt bei der OKF</title>
@@ -149,16 +159,6 @@ Verklebte Gehäuse, keine Ersatzteile, geplante Obsoleszenz sowie eine ungerecht
     <updated>2022-03-28T00:00:00+0000</updated>
     <summary>Berlin, 28.03.2022
 Die Open Knowledge Foundation Deutschland wendet sich heute in einem gemeinsamen offenen Brief an die Bundestagsfraktionen der Ampel-Koalition, um für eine Kurskorrektur beim Bundeshaushalt zu werben. Trotz der Ankündigung des Bundesministeriums für Wirtschaft und Klimaschutz, mit dem Sovereign Tech Fund in diesem Jahr eine Förderstruktur für die nachhaltige Unterstützung von Open-Source-Basistechnologien zu schaffen, fehlen Mittel für dieses Schlüsselprojekt im Kabinettsbeschluss über den Haushalt, der nun vom Bundestag beraten wird.</summary>
-  </entry>
-  
-  <entry>
-    <title>Neu: Wir starten Koalitionstracker, um Regierungsarbeit zu kontrollieren</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/03/koalitionstracker/"/>
-    <id>https://okfn.de/blog/2022/03/koalitionstracker/</id>
-    <published>2022-03-18T00:00:00+0000</published>
-    <updated>2022-03-18T00:00:00+0000</updated>
-    <summary>Auf fragdenstaat.de/koalitionstracker können Bürger:innen, Journalist:innen und weitere Interessierte verfolgen, welche Vorhaben aus dem verabschiedeten Koalitionsvertrag aktuell bearbeitet werden, welche umgesetzt sind oder auf Eis liegen. Ergänzt wird der Koalitionstracker durch weiterführende Informationen und qualitative Einschätzungen von Expert:innen aus der Zivilgesellschaft.
-Mit dem Koalitionstracker sind die unterschiedlichen Informationen, die bisher verstreut bei Ministerien, Arbeitsgruppen oder Gremien zu finden waren, gebündelt und durchsuchbar zu finden. Vorhaben-Updates können abonniert werden, Neuigkeiten von allen Menschen vorgeschlagen werden.</summary>
   </entry>
   
 </feed>

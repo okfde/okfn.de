@@ -242,18 +242,7 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
+    <loc>https://okfn.de/blog/2022/12/f5-digitalgipfel/</loc>
   </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
@@ -268,18 +257,6 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/digitales-ehrenamt/</loc>
-    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2022/12/digitales-ehrenamt-bei-der-okf/</loc>
-    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/ehrenamt/</loc>
-    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/nora-titz/</loc>
-    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -292,6 +269,31 @@
                 hreflang="de"
                 href="https://okfn.de/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/digitales-ehrenamt/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2022/12/digitales-ehrenamt-bei-der-okf/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/ehrenamt/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/nora-titz/</loc>
+    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
