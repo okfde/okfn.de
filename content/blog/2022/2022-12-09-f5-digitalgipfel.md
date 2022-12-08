@@ -6,9 +6,9 @@ date: 2022-12-09
 image: 
   src: /files/blog/2022/10/klein_kadir-celep-I3N-kVCYvA4-unsplash.jpg
 tags:
-- Innovation
-- Forschung
-- OpenScience
+- Zivilgesellschaft
+- Digitalpolitik
+- BündnisF5
 type: post
 layout: post
 published: false
