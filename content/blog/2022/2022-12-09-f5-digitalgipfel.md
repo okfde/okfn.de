@@ -4,7 +4,7 @@ authors:
 - Henriette Litta
 date: 2022-12-09
 image: 
-  src: /files/blog/2022/10/klein_kadir-celep-I3N-kVCYvA4-unsplash.jpg
+  src: /files/blog/2022/10/kleiner_mikrofon.jpg
 tags:
 - Zivilgesellschaft
 - Digitalpolitik
@@ -13,18 +13,31 @@ type: post
 layout: post
 published: false
 featured: blue
-title: "Innovation geht nicht ohne Offenheit & Partizipation"
+title: "Digital-Gipfel der Bundesregierung – ein staatlich organisiertes Lobbyfest"
 ---
 
-**Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht. Die derzeit von der Bundesregierung ressortübergreifend entwickelte [Zukunftsstrategie Forschung und Innovation](https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftsstrategie_node.html) ist jedoch zu stark auf wirtschaftlichen Erfolg fokussiert. Hier muss nachgebessert werden.**
+**Heute endet der Digital-Gipfel der Bundesregierung. Titel: „Digitalisierung betrifft uns alle – Unternehmen wie Bürgerinnen und Bürger, Wissenschaft wie Gesellschaft.“ Doch „die Gesellschaft“ spricht gar nicht mit. Schon bei der Digitalstrategie war es ein Problem, dass die Zivilgesellschaft nicht eingebunden war. Die Ampel gelobte, alles besser zu machen. Der Digital-Gipfel zeigt, dass das ein Lippenbekenntnis war. Die Regierung behandelt die digitalpolitische Zivilgesellschaft wie es die GroKo tat: Gerne mal reden – aber strukturelle Einbindung, gleichberechtigte Teilnahme, Mitgestaltung? Fehlanzeige..**
 
-Im [Bündnis F5](https://buendnis-f5.de/) (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) haben wir im Rahmen der Online-Konsultation des Bundesministeriums für Bildung und Forschung (BMBF) eine Stellungnahme auf die vorgegebenen Fragen zur „Zukunftsstrategie Forschung und Innovation“ abgegeben. Die OKF fordert insbesondere folgende Punkte in der Zukunftsstrategie zu berücksichtigen: 
+Wichtige NGOs im digitalpolitischen Raum haben sich zum [Bündnis F5](https://buendnis-f5.de/) zusammengeschlossen, um die Digitalisierung von der Gesellschaft aus zu denken. Mit AlgorithmWatch, der Gesellschaft für Freiheitsrechte (GFF), Reporter ohne Grenzen, der Open-Knowledge Foundation (OKF) und Wikimedia Deutschland vereint das Bündnis fünf Organisationen, die seit Jahren aktiv zu gemeinwohlorientierter Digitalisierung und Grundrechten im digitalen Zeitalter arbeiten. 
 
-### 1.	Forschungsinfrastruktur: Open, Open, Open
+Aber während die Vertreter*innen der Wirtschaft beim Digital-Gipfel mehrere Diskussionsrunden alleine bespielen dürfen und mit knapp 40 Diskussionsteilnehmer*innen vertreten sind, können die Vertreter*innen der Zivilgesellschaft an einer Hand abgezählt werden - und man braucht nicht einmal alle Finger.
 
-Im bisherigen Strategieentwurf fehlen Ansätze für eine offene und transparente Forschung, die üblicherweise unter dem Oberbegriff Open Science zusammengefasst werden. Eine transparente und offene Wissenschaft ist eine Grundvoraussetzung für die Entstehung von Wissen in einer Demokratie.
-Die Voraussetzungen für Open Science schaffen Open Data und Open-Source-Software – auf diesen Themen sollte ein weitaus größerer Fokus der Zukunftsstrategie liegen. Auch [Open Hardware](https://hardware.prototypefund.de/) (reparierbare, nachvollziehbare und reproduzierbare Hardware, die im öffentlichen Interesse steht) gilt es vermehrt zu fördern. Mehr dazu im Artikel "[Zukunftsstrategie Forschung und Innovation: unsere Forderungen für Open Hardware](https://hardware.prototypefund.de/zukunftsstrategie-forschung-und-innovation-unsere-forderungen-fuer-open-hardware/)".
-Diese bringen auch weitreichende Vorteile im Bereich Klima- und Ressourcenschutz mit sich: So ermöglicht die Bereitstellung von Klima- und Geodaten als Open Data die Entwicklung von Civic Tech Anwendungen, die klimaschonende, umweltverträgliche und sozial gerechte Mobilitätslösungen fördern und zu einem besseren Klima in der Stadt beitragen. Mit Open-Source-Software kann Code zudem mehrfach genutzt werden. Open Hardware schafft die Basis zur Reparatur und Weiterverwendung. 
-Gleich mitgedacht werden muss bei der Forschungsinfrastruktur auch die Nutzung offener Standards. Offene Standards maximieren die Interoperabilität. Neben technischen Vorteilen haben offene Standards auch klare gesellschaftliche Vorteile: offene Standards erhöhen Transparenz und ermöglichen demokratische Teilhabe sowie eine bessere Kontrolle politischen Handelns. Hinzu kommen Vorteile für die Wirtschaft, denn sie fördern Innovationen und verhindern die Abhängigkeit von einzelnen Herstellern.
-Für die Erreichung von mehr staatlicher bzw. europäischer digitaler Sicherheit und Resilienz muss der Staat die Entwicklung und Pflege offener Basistechnologien des Internets in seine Daseinsvorsorge aufnehmen. Er darf nicht nur die Innovationskraft, sondern muss auch die Instandhaltung und Absicherung dieser digitalen Infrastrukturen aktiv fördern. Mit der Einrichtung des [Sovereign Tech Fund](https://sovereigntechfund.de/) ist hier ein guter Grundstein gelegt worden.
+Die Besetzung und die Themenauswahl des Digital-Gipfels verdeutlichen das eindimensionale digitalpolitische Verständnis der Bundesregierung: Die Regierung denkt bei Digitalisierung auch nach dem Regierungswechsel weiter an Marktkapitalisierung, Gewinne und Monetarisierung statt an Communities, Gemeinwohl und Teilhabe.  
+
+Ein gutes Beispiel ist das Thema Open Source, also Software, deren Quelltext öffentlich verfügbar ist und genutzt werden kann, oder Wissen, das wie bei Wikipedia allen zugänglich ist. Obwohl Open Source ein Kern der gemeinwohlorientierten Digitalpolitik ist, wird das Thema auf dem Gipfel von drei Unternehmen mit dem Fokus digitale Transportdokumente beleuchtet. Dass frei zugängliche Software und Wissensdatenbanken eines der zentralen Zukunftsthemen in Zivilgesellschaft, Staat und Forschung sind, wird dabei unter den Tisch fallen. 
+Dabei zeigt dieses Thema, wie Ideen aus der Zivilgesellschaft zu Vorzeigeprojekten werden können. Die OKF hatte etwa die Machbarkeitsstudie zum nun gestarteten Sovereign Tech Fund durchgeführt, und Wikimedia ist von Beginn an Teil der Open Source Community. Auf dem Gipfel zu suggerieren, dieses Thema könne nur von Unternehmen abgebildet werden, zeigt ein falsches Verständnis des Open-Source-Ökosystems. 
+
+Auch beim Thema „Daten.Macht.Kreativität!? Daten als Gewinn oder Herausforderung für die Demokratie” wird es vor allem um Werbung gehen. Dafür werden der Gründer eines Marketing-Start-Ups und die Datenmanagerin von RTL sorgen. Statt nur über Werbung hätte man bei diesem Thema auch die Probleme des Urheberrechts in den Fokus nehmen können, mit denen sich die GFF mit ihrem Projekt control copyright und Wikimedia seit Jahren befassen: Viel zu häufig werden unter dem Vorwand, das Urheberrecht zu schützen, Meinungs- und Informationsfreiheit im Internet eingeschränkt. Aber vielleicht sind mit dem Untertitel des Gipfels „Gemeinsam digitale Werte schöpfen” vor allem Unternehmenswerte gemeint?  
+
+Der Gipfel des Gipfels ist das Gespräch des Bundeskanzlers mit Kaja Kallas, Estlands Premierministerin und dem Präsidenten des Wirtschaftsverbandes Bitkom. Auf der re:publica sagte Scholz noch: „Es gilt, das Internet als den progressiven demokratisierenden Raum für weltweite Vernetzung und Wissensaustausch zu erhalten und zu stärken“ – nun scheint doch eher das Netz als internationaler Wirtschaftsraum im Fokus zu stehen, in dem „progressiv und demokratisierend“ keine Rolle spielen. An der Stelle wäre eine Auseinandersetzung mit der weitestgehend straffreien Nutzung von Überwachungstechnik und Spähsoftware in der EU und außerhalb dringender denn je geboten, um den "demokratisierenden Raum” überhaupt wieder zu stärken. Reporter ohne Grenzen kommentiert seit Jahren die intransparente Zusammenarbeit zwischen Wirtschaft und Staaten in dem Sektor und drängt auf eine starke Regulierung im Sinne der Demokratie. Wir erwarten mehr als wohlfeile Reden: Die Zivilgesellschaft braucht keine schönen Worte, sondern echte Teilhabe. 
+
+Dabei könnten Digital-Gipfel und die Digitalpolitik der Ampel insgesamt so viel besser sein, wenn die Zivilgesellschaft einbezogen würde . Stattdessen steht dieser Gipfel – wie viele digitalpolitische Prozesse – für eine Fortführung der wirtschaftsorientierten Politik der Großen Koalition. Was ist mit dem Versprechen des Koalitionsvertrags „Die Zivilgesellschaft binden wir besser in digitalpolitische Vorhaben ein und unterstützen sie”? 
+
+Wir fordern, dass dieses Versprechen endlich eingelöst wird: Für jedes Treffen, jede Anhörung, jedes Panel, zu dem ein Unternehmen oder Wirtschaftsverband eingeladen wird, muss auch eine Einladung an die Zivilgesellschaft gehen. Gerade in Ministerien sind regelmäßige Austauschrunden zwischen Zivilgesellschaft und Exekutive unverzichtbar, bei Gesetzesvorhaben muss es Best Practice werden, sich mit der gemeinwohlorientierten Praxis noch vor dem Regierungsentwurf direkt auszutauschen. Und wenn bei diesem Digital-Gipfel der Bitkom Verband praktisch als Co-Veranstalter auftritt, erwarten wir das auch beim nächsten für die Zivilgesellschaft. F5 steht dafür gerne bereit. 
+
+Die Bundesregierung täte gut daran, einen echten Neustart in der Zusammenarbeit mit der Zivilgesellschaft zu wagen. Das vordergründige Werben um die Zivilgesellschaft bei gleichzeitiger wirtschaftspolitischer „Realpolitik“ ist unaufrichtig und schädlich: Die Zukunft der Digitalpolitik ist zu wichtig, um sie nur aus gewinnorientierter Unternehmenssicht zu diskutieren. 
+
+Die Stellungnahme ist hier als Pdf zu finden. 
+
+
 
