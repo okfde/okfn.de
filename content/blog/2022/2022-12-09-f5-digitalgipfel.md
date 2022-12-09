@@ -11,14 +11,14 @@ tags:
 - BündnisF5
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Digital-Gipfel der Bundesregierung – ein staatlich organisiertes Lobbyfest"
 ---
 
 **Heute endet der Digital-Gipfel der Bundesregierung. Titel: „Digitalisierung betrifft uns alle – Unternehmen wie Bürgerinnen und Bürger, Wissenschaft wie Gesellschaft.“ Doch „die Gesellschaft“ spricht gar nicht mit. Schon bei der Digitalstrategie war es ein Problem, dass die Zivilgesellschaft nicht eingebunden war. Die Ampel gelobte, alles besser zu machen. Der Digital-Gipfel zeigt, dass das ein Lippenbekenntnis war. Die Regierung behandelt die digitalpolitische Zivilgesellschaft wie es die GroKo tat: Gerne mal reden – aber strukturelle Einbindung, gleichberechtigte Teilnahme, Mitgestaltung? Fehlanzeige...**
 
-Wichtige NGOs im digitalpolitischen Raum haben sich zum [Bündnis F5](https://buendnis-f5.de/) zusammengeschlossen, um die Digitalisierung von der Gesellschaft aus zu denken. Mit AlgorithmWatch, der Gesellschaft für Freiheitsrechte (GFF), Reporter ohne Grenzen, der Open-Knowledge Foundation (OKF) und Wikimedia Deutschland vereint das Bündnis fünf Organisationen, die seit Jahren aktiv zu gemeinwohlorientierter Digitalisierung und Grundrechten im digitalen Zeitalter arbeiten. 
+Wichtige NGOs im digitalpolitischen Raum haben sich zum [Bündnis F5](https://buendnis-f5.de/) zusammengeschlossen, um die Digitalisierung von der Gesellschaft aus zu denken. Mit AlgorithmWatch, der Gesellschaft für Freiheitsrechte (GFF), Reporter ohne Grenzen, der Open Knowledge Foundation (OKF) und Wikimedia Deutschland vereint das Bündnis fünf Organisationen, die seit Jahren aktiv zu gemeinwohlorientierter Digitalisierung und Grundrechten im digitalen Zeitalter arbeiten. 
 
 Aber während die Vertreter*innen der Wirtschaft beim Digital-Gipfel mehrere Diskussionsrunden alleine bespielen dürfen und mit knapp 40 Diskussionsteilnehmer*innen vertreten sind, können die Vertreter*innen der Zivilgesellschaft an einer Hand abgezählt werden - und man braucht nicht einmal alle Finger.
 
@@ -37,7 +37,7 @@ Wir fordern, dass dieses Versprechen endlich eingelöst wird: Für jedes Treffen
 
 Die Bundesregierung täte gut daran, einen echten Neustart in der Zusammenarbeit mit der Zivilgesellschaft zu wagen. Das vordergründige Werben um die Zivilgesellschaft bei gleichzeitiger wirtschaftspolitischer „Realpolitik“ ist unaufrichtig und schädlich: Die Zukunft der Digitalpolitik ist zu wichtig, um sie nur aus gewinnorientierter Unternehmenssicht zu diskutieren. 
 
-Die Stellungnahme ist [hier](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/10/F5_Digitalgipfel.pdf) als Pdf zu finden. 
+Die Stellungnahme ist [hier](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/10/F5_Digitalgipfel.pdf) zu finden. 
 
 
 
