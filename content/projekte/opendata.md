@@ -5,11 +5,11 @@ kategorien:
   - Politik
   - Community
   - Open Data
-tile: double 
+tile: single 
 layout: project
 img: projects/fff.png
 img_square: projects/
-img_header: projects/
+img_header: projects/opendata_header.jpg
 people:
   - name: Dénes Jäger
   - name: Christina Willems
