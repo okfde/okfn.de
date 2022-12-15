@@ -7,7 +7,7 @@ kategorien:
   - Open Data
 tile: single 
 layout: project
-img: projects/fff.png
+img: projects/opendata_header.jpg
 img_square: projects/
 img_header: projects/opendata_header.jpg
 people:
