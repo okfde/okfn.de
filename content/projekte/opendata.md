@@ -6,7 +6,7 @@ kategorien:
   - Politik
   - Community
   - Open Data
-tile: single 
+tile: double 
 layout: project
 img: projects/fff.png
 img_square: projects/
