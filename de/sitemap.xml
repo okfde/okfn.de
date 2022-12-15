@@ -3734,6 +3734,18 @@
                 href="https://okfn.de/projekte/offenedaten/"
                 />
   </url><url>
+    <loc>https://okfn.de/projekte/opendata/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/opendata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/opendata/"
+                />
+  </url><url>
     <loc>https://okfn.de/projekte/offenegesetze/</loc>
     <xhtml:link
                 rel="alternate"
