@@ -1,7 +1,6 @@
 ---
 title: Offene Verwaltungsdaten
-subtitle: Open Data in Verwaltungen fördern und mit
-zivilgesellschaftlicher Expertise begleiten
+subtitle: Open Data in Verwaltungen fördern und mit zivilgesellschaftlicher Expertise begleiten
 kategorien:
   - Politik
   - Community
