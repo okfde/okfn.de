@@ -1,6 +1,6 @@
 ---
 title: Open administrative data
-subtitle: Promoting the use of open data in public administrations and supporting it with civil society expertise
+subtitle: Promoting open data in public administration by contributing with our civil society expertise
 categories:
   - Policy
   - Community
