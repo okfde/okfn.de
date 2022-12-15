@@ -16,10 +16,9 @@ people:
     name: Christina Willems
     name: Henriette Litta
 contact_person: denesjaeger
-years: 2022 - 202025
+years: 2022 - 2025
 financing:
   - Stiftung Mercator
-  
 ---
 
 Behörden von Bundes- bis Kommunalebene produzieren und veröffentlichen jeden Tag tausende Dokumente. Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen wurden in den letzten Jahren zum Thema Open Data häufig große Ziele formuliert. Und doch verläuft die Umsetzung bisher nur schleppend. Es besteht ein hoher Nachholbedarf bei Behörden, Wissen und Kompetenzen im Bereich der Datenbereitstellung aufzubauen. Wir möchten uns mit diesem Kernthema der OKF wieder verstärkt in den gesellschaftlichen Diskurs einbringen und unsere Expertise im Bereich Open Data zur Verfügung stellen. 
