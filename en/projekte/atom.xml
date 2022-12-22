@@ -106,6 +106,16 @@ In line with our motto &amp;ldquo;Improve the world with code&amp;rdquo;, Jugend
   </entry>
   
   <entry>
+    <title>Alliance F5</title>
+    <link rel="alternate" href="https://okfn.de/en/projekte/buendnisf5/"/>
+    <id>https://okfn.de/en/projekte/buendnisf5/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>Together with AlgorithmWatch, the Society for Civil Rights, Reporters Without Borders and Wikimedia Germany, we have joined forces in the F5 alliance to advocate for the concerns, ideas and demands of the digital civil society in Germany.
+We are united in the aspiration to ensure democratic digitization built on the pillars of openness and transparency, participation and access, protection of fundamental and human rights, and protection of consumer concerns. Our goal is to put the common good at the heart of digital policy and ensure the future of a democratic digital society.</summary>
+  </entry>
+  
+  <entry>
     <title>Apps and the city</title>
     <link rel="alternate" href="https://okfn.de/en/projekte/appsandthecity/"/>
     <id>https://okfn.de/en/projekte/appsandthecity/</id>
@@ -139,15 +149,6 @@ In line with our motto &amp;ldquo;Improve the world with code&amp;rdquo;, Jugend
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>This git repository contains all German federal laws and regulations in markdown format. The XML version of these laws available on gesetze-im-internet.de serves as the source. With BundesGit the most current version of the laws is saved. This makes their historic development and adaptation transparent and easily comprehensible.</summary>
-  </entry>
-  
-  <entry>
-    <title>Coding da Vinci</title>
-    <link rel="alternate" href="https://okfn.de/en/projekte/codingdavinci/"/>
-    <id>https://okfn.de/en/projekte/codingdavinci/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Coding da Vinci is the first cultural data hackathon in Germany that brings together cultural heritage institutions and the hacker/designer community to develop ideas and prototypes for both the cultural sector and the public. More and more galleries, libraries, archives, and museums (GLAMs) are digitalising their collections to make them accessible online and to preserve our heritage for future generations. Only when cultural data is made openly available (according to the Open Definition) can it serve as the creative basis for innovative new applications and projects.</summary>
   </entry>
   
 </feed>

@@ -290,6 +290,18 @@
                 href="https://okfn.de/en/profil/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/projekte/buendnisf5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/buendnisf5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/buendnisf5/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/jahresberichte/</loc>
     <xhtml:link
                 rel="alternate"
