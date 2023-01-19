@@ -10,7 +10,7 @@ image:
 published: true
 title: "Neuer Job bei der OKF: Wir suchen eine Assistenz im Bereich Buchhaltung / Office"
 ---
-## (Minijob oder studentische Hilfskraft mit 10h/Woche, ab sofort, 2 Jahre befristet)
+### Minijob oder studentische Hilfskraft mit 10h/Woche, ab sofort, 2 Jahre befristet
 
 #### Wer wir sind
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär.
@@ -32,6 +32,7 @@ Wir sind bereit und in der Lage, die anfallenden Tätigkeiten so zu arrangieren,
 
 #### Was musst du jetzt wissen
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
+
 Bitte schicke uns Deine Bewerbung (Motivation, Lebenslauf, nur wenn relevant auch Nachweise) inkl. möglichem Beginn bis zum 12.02.2023 per E-Mail an Giulia Norberti an jobs@okfn.de, gerne auch PGP-verschlüsselt.
 
 Die Gespräche finden voraussichtlich am 15. und 16.02.2023 in Berlin statt.
