@@ -23,7 +23,7 @@ Eure Projektidee sollte zu einem der folgenden Themenfelder passen: Civic Tech, 
 
 ### Bewerbt euch jetzt!
 
-Bewerbt euch bis zum 31.2.2023 mit eurer Projektidee auf unserer [Bewerbungsplattform](https://prototypefund.de "https://prototypefund.de")!
+Bewerbt euch bis zum 31.2.2023 mit eurer Projektidee auf unserer [Bewerbungsplattform](https://bewerbung.prototypefund.de/prototype-fund/)
 
 Wenn ihr Fragen habt, findet ihr viele passende Antworten in unseren [FAQ](https://prototypefund.de/bewerbung/faq/) sowie den Ablauf des Bewerbungsprozesses in unserer [Timeline](https://prototypefund.de/bewerbung/timeline/).
 
