@@ -20,18 +20,22 @@ people:
     role: Tech Lead
   - name: Judith Doleschal
     role: Kommunikation und Community-Entwicklung
-  - name: Phillip Hofmann
-    role: Head of Legal
-  - name: Lea Pfau
-    role: Campaignerin
-  - name: Layla Ansari
   - name: Max Kronmüller
   - name: Hannah Vos
+  - name: Vivian Kube
+  - name: Aiko Kempen
+  - name: Luisa Izuzquiza
+  - name: Karl Engelhardt
+  - name: Melek Bazgan
+  - name: Isa Lachmann
+  - name: Lea Pfau
+  - name: Vera Deleja-Hotko
+  - name: Monica Phương Thúy Nguyễn
 contact_person: arnesemsrott
 years: 2011 - heute
 financing:
-  - Schöpflin-Stiftung
   - Spenden
+  - Schöpflin-Stiftung
 contact:
   website: https://fragdenstaat.de
   twitter: fragdenstaat
