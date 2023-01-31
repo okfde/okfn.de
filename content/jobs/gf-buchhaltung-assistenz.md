@@ -8,9 +8,9 @@ image:
   license:
   license_url:
 published: true
-title: "Gesucht: Buchhaltung- & Office-Assistenz (Minijob oder Stud. Hilfskraft)"
+title: "Gesucht: Junior Buchhaltung- & Office-Assistenz (Minijob oder Stud. Hilfskraft)"
 ---
-### Um unser Team in Berlin zu unterstützen, suchen wir eine Assistenz für Buchhaltung und Office: Minijob oder Stud. Hilfskraft mit 10h/Woche in Berlin, ab sofort, 2 Jahre befristet. Bewerbungsfrist: 12. Februar 2023
+### Um unser Team in Sachen Tabellen, Zahlen und Belegen zu untersützen, suchen wir eine Junior Assistenz für Buchhaltung und Office: Minijob oder Stud. Hilfskraft mit 10h/Woche in Berlin, ab sofort, 2 Jahre befristet. Bewerbungsfrist: 12. Februar 2023
 
 #### Wer wir sind
 Die Open Knowledge Foundation Deutschland e.V. (OKF) ist ein gemeinnütziger Verein mit Sitz in Berlin-Friedrichshain, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär (mehr erfährst du auf okfn.de). 
