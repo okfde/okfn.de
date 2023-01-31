@@ -1,5 +1,5 @@
 ---
-type: education
+type: archive
 kategorien:
   - Bildung
   - Community

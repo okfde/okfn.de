@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 title: Offener Haushalt
 subtitle: Present budget data in a way that is easy to understand
 kategorien:

@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 title: Offener Haushalt
 subtitle: Haushaltsdaten einfach verständlich präsentieren
 background: backgrounds/openbudgets.png
