@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2022-12-09T00:00:00+0000</updated>
+  <updated>2023-01-31T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Save the Date: Forum Open Hardware</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware/"/>
+    <id>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware/</id>
+    <published>2023-01-31T00:00:00+0000</published>
+    <updated>2023-01-31T00:00:00+0000</updated>
+    <summary>Die Kreislaufwirtschaft oder auch „Circular Society“ sowie das Recht auf Reparatur werden als Wege in eine nachhaltige Zukunft gesehen. Doch wie gelangen wir dorthin? Welche Rolle spielen die Zivilgesellschaft und die offene Technologiegestaltung dabei? Diesen Fragen möchten wir mit euch und dem Forum Open Hardware am 13. März 2023 nachgehen.
+Mit dem #FOH23 möchten wir den Austausch zwischen Entwickler:innen offener, reparierbarer und veränderbarer Hardware, Reparaturexpert*innen und politischen Entscheidungs­tragenden fördern.
+Wenn du auf dem Laufenden gehalten werden möchtest, dann melde dich an.</summary>
+  </entry>
   
   <entry>
     <title>Digital-Gipfel der Bundesregierung – ein staatlich organisiertes Lobbyfest</title>
@@ -148,16 +159,6 @@ Verklebte Gehäuse, keine Ersatzteile, geplante Obsoleszenz sowie eine ungerecht
     <published>2022-03-31T00:00:00+0000</published>
     <updated>2022-03-31T00:00:00+0000</updated>
     <summary>Hadi al-Khatib ist Geschäftsführer der gemeinnützigen Organisation Mnemonic und Gründer des Syrian Archive. Beide Projekte konzentrieren sich auf Open Source Investigation - eine Methodik, die sich immer weiter verbreitet und über die im Kontext des Krieges in der Ukraine immer wieder auch in den Medien berichtet wird. Das Syrian Archive wurde im Jahr 2017 im Rahmen des Prototype Fund gefördert. Wir haben mit Hadi über seine Arbeit, die Vorteile von Open Source Investigation und deren Entwicklung über die letzten Jahre gesprochen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Sovereign Tech Fund: Bundestag muss Open Source im Haushalt verankern</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/03/stf-offener-brief/"/>
-    <id>https://okfn.de/blog/2022/03/stf-offener-brief/</id>
-    <published>2022-03-28T00:00:00+0000</published>
-    <updated>2022-03-28T00:00:00+0000</updated>
-    <summary>Berlin, 28.03.2022
-Die Open Knowledge Foundation Deutschland wendet sich heute in einem gemeinsamen offenen Brief an die Bundestagsfraktionen der Ampel-Koalition, um für eine Kurskorrektur beim Bundeshaushalt zu werben. Trotz der Ankündigung des Bundesministeriums für Wirtschaft und Klimaschutz, mit dem Sovereign Tech Fund in diesem Jahr eine Förderstruktur für die nachhaltige Unterstützung von Open-Source-Basistechnologien zu schaffen, fehlen Mittel für dieses Schlüsselprojekt im Kabinettsbeschluss über den Haushalt, der nun vom Bundestag beraten wird.</summary>
   </entry>
   
 </feed>
