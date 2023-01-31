@@ -11,7 +11,7 @@ type: post
 layout: post
 published: false
 featured: blue
-title: "Prototype Fund: Jetzt bewerben für Runde 14 DO NOT PUBLISH"
+title: "Prototype Fund: Jetzt bewerben für Runde 14"
 ---
 Seit dem 1. Februar 2023 könnt ihr eure Public-Interest-Tech-Ideen für die 14. Förderphase des Prototype Fund einreichen. Wenn eure Projektidee überzeugt, könnt ihr ab dem 1. September 2023 mit den anderen Prototyp-Entwickler\*innen in die Förderung starten.
 
@@ -27,6 +27,6 @@ Bewerbt euch bis zum 31.2.2023 mit eurer Projektidee auf unserer [Bewerbungspla
 
 Wenn ihr Fragen habt, findet ihr viele passende Antworten in unseren [FAQ](https://prototypefund.de/bewerbung/faq/) sowie den Ablauf des Bewerbungsprozesses in unserer [Timeline](https://prototypefund.de/bewerbung/timeline/).
 
-Wir möchten explizit alle Menschen, die zu in der Softwareentwicklung bisher unterrepräsentierten Gruppen zählen, ermutigen sich für die Förderung zu bewerben. Ihr könnt euch während des Bewerbungszeitraums jederzeit [an das Team des Prototype Fund wenden](mailto:bewerbung@prototypefund.de "mailto:bewerbung@prototypefund.de").
+Wir möchten explizit alle Menschen, die zu in der Softwareentwicklung bisher unterrepräsentierten Gruppen zählen, ermutigen sich für die Förderung zu bewerben. Ihr könnt euch während des Bewerbungszeitraums jederzeit [an das Team des Prototype Fund wenden](mailto:info@prototypefund.de "mailto:info@prototypefund.de").
 
-[Wenn ihr keine Antworten auf eure Fragen in den FAQ findet, kommt am 23.2. zwischen 17 und 18 Uhr in unsere Online-Sprechstunde](https://meet.prototypefund.de/user/pat-os6-hrx-ts5 "https://meet.prototypefund.de/user/pat-os6-hrx-ts5").
+[Wenn ihr keine Antworten auf eure Fragen in den FAQ findet, kommt am 23.2. zwischen 17 und 18 Uhr in unsere Online-Sprechstunde](https://meet.prototypefund.de/user/mar-rnr-eco-ftt).
