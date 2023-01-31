@@ -3669,6 +3669,18 @@
                 href="https://okfn.de/projekte/forumopenedu/"
                 />
   </url><url>
+    <loc>https://okfn.de/projekte/forumopenoshw/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/forumopenoshw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/forumopenoshw/"
+                />
+  </url><url>
     <loc>https://okfn.de/projekte/frankfurtgestalten/</loc>
     <xhtml:link
                 rel="alternate"
