@@ -9,7 +9,7 @@ tags:
 - ausschreibung
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Prototype Fund: Jetzt bewerben für Runde 14"
 ---
