@@ -6,7 +6,25 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ausschreibung</title>
+      <link>https://okfn.de/tags/ausschreibung/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/ausschreibung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototype Fund</title>
+      <link>https://okfn.de/tags/prototype-fund/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/prototype-fund/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Open Hardware</title>
       <link>https://okfn.de/tags/open-hardware/</link>
@@ -157,15 +175,6 @@
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/ki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prototype Fund</title>
-      <link>https://okfn.de/tags/prototype-fund/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/prototype-fund/</guid>
       <description></description>
     </item>
     
@@ -436,15 +445,6 @@
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/vorstand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ausschreibung</title>
-      <link>https://okfn.de/tags/ausschreibung/</link>
-      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/ausschreibung/</guid>
       <description></description>
     </item>
     

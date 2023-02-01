@@ -242,8 +242,11 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/ausschreibung/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +259,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,11 +271,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/joram-schwartzmann/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -284,14 +287,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/prototype-fund/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2023/02/ptf-bewerbungsphase-runde-14/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -302,6 +305,15 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/gf-buchhaltung-assistenz/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
@@ -413,9 +425,6 @@
     <lastmod>2022-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/patricia-leu/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/prototype-fund/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/08/ptf-runde-13/</loc>
@@ -669,9 +678,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/03/okf-vorstandswechsel/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/ausschreibung/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/03/jugend-hackt-labs-2021-ausschreibung/</loc>
     <lastmod>2021-03-17T00:00:00+00:00</lastmod>
