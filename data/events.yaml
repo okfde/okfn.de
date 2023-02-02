@@ -40,3 +40,9 @@
   startdate: "2022-11-17"
   venue: Technische Sammlungen Dresden
   show: true
+  - name: Prototype Fund Demo Day der Runde 12
+  url: https://prototypefund.de/demo-day/
+  enddate:
+  startdate: "2023-02-28"
+  venue: Berlin
+  show: true
