@@ -40,9 +40,9 @@
   startdate: "2022-11-17"
   venue: Technische Sammlungen Dresden
   show: true
-  - name: Prototype Fund Demo Day der Runde 12
-  url: https://prototypefund.de/demo-day/
+  - name: Forum Open: Hardware
+  url: https://hardware.forum-open.de/
   enddate:
-  startdate: "2023-02-28"
+  startdate: "2023-03-13"
   venue: Berlin
   show: true
