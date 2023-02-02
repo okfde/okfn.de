@@ -52,3 +52,9 @@
   startdate: "2023-02-28"
   venue: Berlin
   show: true
+- name: Jugend hackt in Dresden 2023
+  url: https://jugendhackt.org/events/dresden/
+  enddate: "2023-05-05"
+  startdate: "2023-05-07"
+  venue: Deutsches Hygienemuseum
+  show: true
