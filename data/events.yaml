@@ -40,7 +40,7 @@
   startdate: "2022-11-17"
   venue: Technische Sammlungen Dresden
   show: true
-  - name: Forum Open: Hardware
+- name: Forum Open: Hardware
   url: https://hardware.forum-open.de/
   enddate:
   startdate: "2023-03-13"
