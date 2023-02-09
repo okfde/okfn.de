@@ -39,5 +39,5 @@ Da keine der Parteien in ihren aktualisierten Wahlprogrammen direkt Bezug auf Ge
 - Das **Transparenzgesetz** muss 2023 kommen 
 -	Die Stichprobe zu **Public Money, Public Code** hat gezeigt: politische Forderungen der Koalition müssen sich auch in der Verwaltungspraxis niederschlagen 
 - Die kommende **Open-Data-Strategie** des Landes Berlin darf nicht zum Papiertiger werden
-- Ein **Monitoring der im Koalitionsvertrag vereinbarten digitalpolitischen Ziele** ist daher als Begleitmaßnahme unbedingt notwendig
+- Ein **Monitoring der im Koalitionsvertrag vereinbarten digitalpolitischen Ziele** ist als Begleitmaßnahme unbedingt notwendig
 - Die Bereitstellung von **Open Data braucht infrastrukturelle Grundlagen**: Neben adäquater Hard- und Software ist auch eine Anpassung von Prozessen, Strukturen und Zuständigkeiten unumgänglich
