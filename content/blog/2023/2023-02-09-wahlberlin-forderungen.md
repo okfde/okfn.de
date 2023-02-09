@@ -39,7 +39,7 @@ Da keine der Parteien in ihren aktualisierten Wahlprogrammen direkt Bezug auf Ge
 
 - Das **Transparenzgesetz** muss 2023 kommen 
 -	Die Stichprobe zu **Public Money, Public Code** hat gezeigt: politische Forderungen der Koalition müssen sich auch in der Verwaltungspraxis niederschlagen 
-- Die geplante Neuauflage der Open-Data-Strategie muss verabschiedet und umgesetzt werden
+- Die geplante Neuauflage der **Open-Data-Strategie** muss verabschiedet und umgesetzt werden
 - Es braucht ein **messbares Monitoring** für die Umsetzung der Ziele aus der neuen Digitalstrategie bzw. den möglichen neuen digitalpolitischen Zielen der Regierungskoalition. Beim Monitoring muss die Stadtgesellschaft einbezogen werden
 - Die Bereitstellung von **Open Data braucht infrastrukturelle Grundlagen**: Neben adäquater Hard- und Software ist auch eine Anpassung von Prozessen, Strukturen und Zuständigkeiten unumgänglich
 - Wenn Berlin weiterhin auf eine **separate Datenstrategie** verzichten möchten, müssen die Maßnahmen zum Datenmanagement in der Digitalstrategie geschärft werden
