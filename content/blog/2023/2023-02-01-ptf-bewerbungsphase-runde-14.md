@@ -10,7 +10,6 @@ tags:
 type: post
 layout: post
 published: true
-featured: blue
 title: "Prototype Fund: Jetzt bewerben für Runde 14"
 ---
 Seit dem 1. Februar 2023 könnt ihr eure Public-Interest-Tech-Ideen für die 14. Förderphase des Prototype Fund einreichen. Wenn eure Projektidee überzeugt, könnt ihr ab dem 1. September 2023 mit den anderen Prototyp-Entwickler\*innen in die Förderung starten.
