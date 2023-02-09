@@ -5,7 +5,7 @@ date: 2023-02-09
 image: 
   src: /files/blog/2023/02/openfax.png
   license: c4ddownload
-  license_url: [c4ddownload.com](https://c4ddownload.com/download/office-fax-3d-model/)
+  license_url: https://c4ddownload.com/download/office-fax-3d-model/
 tags:
 - Digitalpolitik
 - Berlin
