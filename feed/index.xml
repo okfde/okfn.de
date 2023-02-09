@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digitaler Aufbruch in Berlin nach der Wiederholungswahl - oder weiter so?</title>
+      <link>https://okfn.de/blog/2023/02/wahlberlin-forderungen/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2023/02/wahlberlin-forderungen/</guid>
+      <description>Im ersten Jahr ihrer Regierungstätigkeit hat die Koalition im Berliner Abgeordnetenhaus im Digitalbereich vor allem an der Theorie gearbeitet – aber in der Praxis Forderungen der Zivilgesellschaft weiter ignoriert. Eine fortbestehende oder umgebildete Regierung muss in der restlichen Legislaturperiode zum Handeln übergehen.
+Ende Januar wurde mit Gemeinsam Digital: Berlin eine umfassende digitale Vision für die Hauptstadt vorgestellt, die alle Aspekte der digitalen Transformation von Stadt und Verwaltung umfasst. Treibende politische Kraft ist Berlins Chief Digital Officer Ralf Kleindiek, der in Personalunion Staatssekretär im Innensenat und CDO in der Senatskanzlei ist.</description>
+    </item>
     
     <item>
       <title>Prototype Fund: Jetzt bewerben für Runde 14</title>

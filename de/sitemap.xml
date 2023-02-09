@@ -242,11 +242,8 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/ausschreibung/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -258,8 +255,11 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/berlin/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -271,11 +271,20 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/joram-schwartzmann/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/02/wahlberlin-forderungen/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,14 +296,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/prototype-fund/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2023/02/ptf-bewerbungsphase-runde-14/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -305,6 +311,21 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/transparenzgesetz/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/ausschreibung/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/joram-schwartzmann/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/prototype-fund/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/02/ptf-bewerbungsphase-runde-14/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/maximilian-voigt/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
@@ -341,12 +362,6 @@
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/12/f5-digitalgipfel/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
@@ -500,9 +515,6 @@
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/02/open-data-berlin/</loc>
-    <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-data/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/open-government/</loc>
@@ -886,9 +898,6 @@
     <loc>https://okfn.de/authors/okf/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/transparenzgesetz/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2019/12/volksentscheid-33000-unterschriften-eingereicht/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -1011,9 +1020,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2019/05/transparenzregister-mit-open-data-geldwaesche-bekaempfen/</loc>
     <lastmod>2019-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/berlin/</loc>
-    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2019/05/transparenzgesetz-berlin-startet/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
