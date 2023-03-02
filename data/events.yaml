@@ -70,31 +70,31 @@
   startdate: "2023-06-18"
   venue: tba
   show: true
-  - name: Jugend-Village auf dem Chaos Communication Camp 2023
+- name: Jugend-Village auf dem Chaos Communication Camp 2023
   url: https://jugendhackt.org/events/camp/
   enddate: "2023-08-15"
   startdate: "2023-08-19"
   venue: Ziegeleipark Mildenberg
   show: true
-  - name: Jugend hackt in Köln 2023
+- name: Jugend hackt in Köln 2023
   url: https://jugendhackt.org/events/koeln/
   enddate: "2023-09-15"
   startdate: "2023-09-17"
   venue: Jugendzentrum.Digital
   show: true
-  - name: Jugend hackt in Hamburg 2023
+- name: Jugend hackt in Hamburg 2023
   url: https://jugendhackt.org/events/hamburg/
   enddate: "2023-10-27"
   startdate: "2023-10-29"
   venue: betahaus Schanze
   show: true
-  - name: Jugend hackt in Österreich 2023
+- name: Jugend hackt in Österreich 2023
   url: https://jugendhackt.org/events/at-linz/
   enddate: "2023-10-27"
   startdate: "2023-10-29"
   venue: Wissensturm Linz
   show: true
-  - name: Jugend hackt Rhein-Neckar 2023
+- name: Jugend hackt Rhein-Neckar 2023
   url: https://jugendhackt.org/events/rhein-neckar/
   enddate: "2023-11-17"
   startdate: "2023-11-19"
