@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-02-09T00:00:00+0000</updated>
+  <updated>2023-03-23T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Seit dem FOH23 online: die Publikation Unboxing Blackboxes</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/03/das-war-das-forum-open-hardware-23/"/>
+    <id>https://okfn.de/blog/2023/03/das-war-das-forum-open-hardware-23/</id>
+    <published>2023-03-23T00:00:00+0000</published>
+    <updated>2023-03-23T00:00:00+0000</updated>
+    <summary>Die Herausforderungen unser Zeit sind bekannt, die auf sozialer, ökologischer und wirtschaftlicher Ebene vor uns liegen. Offene Hardware kann ein Teil der Lösung werden. Beim Forum Open Hardware 2023 (#FOH23) befassten sich 100 Expertinnen und Experten mit der Frage, wie das gelingen kann. Dabei stand das zivilgesellschaftliche Engagement im Forderung. Denn es sind zivilgesellschaftliche Akteure, die daran arbeiten, Technologie und alle damit verbundenen Aspekte offen zu denken. Damit gehören sie zu den innovativsten Köpfen unserer Zeit, wenn Innovation bedeutet, Hardware reparierbar, veränderbar und partizipativ zu gestalten.</summary>
+  </entry>
   
   <entry>
     <title>Digitaler Aufbruch in Berlin nach der Wiederholungswahl - oder weiter so?</title>
@@ -31,8 +40,8 @@ Der Prototype Fund sucht nach innovativen Open-Source-Softwareprojekten mit gese
   
   <entry>
     <title>Save the Date: Forum Open Hardware</title>
-    <link rel="alternate" href="https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware/"/>
-    <id>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware/</id>
+    <link rel="alternate" href="https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware-23/"/>
+    <id>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware-23/</id>
     <published>2023-01-31T00:00:00+0000</published>
     <updated>2023-01-31T00:00:00+0000</updated>
     <summary>Die Kreislaufwirtschaft oder auch „Circular Society“ sowie das Recht auf Reparatur werden als Wege in eine nachhaltige Zukunft gesehen. Doch wie gelangen wir dorthin? Welche Rolle spielen die Zivilgesellschaft und die offene Technologiegestaltung dabei? Diesen Fragen möchten wir mit euch und dem Forum Open Hardware am 13. März 2023 nachgehen.
@@ -150,16 +159,6 @@ Unsere Highlights von 2021: Die OKF DE und FragDenStaat feierten ihren 10. Gebur
     <updated>2022-06-07T00:00:00+0000</updated>
     <summary>++ Digitalisierung und Nachhaltigkeit zusammendenken – Zweite bundesweite Bits &amp;amp; Bäume Konferenz vom 30. September bis 2. Oktober – Aufruf für Konferenzbeiträge ++
 Berlin. In diesem Jahr findet die zweite Bits &amp;amp; Bäume-Konferenz für Digitalisierung und Nachhaltigkeit in Berlin statt. Mehrere Organisationen aus Umweltschutz, Digitalpolitik, Entwicklungspolitik und Wissenschaft laden dazu ein, Handlungsoptionen und politische Forderungen für ausreichend Klima- und Umweltschutz, soziale Gerechtigkeit und Demokratie im digitalen Zeitalter zu erarbeiten. Ein ganzes Konferenzwochenende dreht sich um die Frage, wie die Digitalisierung zu einer nachhaltigen und demokratischen Gesellschaft beitragen kann.</summary>
-  </entry>
-  
-  <entry>
-    <title>Bits &amp; Bäume 2022 und die OKF</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/04/auftakt-bits-und-baeume/"/>
-    <id>https://okfn.de/blog/2022/04/auftakt-bits-und-baeume/</id>
-    <published>2022-04-21T00:00:00+0000</published>
-    <updated>2022-04-21T00:00:00+0000</updated>
-    <summary>Vom 30.9. bis 2.10.2022 findet die zweite große Bits &amp;amp; Bäume Konferenz statt - mit der OKF im Trägerkreis. Bits &amp;amp; Bäume ist eine Konferenz, aber auch eine Bewegung von allen Menschen, die Digitalisierung nachhaltiger gestalten wollen, also u. a. gerechter, transparenter, zugänglicher, umweltfreundlicher und ressourcenschonender.
-Digitale Gerechtigkeit als Fokus Was digitale Nachhaltigkeit und nachhaltige Digitalisierung im Kontext unserer Arbeit bei der OKF für uns bedeuten, haben wir hier schon einmal aufgeschrieben.</summary>
   </entry>
   
 </feed>

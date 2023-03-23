@@ -6,13 +6,22 @@
     <description>Recent content in Maximilian Voigt on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/maximilian-voigt/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/maximilian-voigt/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seit dem FOH23 online: die Publikation Unboxing Blackboxes</title>
+      <link>https://okfn.de/blog/2023/03/das-war-das-forum-open-hardware-23/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2023/03/das-war-das-forum-open-hardware-23/</guid>
+      <description>Die Herausforderungen unser Zeit sind bekannt, die auf sozialer, ökologischer und wirtschaftlicher Ebene vor uns liegen. Offene Hardware kann ein Teil der Lösung werden. Beim Forum Open Hardware 2023 (#FOH23) befassten sich 100 Expertinnen und Experten mit der Frage, wie das gelingen kann. Dabei stand das zivilgesellschaftliche Engagement im Forderung. Denn es sind zivilgesellschaftliche Akteure, die daran arbeiten, Technologie und alle damit verbundenen Aspekte offen zu denken. Damit gehören sie zu den innovativsten Köpfen unserer Zeit, wenn Innovation bedeutet, Hardware reparierbar, veränderbar und partizipativ zu gestalten.</description>
+    </item>
+    
     <item>
       <title>Save the Date: Forum Open Hardware</title>
-      <link>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware/</link>
+      <link>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware-23/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware/</guid>
+      <guid>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware-23/</guid>
       <description>Die Kreislaufwirtschaft oder auch „Circular Society“ sowie das Recht auf Reparatur werden als Wege in eine nachhaltige Zukunft gesehen. Doch wie gelangen wir dorthin? Welche Rolle spielen die Zivilgesellschaft und die offene Technologiegestaltung dabei? Diesen Fragen möchten wir mit euch und dem Forum Open Hardware am 13. März 2023 nachgehen.
 Mit dem #FOH23 möchten wir den Austausch zwischen Entwickler:innen offener, reparierbarer und veränderbarer Hardware, Reparaturexpert*innen und politischen Entscheidungs­tragenden fördern.
 Wenn du auf dem Laufenden gehalten werden möchtest, dann melde dich an.</description>
