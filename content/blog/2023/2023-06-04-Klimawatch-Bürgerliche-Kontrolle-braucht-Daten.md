@@ -9,7 +9,7 @@ tags:
 - community
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Klimawatch - Bürgerliche Kontrolle braucht Daten"
 ---
