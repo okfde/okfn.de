@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-03-23T00:00:00+0000</updated>
+  <updated>2023-06-04T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Klimawatch - Bürgerliche Kontrolle braucht Daten</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/06/klimawatch-b%C3%BCrgerliche-kontrolle-braucht-daten/"/>
+    <id>https://okfn.de/blog/2023/06/klimawatch-b%C3%BCrgerliche-kontrolle-braucht-daten/</id>
+    <published>2023-06-04T00:00:00+0000</published>
+    <updated>2023-04-06T00:00:00+0000</updated>
+    <summary>Klimawandel und CO2 reduzieren ist in aller Munde: das Pariser Klimaabkommen - 2030. Auf welchem Weg in Deutschland aber konkret, und vor allem lokal, dazu beigetragen wird, ist oft wenig ersichtlich. Welche Maßnahmen werden getroffen? Welche Ziele gesetzt? Bin ich davon betroffen? Kann ich etwas tun? Sollte ich vielleicht von meiner Kommune fordern, sich höhere Ziele zu setzen?
+Wie an vielen anderen Stellen demokratischer Willensbildung und gemeinschaftlichen Handelns ist hier Transparenz wichtig und kann durch Digitale Tools unterstützt und vereinfacht werden.</summary>
+  </entry>
   
   <entry>
     <title>Seit dem FOH23 online: die Publikation Unboxing Blackboxes</title>
@@ -149,16 +159,6 @@ Das Programm sucht Software-Innovationen mit gesellschaftlichem Mehrwert, die in
     <updated>2022-06-22T00:00:00+0000</updated>
     <summary>Wer erinnert sich noch an 2021? Es ist doch überraschend viel passiert, wenn man so zurückschaut! Nach erfolgreich abgeschlossener Wirtschaftsprüfung findet ihr auf 2021.okfn.de unseren Jahresbericht online. Eine PDF Version zum runterladen gibt&amp;rsquo;s auch.
 Unsere Highlights von 2021: Die OKF DE und FragDenStaat feierten ihren 10. Geburtstag. Seit dem 19.02.2011 setzen wir uns für offenes Wissen, digitale Mündigkeit und den ethischen Umgang mit Technologie ein, zeigen deren demokratisches Potenzial und bringen Menschen zusammen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Gemeinsame Pressemitteilung von 13 Organisationen aus Umwelt- und Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft 7. Juni 2022</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/06/auftakt-pm-bits-baeume/"/>
-    <id>https://okfn.de/blog/2022/06/auftakt-pm-bits-baeume/</id>
-    <published>2022-06-07T00:00:00+0000</published>
-    <updated>2022-06-07T00:00:00+0000</updated>
-    <summary>++ Digitalisierung und Nachhaltigkeit zusammendenken – Zweite bundesweite Bits &amp;amp; Bäume Konferenz vom 30. September bis 2. Oktober – Aufruf für Konferenzbeiträge ++
-Berlin. In diesem Jahr findet die zweite Bits &amp;amp; Bäume-Konferenz für Digitalisierung und Nachhaltigkeit in Berlin statt. Mehrere Organisationen aus Umweltschutz, Digitalpolitik, Entwicklungspolitik und Wissenschaft laden dazu ein, Handlungsoptionen und politische Forderungen für ausreichend Klima- und Umweltschutz, soziale Gerechtigkeit und Demokratie im digitalen Zeitalter zu erarbeiten. Ein ganzes Konferenzwochenende dreht sich um die Frage, wie die Digitalisierung zu einer nachhaltigen und demokratischen Gesellschaft beitragen kann.</summary>
   </entry>
   
 </feed>
