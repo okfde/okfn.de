@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,11 +268,17 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/community/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/06/klimawatch-b%C3%BCrgerliche-kontrolle-braucht-daten/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/nora-titz/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -284,14 +290,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2023/03/das-war-das-forum-open-hardware-23/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -302,6 +305,15 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/03/das-war-das-forum-open-hardware-23/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/berlin/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
@@ -316,9 +328,6 @@
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-data/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/transparenzgesetz/</loc>
@@ -377,9 +386,6 @@
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/ehrenamt/</loc>
-    <lastmod>2022-12-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/nora-titz/</loc>
     <lastmod>2022-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/forschung/</loc>
@@ -464,9 +470,6 @@
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/claudia-jach/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/community/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/06/auftakt-pm-bits-baeume/</loc>

@@ -6,7 +6,25 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community</title>
+      <link>https://okfn.de/tags/community/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>https://okfn.de/tags/open-data/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/open-data/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Open Hardware</title>
       <link>https://okfn.de/tags/open-hardware/</link>
@@ -31,15 +49,6 @@
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/digitalpolitik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open Data</title>
-      <link>https://okfn.de/tags/open-data/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/open-data/</guid>
       <description></description>
     </item>
     
@@ -229,15 +238,6 @@
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/openknowledge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Community</title>
-      <link>https://okfn.de/tags/community/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/community/</guid>
       <description></description>
     </item>
     
