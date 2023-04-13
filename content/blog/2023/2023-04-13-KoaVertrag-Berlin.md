@@ -16,7 +16,7 @@ featured: yellow
 title: "Digitalpolitik im Koalitionsvertrag in Berlin: Wenig Zeit für Veränderung"
 ---
 
-**Sollten die jeweiligen Parteigremien Ende April zustimmen, bleibt einer neuen Regierungskoalition aus CDU und SPD nur wenig Zeit, um in der restlichen Legislaturperiode digitalpolitische Vorhaben umzusetzen. Welche Projekte priorisiert werden sollen, bleibt im Koalitionsvertrag vage. Viel wird von dem neuen Personal abhängen.
+**Sollten die jeweiligen Parteigremien Ende April zustimmen, bleibt einer neuen Regierungskoalition aus CDU und SPD nur wenig Zeit, um in der restlichen Legislaturperiode digitalpolitische Vorhaben umzusetzen. Welche Projekte priorisiert werden sollen, bleibt im Koalitionsvertrag vage. Viel wird von dem neuen Personal abhängen.**
 
 **Aller guten Dinge sind drei? Transparenzgesetz wird wieder angekündigt**
 
