@@ -46,22 +46,24 @@ Die OKF DE beschäftigt neben der Geschäftsführung noch 33 hauptamtliche Teamm
 
 ### Angaben zur Mittelherkunft & -verwendung
 
-- [Bericht der Wirtschaftsprüfung 2021](/files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf)
-- [Bericht der Wirtschaftsprüfung 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf)
-- [Bericht der Wirtschaftsprüfung 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) 
-- [Bericht der Wirtschaftsprüfung 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf)
+Unter der Rubrik „Finanzierung“ legen wir die finanzielle Entwicklung der Organisation und die Einnahmen und Ausgaben des jeweils aktuell abgeschlossenen Wirtschaftsjahrs detailliert dar. Seit 2018 unterziehen wir uns einer freiwilligen externen Wirtschaftsprüfung.
 
-- [Bilanz 2021](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf)
-- [Bilanz 2020](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf)
-- [Bilanz 2019](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2019.pdf)
-- [Bilanz 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2018.pdf) | [Eröffnungsbilanz 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-Eröffnungsbilanz_2018.pdf)
+- [Bericht der Wirtschaftsprüfung 2021](/files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf) <br>
+- [Bericht der Wirtschaftsprüfung 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
+- [Bericht der Wirtschaftsprüfung 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
+- [Bericht der Wirtschaftsprüfung 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
 
-- [Einnahmenüberschussrechnung 2017](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2017.pdf) 
-- [Einnahmenüberschussrechnung 2016](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2016.pdf)
-- [Einnahmenüberschussrechnung 2015](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2015.pdf)
-- [Einnahmenüberschussrechnung 2014](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2014.pdf)
-- [Einnahmenüberschussrechnung 2013](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2013.pdf)
-- [Einnahmenüberschussrechnung 2012](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2012.pdf)
+- [Bilanz 2021](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf) <br>
+- [Bilanz 2020](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf) <br>
+- [Bilanz 2019](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2019.pdf) <br>
+- [Bilanz 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2018.pdf) | [Eröffnungsbilanz 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-Eröffnungsbilanz_2018.pdf) <br>
+
+- [Einnahmenüberschussrechnung 2017](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2017.pdf) <br> 
+- [Einnahmenüberschussrechnung 2016](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2016.pdf) <br>
+- [Einnahmenüberschussrechnung 2015](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2015.pdf) <br>
+- [Einnahmenüberschussrechnung 2014](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2014.pdf) <br>
+- [Einnahmenüberschussrechnung 2013](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2013.pdf) <br>
+- [Einnahmenüberschussrechnung 2012](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2012.pdf) <br>
 - [Einnahmenüberschussrechnung 2011](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2011.pdf)
 
 ### Gesellschaftsrechtliche Verbundenheit
