@@ -48,6 +48,8 @@ In addition to the managing director, OKF DE employs 33 team members (2022). The
 
 ### Information on source & use of funds
 
+Under the heading "Funding" we present in detail the financial development of the organization and the income and expenditure of the current financial year. Since 2018, we have been undergoing a voluntary external audit.
+
 - [Audit Report 2021](/files/WP-Berichte/OKF-DE-WPBericht-2021.pdf) <br>
 - [Audit Report 2020](/files/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
 - [Audit Report 2019](/files/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
