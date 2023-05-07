@@ -5,9 +5,7 @@ meta: OKF DE Impressum, Vereinsadresse, Datenschutzerklärung
 
 **Club address:**<br>
 Open Knowledge Foundation Germany e.V.<br>
-Singerstr. 109<br>
-10179 Berlin</br>
-Germany 
+Singerstr. 109 | D-10179 Berlin</br>
 
 **E-mail:** info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]<br>
 **Phone:** +49 30 97 89 42 30<br>
