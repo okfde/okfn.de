@@ -1,9 +1,9 @@
 - de:
     title: Freistellungsbescheid
-    text: Nachweis unserer Gemeinnützigkeit
+    text: aktueller Nachweis unserer Gemeinnützigkeit
   en:
     title: Notice of Exemption [DE]
-    text: Prof of our charity status
+    text: valid proof of our charity status
   path: /files/documents/2022_Freistellungsbescheid_fuer_2021.pdf
 - de:
     title: Bilanz
@@ -18,16 +18,15 @@
     - 2019
 - de:
     title: Bericht der Wirtschaftsprüfung
-    text: Seit 2018 unterziehen wir uns mit Bilanz, Gewinn- und Verlustrechnung sowie Anhang und Lagebericht einer freiwilligen Wirtschaftsprüfung.
+    text: Die vollständige Liste der Wirtschaftsprüfungen seit ihrer Einführung 2018 findest du unter Transparenz.
   en:
     title: Audit Reports [DE]
-    text: Beginning in 2018, our annual financial statements including notes and managment reports are now voluntarily audited.
+    text: For the full list of audits since their launch in 2018, see Transparency.
   prefix: /files/documents/WP-Berichte/OKF-DE-WPBericht
   years:
     - 2021
     - 2020
     - 2019
-    - 2018
 # 'prefix' will be part of the path and file name, which will be completed using the "years" field like so:
 # prefix: /path/to/file
 # years: 1984
