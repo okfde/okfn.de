@@ -1,30 +1,21 @@
 - de:
     title: Freistellungsbescheid
-    text: Der Freistellungsbescheid wird durch das Finanzamt für Körperschaften erteilt und zeigt an, dass wir steuerbegünstigt sind.
+    text: Nachweis unserer Gemeinnützigkeit
   en:
     title: Notice of Exemption [DE]
-    text: The notice of exemption is issued by the tax office for corporations and indicates that we are tax-privileged.
+    text: Prof of our charity status
   path: /files/documents/2022_Freistellungsbescheid_fuer_2021.pdf
 - de:
-    title: Bilanz (ab 2018) / Einnahmenüberschussrechnung (vor 2018)
-    text: 2018 hat sich die OKF entschieden, von Einnahmenüberschussrechnung auf Bilanzierung umzusteigen und erstellt seither zudem – ebenfalls freiwillig – Anhang und Lagebericht.
+    title: Bilanz
+    text: Die vollständige Liste der Bilanzen und Einnahmeüberschussrechnungen seit Gründung findest du unter Transparenz.
   en:
-    title: Balance Sheets / Profit and Loss Statements [DE]
-    text: In 2018, we decided to switch our accounting method to balance sheets, and in addition, we voluntarily provide the notes to the financial statements and the management report. 
+    title: Balance Sheet
+    text: You can find the complete list of balance sheets and income statements since the company was founded under Transparency. 
   prefix: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss
   years:
     - 2021
     - 2020
     - 2019
-    - 2018
-    - Eröffnungsbilanz_2018
-    - 2017
-    - 2016
-    - 2015
-    - 2014
-    - 2013
-    - 2012
-    - 2011
 - de:
     title: Bericht der Wirtschaftsprüfung
     text: Seit 2018 unterziehen wir uns mit Bilanz, Gewinn- und Verlustrechnung sowie Anhang und Lagebericht einer freiwilligen Wirtschaftsprüfung.
