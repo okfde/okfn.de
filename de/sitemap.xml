@@ -351,25 +351,6 @@
     <loc>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware-23/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/jobs/gf-buchhaltung-assistenz/</loc>
-    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/giulia/</loc>
-    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/b%C3%BCndnisf5/</loc>
     <lastmod>2022-12-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -3739,6 +3720,18 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/impressum/"
+                />
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/kleineanfragen/</loc>
