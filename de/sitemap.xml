@@ -3722,6 +3722,18 @@
                 href="https://okfn.de/impressum/"
                 />
   </url><url>
+    <loc>https://okfn.de/jahresberichte/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jahresberichte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jahresberichte/"
+                />
+  </url><url>
     <loc>https://okfn.de/jobs/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3963,18 +3975,6 @@
                 />
   </url><url>
     <loc>https://okfn.de/styleguide/</loc>
-  </url><url>
-    <loc>https://okfn.de/jahresberichte/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jahresberichte/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jahresberichte/"
-                />
   </url><url>
     <loc>https://okfn.de/team/</loc>
     <xhtml:link
