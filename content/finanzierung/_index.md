@@ -17,4 +17,4 @@ search_keys:
   - Einnahmen-Ausgaben-Überschussrechnung
 ---
 
-Seit unserer Gründung im Jahr 2011 finanzieren wir uns mehrheitlich über Projekte. Diese werden von wechselnden privat-rechtlichen und öffentlichen Mittelgebenden gefördert. Darüber hinaus erhalten wir Spendeneinnahmen sowie in geringerem Ausmaß wirtschaftliche Einnahmen. Im Geschäftsjahr 2021 standen uns 2,504 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen Gesamtausgaben von insgesamt 2,164 Millionen Euro gegenüber.
+Seit unserer Gründung im Jahr 2011 finanzieren wir uns mehrheitlich über Projekte. Diese werden von wechselnden Mittelgebenden gefördert. Darüber hinaus erhalten wir Spendeneinnahmen sowie in geringerem Ausmaß wirtschaftliche Einnahmen. Im Geschäftsjahr 2021 standen uns 2,504 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen Gesamtausgaben von insgesamt 2,164 Millionen Euro gegenüber.
