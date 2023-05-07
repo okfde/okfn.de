@@ -1,23 +1,22 @@
 ---
 title: Presse
-meta: OKF DE Pressekontakt, Presseverteiler, Logos, Bilder
+meta: Kontaktinfos, Presse, Logos, Newsletter
 ---
 
-Wenn Du auf der Suche nach Hintergrundinformationen bist, konkrete Fragen zu unseren Projekten hast oder eine/n Interviewpartner/in aus dem Verein benötigst, wende Dich bitte an unser Presse-Team. Wir helfen Dir gern weiter!
+### Anschrift und allgemeine Anfragen
 
-## Kontakt
+Open Knowledge Foundation Deutschland e.V.<br>
+Singerstr. 109 | D-10179 Berlin
+info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>] <br>
++49 30 97894230
 
-**Ansprechpartnerin:**
+### Presse
+
+**Ansprechperson:**
 Henriette Litta<br>
-**E-Mail:** presse@okfn.de<br>
-**Telefon:**
+presse@okfn.de<br>
 +49 30 97 89 42 30
 
-## Presseverteiler
+### Logos und Material
 
-[Hier](https://okfn.us5.list-manage.com/subscribe?u=929f1e07936386d34833e20d1&id=4df990209d) kannst Du Dich für unseren Presseverteiler anmelden.
-
-
-## Logos und Material
-
-Die Logos der Open Knowledge Foundation Deutschland, stehen [hier als Paket](/files/logos/Logos_okfde.zip) zur Verfügung. Weiteres Bildmaterial zur Verwendung findest du auf [Flickr](https://www.flickr.com/photos/okfde/sets/).
+Das Logo der OKF gibt es in verschiedenen Formaten als [Paket-Download](/files/logos/Logos_okfde.zip). Viele schöne Fotos gibt es in unserer Fotosammlung bei [Flickr](https://www.flickr.com/photos/okfde/sets/).
