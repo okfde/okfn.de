@@ -16,8 +16,8 @@ Singerstr. 109 | D-10179 Berlin <br>
 
 **Ansprechperson:**
 Henriette Litta<br>
-presse@okfn.de<br>
-+49 30 97 89 42 30
+**E-mail:** presse@okfn.de<br>
+**Tel:** +49 30 97 89 42 30
 
 ### Logos und Material
 
