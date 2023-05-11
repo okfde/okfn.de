@@ -25,7 +25,6 @@ The majority (75%) of our income comes from project-related grants. In addition,
 <div class="l__finance__logos">
     <img src="/okf/finanzierung/codefor.png" alt="Code For Germany">
     <img src="/okf/finanzierung/fragdenstaat.png" alt="Frag Den Staat">
-    <img src="/okf/finanzierung/kleineanfragen.png" alt="Kleine Anfragen">
     <img src="/okf/finanzierung/politikbeiuns.png" alt="Politik bei uns">
     <img src="/okf/finanzierung/rettedeinennahverkehr.png" alt="Rette deinen Nahverkkehr">
     <img src="/okf/finanzierung/sehrgutachten.png" alt="sehrGutachten">
@@ -33,7 +32,3 @@ The majority (75%) of our income comes from project-related grants. In addition,
     <img src="/okf/finanzierung/https.png" alt="HTTPS">
     <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
 </div>
-
-Our projects emerge from a solution-oriented as well as idealistic attitude, and are often initiated by volunteer activities.
-
-Individual donations enable our continued work, keep us independent and support the sustainability of our efforts. Help us by donating today!
