@@ -7,8 +7,10 @@ meta: Kontaktinfos, Presse, Logos, Newsletter
 
 Open Knowledge Foundation Deutschland e.V.<br>
 Singerstr. 109 | D-10179 Berlin <br>
-info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>] <br>
-+49 30 97894230
+**E-mail:** info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]<br>
+**Tel:** +49 30 97 89 42 30<br>
+**Fax:** +49 30 85 10 23 20
+
 
 ### Presse
 
