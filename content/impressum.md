@@ -3,10 +3,9 @@ title: Impressum
 meta: OKF DE Impressum, Vereinsadresse, Datenschutzerklärung
 ---
 
-**Vereinsadresse:**<br>
+**Adresse**<br>
 Open Knowledge Foundation Deutschland e.V.<br>
 Singerstr. 109 | D-10179 Berlin</br>
-
 **E-Mail:** info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]<br>
 **Telefon:** +49 30 97 89 42 30<br>
 **Fax:** +49 30 85 10 23 20
