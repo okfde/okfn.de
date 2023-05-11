@@ -25,7 +25,6 @@ Den Großteil (75%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Da
 <div class="l__finance__logos">
     <img src="/okf/finanzierung/codefor.png" alt="Code For Germany">
     <img src="/okf/finanzierung/fragdenstaat.png" alt="Frag Den Staat">
-    <img src="/okf/finanzierung/kleineanfragen.png" alt="Kleine Anfragen">
     <img src="/okf/finanzierung/politikbeiuns.png" alt="Politik bei uns">
     <img src="/okf/finanzierung/rettedeinennahverkehr.png" alt="Rette deinen Nahverkkehr">
     <img src="/okf/finanzierung/sehrgutachten.png" alt="sehrGutachten">
@@ -33,7 +32,3 @@ Den Großteil (75%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Da
     <img src="/okf/finanzierung/https.png" alt="HTTPS">
     <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
 </div>
-
-Unsere Projekte entstehen aus einer lösungsorientierten und idealistischen Haltung und werden oft durch ehrenamtliche Tätigkeit initiiert.
-
-Einzelspenden ermöglichen die Verstetigung und inhaltliche Unabhängigkeit dieser gemeinnützigen Werkzeuge. Unterstütze uns deshalb noch heute mit deiner Spende!
