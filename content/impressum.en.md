@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Imprint & privacy policy
 meta: OKF DE Impressum, Datenschutzerklärung
 ---
 
