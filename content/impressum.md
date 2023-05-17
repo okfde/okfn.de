@@ -1,5 +1,5 @@
 ---
-title: Impressum & Datenschutz
+title: Impressum
 meta: OKF DE Impressum, Datenschutzerklärung
 ---
 
