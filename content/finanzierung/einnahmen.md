@@ -1,10 +1,10 @@
 ---
-title: Einnahmen 2021
+title: Einnahmen 2022
 weight: 3
 ---
 
 
-Den Großteil (75%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Dazu kommen wachsende Spendeneinnahmen in Höhe von ca. 19% unserer Einnahmen. Die meisten Spenden sind an FragDenStaat adressiert; aber auch Jugend hackt, Code for Germany und die OKF als Ganzes verbuchen Spendeneinnahmen. Über wirtschaftliche Einnahmen haben wir 6% erwirtschaftet, Sponsoring trägt aktuell zu weniger als 1% unserer Gelder bei.
+Den Großteil (60%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Dazu kommen wachsende Spendeneinnahmen in Höhe von ca. 37% unserer Einnahmen. Die meisten Spenden sind an FragDenStaat adressiert; aber auch Jugend hackt, Code for Germany und die OKF als Ganzes verbuchen Spendeneinnahmen. Über wirtschaftliche Einnahmen haben wir 2% erwirtschaftet, Sponsoring trägt aktuell zu weniger als 1% unserer Gelder bei.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Übersicht</a>
