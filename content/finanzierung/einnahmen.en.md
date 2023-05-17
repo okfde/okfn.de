@@ -1,10 +1,10 @@
 ---
-title: Revenues 2021
+title: Revenues 2022
 weight: 3
 ---
 
 
-The majority (75%) of our income comes from project-related grants. In addition, there is growing donation income amounting to approximately 19% of our income. Most of the donations are addressed to FragDenStaat. Additionally, Jugend hackt, Code for Germany and OKF DE as a whole record donations. Furthermore, we generated about 6% of our income from economic income sources. Sponsoring currently accounts for less than 1% of our funds.
+The majority (60%) of our income comes from project-related grants. In addition, there is growing donation income amounting to approximately 37% of our income. Most of the donations are addressed to FragDenStaat. Additionally, Jugend hackt, Code for Germany and OKF DE as a whole record donations. Furthermore, we generated about 2% of our income from economic income sources. Sponsoring currently accounts for less than 1% of our funds.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Overview</a>
