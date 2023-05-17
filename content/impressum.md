@@ -64,6 +64,7 @@ Nach der DSGVO sind personenbezogene Daten „alle Informationen, die sich auf e
 
 #### 2. Allgemeine Nutzung der Website
 
+
 ##### Logfiles
 
 Wir erheben und speichern im Zuge Ihres Besuchs auf unserer Website keine personenbezogenen Daten. Unbeschadet der vorstehenden grundsätzlichen Gegebenheiten registriert aber der Webserver unseres Hosters automatisch Zugriffe auf die Websites und dabei insbesondere Ihre IP-Adresse. Zudem legt unser Hoster zur Erhaltung der Systemsicherheit sog. Logfiles an. Diese Informationen bleiben für uns anonym. Ein Rückschluss auf eine Person ist somit nicht möglich. Die Logfiles enthalten die folgenden Informationen:
