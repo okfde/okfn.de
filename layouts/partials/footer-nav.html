@@ -1,10 +1,10 @@
 <ul class="c__nav-list--social">
+  {{ with .Site.GetPage "/presse" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+  {{ with .Site.GetPage "/jobs" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+  {{ with .Site.GetPage "/transparenz" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+  {{ with .Site.GetPage "/impressum" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
   {{ with .Site.GetPage "/verein" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
   {{ with .Site.GetPage "/team" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
   {{ with .Site.GetPage "/vorstand" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
   {{ with .Site.GetPage "/finanzierung" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-  {{ with .Site.GetPage "/transparenz" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-  {{ with .Site.GetPage "/jobs" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-  {{ with .Site.GetPage "/presse" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-  {{ with .Site.GetPage "/impressum" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
 </ul>
