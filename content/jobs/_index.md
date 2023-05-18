@@ -5,7 +5,7 @@ img_header: /okf/social-og/jobs-social-og.png
 layout: jobs
 no_jobs: Wir haben zur Zeit leider keine Jobs zu vergeben. Am besten abonnierst Du unseren Newsletter, um über zukünftige Stellenausschreibungen informiert zu werden.
 img_1:
-    url: /files/jobs/jobs_01.jpg
+    url: /files/jobs/jobs_01.jepg
     license: CC BY
 img_2:
     url: /files/jobs/jobs_02.jpg
