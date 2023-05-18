@@ -15,7 +15,7 @@ The majority (60%) of our income comes from project-related grants. In addition,
 </div>
 <div class="js-incomes" id="incomes"><div class="kategorien d3chart"></div></div>
 <div class="js-incomes" id="income-donations"><div class="income-donations d3chart"></div></div>
-<div class="js-incomes" id="income-institutions"><div class="income-institutions d3chart"></div><small>*Organisation does not want to be named publicly, but may be disclosed upon inquiry</small></div>
+<div class="js-incomes" id="income-institutions"><div class="income-institutions d3chart"></div></div>
 <div class="js-incomes" id="income-companies"><div class="income-companies d3chart"></div></div>
 <div class="js-incomes" id="income-services"><div class="income-services d3chart"></div></div>
 
