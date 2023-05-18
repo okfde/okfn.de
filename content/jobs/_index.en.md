@@ -14,16 +14,10 @@ img_3:
     url: /files/jobs/jobs_03.jpg
     license: CC BY
 img_4:
-    url: /files/jobs/jobs_04.jpg
+    url: /files/jobs/jobs_07.jpg
     license: CC BY
 img_5:
-    url: /files/jobs/jobs_05.jpg
-    license: CC BY
-img_6:
-    url: /files/jobs/jobs_06.jpg
-    license: CC BY
-img_7:
-    url: /files/jobs/jobs_07.jpg
+    url: /files/jobs/jobs_08.jpg
     license: CC BY
 ---
 
