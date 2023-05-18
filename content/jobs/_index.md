@@ -14,9 +14,6 @@ img_3:
     url: /files/jobs/jobs_03.jpg
     license: CC BY
 img_4:
-    url: /files/jobs/jobs_04.jpg
-    license: CC BY
-img_5:
     url: /files/jobs/jobs_08.jpg
     license: CC BY
 ---
