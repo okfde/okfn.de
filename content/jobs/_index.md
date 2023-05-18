@@ -22,9 +22,6 @@ img_5:
 img_6:
     url: /files/jobs/jobs_06.jpg
     license: CC BY
-img_7:
-    url: /files/jobs/jobs_07.jpg
-    license: CC BY
 ---
 
 Unsere Stellenangebote ändern sich regelmäßig, aber wir sind immer auf der Suche nach begeisterten Menschen, die neue Ideen und Perspektiven in unser Team einbringen.
