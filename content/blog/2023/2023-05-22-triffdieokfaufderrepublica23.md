@@ -3,7 +3,7 @@ authors:
 - OKFDE
 date: 2023-05-22
 image: 
-  src: /files/blog/2023/04/blog-koavertrag-2.jpg
+  src: /files/blog/2023/Blogpost_Foto_republica_kombrimiert.jpg
 tags:
 - re-publica
 type: post
