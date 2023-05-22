@@ -6,9 +6,10 @@ image:
   src: /files/blog/2023/Blogpost_Foto_republica_kombrimiert.jpg
 tags:
 - re-publica
+- digitaleZivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Triff die OKFDE auf der re:publica!"
 ---
