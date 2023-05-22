@@ -3,7 +3,7 @@ authors:
 - OKFDE
 date: 2023-05-22
 image: 
-  src: /files/blog/2023/Blogpost_Foto_republica_kombrimiert.jpg
+  src: /files/blog/2023/Blogpost_Foto_republica_kombrimiert2.jpg
 tags:
 - re-publica
 - digitaleZivilgesellschaft
