@@ -13,7 +13,7 @@ featured: yellow
 title: "Triff die OKF auf der re:publica!"
 ---
 
-**Die re:publica, das Festival für die digitale Gesellschaft, findet vom 05.-07. Juni 2023 in der Arena Berlin und dem Festsaal Kreuzberg statt. Die OKF wird mit verschiedenen Themen und Formaten dabei sein.**
+**Die [re:publica](https://re-publica.com/de), das Festival für die digitale Gesellschaft, findet vom 05.-07. Juni 2023 in der Arena Berlin und dem Festsaal Kreuzberg statt. Die OKF wird mit verschiedenen Themen und Formaten dabei sein.**
 
 **Kommt vorbei und trefft uns hier:**
 
