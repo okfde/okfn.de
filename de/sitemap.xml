@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,11 +255,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/berlin/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -271,17 +268,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2023/04/koavertrag-berlin/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -293,11 +284,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-data/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/re-publica/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -308,6 +302,24 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2023/05/triffdieokfaufderrepublica23/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/berlin/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/04/koavertrag-berlin/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/transparenzgesetz/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
@@ -999,13 +1011,7 @@
     <loc>https://okfn.de/blog/2019/05/engagement-von-jugendlichen-im-digitalen-zeitalter/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/okfde/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2019/05/okfde-auf-der-rp19/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/re-publica/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2019/05/transparenzregister-mit-open-data-geldwaesche-bekaempfen/</loc>
