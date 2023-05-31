@@ -38,52 +38,52 @@ Alle Beiträge der OKFDE in zeitlicher Reihenfolge:
 
 **Montag, 05.06.2023**
 
-13:45– 14:45
+13:45 – 14:45
 
 Die neue Schufa im Dialog mit ihren Kritiker*innen: Über Nutzen von Kreditscoring zwischen Transparenz, Fairness und Datensouveränität
 
-16:15– 17:15
+16:15 – 17:15
 
 Prototype Fund & Friends Meetup
 
-16:15– 17:15
+16:15 – 17:15
 
 Open Hardware Allianz Meetup
 
-16:45– 17:15
+16:45 – 17:15
 
 Gegen den Strom des Geldes – mit welchen Rechtsansprüchen wir Lobbyismus transparent machen
 
-20:00– 20:30
+20:00 – 20:30
 
 Beziehungsstatus: Es ist kompliziert. Die Zivilgesellschaft und der digitale Staat
 
 
 **Dienstag, 06.06.2023**
 
-10:00– 11:00
+10:00 – 11:00
 
 Hack the System - (Wie) Digitale Bildung funktioniert
 
-14:00-14:30
+14:00 – 14:30
 
 Jugend hackt, Meetup am Bündnis F5 Stand 
 
-15:00– 15:30
+15:00 – 15:30
 
 Den Status quo überwinden: die Potenziale einer Open Circular Society
 
-16:00-16:15
+16:00 – 16:15
 
 (Not) Yet Another Knowledge Hub, Vortrag am Bündnis F5 Stand 
 
 **Mittwoch, 07.06.2023**
 
-11:00-11:30
+11:00 – 11:30
 
 Offene Technologien & Circular Society, Meetup am Bündnis F5 Stand
 
-15:00-15:45
+15:00 – 15:45
 
 Wie gemeinwohlorientierte Technologieförderung funktionieren kann, interaktive Ausstellung am Bündnis F5 Stand
 
