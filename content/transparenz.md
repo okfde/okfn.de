@@ -70,7 +70,7 @@ Unter der Rubrik „Finanzierung“ legen wir die finanzielle Entwicklung der Or
 An unserem Verein halten weder private noch juristische Personen Anteile. Dies ist auch nicht möglich. Es besteht keine Mitgliedschaft in einer anderen Organisationen. Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine Anteile an anderen Organisationen.
 
 ### Namen von juristischen Personen, deren jährliche Zahlungen mehr als 10 % des Gesamtjahresbudgets ausmachen
-Die Projektförderung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds im Jahr 2021 macht ca. 19% des Gesamtjahresbudgets aus. Die institutionelle Förderung der OKF durch Luminate (core funding) entspricht 2021 ca. 11% der Gesamteinnahmen. Die Förderung durch die Deutsche Bahn Stiftung für Jugend hackt entspricht 2021 ca. 10% der Gesamteinnahmen. Alle weiteren Einnahmen liegen jeweils deutlich unter 10% der Gesamteinnahmen.
+Die Spende der Alfred Landecker Foundation für Frag den Staat entspricht 2022 ca. 17% der Gesamteinnahmen. Die Projektförderung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds im Jahr 2022 macht ca. 16% des Gesamtjahresbudgets aus. Die institutionelle Förderung der OKF durch Luminate (core funding) entspricht 2022 ca. 11% der Gesamteinnahmen. Alle weiteren Einnahmen liegen jeweils deutlich unter 10% der Gesamteinnahmen.
 
 ### interne Ethikbeauftragte
 
