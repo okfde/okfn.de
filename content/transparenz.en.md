@@ -72,7 +72,7 @@ Neither private nor legal persons hold shares in our association. This would not
 
 ### Names of legal entities whose annual payments account for more than 10% of the total annual budget.
 
-Project funding from the Federal Ministry of Education and Research to finance the Prototype Fund in 2021 accounts for approximately 19% of the total annual budget. Core funding from Luminate accounts for approx. 11% of the total income in 2021. Funding from the 'Deutsche Bahn' Foundation for Jugend hackt corresponds to approx. 10% of the total income in 2021. All other income is well below 10% of total income.
+Donation of the Alfred Landecker Foundation for Frag den Staat corresponds to approximately 17% of the total income in 2022. Project funding from the Federal Ministry of Education and Research to finance the Prototype Fund in 2022 accounts for approximately 16% of the total annual budget. Core funding from Luminate accounts for approx. 11% of the total income in 2022. All other income is well below 10% of total income.
 
 ### Internal ethics officer
 
