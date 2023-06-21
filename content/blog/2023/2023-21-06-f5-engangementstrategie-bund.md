@@ -32,7 +32,7 @@ Engagierte entwickeln Anwendungen zur Gestaltung demokratischer Prozesse, zum In
 
 **Demokratieförderung braucht die Reform des Gemeinnützigkeitsrechts**
 
-Das dringend reformbedürftige Gemeinnützigkeitsrecht hemmt die Entwicklung einer politisch aktiven Zivilgesellschaft und ihre demokratische Wirksamkeit. Zivilgesellschaftliche Organisationen, die sich für ihre Satzungszwecke politisch engagieren, brauchen Rechtssicherheit. Der Katalog der gemeinnützigen Zwecke (§ 52 Absatz 2 AO) sollte durch die Aufnahme dringend gebotener Zwecke ergänzt werden, u.a. die Förderung der nationalen und internationalen Grund- und Menschenrechte. In diesen Katalog sollte auch das Engagement und die Betreibung von Freier Software und gemeinwohlorientierten Plattformen, was andere gemeinnützige Vereine fundamental entlastet, aufgenommen werden. 
+Das dringend reformbedürftige Gemeinnützigkeitsrecht hemmt die Entwicklung einer politisch aktiven Zivilgesellschaft und ihre demokratische Wirksamkeit. Zivilgesellschaftliche Organisationen, die sich für ihre Satzungszwecke politisch engagieren, brauchen Rechtssicherheit. Der Katalog der gemeinnützigen Zwecke (§ 52 Absatz 2 AO) sollte durch die Aufnahme dringend gebotener Zwecke ergänzt werden, u.a. die Förderung der nationalen und internationalen Grund- und Menschenrechte. In diesen Katalog sollte auch das Engagement und die Betreibung von Freier Software und gemeinwohlorientierten Plattformen, was andere gemeinnützige Vereine fundamental entlastet, aufgenommen werden.  
 
 **Freiwilligengewinnung durch offene Technologiebildung** 
 
