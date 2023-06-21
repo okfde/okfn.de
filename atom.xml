@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-05-22T00:00:00+0000</updated>
+  <updated>2023-06-21T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title></title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/06/"/>
+    <id>https://okfn.de/blog/2023/06/</id>
+    <published>2023-06-21T00:00:00+0000</published>
+    <updated>2023-06-21T00:00:00+0000</updated>
+    <summary>Noch in dieser Legislaturperiode soll unter Beteiligung der Zivilgesellschaft eine neue Engagementstrategie des Bundes erarbeitet werden. Die letzte Engagementstrategie stammt noch aus dem Jahr 2010. Es wird also Zeit – denn es hat sich viel getan! Das digitale Ehrenamt ist stark gewachsen und neue Technologien durchdringen mehr und mehr unser Leben. Im Rahmen der Verbändebeteiligung haben wir gemeinsam im Bündnis F5 eine Stellungnahme eingereicht. Hier sind unsere zentralen Forderungen:
+Anerkennung, Wertschätzung und Förderung des digitalen Ehrenamts:</summary>
+  </entry>
   
   <entry>
     <title>Triff die OKFDE auf der re:publica!</title>
@@ -150,17 +160,6 @@ Digital Literacy: Wie sieht eigentlich eine zeitgemäße digitale Bildung aus un
     <updated>2022-09-13T00:00:00+0000</updated>
     <summary>Die Digitalisierung schafft neue Möglichkeiten für eine offene und gerechtere Gesellschaft. Dafür muss sie allerdings auch mit den Herausforderungen des Klimawandels vereinbar sein. Im Rahmen der Bits &amp;amp; Bäume 2022 fordern wir eine digitale Transformation, die aktiv zu einer gerechten, nachhaltigen und demokratischen Zukunft beiträgt. Um diese Zukunft zu ermöglichen, muss der Fokus auf das Gemeingut rücken – das Natürliche wie das Digitale!
 Die natürliche Umwelt ist unsere Lebensgrundlage. Ob und in welcher Form diese weiter existiert, stellt sich inzwischen durch vom Klimawandel beförderte Extremwetterereignisse wie Flutkatastrophen, Waldbrände und Hitzewellen immer häufiger.</summary>
-  </entry>
-  
-  <entry>
-    <title>Bündnis fordert von Politik: Digitalisierung muss sozial-ökologischem Wandel dienen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/09/forderungen-bits-und-baeume/"/>
-    <id>https://okfn.de/blog/2022/09/forderungen-bits-und-baeume/</id>
-    <published>2022-09-05T00:00:00+0000</published>
-    <updated>2022-09-05T00:00:00+0000</updated>
-    <summary>Pressemitteilung
-13 Organisationen veröffentlichen Forderungen anlässlich der „Bits &amp;amp; Bäume“-Konferenz 2022
-Berlin, 5. September 2022 – Die Digitalisierung muss stärker in den Dienst der Gesellschaft und des sozial-ökologischen Wandels gestellt werden. Digitale Technologien sollten durch gleichberechtigte gesellschaftliche Teilhabe und innerhalb der planetaren Grenzen zur Verbesserung von Lebensbedingungen und der Umwelt beitragen, anstatt durch explodierenden Energiebedarf, Ressourcenverbrauch und mangelnde Teilhabe vor allem des Globalen Südens existierende Krisen noch weiter zu verschärfen. Mit diesem Appell und insgesamt mehr als 60 thematischen Forderungen wenden sich heute 13 Organisationen aus Umwelt,- Klima- und Naturschutz, Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft anlässlich der bevorstehenden „Bits &amp;amp; Bäume“-Konferenz an die Bundesregierung, die Europäische Union und politische Akteure weltweit.</summary>
   </entry>
   
 </feed>
