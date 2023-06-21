@@ -13,7 +13,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: ""
+title: "Engagementstrategie des Bundes: Unsere Forderungen für eine starkes digitales Ehrenamt"
 ---
 
 **Noch in dieser Legislaturperiode soll unter Beteiligung der Zivilgesellschaft eine neue [Engagementstrategie des Bundes](https://www.bmfsfj.de/bmfsfj/themen/engagement-und-gesellschaft/engagement-staerken/engagementstrategie-des-bundes-222072) erarbeitet werden. Die letzte Engagementstrategie stammt noch aus dem Jahr 2010. Es wird also Zeit – denn es hat sich viel getan! Das digitale Ehrenamt ist stark gewachsen und neue Technologien durchdringen mehr und mehr unser Leben. Im Rahmen der Verbändebeteiligung haben wir gemeinsam im [Bündnis F5](https://buendnis-f5.de/) eine Stellungnahme eingereicht. Hier sind unsere zentralen Forderungen:**
