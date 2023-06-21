@@ -1,14 +1,14 @@
 ---
 authors:
 - Christina Willems
-–	Henriette Litta
+- Henriette Litta
 date: 2023-06-21
 image: 
-  src: files/blog/2023/Blogpost_Engangementstrategie.png
+  src: /files/blog/2023/Blogpost_Engangementstrategie.png
 tags:
-–	Stellungnahme
-–	BuendnisF5
-- digitaleZivilgesellschaft
+- Stellungnahme
+- BuendnisF5
+- DigitalesEhrenamt
 type: post
 layout: post
 published: false
