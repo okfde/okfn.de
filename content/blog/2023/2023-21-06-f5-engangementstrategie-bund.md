@@ -1,97 +1,46 @@
 ---
 authors:
-- OKFDE
-date: 2023-05-22
+- Christina Willems
+–	Henriette Litta
+date: 2023-06-21
 image: 
-  src: /files/blog/2023/Blogpost_Foto_republica_kombrimiert2.jpg
+  src: files/blog/2023/Blogpost_Engangementstrategie.png
 tags:
-- re-publica
+–	Stellungnahme
+–	BuendnisF5
 - digitaleZivilgesellschaft
 type: post
 layout: post
 published: false
-featured: yellow
+featured: blue
 title: ""
 ---
 
-**Die [re:publica](https://re-publica.com/de), das Festival für die digitale Gesellschaft, findet vom 05.-07. Juni 2023 in der Arena Berlin und dem Festsaal Kreuzberg statt. Die OKFDE wird mit verschiedenen Themen und Formaten dabei sein.**
+**Noch in dieser Legislaturperiode soll unter Beteiligung der Zivilgesellschaft eine neue [Engagementstrategie des Bundes](https://www.bmfsfj.de/bmfsfj/themen/engagement-und-gesellschaft/engagement-staerken/engagementstrategie-des-bundes-222072) erarbeitet werden. Die letzte Engagementstrategie stammt noch aus dem Jahr 2010. Es wird also Zeit – denn es hat sich viel getan! Das digitale Ehrenamt ist stark gewachsen und neue Technologien durchdringen mehr und mehr unser Leben. Im Rahmen der Verbändebeteiligung haben wir gemeinsam im [Bündnis F5](https://buendnis-f5.de/) eine Stellungnahme eingereicht. Hier sind unsere zentralen Forderungen:**
 
-**Kommt vorbei und trefft uns hier:**
+**Anerkennung, Wertschätzung und Förderung des digitalen Ehrenamts:**
 
-Im [Bündnis F5](https://buendnis-f5.de/) werden wir einen Stand betreiben. Dort bekommt ihr neben Infos zu unseren Aktivitäten auch einige Programmpunkte geboten. Von der OKFDE hört ihr [News aus unserem Projekt *Offene Verwaltungsdaten*](https://re-publica.com/de/node/3707) und der Prototype Fund beantwortet Fragen zur [gemeinwohlorientierten Technologieförderung](https://re-publica.com/de/node/3717). Der Stand dient auch als Treffpunkt von zwei Meetups: [Trefft das Team von Jugend hackt](https://re-publica.com/de/node/3705) und tauscht euch über digitale Bildung, ethische IT und Communityarbeit aus oder spaziert nach dem [Meetup Offene Technologien & Circular Society](https://re-publica.com/de/node/3713) gemeinsam zum re:publica Makerspace. Ihr findet uns in der [Arena Halle, Stand M4](https://re-publica.com/de/lageplan).
+Digitale Ehrenamtsformen erhalten im Vergleich zum traditionellen Ehrenamt zu wenig Aufmerksamkeit, Anerkennung und politische Unterstützung. Das derzeit vorherrschende Modell der Projektfinanzierungen wird den Bedarfen von ehrenamtlichen Strukturen und den digital Engagierten nicht gerecht. Es braucht mehr Strukturförderung – beispielsweise durch die Bereitstellung von Räumlichkeiten, die von Ehrenamtlichen selbstbestimmt bespielt werden können. Bei der Bereitstellung von niedrigschwelligen finanziellen Förderinstrumenten für Einzelpersonen können die Erkenntnisse des Programms  [Prototype Fund](https://prototypefund.de/) genutzt werden. Zudem braucht es Angebote und Fördermöglichkeiten für Ausrüstung (Hardware, Software, Serverkapazitäten) sowie für Schulungen und Weiterbildungen.
 
-Offene Kreisläufe sind unverzichtbar auf dem Weg zu einer nachhaltigen Zukunft. Im Vortrag [Den Status quo überwinden: die Potenziale einer Open Circular Society](https://re-publica.com/de/session/den-status-quo-ueberwinden-die-potenziale-einer-open-circular-society) erfahrt ihr mehr über den Mut, den wir brauchen, um miteinander zu kooperieren und wirklich neue Geschäftsmodelle zu erproben, die auf Open Source setzen. Findet euch außerdem zum lockeren Austausch beim [Open Hardware Allianz Meetup](https://re-publica.com/de/session/open-hardware-allianz-meetup) zusammen, der als Treffpunkt für Open Hardware Akteur:innen und interessierte Personen dient.
+**Wissenstransfer und Technikfolgenabschätzung durch zivilgesellschaftliche Expert:innen**
 
-Du wurdest schon mal vom Prototype Fund gefördert oder willst es in Zukunft werden? Oder du hast einfach Interesse am Thema Open Source? Dann komm beim [Prototype Fund & Friends Meetup](https://re-publica.com/de/session/prototype-fund-friends-meetup-0) vorbei! 
+Die Engagementstrategie sollte nicht nur Maßnahmen für den Engagementsektor entwickeln, sondern auch Expertise aus dem Engagementsektor für gesellschaftspolitische Fragen nutzen. Expert:innen der digitalen Zivilgesellschaft sollten stärker bei Fragen zum Einsatz neuer Technologien einbezogen werden (Technikfolgenabschätzung). Dies erhöht die Akzeptanz von Technologien und stärkt das Vertrauen zwischen Staat und Bürger:innen. Dafür müssen mehr Ressourcen für den Wissenstransfer aus dem Digitalen Ehrenamt aufgebracht werden. Dieser Austausch muss sich an den Bedürfnissen der Ehrenamtlichen orientieren, insbesondere was die zeitliche Verfügbarkeit angeht.
 
-Um die Beteiligung der Zivilgesellschaft an der Mammutaufgabe Verwaltungsdigitalisierung geht es im Vortrag [Beziehungsstatus: Es ist kompliziert. Die Zivilgesellschaft und der digitale Staat](https://re-publica.com/de/session/beziehungsstatus-es-ist-kompliziert-die-zivilgesellschaft-und-der-digitale-staat).  Muss es denn wirklich so kompliziert sein, wie es heute häufig ist? 
+**Civic Tech als Demokratie-Infrastruktur anerkennen**
 
-Was ist eigentlich der Sinn und Zweck von Auskunfteien wie der SCHUFA? Auf dem Panel [Die neue Schufa im Dialog mit ihren Kritiker*innen](https://re-publica.com/de/session/die-neue-schufa-im-dialog-mit-ihren-kritikerinnen-ueber-nutzen-von-kreditscoring-zwischen) wird über den Nutzen von Kreditscoring zwischen Transparenz, Fairness und Datensouveränität diskutiert. 
+Engagierte entwickeln Anwendungen zur Gestaltung demokratischer Prozesse, zum Informations- oder Meinungsaustausch. Viele dieser Tools sind als Demonstration gedacht, wie der Staat selbst seine Informationen in viel besser nutzbarer Form aufbereiten und veröffentlichen könnte. Es bedarf wirksamer Wege, wie diese Werkzeuge und Tools vom Staat selbst übernommen und betrieben werden können und somit Teil der öffentlichen Daseinsvorsorge werden. Außerdem muss es mehr offene Daten geben, um die Ehrenamtlichen zu ermächtigen, gute Ideen zu entwickeln und Anwendungen zu bauen – dazu braucht es endlich ein progressives [Transparenzgesetz des Bundes](https://transparenzgesetz.de/)! Der Grundsatz „Öffentliches Geld, öffentliches Gut“ muss konsequent umgesetzt werden
 
-Transparenz steht auch im Zentrum des Vortrags [Gegen den Strom des Geldes – mit welchen Rechtsansprüchen wir Lobbyismus transparent machen](https://re-publica.com/de/session/gegen-den-strom-des-geldes-mit-welchen-rechtsanspruechen-wir-lobbyismus-transparent-machen). Hier werden die Entwicklungen des letzten Jahres in Sachen Informationsfreiheit betrachtet und anhand der Anfrageplattform von FragDenStaat wird gezeigt, wie bereitwillig Behörden Auskunftsanfragen beantworten, wenn es z.B. um Lobbyismus geht.
+**Demokratieförderung braucht die Reform des Gemeinnützigkeitsrechts**
 
-Während der Blick oft darauf gerichtet wird, wo es in der digitalen Bildung nicht gut läuft, wird auf dem Panel [Hack the System - (Wie) Digitale Bildung funktioniert](https://re-publica.com/de/session/hack-system-wie-digitale-bildung-funktioniert) vor allem darüber geredet, wo und wie digitale Bildung bereits funktioniert und was es dafür braucht. Den Fokus auf politische Bildung legt auch die [TINCON](https://tincon.org/), die Konferenz für digitale Jugendkultur im Festsaal Kreuzberg, die mit einem re:publica Ticket besucht werden kann. Dort hat Jugend hackt drei Mitmach-Workshops aufgebaut. An beiden Tagen, also am 07. und am 08. Juni, kann man selbst eigene [blinkende Schmuckstücke löten](https://tincon.org/session/loet-station-2/), [programmieren lernen](https://tincon.org/session/code-station/) oder eigene [3D-Designs am 3D-Drucker](https://tincon.org/session/3d-druck-station/) ausdrucken.
+Das dringend reformbedürftige Gemeinnützigkeitsrecht hemmt die Entwicklung einer politisch aktiven Zivilgesellschaft und ihre demokratische Wirksamkeit. Zivilgesellschaftliche Organisationen, die sich für ihre Satzungszwecke politisch engagieren, brauchen Rechtssicherheit. Der Katalog der gemeinnützigen Zwecke (§ 52 Absatz 2 AO) sollte durch die Aufnahme dringend gebotener Zwecke ergänzt werden, u.a. die Förderung der nationalen und internationalen Grund- und Menschenrechte. In diesen Katalog sollte auch das Engagement und die Betreibung von Freier Software und gemeinwohlorientierten Plattformen, was andere gemeinnützige Vereine fundamental entlastet, aufgenommen werden. 
 
+**Freiwilligengewinnung durch offene Technologiebildung** 
 
-
-Alle Beiträge der OKFDE in zeitlicher Reihenfolge:
-
-**Montag, 05.06.2023**
-
-13:45 – 14:45
-
-Die neue Schufa im Dialog mit ihren Kritiker*innen: Über Nutzen von Kreditscoring zwischen Transparenz, Fairness und Datensouveränität
-
-16:15 – 17:15
-
-Prototype Fund & Friends Meetup
-
-16:15 – 17:15
-
-Open Hardware Allianz Meetup
-
-16:45 – 17:15
-
-Gegen den Strom des Geldes – mit welchen Rechtsansprüchen wir Lobbyismus transparent machen
-
-20:00 – 20:30
-
-Beziehungsstatus: Es ist kompliziert. Die Zivilgesellschaft und der digitale Staat
-
-
-**Dienstag, 06.06.2023**
-
-10:00 – 11:00
-
-Hack the System - (Wie) Digitale Bildung funktioniert
-
-14:00 – 14:30
-
-Jugend hackt, Meetup am Bündnis F5 Stand 
-
-15:00 – 15:30
-
-Den Status quo überwinden: die Potenziale einer Open Circular Society
-
-16:00 – 16:15
-
-(Not) Yet Another Knowledge Hub, Vortrag am Bündnis F5 Stand 
-
-**Mittwoch, 07.06.2023**
-
-11:00 – 11:30
-
-Offene Technologien & Circular Society, Meetup am Bündnis F5 Stand
-
-15:00 – 15:45
-
-Wie gemeinwohlorientierte Technologieförderung funktionieren kann, interaktive Ausstellung am Bündnis F5 Stand
+Menschen aller Altersgruppen müssen befähigt werden, sich selbstbestimmt und kritisch mit der Nutzung digitaler Medien und Technik auseinanderzusetzen. Diese offene Technologiebildung wird von Digital Ehrenamtlichen unterstützt, indem sie offene Bildungsmaterialien (Open Educational Resources) entwickeln, Workshops geben, erklären, ausprobieren und Technik auseinandernehmen. Sie muss sinnvoll in das Bildungssystem integriert werden. Im Bereich Jugendbildung sollten Fördermaßnahmen mehr auf bestehende, erfolgreiche Projekte setzen, statt immer neue Modellprojekte zu starten. Nur so können haupt- und ehrenamtliches Engagement der digitalen Zivilgesellschaft langfristig gut ineinandergreifen. Für junge Menschen mit digitaler Expertise, die nach dem Schulabschluss einer gemeinwohlorientierten Tätigkeit nachgehen möchten, sollte es bundesweit das Angebot eines Freiwilligen Digitalen Jahres (analog zum FSJ) geben.
 
 
 
+Die ganze Stellungnahme ist [hier](https://github.com/okfde/okfn.de/blob/5da0a7a476b038ea084ca3d60fc931569cc0e04b/static/files/blog/2023/Stellungnahme_Engagementstrategie_Bu%CC%88ndnisF5.pdf) zu finden. 
 
-Das vollständige Programm zur re:publica findet [ihr hier](https://re-publica.com/de/sessions).  
 
-
-See you soon!
-
+Auf der Website www.zukunft-des-engagements.de haben Engagierte und zivilgesellschaftliche Akteur:innen die Möglichkeit, durch verschiedene Formate ihre Vorschläge und Ideen einzubringen. Der Beteiligungsprozess wird bis Ende des Jahres 2023 andauern. 
