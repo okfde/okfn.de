@@ -11,7 +11,7 @@ tags:
 - DigitalesEhrenamt
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: ""
 ---
