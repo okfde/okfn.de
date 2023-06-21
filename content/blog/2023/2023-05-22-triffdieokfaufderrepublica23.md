@@ -9,7 +9,7 @@ tags:
 - digitaleZivilgesellschaft
 type: post
 layout: post
-published: true
+published: false
 featured: yellow
 title: "Triff die OKFDE auf der re:publica!"
 ---
