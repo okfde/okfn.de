@@ -6,7 +6,43 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Community</title>
+      <link>https://okfn.de/tags/community/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge Hub</title>
+      <link>https://okfn.de/tags/knowledge-hub/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/knowledge-hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data</title>
+      <link>https://okfn.de/tags/open-data/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verwaltung</title>
+      <link>https://okfn.de/tags/verwaltung/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/verwaltung/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>BuendnisF5</title>
       <link>https://okfn.de/tags/buendnisf5/</link>
@@ -71,29 +107,11 @@
     </item>
     
     <item>
-      <title>Open Data</title>
-      <link>https://okfn.de/tags/open-data/</link>
-      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/open-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Transparenzgesetz</title>
       <link>https://okfn.de/tags/transparenzgesetz/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/transparenzgesetz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Community</title>
-      <link>https://okfn.de/tags/community/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/community/</guid>
       <description></description>
     </item>
     
@@ -3046,15 +3064,6 @@
       <pubDate>Wed, 29 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/anh%C3%B6rung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Verwaltung</title>
-      <link>https://okfn.de/tags/verwaltung/</link>
-      <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/verwaltung/</guid>
       <description></description>
     </item>
     

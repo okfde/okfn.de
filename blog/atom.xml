@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-06-21T00:00:00+0000</updated>
+  <updated>2023-06-22T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Der Open Data Knowledge Hub ist gelauncht! </title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/06/open-data-knowledge-hub-launch/"/>
+    <id>https://okfn.de/blog/2023/06/open-data-knowledge-hub-launch/</id>
+    <published>2023-06-22T00:00:00+0000</published>
+    <updated>2023-06-22T00:00:00+0000</updated>
+    <summary>Braucht es im Jahr 2023 noch einen weiteren Knowledge Hub? Wir glauben ja! Mit dem Projekt Open Data in der Verwaltung bringen wir uns wieder verstärkt in den Diskurs um eines unserer Kernthemen ein. Das heißt: Expertise zu Open Data aus der Zivilgesellschaft in die Behörden transportieren und öffentlich dokumentieren sowie den Mehrwert von offenen Daten zeigen.
+Im Rahmen der, zumindest in der Theorie, allgegenwärtigen Digitalisierung der Verwaltungen wurden in den letzten Jahren zum Thema Open Data häufig große Ziele formuliert.</summary>
+  </entry>
   
   <entry>
     <title>Engagementstrategie des Bundes: Unsere Forderungen für ein starkes digitales Ehrenamt</title>
@@ -150,16 +160,6 @@ Mit Blick auf die EU-Kommission sind es Kreisläufe, in denen wir in Zukunft Pro
     <summary>Jugend hackt lädt ein zur ersten Jugendkonferenz zu digital literacy, KI und digitaler Verantwortung; vom 17. bis 18. November 2022, in den Technischen Sammlungen Dresden.
 Bei Beyond Code wollen wir mit jungen Menschen darüber diskutieren, wie gesellschaftliche und technologische Entwicklungen zusammenhängen. Wir wollen den Fokus dabei auf zwei zentrale Themen setzen:
 Digital Literacy: Wie sieht eigentlich eine zeitgemäße digitale Bildung aus und was brauchen wir dafür in den Schulen, aber auch außerhalb der Schule?</summary>
-  </entry>
-  
-  <entry>
-    <title>Bits &amp; Bäume 2022: Nachhaltigkeit braucht digitales Gemeingut!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/09/bb-digitales-gemeingut/"/>
-    <id>https://okfn.de/blog/2022/09/bb-digitales-gemeingut/</id>
-    <published>2022-09-13T00:00:00+0000</published>
-    <updated>2022-09-13T00:00:00+0000</updated>
-    <summary>Die Digitalisierung schafft neue Möglichkeiten für eine offene und gerechtere Gesellschaft. Dafür muss sie allerdings auch mit den Herausforderungen des Klimawandels vereinbar sein. Im Rahmen der Bits &amp;amp; Bäume 2022 fordern wir eine digitale Transformation, die aktiv zu einer gerechten, nachhaltigen und demokratischen Zukunft beiträgt. Um diese Zukunft zu ermöglichen, muss der Fokus auf das Gemeingut rücken – das Natürliche wie das Digitale!
-Die natürliche Umwelt ist unsere Lebensgrundlage. Ob und in welcher Form diese weiter existiert, stellt sich inzwischen durch vom Klimawandel beförderte Extremwetterereignisse wie Flutkatastrophen, Waldbrände und Hitzewellen immer häufiger.</summary>
   </entry>
   
 </feed>

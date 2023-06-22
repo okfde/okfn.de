@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -267,6 +267,50 @@
                 hreflang="de"
                 href="https://okfn.de/blog/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/community/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/06/open-data-knowledge-hub-launch/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/knowledge-hub/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/verwaltung/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/buendnisf5/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
@@ -283,34 +327,8 @@
     <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/stellungnahme/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
@@ -327,23 +345,14 @@
     <loc>https://okfn.de/tags/berlin/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/digitalpolitik/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/04/koavertrag-berlin/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/open-data/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/transparenzgesetz/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/community/</loc>
-    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/04/klimawatch-b%C3%BCrgerliche-kontrolle-braucht-daten/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
@@ -3147,9 +3156,6 @@
     <lastmod>2012-06-05T06:13:14+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2012/05/jetzt-noch-anmelden-zum-berliner-open-data-day-2012/</loc>
-    <lastmod>2012-05-31T11:39:42+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/verwaltung/</loc>
     <lastmod>2012-05-31T11:39:42+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/meetup/</loc>
