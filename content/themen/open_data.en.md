@@ -36,12 +36,13 @@ There are a large number of social areas in which individuals and organisations 
 
 In a well-functioning, democratic society citizens need to know what their government is doing. To ensure this, transparency and democratic control, as well as free access to government data and information in addition to the ability to share this information with other citizens are needed. In the digital age, data is the key resource for social and economic activities. By opening up data, governments can help drive the creation of innovative businesses and services that can create social and economic value. The opening of data improves policy participation opportunities and facilitates informed involvement of citizens in policy making.
 
-## How can data be opened?
+## Open administrative data
 
-Detailed, practical advice on how to open data can be found in the [Open Data Handbook](http://opendatahandbook.org/). The handbook deals with legal, social and technical aspects of opening data.
+There are already many good resources on Open Data: Open Data coordinators from federal states, foundations and research institutions have already distilled knowledge on a number of topics that can be applied at many levels. In addition, volunteers from the Code for Germany community have a wealth of experience in dealing with public data and the responsible authorities, which should be used much more. With the [Open Data Knowledge Hub](https://opendata.okfn.de/), we have created a hub where people from the administration and beyond can obtain information on Open Data and get tips on how Open Data can be implemented in practice. For us and interested members of the community, it also serves as means of documentation: What Open Data laws are currently in force in Hesse or Saarland? Hasn't there already been a good handout on the topic of data inventory? The Hub is intended to provide initial orientation for such questions.
 
 ## Further information
 
+* [Open Data Knowledge Hub](https://opendata.okfn.de/)
 * [Open Data erfolgreich umsetzen: 10 Praxistipps der Berliner Open Data Informationsstelle (ODIS)](https://www.verwaltung-der-zukunft.org/transformation/open-data-erfolgreich-umsetzen)
 * [Öffentliche Daten nicht verhökern, sondern sinnvoll nutzen (Blog)](https://okfn.de/blog/2018/04/Oeffentliche-Daten-nicht-verhoekern-sondern-sinnvoll-nutzen/)
 * [Daten für alle: Das Bürgerrecht auf Transparenz (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5390836)
