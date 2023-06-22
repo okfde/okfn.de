@@ -38,12 +38,13 @@ Es gibt eine Vielzahl von gesellschaftlichen Bereichen, in denen Personen und Or
 
 In einer gut funktionierenden demokratischen Gesellschaft müssen die Bürgerinnen und Bürger wissen, was ihre Regierung tut. Um das zu gewährleisten, sind Transparenz und demokratische Kontrolle notwendige Voraussetzungen, ebenso der freie Zugang zu staatlichen Daten und die Möglichkeit, diese Informationen mit anderen Bürger*innen zu teilen. Im digitalen Zeitalter sind Daten die Schlüsselressourcen für gesellschaftliche und wirtschaftliche Aktivitäten. Durch die Öffnung von Daten können Regierungen dabei helfen, die Gründung von Unternehmen und Dienstleistungen voranzutreiben, die gesellschaftlichen und wirtschaftlichen Mehrwert schaffen können. Die Öffnung von Daten verbessert politische Partizipationsmöglichkeiten und erleichtert es, Bürger*innen in die politische Entscheidungsfindung informiert einzubeziehen.
 
-## Wie können Daten geöffnet werden?
+## Open Data für die Verwaltung
 
-Detaillierte praktischen Ratschläge, die erklären, wie man Daten öffnen kann, finden sich im [Open Data Handbuch](http://opendatahandbook.org/de/how-to-open-up-data/index.html). Das Handbuch behandelt rechtliche, soziale und technische Aspekte der Öffnung von Daten.
+Zum Thema Open Data gibt es schon zahlreiche gute Materialien: Open-Data-Beauftragte aus einigen Bundesländern, Stiftungen und Forschungseinrichtungen haben zu etlichen Themen bereits Wissen destilliert, das sich auf vielen Ebenen anwenden lässt. Zudem haben Ehrenamtliche aus der Code for Germany-Community einen großen Erfahrungsschatz im Umgang mit öffentlichen Daten und den zuständigen Behörden, der viel stärker genutzt werden sollte. Mit dem [Open Data Knowledge Hub](https://opendata.okfn.de/) haben wir einen Anlaufstelle ins Leben gerufen, auf der sich Menschen aus der Verwaltung und darüber hinaus niedrigschwellig zum Thema Open Data informieren können und konkrete Tipps bekommen, wie Open Data praktisch umgesetzt werden kann. Für uns und interessierte Mitglieder der Community dient es zudem als Wissensdokumentation: Was für eine Open-Data-Richtlinie gilt aktuell in Hessen oder im Saarland? Gab es nicht schon mal eine gute Handreichung zum Thema Dateninventur? Für derlei Fragen soll der Hub erste Orientierung bieten.
 
 ## Weitere Informationen
 
+* [Open Data Knowledge Hub](https://opendata.okfn.de/)
 * [Open Data erfolgreich umsetzen: 10 Praxistipps der Berliner Open Data Informationsstelle (ODIS)](https://www.verwaltung-der-zukunft.org/transformation/open-data-erfolgreich-umsetzen)
 * [Öffentliche Daten nicht verhökern, sondern sinnvoll nutzen (OKF DE Blog)](https://okfn.de/blog/2018/04/Oeffentliche-Daten-nicht-verhoekern-sondern-sinnvoll-nutzen/)
 * [Daten für alle: Das Bürgerrecht auf Transparenz (Le Monde Diplomatique)](https://monde-diplomatique.de/artikel/!5390836)
