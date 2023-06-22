@@ -3,7 +3,7 @@ authors:
 - Dénes Jäger
 date: 2023-06-22
 image: 
-  src: /files/blog/2023/06/knowledgehub.png
+  src: /files/blog/2023/06/knowledgehub-new.png
 tags:
 - Open Data
 - Community
