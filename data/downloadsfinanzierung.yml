@@ -13,6 +13,7 @@
     text: You can find the complete list of balance sheets and income statements since the company was founded under Transparency. 
   prefix: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss
   years:
+    - 2022
     - 2021
     - 2020
     - 2019
@@ -24,6 +25,7 @@
     text: For the full list of audits since their launch in 2018, see Transparency.
   prefix: /files/documents/WP-Berichte/OKF-DE-WPBericht
   years:
+    - 2022
     - 2021
     - 2020
     - 2019
