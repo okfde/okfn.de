@@ -76,7 +76,7 @@ Die Spende der Alfred Landecker Foundation für Frag den Staat entspricht 2022 c
 
 ### interne Ethikbeauftragte
 
-Seit 2017 gibt es in der OKF das Amt der Ethikbeauftragten im Team. Die Ethikbeauftragte ist die erste Anlaufstelle für interne und externe ethische Fragen. Darüber hinaus ist die Ethikbeauftragte erste Anlaufstelle für Teammitglieder, die Sorgen und Unsicherheiten jeglicher Art haben. Die Ethikbeauftragte sorgt für die Weiterleitung der Anfragen an die richtigen Stellen (z.B. Board oder GF) und überwacht den Prozess. Derzeitige Ethikbeauftragte ist Giulia Norberti. Externe Anfragen gehen an die Adresse ethics@okfn.de. [<a href="static/okf/ethics_okfn_de_pub.pgp">OpenPGP</a>]
+Seit 2017 gibt es in der OKF das Amt der Ethikbeauftragten im Team. Die Ethikbeauftragte ist die erste Anlaufstelle für interne und externe ethische Fragen. Darüber hinaus ist die Ethikbeauftragte erste Anlaufstelle für Teammitglieder, die Sorgen und Unsicherheiten jeglicher Art haben. Die Ethikbeauftragte sorgt für die Weiterleitung der Anfragen an die richtigen Stellen (z.B. Board oder GF) und überwacht den Prozess. Derzeitige Ethikbeauftragte ist Giulia Norberti. Externe Anfragen gehen an die Adresse ethics@okfn.de. [<a href="static/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
 
 ### Transparenzverpflichtungen
 
