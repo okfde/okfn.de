@@ -50,10 +50,12 @@ In addition to the managing director, OKF DE employs 33 team members (2022). The
 
 Under the heading "Funding" we present in detail the financial development of the organization and the income and expenditure of the current financial year. Since 2018, we have been undergoing a voluntary external audit.
 
+- [Audit Report 2022](/files/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
 - [Audit Report 2021](/files/WP-Berichte/OKF-DE-WPBericht-2021.pdf) <br>
 - [Audit Report 2020](/files/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
 - [Audit Report 2019](/files/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
 - [Audit Report 2018](/files/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
+- [Balance Sheet 2022](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2022.pdf) <br>
 - [Balance Sheet 2021](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf) <br>
 - [Balance Sheet 2020](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf) <br>
 - [Balance Sheet 2019](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2019.pdf) <br>
