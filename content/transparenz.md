@@ -28,6 +28,7 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 [comment]: # (!Achtung: Den aktuellen Bericht KEINESFALLS schon hier verlinken, bevor nicht 1. die Mitgliederversammlung ihn abgesegnet hat und 2. der Wirtschaftsprüfer die Zahlen freigegeben hat!)
 
+- [Jahresbericht 2022](https://2022.okfn.de/) <br>
 - [Jahresbericht 2021](https://2021.okfn.de/) <br>
 - [Jahresbericht 2020](https://2020.okfn.de/) <br>
 - [Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
@@ -38,7 +39,7 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 - [Tätigkeitsbericht 2014](/files/documents/OKFDE-Taetigkeitsbericht-2014.pdf) <br>
 - [Tätigkeitsbericht 2013](/files/documents/OKFDE-Taetigkeitsbericht-2013.pdf) <br>
 - [Tätigkeitsbericht 2012](/files/documents/OKFDE-Taetigkeitsbericht-2012.pdf) <br>
-- [Tätigkeitsbericht 2011](/files/documents/OKFDE-Taetigkeitsbericht-2011.pdf)
+- [Tätigkeitsbericht 2011](/files/documents/OKFDE-Taetigkeitsbericht-2011.pdf) 
 
 ### Personalstruktur
 
