@@ -30,6 +30,7 @@ Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Furthe
 
 Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
+- [Jahresbericht 2022](https://2022.okfn.de/) <br>
 - [Jahresbericht 2021](https://2021.okfn.de/) <br>
 - [Jahresbericht 2020](https://2020.okfn.de/) <br>
 - [Tätigkeitsbericht 2019](https://2019.okfn.de/) <br>
