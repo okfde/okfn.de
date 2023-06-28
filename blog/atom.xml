@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-06-22T00:00:00+0000</updated>
+  <updated>2023-06-28T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Das war 2022: Unser Jahresbericht ist jetzt veröffentlicht</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/06/jahresbericht-2022/"/>
+    <id>https://okfn.de/blog/2023/06/jahresbericht-2022/</id>
+    <published>2023-06-28T00:00:00+0000</published>
+    <updated>2023-06-28T00:00:00+0000</updated>
+    <summary>Wer erinnert sich noch an 2022? Es ist viel passiert, wenn man so zurückschaut! Nach erfolgreich abgeschlossener Wirtschaftsprüfung findet ihr auf 2022.okfn.de unseren Jahresbericht online. Eine PDF Version zum Herunterladen gibt es auch.
+Unsere Highlights aus 2022: Die erste Förderrunde ist vom Stapel gelaufen: 50 Open-Hardware-Projekte für eine offene, nachhaltige Gesellschaft Die erste Runde des Prototype Fund Hardware ist gestartet. Mehr als 50 Bewerbungen sind eingegangen. Alle spiegeln den Willen wider, offene, reparierbare und gesellschaftsrelevante Technologien zu entwickeln.</summary>
+  </entry>
   
   <entry>
     <title>Der Open Data Knowledge Hub ist gelauncht! </title>
@@ -149,17 +159,6 @@ Berlin, 5. Oktober 2022 – „Die Bits dürfen uns nicht die Bäume kosten.“ 
     <updated>2022-10-04T00:00:00+0000</updated>
     <summary>Trotz der multiplen Krisen darf die Gestaltung der Zukunft nicht aus den Augen geraten. Das betonten auch die zweite Bürgermeisterin der Stadt Hamburg, Katharina Fegebank und Kai Gehring, Vorsitzender des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung bei der Abschlussveranstaltung &amp;ldquo;Zukunft erfinden&amp;rdquo; der Bündnis 90/Die Grünen Bundestagsfraktion, am 21. September. Doch wie soll diese Zukunft aussehen? Und wie wollen wir in ihr wirtschaften?
 Mit Blick auf die EU-Kommission sind es Kreisläufe, in denen wir in Zukunft Produkte entwickeln, nutzen und verwerten.</summary>
-  </entry>
-  
-  <entry>
-    <title>Einladung zur Jugendkonferenz „Beyond Code“</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/09/konferenz-beyond-code/"/>
-    <id>https://okfn.de/blog/2022/09/konferenz-beyond-code/</id>
-    <published>2022-09-22T00:00:00+0000</published>
-    <updated>2022-09-22T00:00:00+0000</updated>
-    <summary>Jugend hackt lädt ein zur ersten Jugendkonferenz zu digital literacy, KI und digitaler Verantwortung; vom 17. bis 18. November 2022, in den Technischen Sammlungen Dresden.
-Bei Beyond Code wollen wir mit jungen Menschen darüber diskutieren, wie gesellschaftliche und technologische Entwicklungen zusammenhängen. Wir wollen den Fokus dabei auf zwei zentrale Themen setzen:
-Digital Literacy: Wie sieht eigentlich eine zeitgemäße digitale Bildung aus und was brauchen wir dafür in den Schulen, aber auch außerhalb der Schule?</summary>
   </entry>
   
 </feed>

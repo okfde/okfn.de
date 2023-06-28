@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -266,6 +266,47 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2023/06/jahresbericht-2022/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/jahresbericht/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/okfde/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/openknowledge/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/community/</loc>
@@ -280,34 +321,8 @@
     <loc>https://okfn.de/tags/knowledge-hub/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/open-data/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/verwaltung/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
@@ -322,9 +337,6 @@
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/06/f5-engagementstrategie-bund/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/stellungnahme/</loc>
@@ -472,15 +484,6 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/06/jahresbericht-2021/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/jahresbericht/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/okfde/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/openknowledge/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
