@@ -1,4 +1,16 @@
 # Den neuen Bericht immer erst einpflegen, wenn die MV ihn bestäigt und der Wirtschaftsprüfer die Zahlen bestötigt hat!
+
+- year: 2022
+  img: /okf/verein/Jahresbericht_2022.png
+  pdf: https://2022.okfn.de/
+  de:
+    title: Jahresbericht 2022
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2021, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Annual Report 2022
+    text: In addition to funding information and program activities from the 2021 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+
+
 - year: 2021
   img: /okf/verein/Jahresbericht_2021_Titel.png
   pdf: https://2021.okfn.de/
