@@ -76,11 +76,13 @@ An unserem Verein halten weder private noch juristische Personen Anteile. Dies i
 Die Spende der Alfred Landecker Foundation für Frag den Staat entspricht 2022 ca. 17% der Gesamteinnahmen. Die Projektförderung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds im Jahr 2022 macht ca. 16% des Gesamtjahresbudgets aus. Die institutionelle Förderung der OKF durch Luminate (core funding) entspricht 2022 ca. 11% der Gesamteinnahmen. Alle weiteren Einnahmen liegen jeweils deutlich unter 10% der Gesamteinnahmen.
 
 ### interne Ethikbeauftragte
-
 Seit 2017 gibt es in der OKF das Amt der Ethikbeauftragten im Team. Die Ethikbeauftragte ist die erste Anlaufstelle für interne und externe ethische Fragen. Darüber hinaus ist die Ethikbeauftragte erste Anlaufstelle für Teammitglieder, die Sorgen und Unsicherheiten jeglicher Art haben. Die Ethikbeauftragte sorgt für die Weiterleitung der Anfragen an die richtigen Stellen (z.B. Board oder GF) und überwacht den Prozess. Derzeitige Ethikbeauftragte ist Giulia Norberti. Externe Anfragen gehen an die Adresse ethics@okfn.de. [<a href="/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
 
-### Transparenzverpflichtungen
+### Whistleblowing Policy
 
+Die OKF hat sich einem zivilgesellschaftlichen Bündnis zur Einführung einer [Whistleblowing Policy](https://freiheitsrechte.org/uploads/documents/Demokratie/Policy_Whistleblowing-2022-Gesellschaft-fuer-Freiheitsrechte-Zivilcourage-Demokratie.pdf) angeschlossen. Mit der Whistleblowing Policy verpflichten wir uns, Menschen zu schützen, die erhebliches Fehlverhalten in unserer Organisation melden. Wir haben mit den beteiligten Organisationen eine gemeinsame interne Meldestelle eingerichtet, an die Whistleblower:innen sich wenden können. In unserer [OKF-Verfahrensordnung](/files/documents/OKF_WhistleblowingPolicy_Verfahrensordnung.pdf) findet ihr alle weiteren Informationen. 
+
+### Transparenzverpflichtungen
 Wir sind Mitglied der [Initiative Transparente Zivilgesellschaft](https://www.transparente-zivilgesellschaft.de/) und verpflichten uns damit selbst zu größtmöglicher Offenheit. Wir sind im [Lobbyregister des Bundestages](https://www.lobbyregister.bundestag.de/startseite) unter der Registernummer R000405 eingetragen. Wir sind auch im [Transparenzregister der EU](https://ec.europa.eu/transparencyregister/public/homePage.do?redir=false&locale=de) eingetragen. 
 
 ### Lizenzen
