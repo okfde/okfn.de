@@ -81,6 +81,10 @@ Donation of the Alfred Landecker Foundation for Frag den Staat corresponds to ap
 
 Since 2017, we have had the office of ethics officer in the team. The ethics officer is the first point of contact for internal and external ethical questions. In addition, the ethics officer is the first point of contact for team members who have concerns and uncertainties of any kind. The ethics officer ensures that requests are forwarded to the right places (e.g. board or director) and supervises the process. The current ethics officer is Giulia Norberti. External inquiries can be sent to ethics@okfn.de. [<a href="/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
 
+### Whistleblowing Policy
+
+OKF has joined a civil society alliance to introduce a [Whistleblowing Policy](https://freiheitsrechte.org/uploads/documents/Demokratie/Policy_Whistleblowing-2022-Gesellschaft-fuer-Freiheitsrechte-Zivilcourage-Demokratie.pdf). With the Whistleblowing Policy, we are committed to protecting people who report significant misconduct in our organization. We have established a joint internal reporting office with the participating organizations to which whistleblowers can turn. You can find further information in our [OKF Code of Procedure](/files/documents/OKF_WhistleblowingPolicy_Verfahrensordnung.pdf) (only in German).
+
 ### Transparency obligations
 
 We are signatories to the [Initiative Transparent Civil Society](https://www.transparente-zivilgesellschaft.de/) and thus commit ourselves to the greatest possible openness. We are registered in the [Lobbyregister of the German Parliament](https://www.lobbyregister.bundestag.de/startseite) under registration number R000405. We are also registered in the [EU Transparency Register](https://ec.europa.eu/transparencyregister/public/homePage.do?redir=false&locale=de). 
