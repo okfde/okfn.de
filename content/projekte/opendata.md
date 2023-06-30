@@ -8,9 +8,8 @@ kategorien:
 tile: double
 type: featured 
 layout: project
-img: projects/offeneverwaltungsdaten_tile.png
-img_square: projects/
-img_header: projects/offeneverwaltungsdaten_header.png
+img: projects/opendata_tile.png
+img_header: projects/opendata_header.png
 people:
   - name: Dénes Jäger
   - name: Christina Willems
