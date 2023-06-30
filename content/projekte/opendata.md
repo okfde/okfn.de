@@ -5,7 +5,8 @@ kategorien:
   - Politik
   - Community
   - Open Data
-tile: double 
+tile: double
+type: featured 
 layout: project
 img: projects/offeneverwaltungsdaten_tile.png
 img_square: projects/
