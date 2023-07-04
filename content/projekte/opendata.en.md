@@ -5,10 +5,10 @@ categories:
   - Policy
   - Community
   - Open Data
-tile: double 
+tile: double
+type: featured 
 layout: project
-img: projects/opendata_header.jpg
-img_square: projects/
+img: projects/opendata_tile.png
 img_header: projects/opendata_header.jpg
 people:
   - name: Dénes Jäger
