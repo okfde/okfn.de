@@ -9,7 +9,7 @@ tile: double
 type: featured 
 layout: project
 img: projects/opendata_tile.png
-img_header: projects/opendata_header.png
+img_header: projects/opendata_header.jpg
 people:
   - name: Dénes Jäger
   - name: Christina Willems
