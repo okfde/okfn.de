@@ -83,7 +83,7 @@ Since 2017, we have had the office of ethics officer in the team. The ethics off
 
 ### Whistleblowing Policy
 
-OKF has joined a civil society alliance to introduce a [Whistleblowing Policy](https://freiheitsrechte.org/uploads/documents/Demokratie/Policy_Whistleblowing-2022-Gesellschaft-fuer-Freiheitsrechte-Zivilcourage-Demokratie.pdf). With the Whistleblowing Policy, we are committed to protecting people who report significant misconduct in our organization. We have established a joint internal reporting office with the participating organizations to which whistleblowers can turn. You can find further information in our [OKF Code of Procedure](/files/documents/OKF_WhistleblowingPolicy_Verfahrensordnung.pdf) (only in German).
+OKF has joined a civil society alliance to introduce a [Whistleblowing Policy](https://freiheitsrechte.org/uploads/documents/Demokratie/Policy_Whistleblowing-2022-Gesellschaft-fuer-Freiheitsrechte-Zivilcourage-Demokratie.pdf). With the Whistleblowing Policy, we are committed to protecting people who report significant misconduct in our organization. We have established a joint internal reporting office with the participating organizations to which whistleblowers can turn. The reporting office can be reached via: https://www.vertrauensanwalt.org/. You can find further information in our [OKF Code of Procedure](/files/documents/OKF_WhistleblowingPolicy_Verfahrensordnung.pdf) (only in German).
 
 ### Transparency obligations
 
