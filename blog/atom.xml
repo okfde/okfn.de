@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-06-28T00:00:00+0000</updated>
+  <updated>2023-07-06T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Digital Services Act: Deutschland braucht eine Plattformaufsicht, keine Poststelle</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/07/pm-dsc/"/>
+    <id>https://okfn.de/blog/2023/07/pm-dsc/</id>
+    <published>2023-07-06T00:00:00+0000</published>
+    <updated>2023-07-06T00:00:00+0000</updated>
+    <summary>Berlin, 06.07.2023
+Deutschland droht die Chance zu verspielen, Internetplattformen – wie soziale Netzwerke oder Online-Marktplätze – unter eine effektive, unabhängige Aufsicht zu stellen. Der Digital Services Act (DSA) soll Nutzer*innenrechte online schützen und legt Sorgfaltspflichten für Plattformen wie TikTok, Facebook und Twitter fest. Um diese Ziele wirkungsvoll zu erreichen, bedarf es einer zentralen und gut organisierten Plattformaufsicht in den EU-Mitgliedstaaten, die Beschwerden von Betroffenen zügig und kompetent bearbeitet und ihre Rechte durchsetzt.</summary>
+  </entry>
   
   <entry>
     <title>Das war 2022: Unser Jahresbericht ist jetzt veröffentlicht</title>
@@ -149,16 +159,6 @@ Im Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledg
     <summary>Pressemitteilung
 Akteur*innen aus Zivilgesellschaft fordern mehr Mitsprache bei der Gestaltung politischer Strategien zur Digitalisierung // Nächste „Bits &amp;amp; Bäume“-Regionalkonferenz für Juni 2023 in Köln angekündigt
 Berlin, 5. Oktober 2022 – „Die Bits dürfen uns nicht die Bäume kosten.“ Diese Forderung brachte am vergangenen Wochenende über 2.500 Teilnehmende zur Konferenz für Digitalisierung und Nachhaltigkeit „Bits &amp;amp; Bäume“ nach Berlin. Auf Einladung von 13 Organisationen aus Umwelt,- Klima- und Naturschutz, Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft trafen sich Wissenschaftler*innen, Aktivist*innen und Politiker*innen, um politische Forderungen und Handlungsansätze für eine nachhaltige Digitalisierung zu diskutieren.</summary>
-  </entry>
-  
-  <entry>
-    <title>Den Krisen zum Trotz: eine digital-nachhaltige Zukunftspolitik</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/10/open-hardware-und-circular-economy/"/>
-    <id>https://okfn.de/blog/2022/10/open-hardware-und-circular-economy/</id>
-    <published>2022-10-04T00:00:00+0000</published>
-    <updated>2022-10-04T00:00:00+0000</updated>
-    <summary>Trotz der multiplen Krisen darf die Gestaltung der Zukunft nicht aus den Augen geraten. Das betonten auch die zweite Bürgermeisterin der Stadt Hamburg, Katharina Fegebank und Kai Gehring, Vorsitzender des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung bei der Abschlussveranstaltung &amp;ldquo;Zukunft erfinden&amp;rdquo; der Bündnis 90/Die Grünen Bundestagsfraktion, am 21. September. Doch wie soll diese Zukunft aussehen? Und wie wollen wir in ihr wirtschaften?
-Mit Blick auf die EU-Kommission sind es Kreisläufe, in denen wir in Zukunft Produkte entwickeln, nutzen und verwerten.</summary>
   </entry>
   
 </feed>

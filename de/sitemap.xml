@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,17 +268,20 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2023/06/jahresbericht-2022/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2023/07/pm-dsc/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalservicesact/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/dsc/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/jahresbericht/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -290,14 +293,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/okfde/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/openknowledge/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/plattformaufsicht/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -308,6 +308,18 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2023/06/jahresbericht-2022/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/jahresbericht/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/okfde/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/openknowledge/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/community/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>

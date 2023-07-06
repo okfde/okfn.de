@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digital Services Act: Deutschland braucht eine Plattformaufsicht, keine Poststelle</title>
+      <link>https://okfn.de/blog/2023/07/pm-dsc/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2023/07/pm-dsc/</guid>
+      <description>Berlin, 06.07.2023
+Deutschland droht die Chance zu verspielen, Internetplattformen – wie soziale Netzwerke oder Online-Marktplätze – unter eine effektive, unabhängige Aufsicht zu stellen. Der Digital Services Act (DSA) soll Nutzer*innenrechte online schützen und legt Sorgfaltspflichten für Plattformen wie TikTok, Facebook und Twitter fest. Um diese Ziele wirkungsvoll zu erreichen, bedarf es einer zentralen und gut organisierten Plattformaufsicht in den EU-Mitgliedstaaten, die Beschwerden von Betroffenen zügig und kompetent bearbeitet und ihre Rechte durchsetzt.</description>
+    </item>
     
     <item>
       <title>Das war 2022: Unser Jahresbericht ist jetzt veröffentlicht</title>
