@@ -277,8 +277,27 @@
     <loc>https://okfn.de/tags/dsc/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/jobs/gf-buchhaltung-assistenz/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/giulia/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
+                />
   </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
@@ -3771,18 +3790,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/jahresberichte/"
-                />
-  </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/kleineanfragen/</loc>
