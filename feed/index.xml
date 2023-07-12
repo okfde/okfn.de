@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Die OKF hat eine Whistleblowing Policy eingeführt, um Hinweisgebende besser zu schützen</title>
+      <link>https://okfn.de/blog/2023/07/whistleblowingpolicy/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2023/07/whistleblowingpolicy/</guid>
+      <description>Wir haben uns einem zivilgesellschaftlichen Bündnis zur Einführung einer Whistleblowing Policy angeschlossen. Mit der Whistleblowing Policy verpflichten wir uns, Menschen zu schützen, die erhebliches Fehlverhalten in unserer Organisation melden.
+Wir haben das neue Hinweisgeberschutzgesetz zum Anlass genommen, bei uns in der OKF ein eigenes System dafür einzuführen. Wir haben uns dazu dem seit Ende 2022 bestehenden Bündnis der Whistleblowing Policy für die Zivilgesellschaft angeschlossen und mit den beteiligten Organisationen eine gemeinsame Meldestelle eingerichtet, an die Whistleblower:innen sich wenden können.</description>
+    </item>
     
     <item>
       <title>Digital Services Act: Deutschland braucht eine Plattformaufsicht, keine Poststelle</title>

@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-07-06T00:00:00+0000</updated>
+  <updated>2023-07-12T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Die OKF hat eine Whistleblowing Policy eingeführt, um Hinweisgebende besser zu schützen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/07/whistleblowingpolicy/"/>
+    <id>https://okfn.de/blog/2023/07/whistleblowingpolicy/</id>
+    <published>2023-07-12T00:00:00+0000</published>
+    <updated>2023-07-12T00:00:00+0000</updated>
+    <summary>Wir haben uns einem zivilgesellschaftlichen Bündnis zur Einführung einer Whistleblowing Policy angeschlossen. Mit der Whistleblowing Policy verpflichten wir uns, Menschen zu schützen, die erhebliches Fehlverhalten in unserer Organisation melden.
+Wir haben das neue Hinweisgeberschutzgesetz zum Anlass genommen, bei uns in der OKF ein eigenes System dafür einzuführen. Wir haben uns dazu dem seit Ende 2022 bestehenden Bündnis der Whistleblowing Policy für die Zivilgesellschaft angeschlossen und mit den beteiligten Organisationen eine gemeinsame Meldestelle eingerichtet, an die Whistleblower:innen sich wenden können.</summary>
+  </entry>
   
   <entry>
     <title>Digital Services Act: Deutschland braucht eine Plattformaufsicht, keine Poststelle</title>
@@ -148,17 +158,6 @@ Ehrenamtliche findet man in allen Gesellschaftsbereichen: Sie trainieren Kinder 
     <updated>2022-11-18T00:00:00+0000</updated>
     <summary>Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht. Die derzeit von der Bundesregierung ressortübergreifend entwickelte Zukunftsstrategie Forschung und Innovation ist jedoch zu stark auf wirtschaftlichen Erfolg fokussiert. Hier muss nachgebessert werden.
 Im Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) haben wir im Rahmen der Online-Konsultation des Bundesministeriums für Bildung und Forschung (BMBF) eine Stellungnahme auf die vorgegebenen Fragen zur „Zukunftsstrategie Forschung und Innovation“ abgegeben.</summary>
-  </entry>
-  
-  <entry>
-    <title>Für eine nachhaltige Digitalisierung: 2.500 Teilnehmende auf der Konferenz Bits &amp; Bäume</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/10/bits-und-baeume-alternative-digitalstrategie/"/>
-    <id>https://okfn.de/blog/2022/10/bits-und-baeume-alternative-digitalstrategie/</id>
-    <published>2022-10-06T00:00:00+0000</published>
-    <updated>2022-10-06T00:00:00+0000</updated>
-    <summary>Pressemitteilung
-Akteur*innen aus Zivilgesellschaft fordern mehr Mitsprache bei der Gestaltung politischer Strategien zur Digitalisierung // Nächste „Bits &amp;amp; Bäume“-Regionalkonferenz für Juni 2023 in Köln angekündigt
-Berlin, 5. Oktober 2022 – „Die Bits dürfen uns nicht die Bäume kosten.“ Diese Forderung brachte am vergangenen Wochenende über 2.500 Teilnehmende zur Konferenz für Digitalisierung und Nachhaltigkeit „Bits &amp;amp; Bäume“ nach Berlin. Auf Einladung von 13 Organisationen aus Umwelt,- Klima- und Naturschutz, Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft trafen sich Wissenschaftler*innen, Aktivist*innen und Politiker*innen, um politische Forderungen und Handlungsansätze für eine nachhaltige Digitalisierung zu diskutieren.</summary>
   </entry>
   
 </feed>
