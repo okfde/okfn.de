@@ -1355,13 +1355,14 @@
 
 - name: Karl Engelhardt
   img: karlengelhardt
-  staff: 1
+  staff: 0
+  volunteer: 1
   board: 0
   advisory: 0
   position: Studentische Mitarbeiter*in bei FragDenStaat
   position_en: Student Assistant at FragDenStaat
-  bio: Karl studiert Informatik und ist als studentische Hilfskraft Software-Entwickler*in bei FragDenStaat.
-  bio_en: Karl is studying computer science and is a software developer at FragDenStaat.
+  bio: Karl ist aktuell ehrenamtlich Software-Entwickler*in bei FragDenStaat. Von 2022 bis Februar 2023 war Karl bereits als studentische Hilfskraft Teil des Tech-Teams von FragDenStaat.
+  bio_en: Karl is currently volunteering as a software developer for FragDenStaat. From 2022 to Februar of 2023 Karl was a working student in the tech team of FragDenStaat.
   mail: karl.engelhardt@okfn.de
   github: pajowu
   twitter: pajowu
