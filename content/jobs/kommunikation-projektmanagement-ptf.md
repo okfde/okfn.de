@@ -54,13 +54,13 @@ Wir legen im Team großen Wert darauf, eine sichere und angenehme Arbeitsumgebun
 
 #### Zahlen, Daten, Fakten:
 
-**Bewerbungsfrist**: Sonntag, 6. August 2023
-**Bewerbungsgespräche**: KW 34, am liebsten in Person
-**Vertragsbeginn**: idealerweise zum 1. Oktober 2023 (spätestens zum 1. November 2023)
-**Zeitlicher Aufwand**: 24 bis 32 h/Woche (60-80 %)
-**Gehalt**: nach [TV-L E12/S1](https://oeffentlicher-dienst.info/tv-l/allg/) im ersten Jahr, danach TV-L E12/2
-**Urlaub**: 30 Tage bei 5 Arbeitstagen/Woche, der 24. und 31.12. sind arbeitsfrei.
-**Ort**: Unser Büro ist in Berlin - dort arbeiten wir mindestens einmal die Woche gemeinsam.
+- **Bewerbungsfrist**: Sonntag, 6. August 2023
+- **Bewerbungsgespräche**: KW 34, am liebsten in Person
+- **Vertragsbeginn**: idealerweise zum 1. Oktober 2023 (spätestens zum 1. November 2023)
+- **Zeitlicher Aufwand**: 24 bis 32 h/Woche (60-80 %)
+- **Gehalt**: nach [TV-L E12/S1](https://oeffentlicher-dienst.info/tv-l/allg/) im ersten Jahr, danach TV-L E12/2
+- **Urlaub**: 30 Tage bei 5 Arbeitstagen/Woche, der 24. und 31.12. sind arbeitsfrei.
+- **Ort**: Unser Büro ist in Berlin - dort arbeiten wir mindestens einmal die Woche gemeinsam.
 
 **Die Position ist wie alle Stellen im Team zum 28. Februar 2025 befristet.** Zu diesem Datum läuft die Förderung des Prototype Fund aus.
 Sende deine Unterlagen (Anschreiben, **Lebenslauf ohne Foto und Geburtsdatum**, Arbeitsprobe (s. u.)) bitte per E-Mail an bewerbung@prototypefund.de. Fragen zur Stelle und zum Bewerbungsprozess kannst du auch an diese Adresse richten.
