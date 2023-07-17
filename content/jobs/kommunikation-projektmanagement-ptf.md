@@ -38,7 +38,7 @@ Der Prototype Fund ist ein Förderprogramm für Open-Source-Software aus der Ges
 - Du hast ein Händchen für gute Texte und kannst auch komplexe Zusammenhänge leicht verständlich vermitteln.
 - Du schreibst und sprichst Deutsch auf UNICERT-Niveau C2 (Muttersprache oder Äquivalent). You speak und write beautifully in English, too.
 - Du organisierst und koordinierst gerne und kannst selbständig Prioritäten setzen. Dabei arbeitest du sorgfältig und mit einem Auge für´s Detail.
-- Du bist ein*e Teamplayer*in.
+- Du bist ein\*e Teamplayer\*in.
 - Wir freuen uns besonders, wenn du praktische Erfahrungen in der Presse- und Öffentlichkeitsarbeit mitbringst!
 
 Du glaubst, dass ein paar Aspekte aus der Ausschreibung nicht zu dir passen, viele andere aber schon? Dann bewirb dich bitte trotzdem.
