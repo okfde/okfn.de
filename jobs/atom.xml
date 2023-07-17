@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>2023-07-06T00:00:00+0000</updated>
+  <updated>2023-07-17T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Ausschreibung: Kommunikation und Projektmanagement für den Prototype Fund</title>
+    <link rel="alternate" href="https://okfn.de/jobs/kommunikation-projektmanagement-ptf/"/>
+    <id>https://okfn.de/jobs/kommunikation-projektmanagement-ptf/</id>
+    <published>2023-07-17T00:00:00+0000</published>
+    <updated>2023-07-17T00:00:00+0000</updated>
+    <summary>Im Prototype Fund suchen wir eine Person, die unsere Arbeit und Ziele über verschiedene Kanäle kommuniziert. Dabei platzierst du sowohl unsere Inhalte als auch die der geförderten Projekte und hilfst ihnen, sich und ihre Ideen vorzustellen und zu vernetzen. Es fällt dir leicht, verschiedene Formate für unterschiedliche Zielgruppen zu übersetzen und dabei ein Auge für Details und Ästhetik zu behalten. Du denkst gern über Kommunikationsformate nach und es macht dir Spaß, diese verantwortlich umzusetzen.</summary>
+  </entry>
   
   <entry>
     <title>Gesucht: Buchhaltung- &amp; Office-Assistenz (Minijob / Stud. Hilfskraft / TVL E12/S1)</title>
