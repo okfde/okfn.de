@@ -13,10 +13,13 @@
 <script src="{{$js.RelPermalink}}"></script>
 
 {{ if eq .Section "blog"}}
+  {{ $share := resources.Get "/js/share-m.js" }}
   {{ $bsearch := resources.Get "/js/blog-search.js" | resources.Minify | resources.Fingerprint }}
+
   <link rel="preload" href="{{$bsearch.RelPermalink}}" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="{{$bsearch.RelPermalink}}"></script>
+  <script src="{{$share.RelPermalink}}"></script>
 {{ end }}
 
 {{ if (eq .Section "projekte") }}
