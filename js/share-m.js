@@ -5,12 +5,12 @@ function mastodonShare(e){
     var src = e.getAttribute("data-src");
 
     // Get the Mastodon domain
-    domain = prompt("Enter your Mastodon domain, e.g.: 'mastodon.social'", "");
+    domain = prompt("Enter your Mastodon domain", "mastodon.social");
 
-    if (domain == "" || domain == null){
-        return;
-    }
-
+    //if (domain == "" || domain == null){
+    //    return;
+    //}
+    while (domain == null){}
     // Build the URL
     url = "https://" + domain + "/share?text=" + src;
 
