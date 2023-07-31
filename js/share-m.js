@@ -10,10 +10,11 @@ function mastodonShare(e){
     if (domain == "" || domain == null){
         return;
     }
+    if (!!domain) {
+        // Build the URL
+        url = "https://" + domain + "/share?text=" + src;
 
-    // Build the URL
-    url = "https://" + domain + "/share?text=" + src;
-
-    // Open a window on the share page
-    window.open(url, '_blank');
+        // Open a window on the share page
+        window.open(url, '_blank');
+    }
 }
