@@ -5,7 +5,7 @@ function mastodonShare(e){
     var src = e.getAttribute("data-src");
 
     // Get the Mastodon domain
-    domain = prompt("Enter your Mastodon domain", "mastodon.social");
+    domain = prompt("Enter your Mastodon domain, e.g.: 'mastodon.social'", "");
 
     if (domain == "" || domain == null){
         return;
