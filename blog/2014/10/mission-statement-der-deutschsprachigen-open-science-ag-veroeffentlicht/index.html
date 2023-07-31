@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -422,7 +425,10 @@
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Mission%20Statement%20der%20deutschsprachigen%20Open%20Science%20AG%20ver%c3%b6ffentlicht&url=https%3a%2f%2fokfn.de%2fblog%2f2014%2f10%2fmission-statement-der-deutschsprachigen-open-science-ag-veroeffentlicht%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2014%2f10%2fmission-statement-der-deutschsprachigen-open-science-ag-veroeffentlicht%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Mission%20Statement%20der%20deutschsprachigen%20Open%20Science%20AG%20ver%c3%b6ffentlicht: https://okfn.de/blog/2014/10/mission-statement-der-deutschsprachigen-open-science-ag-veroeffentlicht/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

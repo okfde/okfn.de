@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -443,7 +446,10 @@ In der World Café Session - einem Messestand ähnlichen Format - berichteten wi
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Die%20OKF%20beim%20Personal%20Democracy%20Forum%20in%20Danzig&url=https%3a%2f%2fokfn.de%2fblog%2f2017%2f04%2fdie-okf-beim-personal-democracy-forum%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2017%2f04%2fdie-okf-beim-personal-democracy-forum%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Die%20OKF%20beim%20Personal%20Democracy%20Forum%20in%20Danzig: https://okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

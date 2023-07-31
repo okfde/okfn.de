@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -431,7 +434,10 @@
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Von%20Nutzer%2ainnen%20f%c3%bcr%20Nutzer%2ainnen%3a%20Communitytechnologien%20als%20Alltagshelfer%20%e2%80%93%20nicht%20nur%20in%20der%20Krise&url=https%3a%2f%2fokfn.de%2fblog%2f2020%2f05%2fcommunitytechnologien%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2020%2f05%2fcommunitytechnologien%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="#ZgotmplZ: https://okfn.de/blog/2020/05/communitytechnologien/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

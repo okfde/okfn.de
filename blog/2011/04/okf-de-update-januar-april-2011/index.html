@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -461,7 +464,10 @@ Daniel</p>
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=OKF%20DE%20Update%20Januar%2c%20Februar%2c%20M%c3%a4rz%2c%20April%20%202011&url=https%3a%2f%2fokfn.de%2fblog%2f2011%2f04%2fokf-de-update-januar-april-2011%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2011%2f04%2fokf-de-update-januar-april-2011%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="OKF%20DE%20Update%20Januar,%20Februar,%20M%c3%a4rz,%20April%20%202011: https://okfn.de/blog/2011/04/okf-de-update-januar-april-2011/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

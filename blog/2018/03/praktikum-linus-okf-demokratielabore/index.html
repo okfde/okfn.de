@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -451,7 +454,10 @@ ein. Dann kann man noch Sprechblasen und Text hinzufügen und man ist fertig. In
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Mein%20Praktikum%20bei%20den%20Demokratielaboren&url=https%3a%2f%2fokfn.de%2fblog%2f2018%2f03%2fpraktikum-linus-okf-demokratielabore%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2018%2f03%2fpraktikum-linus-okf-demokratielabore%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Mein%20Praktikum%20bei%20den%20Demokratielaboren: https://okfn.de/blog/2018/03/praktikum-linus-okf-demokratielabore/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

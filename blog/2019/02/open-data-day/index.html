@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -433,7 +436,10 @@ In der folgenden Übersicht siehst du wo etwas stattfindet, mit einem Link zu we
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Der%20Open%20Data%20Day%202019&url=https%3a%2f%2fokfn.de%2fblog%2f2019%2f02%2fopen-data-day%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2019%2f02%2fopen-data-day%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Der%20Open%20Data%20Day%202019: https://okfn.de/blog/2019/02/open-data-day/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

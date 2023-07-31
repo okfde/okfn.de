@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -487,7 +490,10 @@ Der interaktive Stimmzettel ist die App für alle Wahlangelegenheiten vor, währ
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Wahl.Daten.Helfer.%20%e2%80%93%20ein%20produktives%20Wahlwochenende&url=https%3a%2f%2fokfn.de%2fblog%2f2013%2f09%2fwahl-daten-helfer%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2013%2f09%2fwahl-daten-helfer%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Wahl.Daten.Helfer.%20%e2%80%93%20ein%20produktives%20Wahlwochenende: https://okfn.de/blog/2013/09/wahl-daten-helfer/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

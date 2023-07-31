@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -475,7 +478,10 @@ If you compare software code and legislation you can find many similarities: bot
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Bundes-Git%20%e2%80%93%20German%20Laws%20on%20GitHub&url=https%3a%2f%2fokfn.de%2fblog%2f2013%2f01%2fbundes-git-german-laws-on-github%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2013%2f01%2fbundes-git-german-laws-on-github%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Bundes-Git%20%e2%80%93%20German%20Laws%20on%20GitHub: https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

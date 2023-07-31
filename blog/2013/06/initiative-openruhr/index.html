@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -434,7 +437,10 @@ Unser Angebot ist dank der Unterstützung des <a href="http://www.linuxhotel.de"
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Initiative%20OpenRuhr%20ver%c3%b6ffentlicht%20alternatives%20Ratsinformationssystem%20f%c3%bcr%20Bochum%20und%20Moers&url=https%3a%2f%2fokfn.de%2fblog%2f2013%2f06%2finitiative-openruhr%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2013%2f06%2finitiative-openruhr%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Initiative%20OpenRuhr%20ver%c3%b6ffentlicht%20alternatives%20Ratsinformationssystem%20f%c3%bcr%20Bochum%20und%20Moers: https://okfn.de/blog/2013/06/initiative-openruhr/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -411,7 +414,10 @@
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Kick-Off%20%23FOE20%3a%20Offene%20Bildung%20politisch%20st%c3%a4rken&url=https%3a%2f%2fokfn.de%2fblog%2f2020%2f08%2fkick-off-forum-open-education-2020%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2020%2f08%2fkick-off-forum-open-education-2020%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="#ZgotmplZ: https://okfn.de/blog/2020/08/kick-off-forum-open-education-2020/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

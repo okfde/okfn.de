@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -425,7 +428,10 @@ Inzwischen ist das Programm online zu finden - ein guter Mix aus Vorträgen, kle
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Datensummit%202017%20-%20Das%20Programm%20ist%20da%21&url=https%3a%2f%2fokfn.de%2fblog%2f2017%2f03%2fdatensummit2017%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2017%2f03%2fdatensummit2017%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Datensummit%202017%20-%20Das%20Programm%20ist%20da!: https://okfn.de/blog/2017/03/datensummit2017/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -459,7 +462,10 @@ Hier geht es zu den <a href="http://vimeo.com/album/2629015">Videos </a>und den 
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Zugang%20gestalten%20-%20Ein%20R%c3%bcckblick&url=https%3a%2f%2fokfn.de%2fblog%2f2013%2f12%2fzugang-gestalten-ein-rueckblick%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2013%2f12%2fzugang-gestalten-ein-rueckblick%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Zugang%20gestalten%20-%20Ein%20R%c3%bcckblick: https://okfn.de/blog/2013/12/zugang-gestalten-ein-rueckblick/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

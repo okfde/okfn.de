@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -434,7 +437,10 @@
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=EU-Vorschlag%20zur%20%c3%9cberarbeitung%20der%20PSI-Richtlinie&url=https%3a%2f%2fokfn.de%2fblog%2f2018%2f04%2feu-vorschlag-zur-%25C3%25BCberarbeitung-der-psi-richtlinie%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2018%2f04%2feu-vorschlag-zur-%25C3%25BCberarbeitung-der-psi-richtlinie%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="EU-Vorschlag%20zur%20%c3%9cberarbeitung%20der%20PSI-Richtlinie: https://okfn.de/blog/2018/04/eu-vorschlag-zur-%C3%BCberarbeitung-der-psi-richtlinie/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

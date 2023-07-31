@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -452,7 +455,10 @@
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Policy%20advocacy%20with%20a%20twist&url=https%3a%2f%2fokfn.de%2fblog%2f2018%2f07%2fpolicy-advocacy-with-a-twist%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2018%2f07%2fpolicy-advocacy-with-a-twist%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Policy%20advocacy%20with%20a%20twist: https://okfn.de/blog/2018/07/policy-advocacy-with-a-twist/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

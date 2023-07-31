@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -423,7 +426,10 @@
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Gesetz%20%c3%bcber%20die%20Weiterverwendung%20von%20Informationen%20%c3%b6ffentlicher%20Stellen%20%28IWG%29%3a%20Eine%20weitere%20vertane%20Chance&url=https%3a%2f%2fokfn.de%2fblog%2f2015%2f05%2fstellungnahme-iwg-bundestag-2015%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2015%2f05%2fstellungnahme-iwg-bundestag-2015%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="#ZgotmplZ: https://okfn.de/blog/2015/05/stellungnahme-iwg-bundestag-2015/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

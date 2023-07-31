@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -432,7 +435,10 @@ Die kostenlose <a href="https://goo.gl/forms/I2D009Hflpnpj2zu1">Anmeldung</a> is
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Roboter%2c%20Comics%2c%20Prototypen%20-%20Das%20erste%20FamilienLabor%20im%20FEZ-Berlin%20startet%20am%2016.%20Juli&url=https%3a%2f%2fokfn.de%2fblog%2f2017%2f06%2ferstes-familienlabor%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2017%2f06%2ferstes-familienlabor%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Roboter,%20Comics,%20Prototypen%20-%20Das%20erste%20FamilienLabor%20im%20FEZ-Berlin%20startet%20am%2016.%20Juli: https://okfn.de/blog/2017/06/erstes-familienlabor/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

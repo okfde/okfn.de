@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -446,7 +449,10 @@ Das <a href="http://www.opendevelopmentcamp.org/#odc-program">Program</a> sieht 
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Open%20Development%20Camp%202013%2c%207-8%20November%2c%20Amsterdam&url=https%3a%2f%2fokfn.de%2fblog%2f2013%2f10%2fopen-development-camp-2013-7-8-november-amsterdam%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2013%2f10%2fopen-development-camp-2013-7-8-november-amsterdam%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Open%20Development%20Camp%202013,%207-8%20November,%20Amsterdam: https://okfn.de/blog/2013/10/open-development-camp-2013-7-8-november-amsterdam/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

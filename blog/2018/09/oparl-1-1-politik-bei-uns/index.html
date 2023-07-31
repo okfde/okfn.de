@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -454,7 +457,10 @@ Die vier größten …">
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=OParl%201.1%3a%20Neue%20Version%20des%20Standards%20-%20und%20viel%20Aktivit%c3%a4t&url=https%3a%2f%2fokfn.de%2fblog%2f2018%2f09%2foparl-1-1-politik-bei-uns%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2018%2f09%2foparl-1-1-politik-bei-uns%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="#ZgotmplZ: https://okfn.de/blog/2018/09/oparl-1-1-politik-bei-uns/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

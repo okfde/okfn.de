@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -435,7 +438,10 @@ Technologie allein löst kommunikative Herausforderungen nicht. Doch <a href="ht
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Prototype%20Fund%20f%c3%b6rdert%20eure%20Open-Source-Softwareideen%20%e2%80%93%20bewerbt%20euch%20jetzt%21&url=https%3a%2f%2fokfn.de%2fblog%2f2021%2f02%2fptf-runde-zehn%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2021%2f02%2fptf-runde-zehn%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Prototype%20Fund%20f%c3%b6rdert%20eure%20Open-Source-Softwareideen%20%e2%80%93%20bewerbt%20euch%20jetzt!: https://okfn.de/blog/2021/02/ptf-runde-zehn/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

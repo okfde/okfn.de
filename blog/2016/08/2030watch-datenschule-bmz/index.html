@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -433,7 +436,10 @@
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Tag%20der%20offen%20T%c3%bcr%20-%20Die%20OKF%20beim%20BMZ&url=https%3a%2f%2fokfn.de%2fblog%2f2016%2f08%2f2030watch-datenschule-bmz%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2016%2f08%2f2030watch-datenschule-bmz%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Tag%20der%20offen%20T%c3%bcr%20-%20Die%20OKF%20beim%20BMZ: https://okfn.de/blog/2016/08/2030watch-datenschule-bmz/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>

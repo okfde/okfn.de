@@ -34,9 +34,12 @@
 
 
   
+  
+
   <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
   <link rel="preload" href="/js/blog-search-index.json" as="fetch">
   <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
+  <script src="/js/share-m.js"></script>
 
 
 
@@ -423,7 +426,10 @@ Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein, der si
           <p>
             Teilen:
             <a href="https://twitter.com/intent/tweet?text=Unsere%20neue%20Initiative%20Transparenzklagen.de%20setzt%20Informationsfreiheit%20durch&url=https%3a%2f%2fokfn.de%2fblog%2f2016%2f12%2ftransparenzklagen%2f&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u=https%3a%2f%2fokfn.de%2fblog%2f2016%2f12%2ftransparenzklagen%2f" title="Teilen auf Facebook" rel="nofollow">Facebook</a>
+            <a
+              onclick="mastodonShare(this);"
+              data-src="Unsere%20neue%20Initiative%20Transparenzklagen.de%20setzt%20Informationsfreiheit%20durch: https://okfn.de/blog/2016/12/transparenzklagen/ by @okfde@chaos.social"
+            >Mastodon</a>
           </p>
         </div>
       </div>
