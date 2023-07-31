@@ -7,10 +7,10 @@ function mastodonShare(e){
     // Get the Mastodon domain
     domain = prompt("Enter your Mastodon domain", "mastodon.social");
 
-    //if (domain == "" || domain == null){
-    //    return;
-    //}
-    while (domain == null){}
+    if (domain == "" || domain == null){
+        return;
+    }
+
     // Build the URL
     url = "https://" + domain + "/share?text=" + src;
 
