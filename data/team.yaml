@@ -1176,7 +1176,7 @@
 
 - name: Lea Pfau
   img: leapfau
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Campaignerin FragDenStaat
@@ -1505,4 +1505,25 @@
   bio: Dénes arbeitet im Bereich Policy und Open Data. Er ist freier Journalist und seit mehreren Jahren als Data Researcher im digitalen Politikmonitoring tätig.
   bio_en: Dénes is project coordinator for policy and open data. He works as a freelance journalist and has several years of experience as data researcher in the field of digital political monitoring.  
   mail: denes.jaeger@okfn.de
+   
+- name: Sabrina Winter
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Investigativer Journalist FragDenStaat
+  position_en: Investigative Journalist FragDenStaat
+  bio: Sabrina ist investigative Journalistin bei FragDenStaat.
+  bio_en: Sabrina works as investigative journalist at FragDenStaat.  
+  mail: sabrina.winter@okfn.de 
   
+- name: Gabrielle Jeliazkov
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Climate Justice Campaigner FragDenStaat
+  position_en: Climate Justice Campaigner FragDenStaat
+  bio: Gaby works as Climate Justice Campaigner at FragDenStaat.
+  bio_en: Gaby works as Climate Justice Campaigner at FragDenStaat.  
+  mail: gabrielle.jeliazkov@okfn.de
