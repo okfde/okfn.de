@@ -7,7 +7,7 @@ image:
   title:
   license:
   license_url:
-published: true
+published: false
 title: "Ausschreibung: Kommunikation und Projektmanagement für den Prototype Fund"
 ---
 
