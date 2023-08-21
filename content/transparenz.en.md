@@ -20,7 +20,7 @@ The statutes of the Open Knowledge Foundation Deutschland e. V. can be found [he
 
 Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Corporation Tax Act and from trade tax pursuant to § 3 no. 6 of the Trade Tax Act due to the promotion of science and research, the promotion of popular and vocational education as well as student assistance, the strengthening of the democratic state as well as the strengthening of civic commitment pursuant to the last [exemption notice](/files/documents/2022_Freistellungsbescheid_fuer_2021.pdf) received by us from the Tax Office for Corporations I, Berlin dated 03.09.2021.
 
-A current extract from the register of associations of 2022 can be found [here](/files/documents/2022-03-21-Vereinsregisterauszug-OKF-DE.pdf).
+A current extract from the register of associations of 2022 can be found [here](/files/documents/2023-08-16-Vereinsregisterauszug-OKF-DE.pdf).
 
 ### Name and function of essential decision makers
 
