@@ -20,6 +20,7 @@ title: "Halbzeit für die Ampel: Danke für die schönen Worte, lasst endlich Ta
 
 **Die Free Software Foundation Europe (FSFE) fordert mit einem Bündnis aus Zivilgesellschaft und Freie-Software-Wirtschaft die Bundesregierung auf, eine nachhaltige und soziale Digitalpolitik umzusetzen und im Bundeshaushalt jetzt die nötigen Mittel bereitzustellen.**
 
+
 Die Open Knowledge Foundation Deutschland zieht eine negative Halbzeitbilanz für die Digitalpolitik der Bundesregierung und fordert gemeinsam mit 20 Akteur:innen aus der Zivilgesellschaft und Freie-Software-Wirtschaft: Die Bundesregierung und die Koalitionsfraktionen im Bundestag müssen jetzt dringend ihre digitalpolitischen Versprechen aus dem Koalitionsvertrag umsetzen. Dafür müssen sie im Haushalt 2024 ausreichend Mittel bereitstellen. Zudem muss die Zivilgesellschaft stärker in Entscheidungsprozesse eingebunden werden. Es gibt in dieser Legislatur noch ein kurzes Zeitfenster dafür, Deutschland auf einen nachhaltigen, inklusiven und sozialen digitalpolitischen Kurs zu lenken. Diese Chance darf die Regierung nicht vertun.
 
 Die Bundesregierung ist vor zwei Jahren mit einem ambitionierten und vielfach gelobten digitalpolitischen Programm angetreten, das einen Kurswechsel und eine erfolgreichere, nachhaltige, inklusive Digitalisierung versprach. Zur Hälfte der Wahlperiode lässt dieser Kurswechsel leider weiter auf sich warten. Die Ampel hat bisher nur wenige Projekte vorangebracht und plant im Haushalt für das kommende Jahr sogar schmerzliche Einsparungen bei den Digitalprojekten. Damit droht am Ende der Legislatur ein digitalpolitisches Scheitern und ein langfristiger Schaden für Gesellschaft und Wirtschaft.
@@ -55,6 +56,7 @@ Fast nirgendwo versprach der Koalitionsvertrag einen deutlicheren Perspektivwech
 Eine „Kultur der Zusammenarbeit etablieren“, welche die Zivilgesellschaft besser in digitalpolitische Vorhaben einbezieht — so sieht es der Koalitionsvertrag vor. Auch wenn einzelne Schritte zu erkennen sind, von einem echten Neustart in der Zusammenarbeit mit der Zivilgesellschaft kann nicht die Rede sein. Dazu braucht es mehr Repräsentanz der Zivilgesellschaft in Gremien, Runden und Entscheidungsfindungsprozessen. Ein Weg dahin könnten beispielsweise die Quotierung in Ausschuss-Anhörungen und das Aufsetzen von neuen ko-kreativen Projekten zwischen den Sektoren sein.
 
 Die selbst ernannte Fortschrittskoalition hat es bislang versäumt, diesen Titel mit Leben zu füllen. Der Fortschritt nach rund der Hälfte der Legislatur lässt am Umsetzungswillen und der Priorität für die vielen wichtigen digitalpolitischen Vorhaben zweifeln. Den schönen Worten müssen nun endlich Taten folgen! 
+
 
 
 Eine Übersicht aller beteiligten Organisationen findet sich auf der Webseite der Free Software Foundation Europe [unter diesem Link](https://fsfe.org/news/2023/news-20230829-01.de.html). 
