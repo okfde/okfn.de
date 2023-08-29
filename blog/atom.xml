@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-07-12T00:00:00+0000</updated>
+  <updated>2023-08-29T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Halbzeit für die Ampel: Danke für die schönen Worte, lasst endlich Taten sprechen!</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/08/halbzeitkritik-ampel/"/>
+    <id>https://okfn.de/blog/2023/08/halbzeitkritik-ampel/</id>
+    <published>2023-08-29T00:00:00+0000</published>
+    <updated>2023-08-29T00:00:00+0000</updated>
+    <summary>Pressemitteilung
+Die Free Software Foundation Europe (FSFE) fordert mit einem Bündnis aus Zivilgesellschaft und Freie-Software-Wirtschaft die Bundesregierung auf, eine nachhaltige und soziale Digitalpolitik umzusetzen und im Bundeshaushalt jetzt die nötigen Mittel bereitzustellen.
+Die Open Knowledge Foundation Deutschland zieht eine negative Halbzeitbilanz für die Digitalpolitik der Bundesregierung und fordert gemeinsam mit 20 Akteur:innen aus der Zivilgesellschaft und Freie-Software-Wirtschaft: Die Bundesregierung und die Koalitionsfraktionen im Bundestag müssen jetzt dringend ihre digitalpolitischen Versprechen aus dem Koalitionsvertrag umsetzen.</summary>
+  </entry>
   
   <entry>
     <title>Die OKF hat eine Whistleblowing Policy eingeführt, um Hinweisgebende besser zu schützen</title>
@@ -148,16 +159,6 @@ Wenn du auf dem Laufenden gehalten werden möchtest, dann melde dich an.</summar
     <updated>2022-12-05T00:00:00+0000</updated>
     <summary>Digitales Ehrenamt bei der OKF Der Internationale Tag des Ehrenamts dient dazu, diejenigen in unserer Gesellschaft zu ehren, die Dienst an ihr tun. Einige von ihnen werden stellvertretend für alle und auf Grund ihres herausragenden Engagements sogar mit einem Bundesverdienstkreuz ausgezeichnet.
 Ehrenamtliche findet man in allen Gesellschaftsbereichen: Sie trainieren Kinder in Sportvereinen, versorgen kranke Menschen, arbeiten als freiwillige Feuerwehrleute, retten Leben bei der DLRG, arbeiten im Katastrophenschutz oder engagieren sich für eine plurale und demokratische Gesellschaft; Sie lesen vor, verteilen essen, hören zu, erklären, helfen, kurz gesagt: Sie halten den Laden am Laufen.</summary>
-  </entry>
-  
-  <entry>
-    <title>Innovation geht nicht ohne Offenheit &amp; Partizipation</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/11/f5-stellungnahme-zukunftsstrategie/"/>
-    <id>https://okfn.de/blog/2022/11/f5-stellungnahme-zukunftsstrategie/</id>
-    <published>2022-11-18T00:00:00+0000</published>
-    <updated>2022-11-18T00:00:00+0000</updated>
-    <summary>Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht. Die derzeit von der Bundesregierung ressortübergreifend entwickelte Zukunftsstrategie Forschung und Innovation ist jedoch zu stark auf wirtschaftlichen Erfolg fokussiert. Hier muss nachgebessert werden.
-Im Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) haben wir im Rahmen der Online-Konsultation des Bundesministeriums für Bildung und Forschung (BMBF) eine Stellungnahme auf die vorgegebenen Fragen zur „Zukunftsstrategie Forschung und Innovation“ abgegeben.</summary>
   </entry>
   
 </feed>

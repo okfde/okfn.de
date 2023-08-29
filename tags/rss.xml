@@ -6,7 +6,25 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pressemitteilung</title>
+      <link>https://okfn.de/tags/pressemitteilung/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/pressemitteilung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zivilgesellschaft</title>
+      <link>https://okfn.de/tags/zivilgesellschaft/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/tags/zivilgesellschaft/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Hinweisgeberschutz</title>
       <link>https://okfn.de/tags/hinweisgeberschutz/</link>
@@ -22,15 +40,6 @@
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/whistleblowing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zivilgesellschaft</title>
-      <link>https://okfn.de/tags/zivilgesellschaft/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/zivilgesellschaft/</guid>
       <description></description>
     </item>
     
@@ -1777,15 +1786,6 @@
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://okfn.de/tags/deutschland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pressemitteilung</title>
-      <link>https://okfn.de/tags/pressemitteilung/</link>
-      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/tags/pressemitteilung/</guid>
       <description></description>
     </item>
     

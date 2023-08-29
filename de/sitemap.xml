@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,17 +268,17 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2023/07/whistleblowingpolicy/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/christina-willems/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/08/halbzeitkritik-ampel/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/hinweisgeberschutz/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -290,8 +290,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/pressemitteilung/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -303,10 +306,16 @@
                 href="https://okfn.de/tags/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/whistleblowing/</loc>
+    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/07/whistleblowingpolicy/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
+    <loc>https://okfn.de/tags/hinweisgeberschutz/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/whistleblowing/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/07/pm-dsc/</loc>
@@ -371,9 +380,6 @@
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/buendnisf5/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/christina-willems/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/digitalesehrenamt/</loc>
@@ -1917,9 +1923,6 @@
     <lastmod>2017-01-26T07:30:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2017/01/odgesetz-pm/</loc>
-    <lastmod>2017-01-26T07:30:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/pressemitteilung/</loc>
     <lastmod>2017-01-26T07:30:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2017/01/verstaerkung-2030watch/</loc>
