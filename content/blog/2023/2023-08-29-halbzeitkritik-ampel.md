@@ -11,7 +11,7 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Halbzeit für die Ampel: Danke für die schönen Worte, lasst endlich Taten sprechen!"
 ---
