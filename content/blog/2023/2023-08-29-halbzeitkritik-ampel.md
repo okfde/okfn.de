@@ -4,7 +4,7 @@ authors:
 - Henriette Litta
 date: 2023-08-29
 image:
-  src: /files/blog/2023/Sanduhr_PM_Halbzeitkritik Ampel.jpg
+  src: /files/blog/2023/Sanduhr_PM_Halbzeitkritik Ampel.klein.jpg
   title: Halb abgelaufene Sanduhr 
 tags:
 - Pressemitteilung
