@@ -37,7 +37,7 @@ Auch nach zwei Jahren Regierungszeit liegt noch keine Datenstrategie der Bundesr
 
 **Open Source weiter stärken: Potenziale offener technischer Systeme für mehr Nachhaltigkeit nutzen**
 
-Mit der Umsetzung des Sovereign Tech Fund ist der Bundesregierung ein großer Erfolg gelungen. Das Förderprogramm leistet schon jetzt einen wichtigen Beitrag für resilientere IT-Infrastruktur. Jetzt gilt es daran anzuknüpfen und Open Source Software weiter zu stärken. Das im  Koalitionsvertrag genannte Versprechen, öffentliche IT-Projekte als Open Source zu beauftragen, muss sich auch im Vergaberecht niederschlagen. Hier sollte die Maxime „Public Money, Public Code“ gelten. Darüber hinaus sollte sich die Bundesregierung stärker für offene Standards auch in den internationalen Standardisierungsgremien einsetzen, um die vielfältigen Potenziale, die durch offene technische Systeme entstehen können, besser zu nutzen.  
+Mit der Umsetzung des [Sovereign Tech Fund](https://sovereigntechfund.de/de/) ist der Bundesregierung ein großer Erfolg gelungen. Das Förderprogramm leistet schon jetzt einen wichtigen Beitrag für resilientere IT-Infrastruktur. Jetzt gilt es daran anzuknüpfen und Open Source Software weiter zu stärken. Das im  Koalitionsvertrag genannte Versprechen, öffentliche IT-Projekte als Open Source zu beauftragen, muss sich auch im Vergaberecht niederschlagen. Hier sollte die Maxime „Public Money, Public Code“ gelten. Darüber hinaus sollte sich die Bundesregierung stärker für offene Standards auch in den internationalen Standardisierungsgremien einsetzen, um die vielfältigen Potenziale, die durch offene technische Systeme entstehen können, besser zu nutzen.  
 
 **Förderung von Open Source Hardware ist der konsequente nächste Schritt**
 
