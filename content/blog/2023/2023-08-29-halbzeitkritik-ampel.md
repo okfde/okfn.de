@@ -18,7 +18,7 @@ title: "Halbzeit für die Ampel: Danke für die schönen Worte, lasst endlich Ta
 
 **Pressemitteilung**
 
-**Zivilgesellschaftliche Organisationen und Freie-Software-Wirtschaft fordern die Bundesregierung auf, eine nachhaltige und soziale Digitalpolitik umzusetzen und im Bundeshaushalt jetzt die nötigen Mittel bereitzustellenn.**
+**Zivilgesellschaftliche Organisationen und Freie-Software-Wirtschaft fordern die Bundesregierung auf, eine nachhaltige und soziale Digitalpolitik umzusetzen und im Bundeshaushalt jetzt die nötigen Mittel bereitzustellen.**
 
 
 Die Open Knowledge Foundation Deutschland zieht eine negative Halbzeitbilanz für die Digitalpolitik der Bundesregierung und fordert gemeinsam mit 20 Akteur:innen aus der Zivilgesellschaft und Freie-Software-Wirtschaft: Die Bundesregierung und die Koalitionsfraktionen im Bundestag müssen jetzt dringend ihre digitalpolitischen Versprechen aus dem Koalitionsvertrag umsetzen. Dafür müssen sie im Haushalt 2024 ausreichend Mittel bereitstellen. Zudem muss die Zivilgesellschaft stärker in Entscheidungsprozesse eingebunden werden. Es gibt in dieser Legislatur noch ein kurzes Zeitfenster dafür, Deutschland auf einen nachhaltigen, inklusiven und sozialen digitalpolitischen Kurs zu lenken. Diese Chance darf die Regierung nicht vertun.
