@@ -12,7 +12,7 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Stellungnahme des Bündnis F5 zur Datenstrategie der Bundesregierung"
 ---
