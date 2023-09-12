@@ -242,18 +242,7 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
+    <loc>https://okfn.de/blog/2023/09/stn-datenstrategie/</loc>
   </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
@@ -268,15 +257,6 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/christina-willems/</loc>
-    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2023/08/halbzeitkritik-ampel/</loc>
-    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -289,6 +269,28 @@
                 hreflang="de"
                 href="https://okfn.de/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/christina-willems/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/08/halbzeitkritik-ampel/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/pressemitteilung/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
