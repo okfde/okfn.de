@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-08-29T00:00:00+0000</updated>
+  <updated>2023-09-12T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Stellungnahme des Bündnis F5 zur Datenstrategie der Bundesregierung</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/09/stn-datenstrategie/"/>
+    <id>https://okfn.de/blog/2023/09/stn-datenstrategie/</id>
+    <published>2023-09-12T00:00:00+0000</published>
+    <updated>2023-09-12T00:00:00+0000</updated>
+    <summary>„Fortschritt durch Datennutzung“ – so lautet die Weiterentwicklung der Datenstrategie von 2021, die zur Mitte der Legislatur veröffentlicht wurde. Es ist deutlich erkennbar, dass die Bedeutung der Datenpolitik nun stärker als gesamtgesellschaftliches Thema begriffen wird. Dennoch verharrt das Dokument im üblichen Modus der zusammengeschusterten Strategiepapiere als Sammelsurium verschiedener bekannter Ansätze und Einzelmaßnahmen; ein Gesamtrahmen mit klaren Governance-Strukturen, Rollen und Prozessen sowie einer soliden Dateninfrastruktur für eine planvolle und effektive Umsetzung der bereits beschlossenen Maßnahmen fehlt weiterhin.</summary>
+  </entry>
   
   <entry>
     <title>Halbzeit für die Ampel: Danke für die schönen Worte, lasst endlich Taten sprechen!</title>
@@ -149,16 +158,6 @@ Wenn du auf dem Laufenden gehalten werden möchtest, dann melde dich an.</summar
     <published>2022-12-09T00:00:00+0000</published>
     <updated>2022-12-09T00:00:00+0000</updated>
     <summary>Heute endet der Digital-Gipfel der Bundesregierung. Titel: „Digitalisierung betrifft uns alle – Unternehmen wie Bürgerinnen und Bürger, Wissenschaft wie Gesellschaft.“ Doch „die Gesellschaft“ spricht gar nicht mit. Schon bei der Digitalstrategie war es ein Problem, dass die Zivilgesellschaft nicht eingebunden war. Die Ampel gelobte, alles besser zu machen. Der Digital-Gipfel zeigt, dass das ein Lippenbekenntnis war. Die Regierung behandelt die digitalpolitische Zivilgesellschaft wie es die GroKo tat: Gerne mal reden – aber strukturelle Einbindung, gleichberechtigte Teilnahme, Mitgestaltung?</summary>
-  </entry>
-  
-  <entry>
-    <title>Digitales Ehrenamt bei der OKF</title>
-    <link rel="alternate" href="https://okfn.de/blog/2022/12/digitales-ehrenamt-bei-der-okf/"/>
-    <id>https://okfn.de/blog/2022/12/digitales-ehrenamt-bei-der-okf/</id>
-    <published>2022-12-05T00:00:00+0000</published>
-    <updated>2022-12-05T00:00:00+0000</updated>
-    <summary>Digitales Ehrenamt bei der OKF Der Internationale Tag des Ehrenamts dient dazu, diejenigen in unserer Gesellschaft zu ehren, die Dienst an ihr tun. Einige von ihnen werden stellvertretend für alle und auf Grund ihres herausragenden Engagements sogar mit einem Bundesverdienstkreuz ausgezeichnet.
-Ehrenamtliche findet man in allen Gesellschaftsbereichen: Sie trainieren Kinder in Sportvereinen, versorgen kranke Menschen, arbeiten als freiwillige Feuerwehrleute, retten Leben bei der DLRG, arbeiten im Katastrophenschutz oder engagieren sich für eine plurale und demokratische Gesellschaft; Sie lesen vor, verteilen essen, hören zu, erklären, helfen, kurz gesagt: Sie halten den Laden am Laufen.</summary>
   </entry>
   
 </feed>
