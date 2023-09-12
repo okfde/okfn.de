@@ -3,8 +3,9 @@ authors:
 - Henriette Litta
 date: 2023-09-13
 image:
-  src: /files/blog/2020/03/data-joshua-sortino-unsplash.jpg
-  title: Photo by Joshua Sortino on Unsplash
+  src: /files/blog/2023/humphrey-muleba-L4jb3ubqsmM-unsplash.png
+  title: Foto von Humphrey Muleba auf Unsplash
+  
 tags:
 - Global Digital Compact
 - UN
