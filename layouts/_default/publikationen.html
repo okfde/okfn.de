@@ -1,0 +1,36 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ with .Params.img_header }}
+<meta property="og:image" content="{{ . }}" />{{ end }}
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <section class='container l__publications'>
+    <div class="row">
+      <h1 class="col col-12 col-sm-10">{{ if .Params.blurb }}{{.Params.blurb}}{{ else }}{{.Title}}{{ end }}</h1>
+      
+      <!-- <div class="col col-12 col-lg-9 col-xl-8 mb-d mt-s">
+        {{- partial "projects/filter" . -}}
+      </div> -->
+     
+      <div class="container l__content ">
+
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}

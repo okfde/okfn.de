@@ -1,0 +1,145 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+{{with .Params.subtitle }}<meta description="{{.}}">{{ end }}
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content='/files/{{ trim .Params.img_header "/"}}' />
+{{with .Params.subtitle}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <article class="l__project">
+    <div class="container">
+      <div class="row">
+        <h1 class="col col-12 col-md-10 offset-md-1">{{ .Title }}</h1>
+        {{ with .Params.subtitle }}
+        <p class="l__project__subtitle col col-12 col-md-10 offset-md-1">{{.}}</p>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ if .Params.img_header }}
+    <div class="container l__project__headerimg">
+      <div class="row">
+        <div class="col col-12">
+          <figure class="license">
+            <img src="/files/{{.Params.img_header}}" alt="">
+            {{ with .Params.img_license }}<figcaption>{{ . }}</figcaption>{{ end }}
+          </figure>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    <div class="container">
+      <div class="row">
+        <aside class="order-2 col col-12 col-sm-10 col-md-3 col-lg-2 offset-lg-1">
+          {{ with .Params.years }}
+          <p><span class="bold">{{ i18n "project_year" }}</span><br>{{ . }}</p>
+          {{ end }}
+          {{ with .Params.people }}
+          <p><span class="bold">Team</span><br>
+            <!--{{ len . }} {{ i18n "project_person" }} <button>+</button>-->
+            {{ range . }}
+            {{ .name }}<br>
+            {{ end }}
+          </p>
+          {{ end }}
+          {{ with .Params.partners }}<p><span class="bold">Partner</span><br>
+            {{ range . }}
+            {{ . }}<br>
+            {{ end }}
+          </p>{{ end }}
+
+          {{ with .Params.financing }}
+          <p><span class="bold">{{ i18n "project_financing" }}</span><br>
+            {{ range $k, $v := . }}{{ if ne $k 0 }},{{ end }} {{ . }}{{ end }}
+          </p>
+          {{ end }}
+
+          {{ with .Params.website}}
+          <p><span class="bold">Website</span><br><a href="{{.}}" class="linked">{{ strings.TrimPrefix "https://" . }} {{ readFile "static/files/icons/arrow_up.svg" | safeHTML }}</a></p>
+          {{ end }}
+
+          {{ with .Params.contact}}
+            {{ with .twitter }}
+            <p><span class="bold">Twitter</span><br><a href="https://twitter.com/{{.}}">@{{.}}</a></p>
+            {{ end }}
+            {{ with .instagram }}
+            <p><span class="bold">Instagram</span><br><a href="https://instagram.com/{{.}}">{{.}}</a></p>
+            {{ end }}
+            {{ with .mastodon }}
+            <p><span class="bold">Mastodon</span><br><a href="https://{{.server}}/@{{.handle}}">@{{.handle}}</a></p>
+            {{ end }}
+            {{ with .facebook }}
+            {{$fb := replaceRE "http(s)?://(www.)?facebook.com/([^/]+)" "$3" . }}
+            <p><span class="bold">Facebook</span><br><a href="{{.}}">{{ $fb }}</a></p>
+            {{ end }}
+            {{ with .github}}
+            {{ $gh := replaceRE "https://github.com/([^/]+)" "$1" .}}
+            <p><span class="bold">GitHub</span><br><a href="{{.}}">{{ $gh }}</a></p>
+            {{ end }}
+          {{ end }}
+        </aside>
+
+        <div class="l__project__content l__content col col-12 col-sm-10 col-md-8 offset-md-2 col-lg-7">
+          {{ .Content }}
+        </div>
+
+      </div>
+    </div>
+    <aside class="l__project__aside container">
+      <div class="row">
+        {{ if isset .Params "cta"}}
+        <section class="col col-12 col-md-6">
+          {{ with .Params.cta}}<h2 class="h3">{{ . }}</h2>{{ end }}
+          {{ with .Params.cta_text}}<p>{{ . | markdownify }}</p>{{ end }}
+        </section>
+        {{ end }}
+
+        {{ if isset .Params "contact_person" }}
+        {{ if isset .Params "cta" }}
+        <section class="col col-12 col-md-6">
+          {{ else }}
+          <section class="col col-12 col-md-6 offset-md-3">
+            {{ end }}
+
+            {{ $lang := .Page.Lang}}
+            <h2 class="h3">{{ i18n "project_more"}}</h2>
+            {{ with .Params.more_text}}<p>{{ . | markdownify }}</p>{{ end }}
+            {{ $alternate := .Params.contact_alternate_email }}
+            {{ with .Params.contact_person }}
+            <div class="row l__project__contact align-items-center">
+              {{ range where $.Site.Data.team "img" "==" .}}
+              <div class="col col-4 col-lg-3">
+                <img src="/team/{{.img}}_square.jpg" alt="">
+              </div>
+              <div class="col col-8 col-lg-9">
+                <p>{{.name}}<br>
+                  {{ if eq $lang "en"}}
+                  {{ .position_en }}
+                  {{ else }}
+                  {{ .position }}
+                  {{ end }}</p>
+                <p><a href="mailto:{{ if $alternate}}{{$alternate}}{{else}}{{.mail}}{{end}}">Mail</a></p>
+              </div>
+            </div>
+            {{ end }}
+            {{ end }}
+          </section>
+          {{ end }}
+      </div>
+    </aside>
+  </article>
+</main>
+{{ end }}
