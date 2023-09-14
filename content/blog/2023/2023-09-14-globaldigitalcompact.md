@@ -1,7 +1,7 @@
 ---
 authors:
 - Henriette Litta
-date: 2023-09-13
+date: 2023-09-14
 image:
   src: /files/blog/2023/humphrey-muleba-L4jb3ubqsmM-unsplash.png
   title: Foto von Humphrey Muleba auf Unsplash
@@ -17,7 +17,7 @@ featured: yellow
 title: "Beim Global Digital Compact braucht es eine stärkere Stimme der Zivilgesellschaft"
 ---
 
-**Die Vereinten Nationen befassen sich im Rahmen des [Global Digital Compact](https://www.un.org/techenvoy/global-digital-compact) (GDC) mit der Gestaltung der digitalen Zukunft im globalen Rahmen. Hierzu hatte der UN-Generalsekretär im Mai 2023 einen [Policy Brief](https://indonesia.un.org/sites/default/files/2023-07/our-common-agenda-policy-brief-gobal-digi-compact-en.pdf) vorgelegt. Die Regierungen verorten derzeit ihre Positionen dazu und sollten dabei insbesondere auch die Stimmen aus der Zivilgesellschaft hören. Auf dem heutigen [Internet Governance Forum Deutschland](https://www.igf-d.de/igf-d-2023/) bietet sich dafür eine gute Gelegenheit. Über die letzten Wochen hat sich die Open Knowledge Foundation im Rahmen eines Bündnisses aus zivilgesellschaftlichen Organisationen (auf Initiative von Wikimedia Deutschland) den Policy Brief genauer angeschaut und Vorschläge für wünschenswerte Anpassungen gemacht.**
+**Die Vereinten Nationen befassen sich im Rahmen des [Global Digital Compact](https://www.un.org/techenvoy/global-digital-compact) (GDC) mit der Gestaltung der digitalen Zukunft im globalen Rahmen. Hierzu hatte der UN-Generalsekretär im Mai 2023 einen [Policy Brief](https://indonesia.un.org/sites/default/files/2023-07/our-common-agenda-policy-brief-gobal-digi-compact-en.pdf) vorgelegt. Die Regierungen verorten derzeit ihre Positionen dazu und sollten dabei insbesondere auch die Stimmen aus der Zivilgesellschaft hören. Auf dem gestrigen [Internet Governance Forum Deutschland](https://www.igf-d.de/igf-d-2023/) bot sich dafür eine gute Gelegenheit. Über die letzten Wochen hat sich die Open Knowledge Foundation im Rahmen eines Bündnisses aus zivilgesellschaftlichen Organisationen (auf Initiative von Wikimedia Deutschland) den Policy Brief genauer angeschaut und Vorschläge für wünschenswerte Anpassungen gemacht.**
 
 ### Die folgenden wichtigen Punkte sollten bei den weiteren Verhandlungen im Fokus stehen: ###
 
@@ -45,4 +45,4 @@ title: "Beim Global Digital Compact braucht es eine stärkere Stimme der Zivilge
 
 Die beteiligten Organisationen der digitalen Zivilgesellschaft bieten an, im weiteren Prozess zur Vor- und Nachbereitung des Global Digital Compact und des Summit of the Future 2024 ein regelmäßiges Austauschformat zwischen der digitalen Zivilgesellschaft und der Bundesregierung zu schaffen, bei dem die hier angeführten Themen vertieft werden können. Ein offener Austausch über Perspektiven und die Umsetzungsmöglichkeiten der Vorschläge im Policy Paper und die weiteren Verhandlungspositionen zum GDC schärft nicht nur das gemeinsame Verständnis, sondern stärkt im besten Fall die deutsche Position und die Inhalte des GDC nachhaltig.
 
-Das Positionspapier der zivilgesellschaftlichen Organisationen sowie die Liste der beteiligten Personen ist [hier](https://github.com/okfde/okfn.de/blob/master/static/files/blog/2023/Positionspapier_digZG_zum_GDC.pdf) zu finden.
+Das gesamte Positionspapier der zivilgesellschaftlichen Organisationen sowie die Liste der beteiligten Personen ist [hier](https://github.com/okfde/okfn.de/blob/master/static/files/blog/2023/Positionspapier_digZG_zum_GDC.pdf) zu finden.
