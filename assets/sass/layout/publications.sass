@@ -1,0 +1,69 @@
+.l__publication
+  time
+    font-weight: 500
+
+.l__publication__box
+  border-left: .9rem solid #6366F1
+  padding-left: 1.75rem
+  & hr 
+    max-width: 10%
+    margin-left: 0
+  @include media-breakpoint-down(md)
+    border-left: .5rem solid #6366F1
+    padding-left: 1rem
+
+.l__publication__title
+  font-size: 2.5rem
+  font-weight: 700
+  & a
+    color: $black
+
+.l__publication__subtitle
+  font-size: 1.25rem  
+  font-weight: 500
+
+.l__publication__summary
+  font-weight: 400
+  font-size: 1.15rem !important
+
+.l__publication__category
+  color: #312E81
+  background-color: #EEF2FF
+  padding: $space/4 $space/3 
+  border-radius: 1rem
+  text-transform: uppercase
+  font-weight: 500
+
+.l__publication__download
+  display: flex
+  color: $white
+  background-color: #4F46E5
+  font-weight: 600
+  padding: $space/4 $space/2
+  border-radius: .5rem
+  align-items: center
+  &:hover
+    text-decoration: none
+  span
+    display: flex
+    align-items: center
+
+.l__publication__rss
+  display: flex
+  color: #344054
+  background-color: transparent
+  font-weight: 600
+  padding: $space/4 $space/2
+  border: 1px solid #E6E6E6
+  border-radius: .5rem
+  align-items: center
+  &:hover
+    text-decoration: none
+  span
+    display: flex
+    align-items: center
+
+.l__publication__subtitle
+  margin-bottom: $space /2
+  font-size: 1.7rem
+  color: $primary

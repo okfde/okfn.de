@@ -27,8 +27,22 @@
         {{- partial "projects/filter" . -}}
       </div> -->
      
-      <div class="container l__content ">
-
+      <div class="container l__content my-5">
+        {{ range where .Site.RegularPages "Type" "publikationen" }}
+        <article class="l__publication__box col-lg-9 col-md-10 col-12">
+            <time class="mr-3" datetime="{{ .Page.Date.Format "2 January 2006" }}">{{ .Page.Date.Format "2 January 2006" | upper }}</time>
+            <span class="l__publication__category">{{ .Page.Params.kategorien }}</span>
+            <h1 class="l__publication__title mb-1 mt-4"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <p class="l__publication__subtitle my-0">{{ .Params.subtitle }}</p>
+            <p class="l__publication__summary mb-0 mt-2">{{ .Summary | truncate 160 }}</p>
+            <hr>
+            {{ with .Params.people }}
+            {{ range . }}
+            <span class="mr-4">{{ .name }}</span>
+            {{ end }}
+            {{ end }}
+          </article>
+      {{ end }}
       </div>
     </div>
   </section>
