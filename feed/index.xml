@@ -5,10 +5,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Beim Global Digital Compact braucht es eine stärkere Stimme der Zivilgesellschaft</title>
+      <link>https://okfn.de/blog/2023/09/globaldigitalcompact/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2023/09/globaldigitalcompact/</guid>
+      <description>Die Vereinten Nationen befassen sich im Rahmen des Global Digital Compact (GDC) mit der Gestaltung der digitalen Zukunft im globalen Rahmen. Hierzu hatte der UN-Generalsekretär im Mai 2023 einen Policy Brief vorgelegt. Die Regierungen verorten derzeit ihre Positionen dazu und sollten dabei insbesondere auch die Stimmen aus der Zivilgesellschaft hören. Über die letzten Wochen hatte sich die Open Knowledge Foundation im Rahmen eines Bündnisses aus zivilgesellschaftlichen Organisationen (auf Initiative von Wikimedia Deutschland) den Policy Brief genauer angeschaut und Vorschläge für wünschenswerte Anpassungen gemacht.</description>
+    </item>
     
     <item>
       <title>Stellungnahme des Bündnis F5 zur Datenstrategie der Bundesregierung</title>
