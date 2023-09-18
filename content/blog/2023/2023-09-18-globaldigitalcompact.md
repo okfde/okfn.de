@@ -30,7 +30,7 @@ title: "Beim Global Digital Compact braucht es eine stärkere Stimme der Zivilge
 7.	Nachhaltigkeit und die Umsetzung der 2030-Agenda sollten im gesamten GDC sichtbares Leitmotiv sein, nicht nur in einzelnen Unterkapiteln.
 8.	Digitalisierung ist weit mehr als der isolierte Blick auf Künstliche Intelligenz.
 
-### Neben der dringenden Berücksichtigung der oben aufgeführten Punkten in den Verhandlungen, sollte die Bundesregierung sich darüber hinaus dafür einsetzen, dass:### 
+### Neben der dringenden Berücksichtigung der oben aufgeführten Punkten in den Verhandlungen, sollte die Bundesregierung sich darüber hinaus dafür einsetzen, dass: 
 
 - die Welt ein freies, offenes, demokratisches, interoperables, verlässliches und sicheres Internet erhält und jegliche Regulierung oder Praxis vermieden wird, die zu einer Zersplitterung beiträgt,
 - digitale Innovationen dem Gemeinwohl dienen und das Risiko von Marktkonzentration senken,
