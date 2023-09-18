@@ -12,7 +12,7 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Beim Global Digital Compact braucht es eine stärkere Stimme der Zivilgesellschaft"
 ---
