@@ -1395,7 +1395,7 @@
 
 - name: Felizitas Fauther
   img: felizitasfauther
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Studentische Mitarbeiterin bei Prototype Fund
@@ -1406,15 +1406,15 @@
 
 - name: Joram Schwartzmann
   img: joramschwartzmann
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Kommunikation im Prototype Fund
   position_en: Communication officer at Prototype Fund
   bio: Joram arbeitet in der Kommunikation des Prototype Funds. Er produziert Texte und Audio und hilft bei der Event-Orga. Joram hat mal in der Proteinbiochemie von Pflanzen geforscht und ist heute leidenschaftlicher Podcaster und Wissenschaftskommunikator.
   bio_en: Joram works as a communication officer at Prototype Fund. He creates text and audio and helps with organizing events. Joram used to research plant protein biochemistry and is now an avid podcast and science communicator.
-  mail: joram.schwartzmann@okfn.de
-  twitter: sciencejoram
+  mail: joram@schwartzmann.de
+  twitter: 
   website: https://joram.schwartzmann.de
 
 - name: Christina Willems
