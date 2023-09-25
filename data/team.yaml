@@ -765,6 +765,18 @@
   website: https://stefanwehrmeyer.com
   github: stefanw
 
+- name: Denis Witt
+  img: unknown
+  staff: 1
+  volunteer: 0
+  board: 0
+  advisory: 0
+  position: SysAdmin bei FragDenStaat
+  position_en: SysAdmin at FragDenStaat
+  bio: "Denis ist seit Ende 2023 Systemadministrator bei FragDenStaat, zuvor hat er fast 20 Jahre in der betrieblichen Aus- und Weiterbildung gearbeitet und Serverumgebungen für den Betrieb von OpenSource-Lernplattformen konzipiert und betreut."
+  bio_en: "Denis is a system administrator at FragDenStaat since the end of 2023. Previously he worked in corporate education and training for almost 20 years, designing and managing server environments for OpenSource learning platforms."
+  mail: denis.witt@okfn.de
+
 - name: Lucy Chambers
   img: lucychambers
   staff: 0
