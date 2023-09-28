@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-09-21T00:00:00+0000</updated>
+  <updated>2023-09-28T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Initiativstellungnahme zur Änderung des Brandenburgischen E-Government-Gesetzes</title>
+    <link rel="alternate" href="https://okfn.de/blog/2023/09/stn-egovgbb/"/>
+    <id>https://okfn.de/blog/2023/09/stn-egovgbb/</id>
+    <published>2023-09-28T00:00:00+0000</published>
+    <updated>2023-09-28T00:00:00+0000</updated>
+    <summary>Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.
+Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Versäumnisse ein, die bei der Einführung des E-Government-Gesetzes entstanden sind. So werden beispielsweise Anforderungen an die Bereitstellung von offenen Daten definiert. In der beigefügten Begründung wird die Förderung von Open Data explizit als Ziel genannt.</summary>
+  </entry>
   
   <entry>
     <title>Mehr Gestaltungswillen für die Kreislaufwirtschaftsstrategie</title>
@@ -147,16 +157,6 @@ Wie an vielen anderen Stellen demokratischer Willensbildung und gemeinschaftlich
     <updated>2023-02-09T00:00:00+0000</updated>
     <summary>Im ersten Jahr ihrer Regierungstätigkeit hat die Koalition im Berliner Abgeordnetenhaus im Digitalbereich vor allem an der Theorie gearbeitet – aber in der Praxis Forderungen der Zivilgesellschaft weiter ignoriert. Eine fortbestehende oder umgebildete Regierung muss in der restlichen Legislaturperiode zum Handeln übergehen.
 Ende Januar wurde mit Gemeinsam Digital: Berlin eine umfassende digitale Vision für die Hauptstadt vorgestellt, die alle Aspekte der digitalen Transformation von Stadt und Verwaltung umfasst. Treibende politische Kraft ist Berlins Chief Digital Officer Ralf Kleindiek, der in Personalunion Staatssekretär im Innensenat und CDO in der Senatskanzlei ist.</summary>
-  </entry>
-  
-  <entry>
-    <title>Prototype Fund: Jetzt bewerben für Runde 14</title>
-    <link rel="alternate" href="https://okfn.de/blog/2023/02/ptf-bewerbungsphase-runde-14/"/>
-    <id>https://okfn.de/blog/2023/02/ptf-bewerbungsphase-runde-14/</id>
-    <published>2023-02-01T00:00:00+0000</published>
-    <updated>2023-02-01T00:00:00+0000</updated>
-    <summary>Seit dem 1. Februar 2023 könnt ihr eure Public-Interest-Tech-Ideen für die 14. Förderphase des Prototype Fund einreichen. Wenn eure Projektidee überzeugt, könnt ihr ab dem 1. September 2023 mit den anderen Prototyp-Entwickler*innen in die Förderung starten.
-Der Prototype Fund sucht nach innovativen Open-Source-Softwareprojekten mit gesellschaftlichem Mehrwert, die bottom-up und in engem Austausch mit der Zielgruppe entwickelt werden. Das Bundesministerium für Bildung und Forschung entscheidet über die Förderung der von unserer Jury vorgeschlagenen Projekte.</summary>
   </entry>
   
 </feed>

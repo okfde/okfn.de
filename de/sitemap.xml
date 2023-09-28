@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -253,6 +253,66 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/brandenburg/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/e-government-gesetz/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2023/09/stn-egovgbb/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/jobs/ptf-programmmanagement/</loc>
@@ -271,34 +331,8 @@
                 href="https://okfn.de/jobs/"
                 />
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/authors/patricia-leu/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/circular-society/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
@@ -318,26 +352,10 @@
     <loc>https://okfn.de/tags/open-hardware/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
-  </url><url>
     <loc>https://okfn.de/blog/2023/09/globaldigitalcompact/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/global-digital-compact/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/un/</loc>
@@ -350,9 +368,6 @@
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/datenstrategie/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-data/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/09/stn-datenstrategie/</loc>
@@ -400,9 +415,6 @@
     <loc>https://okfn.de/tags/community/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2023/06/open-data-knowledge-hub-launch/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -437,9 +449,6 @@
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/berlin/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/04/koavertrag-berlin/</loc>
@@ -3173,9 +3182,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2012/09/oercamp-freie-lehr-lernmittel/</loc>
     <lastmod>2012-09-19T07:44:46+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/brandenburg/</loc>
-    <lastmod>2012-09-06T14:21:42+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2012/09/open-data-nahverkehr-berlin-brandenburg-update-zum-status-quo-und-den-entwicklungen/</loc>
     <lastmod>2012-09-06T14:21:42+00:00</lastmod>
