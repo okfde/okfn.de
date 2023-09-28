@@ -1,17 +1,17 @@
 ---
 authors:
 - Dénes Jäger
+- Henriette Litta
 date: 2023-09-28
 image: 
   src: /files/blog/2023/StadtschlossPotsdam-blogBBEGOVG.jpg
-  title: Stadtschloss Potsdam - adapted from original picture by Andraszy
-  license: CC BY-SA 4.0
+  license: Stadtschloss Potsdam - adapted from original picture by Andraszy CC BY-SA 4.0
   license_url: https://upload.wikimedia.org/wikipedia/commons/4/43/Stadtschloss_Potsdam_von_der_Havelseite.jpg
 tags:
 - Digitalpolitik
 - Brandenburg
 - Open Data
-- E-Governmentgesetz
+- E-Government-Gesetz
 type: post
 layout: post
 published: true
@@ -19,7 +19,7 @@ featured: yellow
 title: "Initiativstellungnahme zur Änderung des Brandenburgischen E-Government-Gesetzes"
 ---
 
-**Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst. **
+**Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.**
 
 Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Versäumnisse ein, die bei der Einführung des E-Government-Gesetzes entstanden sind. So werden beispielsweise Anforderungen an die Bereitstellung von offenen Daten definiert. In der beigefügten Begründung wird die Förderung von Open Data explizit als Ziel genannt. Begrüßenswert ist zudem die geplante Einführung einer Informations- und Beratungsstelle, die Behörden bei Fragen rund um das Thema Open Data im Land Brandenburg unterstützen soll. 
 
