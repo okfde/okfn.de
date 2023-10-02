@@ -112,3 +112,7 @@
   translation: Download
 - id: publication_additional_links
   translation: Additional Links
+- id: publication_all_time
+  translation: All time
+- id: publication_all_categories
+  translation: All Publications
