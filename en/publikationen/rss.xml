@@ -1,0 +1,13 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Knowledge Foundation DE</title>
+    <link rel="self" href="https://okfn.de/en/publikationen/atom.xml"/>
+    <description>Publications on OKF DE</description>
+    
+    
+    
+        <atom:link href="https://okfn.de/en/publikationen/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
