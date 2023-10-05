@@ -1,0 +1,149 @@
+.l__publication
+  time
+    font-weight: 500
+
+.l__publication__box
+  border-left: .9rem solid #6366F1
+  padding-left: 1.75rem
+  margin-bottom: 2.5rem
+  display: none;
+  & hr 
+    max-width: 10%
+    margin-left: 0
+  @include media-breakpoint-down(md)
+    border-left: .5rem solid #6366F1
+    padding-left: 1rem
+
+.l__publication__title
+  font-size: 2.5rem
+  font-weight: 700
+  & a
+    color: $black
+
+.l__publication__subtitle
+  font-size: 1.25rem  
+  font-weight: 500
+
+.l__publication__summary
+  font-weight: 400
+  font-size: 1.15rem !important
+
+.l__publication__category
+  color: #312E81
+  background-color: #EEF2FF
+  padding: $space/4 $space/3 
+  border-radius: 1rem
+  text-transform: uppercase
+  font-weight: 500
+
+.l__publication__download
+  display: flex
+  color: $white
+  background-color: #4F46E5
+  font-weight: 600
+  padding: $space/4 $space/2
+  border-radius: .5rem
+  align-items: center
+  &:hover
+    text-decoration: none
+  span
+    display: flex
+    align-items: center
+
+.l__publication__rss
+  display: flex
+  color: #344054
+  background-color: transparent
+  font-weight: 600
+  padding: $space/4 $space/2
+  border: 1px solid #E6E6E6
+  border-radius: .5rem
+  align-items: center
+  &:hover
+    text-decoration: none
+  span
+    display: flex
+    align-items: center
+
+.l__publication__subtitle
+  margin-bottom: $space /2
+  font-size: 1.7rem
+  color: $primary
+
+.dropdown 
+	position: relative 
+	cursor: pointer
+	summary 
+		display: flex 
+		align-items: center 
+		justify-content: space-between 
+		font-weight: 500 
+		border-radius: 0.5rem 
+		border: 2px solid rgba(230, 230, 230, 1) 
+		padding: 0.5rem 1rem 
+		list-style: none 
+		list-style-type: none 
+		&:hover
+    border: 2px solid $greyish
+	ul 
+		position: absolute 
+		padding: 0 
+		width: 10rem 
+		box-sizing: border-box 
+		z-index: 2 
+		background: $white 
+		border: 2px solid rgba(230, 230, 230, 1) 
+		border-radius: 0.5rem 
+		list-style: none 
+		li 
+			padding: 0 
+			margin: 0 
+			& button
+        display: block 
+        width: 100% 
+        outline: none 
+        border: none 
+        background-color: transparent 
+        cursor: pointer 
+        padding: 0.75rem 1rem 
+        text-align: left 
+        font-size: 1rem
+        font-family: 'Apercu'
+			&:hover
+        background-color: $greyish  
+	.dropdown 
+		& > summary 
+			&::-webkit-details-marker 
+				display: none
+.dropdown 
+  summary 
+    &::after 
+      content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M233.4 406.6c12.5 12.5 32.8 12.5 45.3 0l192-192c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 338.7 86.6 169.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l192 192z'/%3E%3C/svg%3E") 
+      width: 1rem 
+      top: 3px 
+      right: -7px 
+      margin-right: .25rem 
+      position: relative 
+.visible 
+	opacity: 1 
+	display: block !important 
+.dropdown[open] 
+	& > summary 
+		&::after 
+			content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath d='M233.4 105.4c12.5-12.5 32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L256 173.3 86.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l192-192z'/%3E%3C/svg%3E") 
+			width: 1rem 
+			top: 2px 
+			right: -7px 
+			margin-right: .25rem 
+			position: relative 
+.categorized,
+.filtered 
+	font-weight: 600 
+#year-filter,
+#publication-filter 
+	display: inline-block 
+	&:not(:last-child)
+    margin-right: 1rem 
+.visible 
+	opacity: 1 
+	display: block !important

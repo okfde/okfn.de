@@ -14,11 +14,12 @@
         </button>
       </div>
       <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
-        {{ with .Site.GetPage "/anniversary" }}<li><a href="{{ .Permalink }}" class="l__nav-link--anniversary">{{ .Title }}</a></li>{{ end }}
-        {{ with .Site.GetPage "/profil" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        {{ with .Site.GetPage "/projekte" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        {{ with .Site.GetPage "/events" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        <li><a href="/blog">Blog</a></li>
+        {{ with .Site.GetPage "/anniversary" }}<li class="l__item"><a href="{{ .Permalink }}" class="l__nav-link--anniversary">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/profil" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/projekte" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/publikationen" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        {{ with .Site.GetPage "/events" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+        <li class="l__item"><a href="/blog">Blog</a></li>
 
         {{ $langList := (.Page.AllTranslations) }}
         {{ $currentLang := .Language}}

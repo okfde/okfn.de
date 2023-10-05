@@ -104,3 +104,17 @@
   translation: neues Projekt
 - id: anniversary_multiple_new_projects
   translation: neue Projekte
+- id: publication_pages
+  translation: Seiten
+- id: publication_size
+  translation: Größe
+- id: publication_license
+  translation: Lizenz
+- id: publication_download
+  translation: Herunterladen
+- id: publication_additional_links
+  translation: Zusätzliche Links
+- id: publication_all_time
+  translation: Nach Jahr
+- id: publication_all_categories
+  translation: Nach Kategorie

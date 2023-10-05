@@ -1,0 +1,142 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ with .Params.img_header }}
+<meta property="og:image" content="{{ . }}" />{{ end }}
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <section class='container l__publications'>
+    <h1 class="col col-12 col-sm-10">{{ if .Params.blurb }}{{.Params.blurb}}{{ else }}{{.Title}}{{ end }}</h1>
+    <div class="row">
+      <div class="col col-12 col-sm-10 mx-3 pt-3">
+      <div id="year-filter">
+        <details class="dropdown">
+          <summary role="button">
+            {{ i18n "publication_all_time" }}
+          </summary>
+          <ul>
+            <li><button class="button-filter filtered" onclick="changeYear('year-all')">Alle</button></li>
+            {{ $years := where .Site.RegularPages "Type" "publikationen" }}
+            {{ range $years.GroupByParam "date" }}
+            <li><button class="button-filter" onclick="changeYear('year-{{ .Key | time.Format "2006" }}')">{{ .Key | time.Format "2006" }}</button></li>
+            {{ end }}
+          </ul>
+        </details>
+      </div>
+      <div id="publication-filter">
+        <details class="dropdown">
+            <summary role="button">
+              {{ i18n "publication_all_categories" }}
+            </summary>
+            <ul>
+                <li><button class="button-filter categorized" onclick="changeType('all_types')">Alle</button></li>
+                {{ $publikationen := where .Site.RegularPages "Type" "publikationen" }}
+                {{ range $publikationen.GroupByParam "kategorien" }}
+                <li><button class="button-filter" id="{{ .Key }}" onclick="changeType('{{ .Key }}')">{{ .Key }}</button></li>
+                {{ end }}
+            </ul>
+        </details>
+      </div>
+      </div>
+    </div>
+     
+    <div class="container l__content my-5">
+        {{ range where .Site.RegularPages "Type" "publikationen" }}
+        <article class="l__publication__box col-lg-9 col-md-10 col-12 year-all all_types {{ .Page.Params.kategorien }} year-{{ .Date | time.Format "2006" }}">
+            <time class="mr-3" datetime="{{ .Page.Date.Format "2 January 2006" }}">{{ .Page.Date.Format "2 January 2006" | upper }}</time>
+            <span class="l__publication__category">{{ .Page.Params.kategorien }}</span>
+            <h1 class="l__publication__title mb-1 mt-4"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <p class="l__publication__subtitle my-0">{{ .Params.subtitle }}</p>
+            <p class="l__publication__summary mb-0 mt-2">{{ .Summary | truncate 160 }}</p>
+            <hr>
+            {{ with .Params.people }}
+            {{ range . }}
+            <span class="mr-4">{{ .name }}</span>
+            {{ end }}
+            {{ end }}
+          </article>
+      {{ end }}
+      </div>
+
+      <!-- Data filtering for publications -->
+      <script>
+        let currentYear = "year-all";
+        let currentType = "all_types";
+
+        update();
+
+        function changeType(type) {
+            currentType = type;
+            update();
+        }
+
+        function changeYear(year) {
+            currentYear = year;
+            update();
+        }
+
+        function update() {
+            document
+            .querySelectorAll(".l__publication__box")
+            .forEach((item) => {
+                    if (item.classList.contains(currentType)) {
+                        item.classList.add("visible");
+                    } else {
+                        item.classList.remove("visible");
+                    }
+
+                    if (!item.classList.contains(currentYear)) {
+                        item.classList.remove("visible");
+                    }
+                });
+
+            window.updateCards = update;
+        }
+    </script>
+
+    <script>
+        // Function to add selected class to the selected type filter
+        var btnContainer = document.getElementById("publication-filter");
+        var btns = btnContainer.getElementsByClassName("button-filter");
+        for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function () {
+            var current = document.getElementsByClassName(" categorized");
+            current[0].className = current[0].className.replace(" categorized", "");
+            this.className += " categorized";
+        });
+        }
+    </script>
+
+    <script>
+        // Function to add selected class to the selected year filter
+        var yearContainer = document.getElementById("year-filter");
+        var years = yearContainer.getElementsByClassName("button-filter");
+        for (var j = 0; j < years.length; j++) {
+            years[j].addEventListener("click", function () {
+                var currentYear = document.getElementsByClassName(" filtered");
+                currentYear[0].className = currentYear[0].className.replace(
+                    " filtered",
+                    ""
+                );
+                this.className += " filtered";
+            });
+        }
+    </script>
+    </div>
+  </section>
+</main>
+{{ end }}

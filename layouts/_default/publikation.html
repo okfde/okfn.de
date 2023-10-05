@@ -1,0 +1,109 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ strings.FirstUpper .Section }} - {{ .Site.Title}}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+{{with .Params.subtitle }}<meta description="{{.}}">{{ end }}
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content='/files/{{ trim .Params.img_header "/"}}' />
+{{with .Params.subtitle}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
+{{ end }}
+
+{{ define "main" }}
+<main>
+  <article class="l__publication">
+    <div class="container">
+        <p class="mb-4">
+          <time class="mr-3" datetime="{{ .Page.Date.Format "2 January 2006" }}">{{ .Page.Date.Format "2 January 2006" | upper }}</time>
+          <span class="l__publication__category">{{ .Page.Params.kategorien }}</span>
+        </p>
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.subtitle }}
+        <p class="l__publication__subtitle mb-3">{{.}}</p>
+        {{ end }}
+    </div>
+
+    {{ if .Params.img_header }}
+    <div class="container l__publication__headerimg">
+      <div class="row">
+        <div class="col col-12">
+          <figure class="license">
+            <img src="/files/{{.Params.img_header}}" alt="">
+            {{ with .Params.img_license }}<figcaption>{{ . }}</figcaption>{{ end }}
+          </figure>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    <div class="container">
+      <div class="row">
+
+        <div class="l__publication__content l__content col col-12 col-sm-10 col-md-8 col-lg-8">
+        
+          {{ with .Params.people }}
+            {{ range . }}
+            <span class="mr-4">{{ .name }}</span>
+            {{ end }}
+          </p>
+          {{ end }}
+
+          <hr>
+
+          <div class="row mx-0 py-2 justify-content-between align-items-center">
+            <div class="l__publication__files d-flex mb-lg-0 mb-3">
+              {{ with .Params.file }}
+              <a class="l__publication__download mr-3" href="{{ . }}" download><span class="mr-1">{{ readFile "static/files/icons/download.svg" | safeHTML }}</span>{{ i18n "publication_download" }}{{ end }} {{ with .Params.format | upper }}{{ . }}{{ end }}</a>
+
+              {{ with .Params.rss }}
+              <a class="l__publication__rss" href="{{ . }}"><span class="mr-1">{{ readFile "static/files/icons/pub_rss.svg" | safeHTML }}</span>RSS</a>
+              {{ end }}
+            </div>
+
+            <div class="l__publication__info">
+              {{ with .Params.pages }}
+                <span class="mr-3"><strong>{{ i18n "publication_pages" }}</strong>: {{ . }}</span>
+              {{ end }}
+
+              {{ with .Params.size }}
+                <span class="mr-3"><strong>{{ i18n "publication_size" }}</strong>: {{ . }}</span>
+              {{ end }}
+
+              <span><strong>{{ i18n "publication_license" }}</strong>: <a href="{{ .Params.license_link }}">{{ .Params.license_type }}</a></span>
+            </div>
+
+          </div>
+
+          <hr>
+
+          {{ .Content }}
+
+          <hr>
+
+          {{ with .Params.links }}
+          <div class="row pt-3">
+            <div class="col-lg-3 col-12">
+              <p class="mt-0"><strong>{{ i18n "publication_additional_links" }}:</strong></p>
+            </div>
+            <div class="col-lg-9 col-12">
+              {{ range . }}
+                <p class="mb-1 mt-0"><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></p>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+
+        </div>
+
+      </div>
+    </div>
+  </article>
+</main>
+{{ end }}
