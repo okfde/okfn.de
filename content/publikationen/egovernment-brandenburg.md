@@ -5,10 +5,8 @@ published: true
 date: 2023-09-28
 layout: publikation
 img: publications/fff.png
-kategorien:
-  - Stellungnahmen
-categories:
-  - policy statements
+kategorien: Stellungnahmen
+categories: policy statements
 people:
 - name: Henriette Litta, Dénes Jäger
 file: /static/files/blog/2023/2023-09-28_OKF_Stellungnahme_BBEGovG.pdf
