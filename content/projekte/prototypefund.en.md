@@ -14,13 +14,16 @@ layout: project
 weight: 4
 type: featured
 people:
-  - name: Marie Gutbub
+  - name: Marie Kreil
     role: Project Co-Leadership
   - name: Patricia Leu
     role: Project Co-Leadership
-  - name: Claudia Jach
+  - name: Sophia Schulze Schleithoff
     role: Research
-  - name: Gregor Gilka
+  - name: Francesca Giacco
+    role: Student Assistant
+  - name: Paul Robben
+    role: Communication and project management
 financing:
   - BMBF
 contact_person: patricialeu
@@ -48,6 +51,6 @@ With up to 47,500 euros per project and team, the Prototype Fund supports softwa
 
 In addition to financial support, we offer mentorship and coaching along the way and exchange ideas with our extensive and diverse network of coders, practitioners and potential users.
 
-The application process is kept as unbureaucratic as possible and adapted to the needs of the self-employed. To date, we have already spent 10 million euros on 248 projects (status: December 2021). The programme runs over a total of 16 funding rounds until 2024.
+The application process is kept as unbureaucratic as possible and adapted to the needs of the self-employed. To date, we have already spent 14.4 million euros on 340 projects (status: October 2023). The programm runs over a total of 16 funding rounds until 2024.
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MOGdX7ipcu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
