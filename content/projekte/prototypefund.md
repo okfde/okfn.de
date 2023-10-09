@@ -17,11 +17,14 @@ weight: 4
 people:
   - name: Patricia Leu
     role: Co-Projektleitung - Schwerpunkt Kommunikation und Projektmanagement
-  - name: Marie Gutbub
+  - name: Marie Kreil
     role: Co-Projektleitung - Schwerpunkt Projektmanagement und Events
   - name: Claudia Jach
-    role: Begleitforschung
-  - name: Gregor Gilka
+    role: Sophia Schulze Schleithoff
+  - name: Francesca Giacco
+    role: Studentische Mitarbeiterin
+  - name: Paul Robben
+    role: Kommunikation und Projektmanagement
 financing:
   - BMBF
 contact_person: patricialeu
@@ -49,6 +52,6 @@ Mit bis zu 47.500 Euro pro Projekt und Team unterstützt der Fördertopf Softwar
 
 Neben der finanziellen Unterstützung bieten wir auf dem Weg zum Prototypen Coachings von Mentor\*innen und den Austausch mit unserem umfangreichen und vielfältigen Netzwerk aus Coder\*innen, weiteren Praktiker\*innen und potenziellen Anwender\*innen.
 
-Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von Selbstständigen angepasst. Bisher konnten wir bereits ca. 10,3 Millionen an 248 Projekte ausgeben (Stand: Oktober 2021). Das Programm läuft über insgesamt 16 Förderrunden noch bis 2024.
+Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von Selbstständigen angepasst. Bisher konnten wir bereits ca. 14,4 Millionen Euro an 340 Projekte ausgeben (Stand: Oktober 2023). Das Programm läuft über insgesamt 16 Förderrunden noch bis 2024.
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MOGdX7ipcu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
