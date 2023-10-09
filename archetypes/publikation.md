@@ -5,10 +5,8 @@ published: true
 date: 2023-01-01
 layout: publikation
 img: publications/fff.png
-kategorien:
-  - Bildung
-categories:
-  - Education
+kategorien: Bildung
+categories: Education
 people:
 - name: Author Name and Surname
 file: /files/file.pdf

@@ -31,8 +31,8 @@
           <ul>
             <li><button class="button-filter filtered" onclick="changeYear('year-all')">Alle</button></li>
             {{ $years := where .Site.RegularPages "Type" "publikationen" }}
-            {{ range $years.GroupByParam "date" }}
-            <li><button class="button-filter" onclick="changeYear('year-{{ .Key | time.Format "2006" }}')">{{ .Key | time.Format "2006" }}</button></li>
+            {{ range $years.GroupByDate "2006" }}
+            <li><button class="button-filter" onclick="changeYear('year-{{ .Key }}')">{{ .Key }}</button></li>
             {{ end }}
           </ul>
         </details>
@@ -56,7 +56,7 @@
      
     <div class="container l__content my-5">
         {{ range where .Site.RegularPages "Type" "publikationen" }}
-        <article class="l__publication__box col-lg-9 col-md-10 col-12 year-all all_types {{ .Page.Params.kategorien }} year-{{ .Date | time.Format "2006" }}">
+        <article class="l__publication__box col-lg-10 col-md-10 col-12 year-all all_types {{ .Page.Params.kategorien }} year-{{ .Date | time.Format "2006" }}">
             <time class="mr-3" datetime="{{ .Page.Date.Format "2 January 2006" }}">{{ .Page.Date.Format "2 January 2006" | upper }}</time>
             <span class="l__publication__category">{{ .Page.Params.kategorien }}</span>
             <h1 class="l__publication__title mb-1 mt-4"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>

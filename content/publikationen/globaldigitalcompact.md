@@ -5,10 +5,8 @@ published: true
 date: 2023-09-13
 layout: publikation
 img: publications/fff.png
-kategorien:
-  - Stellungnahmen
-categories:
-  - policy statements
+kategorien: Stellungnahmen
+categories: policy statements
 people:
 - name: Geraldine de Bastion, Marcel Dorsch, Friederike von Franqué et al.
 file: /static/files/blog/2023/Positionspapier_digZG_zum_GDC.pdf
