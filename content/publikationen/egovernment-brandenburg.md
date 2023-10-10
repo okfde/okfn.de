@@ -17,6 +17,7 @@ size: 912KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
+  - url: https://example.de
   - url: https://mik.brandenburg.de/sixcms/media.php/9/20230607_Open%20Data%20Strategie_web_ba.pdf
 ---
 
