@@ -5,9 +5,19 @@
     <description>Publications on OKF DE</description>
     
     
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/en/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feasibility Study to Examine a Funding Program for Open Digital Base Technologies as the Foundation for Innovation and Digital Sovereignty.</title>
+      <link>https://okfn.de/en/publikationen/sovereigntechfeasibility/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/publikationen/sovereigntechfeasibility/</guid>
+      <description>In the study the authors examined the needs and possibilities for a funding program to strengthen open digital infrastructure. The idea for a fund is based, among other things, on Open Technology Funds Core Infrastructure Fund and can learn from this and the experiences from other programs, e.g. the Prototype Fund, and adopt already tested procedures. For the design of the Sovereign Tech Fund, numerous other existing programs were analyzed, interviews were conducted with developers and stakeholders in the open source ecosystem, and expert workshops were held.</description>
+    </item>
     
   </channel>
 </rss>

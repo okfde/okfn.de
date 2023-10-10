@@ -254,6 +254,35 @@
                 href="https://okfn.de/en/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/publikationen/sovereigntechfeasibility/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/en/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/publikationen/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/anniversary/</loc>
     <xhtml:link
                 rel="alternate"
@@ -722,18 +751,6 @@
                 href="https://okfn.de/en/projekte/offeneregister/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/projekte/oparl/</loc>
     <xhtml:link
                 rel="alternate"
@@ -840,18 +857,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/publikationen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/refugeephrasebook/</loc>
