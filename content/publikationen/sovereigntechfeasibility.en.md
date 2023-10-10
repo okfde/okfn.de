@@ -4,7 +4,7 @@ published: true
 date: 2021-11-16
 layout: publikation
 img: /files/blog/2023/beispielpng.png
-categories: Studies
+kategorien: Studies
 people:
 - name: Adriana Groh, Katharina Meyer, Fiona Krakenbürger, Eileen Wagner
 file: https://sovereigntechfund.de/files/SovereignTechFund_Machbarkeitsstudie_en.pdf
