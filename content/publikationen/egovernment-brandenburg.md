@@ -4,12 +4,12 @@ subtitle: Gesetzentwurf der Landesregierung Brandenburg für ein Zweites Gesetz 
 published: true
 date: 2023-09-28
 layout: publikation
-img: publications/fff.png
+img: /files/blog/2023/beispielpng.png
 kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta, Dénes Jäger
-file: /static/files/blog/2023/2023-09-28_OKF_Stellungnahme_BBEGovG.pdf
+file: https://github.com/okfde/okfn.de/blob/e806fe0aef4e7c51bba040812ca974fdcf9443a6/static/files/blog/2023/2023-09-28_OKF_Stellungnahme_BBEGovG.pdf?raw=true
 format: pdf
 rss: https://example.de
 pages: 3
@@ -17,7 +17,7 @@ size: 912KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: [Offene-Daten-Strategie Brandenburg](https://mik.brandenburg.de/sixcms/media.php/9/20230607_Open%20Data%20Strategie_web_ba.pdf)
+  - url: https://mik.brandenburg.de/sixcms/media.php/9/20230607_Open%20Data%20Strategie_web_ba.pdf
 ---
 
 Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.
