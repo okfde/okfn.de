@@ -394,6 +394,18 @@
  
    ,
      {
+       "url": "https://okfn.de/publikationen/2022-jahresbericht/",
+       "title": "Jahresbericht Open Knowledge Foundation Deutschland e.V. 2022",
+       "section": "publikationen",
+       "date": "2023-06-28 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Der","folgende","Bericht","blickt","zurück","auf","die","Arbeit","der","Open","Knowledge","Foundation","Deutschland","im","Jahr","2022.","Im","Bericht","werden","die","wichtigsten","Aktivitäten","zusammengefasst,","die","Arbeitsweise","der","Organisation","beschrieben","sowie","alle","Projekte","in","Kürze","dargestellt.","Der","abschließende","Teil","des","Berichts","umfasst","Informationen","zur","Organisationsstruktur","und","den","Finanzen"]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/blog/2023/06/open-data-knowledge-hub-launch/",
        "title": "Der Open Data Knowledge Hub ist gelauncht! ",
        "section": "blog",
