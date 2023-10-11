@@ -427,6 +427,16 @@
   </url><url>
     <loc>https://okfn.de/publikationen/2022-jahresbericht/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2022-jahresbericht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2022-jahresbericht/"
+                />
   </url><url>
     <loc>https://okfn.de/tags/okfde/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>

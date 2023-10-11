@@ -5,10 +5,19 @@
     <description>Publications on OKF DE</description>
     
     
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/en/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Knowledge Foundation Germany e.V. - 2022 Annual report</title>
+      <link>https://okfn.de/en/publikationen/2022-jahresbericht/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/publikationen/2022-jahresbericht/</guid>
+      <description>The report looks back at the work of the Open Knowledge Foundation Germany in 2022. The report summarizes the most important activities, describes how the organization works, and presents all projects in brief. The final part of the annual report includes information on the organizational structure and finances.</description>
+    </item>
     
     <item>
       <title>Feasibility Study to Examine a Funding Program for Open Digital Base Technologies as the Foundation for Innovation and Digital Sovereignty</title>
