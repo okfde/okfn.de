@@ -658,6 +658,18 @@
  
    ,
      {
+       "url": "https://okfn.de/publikationen/handbuch-funding-for-future/",
+       "title": "Funding for Future: Wirkungen eines leichtgewichtigen und niederschwelligen Förderinstruments für Open-Source-Software",
+       "section": "publikationen",
+       "date": "2022-04-01 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Mit","diesem","Handbuch","gibt","der","Prototype","Fund","am","Beispiel","von","Open-Source-Software","einen","Einblick","darin,","wie","unbürokratisches","Funding","für","Individuen","und","kleine","Teams","funktionieren","kann","und","was","die","Vorteile","davon","sind."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/blog/2022/03/open-source-investigation/",
        "title": "Mit Open Source Investigation gegen Menschenrechtsverletzungen",
        "section": "blog",
