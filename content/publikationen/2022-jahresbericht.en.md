@@ -5,6 +5,7 @@ date: 2023-06-28
 layout: publikation
 img: /files/blog/2023/beispielpng.png
 kategorien: Annual reports
+categories: Annual reports
 people:
 - name: Henriette Litta
 file: https://2022.okfn.de/assets/documents/OKF_Jahresbericht_2022.pdf?raw=true
