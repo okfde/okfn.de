@@ -1,17 +1,15 @@
 ---
-title: "Funding for Future: Wirkungen eines leichtgewichtigen und niederschwelligen Förderinstruments für Open-Source-Software"
+title: Funding for Future - Wirkungen eines leichtgewichtigen und niederschwelligen Förderinstruments für Open-Source-Software
 subtitle: Ein Handbuch des Prototype Fund
 published: true
 date: 2022-04-01
 layout: publikationen
 img: /files/blog/2023/beispielpng.png
-kategorien: Handbuecher
-categories: Guides
+kategorien: Handbücher
 people:
 - name: Patricia Leu
 file: https://github.com/okfde/okfn.de/blob/073e18ba59e2d68de923d550449b50994e975063/static/files/documents/Handbuch-Funding-for-Future.pdf?raw=true
 format: pdf
-rss: https://example.de
 pages: 18
 size: 118KB
 license_type: CC-BY-SA 4.0
