@@ -14,6 +14,7 @@ pages: 18
 size: 118KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
-links: https://www.prototypefund.de
+links:
+- url: https://www.prototypefund.de
 ---
-Mit dieser Publikation gibt der Prototype Fund am Beispiel von Open-Source-Software einen Einblick darin , wie unbürokratisches Funding für Individuen und kleine Teams funktionieren kann und was die Vorteile davon sind.
+Mit dieser Publikation gibt der Prototype Fund am Beispiel von Open-Source-Software einen Einblick darin, wie unbürokratisches Funding für Individuen und kleine Teams funktionieren kann und was die Vorteile davon sind.
