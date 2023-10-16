@@ -24,8 +24,8 @@
     <div class="row">
       <div class="col col-12 col-sm-10 mx-3 pt-3">
       <div id="year-filter">
-        <details class="dropdown">
-          <summary role="button">
+        <details id="yearFilter" class="dropdown">
+          <summary id="yearCurrent" role="button">
             {{ i18n "publication_all_time" }}
           </summary>
           <ul>
@@ -38,8 +38,8 @@
         </details>
       </div>
       <div id="publication-filter">
-        <details class="dropdown">
-            <summary role="button">
+        <details id="categoryFilter" class="dropdown">
+            <summary id="categoryCurrent" role="button">
               {{ i18n "publication_all_categories" }}
             </summary>
             <ul>
@@ -110,6 +110,8 @@
 
     <script>
         // Function to add selected class to the selected type filter
+        var categoryDetail =  document.getElementById("categoryFilter");
+        var categoryCurrent =  document.getElementById("categoryCurrent");
         var btnContainer = document.getElementById("publication-filter");
         var btns = btnContainer.getElementsByClassName("button-filter");
         for (var i = 0; i < btns.length; i++) {
@@ -117,12 +119,16 @@
             var current = document.getElementsByClassName(" categorized");
             current[0].className = current[0].className.replace(" categorized", "");
             this.className += " categorized";
+            categoryDetail.removeAttribute('open');
+            categoryCurrent.innerText = this.innerHTML;
         });
         }
     </script>
 
     <script>
         // Function to add selected class to the selected year filter
+        var yearDetail =  document.getElementById("yearFilter");
+        var yearCurrent =  document.getElementById("yearCurrent");
         var yearContainer = document.getElementById("year-filter");
         var years = yearContainer.getElementsByClassName("button-filter");
         for (var j = 0; j < years.length; j++) {
@@ -133,8 +139,28 @@
                     ""
                 );
                 this.className += " filtered";
+                yearDetail.removeAttribute("open");
+                yearCurrent.innerText = this.innerHTML;
             });
         }
+    </script>
+
+    <script>
+      // Function to close details if another summary is clicked
+      const summaries = document.querySelectorAll('summary');
+
+      summaries.forEach((summary) => {
+          summary.addEventListener('click', closeOpenedDetails);
+      });
+
+      function closeOpenedDetails() {
+          summaries.forEach((summary) => {
+              let detail = summary.parentNode;
+              if (detail != this.parentNode) {
+                  detail.removeAttribute('open');
+              }
+          });
+      }
     </script>
     </div>
   </section>

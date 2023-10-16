@@ -115,6 +115,6 @@
 - id: publication_additional_links
   translation: Zusätzliche Links
 - id: publication_all_time
-  translation: Nach Jahr
+  translation: Jahr
 - id: publication_all_categories
-  translation: Nach Kategorie
+  translation: Kategorie
