@@ -21,8 +21,8 @@
 <main>
   <section class='container l__publications'>
     <h1 class="col col-12 col-sm-10">{{ if .Params.blurb }}{{.Params.blurb}}{{ else }}{{.Title}}{{ end }}</h1>
-    <div class="row">
-      <div class="col col-12 col-sm-10 mx-3 pt-3">
+    <div class="row pt-3 justify-content-between mx-2">
+      <div class="col-lg-9 col-sm-10 col-12">
       <div id="year-filter">
         <details id="yearFilter" class="dropdown">
           <summary id="yearCurrent" role="button">
@@ -52,17 +52,20 @@
         </details>
       </div>
       </div>
+      <div class="col-lg-3 col-sm-2 col-sm-2 mt-sm-0 mt-3">
+        <a class="l__publication__rss" href="/publikationen/atom.xml"><span class="mr-1">{{ readFile "static/files/icons/pub_rss.svg" | safeHTML }}</span>RSS</a>
+      </div>
     </div>
      
     <div class="container l__content my-5">
         {{ range where .Site.RegularPages "Type" "publikationen" }}
         <article class="l__publication__box col-lg-10 col-md-10 col-12 year-all all_types {{ .Page.Params.kategorien }} year-{{ .Date | time.Format "2006" }}">
-            <time class="mr-3" datetime="{{ .Page.Date.Format "2 January 2006" }}">{{ .Page.Date.Format "2 January 2006" | upper }}</time>
+            <time class="mr-3" datetime="{{ .Date | time.Format ":date_long" }}">{{ .Date | time.Format ":date_long" | upper }}</time>
             <span class="l__publication__category">{{ .Page.Params.kategorien }}</span>
             <h1 class="l__publication__title mb-1 mt-4"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
             <p class="l__publication__subtitle my-0">{{ .Params.subtitle }}</p>
-            <p class="l__publication__summary mb-0 mt-2">{{ .Summary | truncate 160 }}</p>
-            <hr>
+            <p class="l__publication__summary mb-0 mt-4">{{ .Summary | truncate 160 }}</p>
+            <hr class="my-3">
             {{ with .Params.people }}
             {{ range . }}
             <span class="mr-4">{{ .name }}</span>

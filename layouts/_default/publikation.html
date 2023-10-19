@@ -24,10 +24,10 @@
       <div class="row">
         <div class="col col-12 col-sm-10 col-md-8 col-lg-8">
           <p class="mb-4">
-            <time class="mr-3" datetime="{{ .Page.Date.Format "2 January 2006" }}">{{ .Page.Date.Format "2 January 2006" | upper }}</time>
+            <time class="mr-3" datetime="{{ .Date | time.Format ":date_long" }}">{{ .Date | time.Format ":date_long" | upper }}</time>
             <span class="l__publication__category">{{ .Page.Params.kategorien }}</span>
           </p>
-          <h1>{{ .Title }}</h1>
+          <h1 class="l__publication__title mb-1">{{ .Title }}</h1>
           {{ with .Params.subtitle }}
           <p class="l__publication__subtitle mb-3">{{.}}</p>
           {{ end }}
@@ -65,10 +65,6 @@
             <div class="l__publication__files d-flex mb-lg-0 mb-3">
               {{ with .Params.file }}
               <a class="l__publication__download mr-3" href="{{ . }}" download><span class="mr-1">{{ readFile "static/files/icons/download.svg" | safeHTML }}</span>{{ end }}{{ with .Params.format | upper }}{{ . }}{{ end }} {{ i18n "publication_download" }}</a>
-
-              {{ with .Params.rss }}
-              <a class="l__publication__rss" href="{{ . }}"><span class="mr-1">{{ readFile "static/files/icons/pub_rss.svg" | safeHTML }}</span>RSS</a>
-              {{ end }}
             </div>
 
             <div class="l__publication__info">
