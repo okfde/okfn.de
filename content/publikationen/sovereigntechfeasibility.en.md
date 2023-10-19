@@ -3,7 +3,7 @@ title: Feasibility Study to Examine a Funding Program for Open Digital Base Tech
 published: true
 date: 2021-11-16
 layout: publikation
-img: /files/blog/2023/beispielpng.png
+img: /files/images/Jahresbericht1.png
 kategorien: Studies
 people:
 - name: Adriana Groh, Katharina Meyer, Fiona Krakenbürger, Eileen Wagner

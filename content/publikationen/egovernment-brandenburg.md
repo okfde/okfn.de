@@ -4,7 +4,7 @@ subtitle: Gesetzentwurf der Landesregierung Brandenburg für ein Zweites Gesetz 
 published: true
 date: 2023-09-28
 layout: publikation
-img: /files/blog/2023/beispielpng.png
+img: /files/images/Jahresbericht1.png
 kategorien: Stellungnahmen
 categories: policy statements
 people:

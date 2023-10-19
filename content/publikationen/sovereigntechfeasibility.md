@@ -3,7 +3,7 @@ title: Machbarkeitsstudie zur Prüfung eines Förderprogramms für offene digita
 published: true
 date: 2021-11-16
 layout: publikation
-img: /files/blog/2023/beispielpng.png
+img: /files/images/Jahresbericht1.png
 kategorien: Studien
 people:
 - name: Adriana Groh, Katharina Meyer, Fiona Krakenbürger, Eileen Wagner

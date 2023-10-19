@@ -3,21 +3,21 @@
     font-weight: 500
 
 .l__publication__box
-  border-left: .9rem solid #6366F1
-  padding-left: 1.75rem
   margin-bottom: 2.5rem
-  display: none;
+  display: none
+  & img
+    width: 100%
+    height: 100%
+    object-fit: cover
   & hr 
     max-width: 10%
     margin-left: 0
-  @include media-breakpoint-down(md)
-    border-left: .5rem solid #6366F1
-    padding-left: 1rem
+  & *
+    hyphens: auto
 
 .l__publication__title
   font-size: 2rem
   font-weight: 700
-  word-break: break-all;
   @include media-breakpoint-down(sm)
     font-size: 1.75rem !important
   & a

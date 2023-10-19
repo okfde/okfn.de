@@ -3,7 +3,7 @@ title: Jahresbericht Open Knowledge Foundation Deutschland e.V. 2022
 published: true
 date: 2023-06-28
 layout: publikation
-img: /files/blog/2023/beispielpng.png
+img: /files/images/Policy5.jpg
 kategorien: Jahresberichte
 categories: yearly reports
 people:
