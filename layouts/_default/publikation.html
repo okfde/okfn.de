@@ -98,7 +98,7 @@
             </div>
             <div class="col-lg-9 col-12">
               {{ range . }}
-                <p class="mb-1 mt-0"><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></p>
+                <p class="mb-1 mt-0">{{ .url | markdownify }}</p>
               {{ end }}
             </div>
           </div>
