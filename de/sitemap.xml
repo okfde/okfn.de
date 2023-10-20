@@ -380,7 +380,7 @@
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/publikationen/globaldigitalcompact/</loc>
+    <loc>https://okfn.de/publikationen/2023_globaldigitalcompact/</loc>
     <lastmod>2023-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/christina-willems/</loc>
@@ -612,7 +612,7 @@
     <loc>https://okfn.de/blog/2022/04/prototype-fund-hardware-jetzt-bewerben/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/publikationen/handbuch-funding-for-future/</loc>
+    <loc>https://okfn.de/publikationen/2022_handbuch-funding-for-future/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/03/open-source-investigation/</loc>
@@ -701,16 +701,6 @@
   </url><url>
     <loc>https://okfn.de/publikationen/sovereigntechfeasibility/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/sovereigntechfeasibility/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/sovereigntechfeasibility/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2021/11/stf-publikation-machbarkeitsstudie/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
