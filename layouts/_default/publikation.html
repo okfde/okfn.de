@@ -68,6 +68,10 @@
             </div>
 
             <div class="l__publication__info">
+              {{ with .Params.language }}
+              <span class="mr-3"><strong>{{ i18n "publication_language" }}</strong>: {{ . | upper }}</span>
+              {{ end }}
+
               {{ with .Params.pages }}
                 <span class="mr-3"><strong>{{ i18n "publication_pages" }}</strong>: {{ . }}</span>
               {{ end }}
