@@ -11,7 +11,6 @@ people:
 - name: Geraldine de Bastion, Marcel Dorsch, Friederike von Franqué et al.
 file: /static/files/blog/2023/Positionspapier_digZG_zum_GDC.pdf
 format: pdf
-rss: https://example.de
 pages: 7
 size: 184KB
 license_type: CC-BY-SA 4.0
