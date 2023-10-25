@@ -15,9 +15,7 @@ pages: 3
 size: 912KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
-links: 
-  - url: "[https://example.de](https://example.de)"
-  - url: "[https://mik.brandenburg.de/sixcms/media.php/9/20230607_Open%20Data%20Strategie_web_ba.pdf](https://mik.brandenburg.de/sixcms/media.php/9/20230607_Open%20Data%20Strategie_web_ba.pdf)"
+links: "[Zum Gesetzentwurf]((https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_8000/8080.pdf)"
 ---
 
 Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.
