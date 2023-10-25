@@ -21,14 +21,18 @@
 <main>
   <article class="l__publication">
     <div class="container">
-        <p class="mb-4">
-          <time class="mr-3" datetime="{{ .Page.Date.Format "2 January 2006" }}">{{ .Page.Date.Format "2 January 2006" | upper }}</time>
-          <span class="l__publication__category">{{ .Page.Params.kategorien }}</span>
-        </p>
-        <h1>{{ .Title }}</h1>
-        {{ with .Params.subtitle }}
-        <p class="l__publication__subtitle mb-3">{{.}}</p>
-        {{ end }}
+      <div class="row">
+        <div class="col col-12 col-sm-10 col-md-8 col-lg-8">
+          <p class="mb-4">
+            <time class="mr-3" datetime="{{ .Date | time.Format ":date_long" }}">{{ .Date | time.Format ":date_long" | upper }}</time>
+            <span class="l__publication__category">{{ .Page.Params.kategorien }}</span>
+          </p>
+          <h1 class="l__publication__title mb-1">{{ .Title }}</h1>
+          {{ with .Params.subtitle }}
+          <p class="l__publication__subtitle mb-3">{{.}}</p>
+          {{ end }}
+        </div>
+      </div>
     </div>
 
     {{ if .Params.img_header }}
@@ -60,14 +64,14 @@
           <div class="row mx-0 py-2 justify-content-between align-items-center">
             <div class="l__publication__files d-flex mb-lg-0 mb-3">
               {{ with .Params.file }}
-              <a class="l__publication__download mr-3" href="{{ . }}" download><span class="mr-1">{{ readFile "static/files/icons/download.svg" | safeHTML }}</span>{{ i18n "publication_download" }}{{ end }} {{ with .Params.format | upper }}{{ . }}{{ end }}</a>
-
-              {{ with .Params.rss }}
-              <a class="l__publication__rss" href="{{ . }}"><span class="mr-1">{{ readFile "static/files/icons/pub_rss.svg" | safeHTML }}</span>RSS</a>
-              {{ end }}
+              <a class="l__publication__download mr-3" href="{{ . }}" download><span class="mr-1">{{ readFile "static/files/icons/download.svg" | safeHTML }}</span>{{ end }}{{ with .Params.format | upper }}{{ . }}{{ end }} {{ i18n "publication_download" }}</a>
             </div>
 
             <div class="l__publication__info">
+              {{ with .Params.language }}
+              <span class="mr-3"><strong>{{ i18n "publication_language" }}</strong>: {{ . | upper }}</span>
+              {{ end }}
+
               {{ with .Params.pages }}
                 <span class="mr-3"><strong>{{ i18n "publication_pages" }}</strong>: {{ . }}</span>
               {{ end }}
@@ -94,7 +98,7 @@
             </div>
             <div class="col-lg-9 col-12">
               {{ range . }}
-                <p class="mb-1 mt-0"><a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a></p>
+                <p class="mb-1 mt-0">{{ .url | markdownify }}</p>
               {{ end }}
             </div>
           </div>

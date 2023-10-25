@@ -102,6 +102,8 @@
   translation: new project
 - id: anniversary_multiple_new_projects
   translation: new projects
+- id: publication_language
+  translation: Language
 - id: publication_pages
   translation: Pages
 - id: publication_size
@@ -113,6 +115,6 @@
 - id: publication_additional_links
   translation: Additional Links
 - id: publication_all_time
-  translation: All time
+  translation: Year
 - id: publication_all_categories
-  translation: All Publications
+  translation: Category
