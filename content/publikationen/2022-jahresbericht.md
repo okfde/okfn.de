@@ -10,7 +10,6 @@ people:
 - name: Henriette Litta
 file: https://2022.okfn.de/assets/documents/OKF_Jahresbericht_2022.pdf?raw=true
 format: pdf
-rss: https://example.de
 pages: 71
 size: 2,17MB
 license_type: CC-BY-SA 4.0
