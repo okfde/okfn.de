@@ -7,11 +7,11 @@ layout: publikation
 img: publications/fff.png
 kategorien: Bildung
 categories: Education
+language: de
 people:
 - name: Author Name and Surname
 file: /files/file.pdf
 format: pdf
-rss: https://example.de
 pages: 5
 size: 5MB
 license_type: CC-BY-SA 4.0
