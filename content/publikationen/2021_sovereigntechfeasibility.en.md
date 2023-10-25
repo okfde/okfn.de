@@ -9,7 +9,6 @@ people:
 - name: Adriana Groh, Katharina Meyer, Fiona Krakenbürger, Eileen Wagner
 file: https://sovereigntechfund.de/files/SovereignTechFund_Machbarkeitsstudie_en.pdf
 format: pdf
-rss: 
 pages: 55
 size: 28 MB
 license_type: CC-BY-SA 4.0
