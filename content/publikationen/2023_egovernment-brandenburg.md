@@ -11,7 +11,6 @@ people:
 - name: Henriette Litta, Dénes Jäger
 file: https://github.com/okfde/okfn.de/blob/e806fe0aef4e7c51bba040812ca974fdcf9443a6/static/files/blog/2023/2023-09-28_OKF_Stellungnahme_BBEGovG.pdf?raw=true
 format: pdf
-rss: https://example.de
 pages: 3
 size: 912KB
 license_type: CC-BY-SA 4.0
