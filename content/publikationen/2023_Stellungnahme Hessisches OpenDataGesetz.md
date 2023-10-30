@@ -12,7 +12,7 @@ people:
 file: https://github.com/okfde/okfn.de/blob/92a76c5b30be31e6097f8cf6506576d0ff49b655/static/files/publikationen/2023-03-03_OKF_HessischesOpenDataGesetz_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 8
-size: 1.16MB
+size: 2.2MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
