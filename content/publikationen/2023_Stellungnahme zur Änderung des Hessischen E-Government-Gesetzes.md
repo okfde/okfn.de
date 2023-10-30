@@ -1,7 +1,7 @@
 ---
 title: Stellungnahme zur Änderung des Hessischen E-Government-Gesetzes
-subtitle: Gesetzentwurf zur Änderung des Hessischen E-Government- Gesetzes und weiterer Vorschriften (Drucksache 20/9427) sowie zum Änderungsantrag der Fraktion der SPD (Drucksache 20/9688
-published: false
+subtitle: Gesetzentwurf zur Änderung des Hessischen E-Government- Gesetzes und weiterer Vorschriften (Drucksache 20/9427) sowie zum Änderungsantrag der Fraktion der SPD (Drucksache 20/9688)
+published: true
 date: 2023-01-31
 layout: publikation
 img: /files/images/Policy5.png
@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: https://github.com/okfde/okfn.de/blob/e806fe0aef4e7c51bba040812ca974fdcf9443a6/static/files/publikationen/2023-01-31_OKF_HessischesEGovGesetz_Stellungnahme.pdf
+file: https://github.com/okfde/okfn.de/static/files/publikationen/2023-01-31_OKF_HessischesEGovGesetz_Stellungnahme.pdf
 format: pdf
 pages: 6
 size: 1.16MB
@@ -22,5 +22,5 @@ links:
 
 Der vorliegende Entwurf behandelt im Wesentlichen die landesrechtliche Umsetzung der durch das Onlinezugangsgesetz (OZG) des Bundes verpflichtend gewordenen digitalen Bereitstellung von Verwaltungsleistungen.
 
-Aus Sicht der Open Knowledge Foundation Deutschland setzt die Landesregierung Hessen mit dem Gesetzentwurf zwar notwendige Änderungen im Bereich der Nutzer:innenkonten und Behördenpostfächer um, verpasst aber die Chance, nach über vier Jahren mit einer echten Novelle des HEGovG weiterreichende Regelungen und Ziele zu formulieren, wie die digitale Transformation zu einer effizienten und
-transparenten Verwaltung beitragen könnte. Weitere Anmerkungen und Kritikpunkte finden Sie in dieser Stellungnahme. 
+Aus Sicht der Open Knowledge Foundation Deutschland setzt die Landesregierung Hessen mit dem Gesetzentwurf zwar notwendige Änderungen im Bereich der Nutzer:innenkonten und Behördenpostfächer um, verpasst aber die Chance, nach über vier Jahren mit einer echten Novelle des HEGovG weiterreichende Regelungen und Ziele zu formulieren, wie die digitale Transformation zu einer effizienten und transparenten Verwaltung beitragen könnte.
+Weitere Anmerkungen und Kritikpunkte finden Sie in dieser Stellungnahme. 
