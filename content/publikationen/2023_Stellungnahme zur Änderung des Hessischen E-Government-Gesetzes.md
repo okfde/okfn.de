@@ -4,12 +4,12 @@ subtitle: Gesetzentwurf zur Änderung des Hessischen E-Government- Gesetzes und 
 published: true
 date: 2023-01-31
 layout: publikation
-img: /files/images/Policy5.png
+img: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: https://github.com/okfde/okfn.de/static/files/publikationen/2023-01-31_OKF_HessischesEGovGesetz_Stellungnahme.pdf
+file: /static/files/publikationen/2023-01-31_OKF_HessischesEGovGesetz_Stellungnahme.pdf
 format: pdf
 pages: 6
 size: 1.16MB
