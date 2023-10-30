@@ -6,15 +6,14 @@
     <description>Recent content in Fotos on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Nov 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/fotos/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/fotos/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fotos vom Stadt Land Code-Camp</title>
       <link>https://okfn.de/blog/2012/11/fotos-vom-stadt-land-code-camp/</link>
       <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2012/11/fotos-vom-stadt-land-code-camp/</guid>
       <description>Hier dokumentarische Beweisaufnahmen zu unserem schönen Workshop von letzter Woche: http://www.flickr.com/photos/okfn/sets/72157632082036036/</description>
     </item>
-    
   </channel>
 </rss>

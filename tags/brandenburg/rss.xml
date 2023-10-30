@@ -6,25 +6,22 @@
     <description>Recent content in Brandenburg on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/brandenburg/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/brandenburg/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Initiativstellungnahme zur Änderung des Brandenburgischen E-Government-Gesetzes</title>
       <link>https://okfn.de/blog/2023/09/stn-egovgbb/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2023/09/stn-egovgbb/</guid>
       <description>Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.
 Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Versäumnisse ein, die bei der Einführung des E-Government-Gesetzes entstanden sind. So werden beispielsweise Anforderungen an die Bereitstellung von offenen Daten definiert. In der beigefügten Begründung wird die Förderung von Open Data explizit als Ziel genannt.</description>
     </item>
-    
     <item>
       <title>Open Data Nahverkehr Berlin/ Brandenburg: Update zum Status Quo und den Entwicklungen</title>
       <link>https://okfn.de/blog/2012/09/open-data-nahverkehr-berlin-brandenburg-update-zum-status-quo-und-den-entwicklungen/</link>
       <pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2012/09/open-data-nahverkehr-berlin-brandenburg-update-zum-status-quo-und-den-entwicklungen/</guid>
       <description>Nach dem ersten Treffen des Arbeitskreises &amp;ldquo;Open Data Nahverkehr Berlin/Brandenburg&amp;rdquo; vor zwei Monaten hat sich der vbb dazu entschlossen in Kürze einen ersten Fahrplandatensatz auf dem Datenportal daten.berlin.de zu veröffentlichen. Das ist ein erster kleiner Erfolg doch wir wollen gemeinsam noch mehr erreichen, unser Ziel ist eine Veröffentlichung der Echtzeitdaten und die Bereitstellung der Haltestellenpläne. Mithilfe dieser Daten und Informationen können noch bessere und nützlichere Anwendungen im Bereich des öffentlichen Nahverkehrs entstehen.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,35 +6,30 @@
     <description>Recent content in Knowledge Base on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 02 Dec 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/knowledge-base/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/knowledge-base/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sie wollen Ihre Daten öffnen? Wir sagen wie!</title>
       <link>https://okfn.de/blog/2011/12/sie-wollen-ihre-daten-offnen-wir-sagen-wie/</link>
       <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2011/12/sie-wollen-ihre-daten-offnen-wir-sagen-wie/</guid>
       <description>Für alle Behörden und andere datenhaltende Stellen, die die Öffentlichkeit an ihren Datenschätzen teilhaben lassen wollen gibt es jetzt eine deutsche** Anleitung zum &amp;lsquo;Datenöffnen&amp;rsquo;** in unserer **Knowledege Base**. Wer bereits konkrete Daten hat, die veröffentlicht werden sollen kann diese unter folgender Adresse einreichen.</description>
     </item>
-    
     <item>
       <title>Knowledege Base Update: Was bedeutet eigentlich &#34;offen&#34;?</title>
       <link>https://okfn.de/blog/2011/11/knowledege-base-update-was-bedeutet-eigentlich-offen/</link>
       <pubDate>Fri, 18 Nov 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2011/11/knowledege-base-update-was-bedeutet-eigentlich-offen/</guid>
       <description>In unserer Knowledge Base im Wiki steht nun der zweite Beitrag bereit zum lesen:
 Was genau verstehen wir eigentlich unter Offenheit? Bei der Beantwortung dieser Frage hilft die gemeinsam erarbeitete Definition aus dem Open Definition Projekt (engl.) weiter: Offene Daten sind Daten, die von jedermann frei genutzt, wiederverwendet und weitergegeben werden können und dies höchstens mit der Maßgabe einer Namensnennung des Urhebers sowie der Forderung einer Weitergabe unter gleichen Bedingungen.</description>
     </item>
-    
     <item>
       <title>Open Knowledge - base oder &#39;Warum eigentlich Open Data&#39;</title>
       <link>https://okfn.de/blog/2011/11/open-knowledge-base-oder-warum-eigentlich-open-data/</link>
       <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2011/11/open-knowledge-base-oder-warum-eigentlich-open-data/</guid>
       <description>Seit unserer Gründung Anfang des Jahres haben wir schon viele spannende Projetkte gelauncht und weiterentwickelt, wir waren auf vielen Veranstaltungen präsent oder haben diese organisiert. Was bislang fehlt ist eine Übersicht über unsere Positionen und eine Dokumentation unserer Arbeitsweise.
 Wenn etwas, was wir gemacht haben gut geklappt hat, dann möchten wir dieses Wissen nicht für uns behalten. Wir möchten dass möglichst viele Leute unsere Ideen aufnehmen, weiterentwickeln uns es dann am Ende noch besser machen.</description>
     </item>
-    
   </channel>
 </rss>

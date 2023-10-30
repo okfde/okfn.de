@@ -6,12 +6,12 @@
     <description>Recent content in Geodaten on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 06 Nov 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/geodaten/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Nov 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/geodaten/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aktivitäten und Projekte im Oktober 2013</title>
       <link>https://okfn.de/blog/2013/11/aktivitaten-und-projekte-im-oktober-2013/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/11/aktivitaten-und-projekte-im-oktober-2013/</guid>
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Ein fröhliches Halloween wünschen wir! (CC-BY)
@@ -19,26 +19,21 @@ Rückblick in den Oktober
 Ende Oktober fand in London das Jahrestreffen der Teilnehmerländer der Open Government Partnership statt. Wir waren vor Ort und haben über unsere Versuche, Deutschland zu einem Beitritt zu bewegen, &amp;lt;a href=&amp;quot;/blog/2013/11/open-government-partnership-summit-2013-wo-ist-eigentlich-deutschland/&amp;quot;&amp;gt;berichtet.
 Der Open Data-Index, den wir kurz vor dem OGP-Treffen veröffentlicht haben, zeigt, wo die einzelnen Länder stehen. Er zeigt auch, dass die Bundesregierung noch einiges tun muss, um ihren Verpflichtungen aus der G8 Open Data Charter nachzukommen.</description>
     </item>
-    
     <item>
       <title>Die Berliner Geodaten stehen ab sofort kostenfrei zur Verfügung</title>
       <link>https://okfn.de/blog/2013/10/berliner-geodaten/</link>
       <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/10/berliner-geodaten/</guid>
       <description>Nach längeren internen Vorbereitungen teilte die Senatsverwaltung am Anfang der Woche mit, dass ab dem 1. Oktober die amtlichen Geodaten der Vermessungsverwaltung angelehnt, an die die Open-Data-Prinzipien kostenfrei abgegeben werden.
 Damit erlaubt der Senat uns allen die kommerzielle und nicht-kommerzielle Nutzung von Luftbildern, daraus abgeleiteten digitalen Orthophotos, der Informationen über Bodenrichtwerte, von topographischen Landeskartenwerken und der Liegenschaftskarten. Die online bereitgestellten Angebote können ohne Lizenzgebühren genutzt werden. Auch die offline Bereitstellung wird bis auf die Erhebung der Grenzkosten gebührenfrei.</description>
     </item>
-    
     <item>
       <title>GeoBusiness Lizenz: Open Data und die sieben Zwerge</title>
       <link>https://okfn.de/blog/2011/04/geobusiness-lizenz-open-data-und-die-sieben-zwerge/</link>
       <pubDate>Sat, 23 Apr 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2011/04/geobusiness-lizenz-open-data-und-die-sieben-zwerge/</guid>
       <description>IANAL: I am not a lawyer, was folgt ist Laienmeinung vom allerübelsten.
 Durch einen freundlichen Hinweis von Michael Fanning wurden wir in der letzten Woche auf die GeoBusiness Lizenz aufmerksam gemacht, an der zur Zeit die Kommission für Geoinformationswirtschaft des Wirtschaftsministeriums arbeitet. Auf der Seite werden zur Zeit acht unterschiedliche Lizenzmodelle vorgestellt: eine Lizenz (Ia), welche grob mit der Open Definition vereinbar ist und damit potentiell zur Bereitstellung von Open Data geeignet wäre, sowie sieben abgeleitete, nicht-offene Modelle.</description>
     </item>
-    
   </channel>
 </rss>

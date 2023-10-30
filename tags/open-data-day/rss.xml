@@ -6,23 +6,21 @@
     <description>Recent content in Open Data Day on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-data-day/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/open-data-day/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Open Data Day 2014</title>
       <link>https://okfn.de/blog/2014/01/international-open-data-day-2014/</link>
       <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2014/01/international-open-data-day-2014/</guid>
       <description>Es ist wieder soweit, wie in jedem Jahr wird es auch 2014 wieder einen internationalen Open Data Hackathon geben. Am 22. Februar wird auf Events rund um den Globus mit offenen Daten gearbeitet. Ziel ist es die Bekanntheit von Open Data zu steigern, weitere Daten zu öffnen und zu zeigen, welches Potenzial in offenen Daten steckt.
 Open Data Day Berlin 2013 @Zeit
 Im letzten Jahr war Deutschland mit Veranstaltungen in über 8 Städten gut vertreten.</description>
     </item>
-    
     <item>
       <title>Aktivitäten und Projekte im Juni 2013</title>
       <link>https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/</link>
       <pubDate>Mon, 08 Jul 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/</guid>
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Rückblick in den Juni
@@ -30,12 +28,10 @@ Die ersten Ergebnisse des weltweiten Open Data Census haben gezeigt, dass die vo
 Voran gegangen sind die Kommunen Moers und Bochum in denen wir, gemeinsam mit der Initiative OpenRuhr, die offenen Ratsinformationssysteme moers.ris.openruhr.de und bochum.ris.openruhr.de veröffentlichten.
 In Berlin wurde beim Open Data Day die erfolgreiche Entwicklung der Stadt in Richtung mehr Verwaltungstransparenz gewürdigt, aber auch hitzig über aktuelle Streitfragen, wie die neuen deutschen Lizenzmodelle, diskutiert.</description>
     </item>
-    
     <item>
       <title>Pics: Open Data Day 2013 @ Zeit ONLINE</title>
       <link>https://okfn.de/blog/2013/02/pics-open-data-day-2013-zeit-online/</link>
       <pubDate>Sat, 23 Feb 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/02/pics-open-data-day-2013-zeit-online/</guid>
       <description>Today is Open Data Day! Find here first pictures from the Berlin hackathon which is currently taking place at the HQ of Zeit ONLINE.
 Projects we are currently working on:
@@ -48,12 +44,10 @@ Project 6 - BundesGit
 Project 7 - Visualisation of Geodata
 Swing by and join us!</description>
     </item>
-    
     <item>
       <title>Einladung: International Open Data Hackathon 2013 - Berlin</title>
       <link>https://okfn.de/blog/2013/02/einladung-international-open-data-hackday-2013-berlin/</link>
       <pubDate>Tue, 19 Feb 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/02/einladung-international-open-data-hackday-2013-berlin/</guid>
       <description>Gemeinsam mit Michael Kreil von Open Data City und Zeit ONLINE organisieren wir in Berlin einen Hackday im Rahmen des International Open Data Day 2013. Wir laden alle Interessierten herzlich ein, mit uns über die neusten Entwicklungen im Open Data-Bereich zu diskutieren, an spannenden Projekten zu arbeiten und zu hacken.
 Wann:
@@ -63,15 +57,12 @@ Wo:
 In den Räumen der Zeit ONLINE
 Askanischer Platz 1 (Nähe Anhalter Bahnhof)</description>
     </item>
-    
     <item>
       <title>Jetzt anmelden zum Berliner Open Data Day 2012</title>
       <link>https://okfn.de/blog/2012/05/jetzt-noch-anmelden-zum-berliner-open-data-day-2012/</link>
       <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2012/05/jetzt-noch-anmelden-zum-berliner-open-data-day-2012/</guid>
       <description>Wie können offene Daten und Transparenz im Handeln der Verwaltung nachhaltig verankert werden? Wie kann noch mehr Vertrauen und Verständnis zwischen den Akteuren hergestellt werden? Wie können den Bürgern die Vorteile offen zugänglicher Daten noch näher gebracht werden? Unter dem Motto “Näher am Bürger - näher an den Daten” lädt die Aktionsplattform Berlin Open Data am Mittwoch, 6. Juni 2012, von 10 bis 18 Uhr zum zweiten Berlin Open Data Day (BODDy) ins Rote Rathaus in Berlin-Mitte.</description>
     </item>
-    
   </channel>
 </rss>

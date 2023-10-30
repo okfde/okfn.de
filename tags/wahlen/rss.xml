@@ -6,17 +6,16 @@
     <description>Recent content in Wahlen on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/wahlen/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/wahlen/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ulm Wikidata Hackathon</title>
       <link>https://okfn.de/blog/2017/06/wahldaten-wikidata-hackathon/</link>
       <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/06/wahldaten-wikidata-hackathon/</guid>
       <description>Vom 23. bis 25. Juni fand im Verschwörhaus in Ulm der #wahldaten-Hackathon mit Wikidata statt. Ein Bericht dazu gibt es bei Wikimedia.
 Das Verschwörhaus (abgeleitet vom Schwörhaus liegt mitten in der Stadt. Neben einer großartigen Community um das Haus entsteht auch dank dem engagierten Oberbürgermeister ein schöner neuer Raum abseits der größten Städte.
 Eines der beim Workshop vorgestellten Projekte ist das österreichische Offene Wahlen, das sich für mehr Beteiligung, Transparenz und Innovation im Zusammenhang mit demokratischen Prozessen einsetzt.</description>
     </item>
-    
   </channel>
 </rss>

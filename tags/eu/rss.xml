@@ -6,64 +6,53 @@
     <description>Recent content in EU on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/eu/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/eu/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join The Story Hunt - Uncover the EU!</title>
       <link>https://okfn.de/blog/2017/04/join-the-story-hunt/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/04/join-the-story-hunt/</guid>
       <description>&#39;The Story Hunt: Uncover the EU&#39; is a programme hosted by the Open Knowledge Foundation Germany&#39;s teams of Datenschule, OpenBudgets, and SubsidyStories.eu. Together with journalists, analysts, non-profit organisations, developers and designers, we want to develop and apply the skills needed to hunt stories in financial data.
 The Story Hunt is split into two separate parts: a series of Workshops and an Expedition Weekend in Berlin. The workshops are tailored to aspiring data journalists and non-profit organisations that are interested in improving their data-literacy skills.</description>
     </item>
-    
     <item>
       <title>Making European Subsidy Data Open</title>
       <link>https://okfn.de/blog/2017/04/making-eu-data-open/</link>
       <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/04/making-eu-data-open/</guid>
       <description>One month after releasing subsidystories.eu a joint project with Open Knowledge International, we have some great news to share. Due to the extensive outreach of our platform and the data quality report we published, new datasets have been directly sent to us by several administrations. We have recently added new data for Austria, the Netherlands, France and the United Kingdom. Furthermore, first Romanian data recently arrived and should be available in the near future.</description>
     </item>
-    
     <item>
       <title>Slovenia Ranks Highest in ESIF Data Quality Index by OpenBudgets.eu.</title>
       <link>https://okfn.de/blog/2017/04/esif-data-quality-index/</link>
       <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/04/esif-data-quality-index/</guid>
       <description>Today, OpenBudgets.eu presents the European Structural Funds Data Quality Index. Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.</description>
     </item>
-    
     <item>
       <title>New site SubsidyStories.eu shows where nearly 300bn of EU subsidies go across Europe</title>
       <link>https://okfn.de/blog/2017/03/subsidystories-launch/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/03/subsidystories-launch/</guid>
       <description>Today, Open Knowledge Germany and Open Knowledge International launch SubsidyStories.eu: a database containing all recipients of EU Structural Funds, accounting for 292,9 Billion Euros of EU Subsidies.
 The European Union allocates 44 % of its total 7-year budget through the European Structural Funds. Who received these funds - accounting for 347 Billion Euro from 2007 - 2013 and 477 Billion from 2014 - 2020 - could only be traced through regional and local websites.</description>
     </item>
-    
     <item>
       <title>Das Transparenzregister kommt - wird es wirklich transparent?</title>
       <link>https://okfn.de/blog/2017/02/transparenzregister/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/02/transparenzregister/</guid>
       <description>Morgen entscheidet das Bundeskabinett über das Transparenzregister. Die Regierung macht damit einen entscheidenden Schritt im Kampf gegen Korruption und Steuerhinterziehung: Nach einer Richtlinie der Europäischen Union wird das Register die wirtschaftlichen Eigentümer aller Unternehmen und Stiftungen in Deutschland auflisten.
 Ob das Register wirksam ist, hängt allerdings entscheidend von der Offenheit der Daten ab: Anders als ursprünglich vorgesehen plant das Finanzministerium, die Daten der Eigentümer nur Personen mit “berechtigtem Interesse” zugänglich zu machen und alle Menschen zu protokollieren, die auf die Daten zugreifen.</description>
     </item>
-    
     <item>
       <title>Geplantes Transparenzregister: Endlich wirksamer Kampf gegen Geldwäsche?</title>
       <link>https://okfn.de/blog/2016/12/transparenzregister-einfuehrung/</link>
       <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2016/12/transparenzregister-einfuehrung/</guid>
       <description>Das Bundesfinanzministerium (BMF) plant die Einführung eines Registers mit den Informationen zu wirtschaftlichen Eigentümern von Unternehmen und Stiftungen. Zwar hat es seinen Entwurf noch nicht mit anderen Ministerien abgestimmt, doch eines ist klar: Die Offenlegung soll dabei helfen, Korruption, Geldwäsche und Steuerhinterziehung zu bekämpfen. Passend zur Paris Declaration, die beim Open Government Summit in Paris verabschiedet werden soll.
 Wie das Register ausgestaltet wird, ist allerdings noch nicht entschieden. Für eine wirksame Umsetzung der im Mai 2015 verabschiedeten EU-Richtlinie gegen Geldwäsche ist es besonders wichtig, dass das Register als Open Data für die Öffentlichkeit zugänglich ist und eine einfache, aktuelle Suche bietet.</description>
     </item>
-    
   </channel>
 </rss>

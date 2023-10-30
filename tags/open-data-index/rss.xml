@@ -6,36 +6,31 @@
     <description>Recent content in Open Data Index on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/open-data-index/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/open-data-index/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deutschland im weltweiten Open Data Index nur auf Platz 26</title>
       <link>https://okfn.de/blog/2015/12/veroeffentlichung_opendataindex/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2015/12/veroeffentlichung_opendataindex/</guid>
       <description>Deutschland fällt in Sachen Open Data hinter einen Großteil der Industrienationen zurück. Das geht aus dem Open Data Index 2015 hervor, der heute von der Open Knowledge Foundation veröffentlicht wurde.
 Landete Deutschland im letzten Jahr noch auf Platz 9, liegt es jetzt auf Platz 26 der Rangliste. Während das Land sich in keiner der Kategorien verbessern konnte, verlor es in den Bereichen Gesetzgebung und Unternehmensregister sogar an Punkten, da dieses Jahr das Vergleichsverfahren mit anderen Ländern verfeinert wurde.</description>
     </item>
-    
     <item>
       <title>Open Data Index 2014 veröffentlicht: Mühsam ernährt sich das Eichhörnchen</title>
       <link>https://okfn.de/blog/2014/12/open-data-index-2014-veroeffentlicht-muehsam-ernaehrt-sich-das-eichhoernchen/</link>
       <pubDate>Tue, 09 Dec 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2014/12/open-data-index-2014-veroeffentlicht-muehsam-ernaehrt-sich-das-eichhoernchen/</guid>
       <description>Open Knowledge hat heute die aktuelle Ausgabe des Open Data Index veröffentlicht. Während im Bereich Open Data einiges passiert ist, teilen viele Regierungen immer noch nicht genug Daten in frei zugänglichem und nützlichem Format mit BürgerInnen und Unternehmen. Insgesamt wird das gesellschaftliche und wirtschaftliche Potential von Open Data damit nur unzureichend nutzbar gemacht.
 Das Öffnen von staatlichen Daten fördert Demokratie, Rechenschaft und Innovation. Open Data hilft BürgerInnen, ihre Rechte zu kennen und zu nutzen, es gibt Vorteile für die ganze Gesellschaft: vom öffentlichen Transport, zum Bildungswesen, zum Gesundheitssystem.</description>
     </item>
-    
     <item>
       <title>Open Data Index 2013 - Deutschland bleibt Open Data Entwicklungsland</title>
       <link>https://okfn.de/blog/2013/10/open-data-index-2013/</link>
       <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/10/open-data-index-2013/</guid>
       <description>Kurz vor dem jährlichen Treffen der Mitglieder der Open Government Partnership in London hat die Open Knowledge Foundation den aktuellen Open Data Index 2013 veröffentlicht. Der Index sammelt Informationen zu 70 Ländern und zeigt das alle Regierungen sich noch schwer tun, wichtige Informationen offen und frei zugänglich zu veröffentlichen.
 Der Open Data Index bewertet die Länder anhand der Verfügbarkeit und Zugänglichkeit von Informationen und Daten in zehn wichtigen Bereichen. Darunter fallen Datensätze und Datenbanken wie der jährliche Haushalt der Regierung, die getätigten Ausgaben, Wahlergebnisse, Statistiken, Kartenmaterial und Schadstoffemissionen.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,16 +6,15 @@
     <description>Recent content in Fernverkehr on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 28 Feb 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/fernverkehr/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/fernverkehr/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Offene Fahrplandaten von der Bahn</title>
       <link>https://okfn.de/blog/2016/02/offene-fahrplandaten-von-der-bahn/</link>
       <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2016/02/offene-fahrplandaten-von-der-bahn/</guid>
       <description>Gerade einmal vier Monate ist es her, dass die Deutsche Bahn erstmals ihre Open-Data-Pläne ankündigte, und seither gab es kaum eine Verschnaufpause: Anfang November startete das Datenportal und im Dezember fanden nacheinander der 3. DB-Hackathon und ein Contest zur Nutzung der DB-Aufzugs-API statt, bevor das Open-Data-Jahr mit einem Austausch mit der Community auf dem 32C3 in Hamburg ausklang.
 Dabei ging es vielfach um Datensätze und APIs rund um die Aufzüge und Parkplätze der Deutschen Bahn.</description>
     </item>
-    
   </channel>
 </rss>

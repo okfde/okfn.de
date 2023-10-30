@@ -6,17 +6,16 @@
     <description>Recent content in 33c3 on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/33c3/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/33c3/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>33c3: Unsere Highlights</title>
       <link>https://okfn.de/blog/2017/01/33c3-highlights/</link>
       <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/01/33c3-highlights/</guid>
       <description>Wir erholen uns gerade noch ein wenig vom #33c3, an dem wir in fast voller Teamstärke teilgenommen haben.
 Neben Workshops zu den Themen Open-Data-Gesetz, offenen Fahrplandaten, OParl, EITI und Open Science haben wir auf dem Kongress einige Talks gehalten:
 Von Alpakas, Hasenbären und Einhörnern – Über Anerkennungskultur Wie Wertschätzung in (Tech-)Communities gelingen kann - Wie würdigen verschiedene Tech-Communities das ehrenamtliche Engagement ihrer Mitglieder? Wie lassen sich gewünschte Lernprozesse verstärken? Was sind unsere Erfahrungen bei Jugend hackt?</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,33 +6,29 @@
     <description>Recent content in Nahverkehr on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/nahverkehr/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/nahverkehr/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EU-Vorschlag zur Überarbeitung der PSI-Richtlinie</title>
       <link>https://okfn.de/blog/2018/04/eu-vorschlag-zur-%C3%BCberarbeitung-der-psi-richtlinie/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2018/04/eu-vorschlag-zur-%C3%BCberarbeitung-der-psi-richtlinie/</guid>
       <description>Die EU hat den Vorschlag zur Überarbeitung der Richtlinie über die Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie) veröffentlicht. Sie ist auch bekannt als Open Data-Richtline.
 Die Überarbeitung ist ein Schritt in die richtige Richtung, aber geht nicht weit genug. Die notwendigen Hinweis auf Echtzeitdaten und die Ausweitung der Diskussion auf Versorgungs- und Verkehrsunternehmen sowie der öffentlich finanzierten Forschung ist begrüßenwert, jedoch fehlen die konkreten und zeitnahen Umsetzungsmaßnahmen.
 Zum Beispiel wird der Verkehrssektor durch die delegierte Verordnung (EU) Nr.</description>
     </item>
-    
     <item>
       <title>Zentrale Bereitstellung EU-weiter multimodaler Reiseinformationsdienste</title>
       <link>https://okfn.de/blog/2018/01/multimodale-reiseinformationsdienste/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2018/01/multimodale-reiseinformationsdienste/</guid>
       <description>Am 31.01.18 fand im BMVI ein Dialogforum zur zentralen Bereitstellung EU-weiter multimodaler Reiseinformationsdienste statt. Hintergrund dafür ist die delegierte Verordnung (EU) Nr. 2017/1926 welche am 10.11.2017 in Kraft getreten ist. Das Ziel dieser Verordnung ist die Verbesserung der Zugänglichkeit und des Austausches von Reise und Verkehrsdaten sowie derer Aktualisierung.
 Dies betrifft Personenverkehrdienste im Luft-, Schienen- und Straßenverkehr, in der Binnenschifffahrt oder Kombinationen davon. Der Wirkungsbereich bezieht das gesamte Streckennetz einschließlich urbaner Knoten ein.</description>
     </item>
-    
     <item>
       <title>Und es bewegt sich doch: Beim öffentlichen Nahverkehr</title>
       <link>https://okfn.de/blog/2017/04/update-offene-nahverkehrsdaten/</link>
       <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/04/update-offene-nahverkehrsdaten/</guid>
       <description>Seit dem Launch unserer Plattform rettedeinennahverkehr.de gibt es einige erfreuliche Entwicklungen:
 Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die Tagesordnung gebracht:
@@ -40,74 +36,60 @@ Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die
 Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine Fahrplandaten als GTFS heraus. Auch der Aachener Verkehrsverbund (AVV) gibt Daten heraus - und lizenziert sie als &amp;lsquo;gemeinfrei&amp;rsquo;.
 In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an - und auch der Hamburger HVV hat festgestellt, dass einzelne Verträge für die Datenbereitstellung zu aufwändig sind und wird die Daten in den kommenden Monaten öffnen.</description>
     </item>
-    
     <item>
       <title>Rette deinen Nahverkehr: Hilf mit, Fahrplandaten zu befreien</title>
       <link>https://okfn.de/blog/2017/03/rettedeinennahverkehr/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2017/03/rettedeinennahverkehr/</guid>
       <description>Deine Nahverkehrsapp nervt? Braucht zu lange zum Starten und du fragst dich, warum du in London eine bessere Auskunft bekommst als hier?
 Dann ist es Zeit für rettedeinennahverkehr.de. Gemeinsam machen wir unsere Landrät*innen und Oberbürgermeister*innen darauf aufmerksam, dass sie in ihrem Verkehrsverbund tatsächlich etwas bewegen können - indem sie die Fahrplandaten als Open Data für alle bereitstellen.
 Zugegeben – der öffentliche Nahverkehr hat noch viele andere Probleme. Er ist chronisch unterfinanziert, in kleinteilige Verbundgebiete zersplittert und hängt der technischen Entwicklung oft mehrere Jahre hinterher.</description>
     </item>
-    
     <item>
       <title>Feldversuch: Bahnhöfe und ihre Aufzüge für OpenStreetMap vermessen</title>
       <link>https://okfn.de/blog/2016/04/bahnvermessung/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2016/04/bahnvermessung/</guid>
       <description>Frankfurt – gerade einmal ein halbes Jahr ist es her, dass die Deutsche Bahn erstmals ihre Open-Data-Pläne ankündigte, und seither gab es kaum eine Verschnaufpause: Anfang November startete das Datenportal und im Dezember fanden nacheinander der 3. DB-Hackathon und ein Contest zur Nutzung der DB-Aufzugs-API statt, bevor das neue Open-Data-Jahr mit einer freien DB-Fahrplan-API für den Fernverkehr eingeläutet wurde. Die wurde in der Zwischenzeit auch schon interessiert begutachtet und für eigene Projekte genutzt.</description>
     </item>
-    
     <item>
       <title>Aufzugschallenge: Mit offenen Daten arbeiten, BahnCard gewinnen</title>
       <link>https://okfn.de/blog/2015/12/aufzugschallenge/</link>
       <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2015/12/aufzugschallenge/</guid>
       <description>Hamburg, 28.12.2015 – Wer schon immer eine Probe-BahnCard100 haben wollte, um quer durch Deutschland zu touren, hat jetzt die Gelegenheit, mit einem Open-Data-Projekt eine von dreien zu gewinnen. Noch während des 3. DB-Hackathons lobte die Bahn eine „Aufzugs-Challenge“ aus: Wer Ideen hat, mit der Echzeit-Status-API der Bahnhofsaufzüge interessante Prototypen, Experimente oder vollständige Anwendungen zu entwickeln, kann das eigene Projekt bis zum 10. Januar 2016 über das Formular auf der zugehörigen Website einreichen.</description>
     </item>
-    
     <item>
       <title>It&#39;s alive… data.deutschebahn.com</title>
       <link>https://okfn.de/blog/2015/11/its-alive-daten.deutschebahn/</link>
       <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2015/11/its-alive-daten.deutschebahn/</guid>
       <description>Frankfurt, 05.11.2015 19:00 Es ist hoch offiziös. http://data.deutschebahn.com ist online. Endlich. Sie bewegt sich doch. Unternehmen Zukunft. Die Bahn kommt. Und alle so: Yeah.
 – Wie unlängst angekündigt gibt es endlich ein Datenportal der Deutschen Bahn. Manche warteten ja ein gewisse Zeit drauf:
 @DB_Bahn / cc @jensbest Echter Fortschritt wäre http://t.co/2Ho63f66 und eine Runde Internformat. Der Rest kommt dann.
 &amp;mdash; Mathias Schindler (@presroi) September 11, 2012 Nun haben die Mühlen gemahlen, und die ersten Datensätze sind da – inklusive eines momentan noch recht überschaubaren Datenportals.</description>
     </item>
-    
     <item>
       <title>Ein erster Blick auf Aufzugsdaten: Erste Daten von der Bahn</title>
       <link>https://okfn.de/blog/2015/11/ein-erster-blick-auf-aufzugsdaten/</link>
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2015/11/ein-erster-blick-auf-aufzugsdaten/</guid>
       <description>Berlin, 02.11.2015 – Wie unlängst angekündigt hatte die Deutsche Bahn die Öffnung erster Datensätze als „echtes&amp;quot; Open Data in Aussicht gestellt, was nicht ohne Echo blieb:
 @okfde @_stk wooot! For real? Party to celebrate? Champagne? @OKFN
 &amp;mdash; Pieter Colpaert (@pietercolpaert) October 23, 2015 @_stk @pietercolpaert nur Aufzuege? Naja... Irgendwo muss man ja anfangen :)
 &amp;mdash; Tristram Gräbener (@tristramg) October 23, 2015 @tristramg @_stk @pietercolpaert &amp;#10;No realtime status and position about these elevators?</description>
     </item>
-    
     <item>
       <title>Die Bahn kommt… auf Open Data!</title>
       <link>https://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/</link>
       <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2015/10/die-bahn-kommt-auf-open-data/</guid>
       <description>Berlin, 23.10.2015 – Lange Zeit sah es so aus, als sei die Deutsche Bahn die letzte Bastion geschlossener Daten, aus der auf offiziellem Weg nicht auch nur ein Bit zu holen wäre. Doch was in diesem Frühjahr und Sommer mit zwei Hackathons in Frankfurt und Berlin anfing, soll keine Ausnahme bleiben: Auch die DB hat offenkundig die Vorteile von Open Data erkannt und bewegt sich auf eine Öffnung ihrer Daten zu.</description>
     </item>
-    
     <item>
       <title>Aktivitäten und Projekte im Juni 2013</title>
       <link>https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/</link>
       <pubDate>Mon, 08 Jul 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/07/aktivitaten-und-projekte-im-juni-2013/</guid>
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Rückblick in den Juni
@@ -115,32 +97,26 @@ Die ersten Ergebnisse des weltweiten Open Data Census haben gezeigt, dass die vo
 Voran gegangen sind die Kommunen Moers und Bochum in denen wir, gemeinsam mit der Initiative OpenRuhr, die offenen Ratsinformationssysteme moers.ris.openruhr.de und bochum.ris.openruhr.de veröffentlichten.
 In Berlin wurde beim Open Data Day die erfolgreiche Entwicklung der Stadt in Richtung mehr Verwaltungstransparenz gewürdigt, aber auch hitzig über aktuelle Streitfragen, wie die neuen deutschen Lizenzmodelle, diskutiert.</description>
     </item>
-    
     <item>
       <title>Apps &amp; the City Cologne</title>
       <link>https://okfn.de/blog/2013/06/apps-the-city-cologne/</link>
       <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/06/apps-the-city-cologne/</guid>
       <description>Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _Apps &amp;amp; the City_ Team der Open Knowledge Foundation Deutschland beim diesjährigen _Interactive Cologne_ Festival!
 Angelockt unter anderem durch aktuelle Gerüchte um Open-Transport-Data-Pläne sowohl bei den Kölner Verkehrsbetrieben (KVB) als auch bei den Verkehrsverbünden Rhein-Ruhr (VRR) und Rhein-Sieg (VRS) zog es zwischen 17. und 23. Juni 2013 neben Hackern, App-Entwicklern und Gründern auch das Apps &amp;amp; the City Team der Open Knowledge Foundation Deutschland sowie weitere Open-Data-Aktivisten in die Domstadt am Rhein.</description>
     </item>
-    
     <item>
       <title>Interactive Cologne: Apps &amp; the City in Köln</title>
       <link>https://okfn.de/blog/2013/06/interactive-cologne-apps-the-city/</link>
       <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/06/interactive-cologne-apps-the-city/</guid>
       <description>Zwischen 17. und 23. Juni wird die Domstadt Köln zur Hochburg für Hacker, Gründer und kreative Köpfe aus aller Welt, denn kommende Woche startet das Hack, Tech und Biz Festival Interactive Cologne! Mit dabei ist auch das Apps &amp;amp; the City Team der Open Knowledge Foundation Deutschland&amp;hellip;
 Wenn Hacker, Open-Data-Aktivisten und Startup-Gründer in Köln zusammen kommen um zu coden, zu diskutieren, zu planen und von einander zu lernen, dann ist das Interactive Cologne!</description>
     </item>
-    
     <item>
       <title>Aktivitäten und Projekte im Mai 2013</title>
       <link>https://okfn.de/blog/2013/06/newsletter-mai-2013/</link>
       <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/06/newsletter-mai-2013/</guid>
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Hier ist unser Bericht für Mai. Wer ihn abonnieren will, kann das hier tun.
@@ -148,36 +124,29 @@ Rückblick in den Mai
 Im Mai feierte die Open Knowledge Foundation ihren 9. Geburtstag. Spontan wurde am Gründungshaus in Cambridge eine Gedenktafel angebracht und einige Sektflaschen geleert.
 Entgegen unserer Vorsätze haben wir wieder viel zu viele schöne Maitage damit verbracht Überzeugungsarbeit und Lobbying zu betreiben. So argumentierten wir bei der Bund-Länder-Arbeitsgruppe und der Konferenz „Effizienter Staat“ gegen die Datenlizenz für deutsche Verwaltungsdaten.</description>
     </item>
-    
     <item>
       <title>Apps and the City: App Präsentation &amp; Daten Workshop</title>
       <link>https://okfn.de/blog/2013/04/apps-and-the-city-prasentation-daten-workshop/</link>
       <pubDate>Thu, 04 Apr 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/04/apps-and-the-city-prasentation-daten-workshop/</guid>
       <description>Mit einer umfassenden Vorstellung von prototypischen Apps, die im Rahmen des von der Open Knowledge Foundation Deutschland in Kooperation mit dem Verkehrsverbund Berlin-Brandenburg (VBB) durchgeführten Apps and the City Projekts in Berlin entwickelt wurden, fand nun am 22. März 2013 die erste öffentliche Zwischenpräsentation in den Räumlichkeiten des VBB statt.
 Nachdem sich bereits im Dezember letzten Jahres über 100 Entwickler, Designer und Forscher sowie Web-Worker und Gründer während des gut elfstündigen _Apps and the City Hackdays_ mit den vom VBB veröffentlichten, offenen Transportdaten für Berlin und Brandenburg auseinandersetzten, ging es bei diesem Follow-Up insbesondere darum, entstandene Projektideen und erste umfangreichere Prototypen vorzustellen sowie gemachte Erfahrungen im Umgang sowohl mit den GTFS-Daten als auch mit der Echtzeitdaten-API auszutauschen.</description>
     </item>
-    
     <item>
       <title>Apps and the City Rückblick</title>
       <link>https://okfn.de/blog/2012/12/apps-and-the-city-ruckblick/</link>
       <pubDate>Fri, 21 Dec 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2012/12/apps-and-the-city-ruckblick/</guid>
       <description>+++ 150 Teilnehmer, 15 Projekt Pitches, 5 Kisten Club Mate, 11 Stunden hacking +++
 Für uns als Open Knowledge Foundation war der Apps and the City Nahverkehrshackday ein großer Erfolg, nicht nur, dass der VBB als erster Verkehrsverbund Deutschlands seine Datenschätze im Sinne von Open Data geöffnet hat, sondern auch die Tatsache, dass es sehr großes Interesse Seitens der Entwickler-Community an den Daten gab.
 Erst mit Hilfe von Entwicklern, Designern und Forschern entstehen aus Rohdaten, nützliche Anwendungen.</description>
     </item>
-    
     <item>
       <title>Open Data Nahverkehr Berlin/ Brandenburg: Update zum Status Quo und den Entwicklungen</title>
       <link>https://okfn.de/blog/2012/09/open-data-nahverkehr-berlin-brandenburg-update-zum-status-quo-und-den-entwicklungen/</link>
       <pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2012/09/open-data-nahverkehr-berlin-brandenburg-update-zum-status-quo-und-den-entwicklungen/</guid>
       <description>Nach dem ersten Treffen des Arbeitskreises &amp;ldquo;Open Data Nahverkehr Berlin/Brandenburg&amp;rdquo; vor zwei Monaten hat sich der vbb dazu entschlossen in Kürze einen ersten Fahrplandatensatz auf dem Datenportal daten.berlin.de zu veröffentlichen. Das ist ein erster kleiner Erfolg doch wir wollen gemeinsam noch mehr erreichen, unser Ziel ist eine Veröffentlichung der Echtzeitdaten und die Bereitstellung der Haltestellenpläne. Mithilfe dieser Daten und Informationen können noch bessere und nützlichere Anwendungen im Bereich des öffentlichen Nahverkehrs entstehen.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,18 +6,17 @@
     <description>Recent content in Verkehr on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 14 May 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/verkehr/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/verkehr/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Newsletter OKF DE April 2013</title>
       <link>https://okfn.de/blog/2013/05/newsletter-okf-de-april-2013/</link>
       <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2013/05/newsletter-okf-de-april-2013/</guid>
       <description>Monatlicher Bericht über Aktivitäten und Projekte der Open Knowledge Foundation Deutschland.
 Hier ist unser neu gestalteter Monatsbericht. Wer ihn noch nicht abonniert hat, kann das hier nachholen.
 Rückblick in den April
 Der April war sehr ereignisreich für uns. Ein wichtiger Termin war der Launch des Offenen Haushalts von Berlin. Die Idee ist, die Ausgaben und Einnahmen der Verwaltung mithilfe der Software OpenSpending aufzubereiten und leicht zugänglich zu präsentieren. Wir hoffen, dass bald noch mehr Länder und Städte folgen.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,25 +6,22 @@
     <description>Recent content in Katharina Meyer on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/authors/katharina-meyer/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/authors/katharina-meyer/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infrastructure first, Innovation second!</title>
       <link>https://okfn.de/blog/2021/08/stf-infrastructure/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2021/08/stf-infrastructure/</guid>
       <description>Verschiedene Arten von Infrastrukturen verbindet, dass sie in der Regel beinahe unsichtbar sind - und deshalb gerne in Vergessenheit geraten. Ob Internet-Kabel auf dem Meeresgrund, die Straßen unter unseren Füßen und Reifen, oder die untersten Schichten eines Technologiestacks - Infrastrukturen wirken im Verborgenen. Weshalb die Resilienz und Sicherheit von Software-Infrastruktur und Raum für offene Standards für die Arbeit der OKF und die gesamte Gesellschaft wichtig ist - und was wir zu deren Steigerung unternehmen wollen, berichtet wir euch im Blogpost.</description>
     </item>
-    
     <item>
       <title>Der Prototype Fund geht in die 8. Runde: Förderung von bis zu 47.500 € für Open-Source-Projekte</title>
       <link>https://okfn.de/blog/2020/02/prototype-fund-achte-runde/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2020/02/prototype-fund-achte-runde/</guid>
       <description>Nachdem uns über die letzten sieben Runden Projektvorschläge zu so unterschiedlichen Schwerpunkten wie Machine Learning oder Vertrauen in und durch Technologie erreicht haben, wollen wir mit der Runde 8 bis zum 31.3.2020 noch einmal die ganze Bandbreite von Public Interest Technologie einfangen.
 Während wir in den bisherigen Schwerpunkten beispielsweise den Fokus darauf gelegt haben, welche Ansätze Entwicklerinnen verfolgen, um Nutzerinnen und ihre Daten zu schützen oder Maschinen lernen zu lassen, ist uns wichtig zu sehen, welche Themen euch darüber hinaus umtreiben – und wie sich das Ökosystem entwickelt hat.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,26 +6,23 @@
     <description>Recent content in Hackathon on OKF</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://okfn.de/tags/hackathon/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/tags/hackathon/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding da Vinci - Kultur-Hackathon geht in die erste Runde</title>
       <link>https://okfn.de/blog/2014/05/kultur-hackathon-erste-runde/</link>
       <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2014/05/kultur-hackathon-erste-runde/</guid>
       <description>“Alles so schön Kultur hier…” schreibt Julian Kücklich an die Papierrolle, an der er den Hackathon grafisch mitverfolgt. Kein Wunder, denn mit viel Kaffee und Mate ging unser Kultur-Hackathon Coding da Vinci am 26./27. April in die erste Runde. Teilnehmer/innen stellten sich der Challenge, aus 20 offenen Datensets Projekte für den Kulturbereich zu entwickeln.
 150 Teilnehmer/innen und 11 Kulturinstitutionen aus ganz Deutschland hatten die Gelegenheit, miteinander ins Gespräch zu kommen und anschließend gemeinsam Projektideen zu entwickeln.</description>
     </item>
-    
     <item>
       <title>Hack4Europe! 2012 Berlin</title>
       <link>https://okfn.de/blog/2012/04/hack4europe-2012-berlin/</link>
       <pubDate>Thu, 26 Apr 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://okfn.de/blog/2012/04/hack4europe-2012-berlin/</guid>
       <description>Hack4Europe! is a series of hack days organised by the Europeana Foundation and its partners and provides an exciting environment to explore the potential of open cultural data for social and economic growth in Europe. To feel the atmosphere to the event you can read a short summary of one of the events from the last year edition. See the Video from 2011 events:
 Hack4Europe! Road Show, 7-11 June 2011 from europeana on Vimeo.</description>
     </item>
-    
   </channel>
 </rss>
