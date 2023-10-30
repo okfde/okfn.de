@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: static/files/publikationen/2023-01-31_OKF_HessischesEGovGesetz_Stellungnahme.pdf
+file: static/files/publikationen/2023-03-03_OKF_HessischesOpenDataGesetz_Stellungnahme.pdf
 format: pdf
 pages: 8
 size: 1.16MB
