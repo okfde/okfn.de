@@ -1,22 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>2023-09-27T00:00:00+0000</updated>
+  <updated>0001-01-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
-  
-  <entry>
-    <title>Der Prototype Fund sucht eine Person für das Programmmanagement</title>
-    <link rel="alternate" href="https://okfn.de/jobs/ptf-programmmanagement/"/>
-    <id>https://okfn.de/jobs/ptf-programmmanagement/</id>
-    <published>2023-09-27T00:00:00+0000</published>
-    <updated>2023-09-27T00:00:00+0000</updated>
-    <summary>Im Prototype Fund suchen wir eine Person, die unsere Förderprojekte betreut. Dabei stehst du den Teams und Einzelentwicker*innen während ihrer Förderzeit zur Seite, übernimmst die Organisation unterschiedlicher Austausch- und Coachingformate und begleitest die Geförderten in der Vorbereitung ihrer Projektvorstellungen am Ende der Förderzeit.
-Es fällt dir leicht, mit vielen unterschiedlichen Menschen regelmäßig zu kommunizieren und ihnen in guten wie schlechten Projektphasen zur Seite zu stehen. Du bist gern die Person im Team, die dafür sorgt, dass alles glatt läuft und Organisationsaufgaben übernimmt.</summary>
-  </entry>
   
 </feed>
