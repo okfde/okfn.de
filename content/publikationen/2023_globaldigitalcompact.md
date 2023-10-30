@@ -4,7 +4,7 @@ subtitle:
 published: true
 date: 2023-09-13
 layout: publikation
-img: /files/images/Learning7.jpg
+img: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 categories: policy statements
 people:
