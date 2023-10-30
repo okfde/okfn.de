@@ -30,16 +30,6 @@ Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Ve
     </item>
     
     <item>
-      <title>Stellungnahme zum Gesetzentwurf für ein Open-Data-Gesetz in Schleswig-Holstein</title>
-      <link>https://okfn.de/publikationen/2021_stellungnahme_open-data_sh/</link>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/publikationen/2021_stellungnahme_open-data_sh/</guid>
-      <description>Die Bereitstellung von Open Data ist ein zentrales Element in der Umsetzung des Offenen Regierungshandeln und maßgebliche Voraussetzung für Transparenz, Nachvollziehbarkeit und Überprüfbarkeit politischen Handelns, Akzeptanz politischer Entscheidungen, Meinungsbildung und Partizipation.
-In der Stellungnahme werden die Einschätzungen der Open Knowledge Foundation zu Artikel 10 (“Offene-Daten-Gesetz”) des Gesetzentwurfs dargelegt.</description>
-    </item>
-    
-    <item>
       <title>Jahresbericht Open Knowledge Foundation Deutschland e.V. 2022</title>
       <link>https://okfn.de/publikationen/2022-jahresbericht/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
@@ -94,6 +84,16 @@ Unsere Anmerkungen und Kritikpunkte sind in dieser Stellungnahme nachzulesen.</d
       
       <guid>https://okfn.de/publikationen/2021_sovereigntechfeasibility/</guid>
       <description>Im Rahmen einer Machbarkeitsstudie, die vom Bundesministerium für Wirtschaft und Klimaschutz gefördert wurde, prüfte die OKF die Bedarfe und Möglichkeiten für ein Förderprogramm für Offene Digitale Basistechnologien. Die Idee für einen Fund orientiert sich u. a. an Open Technology Funds Core Infrastructure Fund und kann von dessen und den Erfahrungen aus anderen Programmen, z. B. des Prototype Funds, lernen und bereits getestete Verfahren übernehmen. Für das Design des Sovereign Tech Fund wurden zahlreiche weitere, bereits existierende Programme analysiert, Interviews mit Entwickler:innen und Stakeholdern im Open-Source-Ökosystem geführt sowie Expert:innen-Workshops gehalten.</description>
+    </item>
+    
+    <item>
+      <title>Stellungnahme zum Gesetzentwurf für ein Open-Data-Gesetz in Schleswig-Holstein</title>
+      <link>https://okfn.de/publikationen/2021_stellungnahme_open-data_sh/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/2021_stellungnahme_open-data_sh/</guid>
+      <description>Die Bereitstellung von Open Data ist ein zentrales Element in der Umsetzung des Offenen Regierungshandeln und maßgebliche Voraussetzung für Transparenz, Nachvollziehbarkeit und Überprüfbarkeit politischen Handelns, Akzeptanz politischer Entscheidungen, Meinungsbildung und Partizipation.
+In der Stellungnahme werden die Einschätzungen der Open Knowledge Foundation zu Artikel 10 (“Offene-Daten-Gesetz”) des Gesetzentwurfs dargelegt.</description>
     </item>
     
   </channel>
