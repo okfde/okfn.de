@@ -1,5 +1,5 @@
 ---
-title: Stellungnahme zum Zwischenbericht des zweiten Aktionsplans der Open Governmental Partnership (2019-2021)
+title: Stellungnahme zum Zwischenbericht des Zweiten Aktionsplans der Open Governmental Partnership (2019-2021)
 subtitle: 
 published: true
 date: 2020-08-31
