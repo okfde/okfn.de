@@ -1,5 +1,5 @@
 ---
-title: Stellungnahmen des Bündnis F5 zum Demokratiefördergesetz (DFördG)
+title: Stellungnahmen des Bündnis F5 zum Referentenentwurf des Demokratiefördergesetz (DFördG)
 subtitle: 
 published: true
 date: 2022-03-21
