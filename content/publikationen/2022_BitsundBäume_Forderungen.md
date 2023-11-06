@@ -1,5 +1,5 @@
 ---
-title: Forderungspapier: Digitalisierung zukunftsfähig und nachhaltig gestalten
+title: "Forderungspapier: Digitalisierung zukunftsfähig und nachhaltig gestalten"
 subtitle: Politische Forderungen anlässlich der „Bits & Bäume“-Konferenz 2022
 published: true
 date: 2022-09-05
