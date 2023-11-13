@@ -16,7 +16,8 @@ size: 207KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "[Zum Gesetzgebungsverfahren](https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2022_Modernisierung_des_Verkuendungs_und_Bekanntmachungswesens.html)"
+  - url: "<a href=\"https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2022_Modernisierung_des_Verkuendungs_und_Bekanntmachungswesens.html\" target=\"_blank\">Zum Gesetzgebungsverfahren</a>"
+  - "[Zum Gesetzgebungsverfahren](https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2022_Modernisierung_des_Verkuendungs_und_Bekanntmachungswesens.html)"
 ---
 
 Organisationen der digitalen Zivilgesellschaft fordern bereits seit vielen Jahren die Bereitstellung von Gesetzestexten als Open Data. Die Open Knowledge Foundation Deutschland begrüßt daher, dass die Bundesregierung das
