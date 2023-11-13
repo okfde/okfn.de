@@ -16,7 +16,7 @@ size: 153KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "[Zum Zwischenbericht](https://www.bundesregierung.de/breg-de/service/publikationen/open-government-deutschland-zweiter-nationaler-aktionsplan-2019-2022-zwischenbericht-1997160)"
+  - url: "<a href=\"https://www.bundesregierung.de/breg-de/service/publikationen/open-government-deutschland-zweiter-nationaler-aktionsplan-2019-2022-zwischenbericht-1997160\" target=\"_blank\">Zum Zwischenbericht</a>"
 ---
 
 Die Open Knowledge Foundation Deutschland unterstützt Deutschlands Bemühungen, die Ziele der Open Government Partnership umzusetzen und begrüßt die vielen Fortschritte, die im Vergleich zum Ersten Nationalen Aktionsplan zu verzeichnen sind. 
