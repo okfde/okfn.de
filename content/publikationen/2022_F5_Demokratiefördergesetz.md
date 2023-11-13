@@ -16,8 +16,8 @@ size: 292KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "[Zum Gesetzgebungsverfahren](https://www.bmfsfj.de/bmfsfj/service/gesetze/gesetz-zur-staerkung-von-massnahmen-zur-demokratiefoerderung-vielfaltgestaltung-extremismuspraevention-und-politischen-bildung-demokratiefoerdergesetz--207726)"
-  - url: "[Zur Website des Bündnis F5](https://buendnis-f5.de/)"
+  - url: "<a href=\"https://www.bmfsfj.de/bmfsfj/service/gesetze/gesetz-zur-staerkung-von-massnahmen-zur-demokratiefoerderung-vielfaltgestaltung-extremismuspraevention-und-politischen-bildung-demokratiefoerdergesetz--207726/\" target=\"_blank\">Zum Gesetzgebungsverfahren</a>"
+  - url: "<a href=\"https://buendnis-f5.de/\" target=\"_blank\">Zur Website des Bündnis F5</a>"
 ---
 
 Eine lebendige Demokratie braucht zivilgesellschaftliches Engagement; dieses Engagement wiederum braucht Schutz und Förderung.
