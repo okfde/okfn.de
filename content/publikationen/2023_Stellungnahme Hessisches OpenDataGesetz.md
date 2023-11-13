@@ -16,7 +16,7 @@ size: 2.2MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "<a href=\"https://starweb.hessen.de/cache/DRS/20/9/10379.pdf)\" target=\"_blank\">Zum Gesetzentwurf</a>"
+  - url: "<a href=\"https://starweb.hessen.de/cache/DRS/20/9/10379.pdf\" target=\"_blank\">Zum Gesetzentwurf</a>"
 ---
 
 Die Bereitstellung von Open Data ist ein zentrales Element in der Umsetzung des Offenen Regierungshandeln und maßgebliche Voraussetzung für Transparenz, Nachvollziehbarkeit und Überprüfbarkeit politischen Handelns, Akzeptanz politischer Entscheidungen, Meinungsbildung und Partizipation.
