@@ -16,8 +16,8 @@ size: 65.7KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "<a href=\"(https://okfn.de/blog/2023/07/pm-dsc/)" target=\"_blank\">Zum Blogartikel</a>"
-  - url: "<a href=\"(https://buendnis-f5.de/)" target=\"_blank\">Zur Website des Bündnis F5</a>"
+  - url: "<a href=\"https://okfn.de/blog/2023/07/pm-dsc/" target=\"_blank\">Zum Blogartikel</a>"
+  - url: "<a href=\"https://buendnis-f5.de/" target=\"_blank\">Zur Website des Bündnis F5</a>"
   
 ---
 
