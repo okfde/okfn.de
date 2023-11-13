@@ -16,8 +16,8 @@ size: 265KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "[Zur Zukunftsstrategie Forschung und Innovation des BMBF](https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftsstrategie_node.html)"
-  - url: "[Zur Website des Bündnis F5](https://buendnis-f5.de/)"
+  - url: "<a href=\"https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftsstrategie_node.html\" target=\"_blank\">Zur Zukunftsstrategie Forschung und Innovation des BMBF</a>"
+  - url: "<a href=\"https://buendnis-f5.de/\" target=\"_blank\">Zur Website des Bündnis F5</a>"
 ---
 
 Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht. 
