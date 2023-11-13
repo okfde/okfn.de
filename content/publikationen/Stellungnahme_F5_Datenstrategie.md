@@ -16,8 +16,8 @@ size: 104KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "[Zur Weiterentwicklung der Datenstrategie](https://www.bundesregierung.de/breg-de/themen/digitalisierung/datenstrategie-2023-2216620)"
-  - url: "[Zur Website des Bündnis F5](https://buendnis-f5.de/)"
+  - url: "[Zur Weiterentwicklung der Datenstrategie](https://www.bundesregierung.de/breg-de/themen/digitalisierung/datenstrategie-2023-2216620){:target='_blank'}"
+  - url: "[Zur Website des Bündnis F5](https://buendnis-f5.de/){:target='_blank'}"
 ---
 „Fortschritt durch Datennutzung“ – so lautet die Weiterentwicklung der Datenstrategie von 2021, die zur Mitte der Legislatur veröffentlicht wurde. Es ist deutlich erkennbar, dass die Bedeutung der Datenpolitik nun stärker als gesamtgesellschaftliches Thema begriffen wird. Dennoch verharrt das Dokument im üblichen Modus der zusammengeschusterten Strategiepapiere als Sammelsurium verschiedener bekannter Ansätze und Einzelmaßnahmen; ein Gesamtrahmen mit klaren Governance-Strukturen, Rollen und Prozessen sowie einer soliden Dateninfrastruktur für eine planvolle und effektive Umsetzung der bereits beschlossenen Maßnahmen fehlt weiterhin.
 
