@@ -3,7 +3,7 @@ title: Funding for Future - Wirkungen eines leichtgewichtigen und niederschwelli
 subtitle: Ein Handbuch des Prototype Fund
 published: true
 date: 2022-04-01
-layout: publikationen
+layout: publikation
 img: /files/images/Handbuch2.jpg
 kategorien: Handbücher
 people:
