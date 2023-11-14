@@ -9,14 +9,14 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Geraldine de Bastion, Marcel Dorsch, Friederike von Franqué et al.
-file: /static/files/publikationen/2023_Positionspapier_digZG_zum_GDC.pdf
+file: https://github.com/okfde/okfn.de/blob/master/static/files/publikationen/2023_Positionspapier_digZG_zum_GDC.pdf
 format: pdf
 pages: 7
 size: 184KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "<a href=\"https://www.un.org/techenvoy/global-digital-compact)\" target=\"_blank\">Global Digital Compact</a>"
+  - url: "<a href=\"https://www.un.org/techenvoy/global-digital-compact\" target=\"_blank\">Global Digital Compact</a>"
   - url: "<a href=\"https://indonesia.un.org/sites/default/files/2023-07/our-common-agenda-policy-brief-gobal-digi-compact-en.pdf\" target=\"_blank\">United Nations, Common Agenda Policy Brief 5: A Global Digital Compact — an Open, Free and Secure Digital Future for All</a>"
 ---
 
