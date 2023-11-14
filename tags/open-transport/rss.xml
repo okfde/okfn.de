@@ -16,7 +16,7 @@
       <description>Seit dem Launch unserer Plattform rettedeinennahverkehr.de gibt es einige erfreuliche Entwicklungen:
 Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die Tagesordnung gebracht:
 {% youtube pmvkwoiFwHc?t=85&amp;amp; %}
-Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine Fahrplandaten als GTFS heraus. Auch der Aachener Verkehrsverbund (AVV) gibt Daten heraus - und lizenziert sie als &amp;lsquo;gemeinfrei&amp;rsquo;.
+Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine Fahrplandaten als GTFS heraus. Auch der Aachener Verkehrsverbund (AVV) gibt Daten heraus - und lizenziert sie als &amp;amp;lsquo;gemeinfrei&amp;amp;rsquo;.
 In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an - und auch der Hamburger HVV hat festgestellt, dass einzelne Verträge für die Datenbereitstellung zu aufwändig sind und wird die Daten in den kommenden Monaten öffnen.</description>
     </item>
     <item>
@@ -117,7 +117,7 @@ In Berlin wurde beim Open Data Day die erfolgreiche Entwicklung der Stadt in Ric
       <link>https://okfn.de/blog/2013/06/apps-the-city-cologne/</link>
       <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2013/06/apps-the-city-cologne/</guid>
-      <description>Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _Apps &amp;amp; the City_ Team der Open Knowledge Foundation Deutschland beim diesjährigen _Interactive Cologne_ Festival!
+      <description>Neben hunderten Hackern, Startup-Gründern, Technologie-Enthusiasten und Visionären war auch das _Apps &amp;amp;amp; the City_ Team der Open Knowledge Foundation Deutschland beim diesjährigen _Interactive Cologne_ Festival!
 Angelockt unter anderem durch aktuelle Gerüchte um Open-Transport-Data-Pläne sowohl bei den Kölner Verkehrsbetrieben (KVB) als auch bei den Verkehrsverbünden Rhein-Ruhr (VRR) und Rhein-Sieg (VRS) zog es zwischen 17. und 23. Juni 2013 neben Hackern, App-Entwicklern und Gründern auch das Apps &amp;amp; the City Team der Open Knowledge Foundation Deutschland sowie weitere Open-Data-Aktivisten in die Domstadt am Rhein.</description>
     </item>
     <item>
@@ -186,7 +186,7 @@ Erst mit Hilfe von Entwicklern, Designern und Forschern entstehen aus Rohdaten, 
       <link>https://okfn.de/blog/2012/11/einladung-zum-nahverkehrs-hackday-in-berlin/</link>
       <pubDate>Mon, 26 Nov 2012 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2012/11/einladung-zum-nahverkehrs-hackday-in-berlin/</guid>
-      <description>Berlin öffnet seine Nahverkehrsdaten! Wir laden gemeinsam mit dem Verkehrsverbund Berlin-Brandenburg (VBB), der Senatsverwaltung für Wirtschaft, Technologie und Forschung und dem Berlin Online Stadtportal GmbH zum Apps &amp;amp; the City“-Hackday ein.
+      <description>Berlin öffnet seine Nahverkehrsdaten! Wir laden gemeinsam mit dem Verkehrsverbund Berlin-Brandenburg (VBB), der Senatsverwaltung für Wirtschaft, Technologie und Forschung und dem Berlin Online Stadtportal GmbH zum Apps &amp;amp;amp; the City“-Hackday ein.
 Am 29. November 2012 sind ProgrammiererInnen, SoftwareentwicklerInnen und Open Data-Enthusiasten dazu eingeladen, neue Anwendungen für den Nahverkehr zu entwickeln und Probleme rund um das Thema Nahverkehr zu bearbeiten. Dazu stellt der VBB Bus- und Bahn-Fahrplandaten aus Berlin und Brandenburg im GTFS-Format (General Transit Feed Specification) zur Verfügung.</description>
     </item>
   </channel>

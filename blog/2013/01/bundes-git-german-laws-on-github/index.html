@@ -18,7 +18,7 @@
 <link rel="preload" href="/fonts/apercu-regular-pro.woff" as="font" type="font/woff" crossorigin>
 
 
-<link rel="stylesheet" href="/sass/main.min.25b6891e2e98dc65e49d8650caa8cf8f00c45484a320ed492a4847dd9ddaa413.css">
+<link rel="stylesheet" href="/sass/main.min.5f767c58a0358fe9a55372bfe62b982cf6c0437968863a9f2b120178ba17e6bb.css">
 <script src="/js/banner.js"></script>
 
 
@@ -440,10 +440,10 @@ If you compare software code and legislation you can find many similarities: bot
 <p>If you compare software code and legislation you can find many similarities: both are big bodies of text spread over multiple units (laws/files). The total amount of text inevitably grows bigger over time with many small changes to existing parts while most of the corpus stays the same.</p>
 <p>However, the tooling and editing process for these domains is very different: while developers are in the fortunate position that they can build and improve their own tools, legislators are stuck with proprietary tools like MS Word that are simply not built to collaboratively work on a big corpus of text.</p>
 <p>But if source code and laws have a similar information structure, why not apply the tools used in software development to the legislative process? That is what Bundes-Git (&ldquo;Federal Git&rdquo;) is currently trying out in Germany.</p>
-<p><a href="https://github.com/bundestag/gesetze">Bundes-Git</a> is a Git version control repository of all German Federal Laws and Regulations as Markdown. The goal was to come up with the simplest solution to handle laws that could possibly work and integrate it well into the existing developer ecosystem.<br>
+<p><a href="https://github.com/bundestag/gesetze" target="_blank">Bundes-Git</a> is a Git version control repository of all German Federal Laws and Regulations as Markdown. The goal was to come up with the simplest solution to handle laws that could possibly work and integrate it well into the existing developer ecosystem.<br>
  </p>
-<p>The idea has been well received with <a href="http://www.wired.com/wiredenterprise/2012/08/bundestag/">an article on Wired.com</a> and articles on German IT news sites <a href="http://www.heise.de/open/meldung/Entwicklungshistorie-von-Gesetzen-mit-Git-verfolgen-1662758.html">Heise</a> and <a href="http://okfnlabs.org/blog/2012/12/13/www.golem.de/news/bundesgit-ein-git-repository-fuer-deutsche-gesetze-1208-93709.html">Golem</a>.</p>
-<p>The popularity can surely also be attributed to our marvelous Bundes-Git mascot, dubbed octo eagle, thought up by myself and designed by <a href="https://kkaefer.com/">Konstantin Käfer</a> released under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> (please go this way if you are <a href="http://bundesgit.spreadshirt.de/">interested in a t-shirt or hoodie</a>).</p>
+<p>The idea has been well received with <a href="http://www.wired.com/wiredenterprise/2012/08/bundestag/" target="_blank">an article on Wired.com</a> and articles on German IT news sites <a href="http://www.heise.de/open/meldung/Entwicklungshistorie-von-Gesetzen-mit-Git-verfolgen-1662758.html" target="_blank">Heise</a> and <a href="http://okfnlabs.org/blog/2012/12/13/www.golem.de/news/bundesgit-ein-git-repository-fuer-deutsche-gesetze-1208-93709.html" target="_blank">Golem</a>.</p>
+<p>The popularity can surely also be attributed to our marvelous Bundes-Git mascot, dubbed octo eagle, thought up by myself and designed by <a href="https://kkaefer.com/" target="_blank">Konstantin Käfer</a> released under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a> (please go this way if you are <a href="http://bundesgit.spreadshirt.de/" target="_blank">interested in a t-shirt or hoodie</a>).</p>
 <h3 id="design-decisions-explained">Design decisions explained</h3>
 <p>All other law storage formats use XML. But to me XML is neither human readable nor human writable. Let me get into the details of some of the design decisions:</p>
 <ul>
@@ -456,20 +456,20 @@ If you compare software code and legislation you can find many similarities: bot
 </ul>
 <p>There are some more software development concepts that can be applied to the legislation process. Here are some fun things I&rsquo;d like to try:</p>
 <ul>
-<li>A <a href="http://prose.io/">prose.io</a>-like editor to easily create law proposals and make a pull request.</li>
-<li>Measuring the complexity of corpus/laws/paragraphs and using Travis CI to test pull requests if they make the complexity worse. <a href="http://www.clips.ua.ac.be/pages/pattern">Pattern</a> is a Python NLP library and they recently released a <a href="http://www.clips.ua.ac.be/pages/pattern-de">German module</a> which I want to try on our laws.</li>
+<li>A <a href="http://prose.io/" target="_blank">prose.io</a>-like editor to easily create law proposals and make a pull request.</li>
+<li>Measuring the complexity of corpus/laws/paragraphs and using Travis CI to test pull requests if they make the complexity worse. <a href="http://www.clips.ua.ac.be/pages/pattern" target="_blank">Pattern</a> is a Python NLP library and they recently released a <a href="http://www.clips.ua.ac.be/pages/pattern-de" target="_blank">German module</a> which I want to try on our laws.</li>
 <li>Testing foreign key integrity: are all referenced paragraphs still available?</li>
-<li>Create an informative visualization out of the Git log automatically like <a href="http://blog.openingparliament.org/post/37650393621/what-opening-parliamentary-information-can-tell-us">Gregor Aisch did by hand for the German political party law</a>.</li>
+<li>Create an informative visualization out of the Git log automatically like <a href="http://blog.openingparliament.org/post/37650393621/what-opening-parliamentary-information-can-tell-us" target="_blank">Gregor Aisch did by hand for the German political party law</a>.</li>
 <li>Let the German president sign off on commits to master.</li>
 </ul>
 <p>The design decisions around Bundes-Git fit nicely into the Git/GitHub eco system but they are not set in stone. They also create some problems and annoyances that need to be fixed or circumvented. While I believe the general philosophy and the freshness of the approach is the right direction, we clearly need more discussion.</p>
 <h3 id="future-happenings-around-bundes-git">Future happenings around Bundes-Git:</h3>
 <ul>
-<li>We applied for funding at <a href="http://innovation.globalintegrity.org/idea-submissions/2012/12/10/applying-version-control-to-the-legislative-process">Testing 123 Global Integrity Innovation Fund</a>. Bundes-Git definitely fits their criteria of brand new, innovative and high-risk. The decision will be made later this month, fingers crossed!</li>
-<li><strong>There will be Bundes-Git Hacker Meetup in mid January. If you are interested, <a href="https://terminplaner.dfn.de/foodle.php?id=hhndrdx742az60wf">sign up here</a>.</strong></li>
+<li>We applied for funding at <a href="http://innovation.globalintegrity.org/idea-submissions/2012/12/10/applying-version-control-to-the-legislative-process" target="_blank">Testing 123 Global Integrity Innovation Fund</a>. Bundes-Git definitely fits their criteria of brand new, innovative and high-risk. The decision will be made later this month, fingers crossed!</li>
+<li><strong>There will be Bundes-Git Hacker Meetup in mid January. If you are interested, <a href="https://terminplaner.dfn.de/foodle.php?id=hhndrdx742az60wf" target="_blank">sign up here</a>.</strong></li>
 </ul>
-<p>We decided that the language of discussion on GitHub will be German, but feel free to start a conversation on the <a href="http://lists.okfn.org/mailman/listinfo/open-legislation">OKF Open Legislation mailing list</a>.</p>
-<p><strong>Also be sure to follow <a href="https://twitter.com/bundesgit">@bundesgit on Twitter</a>!</strong></p>
+<p>We decided that the language of discussion on GitHub will be German, but feel free to start a conversation on the <a href="http://lists.okfn.org/mailman/listinfo/open-legislation" target="_blank">OKF Open Legislation mailing list</a>.</p>
+<p><strong>Also be sure to follow <a href="https://twitter.com/bundesgit" target="_blank">@bundesgit on Twitter</a>!</strong></p>
 </div>
       </div>
     </div>
