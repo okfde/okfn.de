@@ -12,7 +12,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta, Dénes Jäger
-file: https://github.com/okfde/okfn.de/blob/92a76c5b30be31e6097f8cf6506576d0ff49b655/static/files/publikationen/2023-03-03_OKF_HessischesOpenDataGesetz_Stellungnahme.pdf?raw=true
+file: https://github.com/okfde/okfn.de/blob/0fac739aa831708dd7b92d096ba1f9952fbfd4af/static/files/publikationen/2023-03-03_OKF_HessischesOpenDataGesetz_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 8
 size: 2.2MB
