@@ -4,7 +4,8 @@ subtitle:
 published: true
 date: 2023-07-06
 layout: publikation
-img: /files/images/Policy5.jpg
+image:
+  src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 categories: policy statements
 people:

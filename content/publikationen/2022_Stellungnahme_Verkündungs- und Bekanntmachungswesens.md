@@ -4,7 +4,8 @@ subtitle: Referentenentwurf des Bundesministeriums der Justiz für ein Gesetz zu
 published: true
 date: 2022-05-03
 layout: publikation
-img: /files/images/Policy5.jpg
+image:
+  src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 categories: policy statements
 people:

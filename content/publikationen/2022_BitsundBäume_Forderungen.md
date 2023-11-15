@@ -4,7 +4,8 @@ subtitle: Politische Forderungen anlässlich der „Bits & Bäume“-Konferenz 2
 published: true
 date: 2022-09-05
 layout: publikation
-img: /files/images/Policy5.jpg
+image:
+  src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 categories: policy statements
 people:

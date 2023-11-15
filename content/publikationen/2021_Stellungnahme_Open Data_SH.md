@@ -4,7 +4,8 @@ subtitle: Gesetzentwurf zur Förderung der Digitalisierung und Bereitstellung vo
 published: true
 date: 2021-07-19
 layout: publikation
-img: /files/images/Policy5.jpg
+image:
+  src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 categories: policy statements
 people:

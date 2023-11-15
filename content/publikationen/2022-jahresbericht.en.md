@@ -3,7 +3,8 @@ title: Open Knowledge Foundation Germany e.V. - 2022 Annual report
 published: true
 date: 2023-06-28
 layout: publikation
-img: /files/images/Policy5.jpg
+image:
+  src: /files/images/Policy5.jpg
 kategorien: Annual reports
 categories: Annual reports
 people:
