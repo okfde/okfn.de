@@ -1,5 +1,5 @@
 ---
-title: Stellungnahme zur Modernisierung des Verkündungs- und Bekanntmachungswesens
+title: Gesetzentwurf E-Verkündung
 subtitle: Referentenentwurf des Bundesministeriums der Justiz für ein Gesetz zur Modernisierung des Verkündungs- und Bekanntmachungswesens
 published: true
 date: 2022-05-03
