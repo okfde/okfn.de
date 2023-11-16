@@ -1,5 +1,5 @@
 ---
-title: Stellungnahmen des Bündnis F5 zur Engagementstrategie des Bundes
+title: Bündnis F5 zur Engagementstrategie des Bundes
 subtitle: 
 published: true
 date: 2023-06-08
