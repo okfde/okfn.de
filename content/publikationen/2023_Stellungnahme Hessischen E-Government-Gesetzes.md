@@ -1,6 +1,6 @@
 ---
-title: Stellungnahme zur Änderung des Hessischen E-Government-Gesetzes
-subtitle: Gesetzentwurf zur Änderung des Hessischen E-Government- Gesetzes und weiterer Vorschriften (Drucksache 20/9427) sowie zum Änderungsantrag der Fraktion der SPD (Drucksache 20/9688)
+title: E-Government-Gesetz Hessen
+subtitle: 
 published: true
 date: 2023-01-31
 layout: publikation
