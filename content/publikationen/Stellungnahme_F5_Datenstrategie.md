@@ -1,5 +1,5 @@
 ---
-title: Stellungnahme des Bündnis F5 zur Datenstrategie der Bundesregierung
+title: Bündnis F5 zur Datenstrategie der Bundesregierung
 subtitle: 
 published: true
 date: 2023-09-12
