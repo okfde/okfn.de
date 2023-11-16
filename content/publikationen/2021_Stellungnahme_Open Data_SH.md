@@ -1,5 +1,5 @@
 ---
-title: Stellungnahme zum Gesetzentwurf für ein Open-Data-Gesetz in Schleswig-Holstein 
+title: Open-Data-Gesetz Schleswig-Holstein 
 subtitle: Gesetzentwurf zur Förderung der Digitalisierung und Bereitstellung von offenen Daten in der Verwaltung der Landesregierung Schleswig-Holstein
 published: true
 date: 2021-07-19
