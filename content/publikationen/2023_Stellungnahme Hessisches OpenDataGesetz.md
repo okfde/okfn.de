@@ -1,6 +1,6 @@
 ---
-title: Stellungnahme zum Gesetzesentwurf für ein Hessisches Open-Data-Gesetz
-subtitle: Hessisches Gesetz über offene Daten der Träger der öffentlichen Verwaltung (Hessisches Open-Data-Gesetz – HODaG)
+title: Open-Data-Gesetz Hessen (HODaG)
+subtitle:
 published: true
 date: 2023-03-23
 layout: publikation
