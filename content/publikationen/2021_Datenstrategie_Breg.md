@@ -1,5 +1,5 @@
 ---
-title: Stellungnahme zur Datenstrategie der Bundesregierung
+title: Datenstrategie der Bundesregierung
 subtitle: 
 published: true
 date: 2021-02-22
