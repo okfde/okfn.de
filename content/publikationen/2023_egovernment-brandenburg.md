@@ -1,6 +1,6 @@
 ---
-title: Stellungnahme zur Änderung des Brandenburgischen E-Government-Gesetzes
-subtitle: Gesetzentwurf der Landesregierung Brandenburg für ein Zweites Gesetz zur Änderung des Brandenburgischen E-Government-Gesetzes (Drs.7/8080)
+title: E-Government-Gesetz Brandenburg
+subtitle: Zweites Gesetz zur Änderung (Drs.7/8080)
 published: true
 date: 2023-09-28
 layout: publikation
