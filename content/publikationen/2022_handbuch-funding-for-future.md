@@ -1,5 +1,5 @@
 ---
-title: Funding for Future - Wirkungen eines leichtgewichtigen und niederschwelligen Förderinstruments für Open-Source-Software
+title: Funding for Future
 subtitle: Ein Handbuch des Prototype Fund
 published: true
 date: 2022-04-01
