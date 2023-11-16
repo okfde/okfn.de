@@ -1,5 +1,5 @@
 ---
-title: Stellungnahmen des Bündnis F5 zur Zukunftsstrategie Forschung und Innovation
+title: Bündnis F5 zur Zukunftsstrategie Forschung und Innovation
 subtitle: 
 published: true
 date: 2022-11-17
