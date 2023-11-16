@@ -1,5 +1,5 @@
 ---
-title: Stellungnahme zur Änderung des Landesinformationsfreiheitsgesetzes in Baden-Württemberg
+title: Informationsfreiheitsgesetz Baden-Württemberg
 subtitle: 
 published: true
 date: 2020-09-21
