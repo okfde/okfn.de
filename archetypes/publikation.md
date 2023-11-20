@@ -4,7 +4,11 @@ subtitle: How subtitles should work for publications here
 published: true
 date: 2023-01-01
 layout: publikation
-img: publications/fff.png
+image:
+  src: /files/blog/2018/12/offenegesetze.png
+  title:
+  license:
+  license_url:
 kategorien: Bildung
 categories: Education
 language: de

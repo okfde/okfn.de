@@ -62,7 +62,16 @@
         <article class="l__publication__box my-5 col-lg-12 col-md-12 col-12 year-all all_types {{ .Page.Params.kategorien }} year-{{ .Date | time.Format "2006" }}">
           <div class="row justify-content-between">
             <div class="col-lg-5 col-md-6 col-12 mb-4 mb-lg-0">
-              <img src="{{ .Site.BaseURL }}{{ .Page.Params.img }}" alt="{{ .Title }}">
+              <figure class="license">
+                <img src="{{ .Site.BaseURL }}{{ .Page.Params.image.src }}" alt="{{.Page.Params.image.title}}">
+                {{ if .Page.Params.image.license}}
+                <figcaption>{{ with .Page.Params.image.title }}{{.}}{{end}}
+                  {{ with .Page.Params.image.license_url }}<a href="{{ . }}">{{ end }}
+                  {{ with .Page.Params.image.license}}{{.}}{{ end }}
+                  {{ with .Page.Params.image.license_url }}</a>{{ end }}
+                </figcaption>
+                {{ end }}
+              </figure>
             </div>
             <div class="col-lg-7 col-md-6 col-12">
               <time class="mr-3" datetime="{{ .Date | time.Format ":date_long" }}">{{ .Date | time.Format ":date_long" | upper }}</time>

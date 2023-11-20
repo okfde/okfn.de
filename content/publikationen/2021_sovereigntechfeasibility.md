@@ -3,7 +3,8 @@ title: Sovereign Tech Fund - Machbarkeitsstudie
 published: true
 date: 2021-11-16
 layout: publikation
-img: /files/images/Studie2.jpg
+image:
+  src: /files/images/Studie2.jpg
 kategorien: Studien
 people:
 - name: Adriana Groh, Katharina Meyer, Fiona Krakenbürger, Eileen Wagner

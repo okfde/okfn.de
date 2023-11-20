@@ -4,7 +4,8 @@ subtitle: Zweites Gesetz zur Änderung (Drs.7/8080)
 published: true
 date: 2023-09-28
 layout: publikation
-img: /files/images/Policy5.jpg
+image:
+  src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 categories: policy statements
 people:
