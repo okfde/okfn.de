@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: https://github.com/okfde/okfn.de/blob/c8dbbccf49d9cdc15b520583724a069dcac67a80/static/files/publikationen/2021-07-19_OKF%20Stellungnahme_OpenDataGesetz_SH.pdf?raw=true
+file: /files/publikationen/2021-07-19_OKF%20Stellungnahme_OpenDataGesetz_SH.pdf?raw=true
 format: pdf
 pages: 6
 size: 146KB

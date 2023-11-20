@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: https://github.com/okfde/okfn.de/blob/4fadcf48fb16f6009a857bd0f962bd9cdfdf740a/static/files/publikationen/2020-09-22%20OKF_LIFG_Ba-W%C3%BC_Stellungnahme.pdf?raw=true
+file: /files/publikationen/2020-09-22%20OKF_LIFG_Ba-W%C3%BC_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 1
 size: 122KB

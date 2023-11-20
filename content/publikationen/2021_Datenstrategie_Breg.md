@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: https://github.com/okfde/okfn.de/blob/49c47de63ad3f0de98e68381effe24e6dcbfeea9/static/files/publikationen/2021-02-22_OKF_Datenstrategie_Bund_Stellungnahme.pdf?raw=true
+file: /files/publikationen/2021-02-22_OKF_Datenstrategie_Bund_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 7
 size: 79KB

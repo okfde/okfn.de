@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: https://github.com/okfde/okfn.de/blob/80cee37f2e2a2ee1d27e91aee9786db0923d89b3/static/files/publikationen/2022-03-21_F5_Demokratief%C3%B6rdergesetz_Stellungnahme.pdf?raw=true
+file: /files/publikationen/2022-03-21_F5_Demokratief%C3%B6rdergesetz_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 4
 size: 292KB

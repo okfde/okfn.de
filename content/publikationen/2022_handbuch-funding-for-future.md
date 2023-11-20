@@ -8,7 +8,7 @@ img: /files/images/Handbuch2.jpg
 kategorien: Handbücher
 people:
 - name: Patricia Leu
-file: https://github.com/okfde/okfn.de/blob/073e18ba59e2d68de923d550449b50994e975063/static/files/documents/Handbuch-Funding-for-Future.pdf?raw=true
+file: /files/documents/Handbuch-Funding-for-Future.pdf?raw=true
 format: pdf
 pages: 18
 size: 118KB

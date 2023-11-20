@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Christina Willems, Henriette Litta
-file: https://github.com/okfde/okfn.de/blob/31e12513a76d227c7bec8828c9512cd5baa1d8b1/static/files/publikationen/2023-09-12_F5_Stellungnahme_Datenstrategie%20(1).pdf?raw=true
+file: /files/publikationen/2023-09-12_F5_Stellungnahme_Datenstrategie%20(1).pdf?raw=true
 format: pdf 
 pages: 3
 size: 104KB

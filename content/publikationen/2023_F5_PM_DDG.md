@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta, Christina Willems
-file: https://github.com/okfde/okfn.de/blob/fe08d29110a8587a0817a3d3d3a0acf15449fdc2/static/files/publikationen/2023_F5_PM_DDG.pdf?raw=true
+file: /files/publikationen/2023_F5_PM_DDG.pdf?raw=true
 format: pdf
 pages: 3
 size: 65.7KB

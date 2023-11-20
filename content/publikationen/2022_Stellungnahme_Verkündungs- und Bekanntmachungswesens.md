@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: https://github.com/okfde/okfn.de/blob/784b8ac57ec666de42c9488829efcefff2def904/static/files/publikationen/2022-05-03_OKF_E-Verk%C3%BCndung_BMJ_Stellungnahme.pdf?raw=true
+file: /files/publikationen/2022-05-03_OKF_E-Verk%C3%BCndung_BMJ_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 3
 size: 207KB

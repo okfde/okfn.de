@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta, Christina Willems
-file: https://github.com/okfde/okfn.de/blob/8235216ea7e04fad61e117ceef517a8749283fc2/static/files/publikationen/2022-11-17_F5_%20Zukunftsstrategie_Bund_Stellungnahme.pdf?raw=true
+file: /files/publikationen/2022-11-17_F5_%20Zukunftsstrategie_Bund_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 9
 size: 265KB

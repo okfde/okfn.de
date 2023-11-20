@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Trägerorganisationen von Bits & Bäume
-file: https://github.com/okfde/okfn.de/blob/7488853f57cfa45ebc6ee636103aee74263feaf8/static/files/publikationen/2022-09-05_Bits%20%26%20Ba%CC%88ume_Politische%20Forderungen.pdf?raw=true
+file: /files/publikationen/2022-09-05_Bits%20%26%20Ba%CC%88ume_Politische%20Forderungen.pdf?raw=true
 format: pdf
 pages: 14
 size: 1.2MB

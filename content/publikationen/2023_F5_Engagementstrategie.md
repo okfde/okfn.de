@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta, Christina Willems 
-file: https://github.com/okfde/okfn.de/blob/fccc29bf40a96e8c5ae82470c5d0b9ad0210f796/static/files/publikationen/2023-06-08_F5_Engagementstrategie_Bund_Stellungnahme.pdf?raw=true
+file: /files/publikationen/2023-06-08_F5_Engagementstrategie_Bund_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 4
 size: 40KB

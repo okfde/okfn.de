@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta
-file: https://github.com/okfde/okfn.de/blob/70ea38ca828f8bd385d122cab6aab7899640d2ad/static/files/publikationen/2020-08-31_OKF_OGP-NAP_Stellungnahme.pdf?raw=true
+file: /files/publikationen/2020-08-31_OKF_OGP-NAP_Stellungnahme.pdf?raw=true
 format: pdf 
 pages: 8
 size: 153KB
