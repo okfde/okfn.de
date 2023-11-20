@@ -9,7 +9,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta, Dénes Jäger
-file: https://github.com/okfde/okfn.de/blob/e806fe0aef4e7c51bba040812ca974fdcf9443a6/static/files/blog/2023/2023-09-28_OKF_Stellungnahme_BBEGovG.pdf?raw=true
+file: /files/blog/2023/2023-09-28_OKF_Stellungnahme_BBEGovG.pdf?raw=true
 format: pdf
 pages: 3
 size: 912KB
