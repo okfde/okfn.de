@@ -4,7 +4,8 @@ subtitle: Ein Handbuch des Prototype Fund
 published: true
 date: 2022-04-01
 layout: publikation
-img: /files/images/Handbuch2.jpg
+image:
+  src: /files/images/Handbuch2.jpg
 kategorien: Handbücher
 people:
 - name: Patricia Leu
