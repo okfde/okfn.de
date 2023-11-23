@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/en/publikationen/atom.xml"/>
-  <updated>2023-06-28T00:00:00+0000</updated>
+  <updated>2023-09-28T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>E-Government Act Brandenburg</title>
+    <link rel="alternate" href="https://okfn.de/en/publikationen/2023_egovernment-brandenburg/"/>
+    <id>https://okfn.de/en/publikationen/2023_egovernment-brandenburg/</id>
+    <published>2023-09-28T00:00:00+0000</published>
+    <updated>2023-09-28T00:00:00+0000</updated>
+    <summary>The state government of Brandenburg wants to incorporate open data into the legal framework by amending the existing law. However, the OKF considers the proposed changes to be insufficient. In a short statement we outline several points of criticism.
+The state government of Brandenburg is addressing oversights that occurred during the launch of the E-Government Act through this legislation. It establishes guidelines for making open data accessible, and the accompanying memorandum explicitly identifies open data as an objective.</summary>
+  </entry>
   
   <entry>
     <title>Open Knowledge Foundation Germany e.V. - 2022 Annual report</title>
