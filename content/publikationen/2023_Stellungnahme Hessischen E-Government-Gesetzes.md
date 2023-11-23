@@ -8,6 +8,7 @@ image:
   src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 categories: policy statements
+language: de
 people:
 - name: Henriette Litta, Dénes Jäger
 file: /files/publikationen/2023-01-31_OKF_HessischesEGovGesetz_Stellungnahme.pdf?raw=true
