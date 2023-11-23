@@ -19,3 +19,4 @@ license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
   - url: "[PrototypeFund Website](https://www.prototypefund.de)"
 ---
+In this handbook, the Prototype Fund offers a case study of open source software to demonstrate how individuals and small teams can benefit from unbureaucratic funding. The handbook examines the advantages of such funding and provides insights into its workings.
