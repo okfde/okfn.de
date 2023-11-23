@@ -4,7 +4,7 @@ published: true
 date: 2021-11-16
 layout: publikation
 image:
-  src: /files/images/Studie2.png
+  src: /files/images/Studie2.jpg
 kategorien: Studies
 language: en
 people:
