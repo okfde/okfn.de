@@ -7,6 +7,7 @@ image:
   src: /files/images/Policy5.jpg
 kategorien: Annual reports
 categories: Annual reports
+language: de
 people:
 - name: Henriette Litta
 file: https://2022.okfn.de/assets/documents/OKF_Jahresbericht_2022.pdf?raw=true
