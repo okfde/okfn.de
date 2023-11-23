@@ -6,6 +6,7 @@ layout: publikation
 image:
   src: /files/images/Studie2.png
 kategorien: Studies
+language: en
 people:
 - name: Adriana Groh, Katharina Meyer, Fiona Krakenbürger, Eileen Wagner
 file: https://sovereigntechfund.de/files/SovereignTechFund_Machbarkeitsstudie_en.pdf
