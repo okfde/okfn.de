@@ -4,7 +4,7 @@ published: true
 date: 2023-06-28
 layout: publikation
 image:
-  src: /files/images/Policy5.jpg
+  src: /files/images/Jahresbericht1.png
 kategorien: Annual reports
 categories: Annual reports
 language: de
