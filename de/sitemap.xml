@@ -487,6 +487,16 @@
   </url><url>
     <loc>https://okfn.de/publikationen/2023_f5_engagementstrategie/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2023_f5_engagementstrategie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2023_f5_engagementstrategie/"
+                />
   </url><url>
     <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
