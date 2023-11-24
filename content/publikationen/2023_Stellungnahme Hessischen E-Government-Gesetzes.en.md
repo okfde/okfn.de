@@ -1,5 +1,5 @@
 ---
-title: E-Government-Gesetz Hessen
+title: E-Government Act of Hesse
 subtitle: 
 published: true
 date: 2023-01-31
@@ -8,8 +8,7 @@ image:
   src: /files/images/Policy5.jpg
   license: Adapted from Original Picture by Oleg Laptev
   license_url: https://unsplash.com/de/fotos/%EC%A3%BC%ED%99%A9%EC%83%89-%EB%B2%BD%EC%97%90-%EC%A3%BC%ED%99%A9%EC%83%89-%ED%99%95%EC%84%B1%EA%B8%B0-QRKJwE6yfJo
-kategorien: Stellungnahmen
-categories: policy statements
+kategorien: policy statements
 language: de
 people:
 - name: Henriette Litta, Dénes Jäger
