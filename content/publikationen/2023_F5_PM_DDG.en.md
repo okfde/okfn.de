@@ -6,7 +6,7 @@ date: 2023-07-06
 layout: publikation
 image:
   src: /files/images/Policy5.jpg
-  license: Adapted from Original Picture by Oleg Laptev
+  license: Adapted from original Picture by Oleg Laptev
   license_url: https://unsplash.com/de/fotos/%EC%A3%BC%ED%99%A9%EC%83%89-%EB%B2%BD%EC%97%90-%EC%A3%BC%ED%99%A9%EC%83%89-%ED%99%95%EC%84%B1%EA%B8%B0-QRKJwE6yfJo
 kategorien: policy statements
 language: de
@@ -19,8 +19,8 @@ size: 65.7KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "<a href=\"https://okfn.de/blog/2023/07/pm-dsc\" target=\"_blank\">Zum Blogartikel</a>"
-  - url: "<a href=\"https://buendnis-f5.de\" target=\"_blank\">Zur Website des Bündnis F5</a>"
+  - url: "<a href=\"https://okfn.de/blog/2023/07/pm-dsc\" target=\"_blank\">Open blogpost</a>"
+  - url: "<a href=\"https://buendnis-f5.de\" target=\"_blank\">F5 Alliance website</a>"
   
 ---
 
