@@ -9,9 +9,10 @@
       <p>{{.member.bio | markdownify}}</p>
     {{ end }}
     <p class="l__team__contact">
-      {{ with .member.mail }}<a href="mailto:{{.}}">Mail</a>{{ end }}
-      {{ with .member.twitter }}<a href="https://twitter.com/{{.}}">Twitter</a>{{ end }}
-      {{ with .member.website }}<a href="{{.}}">Website</a>{{ end }}
-      {{ with .member.github }}<a href="https://github.com/{{.}}">GitHub</a>{{ end }}
+        {{ with .member.mail }}<a href="mailto:{{.}}" target="_blank">Mail</a>{{ end }}
+        {{ with .member.mastodon }}<a href="{{.}}" target="_blank">Mastodon</a>{{ end }}
+        {{ with .member.twitter }}<a href="https://twitter.com/{{.}}" target="_blank">Twitter</a>{{ end }}
+        {{ with .member.website }}<a href="{{.}}">Website</a>{{ end }}
+        {{ with .member.github }}<a href="https://github.com/{{.}}" target="_blank">GitHub</a>{{ end }}
     </p>
 </li>
