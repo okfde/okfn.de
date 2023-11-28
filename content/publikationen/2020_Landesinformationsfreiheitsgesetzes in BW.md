@@ -6,14 +6,18 @@ date: 2020-09-21
 layout: publikation
 image: 
   src: /files/images/Policy5.jpg
+  title:
+  license:
+  license_url:
 kategorien: Stellungnahmen
 categories: policy statements
+language: de
 people:
 - name: Henriette Litta
 file: /files/publikationen/2020-09-22%20OKF_LIFG_Ba-W%C3%BC_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 1
-size: 122KB
+size: 122 KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
