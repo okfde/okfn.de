@@ -96,6 +96,7 @@ Die folgenden Felder werden unterstützt:
   bio_en:
   mail:
   twitter:
+  mastodon:
   website:
 
 ```
