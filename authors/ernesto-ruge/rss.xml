@@ -20,32 +20,28 @@
       <link>https://okfn.de/blog/2018/09/oparl-1-1-politik-bei-uns/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/09/oparl-1-1-politik-bei-uns/</guid>
-      <description>Vor zwei Jahren haben wir mit der offenen Schnittstelle OParl 1.0 den ersten großen Schritt zur Transparenz kommunaler Beschlüsse gemacht. Seitdem ist viel passiert:
-Die vier größten Ratsinformationssystem-Hersteller haben ein OParl-Modul für ihre Software entwickelt, sodass Kommunen OParl ganz einfach in ihre bestehende Software integrieren können. Ca. 30 Kommunen haben eine offizielle OParl-Schnittstelle, in etlichen weiteren Kommunen ist das OParl-Modul zur Zeit in Einrichtung. Zuletzt dazugekommen sind Aachen und der Kreis Viersen.</description>
+      <description>Vor zwei Jahren haben wir mit der offenen Schnittstelle OParl 1.0 den ersten großen Schritt zur Transparenz kommunaler Beschlüsse gemacht. Seitdem ist viel passiert:&#xA;Die vier größten Ratsinformationssystem-Hersteller haben ein OParl-Modul für ihre Software entwickelt, sodass Kommunen OParl ganz einfach in ihre bestehende Software integrieren können. Ca. 30 Kommunen haben eine offizielle OParl-Schnittstelle, in etlichen weiteren Kommunen ist das OParl-Modul zur Zeit in Einrichtung. Zuletzt dazugekommen sind Aachen und der Kreis Viersen.</description>
     </item>
     <item>
       <title>Veröffentlichung des kommunalen Transparenz-Portals Politik bei uns 2</title>
       <link>https://okfn.de/blog/2018/01/politk-bei-uns-2/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/01/politk-bei-uns-2/</guid>
-      <description>Im Stadt- oder Landrat werden Entscheidungen getroffen, die Bürgerinnen und Bürger ganz direkt betreffen. Der Zugang dazu war bislang aber recht schwierig. &amp;ldquo;Politik bei uns&amp;rdquo; macht politische Entscheidungen einfach zugänglich, so dass es viel leichter wird, sich zu informieren und mitzubestimmen.
-Dahinter steckt OParl, ein von der OKF entwickelter und betreuter Industriestandard für Gremiendaten. Im Rahmen eines OpenNRW-Förderprojektes unter der Leitung des KDVZ Rhein Erft Rur haben nun 27 Kommunen ihre Daten veröffentlicht.</description>
+      <description>Im Stadt- oder Landrat werden Entscheidungen getroffen, die Bürgerinnen und Bürger ganz direkt betreffen. Der Zugang dazu war bislang aber recht schwierig. &amp;ldquo;Politik bei uns&amp;rdquo; macht politische Entscheidungen einfach zugänglich, so dass es viel leichter wird, sich zu informieren und mitzubestimmen.&#xA;Dahinter steckt OParl, ein von der OKF entwickelter und betreuter Industriestandard für Gremiendaten. Im Rahmen eines OpenNRW-Förderprojektes unter der Leitung des KDVZ Rhein Erft Rur haben nun 27 Kommunen ihre Daten veröffentlicht.</description>
     </item>
     <item>
       <title>Kommunale Archive für alle: Start in Kerpen</title>
       <link>https://okfn.de/blog/2018/01/mein-stadtarchiv/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/01/mein-stadtarchiv/</guid>
-      <description>Ein Stadtarchiv besteht aus Unmengen an Dokumenten aus vielen Jahrhunderten, die die Geschichte lebendig machen. Doch viele Bürgerinnen und Bürger wissen nicht viel davon, zudem muss man in Persona dahin, um die Dokumente einzusehen, und eine archivübergreifende Suche ist erst recht schwierig. Das geht besser - mit OpenData.
-Ein Team aus dem Kerpener Stadtarchiv, dem KDVZ Rhein-Erft-Rur und der OKF haben in den vergangenen Monaten im Rahmen einer OpenNRW-Förderung die Daten aus der Archiv-Software extrahiert und diese in eine schnell und komfortabel durchsuchbare Form gebracht.</description>
+      <description>Ein Stadtarchiv besteht aus Unmengen an Dokumenten aus vielen Jahrhunderten, die die Geschichte lebendig machen. Doch viele Bürgerinnen und Bürger wissen nicht viel davon, zudem muss man in Persona dahin, um die Dokumente einzusehen, und eine archivübergreifende Suche ist erst recht schwierig. Das geht besser - mit OpenData.&#xA;Ein Team aus dem Kerpener Stadtarchiv, dem KDVZ Rhein-Erft-Rur und der OKF haben in den vergangenen Monaten im Rahmen einer OpenNRW-Förderung die Daten aus der Archiv-Software extrahiert und diese in eine schnell und komfortabel durchsuchbare Form gebracht.</description>
     </item>
     <item>
       <title>eGovernment und Sicherheit: eine schwierige Beziehung</title>
       <link>https://okfn.de/blog/2016/12/https/</link>
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2016/12/https/</guid>
-      <description>Senden BürgerInnen sensible personenbezogene Daten an Behörden, geht das niemanden etwas an. Daher ist sowohl für Websites als auch für Mailserver von staatlichen Stellen eine gute Verbindungsabsicherung wichtig. Ein Team der Open Knowledge Foundation hat sich dies einmal genauer angeschaut - und neben vielen positiven Beispielen auch schwere Sicherheitslücken gefunden.
-Bei Websites besteht ein ganz erheblicher Nachholbedarf: lediglich ein Zehntel von ihnen bietet überhaupt eine Verbindungssicherheit an. Schaut man auf die Qualität der Verschlüsselung, sieht es noch düsterer aus: lediglich 3 % der Websites sind nach einem an dem Qualys SSL Labs Test orientierten Bewertungsschema als gut oder sehr gut abgesichert zu bezeichnen.</description>
+      <description>Senden BürgerInnen sensible personenbezogene Daten an Behörden, geht das niemanden etwas an. Daher ist sowohl für Websites als auch für Mailserver von staatlichen Stellen eine gute Verbindungsabsicherung wichtig. Ein Team der Open Knowledge Foundation hat sich dies einmal genauer angeschaut - und neben vielen positiven Beispielen auch schwere Sicherheitslücken gefunden.&#xA;Bei Websites besteht ein ganz erheblicher Nachholbedarf: lediglich ein Zehntel von ihnen bietet überhaupt eine Verbindungssicherheit an. Schaut man auf die Qualität der Verschlüsselung, sieht es noch düsterer aus: lediglich 3 % der Websites sind nach einem an dem Qualys SSL Labs Test orientierten Bewertungsschema als gut oder sehr gut abgesichert zu bezeichnen.</description>
     </item>
   </channel>
 </rss>

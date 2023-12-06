@@ -20,9 +20,7 @@
       <link>https://okfn.de/blog/2016/01/govdata-relaunch/</link>
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2016/01/govdata-relaunch/</guid>
-      <description>Nach mehreren Jahren in der Übergangsphase ist govdata.de nun endlich überarbeitet. 126.000 Euro wird 2016 in den Betrieb des Portals investiert. Das ist gut, denn die bisherige Version hatte zahlreiche Unzulänglichkeiten. Was ist nun mit dem Relaunch vom 19.01.2016 wirklich neu?
-&amp;quot;Govdata&amp;quot; a la @govdata_de: Wunschkennzeichenerklärungsseite nur nutzbar für Fahrzeuge aus Hannover.&amp;#10;https://t.co/e7XIgq6Y2K
-&amp;mdash; Mathias Schindler (@presroi) 18. Januar 2016 Die Seite ist intuitiver und klarer gestaltet und bietet einige neue Funktionen.</description>
+      <description>Nach mehreren Jahren in der Übergangsphase ist govdata.de nun endlich überarbeitet. 126.000 Euro wird 2016 in den Betrieb des Portals investiert. Das ist gut, denn die bisherige Version hatte zahlreiche Unzulänglichkeiten. Was ist nun mit dem Relaunch vom 19.01.2016 wirklich neu?&#xA;&amp;quot;Govdata&amp;quot; a la @govdata_de: Wunschkennzeichenerklärungsseite nur nutzbar für Fahrzeuge aus Hannover.&amp;#10;https://t.co/e7XIgq6Y2K&#xA;&amp;mdash; Mathias Schindler (@presroi) 18. Januar 2016 Die Seite ist intuitiver und klarer gestaltet und bietet einige neue Funktionen.</description>
     </item>
     <item>
       <title>Open Data 2016: Positionen der Bundestagsfraktionen</title>
@@ -36,8 +34,7 @@
       <link>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</link>
       <pubDate>Fri, 04 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</guid>
-      <description>If you compare software code and legislation you can find many similarities: both are big bodies of text spread over multiple units (laws/files). The total amount of text inevitably grows bigger over time with many small changes to existing parts while most of the corpus stays the same.
-However, the tooling and editing process for these domains is very different: while developers are in the fortunate position that they can build and improve their own tools, legislators are stuck with proprietary tools like MS Word that are simply not built to collaboratively work on a big corpus of text.</description>
+      <description>If you compare software code and legislation you can find many similarities: both are big bodies of text spread over multiple units (laws/files). The total amount of text inevitably grows bigger over time with many small changes to existing parts while most of the corpus stays the same.&#xA;However, the tooling and editing process for these domains is very different: while developers are in the fortunate position that they can build and improve their own tools, legislators are stuck with proprietary tools like MS Word that are simply not built to collaboratively work on a big corpus of text.</description>
     </item>
   </channel>
 </rss>
