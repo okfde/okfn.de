@@ -6,9 +6,6 @@ date: 2021-03-01
 layout: publikation
 image: 
   src: /files/images/Handbuch2.jpg
-  title:
-  license:
-  license_url:
 kategorien: Handbücher
 categories: Handbooks
 language: de
