@@ -17,7 +17,7 @@ people:
 file: /files/publikationen/2016-03-01_JH_Jugend-Hackathons_Handbuch.pdf
 format: pdf
 pages: 56
-size: 1,4 MB
+size: 1.4 MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
