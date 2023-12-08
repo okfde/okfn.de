@@ -4354,6 +4354,18 @@
  
    ,
      {
+       "url": "https://okfn.de/publikationen/2016_handbuch-jugend-hackathons/",
+       "title": "Handbuch Jugend-Hackathons",
+       "section": "publikationen",
+       "date": "2016-03-01 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Dieses","Handbuch","richtet","sich","an","Fachkräfte","der","(politischen)","Bildung,","der","Jugend(verbands)arbeit","und","an","Aktivist:innen","aus","dem","technologischen","Bereich,","die","Jugendliche","in","der","Bildung","ihrer","technischen","Fertigkeiten","unterstützen","möchten.","Es","fokussiert","sich","dabei","auf","spezifische","Fragen","zu","(Jugend-)Hackathons."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/blog/2016/02/offene-fahrplandaten-von-der-bahn/",
        "title": "Offene Fahrplandaten von der Bahn",
        "section": "blog",
