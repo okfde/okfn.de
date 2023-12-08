@@ -2,7 +2,7 @@
 title: Handbuch Jugend-Hackathons
 subtitle: Ein Leitfaden für die Praxis
 published: true
-date: 2021-03-01
+date: 2016-03-01
 layout: publikation
 image: 
   src: /files/images/Handbuch2.jpg
