@@ -10,7 +10,7 @@ kategorien: Handbücher
 categories: Handbooks
 language: de
 people:
-- name: 
+- name: Herausgeberin OKF
 file: /files/publikationen/2019-11-06_OKF_WMDE_ABC-der-Offenheit_Handbuch.pdf
 format: pdf
 pages: 36
