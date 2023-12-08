@@ -1,7 +1,7 @@
 ---
 title: Handbuch Jugend-Hackathons
 subtitle: Ein Leitfaden für die Praxis
-published: false
+published: true
 date: 2016-03-01
 layout: publikation
 image: 
@@ -21,7 +21,8 @@ size: 1,4 MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "<a href=\"https://www.landtag-bw.de/files/live/sites/LTBW/files/dokumente/WP16/Drucksachen/8000/16_8535_D.pdf\" target=\"_blank\">Zum Gesetzentwurf</a>"
+  - url: "<a href=\"https://jugendhackt.org/\" target=\"_blank\">Zur Website von Jugend hackt</a>"
 ---
 
-In dieser kurzen Stellungnahme lesen Sie unsere Anmerkungen und Kritikpunkte zum Gesetzentwurf der Fraktion FDP/DVP zur Änderung des Landesinformationsfreiheitsgesetzes in Baden-Württemberg.
+Dieses Handbuch richtet sich an Fachkräfte der (politischen) Bildung, der Jugend(verbands)arbeit und an Aktivist:innen aus dem technologischen Bereich, die Jugendliche in der Bildung ihrer technischen Fertigkeiten unterstützen möchten. Es fokussiert sich dabei auf spezifische Fragen zu (Jugend-)Hackathons. 
+
