@@ -7,7 +7,6 @@ layout: publikation
 image: 
   src: /files/images/Handbuch2.jpg
 kategorien: Handbücher
-categories: Handbooks
 language: de
 people:
 - name: Paula Glaser, Maria Reimer, Daniel Seitz
@@ -22,4 +21,3 @@ links:
 ---
 
 Dieses Handbuch richtet sich an Fachkräfte der (politischen) Bildung, der Jugend(verbands)arbeit und an Aktivist:innen aus dem technologischen Bereich, die Jugendliche in der Bildung ihrer technischen Fertigkeiten unterstützen möchten. Es fokussiert sich dabei auf spezifische Fragen zu (Jugend-)Hackathons. 
-
