@@ -1654,6 +1654,18 @@
  
    ,
      {
+       "url": "https://okfn.de/publikationen/2020_open-data-in-kommunen/",
+       "title": "Handbuch Open Data in Kommunen",
+       "section": "publikationen",
+       "date": "2020-03-16 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Dieses","Handbuch","bietet","einen","Überblick,","was","unter","Open","Data","in","Kommunen","(offenen","Verwaltungsdaten)","zu","verstehen","ist,","skizziert","Argumente","für","Open","Data","aus","Sicht","der","Verwaltung,","der","Bürger:innen","und","der","Wirtschaft","und","veranschaulicht","Anwendungsbeispiele","für","offene","Daten."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/blog/2020/03/datenpolitik-gesellschaftspolitik/",
        "title": "Datenpolitik ist Gesellschaftspolitik",
        "section": "blog",
