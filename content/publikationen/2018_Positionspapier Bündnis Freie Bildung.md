@@ -8,11 +8,11 @@ image:
   src: /files/images/sonstiges6.jpg
   license: 
   license_url: 
-kategorien: Sonsiges
+kategorien: Sonstiges
 categories: Other
 people:
 - name: Bündnis Freie Bildung
-file: /files/publikationen/2018_Bündnis-Freie-Bildung_Positionspapier.pdf
+file: /files/publikationen/2018_Bündnis-Freie-Bildung_Positionspapier.pdf?raw=true
 format: pdf
 pages: 12
 size: 2.15MB
