@@ -10,7 +10,7 @@ kategorien: Handbücher
 language: de
 people:
 - name: Paula Glaser, Maria Reimer, Daniel Seitz
-file: /files/publikationen/2016-03-01_JH_Jugend-Hackathons_Handbuch.pdf
+file: /files/publikationen/2016-03-01_JH_Jugend-Hackathons_Handbuch.pdf?raw=true
 format: pdf
 pages: 56
 size: 1.4 MB
