@@ -13,14 +13,13 @@ kategorien: Studien
 categories: Studies
 people:
 - name: Walter Palmetshofer, Arne Semsrott, Anna Alberts
-file: /files/publikationen/2016-09-01_OKF_Der-Wert-persönlicher-Daten_Studie.pdf
+file: /files/publikationen/2016-09-01_OKF_Der-Wert-persönlicher-Daten_Studie.pdf?raw=true
 format: pdf
 pages: 57
 size: 1.03 MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: 
 ---
 
 Ziel dieser Studie ist, eine allgemein verständliche Übersicht zum Handel mit Daten zu erstellen, die den Wert von Daten strukturiert erfasst.
