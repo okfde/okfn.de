@@ -17,7 +17,7 @@ size: 9.27MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "<a href=\"https://fragdenstaat.de/recht/handbuch-informationsfreiheit//\" target=\"_blank\">Zur Online-Version des Handbuchs</a>"
+  - url: "<a href=\"https://fragdenstaat.de/recht/handbuch-informationsfreiheit/\" target=\"_blank\">Zur Online-Version des Handbuchs</a>"
   - url: "<a href=\"https://www.universitaetsverlag.uni-kiel.de/de/programm/einzelschriften/Informationsfreiheitsrecht\" target=\"_blank\">Zur Print-Version beim Universitätsverlag Kiel</a>"
   - url: "<a href=\"https://fragdenstaat.de/blog/2023/10/23/handbuch-informationsfreiheit/\" target=\"_blank\">Zum Blogbeitrag von FragDenStaat</a>"
   
