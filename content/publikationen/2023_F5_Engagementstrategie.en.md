@@ -11,7 +11,7 @@ image:
 kategorien: policy statements
 language: de
 people:
-- name: Henriette Litta, Christina Willems 
+- name: Bündnis F5
 file: /files/publikationen/2023-06-08_F5_Engagementstrategie_Bund_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 4
