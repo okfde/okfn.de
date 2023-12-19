@@ -9,7 +9,7 @@ image:
 kategorien: Stellungnahmen
 categories: policy statements
 people:
-- name: Henriette Litta
+- name: Bündnis F5
 file: /files/publikationen/2022-11-01_F5_Demokratief%C3%B6rderGesetz_Bund_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 4
