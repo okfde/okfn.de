@@ -9,7 +9,7 @@ image:
 kategorien: Stellungnahmen
 categories: policy statements
 people:
-- name: Henriette Litta, Christina Willems
+- name: Bündnis F5
 file: /files/publikationen/2023_F5_PM_DDG.pdf?raw=true
 format: pdf
 pages: 3
