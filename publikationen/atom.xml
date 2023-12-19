@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2023-09-28T00:00:00+0000</updated>
+  <updated>2023-10-23T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Handbuch Informationsfreiheitsrecht</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/"/>
+    <id>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</id>
+    <published>2023-10-23T00:00:00+0000</published>
+    <updated>2023-10-23T00:00:00+0000</updated>
+    <summary>Das Ziel dieses Handbuch ist es, einen gut verständlichen und praxistauglichen Überblick des Informationsfreiheitsrechts in Deutschland zu schaffen. Und zwar nicht nur für die, die es sich leisten können, sondern für alle.
+Das Handbuch orientiert sich nicht an einzelnen Paragraphen, sondern an Themengebieten. Wenngleich ein Schwerpunkt auf dem Informationsfreiheitsgesetz des Bundes (IFG) liegt, ist es damit nicht nur für Anträge nach dem IFG, sondern auch für Anträge nach anderen Gesetzen nutzbar.</summary>
+  </entry>
   
   <entry>
     <title>E-Government-Gesetz Brandenburg</title>
@@ -142,15 +152,6 @@ Unsere Anmerkungen und Kritikpunkte sind in dieser Stellungnahme nachzulesen.</s
     <summary>Eine lebendige Demokratie braucht zivilgesellschaftliches Engagement; dieses Engagement wiederum braucht Schutz und Förderung.
 Das Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) begrüßt daher den Vorschlag des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums des Innern und für Heimat für ein Gesetz zur Stärkung von Maßnahmen zur Demokratieförderung, Vielfaltgestaltung, Extremismusprävention und politischen Bildung (Demokratiefördergesetz – DFördG).
 An einigen Stellen bedarf es aus unserer Sicht der Ergänzung.</summary>
-  </entry>
-  
-  <entry>
-    <title>Sovereign Tech Fund - Machbarkeitsstudie</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2021_sovereigntechfeasibility/"/>
-    <id>https://okfn.de/publikationen/2021_sovereigntechfeasibility/</id>
-    <published>2021-11-16T00:00:00+0000</published>
-    <updated>2021-11-16T00:00:00+0000</updated>
-    <summary>Im Rahmen einer Machbarkeitsstudie, die vom Bundesministerium für Wirtschaft und Klimaschutz gefördert wurde, prüfte die OKF die Bedarfe und Möglichkeiten für ein Förderprogramm für Offene Digitale Basistechnologien. Die Idee für einen Fund orientiert sich u. a. an Open Technology Funds Core Infrastructure Fund und kann von dessen und den Erfahrungen aus anderen Programmen, z. B. des Prototype Funds, lernen und bereits getestete Verfahren übernehmen. Für das Design des Sovereign Tech Fund wurden zahlreiche weitere, bereits existierende Programme analysiert, Interviews mit Entwickler:innen und Stakeholdern im Open-Source-Ökosystem geführt sowie Expert:innen-Workshops gehalten.</summary>
   </entry>
   
 </feed>

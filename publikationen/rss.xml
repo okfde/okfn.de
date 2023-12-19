@@ -5,10 +5,20 @@
     <description>Publikationen on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Handbuch Informationsfreiheitsrecht</title>
+      <link>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</guid>
+      <description>Das Ziel dieses Handbuch ist es, einen gut verständlichen und praxistauglichen Überblick des Informationsfreiheitsrechts in Deutschland zu schaffen. Und zwar nicht nur für die, die es sich leisten können, sondern für alle.
+Das Handbuch orientiert sich nicht an einzelnen Paragraphen, sondern an Themengebieten. Wenngleich ein Schwerpunkt auf dem Informationsfreiheitsgesetz des Bundes (IFG) liegt, ist es damit nicht nur für Anträge nach dem IFG, sondern auch für Anträge nach anderen Gesetzen nutzbar.</description>
+    </item>
     
     <item>
       <title>E-Government-Gesetz Brandenburg</title>
