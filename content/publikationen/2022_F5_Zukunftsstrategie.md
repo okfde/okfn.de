@@ -9,7 +9,7 @@ image:
 kategorien: Stellungnahmen
 categories: policy statements
 people:
-- name: Henriette Litta, Christina Willems
+- name: Bündnis F5
 file: /files/publikationen/2022-11-17_F5_%20Zukunftsstrategie_Bund_Stellungnahme.pdf?raw=true
 format: pdf
 pages: 9
