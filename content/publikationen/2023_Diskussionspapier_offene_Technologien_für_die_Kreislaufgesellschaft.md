@@ -6,8 +6,6 @@ date: 2023-12-06
 layout: publikation
 image: 
   src: "/files/images/sonstiges6.jpg"
-  license: Bild von Oleg Laptev auf Unsplash
-  license_url: https://unsplash.com/de/fotos/%EC%A3%BC%ED%99%A9%EC%83%89-%EB%B2%BD%EC%97%90-%EC%A3%BC%ED%99%A9%EC%83%89-%ED%99%95%EC%84%B1%EA%B8%B0-QRKJwE6yfJo
 kategorien: Diskussionspapier
 categories: policy statements
 people:
