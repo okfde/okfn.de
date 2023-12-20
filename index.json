@@ -262,6 +262,18 @@
  
    ,
      {
+       "url": "https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/",
+       "title": "Diskussionspapier Open Circularity",
+       "section": "publikationen",
+       "date": "2023-12-06 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Mit","der","Nationalen","Kreislaufwirtschaftsstrategie","und","dem","Circular","Economy","Action","Plan","arbeiten","die","Bundesregierung","und","die","EU","an","Maßnahmen","zur","Entwicklung","zirkulärer","Wirtschafts-","und","Gesellschaftsformen.","Dabei","dürfen","Informationstransparenz","und","die","Bedarfe","der","Zivilgesellschaft","nicht","unter","den","Tisch","fallen.","Im","Diskussionspapier","zeigen","wir","auf,","wie","offene","Technologien","bestehende","Herausforderungen","effektiv","lösen","und","die","Zivilgesellschaft","stärken."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/",
        "title": "Handbuch Informationsfreiheitsrecht",
        "section": "publikationen",
@@ -521,6 +533,18 @@
        
        
        "content": ["Die","Herausforderungen","unser","Zeit","sind","bekannt,","die","auf","sozialer,","ökologischer","und","wirtschaftlicher","Ebene","vor","uns","liegen.","Offene","Hardware","kann","ein","Teil","der","Lösung","werden.","Beim","Forum","Open","Hardware","2023","(#FOH23)","befassten","sich","100","Expertinnen","und","Experten","mit","der","Frage,","wie","das","gelingen","kann.","Dabei","stand","das","zivilgesellschaftliche","Engagement","im","Forderung.","Denn","es","sind","zivilgesellschaftliche","Akteure,","die","daran","arbeiten,","Technologie","und","alle","damit","verbundenen","Aspekte","offen","zu","denken.","Damit","gehören","sie","zu","den","innovativsten","Köpfen","unserer","Zeit,","wenn","Innovation","bedeutet,","Hardware","reparierbar,","veränderbar","und","partizipativ","zu","gestalten.","Die","Veranstaltung","wurde","aufgezeichnet.","Alle","Ergebnisse","sowie","die","Publikation","\u0026amp;ldquo;Unboxing","Blackboxes\u0026amp;rdquo;","sind","jetzt","online.","Das","#FOH23","ist","eine","Veranstaltung","der","Open","Knowledge","Foundation","Deutschland,","in","Kooperation","mit","der","Deutschen","Stiftung","für","Engagement","und","Ehrenamt","sowie","der","Open","Hardware","Allianz."]
+       
+     }
+ 
+   ,
+     {
+       "url": "https://okfn.de/publikationen/2023_handbuch_open_hardware_nachhaltigkeit_foh/",
+       "title": "Unboxing Blackboxes",
+       "section": "publikationen",
+       "date": "2023-03-13 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Die","Herausforderungen","unser","Zeit","sind","bekannt,","die","auf","sozialer,","ökologischer","und","wirtschaftlicher","Ebene","vor","uns","liegen.","Offene","Hardware","kann","ein","Teil","der","Lösung","werden.","In","der","Publikation","\u0026ldquo;Unboxing","Blackboxes\u0026rdquo;","zeigen","wir,","wie.","Außerdem","stellen","wir","die","sechs","Projekte","vor,","die","Teil","der","ersten","Runde","des","Prototype","Fund","Hardware","waren."]
        
      }
  

@@ -242,11 +242,11 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -259,7 +259,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -270,6 +270,9 @@
                 hreflang="de"
                 href="https://okfn.de/publikationen/"
                 />
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
@@ -543,6 +546,9 @@
   </url><url>
     <loc>https://okfn.de/blog/2023/03/das-war-das-forum-open-hardware-23/</loc>
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_handbuch_open_hardware_nachhaltigkeit_foh/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/02/wahlberlin-forderungen/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
