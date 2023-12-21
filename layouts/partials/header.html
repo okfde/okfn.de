@@ -15,6 +15,7 @@
       </div>
       <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
         <!-- {{ with .Site.GetPage "/anniversary" }}<li class="l__item"><a href="{{ .Permalink }}" class="l__nav-link--anniversary">{{ .Title }}</a></li>{{ end }} -->
+        {{ with .Site.GetPage "/spenden" }}<li class="l__item"><a href="{{ .Permalink }}" class="l__nav-link--donate">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/profil" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/projekte" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
         {{ with .Site.GetPage "/publikationen" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
@@ -41,7 +42,6 @@
             </span>
           </button>
         </li>
-        {{ with .Site.GetPage "/spenden" }}<li><a class="c__donate-btn" href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       </ul>
     </div>
   </div>
