@@ -6,7 +6,7 @@ date: 2023-12-06
 layout: publikation
 image: 
   src: "/files/images/sonstiges6.jpg"
-kategorien: Diskussionspapier
+kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Maximilian Voigt, Open Hardware Allianz
