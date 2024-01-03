@@ -6,8 +6,7 @@ date: 2023-03-13
 layout: publikation
 image:
   src: "/files/images/sonstiges6.jpg"
-kategorien: Handbuch
-categories: handbook
+kategorien: Handbücher
 people:
   - name: Maximilian Voigt, Daniel Wessolek, Open Hardware Allianz
 file: "https://open-hardware-allianz.de/assets/files/FOH23_Publikation_2023_WEB.pdf"
