@@ -17,7 +17,7 @@ box_link_name: Hier geht's zur Transparenzseite
 
 ### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten.
 
-Mit unserem [aktuellen Freistellungsbescheid](/files/documents/2022_Freistellungsbescheid_fuer_2021.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung sowie von Volks- und Berufsbildung anerkannt. Für Spenden bis zu 300 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten Zuwendungsnachweis](/files/documents/2022_OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
+Mit unserem [aktuellen Freistellungsbescheid](/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung, der Volks- und Berufsbildung, des demokratischen Staatswesens im Geltungsbereich der Abgabenordnung sowie des bürgerschaftlichen Engagements zugunsten gemeinnütziger Zwecke anerkannt. Für Spenden bis zu 300 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten Zuwendungsnachweis](/files/documents/2022_OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
 
 Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
 
