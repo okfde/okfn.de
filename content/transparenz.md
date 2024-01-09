@@ -16,7 +16,7 @@ Vereinsregister Nr: VR 30468 B <br>
 Die Satzung der Open Knowledge Foundation Deutschland e. V. ist [hier einsehbar](/files/documents/01_OKF-Satzung_neu.pdf).
 
 ### Angaben zur Steuerbegünstigung
-Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe, Stärkung des demokratischen Gemeinwesens und  Stärkung des bürgerschaftlichen Engagements nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/2023_Freistellungsbescheid_fuer_2022.pdf) des Finanzamts für Körperschaften I, Berlin vom 27.11.2023 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
+Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe, Stärkung des demokratischen Gemeinwesens und  Stärkung des bürgerschaftlichen Engagements nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) des Finanzamts für Körperschaften I, Berlin vom 27.11.2023 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
 Ein aktueller Auszug aus dem Vereinsregister ist [hier einsehbar](/files/documents/2023-08-16-Vereinsregisterauszug-OKF-DE.pdf).
 
