@@ -1356,9 +1356,10 @@
 
 - name: Francesca Giacco
   img: francescagiacco
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
+  board_alumni: 1
   position: Studentische Mitarbeiterin bei Prototype Fund
   position_en: Student Assistant at Prototype Fund
   bio:  Francesca ist Studentische Hilfskraft mit Schwerpunkt Tech im Prototype Fund. Sie betreut die Förderprojekte und hilft bei der Eventorganisierung. Sie absolviert ihr Master Data Science for Public Policy und hat zuvor Wirtschaft, Politik und Philosophie studiert. 
