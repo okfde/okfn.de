@@ -1,21 +1,22 @@
 ---
 authors:
 - Sonja Fischbauer
-date: 2022-01-27
+date: 2024-01-24
 image:
   src: /files/jobs/cfg-redakteurin.jpg
-  title: "Community Redakteur:in gesucht!"
+  title: "Kommunikationsmanager:in gesucht!"
   license: "CC-BY 4.0, Urheber: Leonard Wolf"
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
-published: false
+published: true
 title: "Wir suchen eine:n Kommunikationsmanager:in für die OKF (Teilzeit, 20-28h/Woche)"
 ---
 
-Um unsere Arbeit zu Open Data & Co. in unseren Communities zu begleiten und öffentlichkeitswirksam zu verbreiten, suchen wir eine:n Kommunikationsmanager:in (20-28h/Woche) ab April 2024. Bewerbungsfrist: 27. Februar 2024. Die Stelle ist befristet auf 2 Jahre. Das Gehalt ist angelehnt an TVL 12/1 oder TVL12/2, je nach Erfahrung.
- 
+Um unsere Arbeit zu Open Data & Co. in unseren Communities zu begleiten und öffentlichkeitswirksam zu verbreiten, suchen wir eine:n
 
 **Kommunikationsmanager:in (20-28h/Woche) ab April 2024, Bewerbungsschluss 27. Februar 2024** 
+
+Die Stelle ist befristet auf 2 Jahre. Das Gehalt ist angelehnt an TVL 12/1 oder TVL12/2, je nach Erfahrung.
 
 ### Wer wir sind:
 Die Open Knowledge Foundation Deutschland e.V. (OKF) ist ein gemeinnütziger Verein mit Sitz in Berlin-Friedrichshain, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär (mehr erfährst du auf [okfn.de](https://okfn.de)). Im Projekt [Offene Verwaltungsdaten](https://okfn.de/projekte/opendata/) bringen wir uns mit diesem Kernthema der OKF verstärkt in den gesellschaftlichen Diskurs ein und stellen unsere Expertise im Bereich Open Data zur Verfügung. Wir arbeiten daran zusammen mit unserer ehrenamtlichen im Netzwerk [Code for Germany](https://codefor.de). 
@@ -76,7 +77,6 @@ Du wirst auch bereichsübergreifend mit anderen Teamkolleg:innen aus der OKF arb
 Wir freuen uns besonders über Bewerbungen von BPoC,  Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. 
 
 Wichtiger als formale Qualifikationen sind uns deine Motivation und dein Einsatz für gesellschaftlichen Wandel. Wenn du das Gefühl hast, die Punkte oben nicht voll  zu erfüllen, aber interessiert und begeistert bist, dann bewirb dich gerne! Wir möchten vor allem wissen, warum du glaubst, dass eine Mitarbeit in der Open Knowledge Foundation Deutschland genau das richtige für dich ist. 
-
 
 Schick uns deine Bewerbungsunterlagen (Anschreiben, Lebenslauf, relevante Zeugnisse) **bis spätestens Dienstag, 27. Februar 2024** per Email an Sonja unter **jobs@okfn.de**. 
 
