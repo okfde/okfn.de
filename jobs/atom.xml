@@ -1,12 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>0001-01-01T00:00:00+0000</updated>
+  <updated>2024-01-24T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Wir suchen eine:n Kommunikationsmanager:in für die OKF (Teilzeit, 20-28h/Woche)</title>
+    <link rel="alternate" href="https://okfn.de/jobs/gf-kommunikationsmanagerin-2024/"/>
+    <id>https://okfn.de/jobs/gf-kommunikationsmanagerin-2024/</id>
+    <published>2024-01-24T00:00:00+0000</published>
+    <updated>2024-01-24T00:00:00+0000</updated>
+    <summary>Um unsere Arbeit zu Open Data &amp;amp; Co. in unseren Communities zu begleiten und öffentlichkeitswirksam zu verbreiten, suchen wir eine:n
+Kommunikationsmanager:in (20-28h/Woche) ab April 2024, Bewerbungsschluss 27. Februar 2024
+Die Stelle ist befristet auf 2 Jahre. Das Gehalt ist angelehnt an TVL 12/1 oder TVL12/2, je nach Erfahrung.
+Wer wir sind: Die Open Knowledge Foundation Deutschland e.V. (OKF) ist ein gemeinnütziger Verein mit Sitz in Berlin-Friedrichshain, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt.</summary>
+  </entry>
   
 </feed>
