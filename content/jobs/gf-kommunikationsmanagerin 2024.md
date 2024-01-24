@@ -53,7 +53,7 @@ Du…
 
 
 ### Dein Team:
-Du wirst im Team der Geschäftsführung arbeiten. Dabei wirst du inhaltlich mit Christina (Policy), Dénes (Open Data) und Sonja (Organisationsentwicklung und Community) zusammenarbeiten. Die Personalverantwortung für diese Stelle liegt bei Sonja. 
+Du wirst im Team der Geschäftsführung arbeiten. Dabei wirst du inhaltlich mit Christina (Policy), Dénes (Open Data) und Sonja (Organisationsentwicklung und Community) zusammenarbeiten. 
 
 Du wirst auch bereichsübergreifend mit anderen Teamkolleg:innen aus der OKF arbeiten. Gelegentlich wirst du mit unserem ehrenamtlichen Vorstand und häufig mit den Ehrenamtlichen unseres Netzwerkes Code for Germany arbeiten. 
 
