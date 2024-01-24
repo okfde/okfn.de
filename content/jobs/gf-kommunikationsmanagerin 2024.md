@@ -76,7 +76,7 @@ Du wirst auch bereichsübergreifend mit anderen Teamkolleg:innen aus der OKF arb
 ### Wie es weitergeht:
 Wir freuen uns besonders über Bewerbungen von BPoC,  Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. 
 
-Wichtiger als formale Qualifikationen sind uns deine Motivation und dein Einsatz für gesellschaftlichen Wandel. Wenn du das Gefühl hast, die Punkte oben nicht voll  zu erfüllen, aber interessiert und begeistert bist, dann bewirb dich gerne! Wir möchten vor allem wissen, warum du glaubst, dass eine Mitarbeit in der Open Knowledge Foundation Deutschland genau das richtige für dich ist. 
+Wir möchten vor allem wissen, warum du glaubst, dass eine Mitarbeit in der Open Knowledge Foundation Deutschland genau das richtige für dich ist. 
 
 Schick uns deine Bewerbungsunterlagen (Anschreiben, Lebenslauf, relevante Zeugnisse) **bis spätestens Dienstag, 27. Februar 2024** per Email an Sonja unter **jobs@okfn.de**. 
 
