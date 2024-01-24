@@ -242,11 +242,34 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</loc>
-    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
+                />
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -257,6 +280,15 @@
                 hreflang="de"
                 href="https://okfn.de/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/jobs/gf-kommunikationsmanagerin-2024/</loc>
+    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
@@ -273,19 +305,6 @@
   </url><url>
     <loc>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
@@ -669,9 +688,6 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/06/jahresbericht-2021/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/claudia-jach/</loc>
@@ -3991,18 +4007,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/jahresberichte/"
-                />
-  </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/kleineanfragen/</loc>
