@@ -8,7 +8,7 @@ image:
   license: "CC-BY 4.0, Urheber: Leonard Wolf"
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
-published: true
+published: false
 title: "Wir suchen eine:n Kommunikationsmanager:in für die OKF (Teilzeit, 20-28h/Woche)"
 ---
 
