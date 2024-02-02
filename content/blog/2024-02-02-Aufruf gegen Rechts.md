@@ -17,7 +17,7 @@ title: "OKF und Bündnis F5 unterstützen Aktionstag gegen Rechtsextremismus und
 
 **Digitalpolitik für eine starke Demokratie.**
 
-Offenes Wissen und Transparenz sind in einem demokratischen Staat die Grundvoraussetzung für politische Mitbestimmung und Teilhabe! Deswegen kämpfen wir für eine offene, informierte und solidarische Zivilgesellschaft!
+**Offenes Wissen und Transparenz sind in einem demokratischen Staat die Grundvoraussetzung für politische Mitbestimmung und Teilhabe! Deswegen kämpfen wir für eine offene, informierte und solidarische Zivilgesellschaft!**
 
 Wir erleben aktuell mit großer Besorgnis eine deutliche Verschiebung des öffentlichen Diskurses. Nationalistische, antisemitische und rassistische Positionen erhalten immer stärker Zuspruch – und damit auch die Parteien, die diese vertreten. Mit Blick auf die diesjährigen Landtagswahlen in Brandenburg, Thüringen und Sachsen, die zahlreichen Kommunalwahlen sowie die Europawahl ist zu befürchten, dass sich dieser Zulauf auch in Mandaten niederschlägt und diese Positionen in reale Politik umgesetzt werden.
 
