@@ -10,7 +10,7 @@ tags:
 - Digitalpolitik
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "OKF und Bündnis F5 unterstützen Aktionstag gegen Rechtsextremismus und Rassismus"
 ---
