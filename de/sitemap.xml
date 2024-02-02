@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -253,6 +253,60 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/demokratie/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/engangement/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2024/02/aufruf-gegen-rechts/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/jobs/</loc>
@@ -266,19 +320,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/jobs/"
-                />
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
                 />
   </url><url>
     <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
@@ -306,26 +347,10 @@
     <loc>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/brandenburg/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/e-government-gesetz/</loc>
@@ -352,19 +377,6 @@
   </url><url>
     <loc>https://okfn.de/tags/open-data/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/circular-society/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
@@ -524,9 +536,6 @@
                 />
   </url><url>
     <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/okfde/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/re-publica/</loc>
@@ -1219,9 +1228,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2019/08/ausschreibung-jh-pl/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/demokratie/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/elisa-lindinger/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>

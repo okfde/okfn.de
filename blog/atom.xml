@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2023-09-28T00:00:00+0000</updated>
+  <updated>2024-02-02T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>OKF und Bündnis F5 unterstützen Aktionstag gegen Rechtsextremismus und Rassismus</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/02/aufruf-gegen-rechts/"/>
+    <id>https://okfn.de/blog/2024/02/aufruf-gegen-rechts/</id>
+    <published>2024-02-02T00:00:00+0000</published>
+    <updated>2024-02-02T00:00:00+0000</updated>
+    <summary>Digitalpolitik für eine starke Demokratie.
+Offenes Wissen und Transparenz sind in einem demokratischen Staat die Grundvoraussetzung für politische Mitbestimmung und Teilhabe! Deswegen kämpfen wir für eine offene, informierte und solidarische Zivilgesellschaft!
+Wir erleben aktuell mit großer Besorgnis eine deutliche Verschiebung des öffentlichen Diskurses. Nationalistische, antisemitische und rassistische Positionen erhalten immer stärker Zuspruch – und damit auch die Parteien, die diese vertreten. Mit Blick auf die diesjährigen Landtagswahlen in Brandenburg, Thüringen und Sachsen, die zahlreichen Kommunalwahlen sowie die Europawahl ist zu befürchten, dass sich dieser Zulauf auch in Mandaten niederschlägt und diese Positionen in reale Politik umgesetzt werden.</summary>
+  </entry>
   
   <entry>
     <title>Initiativstellungnahme zur Änderung des Brandenburgischen E-Government-Gesetzes</title>
@@ -147,16 +158,6 @@ Wie an vielen anderen Stellen demokratischer Willensbildung und gemeinschaftlich
     <published>2023-03-23T00:00:00+0000</published>
     <updated>2023-03-23T00:00:00+0000</updated>
     <summary>Die Herausforderungen unser Zeit sind bekannt, die auf sozialer, ökologischer und wirtschaftlicher Ebene vor uns liegen. Offene Hardware kann ein Teil der Lösung werden. Beim Forum Open Hardware 2023 (#FOH23) befassten sich 100 Expertinnen und Experten mit der Frage, wie das gelingen kann. Dabei stand das zivilgesellschaftliche Engagement im Forderung. Denn es sind zivilgesellschaftliche Akteure, die daran arbeiten, Technologie und alle damit verbundenen Aspekte offen zu denken. Damit gehören sie zu den innovativsten Köpfen unserer Zeit, wenn Innovation bedeutet, Hardware reparierbar, veränderbar und partizipativ zu gestalten.</summary>
-  </entry>
-  
-  <entry>
-    <title>Digitaler Aufbruch in Berlin nach der Wiederholungswahl - oder weiter so?</title>
-    <link rel="alternate" href="https://okfn.de/blog/2023/02/wahlberlin-forderungen/"/>
-    <id>https://okfn.de/blog/2023/02/wahlberlin-forderungen/</id>
-    <published>2023-02-09T00:00:00+0000</published>
-    <updated>2023-02-09T00:00:00+0000</updated>
-    <summary>Im ersten Jahr ihrer Regierungstätigkeit hat die Koalition im Berliner Abgeordnetenhaus im Digitalbereich vor allem an der Theorie gearbeitet – aber in der Praxis Forderungen der Zivilgesellschaft weiter ignoriert. Eine fortbestehende oder umgebildete Regierung muss in der restlichen Legislaturperiode zum Handeln übergehen.
-Ende Januar wurde mit Gemeinsam Digital: Berlin eine umfassende digitale Vision für die Hauptstadt vorgestellt, die alle Aspekte der digitalen Transformation von Stadt und Verwaltung umfasst. Treibende politische Kraft ist Berlins Chief Digital Officer Ralf Kleindiek, der in Personalunion Staatssekretär im Innensenat und CDO in der Senatskanzlei ist.</summary>
   </entry>
   
 </feed>
