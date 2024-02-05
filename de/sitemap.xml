@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,17 +268,14 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/demokratie/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/engangement/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2024/02/right-to-repair-entschieden/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -290,14 +287,17 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2024/02/aufruf-gegen-rechts/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/okfde/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/produkttransparenz/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -308,6 +308,21 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/demokratie/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/engangement/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2024/02/aufruf-gegen-rechts/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
@@ -384,16 +399,10 @@
     <loc>https://okfn.de/tags/kreislaufwirtschaft/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2023/09/nkws/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/nkws/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/09/globaldigitalcompact/</loc>
@@ -777,9 +786,6 @@
   </url><url>
     <loc>https://okfn.de/authors/stefan-kaufmann-und-walter-palmetshofer/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
-    <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/02/okf-unterstuetzt-recht-auf-reparatur/</loc>
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
