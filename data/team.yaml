@@ -304,7 +304,6 @@
   staff: 0
   board: 0
   advisory: 0
-  board_alumni: 1
   position: Regionale Koordinatorin Jugend hackt Lab Fürstenberg/Havel
   position_en: Regional Coordination Jugend hackt Lab Fürstenberg/Havel
   bio: "Eva ist bei der Open Knowledge Foundation beim Jugend hackt Team als Koordinatorin für eines der ersten regionalen Jugend hackt Labs tätig. Neben ihrer Arbeit als Sozialpädagogin engagiert sie sich Rahmen einer offenen Werkstatt in Brandenburg für den Austausch von Wissen und Kultur."
@@ -701,7 +700,7 @@
 - name: Daniel Dietrich
   img: danieldietrich
   staff: 0
-  board: 1
+  board: 0
   advisory: 0
   position: Beisitzer
   position_en: Member of the Board
