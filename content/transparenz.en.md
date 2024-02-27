@@ -24,7 +24,7 @@ A current extract from the register of associations of 2022 can be found [here](
 
 ### Name and function of essential decision makers
 
-Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Further board members are Daniel Dietrich, Felix Reda, Lea Gimpel and Stefan Heumann. Henriette Litta is managing director of the association.
+Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Further board members are Felix Reda, Lea Gimpel and Stefan Heumann. Henriette Litta is managing director of the association.
 
 ### Annual reports [DE]
 
