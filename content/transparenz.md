@@ -21,7 +21,7 @@ Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung, Förderung de
 Ein aktueller Auszug aus dem Vereinsregister ist [hier einsehbar](/files/documents/2023-08-16-Vereinsregisterauszug-OKF-DE.pdf).
 
 ### Name und Funktion wesentlicher Entscheidungsträger:innen
-Vorsitzende ist Kristina Klein, Kassenwartin ist Gabriele C. Klug. Weitere Vorstandsmitglieder sind Daniel Dietrich, Felix Reda, Lea Gimpel und Stefan Heumann. Vom Vorstand bevollmächtigte Geschäftsführerin ist Henriette Litta.
+Vorsitzende ist Kristina Klein, Kassenwartin ist Gabriele C. Klug. Weitere Vorstandsmitglieder sind Felix Reda, Lea Gimpel und Stefan Heumann. Vom Vorstand bevollmächtigte Geschäftsführerin ist Henriette Litta.
 
 ### Jahresberichte
 Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Finanzierung. Seit 2017 erstellen wir unseren Jahresbericht darum nach Social Reporting Standard.
