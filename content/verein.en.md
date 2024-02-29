@@ -14,7 +14,7 @@ search_keys:
   - Tätigkeitsbericht
 stats:
   - number: 2011
-    text: The association was founded. The first meeting took place in 2010 at the re:publica with Rufus Pollock, initiator of the Open Knowledge Network.
+    text: The association was founded.
   - number: 40
     text: In over 40 cities, we organize regular events with our local community partners as part of Jugend hackt Labs and the Open Knowledge Labs.
   - number: 46
