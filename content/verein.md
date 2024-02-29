@@ -14,7 +14,7 @@ search_keys:
   - Tätigkeitsbericht
 stats:
   - number: 2011
-    text: hat sich der Verein gegründet. Das erste Treffen fand bereits 2010 auf der re:publica mit Rufus Pollock, Initiator des internationalen Open Knowledge Netzwerks, statt.
+    text: hat sich der Verein gegründet.
   - number: 40
     text: In über 40 Städten organisieren wir mit unseren Community-Partner:innen vorort regelmäßige Veranstaltungen im Rahmen von Jugend hackt Labs sowie den Open Knowledge Labs.
   - number: 46
