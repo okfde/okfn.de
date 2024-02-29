@@ -33,12 +33,12 @@ Members of the German EITI Civil Society MSG:<ul>
 
 Further information:
 
-[Gubad Ibadoghlu](https://en.wikipedia.org/wiki/Gubad_Ibadoghlu)<br>
-[The kleptocracy strikes back. An Azerbaijani economist should be freed.](https://archive.is/YT6AZ)<br>
-[West puts energy deals before plight of jailed Azerbaijani, his family says](https://archive.is/62rUv)<br>
-[Health of LSE academic detained in Azerbaijan at risk, say family](https://www.theguardian.com/world/2023/sep/14/health-of-lse-academic-detained-in-azerbaijan-at-risk-say-family)<br>
+more information on [Gubad Ibadoghlu](https://en.wikipedia.org/wiki/Gubad_Ibadoghlu)<br>
+06 Aug 2023 Washington Post [The kleptocracy strikes back. An Azerbaijani economist should be freed.](https://archive.is/YT6AZ)<br>
+14 Sep 2023 [the European Parliament adopted an urgent resolution (voting: 539 for, 6 against, and 24 abstentions) on the case of Dr. Gubad Ibadoghlu, demanding his immediate and unconditional release, and called for “EU sanctions under the EU Global Human Rights Sanctions Regime to be imposed on Azerbaijani officials who have committed serious human rights violations.”](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0323_EN.html)<br>
+14 Sep 2023  Guardina [Health of LSE academic detained in Azerbaijan at risk, say family](https://www.theguardian.com/world/2023/sep/14/health-of-lse-academic-detained-in-azerbaijan-at-risk-say-family)<br>
+15 Nov 2023 Financial Times [West puts energy deals before plight of jailed Azerbaijani, his family says](https://archive.is/62rUv)<br>
 [Statement from the Civil Society Members of the OGP Steering Committee in Support of Gubad Ibadoghlu](https://www.opengovpartnership.org/news/statement-from-the-civil-society-members-of-the-ogp-steering-committee-in-support-of-gubad-ibadoghlu/)<br>
 [PWYP statement](https://pwyp.org/sign-the-statement-for-the-release-of-gubad-ibadoghlu/)<br>
-[On September 14, 2023, the European Parliament adopted an urgent resolution (voting: 539 for, 6 against, and 24 abstentions) on the case of Dr. Gubad Ibadoghlu, demanding his immediate and unconditional release, and called for “EU sanctions under the EU Global Human Rights Sanctions Regime to be imposed on Azerbaijani officials who have committed serious human rights violations.”](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0323_EN.html)<br>
-[An Assessment of the Potential of EU-Azerbaijan Energy Cooperation and its Impact on EU Gas Dependence on Russia
+Recent work by Gubad [An Assessment of the Potential of EU-Azerbaijan Energy Cooperation and its Impact on EU Gas Dependence on Russia
 ](https://kki.hu/wp-content/uploads/2023/07/mki_FPR_beliv_online_91-108_ibadhoglu-bayramov.pdf)<br>
