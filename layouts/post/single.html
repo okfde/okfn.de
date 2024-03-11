@@ -85,7 +85,6 @@
         <div class="col col-12 col-md-6 offset-md-1">
           <p>
             {{ i18n "share" }}:
-            <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&via=okfde&related=okfde" title="Teilen auf Twitter" rel="nofollow">Twitter</a>
             <a
               onclick="mastodonShare(this);"
               data-src="{{ .Title }}: {{ .Permalink }} by @okfde@chaos.social"
