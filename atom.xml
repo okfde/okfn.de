@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-02-03T00:00:00+0000</updated>
+  <updated>2024-03-01T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Helfen KI-Modelle und offene Daten dem Umweltschutz?</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/03/start-der-umweltdatenwerkstatt-fuer-den-umweltschutz/"/>
+    <id>https://okfn.de/blog/2024/03/start-der-umweltdatenwerkstatt-fuer-den-umweltschutz/</id>
+    <published>2024-03-01T00:00:00+0000</published>
+    <updated>2024-03-01T00:00:00+0000</updated>
+    <summary>Neben den zahlreichen Krisen und dem Erstarken der Rechten schreitet die Klimakrise voran. Laut eines aktuellen Berichts der Europäischen Umweltagentur (EEA) ist Europa &amp;ldquo;der sich am schnellsten erwärmende Kontinent.&amp;rdquo; Neben zahlreichen anderen Gründen hat das großen Einfluss auf die Beschaffenheit der Umwelt. Ein Rückgang der Insekten und Vögel ist nur ein Effekt. Technologien, wie sogenannte &amp;ldquo;künstliche Intelligenz&amp;rdquo;, werden als Lösungen postuliert. Ist das so? Hilft uns die Technik, die Umwelt zu schützen?</summary>
+  </entry>
   
   <entry>
     <title>Nach EU-Einigung: Beim Reparaturgesetz sollte DE sich an Frankreich orientieren</title>
@@ -149,17 +158,6 @@ Anerkennung, Wertschätzung und Förderung des digitalen Ehrenamts:</summary>
     <summary>Die re:publica, das Festival für die digitale Gesellschaft, findet vom 05.-07. Juni 2023 in der Arena Berlin und dem Festsaal Kreuzberg statt. Die OKFDE wird mit verschiedenen Themen und Formaten dabei sein.
 Kommt vorbei und trefft uns hier:
 Im Bündnis F5 werden wir einen Stand betreiben. Dort bekommt ihr neben Infos zu unseren Aktivitäten auch einige Programmpunkte geboten. Von der OKFDE hört ihr News aus unserem Projekt &amp;lt;em&amp;gt;Offene Verwaltungsdaten&amp;lt;/em&amp;gt; und der Prototype Fund beantwortet Fragen zur gemeinwohlorientierten Technologieförderung.</summary>
-  </entry>
-  
-  <entry>
-    <title>Digitalpolitik im Berliner Koalitionsvertrag: Wenig Zeit für Veränderung</title>
-    <link rel="alternate" href="https://okfn.de/blog/2023/04/koavertrag-berlin/"/>
-    <id>https://okfn.de/blog/2023/04/koavertrag-berlin/</id>
-    <published>2023-04-13T00:00:00+0000</published>
-    <updated>2023-04-13T00:00:00+0000</updated>
-    <summary>Sollten die jeweiligen Parteigremien Ende April zustimmen, bleibt einer neuen Regierungskoalition aus CDU und SPD nur wenig Zeit, um in der restlichen Legislaturperiode digitalpolitische Vorhaben umzusetzen. Welche Projekte priorisiert werden sollen, bleibt im Koalitionsvertrag vage. Viel wird von dem neuen Personal abhängen.
-Aller guten Dinge sind drei? Transparenzgesetz wird wieder angekündigt
-Zum dritten Mal in Folge wurde die Schaffung eines Transparenzgesetzes in einen Berliner Koalitionsvertrag geschrieben. Zum dritten Mal ist aber auch fraglich, ob es die Vorlage zur Verabschiedung schafft.</summary>
   </entry>
   
 </feed>
