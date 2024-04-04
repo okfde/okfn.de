@@ -1430,7 +1430,7 @@
  
 - name: Tasha Akimi
   img: unknown
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Bundesfreiwilligendienst FragDenStaat
@@ -1550,3 +1550,14 @@
   bio: Marie-Lena ist im Prototype Fund für die Betreuung der Förderprojekte zuständig. Sie hat Nahoststudien und Politikwissenschaft in Halle, Marburg und Kairo studiert. Zuvor hat sie in einem Projekt für digitale Demokratieförderung gearbeitet.
   bio_en: Marie-Lena manages the funded projects at the Prototype Fund. She studied Middle Eastern Studies and Political Science in Halle, Marburg and Cairo. Previously, she worked in a project for digital democracy promotion.
   mail: marie-lena.wiese@okfn.de
+
+- name: Nadja Laschinski
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Buchhaltung
+  position_en: Accounting
+  bio: Nadja unterstützt die Geschäftsführung und unsere Projekte in Sachen Buchhaltung und Office Management.
+  bio_en: Nadja supports our managing director and our projects in accounting and office management. 
+  mail: nadja.laschinski@okfn.de
