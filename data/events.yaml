@@ -100,3 +100,39 @@
   startdate: "2023-11-19"
   venue: Hopp Foundation
   show: true
+- name: Jugend hackt Frankfurt am Main 2024
+  url: https://jugendhackt.org/events/frankfurt/
+  enddate: "2024-05-18"
+  startdate: "2024-05-20"
+  venue: Jugendhaus Riedberg
+  show: true
+- name: Jugend hackt Rhein-Neckar 2024
+  url: https://jugendhackt.org/events/rhein-neckar/
+  enddate: "2024-07-19"
+  startdate: "2024-07-21"
+  venue: Jugendkulturzentrum Forum Mannheim
+  show: true
+ - name: Jugend hackt Köln 2024
+  url: https://jugendhackt.org/events/koeln/
+  enddate: "2024-09-06"
+  startdate: "2024-09-08"
+  venue: Zirkus Latibul
+  show: true
+- name: Jugend hackt Hamburg 2024
+  url: https://jugendhackt.org/events/hamburg/
+  enddate: "2024-09-20"
+  startdate: "2024-09-22"
+  venue: betahaus Schanze
+  show: true
+- name: Jugend hackt Berlin 2023
+  url: https://jugendhackt.org/events/berlin/
+  enddate: "2024-10-03"
+  startdate: "2024-10-06"
+  venue: Jugendhaus Königstadt
+  show: true
+- name: Jugend hackt München 2024
+  url: https://jugendhackt.org/events/muenchen/
+  enddate: "2024-11-15"
+  startdate: "2024-11-17"
+  venue: TBA
+  show: true
