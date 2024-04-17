@@ -10,17 +10,37 @@ image:
 tags:
 - BuendnisF5
 - Zivilgesellschaft
-- Forderungen
+- Pressemitteilung
 type: post
 layout: post
 published: false
 featured: blue
 title: "Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor"
 ---
-Neben den zahlreichen Krisen und dem Erstarken der Rechten schreitet die Klimakrise voran. Laut eines aktuellen Berichts der Europäischen Umweltagentur (EEA) ist Europa "[der sich am schnellsten erwärmende Kontinent.](https://www.rnd.de/politik/ueberschwemmungen-hitze-und-braende-europa-bereitet-sich-laut-bericht-zu-wenig-auf-klimakrise-vor-3YNVG2N7CJLPLB7YDDVWV5PVVA.html)" Neben zahlreichen anderen Gründen hat das großen Einfluss auf die Beschaffenheit der Umwelt. Ein [Rückgang der Insekten und Vögel](https://www.nabu.de/tiere-und-pflanzen/voegel/gefaehrdungen/24661.html) ist nur ein Effekt. Technologien, wie sogenannte "künstliche Intelligenz", werden als [Lösungen postuliert](https://www.boell.de/de/kuenstliche-intelligenz-und-klimawandel). Ist das so? Hilft uns die Technik, die Umwelt zu schützen? Und: Wissen wir zu wenig, um zu handeln?
 
-Mit diesen Fragen befassen sich Expertinnen und Experten aus den Bereichen Umweltschutz, Open Data und KI-basierter Datenauswertung im Projekt "[Umweltdatenwerkstatt](https://datenschule.de/projekte/umweltdatenwerkstatt/)". Oft wird einseitig über technische Lösungen nachgedacht. Das technisch Machbare wird über das Nützliche gestellt. Bei der Umweltdatenwerkstatt geht es darum, gemeinsam abzuwägen und zu zielführenden Lösungen zu kommen. Die lokale Vernetzung, das voneinander Lernen und Testen konkreter Lösungsansätze steht im Vordergrund.
+##Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor## 
 
-An zwei Tagen arbeiten die Teilnehmenden an Umweltschutzprojekten. Die Veranstaltungen finden bundesweit statt. Durchgeführt wird die Umweldatenwerkstatt vom OKF-Programm Datenschule, im Auftrag der [KI-Ideenwerkstatt der ZUG](https://www.ki-ideenwerkstatt.de/), gefördert durch das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz im Rahmen von [Civic Coding](https://www.civic-coding.de/). Die Veranstaltungen finden in Zusammenarbeit mit der [Code for Germany-Community](https://codefor.de/) statt. 
 
-Du hast Interesse, dabei zu sein? Die Anmeldung zu den nächsten Terminen findest du auf der [Projektseite](https://datenschule.de/workshops/umweltdatenwerkstatt/). 
+Berlin, 18.04.2024
+
+Das zivilgesellschaftliche Bündnis F5, bestehend aus den Organisationen AlgorithmWatch, Gesellschaft für Freiheitsrechte e.V., Open Knowledge Foundation Deutschland, Reporter ohne Grenzen und Wikimedia Deutschland, begrüßt die Ziele der ersten Digitalministerkonferenz und stellt seine Forderungen für einen echten Perspektivwechsel in der Digitalpolitik vor. F5 betont die Notwendigkeit einer gemeinwohlorientierten digitalen Transformation, die nachhaltig gestaltet und gleichzeitig eng an gesellschaftliche Ziele geknüpft werden muss, um unsere demokratische Gesellschaft in ihrem Fundament zu stärken und zukunftsfähig zu machen. 
+
+Mit der Gründung der ersten Digitalministerkonferenz (DMK) am 19. April 2024 in Potsdam setzen sich die 16 Bundesländer das gemeinsame Ziel, die digitale Transformation zum Wohle der Bürger:innen zu gestalten. Wie aus der [Selbsterklärung der DMK](https://www.berlin-brandenburg.de/wp-content/uploads/Beschluss-D16-TOP-3-b-Konzeptpapier-Digitalministerkonferenz.pdf) hervorgeht, soll bei digitalpolitischen Fragen wie der Datennutzung, Cybersicherheit oder digitalen Teilhabe künftig enger zusammengearbeitet werden.
+
+#Gemeinwohlorientierte Digitalpolitik unter Einbeziehung der Zivilgesellschaft#
+
+Die Vision eines offenen, freien, verlässlichen und sicheren Internets kann nur durch eine gemeinwohlorientierte Digitalpolitik unter Einbeziehung der Zivilgesellschaft Wirklichkeit werden. F5 appelliert an die Verantwortlichen der DMK, folgende Forderungen politisch umzusetzen:
+
+- eine demokratische, offene, inklusive und transparente Digitalpolitik
+- Transparenz bei Algorithmen in Behörden
+- die Bekämpfung algorithmischer Diskriminierung
+- die Modernisierung der öffentlichen IT-Architektur
+- die Förderung offener Bildungsmaterialien
+- die Förderung gemeinwohlorientierter KI-Systeme
+- den Grundrechtsschutz in der Sicherheitsgesetzgebung
+- die effektive Regulierung digitaler Plattformen
+- eine Reform der Anerkennung und Förderung des digitalen Ehrenamts
+
+Bei allen Entscheidungen in der Digitalpolitik müssen drei Grundsätze wegweisend sein: die Stärkung der Menschenrechte im digitalen Raum, das Überwinden der Kleinstaaterei und Fragmentierung sowie die Mitwirkung der Zivilgesellschaft als gemeinwohlorientierte Interessenvertretung. Die Zukunft der digitalen Gesellschaft hängt von mutigen und weitsichtigen Entscheidungen ab. Die erste DMK hat das Potential, ein starkes Signal für eine innovative, demokratische und zukunftsweisende Digitalpolitik zu setzen.
+
+
