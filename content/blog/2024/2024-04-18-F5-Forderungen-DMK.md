@@ -4,8 +4,8 @@ authors:
 - Henriette Litta
 date: 2024-04-18
 image: 
-  src: /files/blog/2024/03/UDE_Leipzig_2024.jpg
-  license: Umweltdatenwerkstatt Leipzig, cc by Maximilian Voigt
+  src: /files/blog/2024/Blog_DMK.jpg
+  license: Bündnis F5 Forderungen zur Digitalministerkonferenz
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 - BuendnisF5
@@ -45,3 +45,7 @@ Die Vision eines offenen, freien, verlässlichen und sicheren Internets kann nur
 Bei allen Entscheidungen in der Digitalpolitik müssen drei Grundsätze wegweisend sein: die Stärkung der Menschenrechte im digitalen Raum, das Überwinden der Kleinstaaterei und Fragmentierung sowie die Mitwirkung der Zivilgesellschaft als gemeinwohlorientierte Interessenvertretung. Die Zukunft der digitalen Gesellschaft hängt von mutigen und weitsichtigen Entscheidungen ab. Die erste DMK hat das Potential, ein starkes Signal für eine innovative, demokratische und zukunftsweisende Digitalpolitik zu setzen.
 
 Weitere Informationen zum Bündnis F5 finden Sie hier: [www.bündnis-f5.de](www.bündnis-f5.de) 
+
++++
+
+Pressekontakt: presse@okfn.de
