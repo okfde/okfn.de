@@ -4,7 +4,7 @@
     <title>Walter Palmetshofer on OKF</title>
     <link>https://okfn.de/authors/walter-palmetshofer/</link>
     <description>Recent content in Walter Palmetshofer on OKF</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>de</language>
     <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/authors/walter-palmetshofer/rss.xml" rel="self" type="application/rss+xml" />
@@ -53,7 +53,7 @@
     <item>
       <title>OpenSchufa: Die Ergebnisse (Updates)</title>
       <link>https://okfn.de/blog/2018/11/openschufa-ergebnisse/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Nov 2018 09:10:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/11/openschufa-ergebnisse/</guid>
       <description>Lange hat es gedauert, aber heute werden die ersten Analysen des OpenSchufa-Datensatzes veröffentlicht. Die Redaktionen vom SpiegelOnline und dem Bayerischen Rundfunk haben die anonymisierten Daten, die wir mithilfe von OpenSchufa im Frühjahr gesammelt haben, ausgewertet. Herzlichen Dank an alle Personen, die uns für das Projekt Geld, Zeit und Daten gespendet haben!&#xA;Das sind die wichtigsten Erkenntnisse: Schlechte Scores auch ohne Negativmerkmale Viele Personen haben schlechte Schufa-Scores, obwohl sie keine negativen Merkmale haben.</description>
     </item>
@@ -74,7 +74,7 @@
     <item>
       <title>Rückblick Energyhack 2018: &#34; Energyhack^2 - Energie für eine effiziente Stadt &#34; !</title>
       <link>https://okfn.de/blog/2018/10/energyhack-2018/</link>
-      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Oct 2018 06:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/10/energyhack-2018/</guid>
       <description>Energie für eine effiziente Stadt! Am 12. und 13. Oktober fand der vierte Energyhack von Stromnetz Berlin und der Open Knowledge Foundation statt.&#xA;Video: Lea Pfau&#xA;Ziel des Hackdays war es, innerhalb von 24 Stunden mit offenen Daten aus dem Energiesektor kreative Projekte umzusetzen, um die Gesellschaft stärker für die Themen Strom-, Energienetze und Energiewende zu sensibilisieren und Anwendungen für diese Bereiche zu entwickeln.&#xA;Wie im Vorjahr fand die Veranstaltung im Kontext des Forschungsprojekts WindNODE statt.</description>
     </item>
@@ -144,7 +144,7 @@
     <item>
       <title>One week of OpenSchufa - we crack the Schufa!</title>
       <link>https://okfn.de/blog/2018/02/1-week-openschufa/</link>
-      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/02/1-week-openschufa/</guid>
       <description>Last week we launched our newest project OpenSCHUFA together with AlgorithmWatch.&#xA;Inspired by OKF Finland and the „mydata“ project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.&#xA;Over the last 7 days, the campaign generated Germany-wide media attention (see press listing) and already over 8.000 individual Schufa data request (30.000 personal data requests in total).&#xA;Congrats to selbstauskunft.net for serving 1 million personal data requests!&#xA;Why we started OpenSCHUFA and why you should care about credit scoring Germany’s leading credit rating bureau, SCHUFA, has immense power over people’s lives.</description>
     </item>
@@ -172,21 +172,21 @@
     <item>
       <title>Live aus Brüssel: Anhörung zur neuen PSI-Richtlinie</title>
       <link>https://okfn.de/blog/2018/01/psi-hearing/</link>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jan 2018 02:30:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/01/psi-hearing/</guid>
       <description>Am 19.01.18 fand das Hearing zur neuen PSI-Richtlinie in Brüssel statt. PSI steht für &amp;ldquo;Public Sector Information&amp;rdquo;. Dabei geht es beispielsweise um die Weiterverwendung offener Daten. Walter Palmetshofer hat an dem Hearing teilnehmen.&#xA;Recording of the Public Hearing&#xA;Vor dem Public Hearing gab es bis zum 12.12.18 eine öffentliche Konsultation zur Überprüfung der Richtlinie über die Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie). Zur Veranschaulichung hier der aufgefüllte Fragebogen von Mathias Schindler bzw.</description>
     </item>
     <item>
       <title>Steuern</title>
       <link>https://okfn.de/blog/2017/12/steuern/</link>
-      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Dec 2017 11:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/12/steuern/</guid>
       <description>Ende 2017 waren die Paradise Papers in aller Munde. Nach #Luxleaks und #Panamapapers war es die nächste mediale Runde für die Steueroptimierungsfälle. Dazu gab es am 29.12.17 einen &amp;amp;ldquo;Taxation&amp;amp;rdquo; Talk am 34c3 - Video und Slides. Anbei eine Kurzzusammenfassung des Talks.&#xA;Ich zahle mehr Steuern als die Multis – ist das normal?&#xA;Multinationale Konzerne, und insbesondere die Giganten des Internetzeitalters, stehlen sich aus ihrer sozialen Verantwortung und zahlen keine Steuern mehr –sohört und liest man immer wieder.</description>
     </item>
     <item>
       <title>Durchblick beim Rohstoffabbau</title>
       <link>https://okfn.de/blog/2017/10/durchblick-beim-rohstoffabbau/</link>
-      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Oct 2017 01:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/10/durchblick-beim-rohstoffabbau/</guid>
       <description>Im Rahmen der Alternativen Rohstoffwoche luden am 19.10.2017 das Forum Ökologisch Soziale Marktwirtschaft, das Forum Umwelt und Entwicklung, die Open Knowledge Foundation Deutschland und Transparency International Deutschland e.V. zur Diskussion bzgl. der Veröffentlichung des ersten EITI-Transparenzbericht. Der Bericht informiert über den deutschen Rohstoffsektor und die mit der Rohstoffförderung verbundenen Finanzströme zwischen Unternehmen und Staat. Sorgt der erste D-EITI-Bericht für mehr Durchblick im deutschen Rohstoffsektor? Wo steht der erste D-EITI-Bericht im internationalen Vergleich?</description>
     </item>
@@ -207,105 +207,105 @@
     <item>
       <title>Erster deutscher EITI-Bericht veröffentlicht</title>
       <link>https://okfn.de/blog/2017/09/erster-eiti-bericht-veroeffentlicht/</link>
-      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Sep 2017 01:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/09/erster-eiti-bericht-veroeffentlicht/</guid>
       <description>Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der 1. EITI Bericht einstimmig beschlossen. Wir bedanken uns herzlichst bei den KollegInnen der MSG und den MitarbeiterInnnen des EITI-Sekretariat für eine erfolgreiche jahrelange Zusammenarbeit. Am 23. August wurde nach Oslo verschickt, heute um 16:00 wird er in Berlin präsentiert. Hier ist der 1. Bericht.&#xA;Erklärvideo zu EITI: So funktioniert Rohstofftransparenz&#xA;Und das neue Datenportal: rohstofftransparenz.de&#xA;Hiermit auch eine herzliche Einladung:</description>
     </item>
     <item>
       <title>Erster OGP Aktionsplan verabschiedet</title>
       <link>https://okfn.de/blog/2017/08/erster-ogp-aktionsplan-verabschiedet/</link>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Aug 2017 13:10:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/08/erster-ogp-aktionsplan-verabschiedet/</guid>
       <description>Die Bundesregierung hat den ersten Aktionsplan Open Government Partnership beschlossen. In den nächsten 2 Jahren sollen 15 Verpflichtungen umgesetzt werden. Aus unser Sicht erfreulich sind die Punkte Open Data, Open Data für intelligente Mobilität (Unser Ziel sind offene Nahverkehrsdaten) und Finanztransparenz - Implementierung des EITI-Standards (Unser Ziel sind die dafür notwendigen offenen Register).&#xA;Für den nächsten Aktionsplan 2019 - 2021 bleiben noch genügend Arbeitsfelder und Themen übrig, siehe die Vorschläge des Arbeitskreises OGP Deutschland oder FragdenStaat bzgl.</description>
     </item>
     <item>
       <title>Öffentliche Ankündigung: Das Open-Data-Gesetz ist in Kraft</title>
       <link>https://okfn.de/blog/2017/07/open-data-gesetz-tritt-in-kraft/</link>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2017 00:10:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/07/open-data-gesetz-tritt-in-kraft/</guid>
       <description>Gut Ding will Weile haben. Nachdem es im [Mai im Bundestag beschlossen wurde](http://www.bundestag.de/mediathek?videoid=7111207#url=L21lZGlhdGhla292ZXJsYXk=&amp;mod=mediathek) und im [Juni durch den Bundesrat ging](http://www.bundesrat.de/SharedDocs/TO/958/tagesordnung-958.html?cms_topNr=11#top-11), wurde das Open-Data-Gesetz gestern endlich im [Bundesgesetzblatt verkündet](http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&amp;jumpTo=bgbl117045.pdf). Das Gesetz firmiert offiziell unter dem Titel Erstes Gesetz zur Änderung des E-Government-Gesetzes. Eine kurze inhaltliche Zusammenfassung findet sich hier.&#xA;Nochmals vielen Dank an alle Beteiligten!</description>
     </item>
     <item>
       <title>Digitale Souveränität</title>
       <link>https://okfn.de/blog/2017/06/persoenliche-daten/</link>
-      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2017 23:59:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/06/persoenliche-daten/</guid>
       <description>Am 29. Juni wurde in Berlin das Gutachten &amp;amp;ldquo;Digitale Souveränität: Gutachten des Sachverständigenrats für Verbraucherfragen&amp;amp;rdquo; präsentiert. Zusammen mit Anna Alberts und Arne Semsrott habe ich dafür eine Studie zum Wert persönlicher Daten erstellt. Sie ist zusätzlich zum Beiratsgutachten und einer weitere Studie von Volker Grassmuck, Rüdiger Weis und Stefan Lucks veröffentlicht worden: &amp;amp;ldquo;Technologien für und wider Digitale Souveränität&amp;amp;rdquo;.&#xA;Die Präsentation dazu gibt es hier.&#xA;Unsere Empfehlungen aus der Studie lauten:</description>
     </item>
     <item>
       <title>Digitale Agenda Stellungnahme &amp; Fachgespräch: Moderner Staat - Chancen durch Digitalisierung</title>
       <link>https://okfn.de/blog/2017/06/moderner-staat/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Jun 2017 07:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/06/moderner-staat/</guid>
       <description>Der Ausschuss für Digitale Agenda des Bundestags befasste sich letzte Woche, am 21.06.2017, in einem öffentlichen Fachgespräch mit dem Thema &amp;amp;ldquo;Moderner Staat - Chancen durch Digitalisierung&amp;amp;rdquo; und wir waren auch dabei.&#xA;Die völlständige Stellungsnahme ist hier mit 73 Fußnoten, die tl;dr-Zusammenfassung der Stellungsnahme lautet:&#xA;&amp;ldquo;Es geht um eine politische Frage, nicht um eine technische&amp;rdquo;, argumentierte Walter Palmetshofer von der Open Knowledge Foundation Deutschland e.V.. Der moderne Staat funktioniere als digitale Plattform und zeichne sich durch Transparenz, Anwenderfreundlichkeit sowie Datenschutz aus.</description>
     </item>
     <item>
       <title>Und es bewegt sich doch: Beim öffentlichen Nahverkehr</title>
       <link>https://okfn.de/blog/2017/04/update-offene-nahverkehrsdaten/</link>
-      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Apr 2017 12:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/04/update-offene-nahverkehrsdaten/</guid>
       <description>Seit dem Launch unserer Plattform rettedeinennahverkehr.de gibt es einige erfreuliche Entwicklungen:&#xA;Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die Tagesordnung gebracht:&#xA;{% youtube pmvkwoiFwHc?t=85&amp;amp; %}&#xA;Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine Fahrplandaten als GTFS heraus. Auch der Aachener Verkehrsverbund (AVV) gibt Daten heraus - und lizenziert sie als &amp;amp;lsquo;gemeinfrei&amp;amp;rsquo;.&#xA;In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an - und auch der Hamburger HVV hat festgestellt, dass einzelne Verträge für die Datenbereitstellung zu aufwändig sind und wird die Daten in den kommenden Monaten öffnen.</description>
     </item>
     <item>
       <title>Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan</title>
       <link>https://okfn.de/blog/2017/03/ogp-zivilgesellschaftlichen-ideen/</link>
-      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Mar 2017 01:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/03/ogp-zivilgesellschaftlichen-ideen/</guid>
       <description>Update 19.05.17&#xA;Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzten Wochen 270 konkrete Ideen gesammelt. Die Ergebnisse dieser zivilgesellschaftlichen Ideensammlung wurden nun der Bundesregierung übergeben. Wir sind Teil des Arbeitskreis Open Government Partnership, haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:&#xA;Offene Daten Informationsfreiheit und Transparenz Offene Vergabe (Open Contract) Offene Entwicklungspolitik (Open Aid) Offene Ernährungspolitik und offene Landwirtschaftspolitik Von der OKF und Community bearbeitete Themen sind außerdem Kompetenzaufbau und Qualifizierung, Energiepolitik und EITI, Offenes Parlament und OParl und Transport- und Verkehrspolitik.</description>
     </item>
     <item>
       <title>Rette deinen Nahverkehr: Hilf mit, Fahrplandaten zu befreien</title>
       <link>https://okfn.de/blog/2017/03/rettedeinennahverkehr/</link>
-      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Mar 2017 17:30:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/03/rettedeinennahverkehr/</guid>
       <description>Deine Nahverkehrsapp nervt? Braucht zu lange zum Starten und du fragst dich, warum du in London eine bessere Auskunft bekommst als hier?&#xA;Dann ist es Zeit für rettedeinennahverkehr.de. Gemeinsam machen wir unsere Landrät*innen und Oberbürgermeister*innen darauf aufmerksam, dass sie in ihrem Verkehrsverbund tatsächlich etwas bewegen können - indem sie die Fahrplandaten als Open Data für alle bereitstellen.&#xA;Zugegeben – der öffentliche Nahverkehr hat noch viele andere Probleme. Er ist chronisch unterfinanziert, in kleinteilige Verbundgebiete zersplittert und hängt der technischen Entwicklung oft mehrere Jahre hinterher.</description>
     </item>
     <item>
       <title>Wir sind dabei - Auftakt zum Aktionsplan für offenes Regierungs- und Verwaltungshandeln</title>
       <link>https://okfn.de/blog/2017/02/akogp/</link>
-      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Feb 2017 17:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/02/akogp/</guid>
       <description>Wir waren letzten Freitag, den 17.02.2017 bei dem Auftaktworkshop für einen nationalen Aktionsplan Open Government Partnership (OGP) im Bundesinnenministerium und haben uns bereit erklärt die Arbeit in der Themengruppen Offene Daten sowie Informationsfreiheit und Transparenz zu leiten. Darüber hinaus tragen wir zu weiteren Themenfeldern bei. Eine Übersicht aller bisher vorgeschlagenen Themenfelder befindet sich hier.&#xA;Die OKF DE ist Teil des Arbeitskreis Open Government Partnership und koordiniert ihn. Der Arbeitskreis hat eine gemeinsame Pressemitteilung veröffentlicht, die wir hier darstellen:</description>
     </item>
     <item>
       <title>Unsere Stellungnahme zum Entwurf fürs Open-Data-Gesetz</title>
       <link>https://okfn.de/blog/2017/01/odgesetz-stellungnahme/</link>
-      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jan 2017 10:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/01/odgesetz-stellungnahme/</guid>
       <description>Wir haben gegenüber dem Bundesinnenministerium eine Stellungnahme für den ersten Entwurf für ein Open-Data-Gesetz aka Änderung des E-Government-Gesetzes abgegeben.&#xA;Der Entwurf enthält einige begrüßenswerte Regelungen, geht aber in vielen Bereichen nicht weit genug. Daher setzen wir uns für eine weitere Anpassung des Gesetzes im weiteren Gesetzgebungsprozess ein.&#xA;Zur vollständigen Stellungnahme (pdf)&#xA;Die Stellungnahme im Volltext:&#xA;Stellungnahme der Open Knowledge Foundation Deutschland zum Entwurf eines Gesetzes zur Änderung des E-Government-Gesetzes (Stand des Entwurfs: 15.</description>
     </item>
     <item>
       <title>OGP Summit in Paris: Wir vertreten deutsche Zivilgesellschaft</title>
       <link>https://okfn.de/blog/2016/11/ogp-paris/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Nov 2016 13:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2016/11/ogp-paris/</guid>
       <description>Seit Jahren hat die Open Knowledge Foundation Deutschland den Beitritt Deutschlands zur Open Government Partnership (OGP) gefordert und sich für starkes Open Government eingesetzt. Tatsächlich sind 32 Länder aus Europa und Zentralasien der Initiative beigetreten, Deutschland aber bisher nicht.&#xA;Das ändert sich bald jedoch. Wir nehmen die politischen Entwicklungen zum Anlass, beim OGP Summit in Paris vom 7. bis 9. Dezember Themen der deutschen Zivilgesellschaft in verschiedenen Veranstaltungen zu vertreten:</description>
     </item>
     <item>
       <title>„Rohstoff der Zukunft“: Was bringt das Open-Data-Gesetz?</title>
       <link>https://okfn.de/blog/2016/10/opendata-gesetz/</link>
-      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2016 11:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2016/10/opendata-gesetz/</guid>
       <description>Großes Treiben vor dem Wahlkampf im Bundesinnenministerium (BMI): In den nächsten Wochen will das Ministerium Eckpunkte zu einem Open-Data-Gesetz veröffentlichen, die bis zu den Wahlen im kommenden Jahr in einen Gesetzestext umgesetzt und vom Bundestag verabschiedet werden sollen - ein ambitionierter Zeitplan, nachdem die Koalition lange das Thema verschlafen hat.&#xA;Das Gesetz soll die Öffnung der Bundesbehörden vorantreiben. Dafür müsste eigentlich kein eigenes Regelwerk geschaffen werden. Das Informationsfreiheitsgesetz, das Informationsweiterverwendungsgesetz und das Verwaltungsverfahrensgesetz wären eigentlich prädestiniert dafür, auch Open Data in der Bundesverwaltung zu regeln.</description>
     </item>
     <item>
       <title>Feldversuch: Bahnhöfe und ihre Aufzüge für OpenStreetMap vermessen</title>
       <link>https://okfn.de/blog/2016/04/bahnvermessung/</link>
-      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Apr 2016 14:38:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2016/04/bahnvermessung/</guid>
       <description>Frankfurt – gerade einmal ein halbes Jahr ist es her, dass die Deutsche Bahn erstmals ihre Open-Data-Pläne ankündigte, und seither gab es kaum eine Verschnaufpause: Anfang November startete das Datenportal und im Dezember fanden nacheinander der 3. DB-Hackathon und ein Contest zur Nutzung der DB-Aufzugs-API statt, bevor das neue Open-Data-Jahr mit einer freien DB-Fahrplan-API für den Fernverkehr eingeläutet wurde. Die wurde in der Zwischenzeit auch schon interessiert begutachtet und für eigene Projekte genutzt.</description>
     </item>
     <item>
       <title>Offene Fahrplandaten von der Bahn</title>
       <link>https://okfn.de/blog/2016/02/offene-fahrplandaten-von-der-bahn/</link>
-      <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Feb 2016 16:39:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2016/02/offene-fahrplandaten-von-der-bahn/</guid>
       <description>Gerade einmal vier Monate ist es her, dass die Deutsche Bahn erstmals ihre Open-Data-Pläne ankündigte, und seither gab es kaum eine Verschnaufpause: Anfang November startete das Datenportal und im Dezember fanden nacheinander der 3. DB-Hackathon und ein Contest zur Nutzung der DB-Aufzugs-API statt, bevor das Open-Data-Jahr mit einem Austausch mit der Community auf dem 32C3 in Hamburg ausklang.&#xA;Dabei ging es vielfach um Datensätze und APIs rund um die Aufzüge und Parkplätze der Deutschen Bahn.</description>
     </item>
     <item>
       <title>Die OKF-Familie auf dem 32C3</title>
       <link>https://okfn.de/blog/2015/12/31c3/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Dec 2015 19:48:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2015/12/31c3/</guid>
       <description>Zwischen Hamburg und Berlin, 31.12.2015 – Chaos, Spaß und Kommunikation: Wir waren in Hamburg beim 32. Chaos Communication Congress oder kurz 32C3. Der Chaos Communication Congress ist ein mehrtägiges, in Deutschland stattfindendes Treffen der internationalen Hackerszene, das vom Chaos Computer Club (CCC) ausgerichtet und organisiert wird. Der Kongress widmet sich in zahlreichen Vorträgen und Workshops technischen und gesellschaftspolitischen Themen. Über 13.000 Teilnehmer*innen waren Ende Dezember 2015 in Hamburg mit dabei. Und wir haben uns sehr über den Austausch mit vielen lieben Menschen und anderen Communities gefreut.</description>
     </item>

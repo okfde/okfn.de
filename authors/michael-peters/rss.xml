@@ -4,7 +4,7 @@
     <title>Michael Peters on OKF</title>
     <link>https://okfn.de/authors/michael-peters/</link>
     <description>Recent content in Michael Peters on OKF</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>de</language>
     <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/authors/michael-peters/rss.xml" rel="self" type="application/rss+xml" />
@@ -74,7 +74,7 @@
     <item>
       <title>Der Open Data Day 2019</title>
       <link>https://okfn.de/blog/2019/02/open-data-day/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2019/02/open-data-day/</guid>
       <description>Am Samstag, 2. März 2019, findet weltweit der Open Data Day statt. Weltweit wird dieser von Aktivist*innen auf der ganzen Welt genutzt, um auf die Bedeutung offener Daten hinzuweisen. Auch in diesem Jahr organisieren zahlreiche Ehrenamtliche in den Open Knowledge Labs unseres Netzwerks Code for Germany Veranstaltungen rund um offene Daten.&#xA;Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe offener Daten gemeinsam etwas gestalten. Willst du allein, mit deinen Freunden oder mit deiner Familie bei einem der teilnehmenden OK Labs vorbeischauen und dort zum Beispiel Feinstaubsensoren bauen, lernen Chatbots zu programmieren oder dich mit den Daten des Handelsregisters beschäftigen?</description>
     </item>
@@ -88,7 +88,7 @@
     <item>
       <title>Rückblick: Open Government Global Summit 2018</title>
       <link>https://okfn.de/blog/2018/08/ogp-georgia/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/08/ogp-georgia/</guid>
       <description>Beim „5. Open Government Global Summit 2018“ der Open Government Partnership (OGP) in Tiflis tauschten sich vom 17. bis 19. Juli etwa 2000 Teilnehmer aus Regierung, Verwaltung und Zivilgesellschaft aus über 75 Ländern aus.&#xA;Die Schwerpunkte der diesjährigen Konferenz lagen auf Korruptionsbekämpfung, bürgerlichem Engagement und der Bereitstellung öffentlicher Dienstleistungen. Die dreitägige Konferenz bot am ersten Tag getrennte Veranstaltungen für die Zivilgesellschaft und Regierungsvertreterinnen, darauf folgten zwei Tage gemeinsamer Summit.&#xA;Solch große internationale Kongresse können häufig überwältigend sein.</description>
     </item>
@@ -123,7 +123,7 @@
     <item>
       <title>Finanztransparenz: Informationsfreiheit bleibt ein Problem</title>
       <link>https://okfn.de/blog/2018/02/finanztransparenz/</link>
-      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/02/finanztransparenz/</guid>
       <description>Auf OffenerHaushalt.de können Bürger die Verwendung von Steuergeldern transparent nachvollziehen. Das Open-Source Projekt ermöglicht der Zivilgesellschaft Haushaltsdaten selbständig zu visualisieren und für öffentliche Rechenschaftslegung zu nutzen.&#xA;Die Plattform wurden in der ersten Wochen bereits zahlreich genutzt und zwölf weitere kommunale Haushalte wurden hinzugefügt. Insbesondere in Nordrhein-Westfalen ist das Interesse groß. Hier stellen bereits 7 Kommunen ihre Haushalte transparent dar. Mit Bonn, Kiel, Nürnberg und Frankfurt sind auch einige Großstädte mit einem jährlichen Budget über einer Milliarde Euro vertreten.</description>
     </item>
@@ -144,42 +144,42 @@
     <item>
       <title>Was macht eigentlich die Open Government Partnership</title>
       <link>https://okfn.de/blog/2017/11/open-government-partnership/</link>
-      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Nov 2017 08:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/11/open-government-partnership/</guid>
       <description>Die Open Government Partnership ist ein internationales Netzwerk, welches sich für offenes Regierungs- und Verwaltungshandeln einsetzt. Ins Leben gerufen wurde es 2011 durch den damaligen US-Präsident Obama und Ziel des Netzwerks ist es, die Arbeit des öffentlichen Sektors (Politik, Regierung, Verwaltung und Justiz) offener, transparenter, partizipativer und kooperativer zu gestalten. Dazu hat die OGP einen partizipativen Ansatz etabliert, bei dem nationale Regierungen mit der Zivilgesellschaft gemeinsam Ideen für ein offeneres Regierungshandeln entwickeln.</description>
     </item>
     <item>
       <title>Germany finally has an Open Data Law</title>
       <link>https://okfn.de/blog/2017/08/germany-finally-has-an-open-data-law/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Aug 2017 10:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/08/germany-finally-has-an-open-data-law/</guid>
       <description>On July 13, 2017 Germany’s first Open Data law came into effect, finally enabling free access to government data. The Open Data law is part of the change of the German E-Government law (EGovG), which we translated here. While it is neither part of the freedom of information act nor an actual transparency law, it provides the judicial foundation for obtaining data from all public authorities subject to the federal government.</description>
     </item>
     <item>
       <title>German Open Data Law in English</title>
       <link>https://okfn.de/blog/2017/07/germanys-open-data-law-english/</link>
-      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jul 2017 10:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/07/germanys-open-data-law-english/</guid>
       <description>Disclaimer: we translated the German Open Data Law to make it accessible for the international Open Data community. This is not an official legal translation, but we gave it our very best. The German version can be found below or here.&#xA;Law for the advancement of digital public administration (E-Government-Law - EGovG) § 12a Open Data for public authorities subordinate to the federal administration (1) The public authorities subordinate to the federal administration will provide raw data, obtained fulfilling their public-law duties or through third parties, to be retrieved on publicly accessible networks.</description>
     </item>
     <item>
       <title>Making European Subsidy Data Open</title>
       <link>https://okfn.de/blog/2017/04/making-eu-data-open/</link>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Apr 2017 12:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/04/making-eu-data-open/</guid>
       <description>One month after releasing subsidystories.eu a joint project with Open Knowledge International, we have some great news to share. Due to the extensive outreach of our platform and the data quality report we published, new datasets have been directly sent to us by several administrations. We have recently added new data for Austria, the Netherlands, France and the United Kingdom. Furthermore, first Romanian data recently arrived and should be available in the near future.</description>
     </item>
     <item>
       <title>Die OKF beim Personal Democracy Forum in Danzig</title>
       <link>https://okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Apr 2017 12:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/04/die-okf-beim-personal-democracy-forum/</guid>
       <description>Personal Democracy Forum in Danzig! Zwei Tage lang treffen sich hier zivilgesellschaftliche Organisationen aus Mittel- und Osteuropa, um über Transparenz, Meinungsfreiheit und Civic-Tech-Projekte in ihren Ländern zu sprechen. Wir aus den Teams OpenBudgets.eu und Datenschule waren dieses Jahr vor Ort und haben sowohl beim OpenContracting Workshop als auch bei unserer World Cafè Session fleißig mitdiskutiert.&#xA;Beim OpenContracting Workshop: Die Open Contracting Partnership hat als eintägiges Pre-Event zur Konferenz einen Workshop organisiert wo es um die zentrale Frage ging: Wie die öffentliche Vergabepraxis transparenter und effizienter gestaltet werden kann.</description>
     </item>
     <item>
       <title>Slovenia Ranks Highest in ESIF Data Quality Index by OpenBudgets.eu.</title>
       <link>https://okfn.de/blog/2017/04/esif-data-quality-index/</link>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Apr 2017 09:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2017/04/esif-data-quality-index/</guid>
       <description>Today, OpenBudgets.eu presents the European Structural Funds Data Quality Index. Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.</description>
     </item>

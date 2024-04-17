@@ -4,7 +4,7 @@
     <title>OpenSchufa on OKF</title>
     <link>https://okfn.de/tags/openschufa/</link>
     <description>Recent content in OpenSchufa on OKF</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>de</language>
     <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/openschufa/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
     <item>
       <title>OpenSchufa: Die Ergebnisse (Updates)</title>
       <link>https://okfn.de/blog/2018/11/openschufa-ergebnisse/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Nov 2018 09:10:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/11/openschufa-ergebnisse/</guid>
       <description>Lange hat es gedauert, aber heute werden die ersten Analysen des OpenSchufa-Datensatzes veröffentlicht. Die Redaktionen vom SpiegelOnline und dem Bayerischen Rundfunk haben die anonymisierten Daten, die wir mithilfe von OpenSchufa im Frühjahr gesammelt haben, ausgewertet. Herzlichen Dank an alle Personen, die uns für das Projekt Geld, Zeit und Daten gespendet haben!&#xA;Das sind die wichtigsten Erkenntnisse: Schlechte Scores auch ohne Negativmerkmale Viele Personen haben schlechte Schufa-Scores, obwohl sie keine negativen Merkmale haben.</description>
     </item>
@@ -67,7 +67,7 @@
     <item>
       <title>One week of OpenSchufa - we crack the Schufa!</title>
       <link>https://okfn.de/blog/2018/02/1-week-openschufa/</link>
-      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/02/1-week-openschufa/</guid>
       <description>Last week we launched our newest project OpenSCHUFA together with AlgorithmWatch.&#xA;Inspired by OKF Finland and the „mydata“ project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.&#xA;Over the last 7 days, the campaign generated Germany-wide media attention (see press listing) and already over 8.000 individual Schufa data request (30.000 personal data requests in total).&#xA;Congrats to selbstauskunft.net for serving 1 million personal data requests!&#xA;Why we started OpenSCHUFA and why you should care about credit scoring Germany’s leading credit rating bureau, SCHUFA, has immense power over people’s lives.</description>
     </item>

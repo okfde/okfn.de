@@ -4,7 +4,7 @@
     <title>Open Hardware on OKF</title>
     <link>https://okfn.de/tags/open-hardware/</link>
     <description>Recent content in Open Hardware on OKF</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.0</generator>
     <language>de</language>
     <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/open-hardware/rss.xml" rel="self" type="application/rss+xml" />
@@ -81,7 +81,7 @@
     <item>
       <title>Eine Chance für Open Hardware: das Recht auf Reparatur</title>
       <link>https://okfn.de/blog/2018/11/eine-chance-fuer-open-hardware-das-recht-auf-reparatur/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Nov 2018 16:00:00 +0000</pubDate>
       <guid>https://okfn.de/blog/2018/11/eine-chance-fuer-open-hardware-das-recht-auf-reparatur/</guid>
       <description>In einer Zeit, in der große Teile der technischen Apparate Daten verarbeiten, hat die Forderung nach transparenter Technik einen hohen Stellenwert: Wie erfasst das Smartphone seine Umgebung, welche Daten werden erhoben und wohin gelangen sie? Open Source, das Offenlegen des technischen Aufbaus und die Verwendung von freien Lizenzen, ist hier das bekannte Schlagwort. Während Open Source für den Bereich der Software ein verbreitetes Thema ist und freie Software weite Teile der Softwareentwicklung bereichert, steckt Open Source Hardware noch in den Kinderschuhen.</description>
     </item>
