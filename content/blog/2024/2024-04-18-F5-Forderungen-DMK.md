@@ -44,6 +44,9 @@ Die Vision eines offenen, freien, verlässlichen und sicheren Internets kann nur
 
 Bei allen Entscheidungen in der Digitalpolitik müssen drei Grundsätze wegweisend sein: die Stärkung der Menschenrechte im digitalen Raum, das Überwinden der Kleinstaaterei und Fragmentierung sowie die Mitwirkung der Zivilgesellschaft als gemeinwohlorientierte Interessenvertretung. Die Zukunft der digitalen Gesellschaft hängt von mutigen und weitsichtigen Entscheidungen ab. Die erste DMK hat das Potential, ein starkes Signal für eine innovative, demokratische und zukunftsweisende Digitalpolitik zu setzen.
 
+"Die Kleinstaaterei und Fragmentierung in der Digitalpolitik muss endlich überwunden werden. Es ist nicht nachvollziehbar, warum IT-Infrastrukturen nur bis zur Grenze des eigenen Bundeslandes gedacht und umgesetzt werden. Die Teilnehmenden der DMK sollten zeigen, dass sie bereit sind, eigene Befindlichkeiten und taktische Überlegungen hinten anzustellen und die Technologieentwicklung im Sinne einer Gemeinwohlorientierung mit Schwung und Mut voranzutreiben. Eine funktionale, einheitliche, zeitgemäße IT-Infrastruktur ist der Schlüssel zur erfolgreichen digitalen Transformation. Für die Verwaltungsmodernisierung ist der Rechtsanspruch auf Open Data im Bund und in den Ländern weiterhin ein zentraler Hebel", sagt Dr. Henriette Litta, Geschäftsführerin der Open Knowledge Foundation Deutschland. 
+
+
 Weitere Informationen zum Bündnis F5 finden Sie hier: [www.bündnis-f5.de](www.bündnis-f5.de) 
 
 +++
