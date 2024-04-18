@@ -242,6 +242,19 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -254,6 +267,18 @@
                 hreflang="de"
                 href="https://okfn.de/blog/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/buendnisf5/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/christina-willems/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2024/04/f5-forderungen-dmk/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
@@ -268,18 +293,24 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/pressemitteilung/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/authors/"
+                href="https://okfn.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/authors/"
+                href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/03/start-der-umweltdatenwerkstatt-fuer-den-umweltschutz/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
@@ -292,19 +323,6 @@
   </url><url>
     <loc>https://okfn.de/tags/sogenannte-ki/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/umweltschutz/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
@@ -402,9 +420,6 @@
                 href="https://okfn.de/publikationen/2023_egovernment-brandenburg/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2023/09/stn-egovgbb/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -429,9 +444,6 @@
     <loc>https://okfn.de/tags/un/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
-    <lastmod>2023-09-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/publikationen/2023_globaldigitalcompact/</loc>
     <lastmod>2023-09-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -448,9 +460,6 @@
     <loc>https://okfn.de/publikationen/2023_f5_datenstrategie/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/christina-willems/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/datenstrategie/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -458,9 +467,6 @@
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/08/halbzeitkritik-ampel/</loc>
-    <lastmod>2023-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/pressemitteilung/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/07/whistleblowingpolicy/</loc>
@@ -533,9 +539,6 @@
   </url><url>
     <loc>https://okfn.de/tags/verwaltung/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/buendnisf5/</loc>
-    <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/digitalesehrenamt/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
