@@ -13,7 +13,7 @@ tags:
 - Pressemitteilung
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor"
 ---
