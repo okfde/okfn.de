@@ -14,7 +14,7 @@ tags:
 type: post
 layout: post
 published: true
-featured: blue
+featured: yellow
 title: "Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor"
 ---
 
