@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EU-Parlament schafft ein Rechtchen auf Reparatur</title>
+      <link>https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/</guid>
+      <description>Wir haben das Recht, ein paar Geräte reparieren zu lassen, aber nicht auf technische Informationen oder Ersatzteile, um es selbst zu tun.
+Am vergangenen Dienstag hat das EU-Parlament nach langem Prozess das sogenannte &amp;ldquo;Recht auf Reparatur&amp;rdquo; verabschiedet. Anfang 2024 wurde im Rahmen der Trilogverhandlungen ein Kompromiss ausgehandelt. Im Kern gibt es uns als Kaufende das Recht, auch außerhalb der Gewährleistung die Reparatur des Gegenstandes einzufordern, sofern die Reparatur nicht &amp;ldquo;unmöglich&amp;rdquo; ist.</description>
+    </item>
     
     <item>
       <title>Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor</title>
