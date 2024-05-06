@@ -5,10 +5,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://okfn.de/blog/2024/05/open-data_verwaltungsmodernisierung/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2024/05/open-data_verwaltungsmodernisierung/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EU-Parlament schafft ein Rechtchen auf Reparatur</title>

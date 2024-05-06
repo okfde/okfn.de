@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-04-24T00:00:00+0000</updated>
+  <updated>2024-05-06T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title></title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/05/open-data_verwaltungsmodernisierung/"/>
+    <id>https://okfn.de/blog/2024/05/open-data_verwaltungsmodernisierung/</id>
+    <published>2024-05-06T00:00:00+0000</published>
+    <updated>2024-05-06T00:00:00+0000</updated>
+    <summary></summary>
+  </entry>
   
   <entry>
     <title>EU-Parlament schafft ein Rechtchen auf Reparatur</title>
@@ -147,16 +156,6 @@ Deutschland droht die Chance zu verspielen, Internetplattformen – wie soziale 
     <updated>2023-06-28T00:00:00+0000</updated>
     <summary>Wer erinnert sich noch an 2022? Es ist viel passiert, wenn man so zurückschaut! Nach erfolgreich abgeschlossener Wirtschaftsprüfung findet ihr auf 2022.okfn.de unseren Jahresbericht online. Eine PDF Version zum Herunterladen gibt es auch.
 Unsere Highlights aus 2022: Die erste Förderrunde ist vom Stapel gelaufen: 50 Open-Hardware-Projekte für eine offene, nachhaltige Gesellschaft Die erste Runde des Prototype Fund Hardware ist gestartet. Mehr als 50 Bewerbungen sind eingegangen. Alle spiegeln den Willen wider, offene, reparierbare und gesellschaftsrelevante Technologien zu entwickeln.</summary>
-  </entry>
-  
-  <entry>
-    <title>Der Open Data Knowledge Hub ist gelauncht! </title>
-    <link rel="alternate" href="https://okfn.de/blog/2023/06/open-data-knowledge-hub-launch/"/>
-    <id>https://okfn.de/blog/2023/06/open-data-knowledge-hub-launch/</id>
-    <published>2023-06-22T00:00:00+0000</published>
-    <updated>2023-06-22T00:00:00+0000</updated>
-    <summary>Braucht es im Jahr 2023 noch einen weiteren Knowledge Hub? Wir glauben ja! Mit dem Projekt Open Data in der Verwaltung bringen wir uns wieder verstärkt in den Diskurs um eines unserer Kernthemen ein. Das heißt: Expertise zu Open Data aus der Zivilgesellschaft in die Behörden transportieren und öffentlich dokumentieren sowie den Mehrwert von offenen Daten zeigen.
-Im Rahmen der, zumindest in der Theorie, allgegenwärtigen Digitalisierung der Verwaltungen wurden in den letzten Jahren zum Thema Open Data häufig große Ziele formuliert.</summary>
   </entry>
   
 </feed>
