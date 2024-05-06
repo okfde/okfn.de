@@ -17,7 +17,7 @@ published: true
 featured: yellow
 title: "Verwaltungsmodernisierung durch Open Data"
 ---
-## Parlamentarisches Frühstück des Bündnis F5 zur Verwaltungsmodernisierung ## 
+### Parlamentarisches Frühstück des Bündnis F5 zur Verwaltungsmodernisierung ### 
 
 Unter der Schirmherrschaft von Nadine Schön, stellvertretende Vorsitzende der CDU/CSU Bundestagsfraktion und Mitglied im Ausschuss für Digitales, veranstaltete das [Bündnis F5](www.bündnis-f5.de) am 09.04.2024 ein parlamentarisches Frühstück, um sich darüber auszutauschen, welchen politischen Rahmen es für den Einsatz von KI braucht und wie das Potenzial von Daten für die Verwaltungsmodernisierung besser genutzt werden kann.
 
