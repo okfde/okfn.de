@@ -60,7 +60,7 @@
         <aside class="c__post__meta col col-12 col-md-3 col-lg-2">
           <p>
             {{ with .Params.authors}}
-            <strong>{{ delimit . "<br>"}}</strong>
+            <strong>{{ delimit . ", " }}</strong>
             {{ end }}
             {{ with .Params.author}}
             <strong>{{.}}</strong>
