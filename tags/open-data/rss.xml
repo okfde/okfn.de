@@ -6,8 +6,15 @@
     <description>Recent content in Open Data on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/open-data/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verwaltungsmodernisierung durch Open Data</title>
+      <link>https://okfn.de/blog/2024/05/open-data_verwaltungsmodernisierung/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/blog/2024/05/open-data_verwaltungsmodernisierung/</guid>
+      <description>Parlamentarisches Frühstück des Bündnis F5 zur Verwaltungsmodernisierung Unter der Schirmherrschaft von Nadine Schön, stellvertretende Vorsitzende der CDU/CSU Bundestagsfraktion und Mitglied im Ausschuss für Digitales, veranstaltete das Bündnis F5 am 09.04.2024 ein parlamentarisches Frühstück, um sich darüber auszutauschen, welchen politischen Rahmen es für den Einsatz von KI braucht und wie das Potenzial von Daten für die Verwaltungsmodernisierung besser genutzt werden kann.&#xA;In vielen KI-Systemen werden derzeit Large Language Models (LLMs) verwendet. Diese Systeme neigen jedoch häufig zu Halluzinationen, wenn sie nur mit den Bestandsdokumenten der Verwaltung gefüttert werden.</description>
+    </item>
     <item>
       <title>Helfen KI-Modelle und offene Daten dem Umweltschutz?</title>
       <link>https://okfn.de/blog/2024/03/start-der-umweltdatenwerkstatt-fuer-den-umweltschutz/</link>
