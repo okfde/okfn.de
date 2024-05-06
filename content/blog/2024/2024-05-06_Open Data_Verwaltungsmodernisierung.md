@@ -4,7 +4,7 @@ authors:
 - Henriette Litta
 date: 2024-05-06
 image: 
-  src: /files/blog/2024/2024-05-06 Blog Parl Fruehstueck.jpg
+  src: /files/blog/2024/Bündnis_F5_-_Parlamentarisches_Frühstück_Nr._8_Verwaltungsdigitalisierung_2.jpg
   license: CC BY 4.0 by Lilli Iliev
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
