@@ -16,7 +16,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: "Von der ersten Anfrage bis zu großen Enthüllung - zwei Perspektiven auf 10 Jahre Informationsfreiheit"
+title: "Von der ersten Anfrage bis zur großen Enthüllung - zwei Perspektiven auf 10 Jahre Informationsfreiheit"
 ---
 Unser Veranstaltungsreihe im Rahmen des [10. Geburtstags der OKF](https://okfn.de/anniversary/) ist am 20. Juli 2021 in die nächste Runde gegangen. Dieses Mal haben sich Felix Reda und Stefan Wehrmeyer über Informationsfreiheit ausgetauscht.
 
