@@ -11,7 +11,7 @@ tags:
 - digitaleZivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Triff die OKF auf der re:publica!"
 ---
@@ -21,7 +21,7 @@ Kommt vorbei und trefft uns hier:**
 
 Durchgehend an allen drei Tagen:
 
-[Bündnis F5](https://buendnis-f5.de/) Stand mit vielfältigem [Standprogramm](https://re-publica.com/de/standprogramm?field_date_value=1&has_partner=3003). Unseren Stand mit der Nummer C3 könnt ihr hier im [Lageplan](https://cloud.okfn.de/apps/files/files/1091257?dir=/OKF/GF-Bereich/GF%20Policy/Blogpost%20aus%20GF-Policy-Bereich/24%20re%3Apublica&openfile=true) finden.
+[Bündnis F5](https://buendnis-f5.de/) Stand mit vielfältigem [Standprogramm](https://re-publica.com/de/standprogramm?field_date_value=1&has_partner=3003). Unseren Stand mit der Nummer C3 könnt ihr hier im [Lageplan](https://re-publica.com/de/lageplan) finden.
 
 Jugend hackt im WOW!Space in Halle 6.
 Jeden Tag Mitmach-Workshops von 8:30 bis 14:00 Uhr im Rahmen der [TINCON](https://tincon.org/event/berlin24/programm). 
