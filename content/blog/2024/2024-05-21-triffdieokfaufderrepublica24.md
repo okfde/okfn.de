@@ -3,7 +3,7 @@ authors:
 - OKF DE
 date: 2024-05-21
 image: 
-  src: /files/blog/2024/20240513_PIAZZA_2024-SharePic-CfW-2.png
+  src: /files/blog/2024/Blogpost_Foto_republica_2024.jpg
   license: cc by Jaime Lopes
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
@@ -45,15 +45,15 @@ Atrium<br>
 
 **16:15-17:15**<br>
 Workshop 2<br>
-Dénes Jäger & Damian Paderta<br>
-AI-washing als Chance: Mit KI-Bezug zu einer besseren Infrastruktur für die Verwaltung?
+Dénes Jäger, Damian Paderta<br>
+[AI-washing als Chance: Mit KI-Bezug zu einer besseren Infrastruktur für die Verwaltung?](https://re-publica.com/de/session/ai-washing-als-chance-mit-ki-bezug-zu-einer-besseren-infrastruktur-fuer-die-verwaltung)
 
 *Verwaltungsdigitalisierer:innen dürfte es bei KI in den Ohren klingeln: kaum ein Meeting ohne die zwei magischen Buchstaben, auch wenn die Anwendung noch unklar ist. Warum also nicht aus der Not eine Tugend machen und auf drängende Infrastruktur-Themen hinweisen oder diese gar ins AI-Gewand packen?*
 
 **16:15-17:15**<br>
 Stage 10<br>
 Sabrina Winter, Vivian Kube, Aiko Kempen<br>
-Dürfen Journalist:innen das Gesetz brechen – für die Pressefreiheit?
+[Dürfen Journalist:innen das Gesetz brechen – für die Pressefreiheit?](https://re-publica.com/de/session/duerfen-journalistinnen-das-gesetz-brechen-fuer-die-pressefreiheit)
 
 *Journalist:innen und Jurist:innen von FragDenStaat sprechen über riskante Recherchen – und wann die Pressefreiheit mehr wiegt als das Strafrecht.*
 
@@ -61,14 +61,14 @@ Dürfen Journalist:innen das Gesetz brechen – für die Pressefreiheit?
 **16:15-16:45**<br>
 Lightning Box 1<br>
 Tania Röttger, Vera Deleja-Hotko<br>
-Auskunftsrechte als Game Changer bei investigativen Recherchen
+[Auskunftsrechte als Game Changer bei investigativen Recherchen](https://re-publica.com/de/session/auskunftsrechte-als-game-changer-bei-investigativen-recherchen)
 
-*Entschlüsse, Einblicke, Enthüllungen: Das Recht auf Informationen ist ein Grundrecht aller Bürger/*innen. Auskunft kann über alle Informationen erlangt werden, die an öffentlichen Stellen vorhanden sind. Auch über verschobene Klimaschutzziele oder Abschiedezentren.*
+*Entschlüsse, Einblicke, Enthüllungen: Das Recht auf Informationen ist ein Grundrecht aller Bürger:innen. Auskunft kann über alle Informationen erlangt werden, die an öffentlichen Stellen vorhanden sind. Auch über verschobene Klimaschutzziele oder Abschiedezentren.*
 
 **18:45-19:45**<br>
 Meet Up 1<br>
 Nils Deventer, Alev Coban, Philip Steffan<br>
-critical digital literacy - how are you dear? mit Jugend hackt
+[critical digital literacy - how are you dear? mit Jugend hackt](https://re-publica.com/de/session/critical-digital-literacy-how-are-you-dear)
 
 *Dieses Meetup ist für alle, die sich für kritische Medienkompetenz engagieren oder engagieren wollen. Hier ist Platz zum Austauschen, Vernetzen und gemeinsam nach vorne denken: Wie steht es um die kritische Medienbildung in diesen bewegten Zeiten? Und wo wollen wir hin?*
 
@@ -76,66 +76,66 @@ critical digital literacy - how are you dear? mit Jugend hackt
 **Dienstag, 28.05.2024**
 
 **10:00-11:30**<br>
-Tincon, pajowu, Max, Julia<br>
-Workshop<br>
-(Open) Data Science für Einsteiger*innen 
+Tincon, Workshop<br>
+pajowu, Max, Julia<br>
+[(Open) Data Science für Einsteiger*innen](https://tincon.org/event/berlin24/open-data-science-fur-einsteiger-innen)
 
 *Daten können helfen, unsere Welt zu erklären – und neu zu entdecken. Zum Glück gibt es immer mehr Daten, die offen zugänglich sind: Wo sind Brunnen in München? Wie viele Kühe gibt es in Niedersachsen? Und wie viele Bäume wurden eigentlich in der vergangenen Zeit gefällt oder neu gepflanzt? Wir schauen uns an, wo es diese Daten gibt und wie wir sie verstehen können. In diesem Workshop werden wir mit der Programmiersprache Python arbeiten, denn so kommen wir auch an größere Datenmengen heran und müssen keine Datensätze einzeln runterladen oder sogar abtippen. Aber keine Sorgen: Es sind keine Vorkenntnisse in Python nötig.*
 
 **12:30-13:30**<br>
 Stage10<br>
 Franziska Heine, Felix Reda, Tiemo Wölken, Sergey Lagodinsky<br>
-Careless whisper or voice of the future: Europäische Digitalpolitik
+[Careless whisper or voice of the future: Europäische Digitalpolitik](https://re-publica.com/de/session/careless-whisper-or-voice-future-europaeische-digitalpolitik)
 
 *Digitalpolitik, EU-Politik, Zivilgesellschaft - Who Cares3? Wir spannen den Bogen von der Straße über die digitale Bubble bis nach Brüssel und diskutieren die heißen Digitalthemen zur anstehenden Europawahl.*
 
 
 **14:00-14:30**<br>
-Arne Semsrott, Nico Semsrott<br>
 Tincon, Stage 5<br>
-Die Hoffnung stirbt zuletzt (aber sie stirbt?) 
+Arne Semsrott, Nico Semsrott<br>
+[Die Hoffnung stirbt zuletzt (aber sie stirbt?)](https://tincon.org/event/berlin24/die-hoffnung-stirbt-zuletzt-aber-sie-stirbt)
  
 *Während Arne mit seiner Organisation “Frag den Staat” öffentlichen Institutionen ganz legal auf den Wecker geht, hat sein Bruder Nico 2019 die Karriere als depressiver Kabarettist auf Eis gelegt und sich stattdessen als Abgeordneter ins Europaparlament wählen lassen. Weil seine Kolleginnen und Kollegen dort super wenig Sinn für Humor bewiesen haben (und das noch zu den netteren Dingen gehört, die Nico über sie zu berichten weiß) kommt er nun zurück, um endlich wieder unter uns nicht lustig sein zu können.*
 
 **15:00-15:30**<br>
 F5 Bündnisstand (C3)<br>
 Sophia Schulze Schleithoff, Viraaj Akuthota<br>
-How to Fund Generative AI in the Public Interest
+[How to Fund Generative AI in the Public Interest](https://re-publica.com/de/node/6260)
 
 *The Prototype Fund is receiving more and more applications for small open source software projects using or critically scrutinising methods of generative AI. Looking at the example of legal tech, we discuss what it needs for small projects, which build on generative AI, to be truly open, safe and feasible.*
 
 **16:30-16:55**<br>
 Halle 2 bei der Civic Coding Initiative<br>
 Henriette Litta, Bundesministerin Steffi Lemke<br>
-Wie kann KI dem Gemeinwohl dienen? 
+[Wie kann KI dem Gemeinwohl dienen?](https://www.civic-coding.de/angebote/veranstaltungen/civic-coding-auf-der-republica-2024)
 
 *Was ist eigentlich die politische Vision von gemeinwohlorientierter KI? Und wie schaffen wir es, dass Gemeinwohl nicht nur ein nachgelagerter Gedanke ist, sondern im Zentrum (der Digitalpolitik) steht? Diese und weitere zentrale Fragen für die zukünftige Gestaltung und Umsetzung von KI für das Gemeinwohl diskutieren Steffi Lemke, Bundesministerin für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) und Henriette Litta, Geschäftsführerin der gemeinnützigen Open Knowledge Foundation.*
 
 **16:45-17:15**<br>
 Stage 11<br>
 Marie Kreil, Patricia Leu<br>
-14 Mio. Euro später: Learnings aus dem Prototype Fund
+[14 Mio. Euro später: Learnings aus dem Prototype Fund](https://re-publica.com/de/session/14-mio-euro-spaeter-learnings-aus-dem-prototype-fund)
 
 *Who cares about the people behind FOSS? We do! Weil wir als Prototype Fund damit seit acht Jahren in der Förderlandschaft noch immer fast allein dastehen, ist es an der Zeit vorzustellen, warum es sich lohnt, Einzelpersonen und ihre Ideen zu fördern, und wie man dafür gute Strukturen aufbauen kann.*
 
 
 **Mittwoch, 29.05.2024**
 
-**12:00 - 12:30**<br>
+**12:00-12:30**<br>
 F5 Bündnisstand (C3)<br>
 Dénes Jäger<br>
-Open Data Ranking Deutschland 2024
+[Open Data Ranking Deutschland 2024](https://re-publica.com/de/node/6262)
 
 *Die OKF veröffentlicht ihr Open Data Ranking 2024 auf der re:publica! Angelehnt an das Transparenzranking (transparenzranking.de) wird der aktuelle Status Quo der Bundesländer im Bereich Open Data eingeordnet und die unterschiedlichen Rahmenbedingungen und Lücken sichtbar gemacht.*
 
-**18:00 – 18:30**<br>
+**18:00–18:30**<br>
 Stage 1<br>
 Arne Semsrott<br>
-Machtübernahme: Was tun, wenn die AfD an die Regierung kommt?
+[Machtübernahme: Was tun, wenn die AfD an die Regierung kommt?](https://re-publica.com/de/session/machtuebernahme-was-tun-wenn-die-afd-die-regierung-kommt)
 
 *Was tun, wenn die Brandmauer brennt und die AfD in Ministerien einzieht? Was lang unmöglich schien, kann in diesem Jahr passieren: Bei EU-, Landtags- und Kommunalwahlen hat die AfD teils gute Chancen, zur stärksten Kraft zu werden. Lasst uns darüber sprechen, was wir tun können, wenn es zu spät ist.*
 
 
-Das gesamte Programm der re:publica findet ihr hier. Wir freuen uns auf euren Besuch und spannende Gespräche!
+Das gesamte Programm der re:publica findet ihr [hier](https://re-publica.com/de/schedule?day=2024-05-27). Wir freuen uns auf euren Besuch und spannende Gespräche!
 
 See you soon!
