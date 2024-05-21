@@ -32,7 +32,7 @@ Danach Infostand für alle Besucher:innen der re:publica.
 **15:00-16:00**<br>
 Marie Kreil, Patricia Leu<br>
 Meet Up 1<br>
-[Prototype & Friends Meetup](https://re-publica.com/de/session/prototype-friends-meetup) 
+["Prototype & Friends Meetup"](https://re-publica.com/de/session/prototype-friends-meetup) 
 
 *We're here to meet our community! Whether you have been funded by Prototype Fund, have questions about funding or want to talk about FOSS funding in general, come say hi.*
 
