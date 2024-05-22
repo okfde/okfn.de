@@ -33,5 +33,3 @@ Die zentralen Punkte unseres Forderungspapiers sind:
 * Open Source Software & Open Hardware: Fundament der Zukunft
 * Privatsphäre stärken, Journalist*innen schützen
 * Digital Knowledge Act: Eine neue Ära des Freien Wissens
-
-Das Forderungsspapier ist in [deutscher Sprache](https://buendnis-f5.de/publikationen/2024-05-21-euforderungspapier) und in [englischer Sprache](https://buendnis-f5.de/publikationen/2024-05-21-positionsonthe2024europeanelections) erschienen.
