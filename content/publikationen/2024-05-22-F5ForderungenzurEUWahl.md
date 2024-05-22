@@ -1,7 +1,7 @@
 ---
 title: Positionen des Bündnis F5 zur Europawahl 2024
 subtitle: 
-published: false
+published: true
 date: 2024-05-22
 layout: publikation
 image:
