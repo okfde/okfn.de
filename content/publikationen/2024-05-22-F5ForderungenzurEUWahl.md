@@ -10,7 +10,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Bündnis F5
-file: static/files/publikationen/DE_EU_Positionen_F5.pdf?raw=true
+file: /files/publikationen/DE_EU_Positionen_F5.pdf?raw=true
 format: pdf
 pages: 15
 size: 380KB
