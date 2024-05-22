@@ -4,7 +4,7 @@ authors:
 date: 2024-05-22
 image: 
   src: /files/blog/2024/240522_Bogpost_F5EUWahl.png
-  license: Bündnis F5 Forderungen zur Europawahl
+  license: Bündnis F5 Forderungen zur Europawahl, cc by BündnisF5
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 - BuendnisF5
