@@ -13,7 +13,7 @@ tags:
 type: post
 layout: post
 published: true
-featured: yellow
+featured: blue
 title: "Positionen des Bündnis F5 zur Europawahl 2024"
 ---
 
