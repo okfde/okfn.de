@@ -17,7 +17,7 @@ size: 380KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "<a href=\"https://buendnis-f5.de/assets/data/EN_EU_Positionen_F5.pdf/\" target=\"_blank\">Positions of the F5-Alliance on the 2024 EU-elections in english</a>"
+  - url: "<a href=\"https://buendnis-f5.de/publikationen/2024-05-21-positionsonthe2024europeanelections/\" target=\"_blank\">Positions of the F5-Alliance on the 2024 EU-elections in english</a>"
   - url: "<a href=\"https://buendnis-f5.de/\" target=\"_blank\">Zur Website des Bündnis F5</a>"
 ---
 
