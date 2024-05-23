@@ -51,7 +51,7 @@ Dénes Jäger, Damian Paderta<br>
 *Verwaltungsdigitalisierer:innen dürfte es bei KI in den Ohren klingeln: kaum ein Meeting ohne die zwei magischen Buchstaben, auch wenn die Anwendung noch unklar ist. Warum also nicht aus der Not eine Tugend machen und auf drängende Infrastruktur-Themen hinweisen oder diese gar ins AI-Gewand packen?*
 
 **16:15-17:15**<br>
-Stage 10<br>
+Stage 11<br>
 Sabrina Winter, Vivian Kube, Aiko Kempen<br>
 [Dürfen Journalist:innen das Gesetz brechen – für die Pressefreiheit?](https://re-publica.com/de/session/duerfen-journalistinnen-das-gesetz-brechen-fuer-die-pressefreiheit)
 
