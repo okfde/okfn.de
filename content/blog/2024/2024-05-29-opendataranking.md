@@ -1,5 +1,6 @@
 ---
-authors: Dénes Jäger
+authors: 
+- Dénes Jäger
 - OKF DE
 date: 2024-05-29
 image: 
