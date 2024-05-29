@@ -16,7 +16,7 @@ featured: yellow
 title: "Das erste Open Data Ranking ist erschienen"
 ---
 
-*Wir veröffentlichen das erste Open Data Ranking! In Anlehnung an das [Transparenzranking](www.transparenzranking.de) blicken wir auf die Open-Data-Landschaft in Deutschland und gehen über das reine Datensätzezählen hinaus. Die Analyse der rechtlichen Rahmenbedingungen, Datenqualität und personellen Ausstattung zeigen, dass es innerhalb Deutschlands erhebliche Unterschiede in Bezug auf Open Data gibt. Während sich einzelne Bundesländer auch schon um Linked Data kümmern, fehlen bei anderen noch jegliche Grundlagen für die Datenbereitstellung.*
+*Wir veröffentlichen das erste Open Data Ranking! In Anlehnung an das [Transparenzranking](https://transparenzranking.de) blicken wir auf die Open-Data-Landschaft in Deutschland und gehen über das reine Datensätzezählen hinaus. Die Analyse der rechtlichen Rahmenbedingungen, Datenqualität und personellen Ausstattung zeigen, dass es innerhalb Deutschlands erhebliche Unterschiede in Bezug auf Open Data gibt. Während sich einzelne Bundesländer auch schon um Linked Data kümmern, fehlen bei anderen noch jegliche Grundlagen für die Datenbereitstellung.*
 
 Behörden auf allen staatlichen Ebenen – von der Bundes- bis zur Kommunalverwaltung – produzieren täglich eine Vielzahl von Informationen. Allerdings wird nur ein vergleichsweise geringer Anteil davon unter freien Lizenzen in offenen und maschinenlesbaren Formaten automatisiert bereitgestellt. Mit der ersten Version des Rankings möchten wir eine Bestandsaufnahme des Status quo von Open Data in Deutschland vornehmen und die Diskussion über offene Daten im Land auf eine breitere Basis stellen.
 
