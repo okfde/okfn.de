@@ -12,7 +12,7 @@ type: post
 layout: post
 published: false
 featured: yellow
-title: "Das erste Open Data Ranking ist erschienen!"
+title: "Das erste Open Data Ranking ist erschienen"
 ---
 
 *Wir veröffentlichen das erste Open Data Ranking! In Anlehnung an das [Transparenzranking](www.transparenzranking.de) blicken wir auf die Open-Data-Landschaft in Deutschland und gehen über das reine Datensätzezählen hinaus. Die Analyse der rechtlichen Rahmenbedingungen, Datenqualität und personellen Ausstattung zeigen, dass es innerhalb Deutschlands erhebliche Unterschiede in Bezug auf Open Data gibt. Während sich einzelne Bundesländer auch schon um Linked Data kümmern, fehlen bei anderen noch jegliche Grundlagen für die Datenbereitstellung.*
