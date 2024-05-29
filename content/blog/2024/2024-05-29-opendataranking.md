@@ -4,7 +4,7 @@ authors:
 - OKF DE
 date: 2024-05-29
 image: 
-  src: files/blog/2024/OpenDataRanking.png
+  src: /files/blog/2024/OpenDataRanking.png
   license: cc Karte by  David Liuzzo, DeStatis
   license_url: https://OpenDataRanking.de
 tags:
