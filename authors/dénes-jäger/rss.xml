@@ -6,8 +6,15 @@
     <description>Recent content in Dénes Jäger on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Das erste Open Data Ranking ist erschienen</title>
+      <link>https://okfn.de/blog/2024/05/opendataranking/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/blog/2024/05/opendataranking/</guid>
+      <description>Wir veröffentlichen das erste Open Data Ranking! In Anlehnung an das Transparenzranking blicken wir auf die Open-Data-Landschaft in Deutschland und gehen über das reine Datensätzezählen hinaus. Die Analyse der rechtlichen Rahmenbedingungen, Datenqualität und personellen Ausstattung zeigen, dass es innerhalb Deutschlands erhebliche Unterschiede in Bezug auf Open Data gibt. Während sich einzelne Bundesländer auch schon um Linked Data kümmern, fehlen bei anderen noch jegliche Grundlagen für die Datenbereitstellung.&#xA;Behörden auf allen staatlichen Ebenen – von der Bundes- bis zur Kommunalverwaltung – produzieren täglich eine Vielzahl von Informationen.</description>
+    </item>
     <item>
       <title>Initiativstellungnahme zur Änderung des Brandenburgischen E-Government-Gesetzes</title>
       <link>https://okfn.de/blog/2023/09/stn-egovgbb/</link>
