@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,14 +268,8 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2024/05/opendataranking/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,14 +281,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/okf-de/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/opendataranking/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -305,6 +296,24 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/taiwan/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2024/06/civic-tech-taiwan/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2024/05/opendataranking/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/okf-de/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/opendataranking/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/buendnisf5/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
@@ -760,9 +769,6 @@
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/06/jahresbericht-2021/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/claudia-jach/</loc>
