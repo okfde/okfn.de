@@ -8,6 +8,8 @@ image:
   license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 tags:
 - Taiwan
+- Civic Tech
+- Community
 type: post
 layout: post
 published: true
