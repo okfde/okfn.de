@@ -12,44 +12,44 @@ type: post
 layout: post
 published: true
 featured: blue
-title: "Von Taipei nach Berlin: Wie Civic Tech in Taiwan zur digitalen Demokratie inspiriert"
+title: "From Taipei to Berlin: How Civic Tech in Taiwan Inspires Digital Democracy"
 ---
-Im letzten Monat hatten wir die Chance, mehr über die Civic Tech und Open Source Szene in Taiwan zu erfahren und uns mit taiwanischen Aktivist*innen auszutauschen. Das Land ist ein Vorbild im Bereich Digital Democracy mit einigen Erfolgsgeschichten in der Zusammenarbeit zwischen Verwaltung und Zivilgesellschaft. Vor sieben Jahren berichteten wir über unseren ersten [Besuch in Taiwan](https://codefor.de/blog/open-communities/) im Rahmen eines Austauschprogrammes von Code for All. 
+Last month, we had the chance to learn more about the civic tech and open source scene in Taiwan and to exchange ideas with Taiwanese activists. The country is a model in the field of digital democracy with some success stories in the collaboration between government and civil society. Seven years ago, we reported on our first [visit to Taiwan](https://codefor.de/blog/open-communities/) as part of an exchange program by Code for All.
 
-Im internationalen Civic Tech Netzwerk ist g0v das taiwanesische Pendant zu Code for Germany. Organisation g0v ist das  taiwanesische Gegenstück zu Code for Germany in Taiwan ist g0v (ausgesprochen “gov-zero”). Nach dem Hands-on Prinzip entwickelt die Community Open-Source-Technologien und Civic Tech Projekte zur demokratischen Teilhabe. Ein bekanntes frühes Projekt ist die Plattform vTaiwan, mit der Menschen aktiv an der Gesetzgebung teilnehmen können. Die g0v Hackathons finden alle zwei Monate statt und zählen bis heute jeweils 100 Teilnehmende. 
+In the international civic tech network, g0v is the Taiwanese counterpart to Code for Germany. The organization g0v is the Taiwanese counterpart to Code for Germany in Taiwan, g0v (pronounced “gov-zero”). Following the hands-on principle, the community develops open source technologies and civic tech projects for democratic participation. A well-known early project is the vTaiwan platform, which allows people to actively participate in legislation. The g0v hackathons take place every two months and each have 100 participants to this day.
 
-## Die OKF beim g0v Summit in Taipei
+## OKF at the g0v Summit in Taipei
 
-Alle zwei Jahre organisiert die Community auch den internationalen [g0v summit](https://summit.g0v.tw/2024/), zu dem wir Anfang Mai eingeladen waren. Nach einer Pause im Jahr 2022 fand der g0v Summit 2024 von 4. bis 5. Mai wieder in Taipei statt. 
+Every two years, the community also organizes the international [g0v summit](https://summit.g0v.tw/2024/), to which we were invited in early May. After a break in 2022, the g0v Summit 2024 took place again in Taipei from May 4 to 5.
 
-Dort repräsentierte Sonja Fischbauer die OKF auf dem Panel [Youth-Led Innovation: Shaping the Future through Civic Tech](https://summit.g0v.tw/2024/agenda/#2024-103), zusammen mit Saaya Kubota von Code for Japan und Tiff Lin von g0v. Dort diskutierten wir wir über die Formate von [Jugend hackt](https://jugendhackt.org), die Arbeit der Ehrenamtlichen von [Code for Germany](https://codefor.de) und über unsere Herausforderungen in Zusammenarbeit mit der deutschen Verwaltung. 
+Sonja Fischbauer represented the OKF on the panel [Youth-Led Innovation: Shaping the Future through Civic Tech](https://summit.g0v.tw/2024/agenda/#2024-103), along with Saaya Kubota from Code for Japan and Tiff Lin from g0v. There, we discussed the formats of [Jugend hackt](https://jugendhackt.org), the work of volunteers from [Code for Germany](https://codefor.de), and our challenges in working with the German administration.
 
-Im Unterschied zu den rein außerschulischen Angeboten von Jugend hackt bieten sowohl die taiwanische [g0v Sch001](https://sch001.g0v.tw) als auch [Code for Japan](https://www.code4japan.org/) mehrere Angebote für Schulklassen und Lehrpersonal. Sowohl die taiwanische g0v Sch001 und Code for Japan setzen auf das kompetitive Element von Preisen bei Hackathons, das es bei Jugend hackt bewusst nicht gibt. Code for Japan setzt auch mehr auf die Zusammenarbeit mit Unternehmen. Mentor*innen bei den japanischen Formaten engagieren sich häufig in ihrer Arbeitszeit und repräsentieren ihre Firma. Diese Unterschiede ergeben sich unter anderem durch die generell verfügbare Freizeit, die jeweilige Arbeitskultur und damit einhergehende Erwartungen. Gute Ideen und Projekte für sozialen Wandel lassen sich jedoch allerorts finden, wie wir auch beim [internationalen Austausch](https://jugendhackt.org/austausch/vernetzte-welten-japan-suedkorea-2019/) von Jugend hackt erfahren durften. 
+Unlike the purely extracurricular offerings of Jugend hackt, both the Taiwanese [g0v Sch001](https://sch001.g0v.tw) and [Code for Japan](https://www.code4japan.org/) offer several programs for school classes and teaching staff. Both the Taiwanese g0v Sch001 and Code for Japan rely on the competitive element of prizes at hackathons, which Jugend hackt consciously does not. Code for Japan also focuses more on collaboration with companies. Mentors in the Japanese formats often get involved during their working hours and represent their company. These differences arise, among other things, from the generally available free time, the respective work culture, and the associated expectations. However, good ideas and projects for social change can be found everywhere, as we learned from the [international exchange](https://jugendhackt.org/austausch/vernetzte-welten-japan-suedkorea-2019/) of Jugend hackt.
 
-Über die Themen des Panels haben wir auch in zwei Podcast-Episoden mit Code for Japan gesprochen. Die Folgen von Chit-Chat-Code, zu finden unter anderem auf [Spotify](https://open.spotify.com/show/1WxXkVpdXpsdfv27YUevSt?si=d8f7e550fc264703) werden im Lauf des Monats publiziert. 
+We also discussed the topics of the panel in two podcast episodes with Code for Japan. The episodes of Chit-Chat-Code, available on [Spotify](https://open.spotify.com/show/1WxXkVpdXpsdfv27YUevSt?si=d8f7e550fc264703), will be published during the month.
 
-![Die Pannelistinnen Tiff Lin, Sonja Fischbauer und Saya Kubota vor ihrem Panel auf dem g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-panel.jpg)<br>
-Foto: Sonja Fischbauer; Tiff, Sonja und Saya vor ihrem Panel; Lizenz CC-BY SA 4.0 
-![Das ehrenamtliche g0v Team auf der Bühne am Ende des g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit.jpg)<br>
-Foto: Sonja Fischbauer; Die ehrenamtlichen Organisator*innen von g0v auf der Bühne des summit; Lizenz CC-BY SA 4.0
+![The panelists Tiff Lin, Sonja Fischbauer, and Saya Kubota before their panel at the g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-panel.jpg)<br>
+Photo: Sonja Fischbauer; Tiff, Sonja, and Saya before their panel; License CC-BY SA 4.0 
+![The volunteer g0v team on stage at the end of the g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit.jpg)<br>
+Photo: Sonja Fischbauer; The volunteer organizers of g0v on the summit stage; License CC-BY SA 4.0
 
-## Taiwan’s Civic Tech Experimentierfeld 
+## Taiwan’s Civic Tech Experimentation Field
 
-Audrey Tang, international bekannt für ihre Arbeit in Open Government, war die erste Digitalministerin Taiwans, die uns auch in Deutschland häufig besuchte, zuletzt vor einer Woche auf der re:publica. Unter ihrer Leitung etablierte das Ministry of Digital Affairs, kurz MODA, vorbildhafte Initiativen. In Kooperation mit der Taipei Computer Association unterhält das MODA  ein Projekt, das ähnlich wie unser [Protoype Fund](https://prototypefund.de) staatliche Förderung für Innovationsideen kleiner Entwickler*innen-Teams vergibt. Während der Prototype Fund thematischen Spielraum lässt, konzentriert sich das taiwanesische Civic-Tech-Experimentierfeld in auf konkrete Probleme, die in zwei verschiedenen lokalen Verwaltungen identifiziert wurden. Bewerben können sich sowohl taiwanesische als auch internationale Teams. Interessierte Einzelpersonen werden zu passenden Teams gematcht. Dotiert mit 18.000 USD pro Team entstehen Prototypen als Proofs of Concept, mit denen die Verwaltungen weiter arbeiten.  
+Audrey Tang, internationally known for her work in open government, was Taiwan’s first digital minister, who also visited us in Germany frequently, most recently a week ago at re:publica. Under her leadership, the Ministry of Digital Affairs, or MODA, established exemplary initiatives. In cooperation with the Taipei Computer Association, MODA maintains a project similar to our [Prototype Fund](https://prototypefund.de), providing government funding for innovative ideas from small developer teams. While the Prototype Fund allows thematic freedom, the Taiwanese civic tech experimentation field focuses on specific problems identified in two different local administrations. Both Taiwanese and international teams can apply. Interested individuals are matched to suitable teams. With funding of $18,000 per team, prototypes are created as proofs of concept, with which the administrations can continue working.
 
-Mehr dazu, wie die Zusammenarbeit von zivilgesellschaftlichen Gruppen und Verwaltungen in verschiedenen Ländern funktiert, bietet die Publikation 
-[Examples of Civic Tech Communities-Governments Collaboration Around The World](https://www.freiheit.org/publikation/examples-civic-tech-communities-governments-collaboration-around-world). Darin finden sich Beiträge aus Taiwan, USA, Mexiko, Marokko, Tunesien, Indonesien und Deutschland, letzerer verfasst von OKF-Geschäftsführerin Henriette Litta. Publiziert wurde die Studie vom Global Innovation Hub der Friedrich Naumann Foundation mit Sitz in Taipei. 
+More on how the collaboration between civil society groups and administrations works in different countries can be found in the publication 
+[Examples of Civic Tech Communities-Governments Collaboration Around The World](https://www.freiheit.org/publikation/examples-civic-tech-communities-governments-collaboration-around-world). It contains contributions from Taiwan, the USA, Mexico, Morocco, Tunisia, Indonesia, and Germany, the latter authored by OKF managing director Henriette Litta. The study was published by the Global Innovation Hub of the Friedrich Naumann Foundation based in Taipei.
 
-![Bunte Sticker auf einem Tisch auf beim g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-stickers.jpg) 
-Foto: Sonja Fischbauer; Sticker auf dem g0v summit; Lizenz CC-BY SA 4.0 
+![Colorful stickers on a table at the g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-stickers.jpg) 
+Photo: Sonja Fischbauer; Stickers at the g0v summit; License CC-BY SA 4.0 
 
-## Das g0v-Team besucht Berlin
+## The g0v Team Visits Berlin
 
-Genau einen Monat nach unserem Besuch beim g0v summit in Taipei durften wir Vertreterinnen der g0v-Community bei uns in Berlin begrüßen. 
+Exactly one month after our visit to the g0v summit in Taipei, we had the pleasure of welcoming representatives of the g0v community to Berlin.
 
-Isabel Hou, ehemalige Vorständin von g0v und Tiff Lin, Projektmanagerin der g0v Sch001 präsentierten ihr Wissen in einem Workshop zu Civic Tech & Digital Citizenship Education am 5. Juni. Die starke Community von g0v dient als Modell für ähnliche Bewegungen weltweit - ihr Wissen aus über zehn Jahren teilen sie im [g0v Civic Tech Project & Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en). 
+Isabel Hou, former chair of g0v, and Tiff Lin, project manager of g0v Sch001, presented their knowledge in a workshop on Civic Tech & Digital Citizenship Education on June 5. The strong community of g0v serves as a model for similar movements worldwide - they share their knowledge from over ten years in the [g0v Civic Tech Project & Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en).
 
-![Gruppenfoto von Teilnehmenden eines g0v-Workshops in Berlin.](/files/blog/2024/2024-06-g0v-in-berlin.jpg)
-Foto: Tiff Lin; g0v-Workshop in Berlin; Lizenz CC-BY SA 4.0
+![Group photo of participants in a g0v workshop in Berlin.](/files/blog/2024/2024-06-g0v-in-berlin.jpg)
+Photo: Tiff Lin; g0v workshop in Berlin; License CC-BY SA 4.0
 
-Wir freuen uns über die zahlreichen Kontakte nach Taiwan, die neu gewonnenen Perspektive und die gestärkte Motivation, Erfolgsgeschichten auch hierzulande umzusetzen. 
+We are excited about the numerous contacts with Taiwan, the newly gained perspective, and the strengthened motivation to implement success stories here as well.
