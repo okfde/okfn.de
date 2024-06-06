@@ -49,7 +49,7 @@ Genau einen Monat nach unserem Besuch beim g0v summit in Taipei durften wir Vert
 
 Isabel Hou, ehemalige Vorständin von g0v und Tiff Lin, Projektmanagerin der g0v Sch001 präsentierten ihr Wissen in einem Workshop zu Civic Tech & Digital Citizenship Education am 5. Juni. Die starke Community von g0v dient als Modell für ähnliche Bewegungen weltweit - ihr Wissen aus über zehn Jahren teilen sie im [g0v Civic Tech Project & Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en). 
 
-![Gruppenfoto von Teilnehmenden eines g0v-Workshops in Berlin.](/files/blog/2024/2024-06-g0v-in-berlin.jpg)
-Foto: Tiff Lin; g0v-Workshop in Berlin; Lizenz CC-BY SA 4.0
+![Isabel Hou beim g0v workshop in Berlin.](/files/blog/2024/2024-06-g0v-in-berlin.jpg)
+Photo: Sonja Fischbauer; Isabel Hou beim g0v workshop in Berlin; Lizenz CC-BY SA 4.0
 
 Wir freuen uns über die zahlreichen Kontakte nach Taiwan, die neu gewonnenen Perspektive und die gestärkte Motivation, Erfolgsgeschichten auch hierzulande umzusetzen. 
