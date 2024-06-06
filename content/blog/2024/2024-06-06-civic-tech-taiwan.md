@@ -28,9 +28,9 @@ Im Unterschied zu den rein außerschulischen Angeboten von Jugend hackt bieten s
 
 Über die Themen des Panels haben wir auch in zwei Podcast-Episoden mit Code for Japan gesprochen. Die Folgen von Chit-Chat-Code, zu finden unter anderem auf [Spotify](https://open.spotify.com/show/1WxXkVpdXpsdfv27YUevSt?si=d8f7e550fc264703) werden im Lauf des Monats publiziert. 
 
-![Die Pannelistinnen Tiff Lin, Sonja Fischbauer und Saya Kubota vor ihrem Panel auf dem g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-panel.jpg)
+![Die Pannelistinnen Tiff Lin, Sonja Fischbauer und Saya Kubota vor ihrem Panel auf dem g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-panel.jpg)<br>
 Foto: Sonja Fischbauer; Tiff, Sonja und Saya vor ihrem Panel; Lizenz CC-BY SA 4.0 
-![Das ehrenamtliche g0v Team auf der Bühne am Ende des g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit.jpg)
+![Das ehrenamtliche g0v Team auf der Bühne am Ende des g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit.jpg)<br>
 Foto: Sonja Fischbauer; Die ehrenamtlichen Organisator*innen von g0v auf der Bühne des summit; Lizenz CC-BY SA 4.0
 
 ## Taiwan’s Civic Tech Experimentierfeld 
