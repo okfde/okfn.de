@@ -254,6 +254,97 @@
                 href="https://okfn.de/en/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/authors/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/blog/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/authors/sonja-fischbauer/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/sonja-fischbauer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/sonja-fischbauer/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/tags/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/tags/taiwan/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/taiwan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/taiwan/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/blog/2024/06/civic-tech-taiwan/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/2024/06/civic-tech-taiwan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/2024/06/civic-tech-taiwan/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/publikationen/2023_egovernment-brandenburg/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -265,19 +356,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/publikationen/2023_egovernment-brandenburg/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
                 />
   </url><url>
     <loc>https://okfn.de/en/publikationen/</loc>
@@ -481,18 +559,6 @@
                 href="https://okfn.de/en/projekte/appsforeurope/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/projekte/big/</loc>
     <xhtml:link
                 rel="alternate"
@@ -503,18 +569,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/big/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
                 />
   </url><url>
     <loc>https://okfn.de/en/vorstand/</loc>
@@ -1019,18 +1073,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/stadtlandcode/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/en/team/</loc>
