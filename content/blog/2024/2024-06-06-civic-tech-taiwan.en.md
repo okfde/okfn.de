@@ -49,7 +49,7 @@ Photo: Sonja Fischbauer; Stickers at the g0v summit; License CC-BY SA 4.0
 
 Exactly one month after our visit to the g0v summit in Taipei, we had the pleasure of welcoming representatives of the g0v community to Berlin.
 
-Isabel Hou, ai expert and former chair of g0v, and Tiff Lin, educator and project manager of g0v Sch001, presented their knowledge in a workshop on Civic Tech & Digital Citizenship Education on June 5. The strong community of g0v serves as a model for similar movements worldwide - they share their knowledge from over ten years in the [g0v Civic Tech Project & Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en).
+Isabel Hou, ai expert and former chair of g0v, and Tiff Lin, educator and project manager of g0v Sch001, presented their knowledge in a workshop on Civic Tech & Digital Citizenship Education on June 5. The strong community of g0v serves as a model for similar movements worldwide - they share their knowledge from over ten years in the [g0v Civic Tech Project and Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en).
 
 ![Isabel Hou at a g0v workshop in Berlin.](/files/blog/2024/2024-06-g0v-in-berlin.jpg)
 Photo: Sonja Fischbauer; AI and open data expert Isabel Hou at the g0v workshop in Berlin; License CC-BY SA 4.0
