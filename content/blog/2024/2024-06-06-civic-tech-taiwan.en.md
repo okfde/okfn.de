@@ -35,7 +35,7 @@ Photo: Sonja Fischbauer; Tiff, Sonja, and Saya before their panel; License CC-BY
 ![The volunteer g0v team on stage at the end of the g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit.jpg)<br>
 Photo: Sonja Fischbauer; The volunteer organizers of g0v on the summit stage; License CC-BY SA 4.0
 
-## Examples of Community-Government Collaboration in Taiwan and Beyond
+## Examples of Community-Government Collaboration 
 
 The internationally renowned Audrey Tang was Taiwan’s first digital minister. In her time in office, the Ministry of Digital Affairs, or MODA, established exemplary initiatives. In cooperation with the Taipei Computer Association, MODA maintains a project similar to our [Prototype Fund](https://prototypefund.de), providing government funding for innovative ideas from small developer teams. While the Prototype Fund allows thematic freedom, the Taiwanese civic tech experimentation field focuses on specific problems identified in two different local administrations. Both Taiwanese and international teams can apply, interested individuals are matched to suitable teams. Selected teams are funded to create prototypes as proofs of concept, with which the administrations can continue working.
 
