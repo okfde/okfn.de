@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civic Tech on OKF DE</title>
+    <link>https://okfn.de/en/tags/civic-tech/</link>
+    <description>Recent content in Civic Tech on OKF DE</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/en/tags/civic-tech/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Taipei to Berlin: How Civic Tech in Taiwan Inspires Digital Democracy</title>
+      <link>https://okfn.de/en/blog/2024/06/civic-tech-taiwan/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/en/blog/2024/06/civic-tech-taiwan/</guid>
+      <description>Last month, we had the chance to learn more about the civic tech and open source scene in Taiwan and to exchange ideas with Taiwanese activists. The country is a model in the field of digital democracy with some success stories in the collaboration between government and civil society. Seven years ago, we reported on our first visit to Taiwan as part of an exchange program by Code for All.</description>
+    </item>
+  </channel>
+</rss>
