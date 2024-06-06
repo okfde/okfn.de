@@ -3,7 +3,7 @@ authors:
 - Sonja Fischbauer
 date: 2024-06-06
 image: 
-  src: /files/blog/2024/taipei-skyline.jpg
+  src: /files/blog/2024/2024-06-taipei-skyline.jpg
   license: CC-BY SA 4.0
   license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 tags:
@@ -28,9 +28,10 @@ Im Unterschied zu den rein außerschulischen Angeboten von Jugend hackt bieten s
 
 Über die Themen des Panels haben wir auch in zwei Podcast-Episoden mit Code for Japan gesprochen. Die Folgen von Chit-Chat-Code, zu finden unter anderem auf [Spotify](https://open.spotify.com/show/1WxXkVpdXpsdfv27YUevSt?si=d8f7e550fc264703) werden im Lauf des Monats publiziert. 
 
-![Die Pannelistinnen Tiff Lin, Sonja Fischbauer und Saya Kubota vor ihrem Panel auf dem g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-panel.jpg "Tiff, Sonja und Saya vor ihrem Panel.")
-![Bunte Sticker auf einem Tisch auf beim g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-stickers.jpg "Sticker auf dem g0v summit.")
-![Das ehrenamtliche g0v Team auf der Bühne am Ende des g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit.jpg "Die ehrenamtlichen Organisator*innen von g0v auf der Bühne des summit.")
+![Die Pannelistinnen Tiff Lin, Sonja Fischbauer und Saya Kubota vor ihrem Panel auf dem g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-panel.jpg)
+Foto: Sonja Fischbauer; Tiff, Sonja und Saya vor ihrem Panel; Lizenz CC-BY SA 4.0 
+![Das ehrenamtliche g0v Team auf der Bühne am Ende des g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit.jpg)
+Foto: Sonja Fischbauer; Die ehrenamtlichen Organisator*innen von g0v auf der Bühne des summit; Lizenz CC-BY SA 4.0
 
 ## Taiwan’s Civic Tech Experimentierfeld 
 
@@ -39,12 +40,16 @@ Audrey Tang, international bekannt für ihre Arbeit in Open Government, war die 
 Mehr dazu, wie die Zusammenarbeit von zivilgesellschaftlichen Gruppen und Verwaltungen in verschiedenen Ländern funktiert, bietet die Publikation 
 [Examples of Civic Tech Communities-Governments Collaboration Around The World](https://www.freiheit.org/publikation/examples-civic-tech-communities-governments-collaboration-around-world). Darin finden sich Beiträge aus Taiwan, USA, Mexiko, Marokko, Tunesien, Indonesien und Deutschland, letzerer verfasst von OKF-Geschäftsführerin Henriette Litta. Publiziert wurde die Studie vom Global Innovation Hub der Friedrich Naumann Foundation mit Sitz in Taipei. 
 
+![Bunte Sticker auf einem Tisch auf beim g0v summit 2024.](/files/blog/2024/2024-06-g0v-summit-stickers.jpg) 
+Foto: Sonja Fischbauer; Sticker auf dem g0v summit; Lizenz CC-BY SA 4.0 
+
 ## Das g0v-Team besucht Berlin
 
 Genau einen Monat nach unserem Besuch beim g0v summit in Taipei durften wir Vertreterinnen der g0v-Community bei uns in Berlin begrüßen. 
 
 Isabel Hou, ehemalige Vorständin von g0v und Tiff Lin, Projektmanagerin der g0v Sch001 präsentierten ihr Wissen in einem Workshop zu Civic Tech & Digital Citizenship Education am 5. Juni. Die starke Community von g0v dient als Modell für ähnliche Bewegungen weltweit - ihr Wissen aus über zehn Jahren teilen sie im [g0v Civic Tech Project & Community Handbook](https://g0v.hackmd.io/@jothon/ctpbook_en). 
 
-![Gruppenfoto von Teilnehmenden eines g0v-Workshops in Berlin.](/files/blog/2024/2024-06-g0v-in-berlin.jpg "g0v-Workshop in Berlin")
+![Gruppenfoto von Teilnehmenden eines g0v-Workshops in Berlin.](/files/blog/2024/2024-06-g0v-in-berlin.jpg)
+Foto: Tiff Lin; g0v-Workshop in Berlin; Lizenz CC-BY SA 4.0
 
 Wir freuen uns über die zahlreichen Kontakte nach Taiwan, die neu gewonnenen Perspektive und die gestärkte Motivation, Erfolgsgeschichten auch hierzulande umzusetzen. 
