@@ -20,7 +20,7 @@ title: "Gerade jetzt. Für alle."
 
 Nach bisherigen Schätzungen droht im Bundeshaushalt eine Finanzierungslücke in Höhe von mindestens 25 Milliarden Euro. Wenn die Sparvorgaben der Bundesregierung jedoch wie geplant umgesetzt werden, gefährdet das auch das zivilgesellschaftliche Engagement in Deutschland: Kürzungen sind unter anderem in der Demokratieförderung, der Kinder- und Jugendarbeit, der politischen Bildung und bei den Freiwilligendiensten zu erwarten. Das Bündnis „Gerade jetzt. Für alle.“, in dem auch die OKF ein Teil ist, wendet sich daher mit einer Petition für den Erhalt der Fördergelder. Unterzeichnet gerne die [Petition](https://weact.campact.de/petitions/demokratieforderung-in-gefahr-kurzungen-jetzt-stoppen-geradejetztfueralle)!
 
-**Warum ist das wichtig?**<br>
+**Warum ist das wichtig?**<br><br>
 Täglich werden mindestens neun Menschen Opfer rechts, rassistisch oder antisemitisch
 motivierter Gewalt: Unsere Demokratie steht spürbar unter Druck. Aus Intoleranz wird Hass
 und aus Hass wird Gewalt. Im Internet und auf unseren Straßen. Und sogar in unseren
@@ -30,7 +30,7 @@ beraten Schulen oder Institutionen in Sachen Prävention und Radikalisierung. Od
 unterstützen Menschen in Notlagen. Die Zivilgesellschaft bietet Betroffenen dringend
 notwendige Unterstützung. Solchem Engagement droht jetzt das Aus.
 
-**Eine Frage des Überlebens**<br>
+**Eine Frage des Überlebens**<br><br>
 Zivilgesellschaftliches Engagement ist gerade wichtiger denn je. Doch genau jetzt droht
 durch die Sparvorgaben im Bundeshaushalt eine massive Kürzung dieser Angebote. Damit
 sind viele zivilgesellschaftliche Organisationen in ihrer Existenz bedroht. Berater*innen
@@ -40,7 +40,7 @@ allein gelassen. Politische Bildung wird aus der Projektwoche gestrichen. Einric
 immer verloren gehen. Das Kürzen der Fördergelder könnte uns alle teuer zu stehen
 kommen. Denn es geht um so viel mehr als nur ums Geld.
 
-**Jetzt Kürzungen verhindern**<br>
+**Jetzt Kürzungen verhindern**<br><br>
 Doch es gibt noch eine Chance, unsere Zivilgesellschaft zu retten. In diesen Wochen
 diskutiert die Bundesregierung, wo und wie viel eingespart werden soll. Bundeskanzler
 Scholz hat großen Einfluss auf diese Entscheidung. Der Einsatz für das Gemeinwohl und
