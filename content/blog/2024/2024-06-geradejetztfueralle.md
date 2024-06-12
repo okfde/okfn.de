@@ -11,7 +11,7 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Gerade jetzt. Für alle."
 ---
