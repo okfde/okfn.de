@@ -22,7 +22,7 @@ Nach bisherigen Schätzungen droht im Bundeshaushalt eine Finanzierungslücke in
 
 Das Bündnis „Gerade jetzt. Für alle.“, in dem auch die OKF ein Teil ist, wendet sich daher mit einer Petition für den Erhalt der Fördergelder. Unterzeichnet gerne die [Petition](https://weact.campact.de/petitions/demokratieforderung-in-gefahr-kurzungen-jetzt-stoppen-geradejetztfueralle)!
 
-**Warum ist das wichtig?**
+**Warum ist das wichtig?**<br>
 Täglich werden mindestens neun Menschen Opfer rechts, rassistisch oder antisemitisch
 motivierter Gewalt: Unsere Demokratie steht spürbar unter Druck. Aus Intoleranz wird Hass
 und aus Hass wird Gewalt. Im Internet und auf unseren Straßen. Und sogar in unseren
@@ -34,7 +34,7 @@ beraten Schulen oder Institutionen in Sachen Prävention und Radikalisierung. Od
 unterstützen Menschen in Notlagen. Die Zivilgesellschaft bietet Betroffenen dringend
 notwendige Unterstützung. Solchem Engagement droht jetzt das Aus.
 
-**Eine Frage des Überlebens**
+**Eine Frage des Überlebens**<br>
 Zivilgesellschaftliches Engagement ist gerade wichtiger denn je. Doch genau jetzt droht
 durch die Sparvorgaben im Bundeshaushalt eine massive Kürzung dieser Angebote. Damit
 sind viele zivilgesellschaftliche Organisationen in ihrer Existenz bedroht. Berater*innen
@@ -44,13 +44,13 @@ allein gelassen. Politische Bildung wird aus der Projektwoche gestrichen. Einric
 immer verloren gehen. Das Kürzen der Fördergelder könnte uns alle teuer zu stehen
 kommen. Denn es geht um so viel mehr als nur ums Geld.
 
-**Jetzt Kürzungen verhindern**
+**Jetzt Kürzungen verhindern**<br>
 Doch es gibt noch eine Chance, unsere Zivilgesellschaft zu retten. In diesen Wochen
 diskutiert die Bundesregierung, wo und wie viel eingespart werden soll. Bundeskanzler
 Scholz hat großen Einfluss auf diese Entscheidung. Der Einsatz für das Gemeinwohl und
 eine demokratische und soziale Gesellschaft darf nicht eingespart werden. Das müssen wir
 dem Bundeskanzler deutlich machen. Dafür brauchen wir deine Unterstützung. Unser Ziel:
 100.000 Unterschriften. Damit können wir Druck aufbauen und die drohenden Kürzungen
-noch abwenden. Gib der Zivilgesellschaft deine Stimme. Gerade jetzt. Für alle.
+noch abwenden. Gib der Zivilgesellschaft deine Stimme. **Gerade jetzt. Für alle.**
 
 *Wir bedanken uns bei den Initiator:innen der Kampagne: Amadeu Antonio Foundation, BS Anne Frank, Bundesverband Mobile Beratung, RIAS, Bundesverband Paritaet, HateAid, Neue Medienmachx und Internationale Jugendgemeinschaftsdienste. Außerdem ein Dankschön an zahlreiche weitere Organisationen, die daran mitwirken.*
