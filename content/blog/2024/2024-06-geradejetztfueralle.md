@@ -20,8 +20,6 @@ Die OKF unterstützt die Kampagne **"Gerade jetzt. Für alle."**: Im Bundeshaush
 
 Nach bisherigen Schätzungen droht im Bundeshaushalt eine Finanzierungslücke in Höhe von mindestens 25 Milliarden Euro. Wenn die Sparvorgaben der Bundesregierung jedoch wie geplant umgesetzt werden, gefährdet das auch das zivilgesellschaftliche Engagement in Deutschland: Kürzungen sind unter anderem in der Demokratieförderung, der Kinder- und Jugendarbeit, der politischen Bildung und bei den Freiwilligendiensten zu erwarten.
 
-Das Bündnis „Gerade jetzt. Für alle.“, in dem auch die OKF ein Teil ist, wendet sich daher mit einer Petition für den Erhalt der Fördergelder direkt an Bundeskanzler Olaf Scholz.
+Das Bündnis „Gerade jetzt. Für alle.“, in dem auch die OKF ein Teil ist, wendet sich daher mit einer Petition für den Erhalt der Fördergelder direkt an Bundeskanzler Olaf Scholz. Unterzeichnet gerne die [Petition](https://weact.campact.de/petitions/demokratieforderung-in-gefahr-kurzungen-jetzt-stoppen-geradejetztfueralle)!
 
-Unterzeichnet gerne die [Petition](https://weact.campact.de/petitions/demokratieforderung-in-gefahr-kurzungen-jetzt-stoppen-geradejetztfueralle)!
-
-*Wir bedanken uns bei den Initiator/*innen der Kampagne: Amadeu Antonio Foundation, BS Anne Frank, Bundesverband Mobile Beratung, RIAS, Bundesverband Paritaet, HateAid, Neue Medienmachx und Internationale Jugendgemeinschaftsdienste. Außerdem ein Dankschön an zahlreiche weitere Organisationen, die daran mitwirken.*
+*Wir bedanken uns bei den Initiator:innen der Kampagne: Amadeu Antonio Foundation, BS Anne Frank, Bundesverband Mobile Beratung, RIAS, Bundesverband Paritaet, HateAid, Neue Medienmachx und Internationale Jugendgemeinschaftsdienste. Außerdem ein Dankschön an zahlreiche weitere Organisationen, die daran mitwirken.*
