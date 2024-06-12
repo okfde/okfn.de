@@ -47,6 +47,6 @@ Scholz hat großen Einfluss auf diese Entscheidung. Der Einsatz für das Gemeinw
 eine demokratische und soziale Gesellschaft darf nicht eingespart werden. Das müssen wir
 dem Bundeskanzler deutlich machen. Dafür brauchen wir deine Unterstützung. Unser Ziel:
 100.000 Unterschriften. Damit können wir Druck aufbauen und die drohenden Kürzungen
-noch abwenden. Gib der Zivilgesellschaft deine Stimme. [**Gerade jetzt. Für alle.**](https://gerade-jetzt-fuer-alle.de/)
+noch abwenden. Gib der Zivilgesellschaft deine Stimme. [Gerade jetzt. Für alle.](https://gerade-jetzt-fuer-alle.de/)
 
 *Wir bedanken uns bei den Initiator:innen der Kampagne: Amadeu Antonio Foundation, BS Anne Frank, Bundesverband Mobile Beratung, RIAS, Bundesverband Paritaet, HateAid, Neue Medienmachx und Internationale Jugendgemeinschaftsdienste. Außerdem ein Dankschön an zahlreiche weitere Organisationen, die daran mitwirken.*
