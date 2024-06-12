@@ -27,9 +27,7 @@ Täglich werden mindestens neun Menschen Opfer rechts, rassistisch oder antisemi
 motivierter Gewalt: Unsere Demokratie steht spürbar unter Druck. Aus Intoleranz wird Hass
 und aus Hass wird Gewalt. Im Internet und auf unseren Straßen. Und sogar in unseren
 Parlamenten. Wer sich immer wieder im ganzen Land dagegen stellt: zivilgesellschaftliche
-Initiativen.
-
-Jeden Tag unterstützen Organisationen Menschen, die Hass und Hetze erfahren. Sie
+Initiativen. Jeden Tag unterstützen Organisationen Menschen, die Hass und Hetze erfahren. Sie
 beraten Schulen oder Institutionen in Sachen Prävention und Radikalisierung. Oder
 unterstützen Menschen in Notlagen. Die Zivilgesellschaft bietet Betroffenen dringend
 notwendige Unterstützung. Solchem Engagement droht jetzt das Aus.
