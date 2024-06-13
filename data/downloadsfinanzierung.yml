@@ -29,6 +29,13 @@
     - 2021
     - 2020
     - 2019
+- de:
+    title: Entwicklung der Finanzen
+    text: Finanzübersicht 2013-2023
+  en:
+    title: Development of finances [DE]
+    text: financial overview 2013-2023
+  path: /files/documents/Entwicklung_Finanzen_2023.pdf
 # 'prefix' will be part of the path and file name, which will be completed using the "years" field like so:
 # prefix: /path/to/file
 # years: 1984
