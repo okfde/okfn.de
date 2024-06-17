@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prototype-Fund on OKF</title>
+    <title>Prototype Fund on OKF</title>
     <link>https://okfn.de/tags/prototype-fund/</link>
-    <description>Recent content in Prototype-Fund on OKF</description>
+    <description>Recent content in Prototype Fund on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/prototype-fund/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fragen für die öffentliche KI-Förderung</title>
+      <link>https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/</guid>
+      <description>In den vergangenen zwei Jahren haben den Prototype Fund zunehmend mehr Bewerbungen für Softwareprojekte erreicht, die Methoden der Künstlichen Intelligenz (KI) wie Large Language Models (LLM) nutzen oder kritisch beleuchten. Mit der Verbreitung dieser Ansätze müssen sich öffentlich finanzierte Technologieförderprogramme wie der Prototype Fund damit auseinandersetzen, welche Auswahl- und Unterstützungsmechanismen es für KI-Projekte braucht, die offen, anpassbar und nachhaltig sind.&#xA;Was zählt als Open-Source-KI? Wenn der Staat Softwareenticklung finanziert, sollte die Allgemeinheit von den Ergebnissen profitieren können.</description>
+    </item>
     <item>
       <title>Prototype Fund: Jetzt bewerben für Runde 14</title>
       <link>https://okfn.de/blog/2023/02/ptf-bewerbungsphase-runde-14/</link>

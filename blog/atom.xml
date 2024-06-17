@@ -10,6 +10,16 @@
   <id>https://okfn.de</id>
   
   <entry>
+    <title>Fragen für die öffentliche KI-Förderung</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/"/>
+    <id>https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/</id>
+    <published>2024-06-17T00:00:00+0000</published>
+    <updated>2024-06-17T00:00:00+0000</updated>
+    <summary>In den vergangenen zwei Jahren haben den Prototype Fund zunehmend mehr Bewerbungen für Softwareprojekte erreicht, die Methoden der Künstlichen Intelligenz (KI) wie Large Language Models (LLM) nutzen oder kritisch beleuchten. Mit der Verbreitung dieser Ansätze müssen sich öffentlich finanzierte Technologieförderprogramme wie der Prototype Fund damit auseinandersetzen, welche Auswahl- und Unterstützungsmechanismen es für KI-Projekte braucht, die offen, anpassbar und nachhaltig sind.
+Was zählt als Open-Source-KI? Wenn der Staat Softwareenticklung finanziert, sollte die Allgemeinheit von den Ergebnissen profitieren können.</summary>
+  </entry>
+  
+  <entry>
     <title>Gerade jetzt. Für alle.</title>
     <link rel="alternate" href="https://okfn.de/blog/2024/06/gerade-jetzt.-f%C3%BCr-alle./"/>
     <id>https://okfn.de/blog/2024/06/gerade-jetzt.-f%C3%BCr-alle./</id>
@@ -150,16 +160,6 @@ We are deeply disturbed by the reports we heard of the violent nature of his arr
     <updated>2023-09-28T00:00:00+0000</updated>
     <summary>Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.
 Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Versäumnisse ein, die bei der Einführung des E-Government-Gesetzes entstanden sind. So werden beispielsweise Anforderungen an die Bereitstellung von offenen Daten definiert. In der beigefügten Begründung wird die Förderung von Open Data explizit als Ziel genannt.</summary>
-  </entry>
-  
-  <entry>
-    <title>Mehr Gestaltungswillen für die Kreislaufwirtschaftsstrategie</title>
-    <link rel="alternate" href="https://okfn.de/blog/2023/09/nkws/"/>
-    <id>https://okfn.de/blog/2023/09/nkws/</id>
-    <published>2023-09-21T00:00:00+0000</published>
-    <updated>2023-09-21T00:00:00+0000</updated>
-    <summary>Statt eine Müllverwertungsstrategie zu entwickeln sollte sich die Kreislaufwirtschaftsstrategie (NKWS) der Bundesregierung auf offene Kreisläufe konzentrieren, in denen die Zivilgesellschaft nicht reiner Konsument ist, sondern mitgestalten kann.
-Das Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz arbeitet an einer Nationalen Kreislaufwirtschaftsstrategie („NKWS“). Es ist gut, dass Bewegung in das Thema kommt. Allerdings konzentriert sich der aktuelle Stand auf die Abfallwirtschaft, auf die letzte Phase im Produktkreislauf. Rahmenbedingungen, die den Müllberg klein und Produkte von Beginn an modular, veränderbar und reparierbar halten, werden kaum diskutiert.</summary>
   </entry>
   
 </feed>
