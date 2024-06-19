@@ -197,8 +197,16 @@ Rechtsgrundlage ist hier Art. 6 Abs. 1 lit. b) DSGVO, das vorvertragliche Vertra
 
 Sollten Sie Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten haben, oder in Fällen von Auskünften, Berichtigung oder Löschung von Daten, sowie Widerruf erteilter Einwilligungen, wenden Sie sich bitte an datenschutz@okfn.de. 
 
-### IX. Wenn Sie Anmerkungen oder Fragen haben
+### IX. Mitgliedschaft
+
+Um in unserem Verein aufgenommen zu werden, müssen Sie eine Mitgliedschaft bei uns abschließen.
+
+Für den Abschluss der Mitgliedschaft sowie für die Durchführung dieses Vertrages benötigen wir den Vor- und Nachnamen und Ihre Anschrift sowie die E-Mail-Adresse. Darüber hinaus müssen Sie Ihre Bankverbindung (für den Fall, dass Sie das SEPA-Lastschriftmandat auswählen) und die Namen Ihrer Bürgen mitteilen.
+
+Rechtsgrundlage für die hiermit verbundene Datenverarbeitung ist jeweils Art. 6 Abs. 1 b) DSGVO (Vertragserfüllung zur Durchführung und Abwicklung der Mitgliedschaft bzw. deren Anbahnung).
+
+### X. Wenn Sie Anmerkungen oder Fragen haben
 
 Schutz und Sicherheit Ihrer Daten sind uns sehr wichtig. Ihre Fragen und Kommentare zum Datenschutz sind uns willkommen, schreiben Sie gern eine Email an datenschutz@okfn.de.
 
-Berlin, Mai 2023
+Berlin, Juni 2024
