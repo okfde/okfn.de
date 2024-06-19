@@ -56,6 +56,7 @@ Under the heading "Funding" we present in detail the financial development of th
 - [Audit Report 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
 - [Audit Report 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
 - [Audit Report 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
+- [Balance Sheet 2023](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2023.pdf) <br>
 - [Balance Sheet 2022](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2022.pdf) <br>
 - [Balance Sheet 2021](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf) <br>
 - [Balance Sheet 2020](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf) <br>
