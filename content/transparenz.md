@@ -55,6 +55,7 @@ Unter der Rubrik „Finanzierung“ legen wir die finanzielle Entwicklung der Or
 - [Bericht der Wirtschaftsprüfung 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
 - [Bericht der Wirtschaftsprüfung 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
 
+- [Bilanz 2023](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2023.pdf) <br>
 - [Bilanz 2022](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2022.pdf) <br>
 - [Bilanz 2021](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf) <br>
 - [Bilanz 2020](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf) <br>
