@@ -196,8 +196,16 @@ The legal basis is Art. 6 para. 1 lit. b) GDPR, the pre-contractual contractual 
 
 If you have any questions about the collection, processing or use of your personal data, or in cases of information, correction or deletion of data, as well as revocation of consent granted, please contact datenschutz@okfn.de.
 
-### IX. If you have any comments or questions
+### IX. Membership
+
+In order to become a member of our organization, you must take out a membership with us.
+
+We require your first name, surname, address and e-mail address for the conclusion of the membership and for the execution of this contract. In addition, you must provide your bank details (in the event that you select the SEPA direct debit mandate) and the names of your guarantors.
+
+The legal basis for the associated data processing is Art. 6 para. 1 b) GDPR (contract fulfillment for the execution and processing of the membership or its initiation).
+
+### X. If you have any comments or questions
 
 Protection and security of your data are very important to us. Your questions and comments about privacy are welcome, feel free to email us at datenschutz@okfn.de.
 
-Berlin, May 2023
+Berlin, June 2024
