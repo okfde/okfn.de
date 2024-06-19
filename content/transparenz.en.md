@@ -45,7 +45,7 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### Personnel structure
 
-In addition to the managing director, OKF DE employs 33 team members (2022). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes the positions of system administration, organizational development, accounting and finance. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE's' is about 57 percent.
+In addition to the managing director, OKF DE employs 40 team members (2023). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes the positions of system administration, organizational development, accounting and finance. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE's' is about 66 percent.
 
 ### Information on source & use of funds
 
