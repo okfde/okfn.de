@@ -43,7 +43,7 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 ### Personalstruktur
 
-Die OKF DE beschäftigt neben der Geschäftsführung noch 33 hauptamtliche Teammitglieder (2022). Die Projektleitungen steuern ihre Projekte eigenständig und haben Projektteams mit Projektmanager:innen und Projektassistent:innen. Im Team der Geschäftsführung sind die Positionen Systemadministration, Organisationsentwicklung, Buchhaltung und Finanzen verortet. Die OKF DE zahlt allen Mitarbeitenden Gehälter angelehnt an den Tarifvertrag der Länder (TVL). Studierende erhalten eine Vergütung gemäß des Berliner Tarifvertrags für Studierende. Der Frauenanteil in der OKF DE liegt bei etwa 57 Prozent.
+Die OKF DE beschäftigt neben der Geschäftsführung noch 40 hauptamtliche Teammitglieder (2023). Die Projektleitungen steuern ihre Projekte eigenständig und haben Projektteams mit Projektmanager:innen und Projektassistent:innen. Im Team der Geschäftsführung sind die Positionen Systemadministration, Organisationsentwicklung, Buchhaltung und Finanzen verortet. Die OKF DE zahlt allen Mitarbeitenden Gehälter angelehnt an den Tarifvertrag der Länder (TVL). Studierende erhalten eine Vergütung gemäß des Berliner Tarifvertrags für Studierende. Der Frauenanteil in der OKF DE liegt bei etwa 66 Prozent.
 
 ### Angaben zur Mittelherkunft & -verwendung
 
