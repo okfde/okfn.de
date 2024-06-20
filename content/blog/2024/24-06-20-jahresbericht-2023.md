@@ -16,9 +16,7 @@ title: "Das war 2023: Unser Jahresbericht ist jetzt veröffentlicht"
 ---
 
 
-Wer erinnert sich noch an 2023? Es ist viel passiert, wenn man so zurückschaut! 
-Nach erfolgreich abgeschlossener Wirtschaftsprüfung findet ihr auf [2023.okfn.de](https://2023.okfn.de/) unseren Jahresbericht online. 
-Eine [PDF Version](https://2023.okfn.de/assets/documents/OKF_Jahresbericht_2023.pdf) zum Herunterladen gibt es auch.
+Unser Jahresbericht 2023 ist online! Viel ist passiert und wir schauen unter anderem zurück auf unsere Highlights der Projekte. Nach erfolgreich abgeschlossener Wirtschaftsprüfung findet ihr auf [2023.okfn.de](https://2023.okfn.de/) unseren Jahresbericht ab sofort online. Eine [PDF Version](https://2023.okfn.de/assets/documents/OKF_Jahresbericht_2023.pdf) zum Download gibt es auch.
 
 ## Unsere Highlights aus 2023:
 
