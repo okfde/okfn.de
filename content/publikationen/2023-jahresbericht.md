@@ -1,6 +1,6 @@
 ---
 title: Jahresbericht Open Knowledge Foundation Deutschland e. V. 2023
-published: false
+published: true
 date: 2024-06-20
 layout: publikation
 image:
