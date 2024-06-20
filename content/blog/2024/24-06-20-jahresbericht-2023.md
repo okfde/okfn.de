@@ -12,7 +12,7 @@ type: post
 layout: post
 published: false
 featured: yellow
-title: "Das war 2023: Unser Jahresbericht ist jetzt veröffentlicht"
+title: "Das war 2023: Unser Jahresbericht 2023 ist online!"
 ---
 
 
