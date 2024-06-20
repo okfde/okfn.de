@@ -45,7 +45,8 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### Personnel structure
 
-In addition to the managing director, OKF DE employs 40 team members (2023). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes the positions of system administration, organizational development, accounting and finance. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE's' is about 66 percent.
+In addition to the managing director, OKF DE employs 40 team members (2023). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes all personnel with responsibilities for the organization itself. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE’s’ is about 66 percent.
+
 
 ### Information on source & use of funds
 
@@ -76,7 +77,7 @@ Neither private nor legal persons hold shares in our association. This would not
 
 ### Names of legal entities whose annual payments account for more than 10% of the total annual budget.
 
-Core funding from Luminate accounts for approx. 13% of the total income in 2023. Donation of the Alfred Landecker Foundation for Frag den Staat corresponds to approximately 13% of the total income in 2023. Project funding from the Federal Ministry of Education and Research to finance the Prototype Fund in 2023 accounts for approximately 11% of the total annual budget. Project funding from the Saxonian State Ministry for Culture and Education accounts for approx. 10% of the total income in 2023. All other income is well below 10% of total income.
+Core funding from Luminate and a donation of the Alfred Landecker Foundation for FragDenStaat each correspond to approx. 13% of the total income in 2023. Project funding from the Federal Ministry of Education and Research to finance the Prototype Fund as well as the project MoFab accounts for approximately 11% of the total annual budget in 2023. Project funding from the Saxonian State Ministry for Culture and Education for Jugend hackt activities in Saxony accounts for approx. 10% of the total income in 2023. All other income is well below 10% of total income.
 
 ### Internal ethics officer
 
