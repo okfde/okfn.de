@@ -1,9 +1,9 @@
 ---
 authors:
 - Henriette Litta
-date: 2023-06-28
+date: 2023-06-20
 image: 
-  src: /files/blog/2023/jahresbericht22-blog.jpg
+  src: /files/blog/2024/2023 Jahresbericht Blogbild.png
 tags:
 - OKFDE
 - openknowledge
@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 published: false
-featured: blue
+featured: yellow
 title: "Das war 2023: Unser Jahresbericht ist jetzt veröffentlicht"
 ---
 
