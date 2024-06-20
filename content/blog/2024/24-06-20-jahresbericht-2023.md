@@ -10,9 +10,9 @@ tags:
 - jahresbericht
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
-title: "Das war 2023: Unser Jahresbericht 2023 ist online!"
+title: "Das war 2023: Unser Jahresbericht ist online!"
 ---
 
 
