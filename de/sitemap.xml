@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,14 +268,17 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2024/06/das-war-2023-unser-jahresbericht-ist-online/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/ki/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/jahresbericht/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,17 +290,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-source/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/okfde/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/prototype-fund/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/sophia-schulze-schleithoff/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/openknowledge/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -308,6 +308,21 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/ki/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-source/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/prototype-fund/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/sophia-schulze-schleithoff/</loc>
+    <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/demokratief%C3%B6rderung/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
@@ -411,9 +426,6 @@
   </url><url>
     <loc>https://okfn.de/tags/verwaltung/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/open-data/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
@@ -611,9 +623,6 @@
     <loc>https://okfn.de/blog/2023/06/jahresbericht-2022/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/jahresbericht/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/publikationen/2022-jahresbericht/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -626,12 +635,6 @@
                 hreflang="de"
                 href="https://okfn.de/publikationen/2022-jahresbericht/"
                 />
-  </url><url>
-    <loc>https://okfn.de/tags/okfde/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/openknowledge/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/community/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
@@ -660,9 +663,6 @@
   </url><url>
     <loc>https://okfn.de/tags/stellungnahme/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2023/06/das-war-2023-unser-jahresbericht-ist-online/</loc>
-    <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/2023_f5_engagementstrategie/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
