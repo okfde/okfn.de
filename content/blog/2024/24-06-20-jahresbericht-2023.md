@@ -1,7 +1,7 @@
 ---
 authors:
 - Henriette Litta
-date: 2023-06-20
+date: 2024-06-20
 image: 
   src: /files/blog/2024/2023 Jahresbericht Blogbild.png
 tags:
