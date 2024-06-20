@@ -4,7 +4,7 @@ published: true
 date: 2024-06-20
 layout: publikation
 image:
-  src: /files/blog/2024/2023 Jahresbericht Blogbild.png
+  src: /files/images/2023_Jahresbericht_pub.png
 kategorien: Jahresberichte
 categories: yearly reports
 people:
