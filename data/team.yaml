@@ -1,7 +1,7 @@
 - name: Gabriele C. Klug
   img: gabrieleklug
-  staff: 0
-  board: 0
+  staff: 1
+  board: 1
   advisory: 0
   position: Kassenwartin
   position_en: Treasurer
@@ -1508,7 +1508,7 @@
    
 - name: Sabrina Winter
   img: unknown
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Investigativer Journalist FragDenStaat
