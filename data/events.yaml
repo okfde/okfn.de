@@ -162,7 +162,7 @@
   show: true
 - name: FragDenStaat-Summer School
   url: https://fragdenstaat.de/aktionen/summerschool/
-  enddate: "2024-08-01"
-  startdate: "2024-08-03"
+  enddate: "2024-08-03"
+  startdate: "2024-08-01"
   venue: Berlin
   show: true
