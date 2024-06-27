@@ -1,15 +1,24 @@
 # Den neuen Bericht immer erst einpflegen, wenn die MV ihn bestäigt und der Wirtschaftsprüfer die Zahlen bestötigt hat!
 
+- year: 2023
+  img: /okf/verein/Jahresbericht_2023.png
+  pdf: https://2023.okfn.de/
+  de:
+    title: Jahresbericht 2023
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2023, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Annual Report 2023
+    text: In addition to funding information and program activities from the 2023 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+
 - year: 2022
   img: /okf/verein/Jahresbericht_2022.png
   pdf: https://2022.okfn.de/
   de:
     title: Jahresbericht 2022
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2021, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2022, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
   en:
     title: Annual Report 2022
-    text: In addition to funding information and program activities from the 2021 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
-
+    text: In addition to funding information and program activities from the 2022 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
 - year: 2021
   img: /okf/verein/Jahresbericht_2021_Titel.png
