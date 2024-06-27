@@ -160,3 +160,9 @@
   startdate: "2024-11-16"
   venue: BUND Hannover
   show: true
+- name: FragDenStaat-Summer School
+  url: https://fragdenstaat.de/aktionen/summerschool/
+  enddate: "2024-08-01"
+  startdate: "2024-08-03"
+  venue: Berlin
+  show: true
