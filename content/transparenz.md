@@ -49,6 +49,7 @@ Die OKF DE beschäftigt neben der Geschäftsführung noch 40 hauptamtliche Teamm
 
 Unter der Rubrik „Finanzierung“ legen wir die finanzielle Entwicklung der Organisation und die Einnahmen und Ausgaben des jeweils aktuell abgeschlossenen Wirtschaftsjahrs detailliert dar. Seit 2018 unterziehen wir uns einer freiwilligen externen Wirtschaftsprüfung.
 
+- [Bericht der Wirtschaftsprüfung 2023](/files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf) <br>
 - [Bericht der Wirtschaftsprüfung 2022](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
 - [Bericht der Wirtschaftsprüfung 2021](/files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf) <br>
 - [Bericht der Wirtschaftsprüfung 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
