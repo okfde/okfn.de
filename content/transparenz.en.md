@@ -30,6 +30,7 @@ Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Furthe
 
 Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
+- [Jahresbericht 2023](https://2023.okfn.de/) <br>
 - [Jahresbericht 2022](https://2022.okfn.de/) <br>
 - [Jahresbericht 2021](https://2021.okfn.de/) <br>
 - [Jahresbericht 2020](https://2020.okfn.de/) <br>
@@ -52,6 +53,7 @@ In addition to the managing director, OKF DE employs 40 team members (2023). The
 
 Under the heading "Funding" we present in detail the financial development of the organization and the income and expenditure of the current financial year. Since 2018, we have been undergoing a voluntary external audit.
 ](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
+- [Audit Report 2023](/files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf) <br>
 - [Audit Report 2022](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
 - [Audit Report 2021](/files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf) <br>
 - [Audit Report 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
