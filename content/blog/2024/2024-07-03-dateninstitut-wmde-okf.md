@@ -5,7 +5,7 @@ authors:
 date: 2024-07-03
 image: 
   src: /files/blog/2024/rc2.JPG
-  license: cc by Maximilian Voigt
+  title: cc by Maximilian Voigt
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 - dateninstitut
