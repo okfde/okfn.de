@@ -1,7 +1,7 @@
 ---
 authors:
-- Wikimedia Deutschland
-- OKF
+- Aline Blankertz
+- Henriette Litta
 date: 2024-07-03
 image: 
   src: /files/blog/2020/03/data-joshua-sortino-unsplash.jpg
@@ -12,7 +12,7 @@ tags:
 - zivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Das Dateninstitut kommt. Die Gemeinwohlorientierung bleibt fraglich"
 ---
