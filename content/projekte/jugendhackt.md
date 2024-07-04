@@ -24,10 +24,10 @@ people:
     role: Projektleitung
   - name: Lisa Jahn
     role: Projektmanagement Events
+  - name: Ragna Höfgen
+    role: Projektmanagement Events
   - name: Philip Steffan
     role: Community und Kommunikation
-  - name: Anton Melchert
-    role: Bundesfreiwilligendienstleistender
   - name: Benjamin Laske
     role: Studentischer Mitarbeiter  
 contact_person: nina
