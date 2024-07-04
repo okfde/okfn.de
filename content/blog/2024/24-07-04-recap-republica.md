@@ -28,7 +28,7 @@ Foto: TINCON/Gregor Fischer
 
 ## Wie kann KI dem Gemeinwohl dienen?
 
-Geschäftsführerin Henriette Litta diskutierte mit Steffi Lemke, Bundesministerin für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), über die politische Vision von gemeinwohlorientierter KI. Sie erörterten, wie das Gemeinwohl und die zukünftige Gestaltung und Umsetzung von KI aussehen und vor allem im Zentrum der Digitalpolitik stehen kann. Wichtige Punkte dabei waren unter anderem:
+Geschäftsführerin Henriette Litta diskutierte mit Steffi Lemke, Bundesministerin für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), über die politische Vision von gemeinwohlorientierter KI. Sie erörterten, wie das Gemeinwohl und die zukünftige Gestaltung und Umsetzung von KI aussehen und vor allem im Zentrum der Digitalpolitik stehen können. Wichtige Punkte dabei waren unter anderem:
 
 * so viele Leute wie möglich erreichen, also auch marginalisierte und benachteiligte Gruppen der Gesellschaft
 * durch Technologie positive Möglichkeiten eröffnen, d. h. mit Technologie einen besseren Zugang zur gesellschaftlichen Teilhabe gestalten (Barrierefreiheit, Diskriminierungsschutz, einfache Sprache, Mehrsprachigkeit, Niedrigschwelligkeit, Sichtbarmachung durch Daten)
