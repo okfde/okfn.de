@@ -33,7 +33,7 @@ people:
 contact_person: nina
 years: 2012 - heute
 partners:
-  - mediale pfade e.V.
+  - mediale pfade e. V.
 financing:
   - Deutsche Bahn Stiftung
   - Spenden
