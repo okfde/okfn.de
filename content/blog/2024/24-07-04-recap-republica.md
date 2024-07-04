@@ -29,9 +29,10 @@ Foto: TINCON/Gregor Fischer
 
 Geschäftsführerin Henriette Litta diskutierte mit Steffi Lemke, Bundesministerin für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), über die politische Vision von gemeinwohlorientierter KI. Sie erörterten, wie das Gemeinwohl und die zukünftige Gestaltung und Umsetzung von KI aussehen und vor allem im Zentrum der Digitalpolitik stehen kann. Wichtige Punkte dabei waren unter anderem:
 
-* so viele Leute wie möglich zu erreichen, also auch marginalisierte und benachteiligte Gruppen der Gesellschaft
-* durch Technologie positive Möglichkeiten zu eröffnen, d. h. mit Technologie einen besseren Zugang zur gesellschaftlichen Teilhabe zu gestalten (Barrierefreiheit, Diskriminierungsschutz, einfache Sprache, Mehrsprachigkeit, Niedrigschwelligkeit, Sichtbarmachung durch Daten)
+* so viele Leute wie möglich erreichen, also auch marginalisierte und benachteiligte Gruppen der Gesellschaft
+* durch Technologie positive Möglichkeiten eröffnen, d. h. mit Technologie einen besseren Zugang zur gesellschaftlichen Teilhabe gestalten (Barrierefreiheit, Diskriminierungsschutz, einfache Sprache, Mehrsprachigkeit, Niedrigschwelligkeit, Sichtbarmachung durch Daten)
 * mehr Austausch mit der Zivilgesellschaft, mehr Beratung anbieten und sie als kompetente Partnerin verstehen
+* zukünftig mehr Pläne zu unter anderem: nachhaltiger und gerechter KI, Open Source Ökosysteme vergrößern und europäisch stärken, Privatsphäre sichern, Journalist*innen schützen, den freien Zugang zu Wissen und Bildung stärken, da diese fundamental für die Förderung einer informierten und mündigen Gesellschaft sind
 
 ![Henriette Litta mit Steffi Lemke](/files/blog/2024/Republica24-F5-Dienstag-108.jpg) 
 Foto: Ekvidi, Lizenz: CC BY-SA 4.0.
