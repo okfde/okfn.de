@@ -49,7 +49,7 @@ Foto: Ekvidi, Lizenz: CC BY-SA 4.0.
 
 Bei seinem [Vortrag](https://re-publica.com/de/session/machtuebernahme-was-tun-wenn-die-afd-die-regierung-kommt) erörterte Arne Semsrott, was wir tun können, wenn die AfD in Ministerien einzieht. Was lange unmöglich schien, könnte in diesem Jahr Wirklichkeit werden: Bei EU-, Landtags- und Kommunalwahlen hat die AfD teilweise gute Chancen, zur stärksten Kraft zu werden. Semsrott unterstreicht die Notwendigkeit einer aktiven Zivilgesellschaft und fordert dazu auf, mehr Räume einzunehmen, an Demonstrationen teilzunehmen, Informationsfreiheitsanfragen (IFG) zu stellen und zu streiken. Außerdem betont er die Bedeutung, mehr Vorräte an Solidarität, Liebe und Netzwerken aufzubauen – er nennt es *Prepping for Future*. Mit seinem Buch ["Machtübernahme"](https://www.droemer-knaur.de/buch/arne-semsrott-machtuebernahme-9783426659847) spendet er 1 € pro verkauftem Exemplar an Netzwerk Polylux und unterstreicht damit die Wichtigkeit von Spenden an Organisationen, die sich für eine offene Demokratie einsetzen.
 
-![Arne Semsrott](/files/blog/2024/2024-07-04-Republica_2024-Arne Semsrott.jpg) 
+![Arne Semsrott](/files/blog/2024/2024-07-04-Republica_2024-Arne_Semsrott.jpg) 
 Foto: TINCON/Gregor Fischer
 
 *Es war ein schönes, produktives Festival – und wir freuen uns schon jetzt auf das nächste Mal!*
