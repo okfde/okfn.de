@@ -15,7 +15,7 @@ featured: blue
 title: "Das war die re:publica 2024: Unser Recap"
 ---
 
-Vom 27. - 29.05.2024 fand in Berlin die **re:publica** statt - das Festival für die digitale Gesellschaft! Die OKF war mit vielen verschiedenen [Themen und Formaten](https://okfn.de/blog/2024/05/triffdieokfaufderrepublica24/) dabei. Während unseres Programms haben wir uns mit Expert*innen aus verschiedenen Bereichen ausgetauscht, führten zahlreiche spannende Gespräche und konnten dem Publikum unsere Projekte vorstellen. Hier könnt ihr einen kurzen Recap unserer Zeit vor Ort lesen:
+Vom 27. - 29.05.2024 fand in Berlin die **re:publica** statt - das Festival für die digitale Gesellschaft! Die OKF war mit vielen verschiedenen [Themen und Formaten](https://okfn.de/blog/2024/05/triffdieokfaufderrepublica24/) dabei. Während unseres Programms haben wir uns mit Expert*innen aus verschiedenen Bereichen ausgetauscht, führten zahlreiche spannende Gespräche und konnten dem Publikum unsere Projekte vorstellen. Hier könnt ihr einen kurzen Recap unserer Zeit vor Ort nachlesen:
 
 ## Jugend hackt
 
