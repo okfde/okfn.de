@@ -40,7 +40,7 @@ Foto: Ekvidi, Lizenz: CC BY-SA 4.0
 
 ## Prototype Fund
 
-Das Prototype Fund Team hat über ihre Erfahrungen aus acht Jahren Prototype Fund und 14 Mio. Euro Förderung referiert. Auch bei ihnen stand der Austausch im Vordergrund, sodass ein ["richtiges re:publica-Gefühl”](https://prototypefund.de/who-cares-about-foss-we-do/) gar erst aufkommt: bei Prototype Fund & Friends Meetup oder am Stand des Bündnis F5. Ganz besonders haben sie sich über den gemeinsamen Vortrag mit ihrem Geförderten Viraaj Akuthota gefreut, bei dem sie sich über die Förderung von generativer KI im Gemeinwohlinteresse austauschen konnten.
+Das Prototype Fund Team hat über ihre Erfahrungen aus acht Jahren Prototype Fund und 14 Mio. Euro Förderung referiert. Auch bei ihnen stand der Austausch im Vordergrund, sodass ein [richtiges re:publica-Gefühl](https://prototypefund.de/who-cares-about-foss-we-do/) gar erst aufkommt: bei Prototype Fund & Friends Meetup oder am Stand des Bündnis F5. Ganz besonders haben sie sich über den gemeinsamen Vortrag mit ihrem Geförderten Viraaj Akuthota gefreut, bei dem sie sich über die Förderung von generativer KI im Gemeinwohlinteresse austauschen konnten.
 
 ![Projektleitung: Marie Kreil, Patricia Leu](/files/blog/2024/2024-07-04-Republica24-PTF.jpg) 
 Foto: Ekvidi, Lizenz: CC BY-SA 4.0.
