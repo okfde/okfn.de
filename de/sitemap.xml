@@ -242,6 +242,19 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -254,6 +267,12 @@
                 hreflang="de"
                 href="https://okfn.de/blog/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2024/07/das-war-die-republica-2024-unser-recap/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
@@ -268,21 +287,27 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/aline-blankertz/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf-de/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/re-publica/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/authors/"
+                href="https://okfn.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/authors/"
+                href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/aline-blankertz/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/07/dateninstitut-wmde-okf/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
@@ -295,19 +320,6 @@
   </url><url>
     <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
@@ -382,9 +394,6 @@
     <loc>https://okfn.de/blog/2024/06/gerade-jetzt.-f%C3%BCr-alle./</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/okf-de/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -447,12 +456,6 @@
   </url><url>
     <loc>https://okfn.de/publikationen/f5forderungenzureuwahl/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/re-publica/</loc>
-    <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/05/triffdieokfaufderrepublica24/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
