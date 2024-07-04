@@ -1,7 +1,7 @@
 ---
 authors:
 - OKF DE
-date: 2024-06-27
+date: 2024-07-04
 image: 
   src: /files/blog/2024/2023 Jahresbericht Blogbild.png
 tags:
