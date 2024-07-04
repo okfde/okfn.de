@@ -4,7 +4,7 @@ authors:
 date: 2024-07-04
 image: 
   src: /files/blog/2024/2024-07-04-Republica24-F5.jpg
-  license: Ekvidi, Lizenz: CC BY-SA 4.0
+  license: CC-BY SA 4.0
 tags:
 - re-publica
 - digitaleZivilgesellschaft
