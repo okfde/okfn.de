@@ -35,12 +35,20 @@ Geschäftsführerin Henriette Litta diskutierte mit Steffi Lemke, Bundesminister
 * zukünftig mehr Pläne zu unter anderem: nachhaltiger und gerechter KI, Open Source Ökosysteme vergrößern und europäisch stärken, Privatsphäre sichern, Journalist*innen schützen, den freien Zugang zu Wissen und Bildung stärken, da diese fundamental für die Förderung einer informierten und mündigen Gesellschaft sind
 
 ![Henriette Litta mit Steffi Lemke](/files/blog/2024/Republica24-F5-Dienstag-108.jpg) 
-Foto: Ekvidi, Lizenz: CC BY-SA 4.0.
+Foto: Ekvidi, Lizenz: CC BY-SA 4.0
 
 ## Prototype Fund
 
 Das Prototype Fund Team hat über ihre Erfahrungen aus acht Jahren Prototype Fund und 14 Mio. Euro Förderung referiert. Auch bei ihnen stand der Austausch im Vordergrund, sodass ein ["richtiges re:publica-Gefühl”](https://prototypefund.de/who-cares-about-foss-we-do/) gar erst aufkommt: bei Prototype Fund & Friends Meetup oder am Stand des Bündnis F5. Ganz besonders haben sie sich über den gemeinsamen Vortrag mit ihrem Geförderten Viraaj Akuthota gefreut, bei dem sie sich über die Förderung von generativer KI im Gemeinwohlinteresse austauschen konnten.
 
+![Projektleitung: Marie Kreil, Patricia Leu](/files/blog/2024/2024-07-04-Republica24-PTF.jpg) 
+Foto: Ekvidi, Lizenz: CC BY-SA 4.0.
 
+## FragDenStaat: Machtübernahme - Was tun, wenn die AfD an die Regierung kommt?
+
+Bei seinem [Vortrag](https://re-publica.com/de/session/machtuebernahme-was-tun-wenn-die-afd-die-regierung-kommt) erörterte Arne Semsrott, was wir tun können, wenn die AfD in Ministerien einzieht. Was lange unmöglich schien, könnte in diesem Jahr Wirklichkeit werden: Bei EU-, Landtags- und Kommunalwahlen hat die AfD teilweise gute Chancen, zur stärksten Kraft zu werden. Semsrott unterstreicht die Notwendigkeit einer aktiven Zivilgesellschaft und fordert dazu auf, mehr Räume einzunehmen, an Demonstrationen teilzunehmen, Informationsfreiheitsanfragen (IFG) zu stellen und zu streiken. Außerdem betont er die Bedeutung, mehr Vorräte an Solidarität, Liebe und Netzwerken aufzubauen – er nennt es *Prepping for Future*. Mit seinem Buch ["Machtübernahme"](https://www.droemer-knaur.de/buch/arne-semsrott-machtuebernahme-9783426659847) spendet er 1 € pro verkauftem Exemplar an Polylux und unterstreicht damit die Wichtigkeit von Spenden an Organisationen, die sich für eine offene Demokratie einsetzen.
+
+![Arne Semsrott](/files/blog/2024/2024-07-04-Republica_2024-Arne Semsrott.jpg) 
+Foto: TINCON/Gregor Fischer
 
 *Es war ein schönes, produktives Festival – und wir freuen uns schon jetzt auf das nächste Mal!*
