@@ -22,5 +22,12 @@ Im Meet-Up [critical digital literacy - how are you dear?](https://re-publica.co
 
 Außerdem sind Jugend hackt im Rahmen der parallel stattfindenden **TINCON** an allen drei Tagen mit vielen jungen Leuten ins Gespräch gekommen. Angelockt hatten sie die Jugendlichen mit drei Mitmach-Angeboten mit Technikbezug: An ihren Jugend hackt-Workshopständen konnte man erste Schritte in 3D-Design und -Druck gehen, einen kreativen Schrottroboter bauen oder ihr Alpaka-Maskottchen in Form eines bunt leuchtenden Bausatzes löten. Neben dem ZDF, das hier einen Beitrag für die logo-Nachrichten drehte, kam auch die Berliner Bildungssenatorin Katharina Günther-Wünsch vorbei und lernte Jugend hackt kennen.
 
+![Jugend hackt](/files/blog/2024/2024-07-04-Republica-JH.jpg) 
+Foto: TINCON/Gregor Fischer
 
-## 
+## Wie kann KI dem Gemeinwohl dienen?
+
+Geschäftsführerin Henriette Litta diskutierte mit Steffi Lemke, Bundesministerin für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV), über die politische Vision von gemeinwohlorientierter KI. Sie erörterten, wie das Gemeinwohl und die zukünftige Gestaltung und Umsetzung von KI aussehen und vor allem im Zentrum der Digitalpolitik stehen kann. 
+
+![Henriette Litta mit Steffi Lemke](/files/blog/2024/Republica24-F5-Dienstag-108.jpg) 
+Foto: Ekvidi, CC BY-SA 4.0.
