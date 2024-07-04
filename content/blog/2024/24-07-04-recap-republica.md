@@ -37,3 +37,10 @@ Geschäftsführerin Henriette Litta diskutierte mit Steffi Lemke, Bundesminister
 ![Henriette Litta mit Steffi Lemke](/files/blog/2024/Republica24-F5-Dienstag-108.jpg) 
 Foto: Ekvidi, Lizenz: CC BY-SA 4.0.
 
+## Prototype Fund
+
+Das Prototype Fund Team hat über ihre Erfahrungen aus acht Jahren Prototype Fund und 14 Mio. Euro Förderung referiert. Auch bei ihnen stand der Austausch im Vordergrund, sodass ein ["richtiges re:publica-Gefühl”](https://prototypefund.de/who-cares-about-foss-we-do/) gar erst aufkommt: bei Prototype Fund & Friends Meetup oder am Stand des Bündnis F5. Ganz besonders haben sie sich über den gemeinsamen Vortrag mit ihrem Geförderten Viraaj Akuthota gefreut, bei dem sie sich über die Förderung von generativer KI im Gemeinwohlinteresse austauschen konnten.
+
+
+
+*Es war ein schönes, produktives Festival – und wir freuen uns schon jetzt auf das nächste Mal!*
