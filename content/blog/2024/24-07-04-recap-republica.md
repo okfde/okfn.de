@@ -10,7 +10,7 @@ tags:
 - digitaleZivilgesellschaft
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Das war die re:publica 2024: Unser Recap"
 ---
