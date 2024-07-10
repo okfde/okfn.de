@@ -10,14 +10,14 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Maximilian Voigt, Open Hardware Allianz
-file: /files/publikationen/2024-04-18-F5_Forderungspapier_DMK.pdf
+file: /files/documents/NKWS_Kommentierung_OKFDE_OHAGERMANY.pdf
 format: pdf
 pages: 3
 size: 238KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: 
-  - url: "<a href=\"https://github.com/okfde/okfn.de/blob/master/static/files/documents/NKWS_Kommentierung_OKFDE_OHAGERMANY.pdf\" target=\"_blank\">Zur Stellungnahme</a>"
+  - url: "<a href=\"https://okfn.de/blog/2024/06/zum-entwurf-der-nkws-ambitioniert-bleiben/\" target=\"_blank\">Zum Blogartikel</a>"
   - url: "<a href=\"https://open-hardware-allianz.de/\" target=\"_blank\">Zur Website der Open Hardware Allianz F5</a>"
 ---
 
