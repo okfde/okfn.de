@@ -40,5 +40,5 @@ Statt unsere Elektrogeräte als fertige, für einen „Endverbraucher“ geschaf
 
 ## Die Stellungnahme der OKF DE und der Open Hardware Allianz in voller Länge
 
-{{< pdf url="https://github.com/okfde/okfn.de/blob/master/static/files/documents/NKWS_Kommentierung_OKFDE_OHAGERMANY.pdf" >}}
+{{< pdf url="/files/documents/NKWS_Kommentierung_OKFDE_OHAGERMANY.pdf" >}}
 
