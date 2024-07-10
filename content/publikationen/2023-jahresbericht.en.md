@@ -1,6 +1,6 @@
 ---
 title: Open Knowledge Foundation Germany e. V. - 2023 Annual report
-published: false
+published: true
 date: 2024-06-20
 layout: publikation
 image:
