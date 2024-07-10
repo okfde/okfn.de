@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2024-06-20T00:00:00+0000</updated>
+  <updated>2024-07-09T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Stellungnahme zum Entwurf einer Nationalen Kreislaufwirtschaftsstrategie</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2024-kommentierung-entwurf-nkws-okfde_oha/"/>
+    <id>https://okfn.de/publikationen/2024-kommentierung-entwurf-nkws-okfde_oha/</id>
+    <published>2024-07-09T00:00:00+0000</published>
+    <updated>2024-07-09T00:00:00+0000</updated>
+    <summary>Wir begrüßen den Entwurf einer Nationalen Kreislaufwirtschaftsstrategie (NKWS) des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) und sehen ihn als ersten wichtigen Schritt hin zu einer ressourcenschonenden und transparenten Kreislaufwirtschaft in Deutschland. Mit dem Netzwerk Ressourcenwende haben wir bereits die wichtigen Kernziele und Maßnahmen kommentiert. Wir unterstützen die dort bereits genannten Forderungen. Mit der vorliegenden Kommentierung fokussieren wir insbesondere die Rolle und Potenziale von Open Source, die stellenweise im aktuellen Entwurf enthalten sind.</summary>
+  </entry>
   
   <entry>
     <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2023</title>
@@ -139,16 +148,6 @@ Die Hessische Regierung macht mit dem Open-Data-Gesetz zwar den überfälligen e
     <updated>2023-01-31T00:00:00+0000</updated>
     <summary>Der vorliegende Entwurf behandelt im Wesentlichen die landesrechtliche Umsetzung der durch das Onlinezugangsgesetz (OZG) des Bundes verpflichtend gewordenen digitalen Bereitstellung von Verwaltungsleistungen.
 Aus Sicht der Open Knowledge Foundation Deutschland setzt die Landesregierung Hessen mit dem Gesetzentwurf zwar notwendige Änderungen im Bereich der Nutzer:innenkonten und Behördenpostfächer um, verpasst aber die Chance, nach über vier Jahren mit einer echten Novelle des HEGovG weiterreichende Regelungen und Ziele zu formulieren, wie die digitale Transformation zu einer effizienten und transparenten Verwaltung beitragen könnte.</summary>
-  </entry>
-  
-  <entry>
-    <title>Bündnis F5 zur Zukunftsstrategie Forschung und Innovation</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2022_f5_zukunftsstrategie/"/>
-    <id>https://okfn.de/publikationen/2022_f5_zukunftsstrategie/</id>
-    <published>2022-11-17T00:00:00+0000</published>
-    <updated>2022-11-17T00:00:00+0000</updated>
-    <summary>Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht.
-Im Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) haben wir im Rahmen der Online-Konsultation des Bundesministeriums für Bildung und Forschung (BMBF) eine Stellungnahme auf die vorgegebenen Fragen zur „Zukunftsstrategie Forschung und Innovation“ abgegeben, in der wir unsere Anmerkungen und Kritikpunkte detailliert aufführen.</summary>
   </entry>
   
 </feed>

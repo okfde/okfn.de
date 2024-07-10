@@ -242,6 +242,35 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/2024-kommentierung-entwurf-nkws-okfde_oha/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -273,19 +302,6 @@
   </url><url>
     <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/okf-de/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
@@ -369,19 +385,6 @@
   </url><url>
     <loc>https://okfn.de/tags/openknowledge/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
