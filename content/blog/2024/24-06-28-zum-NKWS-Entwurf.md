@@ -19,7 +19,7 @@ featured: blue
 title: "Zum Entwurf der NKWS: ambitioniert bleiben!"
 ---
 
-Die Bundesregierung arbeitet an einer Strategie, die "[Ziele und Maßnahmen zum zirkulären Wirtschaften und zur Ressourcenschonung aus allen relevanten Strategien](https://www.bmuv.de/themen/kreislaufwirtschaft/kreislaufwirtschaftsstrategie)" zusammenführen und den primären Rohstoffbedarf "absolut" senken soll. Mehr Informationen auf der Produktebene und offene Designs können maßgeblich zum Erfolg dieses Zieles beitragen. Dafür setzt sich die OKF DE zusammen mit der [Open Hardware Allianz](https://open-hardware-allianz.de/) ein.
+Die Bundesregierung arbeitet an einer Strategie, die "[Ziele und Maßnahmen zum zirkulären Wirtschaften und zur Ressourcenschonung aus allen relevanten Strategien](https://www.bmuv.de/themen/kreislaufwirtschaft/kreislaufwirtschaftsstrategie)" zusammenführen und den primären Rohstoffbedarf "absolut" senken soll. Mehr Informationen auf der Produktebene und offene Designs können maßgeblich zum Erfolg dieses Zieles beitragen. Dafür setzt sich die OKF zusammen mit der [Open Hardware Allianz](https://open-hardware-allianz.de/) ein.
 
 Am 17. Juni 2024 legte das Umweltministerium (BMUV) den ersten [Entwurf](https://www.bmuv.de/download/entwurf-einer-nationalen-kreislaufwirtschaftsstrategie-nkws) dieser "Nationalen Kreislaufwirtschaftsstrategie" (NKWS) vor. Er basiert auf Dialogprozessen mit einer Vielzahl von Akteur\*innen, an denen sich auch die OKF beteiligt hat. Parallel zur Ressortabstimmung der Regierung und Einbindung der Länder gibt es bis zum 9. Juli die Möglichkeit zur schriftlichen Stellungnahme. Die Verabschiedung der NKWS im Kabinett ist für Herbst dieses Jahres geplant.
 
