@@ -15,7 +15,7 @@ featured: blue
 title: "Das war die re:publica 2024: Unser Recap"
 ---
 
-Vom 27. - 29.05.2024 fand in Berlin die **re:publica** statt - das Festival für die digitale Gesellschaft! Die OKF war mit vielen verschiedenen [Themen und Formaten](https://okfn.de/blog/2024/05/triffdieokfaufderrepublica24/) dabei. Während unseres Programms haben wir uns mit Expert*innen aus verschiedenen Bereichen ausgetauscht, führten zahlreiche spannende Gespräche und konnten dem Publikum unsere Projekte vorstellen. Hier könnt ihr einen kurzen Recap unserer Zeit vor Ort nachlesen:
+Vom 27. - 29.05.2024 fand in Berlin die **re:publica** statt - das Festival für die digitale Gesellschaft! Die OKF war mit vielen verschiedenen [Themen und Formaten](https://okfn.de/blog/2024/05/triffdieokfaufderrepublica24/) dabei. Während unseres Programms haben wir uns mit Expert:innen aus verschiedenen Bereichen ausgetauscht, führten zahlreiche spannende Gespräche und konnten dem Publikum unsere Projekte vorstellen. Hier könnt ihr einen kurzen Recap unserer Zeit vor Ort nachlesen:
 
 ## Jugend hackt
 
@@ -33,7 +33,7 @@ Geschäftsführerin Henriette Litta diskutierte mit Steffi Lemke, Bundesminister
 * so viele Leute wie möglich erreichen, also auch marginalisierte und benachteiligte Gruppen der Gesellschaft
 * durch Technologie positive Möglichkeiten eröffnen, d. h. mit Technologie einen besseren Zugang zur gesellschaftlichen Teilhabe gestalten (Barrierefreiheit, Diskriminierungsschutz, einfache Sprache, Mehrsprachigkeit, Niedrigschwelligkeit, Sichtbarmachung durch Daten)
 * mehr Austausch mit der Zivilgesellschaft, mehr Beratung anbieten und sie als kompetente Partnerin verstehen
-* zukünftig mehr Pläne zu unter anderem: nachhaltiger und gerechter KI, Open Source Ökosysteme vergrößern und europäisch stärken, Privatsphäre sichern, Journalist*innen schützen, den freien Zugang zu Wissen und Bildung stärken, da diese fundamental für die Förderung einer informierten und mündigen Gesellschaft sind
+* zukünftig mehr Pläne zu unter anderem: nachhaltiger und gerechter KI, Open Source Ökosysteme vergrößern und europäisch stärken, Privatsphäre sichern, Journalist:innen schützen, den freien Zugang zu Wissen und Bildung stärken, da diese fundamental für die Förderung einer informierten und mündigen Gesellschaft sind
 
 ![Henriette Litta mit Steffi Lemke](/files/blog/2024/Republica24-F5-Dienstag-108.jpg) 
 Foto: Ekvidi, Lizenz: CC BY-SA 4.0
