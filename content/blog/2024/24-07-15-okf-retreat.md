@@ -1,7 +1,7 @@
 ---
 authors:
 - OKF DE
-date: 2024-07-11
+date: 2024-07-15
 image: 
   src: /files/blog/2024/2024-07-04-Republica24-F5.jpg
   license: CC-BY SA 4.0
