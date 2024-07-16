@@ -10,6 +10,15 @@
   <id>https://okfn.de</id>
   
   <entry>
+    <title>Global efforts to strengthen open source concepts – Insights from the OSPO conference at the United Nations</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/07/ospo-en/"/>
+    <id>https://okfn.de/blog/2024/07/ospo-en/</id>
+    <published>2024-07-16T00:00:00+0000</published>
+    <updated>2024-07-16T00:00:00+0000</updated>
+    <summary>Last week, the second edition of the conference Open Source Programme Offices for Good (#OSPOsForGood) took place in New York. At the invitation of the United Nations (UN), around 450 open source enthusiasts from all over the world traveled to the event - a huge success for the organizers, as there were around 80 participants in 2023. It was about nothing less than the role of open source software in achieving the Sustainable Development Goals - i.</summary>
+  </entry>
+  
+  <entry>
     <title>Globale Anstrengungen zur Stärkung von Open Source Ansätzen – Eindrücke von der OSPO-Konferenz bei den Vereinten Nationen</title>
     <link rel="alternate" href="https://okfn.de/blog/2024/07/ospo-deu/"/>
     <id>https://okfn.de/blog/2024/07/ospo-deu/</id>
@@ -147,16 +156,6 @@ In vielen KI-Systemen werden derzeit Large Language Models (LLMs) verwendet. Die
     <updated>2024-02-03T00:00:00+0000</updated>
     <summary>Wir haben das Recht, ein paar Geräte reparieren zu lassen, aber nicht auf technische Informationen oder Ersatzteile, um es selbst zu tun.
 Am vergangenen Dienstag hat das EU-Parlament nach langem Prozess das sogenannte &amp;ldquo;Recht auf Reparatur&amp;rdquo; verabschiedet. Anfang 2024 wurde im Rahmen der Trilogverhandlungen ein Kompromiss ausgehandelt. Im Kern gibt es uns als Kaufende das Recht, auch außerhalb der Gewährleistung die Reparatur des Gegenstandes einzufordern, sofern die Reparatur nicht &amp;ldquo;unmöglich&amp;rdquo; ist.</summary>
-  </entry>
-  
-  <entry>
-    <title>Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/04/f5-forderungen-dmk/"/>
-    <id>https://okfn.de/blog/2024/04/f5-forderungen-dmk/</id>
-    <published>2024-04-18T00:00:00+0000</published>
-    <updated>2024-04-18T00:00:00+0000</updated>
-    <summary>Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor Berlin, 18.04.2024
-Das zivilgesellschaftliche Bündnis F5, bestehend aus den Organisationen AlgorithmWatch, Gesellschaft für Freiheitsrechte e.V., Open Knowledge Foundation Deutschland, Reporter ohne Grenzen und Wikimedia Deutschland, begrüßt die Ziele der ersten Digitalministerkonferenz und stellt seine Forderungen für einen echten Perspektivwechsel in der Digitalpolitik vor. F5 betont die Notwendigkeit einer gemeinwohlorientierten digitalen Transformation, die nachhaltig gestaltet und gleichzeitig eng an gesellschaftliche Ziele geknüpft werden muss, um unsere demokratische Gesellschaft in ihrem Fundament zu stärken und zukunftsfähig zu machen.</summary>
   </entry>
   
 </feed>
