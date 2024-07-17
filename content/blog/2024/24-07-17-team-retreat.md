@@ -34,7 +34,7 @@ Von Kochen bis gemeinsamen Spaziergängen: Unsere Aktivitäten zielen darauf ab,
 
 ## Zukunftsvisionen
 
-Die Zukunftsplanung stand im Zentrum: Das Unser Policy-Team Team sammelte Forderungen und Wünsche für die Bundestagswahlen aus allen Projekten. Als kleiner Verein mit komplexer Governance-Struktur ist unsere ständige Herausforderung, neue Mitarbeiter:innen genauso einzubinden wie „alte Hasen“, die schon lange dabei sind. Auf dem Retreat beschäftigten wir uns mit expliziten und impliziten Machtstrukturen innerhalb unserer Organisation, um Hürden abzubauen und Zugang zu Macht zu ebnen.
+Die Zukunftsplanung stand im Zentrum: Unser Policy-Team sammelte Forderungen und Wünsche für die Bundestagswahlen aus allen Projekten. Als kleiner Verein mit komplexer Governance-Struktur ist unsere ständige Herausforderung, neue Mitarbeiter:innen genauso einzubinden wie „alte Hasen“, die schon lange dabei sind. Auf dem Retreat beschäftigten wir uns mit expliziten und impliziten Machtstrukturen innerhalb unserer Organisation, um Hürden abzubauen und Zugang zu Macht zu ebnen.
 
 ![Session: Governance-Strukturen](/files/blog/2024/2024-07-15-retreat5.jpeg)
 
