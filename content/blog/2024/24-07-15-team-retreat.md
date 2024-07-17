@@ -9,12 +9,10 @@ tags:
 - Brandenburg
 type: post
 layout: post
-published: false
+published: true
 featured: blue
-title: "Jährliches OKF Retreat in Stechlin: Teamgeist, Visionen und Natur"
+title: "Team-Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen"
 ---
-
-## Team-Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen
 
 ## Team-Retreat
 
