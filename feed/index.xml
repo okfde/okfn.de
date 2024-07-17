@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Team-Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen</title>
+      <link>https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/</guid>
+      <description>Team-Retreat Auch dieses Jahr hat sich die OKF wieder auf den Weg nach Stechlin gemacht: In Brandenburg fand sich unser Team bei einem Retreat zusammen, um gemeinsam an Themen und Visionen zu arbeiten. Auf unserer Agenda standen dieses Mal unter anderem: Governance-Strukturen, Instrumente zu mehr Partizipationsmöglichkeiten, Stärkung der Mitarbeiter:innen und die Reflexion der Veränderung des Vereins über die letzten Jahre.
+Natur Das Stechlin-Institut, 80 km nördlich von Berlin, wird als inklusiver Ort Menschen bereitgestellt, die sich für eine offene Gesellschaft einsetzen und mit ihren Idealen die Welt aktiv verändern: „Wir haben am Stechlin-Institut einen Raum geschaffen, der die Sinne schärft, sensibilisiert, erinnert, Verantwortung zu übernehmen für sein [da]sein, den anderen und sich selbst.</description>
+    </item>
     
     <item>
       <title>Global efforts to strengthen open source concepts – Insights from the OSPO conference at the United Nations</title>
@@ -26,16 +36,6 @@
       
       <guid>https://okfn.de/blog/2024/07/ospo-deu/</guid>
       <description>Letzte Woche fand die zweite Auflage der Konferenz Open Source Programme Offices for Good (#OSPOsForGood) in New York statt. Auf Einladung der Vereinten Nationen (UN) reisten etwa 450 Open-Source-Enthusiast:innen aus aller Welt an - ein Riesenerfolg für die Veranstalter:innen, waren es 2023 noch rund 80 Teilnehmende. Es ging um nichts weniger als die Rolle von Open Source Software für die Erreichung der Sustainable Development Goals - also Weltrettung, Kernaufgabe der UN.</description>
-    </item>
-    
-    <item>
-      <title>Team-Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen</title>
-      <link>https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/</guid>
-      <description>Team-Retreat Auch dieses Jahr hat sich die OKF wieder auf den Weg nach Stechlin gemacht: In Brandenburg fand sich unser Team bei einem Retreat zusammen, um gemeinsam an Themen und Visionen zu arbeiten. Auf unserer Agenda standen dieses Mal unter anderem: Governance-Strukturen, Instrumente zu mehr Partizipationsmöglichkeiten, Stärkung der Mitarbeiter:innen und die Reflexion der Veränderung des Vereins über die letzten Jahre.
-Natur Das Stechlin-Institut, 80 km nördlich von Berlin, wird als inklusiver Ort Menschen bereitgestellt, die sich für eine offene Gesellschaft einsetzen und mit ihren Idealen die Welt aktiv verändern: „Wir haben am Stechlin-Institut einen Raum geschaffen, der die Sinne schärft, sensibilisiert, erinnert, Verantwortung zu übernehmen für sein [da]sein, den anderen und sich selbst.</description>
     </item>
     
     <item>

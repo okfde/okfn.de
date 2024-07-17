@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,17 +268,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2024/07/ospo-en/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2024/07/ospo-deu/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/brandenburg/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -290,14 +284,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/open-source/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf-de/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/sustainable-development/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/retreat/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -309,20 +303,26 @@
                 href="https://okfn.de/tags/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/united-nations/</loc>
+    <loc>https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2024/07/ospo-en/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/brandenburg/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2024/07/ospo-deu/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/okf-de/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/retreat/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-source/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/sustainable-development/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/united-nations/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
