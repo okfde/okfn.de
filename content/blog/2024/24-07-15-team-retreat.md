@@ -14,7 +14,7 @@ featured: blue
 title: "Jährliches OKF Retreat in Stechlin: Teamgeist, Visionen und Natur"
 ---
 
-## OKF Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen
+## Team-Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen
 
 ## Team-Retreat
 
