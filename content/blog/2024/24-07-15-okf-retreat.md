@@ -22,7 +22,7 @@ Auch dieses Jahr hat sich die OKF wieder auf den Weg nach Stechlin gemacht: In B
 
 ## Die Natur als Ort der Sinnesschärfung
 
-Das Stechlin-Institut, 80 km nördlich von Berlin, wird als inklusiver Ort Menschen bereitgestellt, die sich für eine offene Gesellschaft einsetzen und mit ihren Idealen die Welt aktiv verändern: *„Wir haben am Stechlin-Institut einen Raum geschaffen, der die Sinne schärft, sensibilisiert, erinnert, Verantwortung zu übernehmen für sein [da]sein, den anderen und sich selbst. Nicht nur den Menschen zentral zu sehen, sondern sich einzufügen in das komplexe System Erde und demutsvoll zurückzunehmen, paritätisch neben allem Lebendigen eingebettet in eine vergehende, noch immer intakt scheinende Natur.“*, schreibt das Institut selbst auf deren Website. 
+Das Stechlin-Institut, 80 km nördlich von Berlin, wird als inklusiver Ort Menschen bereitgestellt, die sich für eine offene Gesellschaft einsetzen und mit ihren Idealen die Welt aktiv verändern: *„Wir haben am Stechlin-Institut einen Raum geschaffen, der die Sinne schärft, sensibilisiert, erinnert, Verantwortung zu übernehmen für sein [da]sein, den anderen und sich selbst. Nicht nur den Menschen zentral zu sehen, sondern sich einzufügen in das komplexe System Erde und demutsvoll zurückzunehmen, paritätisch neben allem Lebendigen eingebettet in eine vergehende, noch immer intakt scheinende Natur.“*, schreibt das Institut selbst auf seiner Website. 
 
 ![OKF Retreat](/files/blog/2024/2024-07-15-retreat2.jpeg) 
 
@@ -30,20 +30,21 @@ Als Verein, der sich mit verschiedenen Projekten maßgeblich für mehr Zugang zu
 
 ## Teambuilding
 
-Von Kochen bis gemeinsamen Spaziergängen: Unsere Aktivitäten zielen darauf ab, das Vertrauen und die Zusammenarbeit innerhalb des Teams zu stärken. Nina Schröter von Jugend Hackt betont: „Wir haben das Retreat vom Personalzirkel aus mit geplant und dabei war uns besonders wichtig, dass es auch viel Zeit und Gelegenheit gibt, als Team zusammen zu wachsen. Deswegen sind uns Momente wie die Pausen am See, das gemeinsame Kochen und die geselligen Abende auch total wichtig - das Teambuilding findet ja oft gerade in den Momenten statt, in denen man nicht explizit "arbeitet.“
+Von Kochen bis gemeinsamen Spaziergängen: Unsere Aktivitäten zielen darauf ab, das Vertrauen und die Zusammenarbeit innerhalb des Teams zu stärken. Nina Schröter von Jugend Hackt betont: „Wir haben das Retreat vom Personalzirkel aus mit geplant und dabei war uns besonders wichtig, dass es auch viel Zeit und Gelegenheit gibt, als Team zusammenzuwachsen. Deswegen sind uns Momente wie die Pausen am See, das gemeinsame Kochen und die geselligen Abende auch total wichtig - das Teambuilding findet ja oft gerade in den Momenten statt, in denen man nicht explizit "arbeitet.“
 
 ![OKF Retreat](/files/blog/2024/2024-07-15-retreat3.jpeg) 
 
 ## Zukunftsvisionen
 
-Die Zukunftsplanung stand im Zentrum: Das Team plante Forderungen und Wünsche für die Bundestagswahlen, außerdem beschäftigten sich die Teammitglieder mit Machtstrukturen innerhalb des Vereins, darüber hinaus für ein inklusives Miteinander und die Stärkung der Zufriedenheit von Mitarbeiter*innen. Unsere zwei Tage im Stechlin-Institut haben viele Ergebnisse geliefert, mit denen wir im Lauf des Jahres konkret weiterarbeiten werden; von einigen Gesprächen und Erlebnissen werden wir indirekt profitieren, durch verbesserte Zusammenarbeit und gestärkte Beziehungen. 
-Während des Retreats 2024 zur Diskussion von Machtstrukturen hat sich herausgestellt, dass die Teilnehmer:innen gezielt frühere Diskurse aufgenommen und schneller besprochen haben. Möglicherweise hat auch die veränderte Einführung der Session zu dieser stärkeren Fokussierung beigetragen. Unterschiede zwischen „alten Hasen“ und neuen Mitarbeiter:innen.
+Die Zukunftsplanung stand im Zentrum: Das Team plante Forderungen und Wünsche für die Bundestagswahlen, außerdem beschäftigten sich die Teammitglieder mit Machtstrukturen innerhalb des Vereins, darüber hinaus für ein inklusives Miteinander und die Stärkung der Zufriedenheit von Mitarbeiter*innen. Unsere zwei Tage im Stechlin-Institut haben viele Ergebnisse geliefert, mit denen wir im Lauf des Jahres konkret weiterarbeiten werden; von einigen Gesprächen und Erlebnissen werden wir indirekt profitieren, durch verbesserte Zusammenarbeit und gestärkte Beziehungen. Während der Diskussion von Machtstrukturen hat sich herausgestellt, dass die Teilnehmer:innen gezielt frühere Diskurse aufgenommen und schneller besprochen haben. Möglicherweise hat auch die veränderte Einführung der Session zu dieser stärkeren Fokussierung beigetragen.
 
-Die Unterschiede zwischen langjährigen Mitgliedern („alten Hasen“) und neuen Kolleg*innen wurden diskutiert. Während beim Retreat 2021 der Fokus auf Faktoren wie Insider-Wissen, Szenekenntnis und Zugehörigkeit zur Szene lag, wurde 2024 explizit das Dienstalter innerhalb der OKF hervorgehoben. Diesen Unterschied zwischen den „alten Hasen“ und neuen Mitgliedern gilt es zu adressieren und Hürden mit gezielten Instrumenten, wie zum Beispiel dem Handbuch und das Onboarding für neue Mitarbeiter:innen, abzubauen, um den Zugang zu Macht zu ebnen. Die Wichtigkeit der einzelnen Themen konnten die Teammitglieder selbst bestimmten, sodass wir diese zeitnah anpacken können.
+## Unterschiede zwischen „alten Hasen“ und neuen Mitarbeiter:innen
+
+Die Unterschiede zwischen langjährigen Mitgliedern („alten Hasen“) und neuen Mitarbeiter:innen wurden diskutiert. Während beim Retreat 2021 der Fokus auf Faktoren wie Insider-Wissen, Szenekenntnis und Zugehörigkeit zur Szene lag, wurde 2024 explizit das Dienstalter innerhalb der OKF hervorgehoben. Diesen Unterschied zwischen den „alten Hasen“ und neuen Mitgliedern gilt es zu adressieren und Hürden mit gezielten Instrumenten, wie zum Beispiel dem Handbuch und Onboarding für neue Mitarbeiter:innen, abzubauen, um den Zugang zu Macht zu ebnen. Die Wichtigkeit der einzelnen Themen konnten die Teammitglieder selbst bestimmen, sodass wir diese zeitnah anpacken können.
 
 ![OKF Retreat](/files/blog/2024/2024-07-15-retreat5.jpeg)
 
-Wir kommen wieder!
+## Wir kommen wieder!
 
 *Das Retreat ist auch für das Jahr 2025 wieder in Planung! Wir freuen uns auf die gemeinsame Zeit und neuen Input.*
 
