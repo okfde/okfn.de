@@ -6,7 +6,7 @@ img_header: /okf/social-og/transparenz-social-og.png
 
 ### Name, registered office, address and year of incorporation
 
-Open Knowledge Foundation Deutschland e.V. <br>
+Open Knowledge Foundation Deutschland e. V. <br>
 Singerstr. 109 | D-10179 Berlin <br>
 
 Year of incorporation: 2011 <br>
