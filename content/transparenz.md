@@ -6,7 +6,7 @@ img_header: /okf/social-og/transparenz-social-og.png
 
 ### Name, Sitz, Anschrift und Gründungsjahr
 
-Open Knowledge Foundation Deutschland e.V. <br>
+Open Knowledge Foundation Deutschland e. V. <br>
 Singerstr. 109 | D-10179 Berlin <br>
 
 Gründungsjahr: 2011 <br>
