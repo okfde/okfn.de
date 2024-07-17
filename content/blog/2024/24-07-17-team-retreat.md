@@ -1,7 +1,7 @@
 ---
 authors:
 - OKF DE
-date: 2024-07-15
+date: 2024-07-17
 image: 
   src: /files/blog/2024/2024-07-15-retreat1.jpeg
 tags:
