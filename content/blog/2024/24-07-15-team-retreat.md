@@ -30,7 +30,7 @@ Als Verein, der sich mit verschiedenen Projekten maßgeblich für mehr Zugang zu
 
 ## Teambuilding
 
-Von Kochen bis gemeinsamen Spaziergängen: Unsere Aktivitäten zielen darauf ab, das Vertrauen und die Zusammenarbeit innerhalb des Teams zu stärken. Nina Schröter von Jugend hackt, die als Mitglied unserers Personalzirkels an der Programmplanung beteiligt war, betont: „Es war uns besonders wichtig, dass es auch viel Zeit und Gelegenheit gibt, als Team zusammenzuwachsen. Deswegen sind uns Momente wie die Pausen am See, das gemeinsame Kochen und die geselligen Abende auch total wichtig - das Teambuilding findet ja oft gerade in den Momenten statt, in denen man nicht explizit 'arbeitet'.“
+Von Kochen bis gemeinsamen Spaziergängen: Unsere Aktivitäten zielen darauf ab, das Vertrauen und die Zusammenarbeit innerhalb des Teams zu stärken. Nina Schröter von Jugend hackt, die als Mitglied unserers Personalzirkels an der Programmplanung beteiligt war, betont: *„Es war uns besonders wichtig, dass es auch viel Zeit und Gelegenheit gibt, als Team zusammenzuwachsen. Deswegen sind uns Momente wie die Pausen am See, das gemeinsame Kochen und die geselligen Abende auch total wichtig - das Teambuilding findet ja oft gerade in den Momenten statt, in denen man nicht explizit 'arbeitet'.“*
 
 ![Großer Stechlinsee](/files/blog/2024/2024-07-15-retreat3.jpeg) 
 
