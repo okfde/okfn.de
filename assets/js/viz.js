@@ -189,7 +189,7 @@ function incomesHelper (containerSelector, dataPath, barHeight) {
         return magicSpacing;
       })
       .attr('y', function(d, i) {
-        return i * Math.floor(height/ countData) + barOffset;
+        return yScale(d.item) + yScale.bandwidth()/2 - barHeight/2;
       })
       .attr('fill', '#382eff')
       .on('mouseover', tip.show)
