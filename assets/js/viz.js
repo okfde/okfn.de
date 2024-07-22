@@ -125,7 +125,7 @@ function incomesHelper (containerSelector, dataPath, barHeight) {
     svg.append('svg:title').text("Aufschlüsselung der Einnahmen nach " + data[0].category);
 
     var maxPercentage = d3.max(data, function (d, i) {
-      return parseInt(d.percentage, 10);
+      return parseFloat(d.percentage, 10);
     });
     // and I would have gotten through with it,
     // if it weren't for those dynamic types!
