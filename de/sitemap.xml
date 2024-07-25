@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -254,6 +254,38 @@
                 hreflang="de"
                 href="https://okfn.de/authors/"
                 />
+  </url><url>
+    <loc>https://okfn.de/jobs/ptf-eventmanagement/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
+                />
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/patricia-leu/</loc>
+    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
@@ -270,19 +302,6 @@
   </url><url>
     <loc>https://okfn.de/tags/brandenburg/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/okf-de/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
@@ -572,19 +591,6 @@
   </url><url>
     <loc>https://okfn.de/authors/walter-palmetshofer/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
@@ -881,9 +887,6 @@
   </url><url>
     <loc>https://okfn.de/publikationen/2022_bitsundb%C3%A4ume_forderungen/</loc>
     <lastmod>2022-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/patricia-leu/</loc>
-    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/08/ptf-runde-13/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
