@@ -73,4 +73,4 @@ Weil die Stelle für 50 % Arbeitszeit und sechs Monate Laufzeit ausgeschrieben i
 * Ort: Unser Büro ist in Berlin.
 * Befristung: Die Stelle ist zum 30.04.2025 befristet. Nach aktuellem Stand besteht keine Aussicht auf Verlängerung der Stelle.
 
-Sende deine Unterlagen (Anschreiben, Lebenslauf ohne Foto, relevante Zeugnisse) bitte in einem PDF-Dokument per E-Mail an jobs@okfn.de. Fragen zur Stelle und zum Bewerbungsprozess kannst du jederzeit auch an diese Adresse richten. Wir planen, die Bewerbungsgespräche in der 37. oder 39. Kalenderwoche durchzuführen. Mit einer Rückmeldung auf deine Bewerbung ist um diesen Zeitraum zu rechnen.
+Sende deine Unterlagen (Anschreiben, Lebenslauf ohne Foto, relevante Zeugnisse) bitte in einem PDF-Dokument per E-Mail an bewerbung@prototypefund.de. Fragen zur Stelle und zum Bewerbungsprozess kannst du jederzeit auch an diese Adresse richten. Wir planen, die Bewerbungsgespräche in der 37. oder 39. Kalenderwoche durchzuführen. Mit einer Rückmeldung auf deine Bewerbung ist um diesen Zeitraum zu rechnen.
