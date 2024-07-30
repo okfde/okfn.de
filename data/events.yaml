@@ -166,3 +166,15 @@
   startdate: "2024-08-01"
   venue: Berlin
   show: true
+- name: Protoype Fund Demo Day
+  url: https://prototypefund.de/demo-day/
+  enddate:
+  startdate: "2024-09-03"
+  venue: bUm, Berlin
+  show: true
+- name: Acht Jahre Prototype Fund
+  url: https://prototypefund.de/acht-jahre/
+  enddate:
+  startdate: "2025-03-29"
+  venue: Festsaal Kreuzberg, Berlin
+  show: true
