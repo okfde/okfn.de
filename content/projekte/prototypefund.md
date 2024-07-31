@@ -19,12 +19,12 @@ people:
     role: Co-Projektleitung - Schwerpunkt Kommunikation und Projektmanagement
   - name: Marie Kreil
     role: Co-Projektleitung - Schwerpunkt Projektmanagement und Events
-  - name: Claudia Jach
-    role: Sophia Schulze Schleithoff
-  - name: Francesca Giacco
-    role: Studentische Mitarbeiterin
+  - name: Sophia Schulze Schleithoff
+    role: Begleitforschung
   - name: Paul Robben
-    role: Kommunikation und Projektmanagement
+    role: Kommunikation und Öffentlichkeitsarbeit
+  - name: Marie-Lena Wiese
+    role: Projektbetreuung
 financing:
   - BMBF
 contact_person: patricialeu
