@@ -19,12 +19,12 @@ people:
   - name: Patricia Leu
     role: Project Co-Leadership
   - name: Sophia Schulze Schleithoff
-    role: Research
-  - name: Francesca Giacco
-    role: Student Assistant
+    role: Accompanying Research
   - name: Paul Robben
     role: Communication and project management
-financing:
+  - name: Marie-Lena Wiese
+    role: Program Management
+Financing:
   - BMBF
 contact_person: patricialeu
 contact_alternate_email: info@prototypefund.de
