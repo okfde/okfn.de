@@ -22,9 +22,8 @@ Wie zum Beispiel zum Lab Moers: die Jugendlichen erwartet ein neuntägiges Abent
 
 ## Angebote im August
 
-Hier sind einige der spannenden Veranstaltungen in den Jugend hackt Labs im August:
+Hier sind einige der spannenden Veranstaltungen in den Labs:
 
-3. August **Wülfrath** - Open Lab
 6. August **Heilbronn** - Workshop: Microcontroller und Sensoren
 6. bis 16. August **Moers** - Ferien-Lab
 7. August **Görlitz** - Open Lab
