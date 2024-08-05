@@ -25,22 +25,33 @@ Wie zum Beispiel zum Lab in Moers vom 6. bis 16. August: die Jugendlichen erwart
 Hier sind einige der spannenden Veranstaltungen in den Labs:
 
 **Heilbronn** - 6. August, Workshop: Microcontroller und Sensoren
+
 **Moers** - 6. bis 16. August, Ferien-Lab
+
 **Görlitz** - 7. August, Open Lab
+
 **Dresden** - 7. August, Open Lab
+
 **Berlin** - 9. August, Löte dein eigenes Alpaka!
 
 **Erfurt** - 15. August, Open Lab
+
 **Schwerin** - 17. August, Workshop: OpenStreetMap
+
 **Wülfrath** - 17. August Open Lab
 
 **Berlin** - 19. August, Ausflug zum Teilchenbeschleuniger Bessy II
+
 **Görlitz** - 21. August, Open Lab
+
 **Dresden** - 21. August, Tag des offenen Labs
+
 **Berlin** - 24. August, Data Science für Anfänger*innen
 
 **Münster** - 27. August, Open Lab
+
 **Berlin** - 30. August, Bau deine automatische Gießmaschine
+
 **Neu-Ulm** - 31. August, Workshop (Thema folgt)
 
 Die großen Sommerferien sind die perfekte Zeit, um neue Dinge auszuprobieren und sich weiterzuentwickeln. Bei Jugend hackt bieten die verschiedenen Labs die idealen Voraussetzungen dafür. Ob in Moers, Münster oder Berlin – überall warten aufregende Programme darauf, entdeckt zu werden. Nutzt die Gelegenheit und taucht ein in die Welt der Technologie. Auf  tolle Sommerferien voller Spaß und Wissen!
