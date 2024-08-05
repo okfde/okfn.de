@@ -81,4 +81,4 @@ Der August ist außerdem ein guter Monat, um schon mal die Termine im Herbst vor
 
 Mehr Informationen unter: [www.jugendhackt.org](https://jugendhackt.org/)
 
-![](/files/blog/2024/JH-Illustration-Computer-4C.svg) 
+![](/files/blog/2024/JH-Illustration-Computer-4C.jpeg) 
