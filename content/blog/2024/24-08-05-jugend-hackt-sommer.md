@@ -43,6 +43,6 @@ Hier sind einige der spannenden Veranstaltungen in den Labs:
 30. August **Berlin** - Bau deine automatische Gießmaschine
 31. August **Neu-Ulm** - Workshop (Thema folgt)
 
-*In letzter Minute kann es noch zu Änderungen kommen. Im [Online-Kalender](https://jugendhackt.org/kalender/) sollte am Tag der Veranstaltung nachgeschaut werden, ob der angekündigte Termin wie geplant stattfindet.* Wir hoffen, einige auf den Events anzutreffen! :-)
+*In letzter Minute kann es noch zu Änderungen kommen. Im [Online-Kalender](https://jugendhackt.org/kalender/) sollte am Tag der Veranstaltung nachgeschaut werden, ob der angekündigte Termin wie geplant stattfindet.* Wir hoffen, einige auf den Events anzutreffen!
 
  ![Session: Policy](/files/blog/2024/2024-07-15-retreat2.jpeg) 
