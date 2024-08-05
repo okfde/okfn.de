@@ -24,27 +24,48 @@ Wie zum Beispiel zum Lab in Moers vom 6. bis 16. August: die Jugendlichen erwart
 
 Hier sind einige der spannenden Veranstaltungen in den Labs:
 
-6. August **Heilbronn** - Workshop: Microcontroller und Sensoren
-6. bis 16. August **Moers** - Ferien-Lab
-7. August **Görlitz** - Open Lab
-7. August **Dresden** - Open Lab
-9. August **Berlin** - Löte dein eigenes Alpaka!
+**Heilbronn** - 6. August, Workshop: Microcontroller und Sensoren
+**Moers** - 6. bis 16. August, Ferien-Lab
+**Görlitz** - 7. August, Open Lab
+**Dresden** - 7. August, Open Lab
+**Berlin** - 9. August, Löte dein eigenes Alpaka!
 
-15. August **Erfurt** - Open Lab
-17. August **Schwerin** - Workshop: OpenStreetMap
-17. August **Wülfrath** - Open Lab
+**Erfurt** - 15. August, Open Lab
+**Schwerin** - 17. August, Workshop: OpenStreetMap
+**Wülfrath** - 17. August Open Lab
 
-19. August **Berlin** - Ausflug zum Teilchenbeschleuniger Bessy II
-21. August **Görlitz** - Open Lab
-21. August **Dresden** - Tag des offenen Labs
-24. August **Berlin** - Data Science für Anfänger*innen
+**Berlin** - 19. August, Ausflug zum Teilchenbeschleuniger Bessy II
+**Görlitz** - 21. August, Open Lab
+**Dresden** - 21. August, Tag des offenen Labs
+**Berlin** - 24. August, Data Science für Anfänger*innen
 
-27. August **Münster** - Open Lab
-30. August **Berlin** - Bau deine automatische Gießmaschine
-31. August **Neu-Ulm** - Workshop (Thema folgt)
+**Münster** - 27. August, Open Lab
+**Berlin** - 30. August, Bau deine automatische Gießmaschine
+**Neu-Ulm** - 31. August, Workshop (Thema folgt)
 
 Die großen Sommerferien sind die perfekte Zeit, um neue Dinge auszuprobieren und sich weiterzuentwickeln. Bei Jugend hackt bieten die verschiedenen Labs die idealen Voraussetzungen dafür. Ob in Moers, Münster oder Berlin – überall warten aufregende Programme darauf, entdeckt zu werden. Nutzt die Gelegenheit und taucht ein in die Welt der Technologie. Auf  tolle Sommerferien voller Spaß und Wissen!
 
 *In letzter Minute kann es noch zu Änderungen kommen. Im [Online-Kalender](https://jugendhackt.org/kalender/) sollte am Tag der Veranstaltung nachgeschaut werden, ob der angekündigte Termin wie geplant stattfindet.* Wir hoffen, einige bei den Labs anzutreffen!
+
+## Angebote im Herbst
+
+Der August ist außerdem ein guter Monat, um schon mal die Termine im Herbst vorzumerken, denn so weit sind September und Oktober ja doch nicht entfernt – und wer sich jetzt nicht anmeldet, kommt vielleicht zu spät. 
+
+**Köln** - 6. bis 8. September (Anmeldung bis 18. August)
+
+**Hamburg** - 20. bis 22. September (Anmeldung bis 6. September)
+
+**Berlin** - 3. bis 6. Oktober (Anmeldung weiterhin offen, aber nur noch wenige Plätze frei!)
+
+**Dresden** - 26. Oktober, MINTA*-Hackday (jetzt anmelden)
+
+Alpaka-Community-Treffen: 15. bis 17. November (jetzt anmelden)
+
+
+## Vorschau für Ende des Jahres
+
+**München** - 15. bis 17. November
+
+**Dresden** - 7. Dezember, Lange Nacht des Hackens
 
 Mehr Informationen unter: [www.jugendhackt.org](https://jugendhackt.org/)
