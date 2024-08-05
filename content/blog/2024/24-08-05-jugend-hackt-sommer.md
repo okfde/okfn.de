@@ -9,7 +9,7 @@ tags:
 - Termine
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Sommer bei Jugend hackt: Ein buntes Programm für junge Hacker*innen"
 ---
