@@ -45,6 +45,6 @@ Hier sind einige der spannenden Veranstaltungen in den Labs:
 
 Die großen Sommerferien sind die perfekte Zeit, um neue Dinge auszuprobieren und sich weiterzuentwickeln. Bei Jugend hackt bieten die verschiedenen Labs die idealen Voraussetzungen dafür. Ob in Moers, Münster oder Berlin – überall warten aufregende Programme darauf, entdeckt zu werden. Nutzt die Gelegenheit und taucht ein in die Welt der Technologie. Auf  tolle Sommerferien voller Spaß und Wissen!
 
-*In letzter Minute kann es noch zu Änderungen kommen. Im [Online-Kalender](https://jugendhackt.org/kalender/) sollte am Tag der Veranstaltung nachgeschaut werden, ob der angekündigte Termin wie geplant stattfindet.* Wir hoffen, einige auf den Events anzutreffen!
+*In letzter Minute kann es noch zu Änderungen kommen. Im [Online-Kalender](https://jugendhackt.org/kalender/) sollte am Tag der Veranstaltung nachgeschaut werden, ob der angekündigte Termin wie geplant stattfindet.* Wir hoffen, einige bei den Labs anzutreffen!
 
 Mehr Informationen unter: [www.jugendhackt.org](https://jugendhackt.org/)
