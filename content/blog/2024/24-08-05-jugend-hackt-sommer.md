@@ -16,9 +16,9 @@ title: "Sommer bei Jugend hackt: Ein buntes Programm für junge Hacker*innen"
 
 ## Sommerprogramm-Highlights
 
-Die großen Sommerferien – an einigen Orten beginnen sie gerade und an anderen enden sie schon. Bei Jugend hackt steht daher bei einigen Labs eine Sommerpause an, andere jedoch planen ein volles Ferienprogramm, zu dem wir gerne einladen möchten.
+Die großen Sommerferien – an einigen Orten beginnen sie gerade und an anderen enden sie schon. Diese Zeit des Jahres ist nicht nur eine Phase der Entspannung und Erholung, sondern auch eine Gelegenheit für spannende Aktivitäten und neue Erlebnisse. Bei Jugend hackt steht daher bei einigen Labs eine Sommerpause an, andere jedoch planen ein volles Ferienprogramm, zu dem wir gerne einladen möchten.
 
-Wie zum Beispiel zum Lab Moers: die Jugendlichen erwartet ein neuntägiges Abenteuer mit vielfältigen Angeboten: von Künstlicher Intelligenz und 3D-Scannen über Open Street Map und Cosplay bis hin zu Hardware-Coding. Auch das Lab Berlin hat im August ein prall gefülltes Programm, das sogar eine Führung durch einen stillgelegten Teilchenbeschleuniger umfasst.
+Wie zum Beispiel zum Lab in Moers vom 6. bis 16. August: die Jugendlichen erwartet ein neuntägiges Abenteuer mit vielfältigen Angeboten: von Künstlicher Intelligenz und 3D-Scannen über Open Street Map und Cosplay bis hin zu Hardware-Coding. Auch das Lab Berlin hat im August ein prall gefülltes Programm, das sogar eine Führung durch einen stillgelegten Teilchenbeschleuniger umfasst.
 
 ## Angebote im August
 
@@ -42,6 +42,8 @@ Hier sind einige der spannenden Veranstaltungen in den Labs:
 27. August **Münster** - Open Lab
 30. August **Berlin** - Bau deine automatische Gießmaschine
 31. August **Neu-Ulm** - Workshop (Thema folgt)
+
+Die großen Sommerferien sind die perfekte Zeit, um neue Dinge auszuprobieren und sich weiterzuentwickeln. Bei Jugend hackt bieten die verschiedenen Labs die idealen Voraussetzungen dafür. Ob in Moers, Münster oder Berlin – überall warten aufregende Programme darauf, entdeckt zu werden. Nutzt die Gelegenheit und taucht ein in die Welt der Technologie. Auf  tolle Sommerferien voller Spaß und Wissen!
 
 *In letzter Minute kann es noch zu Änderungen kommen. Im [Online-Kalender](https://jugendhackt.org/kalender/) sollte am Tag der Veranstaltung nachgeschaut werden, ob der angekündigte Termin wie geplant stattfindet.* Wir hoffen, einige auf den Events anzutreffen!
 
