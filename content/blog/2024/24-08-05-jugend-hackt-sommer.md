@@ -58,7 +58,7 @@ Die großen Sommerferien sind die perfekte Zeit, um neue Dinge auszuprobieren un
 
 *In letzter Minute kann es noch zu Änderungen kommen. Im [Online-Kalender](https://jugendhackt.org/kalender/) sollte am Tag der Veranstaltung nachgeschaut werden, ob der angekündigte Termin wie geplant stattfindet.* Wir hoffen, einige bei den Labs anzutreffen!
 
-## Angebote im Herbst
+## Angebote im Herbst — jetzt anmelden!
 
 Der August ist außerdem ein guter Monat, um schon mal die Termine im Herbst vorzumerken, denn so weit sind September und Oktober ja doch nicht entfernt – und wer sich jetzt nicht anmeldet, kommt vielleicht zu spät. 
 
