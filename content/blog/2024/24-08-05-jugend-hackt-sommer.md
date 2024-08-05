@@ -70,7 +70,7 @@ Der August ist außerdem ein guter Monat, um schon mal die Termine im Herbst vor
 
 **Dresden** - 26. Oktober, MINTA*-Hackday (jetzt anmelden)
 
-Alpaka-Community-Treffen: 15. bis 17. November (jetzt anmelden)
+**Hüll** - Alpaka-Community-Treffen: 15. bis 17. November (jetzt anmelden)
 
 
 ## Vorschau für Ende des Jahres
