@@ -80,3 +80,5 @@ Der August ist außerdem ein guter Monat, um schon mal die Termine im Herbst vor
 **Dresden** - 7. Dezember, Lange Nacht des Hackens
 
 Mehr Informationen unter: [www.jugendhackt.org](https://jugendhackt.org/)
+
+![](/files/blog/2024/JH-Illustration-Computer-4C.svg) 
