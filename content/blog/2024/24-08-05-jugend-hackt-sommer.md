@@ -3,7 +3,7 @@ authors:
 - Jugend hackt
 date: 2024-08-05
 image: 
-  src: /files/blog/2024/2024-07-15-retreat1.jpeg
+  src: /files/blog/2024/JH_Logo_Claim_RGB.png
 tags:
 - Jugendhackt
 - Termine
@@ -45,4 +45,4 @@ Hier sind einige der spannenden Veranstaltungen in den Labs:
 
 *In letzter Minute kann es noch zu Änderungen kommen. Im [Online-Kalender](https://jugendhackt.org/kalender/) sollte am Tag der Veranstaltung nachgeschaut werden, ob der angekündigte Termin wie geplant stattfindet.* Wir hoffen, einige auf den Events anzutreffen!
 
- ![Session: Policy](/files/blog/2024/2024-07-15-retreat2.jpeg) 
+Mehr Informationen unter: [www.jugendhackt.org](https://jugendhackt.org/)
