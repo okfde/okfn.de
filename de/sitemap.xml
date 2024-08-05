@@ -242,6 +242,19 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -254,6 +267,12 @@
                 hreflang="de"
                 href="https://okfn.de/blog/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/jugend-hackt/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/jugendhackt/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
@@ -268,18 +287,24 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-07-25T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2024/08/sommer-bei-jugend-hackt-ein-buntes-programm-f%C3%BCr-junge-hackerinnen/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/authors/"
+                href="https://okfn.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/authors/"
+                href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/termine/</loc>
+    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/ptf-eventmanagement/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
@@ -308,19 +333,6 @@
   </url><url>
     <loc>https://okfn.de/tags/retreat/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
@@ -2108,9 +2120,6 @@
     <lastmod>2017-06-29T23:59:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2017/06/erstes-familienlabor/</loc>
-    <lastmod>2017-06-28T07:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/termine/</loc>
     <lastmod>2017-06-28T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/2030watch/</loc>
