@@ -68,6 +68,8 @@ Der August ist außerdem ein guter Monat, um schon mal die Termine im Herbst vor
 
 **Berlin** - 3. bis 6. Oktober (Anmeldung weiterhin offen, aber nur noch wenige Plätze frei!)
 
+**Luzern (CH)** - 11. bis 13. Oktober (jetzt anmelden)
+
 **Dresden** - 26. Oktober, MINTA*-Hackday (jetzt anmelden)
 
 **Hüll** - Alpaka-Community-Treffen: 15. bis 17. November (jetzt anmelden)
@@ -79,6 +81,6 @@ Der August ist außerdem ein guter Monat, um schon mal die Termine im Herbst vor
 
 **Dresden** - 7. Dezember, Lange Nacht des Hackens
 
-Mehr Informationen unter: [www.jugendhackt.org](https://jugendhackt.org/)
+Mehr Informationen unter: [www.jugendhackt.org](https://jugendhackt.org/events/)
 
-![Illustration](/files/blog/2024/JH-Illustration-Computer-4C.jpeg) 
+![Illustration](/files/blog/2024/JH-Illustration-Computer-RGB.png)

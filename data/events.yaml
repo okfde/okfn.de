@@ -130,6 +130,18 @@
   startdate: "2024-10-06"
   venue: Jugendhaus Königstadt
   show: true
+- name: Jugend hackt Luzern 2024
+  url: https://jugendhackt.ch
+  enddate: "2024-10-11"
+  startdate: "2024-10-13"
+  venue: Tüftelwerk
+  show: true
+- name: Jugend hackt MINTA\* Hackday Dresden
+  url: https://jugendhackt.org/events/dresden/
+  enddate: "2024-10-26"
+  startdate: "2024-10-26"
+  venue: Kraftwerk Mitte 3
+  show: true
 - name: Jugend hackt München 2024
   url: https://jugendhackt.org/events/muenchen/
   enddate: "2024-11-15"
