@@ -30,7 +30,7 @@ Foto: Jens Ohlig auf der Bühne
 
 ##  Projekte
 
-Die Projekte, die vorgestellt wurden, reichten von ChatAlly, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, die sich dem Transport von Briefen und Päckchen widmen. DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink, Semantic Documents und StreetComplete haben sich auch vorgestellt.
+Die Projekte, die vorgestellt wurden, reichten von ChatAlly, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, das sich dem Transport von Briefen und Päckchen widmet. DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink, Semantic Documents und StreetComplete haben sich auch vorgestellt.
 
 ![Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj Akuthota (Human Rights Predictor) bei ihrem Panel](/files/blog/2024/PTF-DemoDay-4.jpg)<br>
 Foto: Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj Akuthota (Human Rights Predictor) bei ihrem Panel
@@ -42,4 +42,4 @@ Abgerundet wurde der Tag durch eine lebhafte Diskussion über die Rolle von Tech
 ![Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time.](/files/blog/2024/PTF-DemoDay-5.jpg)<br>
 Foto: Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time.
 
-Der Demo Day zeigt eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bietet einen spannenden Ausblick auf zukünftige Entwicklungen. Wir freuen uns schon auf den nächsten Demo Day im März 2025! Bis dahin könnt ihr euch die Geförderten auf der Website von [Prototype Fund](https://prototypefund.de/projects/) anschauen.
+Der Demo Day zeigt eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bietet einen spannenden Ausblick auf zukünftige Entwicklungen. Wir freuen uns schon auf den nächsten Demo Day im März 2025! Bis dahin könnt ihr euch die Geförderten auf der Website von [Prototype Fund](https://prototypefund.de/projects/) anschauen. Ein herzliches Dankeschön an alle Beteiligten für den tollen Tag!
