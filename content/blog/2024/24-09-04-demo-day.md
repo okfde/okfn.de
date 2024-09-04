@@ -16,14 +16,14 @@ title: "Demo Day von Prototype Fund: Innovationen der 15. Förderrunde im Rampen
 
 ##  Rückblick
 
-Gestern fand der Demo Day des Prototype Funds im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Projekte der 15. Förderrunde ihre Ideen und Lösungen präsentierten. Bei warmen Temperaturen und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse der geförderten Projekte zu entdecken.
+Gestern fand der Demo Day des Prototype Funds im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Projekte der 15. Förderrunde ihre Projekte präsentierten. Bei warmen Temperaturen und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse der geförderten Projekte zu entdecken.
 
 ![Moderator Tobias Schmid auf der Bühne](/files/blog/2024/PTF-DemoDay-1.jpg)<br>
 Foto: Moderator Tobias Schmid auf der Bühne
 
 ##  Programm
 
-Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software für das Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene Vorträge und Panels zu Themen wie freier Software, Technologie für Menschenrechte und innovativen Datenlösungen. Besonders cool war die „Demo Time“, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.
+Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene [Vorträge und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“, bei der die Teilnehmer*innen die Projekte ChatAlly, DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink, Semantic Documents, StreetComplete für iOS und turtlemail interaktiv kennenlernen konnten.
 
 ![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
 Foto: Jens Ohlig auf der Bühne
