@@ -39,7 +39,7 @@ Foto: Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj
 
 Abgerundet wurde der Tag durch eine lebhafte Diskussion über die Rolle von Technologie in unserer Gesellschaft und den Austausch zwischen den Geförderten und dem Publikum. Der Ausklang am Abend bot außerdem eine schöne Gelegenheit, die Eindrücke des Tages in entspannter Atmosphäre zu reflektieren und neue Kontakte zu knüpfen.
 
-![Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time.](/files/blog/2024/PTF-DemoDay-5.jpg)<br>
-Foto: Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time.
+![Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time](/files/blog/2024/PTF-DemoDay-5.jpg)<br>
+Foto: Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time
 
 Der Demo Day zeigt eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bietet einen spannenden Ausblick auf zukünftige Entwicklungen. Wir freuen uns schon auf den nächsten Demo Day im März 2025! Bis dahin könnt ihr euch die Geförderten auf der Website von [Prototype Fund](https://prototypefund.de/projects/) anschauen. Ein herzliches Dankeschön an alle Beteiligten für den tollen Tag!
