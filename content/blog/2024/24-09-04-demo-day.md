@@ -30,7 +30,7 @@ Foto: Jens Ohlig auf der Bühne
 
 ##  Projekte
 
-Die Projekte, die vorgestellt wurden, reichten von ChatAlly, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, das sich dem Transport von Briefen und Päckchen widmet. DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink, Semantic Documents und StreetComplete haben sich auch vorgestellt.
+Die Projekte, die vorgestellt wurden, reichten von ChatAlly, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, das sich dem Transport von Briefen und Päckchen widmet. Außerdem dabei waren: DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink, Semantic Documents und StreetComplete.
 
 ![Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj Akuthota (Human Rights Predictor) bei ihrem Panel](/files/blog/2024/PTF-DemoDay-4.jpg)<br>
 Foto: Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj Akuthota (Human Rights Predictor) bei ihrem Panel
