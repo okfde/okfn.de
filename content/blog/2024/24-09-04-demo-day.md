@@ -37,7 +37,7 @@ Foto: Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj
 
 ##  Abschluss
 
-Abgerundet wurde der Tag durch eine lebhafte Diskussion über die Rolle von Technologie in unserer Gesellschaft und den Austausch zwischen den Geförderten und dem Publikum. Der Ausklang am Abend bot außerdem eine schöne Gelegenheit, die Eindrücke des Tages in entspannter Atmosphäre zu reflektieren und neue Kontakte zu knüpfen.
+Abgerundet wurde der Tag durch eine lebhafte Diskussion über die Rolle von Technologie in unserer Gesellschaft und den Austausch zwischen den Geförderten und dem Publikum. Der Ausklang am Abend bot außerdem eine schöne Gelegenheit, die Eindrücke des Tages in entspannter Atmosphäre zu reflektieren und zu netzwerken.
 
 ![Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time](/files/blog/2024/PTF-DemoDay-5.jpg)<br>
 Foto: Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time
