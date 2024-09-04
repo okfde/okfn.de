@@ -15,7 +15,7 @@
     <id>https://okfn.de/en/finanzierung/entwicklung/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary> </summary>
+    <summary>&lt;div class=&#34;entwicklung&#34;&gt;&lt;/div&gt;</summary>
   </entry>
   
   <entry>
@@ -24,7 +24,8 @@
     <id>https://okfn.de/en/finanzierung/ausgaben/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>Personnel costs are by far the largest expense item. Our excellent team is our most important resource. In addition, material costs as well as tax payments are incurred every year. Most of the expenditure is project-related. The administrative costs include, for example, costs for rent, finances, insurances and technical infrastructure.</summary>
+    <summary>&lt;p&gt;Personnel costs are by far the largest expense item. Our excellent team is our most important resource. In addition, material costs as well as tax payments are incurred every year. Most of the expenditure is project-related. The administrative costs include, for example, costs for rent, finances, insurances and technical infrastructure.&lt;/p&gt;
+&lt;div class=&#34;ausgaben&#34;&gt;&lt;/div&gt;</summary>
   </entry>
   
   <entry>
@@ -33,8 +34,30 @@
     <id>https://okfn.de/en/finanzierung/einnahmen/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>The majority (69%) of our income comes from project-related grants. In addition, we have donations (29% of our income). Most of the donations are addressed to FragDenStaat but also Jugend hackt, Code for Germany and OKF DE as a whole record donations. Only 2% of our income derives from economic income sources. Sponsoring accounts for less than 1% of our funds.
-Overview Grants Sponsorship Income from contracts Donations Projects financed by individual donations or based on voluntary work </summary>
+    <summary>&lt;p&gt;The majority (69%) of our income comes from project-related grants. In addition, we have donations (29% of our income). Most of the donations are addressed to FragDenStaat but also Jugend hackt, Code for Germany and OKF DE as a whole record donations. Only 2% of our income derives from economic income sources. Sponsoring accounts for less than 1% of our funds.&lt;/p&gt;
+&lt;div id=&#34;js-incomes-nav&#34; class=&#34;tabnav mt-s&#34;&gt;
+    &lt;a href=&#34;#incomes&#34; class=&#34;mr-xs&#34;&gt;Overview&lt;/a&gt;
+    &lt;a href=&#34;#income-institutions&#34; class=&#34;&#34;&gt;Grants&lt;/a&gt;
+    &lt;a href=&#34;#income-companies&#34; class=&#34;&#34;&gt;Sponsorship&lt;/a&gt;
+    &lt;a href=&#34;#income-services&#34;&gt;Income from contracts&lt;/a&gt;
+    &lt;a href=&#34;#income-donations&#34; class=&#34;&#34;&gt;Donations&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&#34;js-incomes&#34; id=&#34;incomes&#34;&gt;&lt;div class=&#34;kategorien d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&#34;js-incomes&#34; id=&#34;income-donations&#34;&gt;&lt;div class=&#34;income-donations d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&#34;js-incomes&#34; id=&#34;income-institutions&#34;&gt;&lt;div class=&#34;income-institutions d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&#34;js-incomes&#34; id=&#34;income-companies&#34;&gt;&lt;div class=&#34;income-companies d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&#34;js-incomes&#34; id=&#34;income-services&#34;&gt;&lt;div class=&#34;income-services d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4 id=&#34;projects-financed-by-individual-donations-or-based-on-voluntary-work&#34;&gt;Projects financed by individual donations or based on voluntary work&lt;/h4&gt;
+&lt;div class=&#34;l__finance__logos&#34;&gt;
+    &lt;img src=&#34;/okf/finanzierung/codefor.png&#34; alt=&#34;Code For Germany&#34;&gt;
+    &lt;img src=&#34;/okf/finanzierung/fragdenstaat.png&#34; alt=&#34;Frag Den Staat&#34;&gt;
+    &lt;img src=&#34;/okf/finanzierung/politikbeiuns.png&#34; alt=&#34;Politik bei uns&#34;&gt;
+    &lt;img src=&#34;/okf/finanzierung/rettedeinennahverkehr.png&#34; alt=&#34;Rette deinen Nahverkkehr&#34;&gt;
+    &lt;img src=&#34;/okf/finanzierung/sehrgutachten.png&#34; alt=&#34;sehrGutachten&#34;&gt;
+    &lt;img src=&#34;/okf/finanzierung/oparl.png&#34; alt=&#34;Oparl&#34;&gt;
+    &lt;img src=&#34;/okf/finanzierung/https.png&#34; alt=&#34;HTTPS&#34;&gt;
+    &lt;img src=&#34;/okf/finanzierung/transparenzranking.png&#34; alt=&#34;transparenzranking&#34;&gt;
+&lt;/div&gt;</summary>
   </entry>
   
 </feed>

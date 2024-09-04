@@ -13,7 +13,7 @@
       <link>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</link>
       <pubDate>Fri, 04 Jan 2013 17:45:55 +0000</pubDate>
       <guid>https://okfn.de/blog/2013/01/bundes-git-german-laws-on-github/</guid>
-      <description>If you compare software code and legislation you can find many similarities: both are big bodies of text spread over multiple units (laws/files). The total amount of text inevitably grows bigger over time with many small changes to existing parts while most of the corpus stays the same.&#xA;However, the tooling and editing process for these domains is very different: while developers are in the fortunate position that they can build and improve their own tools, legislators are stuck with proprietary tools like MS Word that are simply not built to collaboratively work on a big corpus of text.</description>
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;&#xA;&lt;p&gt;If you compare software code and legislation you can find many similarities: both are big bodies of text spread over multiple units (laws/files). The total amount of text inevitably grows bigger over time with many small changes to existing parts while most of the corpus stays the same.&lt;/p&gt;&#xA;&lt;p&gt;However, the tooling and editing process for these domains is very different: while developers are in the fortunate position that they can build and improve their own tools, legislators are stuck with proprietary tools like MS Word that are simply not built to collaboratively work on a big corpus of text.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
