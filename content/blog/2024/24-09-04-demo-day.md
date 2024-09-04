@@ -20,7 +20,7 @@ Gestern fand der Demo Day des Prototype Funds im bUm (Raum für solidarisches Mi
 
 ##  Programm
 
-Nach der Begrüßung der Teammitglieder Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software für das Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene Vorträge und Panels zu Themen wie freier Software, Technologie für Menschenrechte und innovativen Datenlösungen. Besonders beeindruckend war die „Demo Time“, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.
+Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software für das Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene Vorträge und Panels zu Themen wie freier Software, Technologie für Menschenrechte und innovativen Datenlösungen. Besonders cool war die „Demo Time“, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.
 
 ##  Projekte
 
@@ -28,6 +28,6 @@ Die Projekte, die vorgestellt wurden, reichten von Alertrix, einer Software für
 
 ##  Abschluss
 
-Abgerundet wurde der Tag durch eine lebhafte Diskussion über die Rolle von Technologie in unserer Gesellschaft und den Austausch zwischen den Geförderten und dem Publikum. Der Ausklang am Abend bot eine ideale Gelegenheit, die Eindrücke des Tages in entspannter Atmosphäre zu reflektieren und neue Kontakte zu knüpfen.
+Abgerundet wurde der Tag durch eine lebhafte Diskussion über die Rolle von Technologie in unserer Gesellschaft und den Austausch zwischen den Geförderten und dem Publikum. Der Ausklang am Abend bot außerdem eine schöne Gelegenheit, die Eindrücke des Tages in entspannter Atmosphäre zu reflektieren und neue Kontakte zu knüpfen.
 
-Der Demo Day zeigte eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bot einen spannenden Ausblick auf zukünftige Entwicklungen im Bereich der Open-Source-Technologie. Wir freuen uns schon auf die nächsten Innovationen!
+Der Demo Day zeigt eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bietet einen spannenden Ausblick auf zukünftige Entwicklungen. Wir freuen uns schon auf den nächsten Demo Day im März 2025! Bis dahin könnt ihr euch die Geförderten auf der Website von (https://prototypefund.de/projects/)Prototype Fund anschauen. 
