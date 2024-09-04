@@ -23,14 +23,14 @@ Foto: Moderator Tobias Schmid auf der Bühne
 
 ##  Programm
 
-Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene [Vorträge und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“, bei der die Teilnehmer*innen die Projekte ChatAlly, DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink, Semantic Documents, StreetComplete für iOS und turtlemail interaktiv kennenlernen konnten.
+Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene [Vorträge und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“, bei der die Teilnehmer*innen die Projekte kennenlernen konnten.
 
 ![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
 Foto: Jens Ohlig auf der Bühne
 
 ##  Projekte
 
-Die Projekte, die vorgestellt wurden, reichten von Alertrix, einer Software für Krisenmanagement, über Förderfunke, das die deutsche Förderlandschaft digitalisiert, bis hin zu Ocean Eco Watch, das sich der Erkennung von Meeresmüll widmet. Auch Projekte wie ChatAlly, das Barrieren Menschen mit Sehbehinderung abbaut, und Media Impact Monitor, das Medienwirkung analysiert, zeigten die Bandbreite der geförderten Arbeiten.
+Die Projekte, die vorgestellt wurden, reichten von ChatAlly, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, die sich dem Transport von Briefen und Päckchen widmen. DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink, Semantic Documents und StreetComplete haben sich auch vorgestellt.
 
 ![Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj Akuthota (Human Rights Predictor) bei ihrem Panel](/files/blog/2024/PTF-DemoDay-4.jpg)<br>
 Foto: Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj Akuthota (Human Rights Predictor) bei ihrem Panel
