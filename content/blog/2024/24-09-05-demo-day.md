@@ -18,13 +18,13 @@ title: "Demo Day von Prototype Fund: die 15. Förderrunde im Rampenlicht"
 
 Diese Woche fand der lang ersehnte *Demo Day* von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der [15. Runde](https://prototypefund.de/projects/round-15/) ihre Projekte präsentierten. Bei bestem Wetter und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse zu entdecken. Es war ein Tag voller Inspiration!
 
-![Moderator Tobias Schmid auf der Bühne](/files/blog/2024/PTF-DemoDay-1.jpg)<br>
+![Moderator Tobias Schmid auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
 
 ##  Programm
 
 Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote des ehrenamtlichen Jury-Mitglieds Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Er unterstrich dabei die Wichtigkeit von intrinsischer Motivation für nachhaltige Veränderungen. Im Laufe des Tages gab es ein spannendes Programm mit verschiedenen [Vorträgen und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“ zwischen den Talks, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.
 
-![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
+![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-2.jpg)<br>
 
 ## Projekte
 
