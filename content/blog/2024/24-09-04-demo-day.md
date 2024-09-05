@@ -16,7 +16,7 @@ title: "Demo Day von Prototype Fund: die 15. Förderrunde im Rampenlicht"
 
 ##  Rückblick
 
-Diese Woche fand der lang ersehnte *Demo Day* von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der 15. Runde ihre Projekte präsentierten. Bei bestem Wetter und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse interaktiv zu entdecken. Es war ein Tag voller Inspiration!
+Diese Woche fand der lang ersehnte *Demo Day* von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der [15. Runde](https://prototypefund.de/projects/round-15/) ihre Projekte präsentierten. Bei bestem Wetter und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse interaktiv zu entdecken. Es war ein Tag voller Inspiration!
 
 ![Moderator Tobias Schmid auf der Bühne](/files/blog/2024/PTF-DemoDay-1.jpg)<br>
 
