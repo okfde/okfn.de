@@ -3,7 +3,7 @@ authors:
 - OKFDE
 date: 2024-09-04
 image: 
-  src: /files/blog/2024/PTF-DemoDay-1.jpg
+  src: /files/blog/2024/PTF-DemoDay-Titel.jpg
 tags:
 - PrototypeDemos
 - Demo Day
