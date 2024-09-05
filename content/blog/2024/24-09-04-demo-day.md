@@ -28,7 +28,7 @@ Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann
 
 ##  Projekte
 
-Die Projekte, die vorgestellt wurden, reichten von ChatAlly, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, das sich dem Transport von Briefen und Päckchen widmet. Außerdem dabei waren: DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink, Semantic Documents und StreetComplete.
+Die Projekte, die bei der „Demo Time“ vorgestellt wurden, reichten von Semantic Documents, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, das sich dem Transport von Briefen und Päckchen widmet. Außerdem dabei waren: ChatAlly, DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink und StreetComplete. Auf der Bühne haben wir Eindrücke bekommen von: Alertrix, Civil Case Manager, StuFiS (StudierendenFinanzSoftware), sig0namectl, DocDialog, Förderfunke, Human Rights Predictor, Podlove Publisher Podcasts Onboarding & Import Assistant, Ocean Eco Watch, causy, Investigating Science, Media Impact Monitor & Million Neighborhoods – Re-blocking.
 
 ![Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj Akuthota (Human Rights Predictor) bei ihrem Panel](/files/blog/2024/PTF-DemoDay-4.jpg)<br>
 
