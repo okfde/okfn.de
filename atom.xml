@@ -1,13 +1,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-09-04T00:00:00+0000</updated>
+  <updated>2024-09-05T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Demo Day von Prototype Fund: die 15. Förderrunde im Rampenlicht</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/09/demo-day-von-prototype-fund-die-15.-f%C3%B6rderrunde-im-rampenlicht/"/>
+    <id>https://okfn.de/blog/2024/09/demo-day-von-prototype-fund-die-15.-f%C3%B6rderrunde-im-rampenlicht/</id>
+    <published>2024-09-05T00:00:00+0000</published>
+    <updated>2024-09-05T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;rückblick&#34;&gt;Rückblick&lt;/h2&gt;
+&lt;p&gt;Diese Woche fand der lang ersehnte &lt;em&gt;Demo Day&lt;/em&gt; von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der &lt;a href=&#34;https://prototypefund.de/projects/round-15/&#34; target=&#34;_blank&#34;&gt;15. Runde&lt;/a&gt; ihre Projekte präsentierten. Bei bestem Wetter und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse zu entdecken. Es war ein Tag voller Inspiration!&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Moderator Tobias Schmid auf der Bühne&#34; src=&#34;/files/blog/2024/PTF-DemoDay-1.jpg&#34;&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id=&#34;programm&#34;&gt;Programm&lt;/h2&gt;
+&lt;p&gt;Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote des ehrenamtlichen Jury-Mitglieds Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Er unterstrich dabei die Wichtigkeit von intrinsischer Motivation für nachhaltige Veränderungen. Im Laufe des Tages gab es ein spannendes Programm mit verschiedenen &lt;a href=&#34;https://prototypefund.de/demo-day/&#34; target=&#34;_blank&#34;&gt;Vorträgen und Panels&lt;/a&gt;, um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“ zwischen den Talks, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Sommer bei Jugend hackt: Ein buntes Programm für junge Hacker*innen</title>
@@ -153,16 +166,6 @@
 Kommt vorbei und trefft uns hier:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Durchgehend an allen drei Tagen:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://buendnis-f5.de/&#34; target=&#34;_blank&#34;&gt;Bündnis F5&lt;/a&gt; Stand mit vielfältigem &lt;a href=&#34;https://re-publica.com/de/standprogramm?field_date_value=1&amp;amp;has_partner=3003&#34; target=&#34;_blank&#34;&gt;Standprogramm&lt;/a&gt;. Unseren Stand mit der Nummer C3 könnt ihr hier im &lt;a href=&#34;https://re-publica.com/de/lageplan&#34; target=&#34;_blank&#34;&gt;Lageplan&lt;/a&gt; finden.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>PIAZZA-Konferenz 2024: Call for Workshops</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/05/piazza-konferenz-2024-call-for-workshops/"/>
-    <id>https://okfn.de/blog/2024/05/piazza-konferenz-2024-call-for-workshops/</id>
-    <published>2024-05-13T00:00:00+0000</published>
-    <updated>2024-05-13T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Am &lt;strong&gt;14. November 2024&lt;/strong&gt; findet die Konferenz „PIAZZA – Für digitale Verwaltung &amp;amp; Gesellschaft“ zum vierten Mal online statt. Die OKF wird dieses Jahr erstmalig im Trägerkreis dabei sein. Wir freuen uns sehr!&lt;/p&gt;
-&lt;p&gt;Mit PIAZZA bieten die vier Trägerorganisationen – das Kompetenzzentrum Öffentliche IT, die Gesellschaft für Informatik, NExT e.V. und die Open Knowledge Foundation Deutschland – eine Plattform für den Austausch zwischen öffentlicher Verwaltung, Zivilgesellschaft und Wissenschaft über die Digitalisierung von Staat und Gesellschaft. Im Zentrum stehen Workshops, die Menschen und Organisationen aus diesen drei Sektoren einbringen und gestalten.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
