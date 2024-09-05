@@ -22,7 +22,7 @@ Diese Woche fand der lang ersehnte *Demo Day* von Prototype Fund im bUm (Raum f�
 
 ##  Programm
 
-Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote des Jury-Mitglieds Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Er unterstrich dabei die Wichtigkeit von intrinsischer Motivation für nachhaltige Veränderungen. Im Laufe des Tages gab es ein spannendes Programm mit verschiedenen [Vorträgen und Panel](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“ zwischen den Talks, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.
+Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote des Jury-Mitglieds Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Er unterstrich dabei die Wichtigkeit von intrinsischer Motivation für nachhaltige Veränderungen. Im Laufe des Tages gab es ein spannendes Programm mit verschiedenen [Vorträgen und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“ zwischen den Talks, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.
 
 ![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
 
