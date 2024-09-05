@@ -11,7 +11,7 @@ type: post
 layout: post
 published: false
 featured: blue
-title: "Demo Day von Prototype Fund: Innovationen der 15. Förderrunde im Rampenlicht"
+title: "Demo Day von Prototype Fund: Innovationen der 15. Förderrunde"
 ---
 
 ##  Rückblick
@@ -23,7 +23,7 @@ Foto: Moderator Tobias Schmid auf der Bühne
 
 ##  Programm
 
-Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene [Vorträge und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“, bei der die Teilnehmer*innen die Projekte kennenlernen konnten.
+Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene [Vorträge und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“, bei der die Teilnehmer*innen die Projekte kennenlernen konnten.
 
 ![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
 Foto: Jens Ohlig auf der Bühne
@@ -37,9 +37,9 @@ Foto: Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj
 
 ##  Abschluss
 
-Abgerundet wurde der Tag durch ein Panel über die Rolle von Technologie in unserer Gesellschaft und den Austausch zwischen den Geförderten und dem Publikum. Der Ausklang am Abend bot außerdem eine schöne Gelegenheit, die Eindrücke des Tages in entspannter Atmosphäre zu reflektieren und zu netzwerken.
+Abgerundet wurde der Tag durch ein Panel über die Rolle von Technologie in unserer Gesellschaft und weiteren Austausch zwischen den Geförderten und dem Publikum. Der Ausklang am Abend bot außerdem eine schöne Gelegenheit, die Eindrücke des Tages in entspannter Atmosphäre zu reflektieren und zu netzwerken.
 
 ![Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time](/files/blog/2024/PTF-DemoDay-5.jpg)<br>
 Foto: Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time
 
-Der Demo Day zeigt eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bietet einen spannenden Ausblick auf zukünftige Entwicklungen. Wir freuen uns schon auf den nächsten Demo Day im März 2025! Bis dahin könnt ihr euch die Geförderten auf der Website von [Prototype Fund](https://prototypefund.de/projects/) anschauen. Ein herzliches Dankeschön an alle Beteiligten für den tollen Tag!
+Der Demo Day zeigt eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bietet einen spannenden Ausblick auf zukünftige Entwicklungen. Wir freuen uns schon auf den nächsten Demo Day im März 2025, bei dem [Runde 16](https://prototypefund.de/projects/round-16/) ihre Projekte vorstellen werden! Bis dahin könnt ihr euch alle Geförderten auf der Website von [Prototype Fund](https://prototypefund.de/projects/) anschauen. Ein herzliches Dankeschön an alle Beteiligten für den tollen Tag!
