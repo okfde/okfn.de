@@ -16,14 +16,14 @@ title: "Demo Day von Prototype Fund: Innovationen der 15. Förderrunde"
 
 ##  Rückblick
 
-Diese Woche fand der Demo Day von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der 15. Runde ihre Projekte präsentierten. Bei warmen Temperaturen und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse interaktiv zu entdecken.
+Diese Woche fand der lang ersehnte Demo Day von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der 15. Runde ihre Projekte präsentierten. Bei warmen Temperaturen und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse interaktiv zu entdecken. Es war ein Tag voller Inspiration!
 
 ![Moderator Tobias Schmid auf der Bühne](/files/blog/2024/PTF-DemoDay-1.jpg)<br>
 Foto: Moderator Tobias Schmid auf der Bühne
 
 ##  Programm
 
-Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Im Laufe des Tages gab es verschiedene [Vorträge und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“, bei der die Teilnehmer*innen die Projekte kennenlernen konnten.
+Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote von Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Er brachte uns näher, wie viel nachhaltige Veränderung durch unsere intrinsische Motivation heraus entsteht. Im Laufe des Tages gab es verschiedene [Vorträge und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“, bei der die Teilnehmer*innen die Projekte kennenlernen konnten.
 
 ![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
 Foto: Jens Ohlig auf der Bühne
