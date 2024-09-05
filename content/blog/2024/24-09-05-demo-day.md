@@ -9,12 +9,12 @@ tags:
 - Demo Day
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Demo Day von Prototype Fund: die 15. Förderrunde im Rampenlicht"
 ---
 
-##  Rückblick
+## Rückblick
 
 Diese Woche fand der lang ersehnte *Demo Day* von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der [15. Runde](https://prototypefund.de/projects/round-15/) ihre Projekte präsentierten. Bei bestem Wetter und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse zu entdecken. Es war ein Tag voller Inspiration!
 
@@ -26,15 +26,15 @@ Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann
 
 ![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
 
-##  Projekte
+## Projekte
 
-Die Projekte, die bei der „Demo Time“ vorgestellt wurden, reichten von Semantic Documents, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, das sich dem Transport von Briefen und Päckchen widmet. Außerdem dabei waren: ChatAlly, DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink und StreetComplete. Auf der Bühne haben wir Eindrücke bekommen von: Alertrix, Civil Case Manager, StuFiS (StudierendenFinanzSoftware), sig0namectl, DocDialog, Förderfunke, Human Rights Predictor, Podlove Publisher Podcasts Onboarding & Import Assistant, Ocean Eco Watch, causy, Investigating Science, Media Impact Monitor & Million Neighborhoods – Re-blocking.
+Die Projekte, die bei der „Demo Time“ vorgestellt wurden, reichten von Semantic Documents, das Barrieren Menschen mit Sehbehinderung abbaut, bis hin zu turtlemail, das sich dem Transport von Briefen und Päckchen widmet. Außerdem dabei waren: ChatAlly, DeKUF – Decentralising KUserFeedback, ipyblender, OpenPV, Psylink und StreetComplete. Auf der Bühne haben wir Eindrücke bekommen von: Alertrix, Civil Case Manager, StuFiS (StudierendenFinanzSoftware), sig0namectl, DocDialog, Förderfunke, Human Rights Predictor, Podlove Publisher Podcasts Onboarding & Import Assistant, Ocean Eco Watch, causy, Investigating Science, Media Impact Monitor & Drawing Together: Reblocking a Million Neighborhoods.
 
 ![Johannes Twiefel (DocDialog), Benjamin Degenhart (Förderfunke) und Viraaj Akuthota (Human Rights Predictor) bei ihrem Panel](/files/blog/2024/PTF-DemoDay-4.jpg)<br>
 
-##  Abschluss
+## Abschluss
 
-Abgerundet wurde der Tag durch ein Panel zur die Rolle von Technologie in unserer Gesellschaft und weiteren Austausch zwischen den Geförderten und dem Publikum, das angeregt Fragen stellte. Generell haben wir den Tag als schöne Gelegenheit erlebt, gemeinsam in entspannter Atmosphäre zu reflektieren und zu netzwerken.
+Abgerundet wurde der Tag durch ein Panel zur die Rolle von Technologie in unserer Gesellschaft und weiteren Austausch zwischen den Geförderten und dem Publikum, das angeregt Fragen stellte, und einem letzten Vortrag von Drawing Together: Reblocking a Million Neighborhoods. Insgesamt haben wir den Tag als schöne Gelegenheit erlebt, gemeinsam in entspannter Atmosphäre zu reflektieren und zu netzwerken.
 
 ![Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time](/files/blog/2024/PTF-DemoDay-5.jpg)<br>
 
