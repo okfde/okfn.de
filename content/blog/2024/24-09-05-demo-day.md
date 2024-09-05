@@ -38,6 +38,8 @@ Abgerundet wurde der Tag durch ein Panel zur die Rolle von Technologie in unsere
 
 ![Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time](/files/blog/2024/PTF-DemoDay-5.jpg)<br>
 
-Der Demo Day zeigt eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bietet einen  Ausblick auf zukünftige Entwicklungen. Wir freuen uns schon auf den nächsten Demo Day im März 2025, bei dem [Runde 16](https://prototypefund.de/projects/round-16/) ihre Projekte vorstellen werden! *#safethedate* Bis dahin könnt ihr euch alle Geförderten auf der Website von [Prototype Fund](https://prototypefund.de/projects/) anschauen. **Ein herzliches Dankeschön an alle Beteiligten für den tollen Tag!**
+Der Demo Day zeigt eindrucksvoll, wie vielfältig und wichtig die Arbeit der geförderten Projekte ist, und bietet einen  Ausblick auf zukünftige Entwicklungen. Wir freuen uns schon auf den nächsten Demo Day im März 2025, bei dem [Runde 16](https://prototypefund.de/projects/round-16/) ihre Projekte vorstellen werden! *#safethedate* 
+
+Bis dahin könnt ihr euch alle Geförderten auf der Website von [Prototype Fund](https://prototypefund.de/projects/) anschauen. **Ein herzliches Dankeschön an alle Beteiligten für den tollen Tag!**
 
 *Last but not least:* Meldet euch gerne für den [Newsletter](https://prototypefund.de/newsletter/) von Prototype Fund an, um auf dem Laufenden zu bleiben.
