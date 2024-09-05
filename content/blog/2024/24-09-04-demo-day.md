@@ -16,13 +16,13 @@ title: "Demo Day von Prototype Fund: die 15. Förderrunde im Rampenlicht"
 
 ##  Rückblick
 
-Diese Woche fand der lang ersehnte *Demo Day* von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der [15. Runde](https://prototypefund.de/projects/round-15/) ihre Projekte präsentierten. Bei bestem Wetter und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse interaktiv zu entdecken. Es war ein Tag voller Inspiration!
+Diese Woche fand der lang ersehnte *Demo Day* von Prototype Fund im bUm (Raum für solidarisches Miteinander) in Berlin-Kreuzberg statt, bei dem Geförderte der [15. Runde](https://prototypefund.de/projects/round-15/) ihre Projekte präsentierten. Bei bestem Wetter und leckerem Catering bot der Tag eine tolle Chance, die Fortschritte und Ergebnisse zu entdecken. Es war ein Tag voller Inspiration!
 
 ![Moderator Tobias Schmid auf der Bühne](/files/blog/2024/PTF-DemoDay-1.jpg)<br>
 
 ##  Programm
 
-Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote des Jury-Mitglieds Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Er unterstrich dabei die Wichtigkeit von intrinsischer Motivation für nachhaltige Veränderungen. Im Laufe des Tages gab es ein spannendes Programm mit verschiedenen [Vorträgen und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“ zwischen den Talks, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.
+Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote des ehrenamtlichen Jury-Mitglieds Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Er unterstrich dabei die Wichtigkeit von intrinsischer Motivation für nachhaltige Veränderungen. Im Laufe des Tages gab es ein spannendes Programm mit verschiedenen [Vorträgen und Panels](https://prototypefund.de/demo-day/), um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“ zwischen den Talks, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.
 
 ![Jens Ohlig auf der Bühne](/files/blog/2024/PTF-DemoDay-3.jpg)<br>
 
@@ -34,7 +34,7 @@ Die Projekte, die bei der „Demo Time“ vorgestellt wurden, reichten von Seman
 
 ##  Abschluss
 
-Abgerundet wurde der Tag durch ein Panel über die Rolle von Technologie in unserer Gesellschaft und weiteren Austausch zwischen den Geförderten und dem Publikum. Der Ausklang am Abend bot außerdem eine schöne Gelegenheit, die Eindrücke des Tages in entspannter Atmosphäre zu reflektieren und zu netzwerken.
+Abgerundet wurde der Tag durch ein Panel über die Rolle von Technologie in unserer Gesellschaft und weiteren Austausch zwischen den Geförderten und dem Publikum, das angeregt Fragen stellte. Generell haben wir den Tag als schöne Gelegenheit erlebt, gemeinsam in entspannter Atmosphäre zu reflektieren und zu netzwerken.
 
 ![Geschäftsführerin Henriette Litta und Petra Balint bei der Demo Time](/files/blog/2024/PTF-DemoDay-5.jpg)<br>
 
