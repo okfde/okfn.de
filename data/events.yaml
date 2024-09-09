@@ -60,8 +60,8 @@
   show: true
 - name: Jugend hackt in München 2023
   url: https://jugendhackt.org/events/muenchen/
-  enddate: "2023-07-14"
-  startdate: "2023-07-16"
+  enddate: "2023-07-16"
+  startdate: "2023-07-14"
   venue: tba
   show: true
 - name: Jugend hackt in Frankfurt 2023
@@ -120,25 +120,25 @@
   show: true
 - name: Jugend hackt Hamburg 2024
   url: https://jugendhackt.org/events/hamburg/
-  enddate: "2024-09-20"
-  startdate: "2024-09-22"
+  enddate: "2024-09-22"
+  startdate: "2024-09-20"
   venue: betahaus Schanze
   show: true
 - name: Jugend hackt Berlin 2023
   url: https://jugendhackt.org/events/berlin/
-  enddate: "2024-10-03"
-  startdate: "2024-10-06"
+  enddate: "2024-10-06"
+  startdate: "2024-10-03"
   venue: Jugendhaus Königstadt
   show: true
 - name: Jugend hackt Luzern 2024
   url: https://jugendhackt.ch
-  enddate: "2024-10-11"
-  startdate: "2024-10-13"
+  enddate: "2024-10-13"
+  startdate: "2024-10-11"
   venue: Tüftelwerk
   show: true
 - name: Jugend hackt MINTA\* Hackday Dresden
   url: https://jugendhackt.org/events/dresden/
-  enddate: "2024-10-26"
+  enddate:
   startdate: "2024-10-26"
   venue: Kraftwerk Mitte 3
   show: true
