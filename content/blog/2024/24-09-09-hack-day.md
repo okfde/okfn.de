@@ -14,7 +14,7 @@ featured: yellow
 title: "Hackday am 3. Oktober!"
 ---
 
-## Jugend hackt: Hack day
+## Jugend hackt: Hackday
 
 Am 3. Oktober 2024 findet der nächste Hackday im Jugendkulturzentrum Königstadt in Berlin statt, zu dem sich Jugendliche von 12-18 Jahren anmelden können. Dabei können sie Teil der kreativen Tech-Community werden, selbst Platinen löten und mehr über Programmierung und künstliche Intelligenz erfahren.
 
