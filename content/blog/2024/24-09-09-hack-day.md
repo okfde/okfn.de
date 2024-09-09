@@ -34,8 +34,8 @@ Vorträge zu KI und "Fails" aus der Hacking-Welt: Die Jugendlichen werden lernen
 
 Die Teilnahme ist kostenlos, jedoch sind die Plätze begrenzt. [Hier]([www.jugendhackt.org/hackday) geht’s zur Anmeldung und weiteren Informationen wie Barrierefreiheit.
 
-***Wann?*** 3. Oktober 2024, von 14 bis 22 Uhr
-***Wo?*** Jugendkulturzentrum Königstadt, Saarbrücker Straße 23, 10405 Berlin
+***Wann?*** 3. Oktober 2024, von 14 bis 22 Uhr<br>
+***Wo?*** Jugendkulturzentrum Königstadt, Saarbrücker Straße 23, 10405 Berlin<br>
 ***Anmeldeschluss:*** Mittwoch, 25.09.2024
 
 ![Hackday](/files/blog/2024/Hackday3.jpg)<br>
