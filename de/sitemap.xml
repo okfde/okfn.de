@@ -242,6 +242,32 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -255,37 +281,11 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/demo-day/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/09/demo-day-von-prototype-fund-die-15.-f%C3%B6rderrunde-im-rampenlicht/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/okfde/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
