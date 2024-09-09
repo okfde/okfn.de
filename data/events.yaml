@@ -190,3 +190,9 @@
   startdate: "2025-03-29"
   venue: Festsaal Kreuzberg, Berlin
   show: true
+- name: Jugend hackt Hackday
+  url: https://anmeldung.jugendhackt.org/berlin/2024-hackday/
+  enddate:
+  startdate: "2025-10-03"
+  venue: Jugendkulturzentrum Königstadt, Berlin
+  show: true
