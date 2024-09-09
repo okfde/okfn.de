@@ -9,7 +9,7 @@ tags:
 - Hackday
 type: post
 layout: post
-published: false
+published: true
 featured: yellow
 title: "Hackday am 3. Oktober!"
 ---
