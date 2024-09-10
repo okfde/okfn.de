@@ -11,7 +11,7 @@ type: post
 layout: post
 published: true
 featured: blue
-title: "Spenden und Erbschaften für Open Knowledge Foundation Deutschland e. V."
+title: "Spenden und Erbschaften für die OKF"
 ---
 
 ## Spenden und Erbschaften
