@@ -3,20 +3,20 @@ authors:
 - OKFDE
 date: 2024-09-10
 image: 
-  src: /files/blog/2024/Hackday Titel.png
+  src: /files/blog/2024/Spenden_Erbschaften OKF.png
 tags:
-- Jugendhackt
-- Hackday
+- Spenden
+- Erbschaften
 type: post
 layout: post
 published: false
 featured: blue
-title: "Spenden und Erbschaften an die OKF"
+title: "Spenden und Erbschaften für die OKF"
 ---
 
 ## Unterstützung
 
-Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Aber auch Erbschaften können die Open Knowledge Foundation e. V. bei ihrer Arbeit unterstützen! So wie es bei [FragDenStaat](https://fragdenstaat.de/artikel/eigener-sache/2024/07/wir-haben-geerbt/) in diesesm Jahr zum ersten Mal passiert ist: Ein FragDenStaat-Nutzer, der im vergangenen Jahr verstorben ist, hat ihnen in seinem Testament bedacht und insgesamt 86.000 Euro überlassen.
+Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Aber auch Erbschaften können die Open Knowledge Foundation e. V. bei ihrer Arbeit unterstützen! So wie es bei [FragDenStaat](https://fragdenstaat.de/artikel/eigener-sache/2024/07/wir-haben-geerbt/) in diesesm Jahr zum ersten Mal passiert ist: Ein FragDenStaat-Nutzer, der im vergangenen Jahr verstorben ist, hat ihnen in seinem Testament bedacht und insgesamt 86.000 Euro überlassen. Wir sind sehr, sehr dankbar für dieses große Vertrauen.
 
 ## Förderung von freiem Wissen
 
