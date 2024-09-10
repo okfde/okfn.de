@@ -20,7 +20,7 @@ Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und
 
 ## Förderung von freiem Wissen
 
-Wenn euch unsere Mission am Herzen liegt, könnt ihr uns finanziell supporten, um somit nachhaltig unsere Arbeit zu sichern. Damit unterstützt ihr eine starke digitale Zivilgesellschaft und ermöglicht: politische Kampagnenarbeit im Interesse der Zivilgesellschaft, Projekte zu freiem Wissen und digitaler Mündigkeit, die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten). Erbschaften sind dabei eine ganz besondere Möglichkeit, einen positiven Einfluss zu hinterlassen. Wir freuen uns, wenn ihr unsere Projekte nachhaltig und wirkunsvoll unterstützen möchtet.
+Wenn euch unsere Mission am Herzen liegt, könnt ihr uns finanziell supporten, um somit nachhaltig unsere Arbeit zu sichern. Damit unterstützt ihr eine starke digitale Zivilgesellschaft und ermöglicht: politische Kampagnenarbeit im Interesse der Zivilgesellschaft, Projekte zu freiem Wissen und digitaler Mündigkeit, die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten). Erbschaften sind dabei eine ganz besondere Möglichkeit, einen positiven Einfluss zu hinterlassen. Wir freuen uns, wenn ihr unsere Projekte nachhaltig und wirkungsvoll unterstützen möchtet.
 
 ## Erbschaften, aber wie?
 
