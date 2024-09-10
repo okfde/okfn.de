@@ -20,7 +20,7 @@ Spenden ermöglichen es uns als Open Knowledge Foundation Deutschland e.V., unab
 
 ## Förderung von freiem Wissen
 
-Wenn euch unsere Mission am Herzen lieg, und es eure finanzielle Situation erlaubt, könnt ihr mit Geldspenden unsere Arbeit nachhaltig sichern. Erbschaften sind dabei eine ganz besondere Möglichkeit, einen positiven Einfluss zu hinterlassen: Damit stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht *politische Kampagnenarbeit* im Interesse der Zivilgesellschaft, *Projekte zu freiem Wissen und digitaler Mündigkeit* und nicht zuletzt die *missionskritische Infrastruktur*, die alle unsere Projekte trägt, wie unsere Server, Verwaltung und laufende Mietkosten. 
+Wenn euch unsere Mission am Herzen liegt, und es eure finanzielle Situation erlaubt, könnt ihr mit Geldspenden unsere Arbeit nachhaltig sichern. Erbschaften sind dabei eine ganz besondere Möglichkeit, einen positiven Einfluss zu hinterlassen: Damit stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht *politische Kampagnenarbeit* im Interesse der Zivilgesellschaft, *Projekte zu freiem Wissen und digitaler Mündigkeit* und nicht zuletzt die *missionskritische Infrastruktur*, die alle unsere Projekte trägt, wie unsere Server, Verwaltung und laufende Mietkosten. 
 
 ## Vererben, aber wie?
 
