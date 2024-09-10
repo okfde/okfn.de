@@ -26,5 +26,5 @@ Wenn euch unsere Mission am Herzen liegt, und es eure finanzielle Situation erla
 
 Es gibt viele Wege, uns in eurem Testament aufzunehmen. Wir empfehlen, sich bei der Planung von eine:r Notar:in beraten zu lassen, sodass euer Wunsch auch Gehör findet. Dabei helfen nicht nur große, sondern bereits auch kleine Beträge. Bei Fragen zu Erbschaften und größeren Spendenbeträgen, wendet euch an Giulia von unserem Geschäftsführungsteam via Email an *info@okfn.de*. Wir freuen uns, wenn ihr unsere Projekte nachhaltig und wirkungsvoll unterstützen möchtet.
 
-Auf unserer [Spendenseite](https://okfn.de/spenden/) findet ihr unsere Kontodaten und könnt direkt spenden. 
-Danke für eure Unterstützung!  
+Vielen Dank für eure Unterstützung! Auf unserer [Spendenseite](https://okfn.de/spenden/) findet ihr unsere Kontodaten und könnt direkt spenden. 
+
