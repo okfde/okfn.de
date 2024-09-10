@@ -26,4 +26,4 @@ Wenn euch unsere Mission am Herzen liegt, könnt ihr uns durch Spenden oder auch
 
 Es gibt viele Wege, uns in eurem Testament aufzunehmen. Dabei helfen nicht nur große, sondern bereits auch kleine Beträge. Wir empfehlen, sich bei der Planung von einer Notarin/einem Notar beraten zu lassen, sodass euer Wunsch auch Gehör findet.
 
-Vielen Dank für eure Unterstützung! Bei Fragen könnt ihr uns unter *info@okfn.de* erreichen. Zur Spendenseite geht's hier entlang!
+Vielen Dank für eure Unterstützung! Bei Fragen könnt ihr uns unter *info@okfn.de* erreichen. Zur Spendenseite geht's [hier](https://okfn.de/spenden/) entlang!
