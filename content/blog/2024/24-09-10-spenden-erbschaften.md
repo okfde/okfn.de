@@ -22,7 +22,7 @@ Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und
 
 Wenn euch unsere Mission am Herzen liegt, könnt ihr uns durch Spenden oder auch Erbschaften unterstützen, um somit nachhaltig unsere Arbeit zu sichern. Erbschaften sind eine ganz besondere Möglichkeit, einen positiven Einfluss zu hinterlassen. Wir freuen uns, wenn ihr unsere Projekte nachhaltig und wirkunsvoll unterstützen möchtet.
 
-## Erbschaften hinterlassen
+## Erbschaften
 
 Es gibt viele Wege, uns in eurem Testament aufzunehmen. Dabei helfen nicht nur große, sondern bereits auch kleine Beträge. Wir empfehlen, sich bei der Planung von einer Notarin/einem Notar beraten zu lassen, sodass euer Wunsch auch Gehör findet.
 
