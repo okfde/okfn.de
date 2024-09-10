@@ -16,7 +16,7 @@ title: "Spenden und Erbschaften für die OKF"
 
 ## Spenden und Erbschaften
 
-Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Aber auch Erbschaften können die Open Knowledge Foundation e. V. bei ihrer Arbeit unterstützen! So wie es bei [FragDenStaat](https://fragdenstaat.de/artikel/eigener-sache/2024/07/wir-haben-geerbt/) in diesem Jahr zum ersten Mal passiert ist: Ein FragDenStaat-Nutzer, der im vergangenen Jahr verstorben ist, hat sie in seinem Testament bedacht und insgesamt 86.000 Euro überlassen. Wir sind sehr, sehr dankbar für dieses große Vertrauen.
+Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Aber auch Erbschaften können die Open Knowledge Foundation e. V. bei ihrer Arbeit unterstützen! So wie es bei [FragDenStaat](https://fragdenstaat.de/artikel/eigener-sache/2024/07/wir-haben-geerbt/) in diesem Jahr zum ersten Mal passiert ist: Ein Nutzer, der im vergangenen Jahr verstorben ist, hat FragDenStaat in seinem Testament bedacht und insgesamt 86.000 Euro überlassen. Wir sind sehr, sehr dankbar für dieses große Vertrauen.
 
 ## Förderung von freiem Wissen
 
