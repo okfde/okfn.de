@@ -16,14 +16,15 @@ title: "Spenden und Erbschaften für die OKF"
 
 ## Spenden und Erbschaften
 
-Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Aber auch Erbschaften können die Open Knowledge Foundation e. V. bei ihrer Arbeit unterstützen! So wie es bei [FragDenStaat](https://fragdenstaat.de/artikel/eigener-sache/2024/07/wir-haben-geerbt/) in diesem Jahr zum ersten Mal passiert ist: Ein Nutzer, der im vergangenen Jahr verstorben ist, hat FragDenStaat in seinem Testament bedacht und insgesamt 86.000 Euro überlassen. Wir sind sehr, sehr dankbar für dieses große Vertrauen.
+Spenden ermöglichen es uns als Open Knowledge Foundation Deutschland e.V., unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Aber auch Erbschaften können unsere Arbeit unterstützen! So wie es bei [FragDenStaat](https://fragdenstaat.de/artikel/eigener-sache/2024/07/wir-haben-geerbt/) in diesem Jahr zum ersten Mal passiert ist: Ein Nutzer, der im vergangenen Jahr verstorben ist, hat FragDenStaat in seinem Testament bedacht und dem Projekt insgesamt 86.000 Euro überlassen. Wir sind sehr, sehr dankbar für dieses große Vertrauen.
 
 ## Förderung von freiem Wissen
 
-Wenn euch unsere Mission am Herzen liegt, könnt ihr uns finanziell supporten, um somit nachhaltig unsere Arbeit zu sichern. Damit unterstützt ihr eine starke digitale Zivilgesellschaft und ermöglicht: politische Kampagnenarbeit im Interesse der Zivilgesellschaft, Projekte zu freiem Wissen und digitaler Mündigkeit, die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten). Erbschaften sind dabei eine ganz besondere Möglichkeit, einen positiven Einfluss zu hinterlassen. Wir freuen uns, wenn ihr unsere Projekte nachhaltig und wirkungsvoll unterstützen möchtet.
+Wenn euch unsere Mission am Herzen liegt, und es eure finanzielle Situation erlaubt, könnt ihr mit Geldspenden unsere Arbeit nachhaltig sichern. Erbschaften sind dabei eine ganz besondere Möglichkeit, einen positiven Einfluss zu hinterlassen: Damit stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht *politische Kampagnenarbeit* im Interesse der Zivilgesellschaft, *Projekte zu freiem Wissen und digitaler Mündigkeit* und nicht zuletzt die *missionskritische Infrastruktur*, die alle unsere Projekte trägt, wie unsere Server, Verwaltung und laufende Mietkosten. 
 
-## Erbschaften, aber wie?
+## Vererben, aber wie?
 
-Es gibt viele Wege, uns in eurem Testament aufzunehmen. Dabei helfen nicht nur große, sondern bereits auch kleine Beträge. Wir empfehlen, sich bei der Planung von einer Notarin/einem Notar beraten zu lassen, sodass euer Wunsch auch Gehör findet.
+Es gibt viele Wege, uns in eurem Testament aufzunehmen. Wir empfehlen, sich bei der Planung von eine:r Notar:in beraten zu lassen, sodass euer Wunsch auch Gehör findet. Dabei helfen nicht nur große, sondern bereits auch kleine Beträge. Bei Fragen zu Erbschaften und größeren Spendenbeträgen wendet euch gerne an Giulia von unserem Geschäftsführungsteam via Email an *info@okfn.de*. Wir freuen uns, wenn ihr unsere Projekte nachhaltig und wirkungsvoll unterstützen möchtet.
 
-Vielen Dank für eure Unterstützung! Bei Fragen könnt ihr uns unter *info@okfn.de* erreichen. Zur Spendenseite geht's [hier](https://okfn.de/spenden/) entlang!
+Vielen Dank für eure Unterstützung! Auf unserer [Spendenseite](https://okfn.de/spenden/) findet ihr unsere Kontodaten und könnt direkt spenden. 
+
