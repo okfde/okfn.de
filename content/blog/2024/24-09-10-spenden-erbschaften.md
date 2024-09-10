@@ -9,7 +9,7 @@ tags:
 - Erbschaften
 type: post
 layout: post
-published: false
+published: true
 featured: blue
 title: "Spenden und Erbschaften für die OKF"
 ---
