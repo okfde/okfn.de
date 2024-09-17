@@ -278,8 +278,8 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektmanagerin FragDenStaat.de
-  position_en: Projectmanager FragDenStaat.de
+  position: Head of Operations FragDenStaat.de
+  position_en: Head of Operations FragDenStaat.de
   bio: "Judith ist bei der Open Knowledge Foundation bei FragDenStaat.de für die Community-Entwicklung, Kommunikation sowie Fundraising zuständig."
   bio_en: "Judith is part of the FragDenStaat team and responsible for community management and fundraising."
   mail: judith.doleschal@okfn.de
@@ -1441,7 +1441,7 @@
   
 - name: Monica Phương Thúy Nguyễn
   img: unknown
-  staff: 1
+  staff: 0
   board: 0
   advisory: 0
   position: Öffentlichkeitsarbeit FragDenStaat
