@@ -29,7 +29,9 @@ people:
   - name: Philip Steffan
     role: Community und Kommunikation
   - name: Benjamin Laske
-    role: Studentischer Mitarbeiter  
+    role: Studentischer Mitarbeiter
+  - name: Megan Versteeg
+    role: Bundesfreiwilligendienst    
 contact_person: nina
 years: 2012 - heute
 partners:
