@@ -44,6 +44,8 @@ Technology Fund und sitzt im Vorstand der OpenJS Foundation.
 Zitat Fiona Krakenbürger: *ergänzen* 
 (Sie ist mit den Themen der OKF sehr verbunden und freut sich besonders auf das gemeinsame Stakeholder-Management, die Verzahnung mit technischen Communities und politischen Akteuren.)
 
+## Titel
+
 Mit unserem Vorstand blicken wir zuversichtlich in die Zukunft und sind bestens aufgestellt, um in den nächsten zwei Jahren gesellschaftspolitische Herausforderungen gemeinsam zu meistern. Wir freuen uns außerdem, unser Potenzial durch neue Perspektiven zu erweitern. Um die Gesellschaft nachhaltig mitzugestalten und eigene Ziele zu erreichen, sind wir mit diesem Vorstand auf jeden Fall bestens gerüstet. Zum Schluss möchten wir uns an dieser Stelle bei allen bisherigen Vorstandsmitgliedern für ihre langjährige Unterstützung und ihr großartiges Engagement für die OKF bedanken. *Wir freuen uns auf die gemeinsame Zeit!*
 
 Weitere Informationen zum [Vorstand der OKF](https://okfn.de/vorstand/) findet ihr auf unserer Website!
