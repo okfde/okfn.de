@@ -14,16 +14,17 @@ featured: yellow
 title: "Neuwahl des Vorstands - Pressemitteilung"
 ---
 
-## Mitgliederversammlung
+## Neuer Vorstand gewählt
 
-Bei der Mitgliederversammlung der Open Knowledge Foundation e. V. wurde am 19.09.2024 ein neuer Vorstand gewählt. Bisher bestand dieser aus Kristina Klein (Vorsitzende), Gabriele C. Klug (Kassenwartin), sowie den Beisitzer*innen Lea Gimpel, Stefan Heumann und Felix Reda. Wir freuen uns bekanntzugeben, dass die bisherigen Vorstandsmitglieder erneut ihre Positionen antreten. Zusätzlich konnten zwei neue Mitglieder für den Vorstand gewonnen werden, die wir hiermit herzlich begrüßen möchten: Elina Eickstädt und Fiona Krakenbürger.
+Bei der Mitgliederversammlung der Open Knowledge Foundation e. V. wurde am 19.09.2024 ein neuer Vorstand gewählt. Bisher bestand dieser aus Kristina Klein (Vorsitzende), Gabriele C. Klug (Kassenwartin), sowie den Beisitzer*innen Lea Gimpel, Stefan Heumann und Felix Reda. Wir freuen uns bekanntzugeben, dass die bisherigen Vorstandsmitglieder erneut ihre Positionen antreten. 
 
-## Titel
+Kristina Klein schätzt den Austausch mit den Boardmitgliedern sehr und bedankt sich für ihre Arbeit und ihr Engagement im Vorstand.
 
-Zitat Kristina Klein: *ergänzen* (Montag) 
-(Kristina Klein schätzt den Austausch mit den Boardmitgliedern sehr und bedankt sich für ihre Arbeit und ihr Engagement im Vorstand.)
+Zitat Kristina Klein: *ergänzen*
 
-Ebenso freuen wir uns auf die Zusammenarbeit mit den neuen Vorstandsmitgliedern:
+## Neue Mitglieder
+
+Zusätzlich konnten zwei neue Mitglieder für den Vorstand gewonnen werden, die wir hiermit herzlich begrüßen möchten: Elina Eickstädt und Fiona Krakenbürger. Wir freuen uns auf die Zusammenarbeit!
 
 **Elina Eickstädt**: Elina ist Informatikerin, sie forscht und arbeitet im Bereich IT-Sicherheit. Elina ist eine der
 ehrenamtlichen Sprecherinnen des Chaos Computer Club und fokussiert sich in ihrer Rolle auf
@@ -41,10 +42,11 @@ Projekten und hat geholfen, Programme in Deutschland und den USA aufzubauen und 
 Komitees des RIPE Community Projects Fund, Mitglied des Advisory Council des Open
 Technology Fund und sitzt im Vorstand der OpenJS Foundation.
 
-Zitat Fiona Krakenbürger: *ergänzen* 
-(Sie ist mit den Themen der OKF sehr verbunden und freut sich besonders auf das gemeinsame Stakeholder-Management, die Verzahnung mit technischen Communities und politischen Akteuren.)
+Sie ist mit den Themen der OKF sehr verbunden und freut sich besonders auf das gemeinsame Stakeholder-Management, die Verzahnung mit technischen Communities und politischen Akteuren.
 
-## Titel
+Zitat Fiona Krakenbürger: *ergänzen* 
+
+## Mit Zuversicht in die Zukunft
 
 Mit unserem Vorstand blicken wir zuversichtlich in die Zukunft und sind bestens aufgestellt, um in den nächsten zwei Jahren gesellschaftspolitische Herausforderungen gemeinsam zu meistern. Wir freuen uns außerdem, unser Potenzial durch neue Perspektiven zu erweitern. Um die Gesellschaft nachhaltig mitzugestalten und eigene Ziele zu erreichen, sind wir mit diesem Vorstand auf jeden Fall bestens gerüstet. Zum Schluss möchten wir uns an dieser Stelle bei allen bisherigen Vorstandsmitgliedern für ihre langjährige Unterstützung und ihr großartiges Engagement für die OKF bedanken. *Wir freuen uns auf die gemeinsame Zeit!*
 
