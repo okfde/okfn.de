@@ -38,8 +38,6 @@ Projekten und hat geholfen, Programme in Deutschland und den USA aufzubauen und 
 Komitees des RIPE Community Projects Fund, Mitglied des Advisory Council des Open
 Technology Fund und sitzt im Vorstand der OpenJS Foundation.
 
-Sie ist mit den Themen der OKF sehr verbunden und freut sich besonders auf das gemeinsame Stakeholder-Management, die Verzahnung mit technischen Communities und politischen Akteuren.
-
 Zitat Fiona Krakenbürger: *„Die OKF spielt eine zentrale Rolle als Vordenkerin in der digitalpolitischen Landschaft und setzt immer wieder entscheidende Impulse für mehr Offenheit und Transparenz. Die Themen des Vereins sind von großer Bedeutung für viele Entwicklungen, die unsere digitale Gesellschaft prägen. Ich freue mich darauf, als Vorstandsmitglied die Organisation und ihr engagiertes Team in ihrer wertvollen Arbeit zu unterstützen.“*
 
 ## Mit Zuversicht in die Zukunft
