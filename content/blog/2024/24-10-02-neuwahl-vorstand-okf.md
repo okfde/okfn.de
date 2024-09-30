@@ -18,9 +18,7 @@ title: "Neuwahl des Vorstands - Pressemitteilung"
 
 Bei der Mitgliederversammlung der Open Knowledge Foundation e. V. wurde am 19.09.2024 ein neuer Vorstand gewählt. Bisher bestand dieser aus Kristina Klein (Vorsitzende), Gabriele C. Klug (Kassenwartin), sowie den Beisitzer*innen Lea Gimpel, Stefan Heumann und Felix Reda. Wir freuen uns bekanntzugeben, dass die bisherigen Vorstandsmitglieder erneut ihre Positionen antreten. 
 
-Kristina Klein schätzt den Austausch mit den Boardmitgliedern sehr und bedankt sich für ihre Arbeit und ihr Engagement im Vorstand.
-
-Zitat Kristina Klein: *ergänzen*
+Zitat Kristina Klein: *„Ich schätze den Austausch mit den Boardmitgliedern sehr und bedanke mich ganz herzlich für ihre Arbeit und ihr Engagement im Vorstand.“*
 
 ## Neue Mitglieder
 
@@ -42,7 +40,7 @@ Technology Fund und sitzt im Vorstand der OpenJS Foundation.
 
 Sie ist mit den Themen der OKF sehr verbunden und freut sich besonders auf das gemeinsame Stakeholder-Management, die Verzahnung mit technischen Communities und politischen Akteuren.
 
-Zitat Fiona Krakenbürger: *ergänzen* 
+Zitat Fiona Krakenbürger: *„Die OKF spielt eine zentrale Rolle als Vordenkerin in der digitalpolitischen Landschaft und setzt immer wieder entscheidende Impulse für mehr Offenheit und Transparenz. Die Themen des Vereins sind von großer Bedeutung für viele Entwicklungen, die unsere digitale Gesellschaft prägen. Ich freue mich darauf, als Vorstandsmitglied die Organisation und ihr engagiertes Team in ihrer wertvollen Arbeit zu unterstützen.“*
 
 ## Mit Zuversicht in die Zukunft
 
