@@ -3,7 +3,7 @@ authors:
 - OKFDE
 date: 2024-10-02
 image: 
-  src: /files/blog/2024/Spenden_Erbschaften OKF.png
+  src: /files/blog/2024/2024-Vorstand.png
 tags:
 - Spenden
 - Erbschaften
@@ -19,6 +19,8 @@ title: "Neuwahl des Vorstands - Pressemitteilung"
 Bei der Mitgliederversammlung der Open Knowledge Foundation e. V. wurde am 19.09.2024 ein neuer Vorstand gewählt. Bisher bestand dieser aus Kristina Klein (Vorsitzende), Gabriele C. Klug (Kassenwartin), sowie den Beisitzer*innen Lea Gimpel, Stefan Heumann und Felix Reda. Wir freuen uns bekanntzugeben, dass die bisherigen Vorstandsmitglieder erneut ihre Positionen antreten. 
 
 Zitat Kristina Klein: *„Ich schätze den Austausch mit den Boardmitgliedern sehr und bedanke mich ganz herzlich für ihre Arbeit und ihr Engagement im Vorstand.“*
+
+
 
 ## Neue Mitglieder
 
