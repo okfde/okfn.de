@@ -18,7 +18,7 @@ title: "Neuwahl des Vorstands - Pressemitteilung"
 
 Bei der Mitgliederversammlung der Open Knowledge Foundation e. V. wurde am 19.09.2024 ein neuer Vorstand gewählt. Bisher bestand dieser aus Kristina Klein (Vorsitzende), Gabriele C. Klug (Kassenwartin), sowie den Beisitzer*innen Lea Gimpel, Stefan Heumann und Felix Reda. Wir freuen uns bekanntzugeben, dass die bisherigen Vorstandsmitglieder erneut ihre Positionen antreten. 
 
-Zitat Kristina Klein: *„Ich schätze den Austausch mit den Boardmitgliedern sehr und bedanke mich ganz herzlich für ihre Arbeit und ihr Engagement im Vorstand.“*
+Zitat Kristina Klein: *"Ich kenne die OKF seit 10 Jahren und stehe immer wieder verblüfft vor diesen fantastischen Menschen, die hier zusammenkommen. Ihr politisches Feingespür verbunden mit Tech-Kompetenz, ihr pädagogisches Talent, jungen Menschen das Gefühl zu geben, Demokratie mitgestalten zu können sowie ihre Leidenschaft, durch Förderprogramme und Mentoring die Civic-Tech-Community zu unterstützen und aufzubauen, sind besonders. So simpel es für diesen Anlass klingen mag: Es ist mir eine Ehre, Teil dieser Organisation zu sein und mit dem OKF-Team zusammenarbeiten zu dürfen."*
 
 ![von links nach rechts: Elina Eickstädt, Felix Reda, Dr. Stefan Heumann, Kristina Klein, Fiona Krakenbürger, auf dem Bildschirm: Lea Gimpel und Gabriele C. Klug](/files/blog/2024/2024-09-Mitgliederversammlung_1.png) 
 von links nach rechts: Elina Eickstädt, Felix Reda, Dr. Stefan Heumann, Kristina Klein, Fiona Krakenbürger, auf dem Bildschirm: Lea Gimpel und Gabriele C. Klug 
