@@ -1,6 +1,5 @@
 ---
-title: "Diskussionsentwurf der Rundfunkkommission für einen »Staatsvertrag zur Reform des öffentlich-rechtlichen Rundfunks
-(Reformstaatsvertrag)« vom 26.09.2024"
+title: "Diskussionsentwurf der Rundfunkkommission für einen »Staatsvertrag zur Reform des öffentlich-rechtlichen Rundfunks«"
 subtitle: 
 published: true
 date: 2024-10-11
