@@ -28,7 +28,7 @@ Zusätzlich konnten zwei neue Mitglieder für den Vorstand gewonnen werden, die 
 
 **Elina Eickstädt**: Elina ist Informatikerin, sie forscht und arbeitet im Bereich IT-Sicherheit. Elina ist eine der ehrenamtlichen Sprecherinnen des Chaos Computer Club und fokussiert sich in ihrer Rolle auf digitalpolitische Gesetzesvorhaben auf EU-Ebene. Seit 2022 ist sie federführend im Kampf gegen die geplanten Gesetze zur Chatcontrolle (CSA Regulations) und koordiniert strategische Argumente sowie technisches Know How in Zusammenarbeit mit dem Bündnis European Digital Rights (EDRi). Sie ist Gründungsmitglied der Initiative Computer Science for Future an der HAW Hamburg, die sich mit neuen Lehransätzen für Nachhaltigkeitsthemen in der Informatik beschäftigt. Seit 2022 ist sie als Teil des Vorstands mit der strategischen Ausrichtung der Initiative betraut.
 
-![Elina Eickstädt, Foto: Volker Conradus](files/blog/2024/Elina Eickstaedt.jpg) 
+![Elina Eickstädt, Foto: Volker Conradus](files/blog/2024/Elina%20Eickstaedt.jpg) 
 Elina Eickstädt, Foto: Volker Conradus
 
 Zitat Elina Eickstädt: *"In der gegenwärtigen politischen Situation sind Projekte, die digitale demokratische Zukünfte aktiv mitgestalten, von besonderer Bedeutung. Ich freue mich sehr, die Open Knowledge Foundation e. V. strategisch zu unterstützen und dabei sowohl meine technische Expertise als auch eine europäische Perspektive einzubringen."*
@@ -36,7 +36,7 @@ Zitat Elina Eickstädt: *"In der gegenwärtigen politischen Situation sind Proje
 **Fiona Krakenbürger**: Fiona ist Mitgründerin des Sovereign Tech Fund, eine vom Bundesministerium für Wirtschaft und Klimaschutz finanzierten Organisation zur Unterstützung von Open Source Infrastruktur im öffentlichen Interesse. Fiona arbeitet seit etwa zehn Jahren in der Finanzierung von Open Source Projekten und hat geholfen, Programme in Deutschland und den USA aufzubauen und umzusetzen. Vor dem Sovereign Tech Fund unterstützte sie weltweit Technologien zur Internetfreiheit als Senior Program Manager beim Open Technology Fund in Washington D.C. Davor half Fiona beim Aufbau des Prototype Fund, einem Open Source Förderprogramm in Deutschland. Neben ihrer Karriere in der Open Source Finanzierung unterstützte und gründete Fiona verschiedene Initiativen für mehr Diversität in Tech-Communities. Sie gründete die Heart of Code, einen feministischen Hackspace in Berlin, sowie die Chaospatinnen, ein Programm, um Newcomer für den Chaos Communication Congress zu gewinnen. Derzeit ist sie Mitglied des Komitees des RIPE Community Projects Fund, Mitglied des Advisory Council des Open
 Technology Fund und sitzt im Vorstand der OpenJS Foundation.
 
-![Fiona Krakenbürger, Foto: privat](/files/blog/2024/Fiona Krakenbuerger.jpg)
+![Fiona Krakenbürger, Foto: privat](files/blog/2024/Fiona%20Krakenbuerger.jpg) 
 Fiona Krakenbürger, Foto: privat
 
 Zitat Fiona Krakenbürger: *„Die OKF spielt eine zentrale Rolle als Vordenkerin in der digitalpolitischen Landschaft und setzt immer wieder entscheidende Impulse für mehr Offenheit und Transparenz. Die Themen des Vereins sind von großer Bedeutung für viele Entwicklungen, die unsere digitale Gesellschaft prägen. Ich freue mich darauf, als Vorstandsmitglied die Organisation und ihr engagiertes Team in ihrer wertvollen Arbeit zu unterstützen.“*
