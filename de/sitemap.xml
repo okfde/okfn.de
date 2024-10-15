@@ -242,8 +242,37 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2024/10/neuwahl-des-vorstands-pressemitteilung/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -254,6 +283,25 @@
                 hreflang="de"
                 href="https://okfn.de/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/vorstand/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
@@ -271,36 +319,7 @@
     <loc>https://okfn.de/publikationen/2024-okf_stellungnahme_rundfunk/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/erbschaften/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/okfde/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/spenden/</loc>
@@ -308,19 +327,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2024/09/spenden-und-erbschaften-f%C3%BCr-die-okf/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/hackday/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
@@ -1190,9 +1196,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/04/forum-open-education-2021-jetzt-anmelden/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/vorstand/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/03/okf-vorstandswechsel/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>

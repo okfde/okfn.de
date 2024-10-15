@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-10-02T00:00:00+0000</updated>
+  <updated>2024-10-15T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Neuwahl des Vorstands - Pressemitteilung</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/10/neuwahl-des-vorstands-pressemitteilung/"/>
+    <id>https://okfn.de/blog/2024/10/neuwahl-des-vorstands-pressemitteilung/</id>
+    <published>2024-10-15T00:00:00+0000</published>
+    <updated>2024-10-15T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;neuer-vorstand-gewählt&#34;&gt;Neuer Vorstand gewählt&lt;/h2&gt;
+&lt;p&gt;Bei der Mitgliederversammlung der Open Knowledge Foundation e. V. wurde am 19.09.2024 ein neuer Vorstand gewählt. Bisher bestand dieser aus Kristina Klein (Vorsitzende), Gabriele C. Klug (Kassenwartin), sowie den Beisitzer*innen Lea Gimpel, Stefan Heumann und Felix Reda. Wir freuen uns bekanntzugeben, dass die bisherigen Vorstandsmitglieder erneut ihre Positionen antreten.&lt;/p&gt;
+&lt;p&gt;Zitat unserer wiedergewählten Vorsitzenden Kristina Klein: &lt;em&gt;&amp;ldquo;Ich kenne die OKF seit 10 Jahren und stehe immer wieder verblüfft vor diesen fantastischen Menschen, die hier zusammenkommen. Ihr politisches Feingespür verbunden mit Tech-Kompetenz, ihr pädagogisches Talent, jungen Menschen das Gefühl zu geben, Demokratie mitgestalten zu können sowie ihre Leidenschaft, durch Förderprogramme und Mentoring die Civic-Tech-Community zu unterstützen und aufzubauen, sind besonders. So simpel es für diesen Anlass klingen mag: Es ist mir eine Ehre, Teil dieser Organisation zu sein und mit dem OKF-Team zusammenarbeiten zu dürfen.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Spenden und Erbschaften für die OKF</title>
@@ -159,16 +170,6 @@ Foto: Moderator Tobias Schmid auf der Bühne&lt;/p&gt;
     <updated>2024-06-06T00:00:00+0000</updated>
     <summary>&lt;p&gt;Im letzten Monat hatten wir die Chance, mehr über die Civic-Tech- und Open-Source-Szene in Taiwan zu erfahren und uns mit taiwanischen Aktivist:innen auszutauschen. Das Land ist ein Vorbild im Bereich Digital Democracy mit einigen Erfolgsgeschichten in der Zusammenarbeit zwischen Verwaltung und Zivilgesellschaft. Vor sieben Jahren berichteten wir über unseren ersten &lt;a href=&#34;https://codefor.de/blog/open-communities/&#34; target=&#34;_blank&#34;&gt;Besuch in Taiwan&lt;/a&gt; im Rahmen eines Austauschprogramms von Code for All.&lt;/p&gt;
 &lt;p&gt;Im internationalen Civic-Tech-Netzwerk ist g0v (ausgesprochen “gov-zero”) das taiwanesische Pendant zu Code for Germany. Nach dem Hands-on-Prinzip entwickelt die Community Open-Source-Technologien und Civic-Tech-Projekte zur demokratischen Teilhabe. Ein bekanntes frühes Projekt ist die Plattform &lt;a href=&#34;https://info.vtaiwan.tw/&#34; target=&#34;_blank&#34;&gt;vTaiwan&lt;/a&gt;, mit der Menschen aktiv an der Gesetzgebung teilnehmen können. Alle zwei Monate finden g0v-Hackathons statt, die jeweils bis zu 100 Teilnehmende zählen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Das erste Open Data Ranking ist erschienen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/05/opendataranking/"/>
-    <id>https://okfn.de/blog/2024/05/opendataranking/</id>
-    <published>2024-05-29T00:00:00+0000</published>
-    <updated>2024-05-29T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;em&gt;Wir veröffentlichen das erste &lt;a href=&#34;https://opendataranking.de&#34; target=&#34;_blank&#34;&gt;Open Data Ranking&lt;/a&gt;! In Anlehnung an das &lt;a href=&#34;https://transparenzranking.de&#34; target=&#34;_blank&#34;&gt;Transparenzranking&lt;/a&gt; blicken wir auf die Open-Data-Landschaft in Deutschland und gehen über das reine Datensätzezählen hinaus. Die Analyse der rechtlichen Rahmenbedingungen, Datenqualität und personellen Ausstattung zeigen, dass es innerhalb Deutschlands erhebliche Unterschiede in Bezug auf Open Data gibt. Während sich einzelne Bundesländer auch schon um Linked Data kümmern, fehlen bei anderen noch jegliche Grundlagen für die Datenbereitstellung.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Behörden auf allen staatlichen Ebenen – von der Bundes- bis zur Kommunalverwaltung – produzieren täglich eine Vielzahl von Informationen. Allerdings wird nur ein vergleichsweise geringer Anteil davon unter freien Lizenzen in offenen und maschinenlesbaren Formaten automatisiert bereitgestellt. Mit der ersten Version des &lt;a href=&#34;https://opendataranking.de&#34; target=&#34;_blank&#34;&gt;Rankings&lt;/a&gt; möchten wir eine Bestandsaufnahme des Status quo von Open Data in Deutschland vornehmen und die Diskussion über offene Daten im Land auf eine breitere Basis stellen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
