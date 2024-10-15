@@ -36,7 +36,7 @@ Zitat Elina Eickstädt: *"In der gegenwärtigen politischen Situation sind Proje
 **Fiona Krakenbürger**: Fiona ist Mitgründerin des Sovereign Tech Fund, eine vom Bundesministerium für Wirtschaft und Klimaschutz finanzierten Organisation zur Unterstützung von Open Source Infrastruktur im öffentlichen Interesse. Fiona arbeitet seit etwa zehn Jahren in der Finanzierung von Open Source Projekten und hat geholfen, Programme in Deutschland und den USA aufzubauen und umzusetzen. Vor dem Sovereign Tech Fund unterstützte sie weltweit Technologien zur Internetfreiheit als Senior Program Manager beim Open Technology Fund in Washington D.C. Davor half Fiona beim Aufbau des Prototype Fund, einem Open Source Förderprogramm in Deutschland. Neben ihrer Karriere in der Open Source Finanzierung unterstützte und gründete Fiona verschiedene Initiativen für mehr Diversität in Tech-Communities. Sie gründete die Heart of Code, einen feministischen Hackspace in Berlin, sowie die Chaospatinnen, ein Programm, um Newcomer für den Chaos Communication Congress zu gewinnen. Derzeit ist sie Mitglied des Komitees des RIPE Community Projects Fund, Mitglied des Advisory Council des Open
 Technology Fund und sitzt im Vorstand der OpenJS Foundation.
 
-![Fiona Krakenbürger, Foto: privat](/files/blog/2024/Fiona Krakenbuerger.jpg) 
+![Fiona Krakenbürger, Foto: privat](/files/blog/2024/Fiona Krakenbuerger.jpg)
 Fiona Krakenbürger, Foto: privat
 
 Zitat Fiona Krakenbürger: *„Die OKF spielt eine zentrale Rolle als Vordenkerin in der digitalpolitischen Landschaft und setzt immer wieder entscheidende Impulse für mehr Offenheit und Transparenz. Die Themen des Vereins sind von großer Bedeutung für viele Entwicklungen, die unsere digitale Gesellschaft prägen. Ich freue mich darauf, als Vorstandsmitglied die Organisation und ihr engagiertes Team in ihrer wertvollen Arbeit zu unterstützen.“*
@@ -45,7 +45,7 @@ Zitat Fiona Krakenbürger: *„Die OKF spielt eine zentrale Rolle als Vordenkeri
 
 Mit unserem Vorstand blicken wir zuversichtlich in die Zukunft und sind bestens aufgestellt, um in den nächsten zwei Jahren gesellschaftspolitische Herausforderungen gemeinsam zu meistern. Wir freuen uns außerdem, unser Potenzial durch neue Perspektiven zu erweitern. Um die Gesellschaft nachhaltig mitzugestalten und eigene Ziele zu erreichen, sind wir mit diesem Vorstand auf jeden Fall bestens gerüstet. Zum Schluss möchten wir uns an dieser Stelle bei allen bisherigen Vorstandsmitgliedern für ihre langjährige Unterstützung und ihr großartiges Engagement für die OKF bedanken. *Wir freuen uns auf die gemeinsame Zeit!*
 
-![von links nach rechts: Elina Eickstädt, Dr. Stefan Heumann, Henriette Litta (mit Blumenstrauß!), Felix Reda, Kristina Klein und Fiona Krakenbürger](/files/blog/2024/2024-09-Mitgliederversammlung_2.png) 
-von links nach rechts: Elina Eickstädt, Dr. Stefan Heumann, Henriette Litta (mit Blumenstrauß!), Felix Reda, Kristina Klein und Fiona Krakenbürger 
+![von links nach rechts: Elina Eickstädt, Dr. Stefan Heumann, Henriette Litta, Felix Reda, Kristina Klein und Fiona Krakenbürger](/files/blog/2024/2024-09-Mitgliederversammlung_2.png) 
+von links nach rechts: Elina Eickstädt, Dr. Stefan Heumann, Henriette Litta, Felix Reda, Kristina Klein und Fiona Krakenbürger 
 
 Weitere Informationen zum [Vorstand der OKF](https://okfn.de/vorstand/) findet ihr auf unserer Website!
