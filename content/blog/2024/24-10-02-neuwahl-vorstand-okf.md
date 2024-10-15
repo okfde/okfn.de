@@ -5,8 +5,7 @@ date: 2024-10-02
 image: 
   src: /files/blog/2024/2024-Vorstand.png
 tags:
-- Spenden
-- Erbschaften
+- Vorstand
 type: post
 layout: post
 published: false
