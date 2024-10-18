@@ -1,9 +1,9 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2024-10-19
+date: 2024-10-18
 image: 
-  src: /files/blog/2024/rc2.JPG
+  src: /files/blog/2024/r2r_de.png
   license: cc by Maximilian Voigt
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
