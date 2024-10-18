@@ -242,32 +242,6 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -279,6 +253,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/buendnisf5/</loc>
@@ -293,7 +280,32 @@
     <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
     <loc>https://okfn.de/tags/pressemitteilung/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/produkttransparenz/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
@@ -443,16 +455,10 @@
     <loc>https://okfn.de/tags/kreislaufwirtschaft/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/nkws/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/open-hardware/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/produkttransparenz/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/06/zum-entwurf-der-nkws-ambitioniert-bleiben/</loc>
@@ -587,9 +593,6 @@
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/</loc>
-    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/04/f5-forderungen-dmk/</loc>

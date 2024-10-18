@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-10-19T00:00:00+0000</updated>
+  <updated>2024-10-18T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
@@ -19,6 +19,15 @@
 &lt;p&gt;Berlin, 18. Oktober 2024&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Am kommenden Montag beginnt der zweitägige &lt;a href=&#34;https://www.de.digital/DIGITAL/Navigation/DE/Digital-Gipfel/digital-gipfel.html&#34; target=&#34;_blank&#34;&gt;Digital-Gipfel der Bundesregierung&lt;/a&gt; in Frankfurt am Main. OKF-Geschäftsführerin Henriette Litta wird auf einem Panel zur Digitalstrategie der Regierung diskutieren. Unser Bündnis F5 wird erstmals mit einer offiziellen Rolle teilnehmen. Der Weg zu einer nachhaltigen Beteiligung der Zivilgesellschaft ist jedoch noch weit.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Henriette wird am zweiten Tag des Digitalgipfels um 11:30 Uhr über die Arbeit im Digitalbeirat und die Fortschritte bei der Digitalstrategie diskutieren sowie ihre Learnings und Forderungen an zukünftige Digitalpolitik skizzieren. Für das &lt;a href=&#34;https://buendnis-f5.de/&#34; target=&#34;_blank&#34;&gt;Bündnis F5&lt;/a&gt; (AlgorithmWatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) wird Matthias Spielkamp, der Geschäftsführer und Mitgründer von AlgorithmWatch, gemeinsam mit Bundesumweltministerin Steffi Lemke die Plattform 7 „Verbraucherpolitik und Nachhaltigkeit in der digitalen Transformation“ leiten.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Licht ins Dunkel deutscher Reparaturpolitik</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/"/>
+    <id>https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/</id>
+    <published>2024-10-18T00:00:00+0000</published>
+    <updated>2024-10-18T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Als die Bundesregierung 2021 angetreten ist, hatte sie sich vorgenommen das sogenannte „Recht auf Reparatur“ voranzubringen und die Reparierbarkeit eines Produktes „zum erkennbaren Merkmal der Produkteigenschaft“ zu machen (siehe &lt;a href=&#34;https://www.bundesregierung.de/breg-de/aktuelles/koalitionsvertrag-2021-1990800&#34; target=&#34;_blank&#34;&gt;Koalitionsvertrag&lt;/a&gt;). In den folgenden Jahren gab es immer wieder Berichterstattung zu den Entwicklungen auf EU-Ebene. Deutschland wollte mit einem Aktionsprogramm „Reparieren statt wegwerfen“ eine Vorreiterrolle einnehmen. Doch bisher ist nichts passiert. Dafür haben wir ein EU-weites Recht auf Reparatur bekommen, das &lt;a href=&#34;https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/&#34; target=&#34;_blank&#34;&gt;seinen Namen nicht verdient&lt;/a&gt;. Mich hat ein Jahr die Frage beschäftigt: Für was hat sich die Bundesregierung nun wirklich eingesetzt? Zahlreiche Anfragen im Rahmen des Informationsfreiheitsgesetzes und eine Klage gegen das Bundes Justizministerium später gibt es einen Haufen Papier und ein paar Antworten.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
@@ -162,16 +171,6 @@ Foto: Moderator Tobias Schmid auf der Bühne&lt;/p&gt;
 &lt;h3 id=&#34;was-zählt-als-open-source-ki&#34;&gt;Was zählt als Open-Source-KI?&lt;/h3&gt;
 &lt;p&gt;Wenn der Staat Softwareenticklung finanziert, sollte die Allgemeinheit von den Ergebnissen profitieren können. Der Prototype Fund fördert deshalb ausschließlich Open-Source-Software. Bei traditioneller Softwareentwicklung bedeutet das: der Code wird unter einer freien und offenen Lizenz veröffentlicht. Um KI-Modelle und -Anwendungen untersuchen und frei nutzen zu können, reicht die Veröffentlichung des Code allein jedoch nicht aus. Ihre Funktionsweise ist nur in Kombination mit weiteren Informationen wie den zugrundeliegenden Daten und Trainingsparametern festgelegt. Auch die Zusammenarbeit in Open-Source-Communities über öffentliche Repositorien ist nur dann möglich, wenn alle wesentlichen Komponenten eines KI-Projekts offen verfügbar sind. Aktuell arbeitet deshalb die Open Source Initiative in einem Multi-Stakeholder-Prozess an einer Definition des Begriffs &lt;a href=&#34;https://opensource.org/deepdive/drafts/the-open-source-ai-definition-draft-v-0-0-8&#34; target=&#34;_blank&#34;&gt;Open-Source-KI&lt;/a&gt;.&lt;br&gt;
 Öffentliche Förderprogramme sollten transparent erklären, welche Komponenten unter Open-Source-Lizenz zu veröffentlichen sind und unter welchen Bedingungen auf proprietären, unveröffentlichten Komponenten aufgebaut werden darf. Das gilt besonders auch für Datensätze.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Gerade jetzt. Für alle.</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/06/gerade-jetzt.-f%C3%BCr-alle./"/>
-    <id>https://okfn.de/blog/2024/06/gerade-jetzt.-f%C3%BCr-alle./</id>
-    <published>2024-06-12T00:00:00+0000</published>
-    <updated>2024-06-12T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;em&gt;Die OKF unterstützt die Kampagne &lt;strong&gt;&amp;ldquo;Gerade jetzt. Für alle.&amp;rdquo;&lt;/strong&gt;: Im Bundeshaushalt 2025 drohen nach Sparvorgaben des Finanzministeriums massive Streichungen. Bei den derzeitigen Verhandlungen zeichnet sich ab, dass das vor allem die Programmhaushalte der Ministerien treffen wird. Damit sind zivilgesellschaftliche Projekte und Initiativen bundesweit in ihrer Existenz bedroht. Ein breites Bündnis aus mehr als 50 gemeinnützigen Organisationen warnt nun vor den dramatischen Folgen solcher Haushaltskürzungen für die Demokratie.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Nach bisherigen Schätzungen droht im Bundeshaushalt eine Finanzierungslücke in Höhe von mindestens 25 Milliarden Euro. Wenn die Sparvorgaben der Bundesregierung jedoch wie geplant umgesetzt werden, gefährdet das auch das zivilgesellschaftliche Engagement in Deutschland: Kürzungen sind unter anderem in der Demokratieförderung, der Kinder- und Jugendarbeit, der politischen Bildung und bei den Freiwilligendiensten zu erwarten. Das Bündnis „Gerade jetzt. Für alle.“, in dem auch die OKF ein Teil ist, wendet sich daher mit einer Petition für den Erhalt der Fördergelder. &lt;a href=&#34;https://weact.campact.de/petitions/demokratieforderung-in-gefahr-kurzungen-jetzt-stoppen-geradejetztfueralle&#34; target=&#34;_blank&#34;&gt;Hier&lt;/a&gt; könnt ihr die Petition unterzeichnen!&lt;/p&gt;</summary>
   </entry>
   
 </feed>
