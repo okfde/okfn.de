@@ -1,13 +1,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-10-17T00:00:00+0000</updated>
+  <updated>2024-10-18T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bündnis F5 beim Digital-Gipfel – Die Zivilgesellschaft muss um jeden Zentimeter Raum kämpfen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/10/digitalgipfel-pm-f5/"/>
+    <id>https://okfn.de/blog/2024/10/digitalgipfel-pm-f5/</id>
+    <published>2024-10-18T00:00:00+0000</published>
+    <updated>2024-10-18T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Pressemitteilung des Bündnis F5&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Berlin, 18. Oktober 2024&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Am kommenden Montag beginnt der zweitägige &lt;a href=&#34;https://www.de.digital/DIGITAL/Navigation/DE/Digital-Gipfel/digital-gipfel.html&#34; target=&#34;_blank&#34;&gt;Digital-Gipfel der Bundesregierung&lt;/a&gt; in Frankfurt am Main. OKF-Geschäftsführerin Henriette Litta wird auf einem Panel zur Digitalstrategie der Regierung diskutieren. Unser Bündnis F5 wird erstmals mit einer offiziellen Rolle teilnehmen. Der Weg zu einer nachhaltigen Beteiligung der Zivilgesellschaft ist jedoch noch weit.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Henriette wird am zweiten Tag des Digitalgipfels um 11:30 Uhr über die Arbeit im Digitalbeirat und die Fortschritte bei der Digitalstrategie diskutieren sowie ihre Learnings und Forderungen an zukünftige Digitalpolitik skizzieren. Für das &lt;a href=&#34;https://buendnis-f5.de/&#34; target=&#34;_blank&#34;&gt;Bündnis F5&lt;/a&gt; (AlgorithmWatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) wird Matthias Spielkamp, der Geschäftsführer und Mitgründer von AlgorithmWatch, gemeinsam mit Bundesumweltministerin Steffi Lemke die Plattform 7 „Verbraucherpolitik und Nachhaltigkeit in der digitalen Transformation“ leiten.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Neuwahl des Vorstands - Pressemitteilung</title>
@@ -160,16 +172,6 @@ Foto: Moderator Tobias Schmid auf der Bühne&lt;/p&gt;
     <updated>2024-06-12T00:00:00+0000</updated>
     <summary>&lt;p&gt;&lt;em&gt;Die OKF unterstützt die Kampagne &lt;strong&gt;&amp;ldquo;Gerade jetzt. Für alle.&amp;rdquo;&lt;/strong&gt;: Im Bundeshaushalt 2025 drohen nach Sparvorgaben des Finanzministeriums massive Streichungen. Bei den derzeitigen Verhandlungen zeichnet sich ab, dass das vor allem die Programmhaushalte der Ministerien treffen wird. Damit sind zivilgesellschaftliche Projekte und Initiativen bundesweit in ihrer Existenz bedroht. Ein breites Bündnis aus mehr als 50 gemeinnützigen Organisationen warnt nun vor den dramatischen Folgen solcher Haushaltskürzungen für die Demokratie.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Nach bisherigen Schätzungen droht im Bundeshaushalt eine Finanzierungslücke in Höhe von mindestens 25 Milliarden Euro. Wenn die Sparvorgaben der Bundesregierung jedoch wie geplant umgesetzt werden, gefährdet das auch das zivilgesellschaftliche Engagement in Deutschland: Kürzungen sind unter anderem in der Demokratieförderung, der Kinder- und Jugendarbeit, der politischen Bildung und bei den Freiwilligendiensten zu erwarten. Das Bündnis „Gerade jetzt. Für alle.“, in dem auch die OKF ein Teil ist, wendet sich daher mit einer Petition für den Erhalt der Fördergelder. &lt;a href=&#34;https://weact.campact.de/petitions/demokratieforderung-in-gefahr-kurzungen-jetzt-stoppen-geradejetztfueralle&#34; target=&#34;_blank&#34;&gt;Hier&lt;/a&gt; könnt ihr die Petition unterzeichnen!&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Von Taipei nach Berlin: Wie Civic Tech in Taiwan zur digitalen Demokratie inspiriert</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/06/civic-tech-taiwan/"/>
-    <id>https://okfn.de/blog/2024/06/civic-tech-taiwan/</id>
-    <published>2024-06-06T00:00:00+0000</published>
-    <updated>2024-06-06T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Im letzten Monat hatten wir die Chance, mehr über die Civic-Tech- und Open-Source-Szene in Taiwan zu erfahren und uns mit taiwanischen Aktivist:innen auszutauschen. Das Land ist ein Vorbild im Bereich Digital Democracy mit einigen Erfolgsgeschichten in der Zusammenarbeit zwischen Verwaltung und Zivilgesellschaft. Vor sieben Jahren berichteten wir über unseren ersten &lt;a href=&#34;https://codefor.de/blog/open-communities/&#34; target=&#34;_blank&#34;&gt;Besuch in Taiwan&lt;/a&gt; im Rahmen eines Austauschprogramms von Code for All.&lt;/p&gt;
-&lt;p&gt;Im internationalen Civic-Tech-Netzwerk ist g0v (ausgesprochen “gov-zero”) das taiwanesische Pendant zu Code for Germany. Nach dem Hands-on-Prinzip entwickelt die Community Open-Source-Technologien und Civic-Tech-Projekte zur demokratischen Teilhabe. Ein bekanntes frühes Projekt ist die Plattform &lt;a href=&#34;https://info.vtaiwan.tw/&#34; target=&#34;_blank&#34;&gt;vTaiwan&lt;/a&gt;, mit der Menschen aktiv an der Gesetzgebung teilnehmen können. Alle zwei Monate finden g0v-Hackathons statt, die jeweils bis zu 100 Teilnehmende zählen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
