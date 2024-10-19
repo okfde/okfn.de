@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-10-18T00:00:00+0000</updated>
+  <updated>2024-10-19T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Licht ins Dunkel deutscher Reparaturpolitik</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/"/>
+    <id>https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/</id>
+    <published>2024-10-19T00:00:00+0000</published>
+    <updated>2024-10-19T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Als die Bundesregierung 2021 angetreten ist, hatte sie sich vorgenommen das sogenannte „Recht auf Reparatur“ voranzubringen und die Reparierbarkeit eines Produktes „zum erkennbaren Merkmal der Produkteigenschaft“ zu machen (siehe &lt;a href=&#34;https://www.bundesregierung.de/breg-de/aktuelles/koalitionsvertrag-2021-1990800&#34; target=&#34;_blank&#34;&gt;Koalitionsvertrag&lt;/a&gt;). In den folgenden Jahren gab es immer wieder Berichterstattung zu den Entwicklungen auf EU-Ebene. Deutschland wollte mit einem Aktionsprogramm „Reparieren statt wegwerfen“ eine Vorreiterrolle einnehmen. Doch bisher ist nichts passiert. Dafür haben wir ein EU-weites Recht auf Reparatur bekommen, das &lt;a href=&#34;https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/&#34; target=&#34;_blank&#34;&gt;seinen Namen nicht verdient&lt;/a&gt;. Mich hat ein Jahr die Frage beschäftigt: Für was hat sich die Bundesregierung nun wirklich eingesetzt? Zahlreiche Anfragen im Rahmen des Informationsfreiheitsgesetzes und eine Klage gegen das Bundes Justizministerium später gibt es einen Haufen Papier und ein paar Antworten. Anlässlich des &lt;a href=&#34;https://openrepair.org/international-repair-day/&#34; target=&#34;_blank&#34;&gt;internationalen Tages der Reparatur&lt;/a&gt; fasse ich sie hier zusammen.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Bündnis F5 beim Digital-Gipfel – Die Zivilgesellschaft muss um jeden Zentimeter Raum kämpfen</title>
@@ -19,15 +28,6 @@
 &lt;p&gt;Berlin, 18. Oktober 2024&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Am kommenden Montag beginnt der zweitägige &lt;a href=&#34;https://www.de.digital/DIGITAL/Navigation/DE/Digital-Gipfel/digital-gipfel.html&#34; target=&#34;_blank&#34;&gt;Digital-Gipfel der Bundesregierung&lt;/a&gt; in Frankfurt am Main. OKF-Geschäftsführerin Henriette Litta wird auf einem Panel zur Digitalstrategie der Regierung diskutieren. Unser Bündnis F5 wird erstmals mit einer offiziellen Rolle teilnehmen. Der Weg zu einer nachhaltigen Beteiligung der Zivilgesellschaft ist jedoch noch weit.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Henriette wird am zweiten Tag des Digitalgipfels um 11:30 Uhr über die Arbeit im Digitalbeirat und die Fortschritte bei der Digitalstrategie diskutieren sowie ihre Learnings und Forderungen an zukünftige Digitalpolitik skizzieren. Für das &lt;a href=&#34;https://buendnis-f5.de/&#34; target=&#34;_blank&#34;&gt;Bündnis F5&lt;/a&gt; (AlgorithmWatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) wird Matthias Spielkamp, der Geschäftsführer und Mitgründer von AlgorithmWatch, gemeinsam mit Bundesumweltministerin Steffi Lemke die Plattform 7 „Verbraucherpolitik und Nachhaltigkeit in der digitalen Transformation“ leiten.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Licht ins Dunkel deutscher Reparaturpolitik</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/"/>
-    <id>https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/</id>
-    <published>2024-10-18T00:00:00+0000</published>
-    <updated>2024-10-18T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Als die Bundesregierung 2021 angetreten ist, hatte sie sich vorgenommen das sogenannte „Recht auf Reparatur“ voranzubringen und die Reparierbarkeit eines Produktes „zum erkennbaren Merkmal der Produkteigenschaft“ zu machen (siehe &lt;a href=&#34;https://www.bundesregierung.de/breg-de/aktuelles/koalitionsvertrag-2021-1990800&#34; target=&#34;_blank&#34;&gt;Koalitionsvertrag&lt;/a&gt;). In den folgenden Jahren gab es immer wieder Berichterstattung zu den Entwicklungen auf EU-Ebene. Deutschland wollte mit einem Aktionsprogramm „Reparieren statt wegwerfen“ eine Vorreiterrolle einnehmen. Doch bisher ist nichts passiert. Dafür haben wir ein EU-weites Recht auf Reparatur bekommen, das &lt;a href=&#34;https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/&#34; target=&#34;_blank&#34;&gt;seinen Namen nicht verdient&lt;/a&gt;. Mich hat ein Jahr die Frage beschäftigt: Für was hat sich die Bundesregierung nun wirklich eingesetzt? Zahlreiche Anfragen im Rahmen des Informationsfreiheitsgesetzes und eine Klage gegen das Bundes Justizministerium später gibt es einen Haufen Papier und ein paar Antworten.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
