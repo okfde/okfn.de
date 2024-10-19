@@ -1,7 +1,7 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2024-10-18
+date: 2024-10-19
 image: 
   src: /files/blog/2024/r2r_de.png
   license: cc by Maximilian Voigt
@@ -16,7 +16,7 @@ featured: blue
 title: "Licht ins Dunkel deutscher Reparaturpolitik"
 ---
 
-Als die Bundesregierung 2021 angetreten ist, hatte sie sich vorgenommen das sogenannte „Recht auf Reparatur“ voranzubringen und die Reparierbarkeit eines Produktes „zum erkennbaren Merkmal der Produkteigenschaft“ zu machen (siehe [Koalitionsvertrag](https://www.bundesregierung.de/breg-de/aktuelles/koalitionsvertrag-2021-1990800)). In den folgenden Jahren gab es immer wieder Berichterstattung zu den Entwicklungen auf EU-Ebene. Deutschland wollte mit einem Aktionsprogramm „Reparieren statt wegwerfen“ eine Vorreiterrolle einnehmen. Doch bisher ist nichts passiert. Dafür haben wir ein EU-weites Recht auf Reparatur bekommen, das [seinen Namen nicht verdient](https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/). Mich hat ein Jahr die Frage beschäftigt: Für was hat sich die Bundesregierung nun wirklich eingesetzt? Zahlreiche Anfragen im Rahmen des Informationsfreiheitsgesetzes und eine Klage gegen das Bundes Justizministerium später gibt es einen Haufen Papier und ein paar Antworten.
+Als die Bundesregierung 2021 angetreten ist, hatte sie sich vorgenommen das sogenannte „Recht auf Reparatur“ voranzubringen und die Reparierbarkeit eines Produktes „zum erkennbaren Merkmal der Produkteigenschaft“ zu machen (siehe [Koalitionsvertrag](https://www.bundesregierung.de/breg-de/aktuelles/koalitionsvertrag-2021-1990800)). In den folgenden Jahren gab es immer wieder Berichterstattung zu den Entwicklungen auf EU-Ebene. Deutschland wollte mit einem Aktionsprogramm „Reparieren statt wegwerfen“ eine Vorreiterrolle einnehmen. Doch bisher ist nichts passiert. Dafür haben wir ein EU-weites Recht auf Reparatur bekommen, das [seinen Namen nicht verdient](https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/). Mich hat ein Jahr die Frage beschäftigt: Für was hat sich die Bundesregierung nun wirklich eingesetzt? Zahlreiche Anfragen im Rahmen des Informationsfreiheitsgesetzes und eine Klage gegen das Bundes Justizministerium später gibt es einen Haufen Papier und ein paar Antworten. Anlässlich des [internationalen Tages der Reparatur](https://openrepair.org/international-repair-day/) fasse ich sie hier zusammen.
 
 ## Das Aktionsprogramm, ein Rohrkreppierer
 Mit dem Aktionsprogramm „Reparieren statt wegwerfen“ wollte die Bundesregierung bzw. das durch die Grünen geführte Umweltministerium (BMUV) mit dem Justizministerium (BMJ) und dem Wirtschaftsministerium (BMWK) ein Paket auf den Weg bringen, das die Reparatur fördert. Doch lange war unklar wie es genau geschnürt ist. Noch bevor es veröffentlicht werden konnte sickerte durch, dass es keine Einigung geben und das Aktionsprogramm nicht in der angekündigten Form kommen wird. Woran ist es gescheitert? Durch eine Klage gegen das BMJ liegen der Entwurf des Programms sowie die Kommunikation zwischen BMUV und BMJ dazu vor. Daraus geht hervor, dass das Aktionsprogramm sich mit dem in der Entwicklung befindlichen „Right to Repair“ verwickelte, statt innovative nationale Projekte anzugehen. Die wenigen guten Ansätze wurden vom BMJ in der Luft zerrissen - End of Story.
