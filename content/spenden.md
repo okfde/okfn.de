@@ -26,3 +26,5 @@ Mit eurer Unterstützung stärkt ihr eine starke digitale Zivilgesellschaft und 
 Mit unserem [aktuellen Freistellungsbescheid](/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung, der Volks- und Berufsbildung, des demokratischen Staatswesens im Geltungsbereich der Abgabenordnung sowie des bürgerschaftlichen Engagements zugunsten gemeinnütziger Zwecke anerkannt. Für Spenden bis zu 300 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten Zuwendungsnachweis](/files/documents/2023_OKF_Zuwendungen_vereinfachteZuwendungsbest.pdf).
 
 Erbschaften sind eine besondere Möglichkeit, positiven Einfluss zu hinterlassen. Falls ihr euch nun fragt: *„Vererben, aber wie?“* – schaut gerne auf [unserem Blogbeitrag](https://okfn.de/blog/2024/09/spenden-und-erbschaften-f%C3%BCr-die-okf/) vorbei. Vielen Dank für eure Unterstützung!
+
+![Danke!](/files/images/Spenden_danke.png) 
