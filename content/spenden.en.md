@@ -25,4 +25,4 @@ With your support, you are strengthening a strong digital civil society and enab
 
 With our [current notice of exemption](https://okfn.de/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) we are recognised as a non-profit association for the promotion of science and research as well as of popular and vocational education. For donations up to 300 Euro per year your proof of payment (e.g. bank statement) together with our [Vereinfachten Zuwendungsnachweis](https://okfn.de/files/documents/2023_OKF_Zuwendungen_vereinfachteZuwendungsbest.pdf) is sufficient as proof of donation.
 
-Inheritances are a special opportunity to leave a positive impact. If you are now asking yourself: *Inheritance, but how?*, take a look at our [blog post](https://okfn.de/blog/2024/09/spenden-und-erbschaften-f%C3%BCr-die-okf/). Thank you for your support!
+Inheritances are a special opportunity to leave a positive impact. If you are now asking yourself: *Inheritance, but how?* take a look at our [blog post](https://okfn.de/blog/2024/09/spenden-und-erbschaften-f%C3%BCr-die-okf/). Thank you for your support!
