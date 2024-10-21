@@ -15,7 +15,7 @@ box_title: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, habe
 box_link_name: Hier geht's zur Transparenzseite
 ---
 
-### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Wenn euch unsere Mission am Herzen liegt, und es eure finanzielle Situation erlaubt, könnt ihr mit Geldspenden unsere Arbeit nachhaltig sichern.
+### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Wenn euch unsere Mission am Herzen liegt, und es eure finanzielle Situation erlaubt, könnt ihr unsere Arbeit nachhaltig sichern.
 
 Erbschaften sind eine besondere Möglichkeit, einen positiven Einfluss zu hinterlassen. Mit eurer Unterstützung stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht uns:
 
