@@ -17,7 +17,7 @@ box_link_name: Hier geht's zur Transparenzseite
 
 ### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Wenn euch unsere Mission am Herzen liegt, und es eure finanzielle Situation erlaubt, könnt ihr unsere Arbeit nachhaltig sichern.
 
-Erbschaften sind eine besondere Möglichkeit, einen positiven Einfluss zu hinterlassen. Mit eurer Unterstützung stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht uns:
+Mit eurer Unterstützung stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht uns:
 
 *	politische Kampagnenarbeit im Interesse der Zivilgesellschaft
 *	Projekte zu freiem Wissen und digitaler Mündigkeit
@@ -25,4 +25,4 @@ Erbschaften sind eine besondere Möglichkeit, einen positiven Einfluss zu hinter
 
 Mit unserem [aktuellen Freistellungsbescheid](/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung, der Volks- und Berufsbildung, des demokratischen Staatswesens im Geltungsbereich der Abgabenordnung sowie des bürgerschaftlichen Engagements zugunsten gemeinnütziger Zwecke anerkannt. Für Spenden bis zu 300 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten Zuwendungsnachweis](/files/documents/2023_OKF_Zuwendungen_vereinfachteZuwendungsbest.pdf).
 
-Falls ihr euch nun fragt: *„Vererben, aber wie?“*, schaut gerne auf [unserem Blogbeitrag](https://okfn.de/blog/2024/09/spenden-und-erbschaften-f%C3%BCr-die-okf/) vorbei. Vielen Dank für eure Unterstützung!
+Erbschaften sind eine besondere Möglichkeit, einen positiven Einfluss zu hinterlassen. Falls ihr euch nun fragt: *„Vererben, aber wie?“*, schaut gerne auf [unserem Blogbeitrag](https://okfn.de/blog/2024/09/spenden-und-erbschaften-f%C3%BCr-die-okf/) vorbei. Vielen Dank für eure Unterstützung!
