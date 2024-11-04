@@ -1,16 +1,15 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2019-12-09
 image:
   src: /files/blog/2019/HL_1.jpeg
   title: Henriette Litta
-tags:
+tags: null
 type: post
 layout: post
-published: true
 featured: yellow
-title: "In eigener Sache: Henriette Litta übernimmt Geschäftsführung bei Open Knowledge Foundation Deutschland e.V."
+title: 'In eigener Sache: Henriette Litta übernimmt Geschäftsführung bei Open Knowledge Foundation Deutschland e.V.'
+publishedDate: 2019-12-09
 ---
 
 Wir freuen uns sehr, mit Beginn des neuen Jahres Dr. Henriette Litta als neue Geschäftsführerin der OKF DE begrüßen zu dürfen. Henriette hat uns im Auswahlprozess u. a. mit ihrer langjährigen Erfahrung in Führungspositionen im gemeinnützigen Sektor, ihrem Know-How in der Organisationsentwicklung im agilen Umfeld und nicht zuletzt aufgrund ihrer Identifikation mit den Werten und Zielen der OKF DE überzeugt.

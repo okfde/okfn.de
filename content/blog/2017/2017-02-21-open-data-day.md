@@ -1,18 +1,17 @@
 ---
-authors: 
+authors:
 - Fiona Krakenbürger
-date: 2017-02-21 10:00:00
 image:
   src: /files/blog/2017/02/odd17.png
-  title: 
+  title: null
 tags:
 - Events
 - Open Data
 type: post
 layout: post
 card: true
-published: true
-title: "International Open Data Day am 04. März"
+title: International Open Data Day am 04. März
+publishedDate: 2017-02-21 10:00:00
 ---
 
 <h3>Am 04. März laden Aktivistinnen auf der ganzen Welt zum <a href="http://opendataday.org">International Open Data Day</a> ein.</h3><br>
@@ -30,4 +29,3 @@ Dieses Jahr legen die OK Labs ein vielfältiges Programm mit den unterschiedlich
 *	In <a href="http://codeforhamburg.org">Hamburg</a> gibt es als Auftakt bereits am Freitag eine ganztägige Veranstaltung, das <a href="http://offenestadt.info">"Forum Offene Stadt"</a> gemeinsam mit der Körber-Stiftung. Dazu haben wir schon letzte Woche einen <a href="http:/codefor.de/blog/forum-offene-stadt-hamburg">Blogpost</a> geschrieben.<br>
 
 Das ist selbstverständlich nur ein kleiner Auszug, schaut am Besten selber mal in die <a href="http://de.opendataday.org">lange lange Liste von Events</a> und besucht ein Lab in eurer Nähe! Wir wünschen allen Labs einen wunderbaren Open Data Day. Folgt dem Hashtag <a href="https://twitter.com/search?src=typd&q=ODD17">#ODD17</a> auf Twitter, um zu sehen, was in den Labs und auf der ganzen Welt am 04. März passiert.
-

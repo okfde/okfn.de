@@ -1,7 +1,6 @@
 ---
 authors:
 - Michael Peters
-date: 2020-03-11
 image:
   src: /files/blog/2020/03/data-joshua-sortino-unsplash.jpg
   title: Photo by Joshua Sortino on Unsplash
@@ -11,9 +10,9 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
-title: "Datenpolitik ist Gesellschaftspolitik"
+title: Datenpolitik ist Gesellschaftspolitik
+publishedDate: 2020-03-11
 ---
 
 Die Bundesregierung plant ihre Datenstrategie und die Zivilgesellschaft ist gefragt! Mit der Strategie möchte sie eine langfristige Grundlage für Datennutzung, Open Data und den Umgang mit Datenschutz schaffen. Wie immer gilt dabei: öffentliche Daten nützen, private Daten schützen.

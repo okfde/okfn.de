@@ -1,17 +1,15 @@
 ---
 authors:
 - Bela Seeger
-date: 2019-10-12
 image:
   src: /files/blog/2019/10/BODDy.png
-tags:
-
+tags: null
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Einladung: Berlin Open Data Day am 5. November"
+title: 'Einladung: Berlin Open Data Day am 5. November'
+publishedDate: 2019-10-12
 ---
 
 Der Berlin Open Data Day 2019 findet am 5. November unter dem Thema 'Intelligent Data' statt. 

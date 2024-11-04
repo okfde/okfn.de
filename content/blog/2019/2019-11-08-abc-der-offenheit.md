@@ -1,18 +1,18 @@
 ---
 authors:
 - OKF
-date: 2019-11-08
 image:
   src: /files/blog/2019/11/abc-offenheit-klein.jpg
-  title: "ABC der Offenheit"
+  title: ABC der Offenheit
   license: cc0
   license_url: https://creativecommons.org/share-your-work/public-domain/cc0/
 type: post
 layout: post
 card: true
-published: true
-title: "Das ABC der Offenheit"
+title: Das ABC der Offenheit
+publishedDate: 2019-11-08
 ---
+
 ### Was ist OPEN? Diese und andere Fragen beantwortet das ABC der Offenheit, eine [neu aufgelegte Broschüre](https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf) von Wikimedia und Open Knowledge Foundation Deutschland.
 
 Open Data, Open Education, Open Government - Es gibt viele Bereiche, in denen Offenheit gefordert wird. Doch was bedeutet das eigentlich jeweils genau? Eine neu aufgelegte Broschüre von OKF und Wikimedia soll einen Einstieg in die Open-Welt bieten und die wichtigsten Fragen rund um freie Lizenzen klären.

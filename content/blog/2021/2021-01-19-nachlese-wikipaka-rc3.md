@@ -2,12 +2,11 @@
 authors:
 - Claudia Jach
 - Philip Steffan
-date: 2021-01-19
 image:
   src: /files/blog/2021/01/wikipaka_ident.jpg
   title: Wikipaka Television und Fernstreaming
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Konferenz
 - Event
@@ -16,9 +15,9 @@ tags:
 - Chaos Communication Congress
 type: post
 layout: post
-published: true
 featured: blue
-title: "Nachlese: Vorträge auf dem Congress (rc3)"
+title: 'Nachlese: Vorträge auf dem Congress (rc3)'
+publishedDate: 2021-01-19
 ---
 
 Einer unserer Standardtermine jedes Jahr ist der [Chaos Communication Congress](https://events.ccc.de/) zwischen Weihnachten und Neujahr. Viele Haupt- und Ehrenamtliche der OKF besuchen den weltweiten Kongress von Hacker:innen und gesellschaftspolitischen Aktivist:innen und gestalten auch das Programm mit.

@@ -1,12 +1,11 @@
 ---
 authors:
 - Judith Doleschal
-date: 2021-07-08
 image:
   src: /files/blog/2021/07/freiheit-fuer-wissen.jpg
   title: Fragezeichen in Leuchtschrift
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - OKFDE10
 - Community
@@ -14,9 +13,9 @@ tags:
 - Informationsfreiheit
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Freiheit für Wissen! Freiheit für uns?"
+title: Freiheit für Wissen! Freiheit für uns?
+publishedDate: 2021-07-08
 ---
 
 ### Wir laden ein!
@@ -40,4 +39,3 @@ Informationsfreiheit ist dank FragDenStaat kein Fremdwort mehr. Dennoch sind sic
 Gleichermaßen wollen wir einen kritischen Blick wagen und diskutieren, was noch zu tun ist. Was hat sich seit der Gründung von FragDenStaat.de – ebenfalls vor zehn Jahren – tatsächlich getan? Ist Transparenz alleine der Heilsbringer, nach dem sich viele sehnen, oder was braucht es darüber hinaus? Die Liste der Forderungen vor der Bundestagswahl ist lang –  besonders zu erwähnen ist hierbei die Tromsö-Konvention, die Deutschland immer noch nicht unterzeichnet hat. Abschreckende Gebühren und vorgeschobene vermeintliche Urheberrechte werden gern genommen, um Antragsteller:innen am Informationszugang zu hindern. Wie wir als Community hier Druck auf die Politik ausüben und kämpfen können, wird ebenfall Teil des Gesprächs sein.
 
 Auf YouTube wird es die Möglichkeit geben, Fragen im Chat zu stellen. Außerdem könnt ihr auf Twitter unter [#OKFde10](https://twitter.com/hashtag/OKFde10) und [@okfde](https://twitter.com/okfde) mitdiskutieren.
-

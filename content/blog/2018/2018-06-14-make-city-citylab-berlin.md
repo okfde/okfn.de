@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2018-06-14
 image:
   src: /files/blog/2018/06/citylab-lageplan.jpg
   title: citylab.berlin
@@ -12,9 +11,10 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "make.city & citylab.berlin: Einladung zu Rundgang & Diskussion am 17. Juni" 
+title: 'make.city & citylab.berlin: Einladung zu Rundgang & Diskussion am 17. Juni'
+publishedDate: 2018-06-14
 ---
+
 Unser Konzept für ein <a href="http://citylab.berlin">citylab.berlin</a> als Digitalzentrum, Labor und Experimentierfeld in Berlin findet regen Anklang. Am kommenden Sonntag gibt es im Rahmen von <a href="http://makecity.berlin">makecity.berlin</a> kurzfristig einen Rundgang mit anschliessender Projektpräsentation- und Diskussionsveranstaltung.
 
 Alle interessierten BürgerInnen und Initiativen sind herzlich eingeladen! Die Gemeinschaftsstiftung Berlin Tempelhof, fixmyberlin, der THF-Beirat und die Open Knowledge Foundation freuen sich auf euer Kommen!

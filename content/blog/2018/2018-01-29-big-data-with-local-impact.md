@@ -1,21 +1,19 @@
 ---
-authors: 
+authors:
 - Mara Mendes
-date: 2018-01-29 07:00:00
 image:
   src: /files/blog/2018/01/Opentender_logos_CMYK.jpg
 tags:
 - event
 - Open data
 - digiwhist
-- public procurement 
+- public procurement
 type: post
 layout: post
-published: true
 card: true
-title: "Live Launch in Brüssel: Opentender.eu geht online " 
+title: 'Live Launch in Brüssel: Opentender.eu geht online '
+publishedDate: 2018-01-29 07:00:00
 ---
-
 
 Heute geht das Vergabeportal [opentender.eu](https://opentender.eu), mit Datensätzen aus 32 Ländern und der Europäischen Kommission, online. Opentender.eu bietet die Möglichkeit Vergabedaten strukturiert einzusehen und zu visualisieren. Risikoindikatoren informieren zusätzlich über die Effizienz und Transparenz von Ausschreibungen. 
 

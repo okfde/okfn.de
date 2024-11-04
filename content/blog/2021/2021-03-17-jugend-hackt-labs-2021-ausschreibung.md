@@ -1,7 +1,6 @@
 ---
 authors:
 - Philip Steffan
-date: 2021-03-17
 image:
   src: /files/blog/2021/03/jugend_hackt_labs_2021_lab_ulm_cc_by_tomas_novy.jpg
   title: Tomas Novy/Jugend hackt
@@ -15,9 +14,9 @@ tags:
 - Jugendarbeit
 type: post
 layout: post
-published: true
 featured: blue
-title: "Jugend hackt sucht Partner*innen für neue Labs"
+title: Jugend hackt sucht Partner*innen für neue Labs
+publishedDate: 2021-03-17
 ---
 
 Jugend hackt wächst - und wir wollen, dass ihr dabei seid!

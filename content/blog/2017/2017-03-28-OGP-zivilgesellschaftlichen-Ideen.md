@@ -1,27 +1,25 @@
 ---
-authors: 
+authors:
 - Johanna zum Felde
 - Walter Palmetshofer
-date: 2017-03-28 01:00:00
 image:
   src: /files/blog/2017/03/Timeline2.png
-  title: 
-  license: "Source: BMI (Stand 28.03.2017)"
-  license_url: "http://www.verwaltung-innovativ.de/DE/Internationales/OGP/zeitlicher_ablauf/zeitlicher_ablauf_node.html"
+  title: null
+  license: 'Source: BMI (Stand 28.03.2017)'
+  license_url: http://www.verwaltung-innovativ.de/DE/Internationales/OGP/zeitlicher_ablauf/zeitlicher_ablauf_node.html
 tags:
 - OGP
-- Transparenz 
+- Transparenz
 - Offene Daten
 - Open Government
 - EITI
-type: post 
-layout: post 
+type: post
+layout: post
 card: true
-published: true
-title: "Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan" 
-
-
+title: 'Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan'
+publishedDate: 2017-03-28 01:00:00
 ---
+
 [Update 19.05.17](https://okfn.de/blog/2017/03/OGP-zivilgesellschaftlichen-Ideen/#Update-Dialogworkshop)
 
 Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzten Wochen 270 konkrete Ideen gesammelt. Die [Ergebnisse dieser zivilgesellschaftlichen Ideensammlung](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden nun der Bundesregierung übergeben. Wir sind Teil des [Arbeitskreis Open Government Partnership](https://opengovpartnership.de/), haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
@@ -279,4 +277,3 @@ Auflistung der Mitglieder: https://opengovpartnership.de/arbeitskreis
 Koordination: Johanna zum Felde
 
 E-Mail: info@ogphub.de
-

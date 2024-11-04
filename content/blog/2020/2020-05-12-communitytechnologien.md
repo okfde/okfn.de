@@ -1,22 +1,20 @@
 ---
 authors:
 - Patricia Leu
-date: 2020-05-12
-image: 
+image:
   src: /files/blog/2020/03/2020-05-12_Communitytechnologien.jpg
   title: Communitytechnologien
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Prototype Fund
 - Digitale Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Von Nutzer*innen für Nutzer*innen: Communitytechnologien als Alltagshelfer – nicht nur in der Krise"
+title: 'Von Nutzer*innen für Nutzer*innen: Communitytechnologien als Alltagshelfer – nicht nur in der Krise'
+publishedDate: 2020-05-12
 ---
-
 
 Wenn wir morgens aufwachen, dauert es meist nicht lang bis zum ersten Griff zum Smartphone oder Tablet: Wir checken E-Mails, verschicken Nachrichten oder scrollen durch Social-Media- und Newsfeeds. Im Job geht es für viele damit weiter: Sei es das gemeinsame Arbeiten an Dokumenten, Chats oder Videokonferenzen – zahlreiche Anwendungen gehören, nicht erst seit viele von uns im Home Office arbeiten, fest zu unserem Alltag. Dabei wird oft vergessen, dass die Anwendungen, die wir nutzen, nur die halbe Miete sind: Sie alle benötigen einen soliden Unterbau, also zum Beispiel Programmiersprachen, in denen ihre Basisfunktionen festgelegt sind, Datenbanken, Hosting oder Clouds. Wir benutzen unsere digitalen Tools vollkommen selbstverständlich und verlassen uns dabei blind auf die zugrundeliegende Infrastruktur. 
 

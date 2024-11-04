@@ -1,10 +1,9 @@
 ---
 authors:
 - Henriette Litta, Leonard Wolf
-date: 2020-09-17
 image:
   src: /files/blog/2020/09/bild_ogp_nap2_zwischenbericht_stellungnahme.png
-  title: 
+  title: null
   license: CC-BY 4.0 Leonard Wolf
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
@@ -13,10 +12,11 @@ tags:
 - Jugendbeteiligung
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Open Government in Deutschland: Es gibt Fortschritte, aber große Ambitionen fehlen"
+title: 'Open Government in Deutschland: Es gibt Fortschritte, aber große Ambitionen fehlen'
+publishedDate: 2020-09-17
 ---
+
 **Es geht voran mit Open Government in Deutschland. Die Umsetzung der Ziele der Open Government Partnership ist auf dem Weg, aber es bleibt noch viel zu tun. Nur vorsichtige Schritte in der Jugendbeteiligung, ein Open Data Gesetz mit Reformbedarf, eine Beteiligungsplattform für Gesetze, deren Umsetzung nicht absehbar ist, und das Fehlen eines ambitionierten Leuchtturmprojektes: Diese und weitere Punkte kritisieren wir als OKF DE im Rahmen des Konsultationsverfahrens zum Zwischenbericht der Bundesregierung zur Umsetzung des Zweiten Nationalen OGP-Aktionsplans. Hier fassen wir unsere wichtigsten Punkte zusammen und veröffentlichen die gesamte Stellungnahme.**
 
 
@@ -57,9 +57,3 @@ Aktuell fehlt weiterhin ein Leuchtturmprojekt, das die Bemühungen der Bundesreg
 - die Ausschreibung von umfangreichen Förderprogrammen für digitale Open-Source-Infrastruktur
 
 Dies ist die Zusammenfassung unserer Stellungnahme. [Die gesamte Fassung gibt es hier im Volltext zum Download.](/files/blog/2020/09/2020-08-31_OKF_Stellungnahme_OGP.pdf)
-
-
-
- 
-
-

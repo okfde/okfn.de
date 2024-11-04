@@ -1,16 +1,15 @@
 ---
 authors:
 - Leonie Gehrke
-date: 2022-03-18
 image:
   src: /files/blog/2022/03/koatracker.jpg
 tags:
 - Transparenz
 type: post
 layout: post
-published: true
 featured: blue
-title: "Neu: Wir starten Koalitionstracker, um Regierungsarbeit zu kontrollieren"
+title: 'Neu: Wir starten Koalitionstracker, um Regierungsarbeit zu kontrollieren'
+publishedDate: 2022-03-18
 ---
 
 Auf fragdenstaat.de/koalitionstracker können Bürger:innen, Journalist:innen und weitere Interessierte verfolgen, welche Vorhaben aus dem verabschiedeten Koalitionsvertrag aktuell bearbeitet werden, welche umgesetzt sind oder auf Eis liegen. Ergänzt wird der Koalitionstracker durch weiterführende Informationen und qualitative Einschätzungen von Expert:innen aus der Zivilgesellschaft. 

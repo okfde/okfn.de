@@ -1,20 +1,20 @@
 ---
 authors:
 - Andreas Pawelke
-date: 2021-06-01
 image:
   src: /files/blog/2021/06/jugend hackt zukunft.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Positionen
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Die OKF der Zukunft – Teil I"
+title: Die OKF der Zukunft – Teil I
+publishedDate: 2021-06-01
 ---
+
 Als langjähriges (und [vor kurzem ausgeschiedenes](https://okfn.de/blog/2021/03/okf-vorstandswechsel/)) Vorstandsmitglied nehme ich zum Abschied das Privileg in Anspruch, nicht nur laut über die vergangene und gegenwärtige Arbeit der OKF nachzudenken, sondern auch Überlegungen zur zukünftigen Ausrichtung der Organisation anzustellen.
 
 ### Die großen Fragen der OKF
@@ -41,4 +41,4 @@ Bei all dem ging es immer [um weit mehr als nur das Erlernen von Programmieren](
 
 Bildung in Pandemiezeiten läuft in Deutschland mehr schlecht als recht. Doch auch wenn es gelingen sollte, die Schulen mit funktionierenden Teststrategien, Wechselunterricht und Co. wieder zu öffnen, so bleiben die großen Fragen nach einer zeitgemäßen Bildung bestehen. Denn die Kluft zwischen dem, was wir jungen Menschen vermitteln, und dem, [was im digitalen Zeitalter tatsächlich notwendig wäre](https://www.linkedin.com/pulse/bildungskrise-dejan-mihajlovi%C4%87/), besteht weiter und wird zunehmend größer. Es ist durchaus zu erwarten (und zu hoffen), dass wir in den nächsten fünf Jahren mehr über [notwendige Veränderungen im Bildungssystem](https://twitter.com/david_perell/status/1381422784996237312) sprechen werden als in den letzten 50 Jahren zusammen.
 
-Die OKF sollte in diesen Diskursen eine prominentere Rolle spielen und den Anspruch haben, die Zukunft der Bildung mitzugestalten. Weil Bildung Ländersache ist, müsste sie dazu vor allem auf Länderebene noch aktiver werden. Die Erfahrungen in der Entwicklung und Umsetzung innovativer Formate, die Netzwerke zur Förderung einer offenen Bildung und insbesondere das Wissen darum, wie man jene Themen, die so wichtig sind in der heutigen Welt aber in den allermeisten Schulen immer noch nicht ganz angekommen sind, verleihen der OKF dabei eine besondere Verantwortung. 
+Die OKF sollte in diesen Diskursen eine prominentere Rolle spielen und den Anspruch haben, die Zukunft der Bildung mitzugestalten. Weil Bildung Ländersache ist, müsste sie dazu vor allem auf Länderebene noch aktiver werden. Die Erfahrungen in der Entwicklung und Umsetzung innovativer Formate, die Netzwerke zur Förderung einer offenen Bildung und insbesondere das Wissen darum, wie man jene Themen, die so wichtig sind in der heutigen Welt aber in den allermeisten Schulen immer noch nicht ganz angekommen sind, verleihen der OKF dabei eine besondere Verantwortung.

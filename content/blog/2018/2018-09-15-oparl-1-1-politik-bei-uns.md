@@ -1,21 +1,19 @@
 ---
 authors: Ernesto Ruge
-date: 2018-09-17
 image:
   src: /files/blog/2018/09/oparl.png
-  title: "OParl: Der Standard für Ratsinformationssysteme"
+  title: 'OParl: Der Standard für Ratsinformationssysteme'
 tags:
 - Ratsinformationssystem
 - Transparenz
 - Kommunen
 - Schnittstelle
 - OParl
-
 type: post
 layout: post
 card: true
-published: true
-title: "OParl 1.1: Neue Version des Standards - und viel Aktivität"
+title: 'OParl 1.1: Neue Version des Standards - und viel Aktivität'
+publishedDate: 2018-09-17
 ---
 
 Vor zwei Jahren haben wir mit der [offenen Schnittstelle OParl](https://oparl.org) 1.0 den ersten großen Schritt zur Transparenz kommunaler Beschlüsse gemacht. Seitdem ist viel passiert:

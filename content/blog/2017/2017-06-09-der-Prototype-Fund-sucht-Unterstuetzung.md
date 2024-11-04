@@ -1,7 +1,6 @@
 ---
 authors:
 - Fiona Krakenbürger
-date: 2017-06-09 10:00:00
 image:
   src: /files/blog/2016/08/PrototypeFundLogo.png
   title: Prototype Fund Logo
@@ -11,10 +10,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Der Prototype Fund sucht Unterstützung"
-
-
+title: Der Prototype Fund sucht Unterstützung
+publishedDate: 2017-06-09 10:00:00
 ---
 
 Wir – Fiona, Eileen, Elisa und Julia – arbeiten seit über einem Jahr am <a href="https://prototypefund.de">Prototype Fund</a>. Das Projekt ist ein Förderprogramm, das Softwareentwickler*innen, Hacker*innen und Kreative dabei unterstützt, ihre Ideen vom Konzept bis zur ersten Demo zu entwickeln und als Open-Source-Prototypen zu veröffentlichen. Unser Ziel ist es, bestehende Strukturen und Narrative im Bereich der Innovation und Innovationsförderung aufzubrechen und dass mehr digitale Innovationen für die Gesellschaft entstehen. Um das zu erreichen, probieren wir laufend Neues aus und entwickeln das Programm weiter. Jetzt suchen wir dabei Verstärkung.
@@ -78,4 +75,3 @@ Wenn du Interesse hast, dann schick uns deine Bewerbung bis einschließlich 18. 
 Die Bewerbungsgespräche werden voraussichtlich Ende Juni stattfinden.
 
 Wir freuen uns auf dich!
-

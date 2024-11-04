@@ -1,16 +1,15 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2023-03-23
 image:
   src: /files/blog/2023/03/FOH23.JPG
 tags:
 - Open Hardware
 type: post
 layout: post
-published: true
 featured: blue
-title: "Seit dem FOH23 online: die Publikation Unboxing Blackboxes"
+title: 'Seit dem FOH23 online: die Publikation Unboxing Blackboxes'
+publishedDate: 2023-03-23
 ---
 
 Die Herausforderungen unser Zeit sind bekannt, die auf sozialer, ökologischer und wirtschaftlicher Ebene vor uns liegen. Offene Hardware kann ein Teil der Lösung werden. Beim [Forum Open Hardware 2023](https://hardware.forum-open.de/) (#FOH23) befassten sich 100 Expertinnen und Experten mit der Frage, wie das gelingen kann. Dabei stand das zivilgesellschaftliche Engagement im Forderung. Denn es sind zivilgesellschaftliche Akteure, die daran arbeiten, Technologie und alle damit verbundenen Aspekte offen zu denken. Damit gehören sie zu den innovativsten Köpfen unserer Zeit, wenn Innovation bedeutet, Hardware reparierbar, veränderbar und partizipativ zu gestalten.

@@ -2,8 +2,7 @@
 authors:
 - Dénes Jäger
 - Henriette Litta
-date: 2023-02-09
-image: 
+image:
   src: /files/blog/2023/02/openfax.png
   license: c4ddownload
   license_url: https://c4ddownload.com/download/office-fax-3d-model/
@@ -14,9 +13,9 @@ tags:
 - Transparenzgesetz
 type: post
 layout: post
-published: true
 featured: blue
-title: "Digitaler Aufbruch in Berlin nach der Wiederholungswahl - oder weiter so?"
+title: Digitaler Aufbruch in Berlin nach der Wiederholungswahl - oder weiter so?
+publishedDate: 2023-02-09
 ---
 
 **Im ersten Jahr ihrer Regierungstätigkeit hat die Koalition im Berliner Abgeordnetenhaus im Digitalbereich vor allem an der Theorie gearbeitet – aber in der Praxis Forderungen der Zivilgesellschaft weiter ignoriert. Eine fortbestehende oder umgebildete Regierung muss in der restlichen Legislaturperiode zum Handeln übergehen.**  

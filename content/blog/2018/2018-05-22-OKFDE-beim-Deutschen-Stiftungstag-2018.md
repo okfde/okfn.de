@@ -1,12 +1,11 @@
 ---
 authors:
 - Markus Neuschäfer, Tanja Zagel, Timo Lundelius, Walter Palmetshofer
-date: 2018-05-24
 image:
   src: /files/blog/2018/05/OKFDE-20180517-full.jpg
   title: Open Knowledge Foundation beim Deutschen Stiftungstag 2018
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - OpenData
 - Transparenz
@@ -16,10 +15,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Open Knowledge Foundation beim Deutschen Stiftungstag 2018"
-
-
+title: Open Knowledge Foundation beim Deutschen Stiftungstag 2018
+publishedDate: 2018-05-24
 ---
 
 Der Deutsche Stiftungstag wird jedes Jahr vom Verband Deutscher Stiftungen als Informations- und Vernetzungsangebot für seine Mitglieder organisiert. Die diesjährige Ausgabe fand unter dem Motto [Update! - Stiftungen und Digitalisierung](https://www.stiftungen.org/fileadmin/stiftungen_org/Verband/Was_wir_tun/Veranstaltungen/DST/2018/DST18-Programm.pdf) vom 16. - 18. Mai in Nürnberg statt.

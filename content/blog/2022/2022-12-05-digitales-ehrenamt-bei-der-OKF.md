@@ -1,17 +1,16 @@
 ---
 authors:
 - Nora Titz
-date: 2022-12-05
-image: 
+image:
   src: /files/blog/2022/10/digitales ehrenamt.jpg
 tags:
 - Ehrenamt
 - Digitales-Ehrenamt
 type: post
 layout: post
-published: true
 featured: blue
-title: "Digitales Ehrenamt bei der OKF"
+title: Digitales Ehrenamt bei der OKF
+publishedDate: 2022-12-05
 ---
 
 ## Digitales Ehrenamt bei der OKF
@@ -64,4 +63,4 @@ Du hast eine Idee, wie Software oder Hardware für die Allgemeinheit genutzt wer
 
 Wenn du dich bereits im Open Source und digital zivilgesellschaftlichen Kosmos bewegst und gerne mitentscheiden würdest, was die Gesellschaft gerade an digitalen Tools benötigt, kannst du dich auch auf einen Platz in der [Jury](https://prototypefund.de/bewerbung/jury/) bewerben. 
 
-### Wir freuen uns auf dich! Wenn du kannst und möchtest, hilft uns auch eine [Spende](https://okfn.de/spenden/#:~:text=F%C3%BCr%20Spenden%20bis%20zu%20300,Kampagnenarbeit%20im%20Interesse%20der%20Zivilgesellschaft)! 
+### Wir freuen uns auf dich! Wenn du kannst und möchtest, hilft uns auch eine [Spende](https://okfn.de/spenden/#:~:text=F%C3%BCr%20Spenden%20bis%20zu%20300,Kampagnenarbeit%20im%20Interesse%20der%20Zivilgesellschaft)!

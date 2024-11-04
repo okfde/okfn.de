@@ -1,20 +1,19 @@
 ---
 authors:
 - Adriana Groh
-date: 2021-11-16
 image:
   src: /files/blog/2021/09/STF_Titelfolie.png
   title: STF-Studie_Titel
   license: CC-BY OKFDE
-  license_url: 
+  license_url: null
 tags:
 - infrastructure
 - Basistechnologien
 type: post
 layout: post
-published: true
 featured: yellow
 title: Wir brauchen ein Förderprogramm für Offene Digitale Basistechnologien
+publishedDate: 2021-11-16
 ---
 
 **Berlin, 16.11.2021**

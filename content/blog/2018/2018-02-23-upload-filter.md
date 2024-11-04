@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2018-02-23
 image:
   src: /files/blog/2018/02/filter-article13.png
   title: Koalitionsvertrag
@@ -11,8 +10,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Upload-Filter: Wir brauchen deine Hilfe" 
+title: 'Upload-Filter: Wir brauchen deine Hilfe'
+publishedDate: 2018-02-23
 ---
 
 ## Europäischer Internet-Filter wird dein Recht auf Informationsfreiheit und auf freie Meinungsäußerung einschränken: Deine Hilfe wird benötigt!
@@ -61,4 +60,3 @@ Weitere Links:<br>
 [Netzpolitik-Artikel](https://netzpolitik.org/2018/eu-kommission-immer-mehr-plattformen-sollen-uploads-filtern/)<br>
 [copybuzz Artikel](http://copybuzz.com/pl/copyright/mep-voss-proposal-on-the-censorship-machine-art-13-not-die-beste-idee-either/)<br>
 [MEP Felix Reda](https://felixreda.eu/2018/02/voss-uploadfilter/)
-

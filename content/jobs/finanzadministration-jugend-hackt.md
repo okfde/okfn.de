@@ -1,14 +1,14 @@
 ---
 authors:
 - Sonja Fischbauer
-date: 2021-01-14
 image:
   src: /files/blog/2021/01/jugend-hackt-team-2020.jpg
-  title: "Jugend hackt Team"
-  license:
-  license_url:
-published: false
-title: "Jugend hackt: Wir suchen studentische Finanzadministration (ab sofort)"
+  title: Jugend hackt Team
+  license: null
+  license_url: null
+title: 'Jugend hackt: Wir suchen studentische Finanzadministration (ab sofort)'
+draft: 'true'
+publishedDate: 2021-01-14
 ---
 
 ## Jugend hackt sucht eine\*n studentische\*n Mitarbeiter\*in (m/w/d) für Finanzadministration, 19h/Woche, ab sofort

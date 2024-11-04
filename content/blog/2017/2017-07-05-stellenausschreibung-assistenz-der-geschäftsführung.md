@@ -1,19 +1,18 @@
 ---
 authors:
 - OKF
-date: 2017-07-05
 image:
   src: /files/blog/2017/02/okf-team.png
-  title: 
+  title: null
   license: CC BY 2.0
-  license_url: 
+  license_url: null
 tags:
 - Jobs
 type: post
 layout: post
 card: true
-title: "Assistenz der Geschäftsführung (60% Arbeitszeit)"
-published: true
+title: Assistenz der Geschäftsführung (60% Arbeitszeit)
+publishedDate: 2017-07-05
 ---
 
 ### Wer wir sind

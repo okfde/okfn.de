@@ -1,8 +1,7 @@
 ---
-authors: 
+authors:
 - OKF DE
-date: 2024-06-12
-image: 
+image:
   src: /files/blog/2024/2024-06-GeradeJetzt.png
   license: HateAid
   license_url: https://gerade-jetzt-fuer-alle.de
@@ -11,9 +10,9 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Gerade jetzt. Für alle."
+title: Gerade jetzt. Für alle.
+publishedDate: 2024-06-12
 ---
 
 *Die OKF unterstützt die Kampagne **"Gerade jetzt. Für alle."**: Im Bundeshaushalt 2025 drohen nach Sparvorgaben des Finanzministeriums massive Streichungen. Bei den derzeitigen Verhandlungen zeichnet sich ab, dass das vor allem die Programmhaushalte der Ministerien treffen wird. Damit sind zivilgesellschaftliche Projekte und Initiativen bundesweit in ihrer Existenz bedroht. Ein breites Bündnis aus mehr als 50 gemeinnützigen Organisationen warnt nun vor den dramatischen Folgen solcher Haushaltskürzungen für die Demokratie.*

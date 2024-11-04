@@ -1,22 +1,22 @@
 ---
 authors:
 - Maximilian Voigt, Patricia Leu
-date: 2021-06-21
 image:
   src: /files/blog/2021/06/ws_Pixel_World_1920x1200.jpg
   title: Quelle "https://hintergrundbilder.wallpaperstock.net/pixel-world-wallpapers_w22479.html"
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
-- Public Interest Tech 
+- Public Interest Tech
 - WTO
 - Positionen
 type: post
 layout: post
-published: true
 featured: yellow
-title: "WTO eCommerce: digitale Kolonialisierung stoppen"
+title: 'WTO eCommerce: digitale Kolonialisierung stoppen'
+publishedDate: 2021-06-21
 ---
+
 In 10 Jahren OKF hat sich der digitale Datenaustausch explosionsartig entwickelt. Die Ausbreitung und damit auch Macht international agierender Unternehmen ist weit fortgeschritten. Die Welthandelsorganisation (WTO) entwickelt im Rahmen einer „Joint Statement Initiative“ (JSI) seit dem Frühjahr 2019 gemeinsame Regeln ([WTO Electronic Commerce Negotiations](https://www.bilaterals.org/IMG/pdf/wto_plurilateral_ecommerce_draft_consolidated_text.pdf)) für den Handel in der Digitalökonomie. Wir fordern mit Aktivist:innen wie der Anwältin [Renata Ávila Pinto](https://de.wikipedia.org/wiki/Renata_Ávila_Pinto) den digitalen Kolonialismus zu stoppen und globale Regeln am Gemeinwohl auszurichten.
 
 In den letzten fast fünfzig Jahren hat sich die Architektur des Internets von einem weitgehend demokratischen Netzwerk autonomer Knoten zu einer verteilten feudalen Struktur verändert, die Daten in wenigen Händen zentralisiert. Wohlhabende Länder dominieren diese Struktur. Das Ziel der großen Technologieunternehmen ist offensichtlich: Es gibt einen Wettlauf um den Anschluss der nächsten Milliarde Menschen an eine Version des Internets, die nicht mehr auf Offenheit oder das öffentliche Interesse ausgerichtet ist. Sie wollen die kritische Infrastruktur weltweit kontrollieren, um die fehlenden Datensätze der globalen Bevölkerung, insbesondere benachteiligter Menschen des Globalen Südens, in die Hände zu bekommen. Diese und weitere Erkenntnisse formuliert [Renata Ávila Pinto](https://de.wikipedia.org/wiki/Renata_Ávila_Pinto) in ihrem Papier [“Against Digital Colonialism”](https://autonomy.work/wp-content/uploads/2020/09/Avila.pdf). Darin untersucht sie, wie dominante Länder innerhalb eines globalen Systems von der Digitalisierung einkommensschwacher Länder profitieren, was sie als eine neue Form des Kolonialismus bezeichnet.

@@ -1,13 +1,12 @@
 ---
-authors: 
+authors:
 - Maximilian Voigt
-date: 2020-08-03
 type: post
 layout: post
 card: true
-published: true
 featured: yellow
-title: "Kick-Off #FOE20: Offene Bildung politisch stärken" 
+title: 'Kick-Off #FOE20: Offene Bildung politisch stärken'
+publishedDate: 2020-08-03
 ---
 
 Mit dem dritten [Forum Open Education](https://education.forum-open.de/) intensivieren wir gemeinsam mit Wikimedia Deutschland und dem [Bündnis Freie Bildung](https://buendnis-freie-bildung.de/) den Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien, um zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Die folgenden Themen stehen 2020 im Fokus:

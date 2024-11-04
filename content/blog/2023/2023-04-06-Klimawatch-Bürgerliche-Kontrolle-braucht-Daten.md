@@ -1,7 +1,6 @@
 ---
 authors:
 - Nora Titz
-date: 2023-04-06
 image:
   src: /files/blog/2023/04/KW23.jpg
 tags:
@@ -9,10 +8,11 @@ tags:
 - community
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Klimawatch - Bürgerliche Kontrolle braucht Daten"
+title: Klimawatch - Bürgerliche Kontrolle braucht Daten
+publishedDate: 2023-04-06
 ---
+
 Klimawandel und CO2 reduzieren ist in aller Munde: das Pariser Klimaabkommen - 2030. Auf welchem Weg in Deutschland aber konkret, und vor allem lokal, dazu beigetragen wird, ist oft wenig ersichtlich. Welche Maßnahmen werden getroffen? Welche Ziele gesetzt? Bin ich davon betroffen?  Kann ich etwas tun? Sollte ich vielleicht von meiner Kommune fordern, sich höhere Ziele zu setzen? 
 
 Wie an vielen anderen Stellen demokratischer Willensbildung und gemeinschaftlichen Handelns ist hier Transparenz wichtig und kann durch Digitale Tools unterstützt und vereinfacht werden. Wie genau das aussehen kann zeigt z.B. [Klimawatch.de](https://klimawatch.de/). Dort kann man sich aktuell über die Lage der Klimaziele in Münster, Köln, Leipzig, Hamburg, Karlsruhe, Landau, Moers, Chemnitz, Berlin, München, Düsseldorf, Paderborn, Dortmund, Ulm, Bielefeld und Bonn informieren. 
@@ -42,5 +42,3 @@ Die Gruppe um Klimawatch und alle Interessierten finden sich in einem Slack Chan
 Klimawatch ist ein Beispiel dafür, wie Offene Daten und zivilgesellschaftliches Engagement abstrakte Aufgaben und Zusammenhänge greifbarer machen kann, aber auch dafür, dass der Weg hin zu Offenem Regierungshandeln noch ein weiter ist. Andreas Kugel, Ehrenamtlicher der Code for Germany Community fasst es so: „wenn die Daten zu Klimaschutz und Treibhausgasen in einheitlichen Kategorien und nachnutzbaren Formaten veröffentlicht würden, könnten zivilgesellschaftliche Initiativen auf diesem Gebiet gesellschaftlichen Nutzen erzeugen. Darauf müssen wir hinarbeiten.“
 
 Wenn du Fragen zu Klimawatch hast, mitmachen oder Daten bereitstellen möchtest, kannst du dich gerne hier bei Andreas und dem Rest des ehrenamtlichen Teams melden: info@klimawatch.de
-
-

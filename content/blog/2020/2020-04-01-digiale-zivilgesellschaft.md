@@ -1,19 +1,19 @@
 ---
 author:
 - verschiedene
-date: 2020-04-01
 image:
-  src:
-  title:
+  src: null
+  title: null
 tags:
 - Digitalpolitik
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
-title: "Aus der Krise lernen: Digitale Zivilgesellschaft stärken!"
+title: 'Aus der Krise lernen: Digitale Zivilgesellschaft stärken!'
+publishedDate: 2020-04-01
 ---
+
 Mittwoch, 01. April 2020. Als zivilgesellschaftliche Organisationen, die sich für eine unabhängige digitale Infrastruktur und freien Zugang zu Wissen einsetzen, fordern wir: „Der Aufbau eines gemeinwohlorientierten digitalen Ökosystems muss endlich politische Priorität bekommen!“
 
 In Krisensituationen zeigt sich die Bedeutung von unabhängigen und belastbaren digitalen Infrastrukturen, die es Menschen, Organisationen und Firmen ermöglichen, ihren alltäglichen Aufgaben nachzukommen. Von den Umstellungen zur Eindämmung von Covid-19 haben bislang vor allem die großen Technologiekonzerne profitiert: Die Verlagerung des Lebens in die digitale Sphäre beschert ihnen größere Marktanteile, Nutzungszahlen und Datensammlungen. Um in Krisenzeiten nicht von ihnen abhängig zu sein, braucht es ein aktives digitales Ökosystem, das echte Wahlmöglichkeiten bietet.

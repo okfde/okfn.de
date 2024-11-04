@@ -1,8 +1,7 @@
 ---
 authors:
 - Sonja Fischbauer
-date: 2022-06-22
-image: 
+image:
   src: /files/blog/2022/jahresbericht21-blog.jpg
 tags:
 - OKFDE
@@ -10,11 +9,10 @@ tags:
 - jahresbericht
 type: post
 layout: post
-published: true
 featured: blue
-title: "Das war 2021: Unser Jahresbericht ist jetzt veröffentlicht"
+title: 'Das war 2021: Unser Jahresbericht ist jetzt veröffentlicht'
+publishedDate: 2022-06-22
 ---
-
 
 Wer erinnert sich noch an 2021? Es ist doch überraschend viel passiert, wenn man so zurückschaut! 
 Nach erfolgreich abgeschlossener Wirtschaftsprüfung findet ihr auf [2021.okfn.de](https://2021.okfn.de/) unseren Jahresbericht online. 
@@ -44,4 +42,4 @@ Im September 2021 trafen sich Team- und Boardmitglieder endlich wieder in große
 Der Prototype Fund hat auch im Jahr 2021 gezeigt, wie Technologieentwicklung mit sozialpolitischem Profil erfolgreich von der Zivilgesellschaft umgesetzt und dabei staatlich gefördert  werden kann. inter den Kulissen hat das Team vor allem kräftig an der Zukunftsgestaltung des Förderprogramms geschraubt. Wenn auch wenig davon nach außen sichtbar war, konnten wir 2021 viele Schritte anstoßen, die die Wirkung des Funds in der Zukunft maßgeblich beeinflussen werden.
 
 ### Förderung unserer digital Ehrenamtlichen 
-Durch eine kurzfristige Förderung von der Deutschen Stiftung für Ehrenamt und Engagement konnten wir 2021 dem Einsatz von zahlreichen Freiwilligen Rechnung tragen, die sich in ihrer Freizeit für eine gemeinwohlorientierte Digitalisierung einsetzen. Rund 1.000 Stunden an ehrenamtlichem Engagement mit Tätigkeiten von Event- und Communityorganisation über Vortrags- und Bildungsarbeit bis hin zu technischen Aufgaben konnten wir in diesem Projekt honorieren.  
+Durch eine kurzfristige Förderung von der Deutschen Stiftung für Ehrenamt und Engagement konnten wir 2021 dem Einsatz von zahlreichen Freiwilligen Rechnung tragen, die sich in ihrer Freizeit für eine gemeinwohlorientierte Digitalisierung einsetzen. Rund 1.000 Stunden an ehrenamtlichem Engagement mit Tätigkeiten von Event- und Communityorganisation über Vortrags- und Bildungsarbeit bis hin zu technischen Aufgaben konnten wir in diesem Projekt honorieren.

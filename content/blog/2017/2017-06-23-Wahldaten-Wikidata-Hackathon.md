@@ -1,22 +1,19 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2017-06-22 07:00:00
 image:
   src: /files/blog/2017/06/ulm.jpg
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Wahlen
 - Wikidata
 type: post
 layout: post
 card: true
-published: true
-title: "Ulm Wikidata Hackathon" 
-
-
+title: Ulm Wikidata Hackathon
+publishedDate: 2017-06-22 07:00:00
 ---
 
 Vom 23. bis 25. Juni fand im [Verschwörhaus in Ulm](https://verschwoerhaus.de/) der #wahldaten-Hackathon mit Wikidata statt. 

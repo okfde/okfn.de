@@ -1,23 +1,21 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2018-05-08
 image:
   src: /files/blog/2018/05/22252106205_c92c62c8ec_z.jpg
-  title: Jugend hackt 
-  license: 
-  license_url: 
+  title: Jugend hackt
+  license: null
+  license_url: null
 tags:
 - Ausschreibung
 - Jobs
 type: post
 layout: post
 card: true
-published: false
-title: "Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)"
-jobs: "Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)"
-
-
+title: Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)
+jobs: Projektleitung Fundraising und Lab-Aufbau für Jugend hackt (32h)
+draft: 'true'
+publishedDate: 2018-05-08
 ---
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes 
@@ -64,4 +62,4 @@ Für die Projektleitung Fundraising und Lab-Aufbau suchen wir eine begeisterungs
 Wir möchten die Stelle im Idealfall zu August 2018 besetzen. Sie ist zunächst befristet bis 31.12.2019. Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
 Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn <b> bis zum 22. Mai </b> per E-Mail an jobs@jugendhackt.org.
 
-Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. 
+Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.

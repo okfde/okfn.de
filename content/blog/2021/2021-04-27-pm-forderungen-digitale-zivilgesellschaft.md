@@ -1,20 +1,20 @@
 ---
-authors:
-date: 2021-04-27
+authors: null
 image:
   src: /files/blog/2021/04/arrow_by_sigmund_unsplash.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Digitale-Zivilgesellschaft
 - Policy
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Digitale Zivilgesellschaft: Vier Forderungen für eine digital souveräne Gesellschaft"
+title: 'Digitale Zivilgesellschaft: Vier Forderungen für eine digital souveräne Gesellschaft'
+publishedDate: 2021-04-27
 ---
+
 **Die OKF ist Mitglied eines Bündnisses aus 30 Organisationen der digitalen Zivilgesellschaft. Gemeinsam stellen wir für die Bundestagswahl 2021 vier Forderungen für eine digital souveräne Gesellschaft an die Politik.**
 
 Am 1. April 2020 forderten wir mit vielen weiteren zivilgesellschaftlichen Organisationen die Politik auf: Aus der Krise lernen - Digitale Zivilgesellschaft stärken! Dafür lieferten wir gemeinsam konkrete Handlungsempfehlungen. Geschehen ist seitdem jedoch viel zu wenig. Das vergangene Jahr hat deutlich gemacht, dass Politik und öffentliche Verwaltung mit ihrer eigenen digitalen Transformation überfordert sind und in der Digitalpolitik Schwerpunkte setzen, die nicht den Bedürfnissen der Gesellschaft entsprechen. Dies haben wir auch in den [umfassenden Forderungen der OKF](https://okfn.de/blog/2021/03/okf-digitalpolitische-forderungen/) zum diesjährigen Wahljahr deutlich gemacht: Gemeinwohlorientierung und digitale Selbstbestimmung der Bürger:innen werden bei Technologieentwicklung und -anwendung kaum berücksichtigt. Von einer digital souveränen Gesellschaft sind wir weit entfernt. 

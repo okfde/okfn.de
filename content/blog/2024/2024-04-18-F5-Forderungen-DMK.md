@@ -2,8 +2,7 @@
 authors:
 - Christina Willems
 - Henriette Litta
-date: 2024-04-18
-image: 
+image:
   src: /files/blog/2024/Blog_DMK.jpg
   license: Bündnis F5 Forderungen zur Digitalministerkonferenz
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -13,9 +12,9 @@ tags:
 - Pressemitteilung
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor"
+title: 'Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor'
+publishedDate: 2024-04-18
 ---
 
 ## Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor ##

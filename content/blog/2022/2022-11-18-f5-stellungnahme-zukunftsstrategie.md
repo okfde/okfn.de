@@ -2,8 +2,7 @@
 authors:
 - Christina Willems
 - Henriette Litta
-date: 2022-11-18
-image: 
+image:
   src: /files/blog/2022/10/klein_kadir-celep-I3N-kVCYvA4-unsplash.jpg
 tags:
 - Innovation
@@ -11,9 +10,9 @@ tags:
 - OpenScience
 type: post
 layout: post
-published: true
 featured: blue
-title: "Innovation geht nicht ohne Offenheit & Partizipation"
+title: Innovation geht nicht ohne Offenheit & Partizipation
+publishedDate: 2022-11-18
 ---
 
 **Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht. Die derzeit von der Bundesregierung ressortübergreifend entwickelte [Zukunftsstrategie Forschung und Innovation](https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftsstrategie_node.html) ist jedoch zu stark auf wirtschaftlichen Erfolg fokussiert. Hier muss nachgebessert werden.**
@@ -49,4 +48,4 @@ Damit sich alle Menschen selbstbestimmt und kritisch mit der Nutzung digitaler M
 
 
 
-Die ganze Stellungnahme ist [hier](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/10/2022-11-17_Lang_F5_Stellungnahme_Zukunftsstrategie_finfin.pdf) zu finden. 
+Die ganze Stellungnahme ist [hier](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/10/2022-11-17_Lang_F5_Stellungnahme_Zukunftsstrategie_finfin.pdf) zu finden.

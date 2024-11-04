@@ -1,20 +1,19 @@
 ---
 authors:
 - Vorstand
-date: 2021-03-29
 image:
   src: /files/blog/2021/03/Logo_okfde_black_centered.png
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OKFDE
 - Vorstand
 type: post
 layout: post
-published: true
 featured: yellow
 title: Wechsel im Vorstandsvorsitz der OKF DE
+publishedDate: 2021-03-29
 ---
 
 **Nach sieben Jahren scheidet Andreas Pawelke zum Monatsende aus dem Vorstand der Open Knowledge Foundation Deutschland aus und übergibt den Vorsitz kommissarisch bis zur nächsten Mitgliederversammlung an Vorstandsmitglied Kristina Klein.**

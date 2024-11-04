@@ -2,7 +2,6 @@
 authors:
 - Michael Peters
 - Moritz Neujeffski
-date: 2018-06-12
 image:
   src: /files/blog/2018/06/tale-of-three-men.jpg
   title: frankieleon, A tale of three men
@@ -18,8 +17,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Transparenzregister? Diesmal bitte transparent"
+title: Transparenzregister? Diesmal bitte transparent
+publishedDate: 2018-06-12
 ---
 
 *Geldwäsche, Steuerflucht und krumme Deals werden durch komplexe Firmengeflechte getarnt. Ein Transparenzregister ermöglicht Recherchen für JournalistInnen, BürgerInnen und GeschäftspartnerInnen. Die Daten sollten öffentlich und kostenlos zugänglich sein.*

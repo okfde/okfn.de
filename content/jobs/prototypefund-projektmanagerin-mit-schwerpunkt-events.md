@@ -1,15 +1,16 @@
 ---
 authors:
 - OKF
-date: 2019-03-22
 image:
   src: /files/jobs/helping.gif
-  title: #prototypeworks
+  title: null
   license: © Libby VanderPloeg
   license_url: https://www.libbyvanderploeg.com/
-published: false
-title: "Prototype Fund sucht Verstärkung: Projektmanager*in mit Schwerpunkt Events (m/w/*)"
+title: 'Prototype Fund sucht Verstärkung: Projektmanager*in mit Schwerpunkt Events (m/w/*)'
+draft: 'true'
+publishedDate: 2019-03-22
 ---
+
 Der Prototype Fund ist das erste Förderprogramm in Deutschland, das selbstständige Softwareentwickler\*innen, Hacker\*innen und Kreative dabei unterstützt, ihre Ideen in den Bereichen Civic Tech, Digital Literacy, IT-Sicherheit und Software-Infrastruktur umzusetzen. Unser Ziel ist es, technische Innovationen in den Dienst der Gesellschaft zu stellen. Wir (Adriana, Katharina und Thomas) suchen dabei jetzt Verstärkung mit Talent für Eventmanagement!
 
 Du willst gemeinsam mit uns ein Pionier-Projekt voranbringen? Du arbeitest eigenständig und hast Lust, dich weiterzuentwickeln und Neues zu lernen? Dann freuen wir uns auf deine Bewerbung:
@@ -55,4 +56,3 @@ Zeitl. Aufwand: 40h/Woche (Teilzeitregelung nach Absprache möglich)
 Gehalt: nach TV-L E12/S1  
 Ort: Berlin  
 Die Position ist bis Februar 2021 befristet.**
-

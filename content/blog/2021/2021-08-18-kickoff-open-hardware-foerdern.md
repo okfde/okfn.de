@@ -1,20 +1,19 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2021-08-18
 image:
   src: https://preciousplastic.com/images/basic-extruder.jpg
   title: Precious Plastic Extrusion
-  license: CC-BY-SA 4.0 
+  license: CC-BY-SA 4.0
   license_url: https://creativecommons.org/licenses/by-sa/4.0/
 tags:
 - Open Hardware
 - Civic Tech
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Kickoff MoFab: zivilgesellschaftlich orientierte, offene Hardware fördern"
+title: 'Kickoff MoFab: zivilgesellschaftlich orientierte, offene Hardware fördern'
+publishedDate: 2021-08-18
 ---
 
 Mit dem [Prototype Fund](https://prototypefund.de) besteht bereits ein starkes Programm zur Förderung von Open Source Software, das stetig weiterentwickelt wird. Durch das BMBF geförderte Forschungsprojekt [MoFab](https://okfn.de/projekte/mofab/) - Mobile Fablabs - kann erstmals ein Open Hardware Fund aufgebaut werden. Gefördert werden bis zu sechs Vorhaben, die Ausschreibung wird voraussichtlich im Frühjahr 2022 starten.
@@ -25,4 +24,4 @@ Unter dem Themenbereich der Reparaturkultur ruft das Projektbündnis aus [Netzwe
 
 Das Projekt wird vom BMBF gefördert und hat eine Projektlaufzeit von zwei Jahren.
 
-Du hast jetzt schon Interesse, Rückfragen oder möchtest auf dem Laufenden bleiben? Dann meldet euch gerne mit einer Mail oder schreibt euch auf die [Open-Hardware-Mailingliste](https://mailman.offene-werkstaetten.org/mailman/listinfo/hardware-offene-werkstaetten.org). 
+Du hast jetzt schon Interesse, Rückfragen oder möchtest auf dem Laufenden bleiben? Dann meldet euch gerne mit einer Mail oder schreibt euch auf die [Open-Hardware-Mailingliste](https://mailman.offene-werkstaetten.org/mailman/listinfo/hardware-offene-werkstaetten.org).

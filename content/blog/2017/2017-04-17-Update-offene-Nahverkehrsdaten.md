@@ -2,12 +2,11 @@
 authors:
 - Walter Palmetshofer
 - Maximilian Richt
-date: 2017-04-17 12:00:00
 image:
   src: /files/blog/2017/04/rdn-vrs-avv.jpg
   title: VRS und AVV geben nun offene Fahrplandaten heraus
-  license: 
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Open Data
 - Nahverkehr
@@ -15,11 +14,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-
-title: "Und es bewegt sich doch: Beim öffentlichen Nahverkehr"
-
-
+title: 'Und es bewegt sich doch: Beim öffentlichen Nahverkehr'
+publishedDate: 2017-04-17 12:00:00
 ---
 
 Seit dem Launch unserer Plattform [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) gibt es einige erfreuliche Entwicklungen:
@@ -71,4 +67,4 @@ Und mal wieder steht eine große Frage im Raum:
 
 Falls es so ein Beispiel doch gibt - [Andrew Stott](https://twitter.com/DirDigEng) und wir (`opentransport@okfn.de`) freuen uns auf Hinweise.
 
-Und auch in den UK werden die Forderungen nach mehr Open Data im Verkehrsbereich lauter: ["The Case for Government Investment to Incentivise Data Sharing in the UK Intelligent Mobility Sector"](https://ts.catapult.org.uk/intelligent-mobility/im-resources/opendata/) (via @peterkwells)	
+Und auch in den UK werden die Forderungen nach mehr Open Data im Verkehrsbereich lauter: ["The Case for Government Investment to Incentivise Data Sharing in the UK Intelligent Mobility Sector"](https://ts.catapult.org.uk/intelligent-mobility/im-resources/opendata/) (via @peterkwells)

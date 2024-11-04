@@ -1,8 +1,7 @@
 ---
 authors:
 - OKF DE
-date: 2024-05-21
-image: 
+image:
   src: /files/blog/2024/Blogpost_Foto_republica_2024.jpg
   license: cc by Jaime Lopes
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -11,9 +10,9 @@ tags:
 - digitaleZivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
-title: "Triff die OKF auf der re:publica!"
+title: Triff die OKF auf der re:publica!
+publishedDate: 2024-05-21
 ---
 
 **Die [re:publica](https://re-publica.com/de) steht wieder an: das Festival für die digitale Gesellschaft findet vom 27.-29. Mai 2024 in der [STATION Berlin](https://www.station-berlin.de/de/lage-anfahrt/lage.html) statt. Die OKFDE wird mit vielen verschiedenen Themen und Formaten dabei sein.

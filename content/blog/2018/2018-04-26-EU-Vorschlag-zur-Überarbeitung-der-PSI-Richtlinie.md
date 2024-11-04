@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2018-04-26
 image:
   src: /files/blog/2018/01/scaling-okfde-nahverkehr.png
   title: PSI-Richtlinie
@@ -14,12 +13,10 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "EU-Vorschlag zur Überarbeitung der PSI-Richtlinie" 
-
+title: EU-Vorschlag zur Überarbeitung der PSI-Richtlinie
 aliases:
-  - /de/blog/2018/04/EU-Vorschlag-zur-Überarbeitung-der-PSI-Richtlinie/
-
+- /de/blog/2018/04/EU-Vorschlag-zur-Überarbeitung-der-PSI-Richtlinie/
+publishedDate: 2018-04-26
 ---
 
 Die EU hat den [Vorschlag zur Überarbeitung](https://ec.europa.eu/digital-single-market/en/proposal-revision-public-sector-information-psi-directive) der Richtlinie über die Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie) veröffentlicht. Sie ist auch bekannt als Open Data-Richtline.

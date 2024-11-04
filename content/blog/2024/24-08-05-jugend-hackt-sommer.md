@@ -1,17 +1,16 @@
 ---
 authors:
 - Jugend hackt
-date: 2024-08-05
-image: 
+image:
   src: /files/blog/2024/JH_Logo_Claim_RGB.png
 tags:
 - Jugendhackt
 - Termine
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Sommer bei Jugend hackt: Ein buntes Programm für junge Hacker*innen"
+title: 'Sommer bei Jugend hackt: Ein buntes Programm für junge Hacker*innen'
+publishedDate: 2024-08-05
 ---
 
 ## Sommerprogramm-Highlights

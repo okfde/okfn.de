@@ -1,8 +1,7 @@
 ---
 authors:
 - Christina Willems
-date: 2024-05-22
-image: 
+image:
   src: /files/blog/2024/240522_Bogpost_F5EUWahl.png
   license: Bündnis F5 Forderungen zur Europawahl, cc by Bündnis F5
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -12,9 +11,9 @@ tags:
 - Europa
 type: post
 layout: post
-published: true
 featured: blue
-title: "Positionen des Bündnis F5 zur Europawahl 2024"
+title: Positionen des Bündnis F5 zur Europawahl 2024
+publishedDate: 2024-05-22
 ---
 
 **Die Europäische Union hat sich als wegweisende Akteurin in der Digitalpolitik etabliert. In den letzten fünf Jahren wurden bedeutende Gesetze auf den Weg gebracht, um die Macht von Big-Tech Unternehmen einzudämmen und die Einhaltung von Grund- und Menschenrechten im Digitalen zu stärken. Gleichzeitig ist die europäische Digitalpolitik zu oft von technischen Trends und gewinnorientierten Interessen getrieben. Der Fokus auf das Gemeinwohl geht dabei verloren.**

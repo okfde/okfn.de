@@ -1,10 +1,9 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2022-04-14
 image:
   src: https://hardware.prototypefund.de/wp-content/uploads/2021/12/unbo_blackbox.png
-  title: "Unbox / Blackbox"
+  title: Unbox / Blackbox
   license: CC-BY 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
@@ -12,9 +11,9 @@ tags:
 - Open Hardware
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Prototype Fund Hardware: ab dem 15. April bewerben"
+title: 'Prototype Fund Hardware: ab dem 15. April bewerben'
+publishedDate: 2022-04-14
 ---
 
 *Für eine Welt, in der die Reparatur normal ist, muss Technik neu erfunden werden. Denn unsere Alltagstechnik wurde über Jahre hinweg immer mehr zur Blackbox. Ab dem 15. April startet die Bewerbungsphase des Prototype Fund Hardware - dem Förderprogramm für offene, transparente Technologien.*

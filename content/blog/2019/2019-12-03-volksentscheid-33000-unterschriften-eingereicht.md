@@ -1,19 +1,19 @@
 ---
 authors:
-- "Arne Semsrott"
-date: 2019-12-03
+- Arne Semsrott
 image:
   src: /files/blog/2019/12/volksentscheid.jpg
-  title:
+  title: null
   license: CC-BY 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/deed.de
 tags:
 - Transparenzgesetz
 type: post
 layout: post
-published: true
-title: "Volksentscheid Transparenz Berlin: 33.000 Unterschriften für mehr Transparenz"
+title: 'Volksentscheid Transparenz Berlin: 33.000 Unterschriften für mehr Transparenz'
+publishedDate: 2019-12-03
 ---
+
 Das Bündnis Volksentscheid Transparenz hat in weniger als vier Monaten 32.827 Unterschriften gesammelt! Heute hat die Initiative die Unterschriften an die zuständige Senatsverwaltung für Inneres übergeben.
 
 „Das Signal ist klar: Berlin braucht ein Transparenzgesetz. Um Korruption zu bekämpfen und Partizipation zu ermöglichen, muss das Land Berlin seine Aktenschränke öffnen“, sagt Arne Semsrott, Sprecher des Volksentscheids Transparenz.
@@ -31,4 +31,3 @@ Sollte der Senat den Gesetzentwurf nicht übernehmen, muss das Bündnis in der n
 → [mehr Infos](https://www.volksentscheid-transparenz.de/)
 
 → [Fotos der Übergabe-Aktion](https://www.flickr.com/photos/okfde/albums/72157710018426937)
-

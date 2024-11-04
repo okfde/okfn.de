@@ -1,18 +1,17 @@
 ---
-authors: 
+authors:
 - Maximilian Voigt
-date: 2020-09-15
 image:
   src: /files/blog/2020/09/foe19.jpg
-  title: "Forum Open Education 2019"
+  title: Forum Open Education 2019
   license: CC-BY 4.0 Leonard Wolf
   license_url: https://creativecommons.org/licenses/by/4.0/
 type: post
 layout: post
 card: true
-published: true
 featured: yellow
-title: "DigitalPakt Schule: mehr Open Education & Beteiligung der Zivilgesellschaft" 
+title: 'DigitalPakt Schule: mehr Open Education & Beteiligung der Zivilgesellschaft'
+publishedDate: 2020-09-15
 ---
 
 In [seiner 59. Sitzung](https://www.bundestag.de/presse/hib/791330-791330) hat der Ausschuss Digitale Agenda über aktuelle Entwicklungen in der digitalen Schulbildung in Zeiten der Corona-Pandemie diskutiert. "Fast sieben Milliarden Euro seien für die Digitalisierung im Bildungssektor von Seiten des Bundes zur Verfügung gestellt worden," so ein Sprecher des BMBF im Ausschuss. Am kommenden Mittwoch [tagt der Ausschuss erneut](https://www.bundestag.de/resource/blob/792032/3b5e8e330f437c83d5a0e8b87ccfc04b/19WP-60-data.pdf), um Vertretern und Vertreterinnen der Kultusministerkonferenz (KMK) die Teilnahme zu ermöglichen.
@@ -21,4 +20,4 @@ Neben dem Aufbau notwendiger Infrastrukturen ist die **Etablierung und Stärkung
 
 Mit dem Aufbau der Suchmaschine für offene Bildungsmaterialien - [WirLernenOnline.de](https://wirlernenonline.de/) - wurde bereits ein wichtiger Schritt in die richtige Richtung gegangen. Andererseits entstehen mit [mundo.schule](https://mundo.schule/) Parallel-Strukturen. Hier ist es wichtig, Plattformen zu verbinden und offene Schnittstellen zu schaffen! 
 
-**Wir möchten gemeinsam mit dem Bundesministerium für Bildung und Forschung an der im Koalitionsvertrag angekündigten Strategie arbeiten und fordern einen offenen Beteiligungsprozess, der die Vielfalt an Akteuren und Akteurinnen der Bildungslandschaft mit einbezieht.** 
+**Wir möchten gemeinsam mit dem Bundesministerium für Bildung und Forschung an der im Koalitionsvertrag angekündigten Strategie arbeiten und fordern einen offenen Beteiligungsprozess, der die Vielfalt an Akteuren und Akteurinnen der Bildungslandschaft mit einbezieht.**

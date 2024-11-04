@@ -1,18 +1,17 @@
 ---
-authors: 
+authors:
 - Daniel Dietrich
-date: 2020-07-28
 image:
   src: /files/blog/2020/06/OKF-logo_black.png
-  title: "OKF Logo"
-  license:
-  license_url:
+  title: OKF Logo
+  license: null
+  license_url: null
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt" 
+title: Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt
+publishedDate: 2020-07-28
 ---
 
 Auf der Mitgliederversammlung des Open Knowledge Foundation Deutschland e.V. (OKF) wurde am 28. Mai 2020 ein neuer Vorstand gewählt.

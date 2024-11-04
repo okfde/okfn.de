@@ -1,20 +1,19 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
 - Walter Palmetshofer
-date: 2018-12-04
 image:
   src: /files/blog/2018/11/openschufa.jpg
-  title: 
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OpenSchufa
 type: post
 layout: post
 card: true
-published: true
-title: "Schufa gibt nach: Elektronische Auskünfte ab 2019"
+title: 'Schufa gibt nach: Elektronische Auskünfte ab 2019'
+publishedDate: 2018-12-04
 ---
 
 Nach Monaten des Widerstands hat die Schufa zugesagt, künftig auch Daten-Auskünfte von Privatpersonen elektronisch zu beantworten. Das bestätigte der Hessische Datenschutzbeauftragte gegenüber OpenSchufa, unserer gemeinsamen Initiative mit AlgorithmWatch. Nach Artikel 15 der Datenschutzgrundverordnung (DS-GVO) ist die Schufa seit Mai dazu verpflichtet, Auskünfte nicht mehr nur wie bisher postalisch, sondern auch elektronisch zugänglich zu machen.
@@ -28,4 +27,3 @@ Trotz aller Kritik hält die Schufa an ihrer Mauertaktik fest. Sie nennt die bis
 Den Verweis auf vermeintliche Prüfungen durch die Bundesanstalt für Finanzdienstleistungsaufsicht (Bafin), den die Schufa noch im Februar als Verteidigung für ihr Vorgehen angegeben hatte, findet sich in der aktuellen Stellungnahme der Schufa nicht mehr wieder. Mit gutem Grund: Wie die Bafin uns [auf Anfrage mitteilte](https://fragdenstaat.de/anfrage/uberprufung-von-schufa-scores/109542/anhang/anschrIFG0312.pdf), ist die “Beschreibung der Aufgaben der BaFin auf der Internetseite der SCHUFA” aus Sicht der Bafin “missverständlich”. 
 
 Aber nicht nur die Schufa, auch weitere Auskunfteien brauchen mehr Transparenz.
-

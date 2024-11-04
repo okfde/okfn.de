@@ -2,20 +2,19 @@
 authors:
 - Stefan Wehrmeyer
 - Arne Semsrott
-date: 2019-01-14
 image:
   src: /files/blog/2019/01/topfsecret.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - TopfSecret
 type: post
 layout: post
 card: true
-published: true
-title: "Jetzt mitmachen: Topf Secret!"
+title: 'Jetzt mitmachen: Topf Secret!'
 featured: yellow
+publishedDate: 2019-01-14
 ---
 
 Heute launchen wir gemeinsam mit foodwatch „Topf Secret“ – eine Plattform gegen Geheimniskrämerei bei Lebensmittelbehörden. Auf ihr können Verbraucher*innen Ergebnisse von Hygienekontrollen in Restaurants, Bäckereien, Supermärkten & Co. abfragen.

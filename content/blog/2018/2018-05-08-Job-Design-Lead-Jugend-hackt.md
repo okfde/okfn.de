@@ -1,23 +1,21 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2018-05-08
 image:
   src: /files/blog/2018/05/22252106205_c92c62c8ec_z.jpg
-  title: Jugend hackt 
-  license: 
-  license_url: 
+  title: Jugend hackt
+  license: null
+  license_url: null
 tags:
 - Ausschreibung
 - Jobs
 type: post
 layout: post
 card: true
-published: false
-title: "Design-Lead (20h)"
-jobs: "Design-Lead (20h)"
-
-
+title: Design-Lead (20h)
+jobs: Design-Lead (20h)
+draft: 'true'
+publishedDate: 2018-05-08
 ---
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Der Verein ist eine Dachorganisation für rund 20 Projekte mit hoher konzeptioneller und finanzieller Eigenverantwortung. 
@@ -61,4 +59,4 @@ Für die Position des Design Leads im Projekt Jugend Hackt sind wir auf der Such
 Wir möchten die Stelle im Idealfall zu August 2018 besetzen. Sie ist zunächst befristet bis 31.12.2019. Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
 Bitte schicke uns Deine Bewerbung (Motivation, Portfolio mit ausführlichen Projektbeschreibungen und deiner Rolle, Lebenslauf) inkl. möglichem Beginn <b> bis zum 22. Mai </b> per E-Mail an jobs@jugendhackt.org.
 
-Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. 
+Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.

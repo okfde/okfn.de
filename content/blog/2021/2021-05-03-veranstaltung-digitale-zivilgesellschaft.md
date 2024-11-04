@@ -2,22 +2,22 @@
 authors:
 - Claudia Jach
 - Patricia Leu
-date: 2021-05-03
 image:
   src: /files/blog/2021/05/demo_by_alex-radelich_unsplash.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OKFDE10
 - Community
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Eine Bestandsaufnahme der digitalen Zivilgesellschaft. Bildschirmgespräch zum 10. Geburtstag der OKF"
+title: Eine Bestandsaufnahme der digitalen Zivilgesellschaft. Bildschirmgespräch zum 10. Geburtstag der OKF
+publishedDate: 2021-05-03
 ---
+
 ### Wir laden ein!
 
 **18. Mai 2021, 17.30 - 19 Uhr**

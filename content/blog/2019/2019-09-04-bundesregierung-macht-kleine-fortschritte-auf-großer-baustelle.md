@@ -1,20 +1,18 @@
 ---
 authors:
 - Michael Peters
-date: 2019-09-04
 image:
   src: /files/blog/2017/09/kanzleramt-cc0.jpg
-  title: "Bundeskanzleramt"
+  title: Bundeskanzleramt
   license: CC-0
   license_url: https://creativecommons.org/share-your-work/public-domain/cc0/
-tags:
-
+tags: null
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Bundesregierung macht kleine Fortschritte auf großer Baustelle"
+title: Bundesregierung macht kleine Fortschritte auf großer Baustelle
+publishedDate: 2019-09-04
 ---
 
 Berlin 04.09.2019 - Unter dem Vorsitz von Bundeskanzlerin Angela Merkel hat das Bundeskabinett heute den 2. Nationalen Aktionsplan Open Government (2019-21) beschlossen. Der Bund bekennt sich bis 2021 zu neun Verpflichtungen, um ein offenes Regierungs- und Verwaltungshandeln mit Transparenz, offenen Daten und Bürgerbeteiligung dauerhaft zu verankern. Hinzu kommen fünf Verpflichtungen von Seiten der Länder Nordrhein-Westfalen, Sachsen und Schleswig-Holstein. [Bereits am Wochenende](https://www.youtube.com/watch?v=veJl8cL6HYM) kündigte die Kanzlerin den 2. Nationalen Aktionsplan an. Diese hochrangige politische Verortung des Themas begrüßen wir ausdrücklich.

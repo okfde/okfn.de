@@ -1,15 +1,16 @@
 ---
 authors:
 - Giulia
-date: 2023-07-06
 image:
-  src: 
-  title:
-  license:
-  license_url:
-published: false
-title: "Gesucht: Buchhaltung- & Office-Assistenz (Minijob / Stud. Hilfskraft / TVL E12/S1)"
+  src: null
+  title: null
+  license: null
+  license_url: null
+title: 'Gesucht: Buchhaltung- & Office-Assistenz (Minijob / Stud. Hilfskraft / TVL E12/S1)'
+draft: 'true'
+publishedDate: 2023-07-06
 ---
+
 ### Um unser Team in Sachen Tabellen, Zahlen und Belegen zu untersützen, suchen wir eine Assistenz für Buchhaltung und Office: Minijob, Stud. Hilfskraft oder TVL E12/S1 mit 10-15h/Woche in Berlin, ab sofort, 2 Jahre befristet. Bewerbungsfrist: 06. August 2023
 
 #### Wer wir sind

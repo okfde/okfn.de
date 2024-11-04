@@ -2,8 +2,7 @@
 authors:
 - Christina Willems
 - Henriette Litta
-date: 2024-05-06
-image: 
+image:
   src: /files/blog/2024/Bündnis_F5_-_Parlamentarisches_Frühstück_Nr._8_Verwaltungsdigitalisierung_2.jpg
   license: CC BY 4.0 by Lilli Iliev
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -13,10 +12,11 @@ tags:
 - Verwaltungsdigitalisierung
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Verwaltungsmodernisierung durch Open Data"
+title: Verwaltungsmodernisierung durch Open Data
+publishedDate: 2024-05-06
 ---
+
 ### Parlamentarisches Frühstück des Bündnis F5 zur Verwaltungsmodernisierung ### 
 
 Unter der Schirmherrschaft von Nadine Schön, stellvertretende Vorsitzende der CDU/CSU Bundestagsfraktion und Mitglied im Ausschuss für Digitales, veranstaltete das [Bündnis F5](www.bündnis-f5.de) am 09.04.2024 ein parlamentarisches Frühstück, um sich darüber auszutauschen, welchen politischen Rahmen es für den Einsatz von KI braucht und wie das Potenzial von Daten für die Verwaltungsmodernisierung besser genutzt werden kann.

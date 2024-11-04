@@ -1,14 +1,12 @@
 ---
 title: Der Wert persönlicher Daten
 subtitle: Ist Datenhandel der bessere Datenschutz?
-published: true
-date: 2016-09-01
 layout: publikation
 image:
   src: /files/images/Studie2.jpg
   title: Studie
-  license:
-  license_url:
+  license: null
+  license_url: null
 kategorien: Studien
 categories: Studies
 people:
@@ -19,7 +17,8 @@ pages: 57
 size: 1.03 MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
-links: 
+links: null
+publishedDate: 2016-09-01
 ---
 
 Ziel dieser Studie ist, eine allgemein verständliche Übersicht zum Handel mit Daten zu erstellen, die den Wert von Daten strukturiert erfasst.

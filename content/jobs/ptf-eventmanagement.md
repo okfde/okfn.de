@@ -1,15 +1,15 @@
 ---
 authors:
 - Patricia Leu
-date: 2024-07-25
 image:
   src: /files/jobs/ptf-kommunikation.png
-  title: "Eventmanagement"
-  license: 
-  license_url:
-tags:
-published: false
-title: "Der Prototype Fund sucht eine Person für das Eventmanagement (Laufzeit: 6 Monate)"
+  title: Eventmanagement
+  license: null
+  license_url: null
+tags: null
+title: 'Der Prototype Fund sucht eine Person für das Eventmanagement (Laufzeit: 6 Monate)'
+draft: 'true'
+publishedDate: 2024-07-25
 ---
 
 Zur Unterstützung unseres Teams suchen wir eine Person, die die Vorbereitung, Durchführung und Nachbereitung einer unserer Veranstaltungen am 29. März 2025 verantwortet. Dieses Event wird der große Abschluss nach acht Jahren Prototype Fund, 16  Förderrunden und fast 400 Förderprojekten. Geplant sind Panels, Keynotes, Lightning Talks, Demos und es gibt viel Raum zum Austauschen, Kennenlernen und natürlich zum Feiern mit ca. 500 Teilnehmenden. Dafür kümmerst du dich beispielsweise um die Koordination mit der Eventlocation in Berlin, kommunizierst mit Gästen, behältst am Tag des Events selbst den Überblick und kümmerst dich im Nachgang um die Abrechnung und Dokumentation.

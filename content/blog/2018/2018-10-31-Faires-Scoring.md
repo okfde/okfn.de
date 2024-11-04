@@ -2,7 +2,6 @@
 authors:
 - Arne Semsrott
 - Walter Palmetshofer
-date: 2018-10-31
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSchufa
@@ -11,12 +10,11 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "OpenSCHUFA: Verbrauchergerechtes Scoring"
-featured: "yellow"
-
-
+title: 'OpenSCHUFA: Verbrauchergerechtes Scoring'
+featured: yellow
+publishedDate: 2018-10-31
 ---
+
 Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort.
 #fairesscoring #openschufa
 

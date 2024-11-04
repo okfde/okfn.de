@@ -1,10 +1,9 @@
 ---
 authors:
 - Michael Peters
-date: 2019-05-03
 image:
   src: /files/blog/2018/06/tale-of-three-men.jpg
-  title: "frankieleon, A tale of three men"
+  title: frankieleon, A tale of three men
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/2.0/
 tags:
@@ -15,10 +14,11 @@ tags:
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Transparenzregister: Mit Open Data Geldwäsche bekämpfen"
+title: 'Transparenzregister: Mit Open Data Geldwäsche bekämpfen'
+publishedDate: 2019-05-03
 ---
+
 ### Donnerstag, 16. Mai 2019 | 13:00 – 14:30 Uhr Hotel nhow | Stralauer Allee 3 | 10245 Berlin-Friedrichshain
 #### Eine gemeinsame Veranstaltung von Transparency Deutschland und Open Knowledge Foundation Deutschland e.V.
 

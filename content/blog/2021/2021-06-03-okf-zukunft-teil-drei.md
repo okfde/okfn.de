@@ -1,20 +1,20 @@
 ---
 authors:
 - Andreas Pawelke
-date: 2021-06-03
 image:
   src: /files/blog/2021/06/Model novelties Loreto et al 2017.png
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Positionen
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Die OKF der Zukunft – Teil III"
+title: Die OKF der Zukunft – Teil III
+publishedDate: 2021-06-03
 ---
+
 Als langjähriges (und [vor kurzem ausgeschiedenes](https://okfn.de/blog/2021/03/okf-vorstandswechsel/)) Vorstandsmitglied nehme ich zum Abschied das Privileg in Anspruch, nicht nur laut über die vergangene und gegenwärtige Arbeit der OKF nachzudenken, sondern auch Überlegungen zur zukünftigen Ausrichtung der Organisation anzustellen.
 
 ### Teil III

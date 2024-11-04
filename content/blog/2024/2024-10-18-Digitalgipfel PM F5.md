@@ -2,8 +2,7 @@
 authors:
 - Henriette Litta
 - Christina Willems
-date: 2024-10-18
-image: 
+image:
   src: /files/blog/2024/2024-10-18-Digitalgipfel-Megaphone.jpg
   license: cc by Oleg Laptev
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -13,9 +12,9 @@ tags:
 - Pressemitteilung
 type: post
 layout: post
-published: true
 featured: blue
-title: "Bündnis F5 beim Digital-Gipfel – Die Zivilgesellschaft muss um jeden Zentimeter Raum kämpfen"
+title: Bündnis F5 beim Digital-Gipfel – Die Zivilgesellschaft muss um jeden Zentimeter Raum kämpfen
+publishedDate: 2024-10-18
 ---
 
 **Pressemitteilung des Bündnis F5**
@@ -41,4 +40,3 @@ Bei der [Plattform 7](https://www.de.digital/DIGITAL/Navigation/DE/Digital-Gipfe
 +++
 
 Pressekontakt: presse@okfn.de
-

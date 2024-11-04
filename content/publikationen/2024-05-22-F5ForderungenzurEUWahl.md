@@ -1,8 +1,6 @@
 ---
 title: Positionen des Bündnis F5 zur Europawahl 2024
-subtitle: 
-published: true
-date: 2024-05-22
+subtitle: null
 layout: publikation
 image:
   src: /files/images/Policy5.jpg
@@ -16,9 +14,10 @@ pages: 15
 size: 380KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
-links: 
-  - url: "<a href=\"https://buendnis-f5.de/publikationen/2024-05-21-positionsonthe2024europeanelections/\" target=\"_blank\">Positions of the F5-Alliance on the 2024 EU-elections in english</a>"
-  - url: "<a href=\"https://buendnis-f5.de/\" target=\"_blank\">Zur Website des Bündnis F5</a>"
+links:
+- url: <a href="https://buendnis-f5.de/publikationen/2024-05-21-positionsonthe2024europeanelections/" target="_blank">Positions of the F5-Alliance on the 2024 EU-elections in english</a>
+- url: <a href="https://buendnis-f5.de/" target="_blank">Zur Website des Bündnis F5</a>
+publishedDate: 2024-05-22
 ---
 
 Die Europäische Union hat sich als wegweisende Akteurin in der Digitalpolitik etabliert. In den letzten fünf Jahren wurden bedeutende Gesetze auf den Weg gebracht, um die Macht von Big-Tech Unternehmen einzudämmen und die Einhaltung von Grund- und Menschenrechten im Digitalen zu stärken. Gleichzeitig ist die europäische Digitalpolitik zu oft von technischen Trends und gewinnorientierten Interessen getrieben. Der Fokus auf das Gemeinwohl geht dabei verloren.

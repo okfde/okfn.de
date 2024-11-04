@@ -2,12 +2,11 @@
 authors:
 - Claudia Jach
 - Henriette Litta
-date: 2021-04-15
 image:
   src: /files/blog/2021/04/digitales_ehrenamt_photo_by_sahand_babali_unsplash.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Community
 - Zivilgesellschaft
@@ -15,10 +14,11 @@ tags:
 - Digitales Ehrenamt
 type: post
 layout: post
-published: true
 featured: blue
-title: "Das Digitale Ehrenamt ist ein wichtiger Baustein für eine gemeinwohlorientierte Digitalpolitik"
+title: Das Digitale Ehrenamt ist ein wichtiger Baustein für eine gemeinwohlorientierte Digitalpolitik
+publishedDate: 2021-04-15
 ---
+
 Das Superwahljahr 2021 hat bereits volle Fahrt aufgenommen. Digitale Themen standen noch nie so sehr im Fokus wie jetzt. Aus unserer Sicht kommt der Zivilgesellschaft und insbesondere den Digital Ehrenamtlichen bei der Gestaltung von Digitalisierung eine Schlüsselrolle zu. 
 
 ### Aktivitäten im Digitalen Ehrenamt
@@ -83,4 +83,4 @@ Es fehlt aber an einer sinnvollen Integration Offener Technologiebildung in das 
 
 Dies kann aber nicht rein ehrenamtlich geleistet werden. Speziell im Bereich Jugendbildung braucht es zusätzlich eine nachhaltige, verlässliche und langfristige Förderung von jugendlichem Engagement sowie pädagogischen und technisch geschultem Personal, das Jugendliche in physischen und digitalen Lernräumen begleitet. Die OKF fordert auch hier, dass entsprechende Förderprogramme bereits bestehende, erfolgreiche Projekte unterstützen sollten, statt immer neue Modelle zu fördern. Nur so können haupt- und ehrenamtliches Engagement der digitalen Zivilgesellschaft langfristig gut ineinandergreifen.
 
-**Dieser Beitrag wurde zuerst am 1. April 2021 im [Newsletter](https://www.b-b-e.de/bbe-newsletter/newsletter-nr-7-vom-142021/jach/litta-digitales-ehrenamt-in-der-digitalpolitik/) des Bundesnetzwerk Bürgerschaftliches Engagement (BBE) veröffentlicht.** 
+**Dieser Beitrag wurde zuerst am 1. April 2021 im [Newsletter](https://www.b-b-e.de/bbe-newsletter/newsletter-nr-7-vom-142021/jach/litta-digitales-ehrenamt-in-der-digitalpolitik/) des Bundesnetzwerk Bürgerschaftliches Engagement (BBE) veröffentlicht.**

@@ -1,17 +1,17 @@
 ---
 authors:
 - Joram Schwartzmann
-date: 2023-02-01
-image: 
+image:
   src: /files/blog/2023/02/Read-Write-1.png
 tags:
 - prototype-fund
 - ausschreibung
 type: post
 layout: post
-published: true
-title: "Prototype Fund: Jetzt bewerben für Runde 14"
+title: 'Prototype Fund: Jetzt bewerben für Runde 14'
+publishedDate: 2023-02-01
 ---
+
 Seit dem 1. Februar 2023 könnt ihr eure Public-Interest-Tech-Ideen für die 14. Förderphase des Prototype Fund einreichen. Wenn eure Projektidee überzeugt, könnt ihr ab dem 1. September 2023 mit den anderen Prototyp-Entwickler\*innen in die Förderung starten.
 
 Der Prototype Fund sucht nach innovativen Open-Source-Softwareprojekten mit gesellschaftlichem Mehrwert, die bottom-up und in engem Austausch mit der Zielgruppe entwickelt werden. Das Bundesministerium für Bildung und Forschung entscheidet über die Förderung der von unserer Jury vorgeschlagenen Projekte. Ausgewählte Projekte werden über sechs Monate mit bis zu 47.500 € gefördert und von uns mit Coachings und regelmäßiger Beratung unterstützt.

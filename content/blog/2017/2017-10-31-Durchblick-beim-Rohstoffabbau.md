@@ -1,22 +1,19 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2017-10-31 01:00:00
 image:
   src: /files/blog/2017/10/EITI-20171019_ausblick-edda-mueller.jpg
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open-Data
 - EITI
 type: post
 layout: post
 card: true
-published: true
-title: "Durchblick beim Rohstoffabbau" 
-
-
+title: Durchblick beim Rohstoffabbau
+publishedDate: 2017-10-31 01:00:00
 ---
 
 Im Rahmen der Alternativen Rohstoffwoche luden am 19.10.2017 das Forum Ökologisch Soziale Marktwirtschaft, das Forum Umwelt und Entwicklung, die Open Knowledge Foundation Deutschland und Transparency International Deutschland e.V. zur Diskussion bzgl. der Veröffentlichung des [ersten EITI-Transparenzbericht](www.d-eiti.de/wp-content/uploads/2017/08/1_D-EITI_Bericht_-fuer_-2016.pdf). Der Bericht informiert über den deutschen Rohstoffsektor und die mit der Rohstoffförderung verbundenen Finanzströme zwischen Unternehmen und Staat. Sorgt der erste D-EITI-Bericht für mehr Durchblick im deutschen Rohstoffsektor? Wo steht der erste D-EITI-Bericht im internationalen Vergleich? 
@@ -43,8 +40,4 @@ Ausblick Prof. Dr. Edda Müller
 
 
 Von der Podiumsdiskussion mit Anne Miehe (Referentin Ressourceneffizienz/Rohstoffpolitik international beim Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit), Christoph Heinrich (Warth&Klein Grant Thornton AG,  Unabhängiger Verwalter D-EITI), Matthias Wachter (Abteilungsleiter Sicherheit und Rohstoffe BDI e.V., MSG-Mitglied D-EITI) unter der Moderation von Cathrin Klenck (Referentin Forum Umwelt und Entwicklung, stellv. MSG-
-Mitglied D-EITI) gibt es leider keine Aufnahme. 
-
-
-
-
+Mitglied D-EITI) gibt es leider keine Aufnahme.

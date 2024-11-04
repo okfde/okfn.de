@@ -1,7 +1,6 @@
 ---
 authors:
 - Felix Reda
-date: 2022-03-28
 image:
   src: /files/blog/2020/03/2020-03-23-Prototyp-und-dann.jpg
   title: Photo by Charles Deluvio on Unsplash
@@ -11,9 +10,9 @@ tags:
 - Infrastruktur
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Sovereign Tech Fund: Bundestag muss Open Source im Haushalt verankern"
+title: 'Sovereign Tech Fund: Bundestag muss Open Source im Haushalt verankern'
+publishedDate: 2022-03-28
 ---
 
 **Berlin, 28.03.2022**

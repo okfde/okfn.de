@@ -1,7 +1,6 @@
 ---
 authors:
 - Claudia Jach
-date: 2022-04-21
 image:
   src: /files/blog/2022/03/Save the Date Banner.jpg
 tags:
@@ -9,9 +8,9 @@ tags:
 - Nachhaltigkeit
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Bits & Bäume 2022 und die OKF"
+title: Bits & Bäume 2022 und die OKF
+publishedDate: 2022-04-21
 ---
 
 [Vom 30.9. bis 2.10.2022 findet die zweite große Bits & Bäume Konferenz statt - mit der OKF im Trägerkreis.](https://bits-und-baeume.org/konferenz/de) Bits & Bäume ist eine Konferenz, aber auch eine Bewegung von allen Menschen, die Digitalisierung nachhaltiger gestalten wollen, also u. a. gerechter, transparenter, zugänglicher, umweltfreundlicher und ressourcenschonender.

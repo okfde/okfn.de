@@ -1,20 +1,19 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2018-03-12
 image:
   src: /files/blog/2018/03/PrototypeFund-P-Logo.png
   title: Prototype Fund Logo
-  license: 
-  license_url: 
+  license: null
+  license_url: null
 tags:
 - Ausschreibung
 - Jobs
 type: post
 layout: post
 card: true
-published: true
-title: "Kommunikation und Projektmanagement (*/w/m) in Krankheitsvertretung"
+title: Kommunikation und Projektmanagement (*/w/m) in Krankheitsvertretung
+publishedDate: 2018-03-12
 ---
 
 Der Prototype Fund ist ein Förderprogramm, das Softwareentwickler*innen, Hacker*innen und Kreative dabei unterstützt, ihre Ideen vom Konzept bis zur ersten Demo zu entwickeln und als Open-Source-Prototypen zu veröffentlichen. Seit 2016 arbeiten wir (Adriana, Elisa, Fiona und Julia) daran, bestehende Strukturen und Narrative im Bereich der Innovation und Innovationsförderung aufzubrechen und mehr digitale Innovationen für die Gesellschaft möglich zu machen. Jetzt suchen wir dabei Verstärkung.
@@ -61,5 +60,3 @@ Laufzeit: Die Stelle ist eine Krankheitsvertretung und zunächst auf 6 Monate be
 Zeitl. Aufwand: 40h/Woche (Teilzeitregelung nach Absprache möglich)<br>
 Gehalt: nach TV-L E13/S1<br>
 Ort: Berlin<br>
-
-

@@ -1,17 +1,16 @@
 ---
 authors:
 - OKFDE
-date: 2024-09-09
-image: 
+image:
   src: /files/blog/2024/Hackday Titel.png
 tags:
 - Jugendhackt
 - Hackday
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Hackday am 3. Oktober!"
+title: Hackday am 3. Oktober!
+publishedDate: 2024-09-09
 ---
 
 ## Jugend hackt: Hackday

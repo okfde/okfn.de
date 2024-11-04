@@ -1,17 +1,16 @@
 ---
 authors:
 - OKF DE
-date: 2024-07-17
-image: 
+image:
   src: /files/blog/2024/2024-07-15-retreat1.jpeg
 tags:
 - retreat
 - Brandenburg
 type: post
 layout: post
-published: true
 featured: blue
-title: "Team-Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen"
+title: 'Team-Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen'
+publishedDate: 2024-07-17
 ---
 
 ## Team-Retreat
@@ -40,4 +39,4 @@ Die Zukunftsplanung stand im Zentrum: Unser Policy-Team sammelte Forderungen und
 
 Unsere zwei Tage im Stechlin-Institut haben viele Ergebnisse geliefert, mit denen wir im Lauf des Jahres konkret weiterarbeiten werden; von einigen Gesprächen und Erlebnissen werden wir indirekt profitieren, durch verbesserte Zusammenarbeit und gestärkte Beziehungen. Das Retreat ist auch für das Jahr 2025 wieder in Planung! Wir freuen uns auf die gemeinsame Zeit und neuen Input.
 
-![Gruppenbild](/files/blog/2024/2024-07-15-retreat6.jpeg) 
+![Gruppenbild](/files/blog/2024/2024-07-15-retreat6.jpeg)

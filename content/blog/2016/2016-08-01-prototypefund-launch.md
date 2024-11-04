@@ -1,9 +1,8 @@
 ---
 author: Julia Kloiber
-date: 2016-08-01 09:00:00
 image:
   src: /files/blog/2016/08/PrototypeFundLogo.png
-  license: 
+  license: null
   title: Prototype Fund!
 layout: post
 tags:
@@ -15,7 +14,7 @@ tags:
 - BMBF
 title: Hello World! <br> Hello Prototype Fund!
 type: post
-published: true
+publishedDate: 2016-08-01 09:00:00
 ---
 
 Nach über einem Jahr Planung und Konzeption freuen wir uns sehr darüber, endlich live zu sein! Mit dem [Prototype Fund](http://prototypefund.de) haben wir ein Programm ins Leben gerufen, das wir uns seit vielen Jahren selbst wünschen. Schon lange sind wir als gemeinnützige Organisation in den Bereichen Freies Wissen, Open Data und Civic Tech unterwegs. Wir entwickeln Tools, helfen dabei Communitys aufzubauen, veranstalten Events und vieles mehr. Aus eigener Erfahrung und derer vieler engagierter Menschen aus unser Community wissen wir, wie schwierig es sein kann, finanzielle Unterstützung für gemeinnützige Vorhaben oder für Projekte in neuen Themenfeldern zu bekommen.
@@ -48,4 +47,3 @@ Innovationen lassen sich schwer planen. Oftmals gehen der Entwicklung einer neue
 ###Der Prototype Fund als Prototyp
 
 Auch das Programm selbst verstehen wir als Prototyp. Wir wollen von und mit der Community lernen und das Programm laufend anpassen und weiterentwickeln. Dafür haben wir drei Jahre und vier Runden lang Zeit. In den nächsten Jahren wollen wir tolle Projekte fördern, neue Themenschwerpunkte erforschen, ein Netzwerk aufbauen und lernen, wie Förderprogramme der Zukunft aussehen müssen. Feedback und Kontakt zur Community sind für uns deshalb besonders wichtig!
-

@@ -1,10 +1,9 @@
 ---
-authors: 
+authors:
 - Maximilian Voigt
-date: 2020-09-11
 image:
   src: /files/blog/2020/09/foe19_dis.jpg
-  title: "FOE19"
+  title: FOE19
   license: CC-BY 4.0 Leonard Wolf
   license_url: https://creativecommons.org/licenses/by/4.0/
 type: post
@@ -13,9 +12,9 @@ tags:
 - Open Education
 - Bildungspolitik
 card: true
-published: true
 featured: yellow
-title: "Open Education: Unser Vorschlag für die OER-Strategie des Bundes" 
+title: 'Open Education: Unser Vorschlag für die OER-Strategie des Bundes'
+publishedDate: 2020-09-11
 ---
 
 Das Ende der 19. Legislaturperiode des Deutschen Bundestages ist abzusehen und noch immer warten wir mit Wikimedia und dem [Bündnis Freie Bildung](https://buendnis-freie-bildung.de/) auf die von der Bundesregierung versprochene [„umfassende Open Educational Resources-Strategie“](https://blog.wikimedia.de/2020/03/02/forderungen-fuer-eine-schnellere-umsetzung-der-oer-strategie/).
@@ -33,4 +32,4 @@ Wir sind der festen Überzeugung, dass die Digitalisierung ihr volles Potenzial 
 
 betrachten wir Open Education als eine Vielzahl an Ansätzen, die alle Bereiche der Bildung betreffen und diese reformieren und verbessern. 
 
-Wir möchten gemeinsam mit dem [Bundesministerium für Bildung und Forschung](https://www.bmbf.de/) an der Strategie arbeiten und **fordern einen offenen Beteiligungsprozess, der die Vielfalt an Akteuren und Akteurinnen der Bildungslandschaft mit einbezieht.** 
+Wir möchten gemeinsam mit dem [Bundesministerium für Bildung und Forschung](https://www.bmbf.de/) an der Strategie arbeiten und **fordern einen offenen Beteiligungsprozess, der die Vielfalt an Akteuren und Akteurinnen der Bildungslandschaft mit einbezieht.**

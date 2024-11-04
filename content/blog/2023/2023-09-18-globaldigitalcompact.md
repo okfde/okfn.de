@@ -1,20 +1,18 @@
 ---
 authors:
 - Henriette Litta
-date: 2023-09-18
 image:
   src: /files/blog/2023/humphrey-muleba-L4jb3ubqsmM-unsplash.png
   title: Foto von Humphrey Muleba auf Unsplash
-  
 tags:
 - Global Digital Compact
 - UN
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Beim Global Digital Compact braucht es eine stärkere Stimme der Zivilgesellschaft"
+title: Beim Global Digital Compact braucht es eine stärkere Stimme der Zivilgesellschaft
+publishedDate: 2023-09-18
 ---
 
 **Die Vereinten Nationen befassen sich im Rahmen des [Global Digital Compact](https://www.un.org/techenvoy/global-digital-compact) (GDC) mit der Gestaltung der digitalen Zukunft im globalen Rahmen. Hierzu hatte der UN-Generalsekretär im Mai 2023 einen [Policy Brief](https://indonesia.un.org/sites/default/files/2023-07/our-common-agenda-policy-brief-gobal-digi-compact-en.pdf) vorgelegt. Die Regierungen verorten derzeit ihre Positionen dazu und sollten dabei insbesondere auch die Stimmen aus der Zivilgesellschaft hören. Über die letzten Wochen hatte sich die Open Knowledge Foundation im Rahmen eines Bündnisses aus zivilgesellschaftlichen Organisationen (auf Initiative von Wikimedia Deutschland) den Policy Brief genauer angeschaut und Vorschläge für wünschenswerte Anpassungen gemacht. Beim [Internet Governance Forum Deutschland](https://www.igf-d.de/igf-d-2023/) in der letzten Woche bot sich nun die Gelegenheit für einen neuen Austausch.**

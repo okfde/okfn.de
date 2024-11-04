@@ -1,17 +1,16 @@
 ---
 authors:
 - Aus dem Off der OKF
-date: 2020-12-10
 image:
-  src: /files/blog/2020/12/Rueckblick_2020_photo_by_glen_carrie_unsplash.jpg 
-  title: "Rueckblick_2020_photo_by_glen_carrie_unsplash"
-  license:
-  license_url:
+  src: /files/blog/2020/12/Rueckblick_2020_photo_by_glen_carrie_unsplash.jpg
+  title: Rueckblick_2020_photo_by_glen_carrie_unsplash
+  license: null
+  license_url: null
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Zum Jahresende: Was für ein Jahr!"
+title: 'Zum Jahresende: Was für ein Jahr!'
+publishedDate: 2020-12-10
 ---
 
 Das Jahr kann jetzt wirklich einmal zu Ende gehen. Uns reicht es jetzt. 2020 hat uns alle heftig mitgenommen. Ein Wunder, wie entspannt wir alle auf der digitalen Weihnachtsfeier waren. Noch nie schleppte sich ein Jahr so zäh dahin oder ist es doch in Windeseile verflogen? 2020 geht in die Geschichte ein als ein Jahr, in dem alles ein wenig anders ist. Für viele von uns, ist es eine erstaunliche Erfahrung, unsere Gewohnheiten und unseren Alltag anzupassen, um unsere eigene Gesundheit zu schützen, sowie die Gesundheit von unseren Familien, Freunden und allen anderen.
@@ -30,4 +29,4 @@ Unterstütze uns gern mit deiner Spende. Spenden ermöglichen es uns, unabhängi
 
 Bleibt gesund und ein friedliches Weihnachtsfest uns allen.
 
-Wir sagen Tschüß 2020! 
+Wir sagen Tschüß 2020!

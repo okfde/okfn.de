@@ -1,12 +1,11 @@
 ---
-authors: 
+authors:
 - Jasmin Helm
-date: 2017-08-01 08:00:00
 image:
   src: /files/blog/2017/08/ds-und-bc.jpg
   title: Team Datenschule mit BildungsCent
-  license: "CC-BY 3.0, Team der Datenschule mit BildungsCent e.V., Foto: Leonard Wolf" 
-  license_url: "https://creativecommons.org/licenses/by/3.0/"
+  license: 'CC-BY 3.0, Team der Datenschule mit BildungsCent e.V., Foto: Leonard Wolf'
+  license_url: https://creativecommons.org/licenses/by/3.0/
 tags:
 - schuldaten
 - ngos
@@ -15,8 +14,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Interview der Datenschule mit BildungsCent: Über Schuldaten, Digitalisierung & die gemeisame Datenarbeit"
+title: 'Interview der Datenschule mit BildungsCent: Über Schuldaten, Digitalisierung & die gemeisame Datenarbeit'
+publishedDate: 2017-08-01 08:00:00
 ---
 
 In den vergangenen Monaten haben wir bei der [Datenschule](https://datenschule.de) gemeinsam mit unserem Partner [BildungsCent e.V.](http://www.bildungscent.de/) intensiv an Schuldaten gearbeitet. Mit Silke Ramelow, Vorstandsvorsitzende von BildungsCent, ließen wir die Zeit Revue passieren und sprachen in einem Interview über die Chancen der Digitalisierung für gemeinnützige Organisationen, die Zusammenarbeit an den Daten und unser gemeinsames Projekt [JedeSchule.de](https://jedeschule.de).  

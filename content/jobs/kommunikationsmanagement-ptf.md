@@ -1,14 +1,14 @@
 ---
 authors:
 - Katharina Meyer
-date: 2019-10-15
 image:
   src: /files/jobs/ptf1.gif
-  title:
-  license:
-  license_url:
-published: false
-title: "Prototype Fund: Kommunikationstalent für Content-Strategie gesucht! (100%, ab Januar 2020)"
+  title: null
+  license: null
+  license_url: null
+title: 'Prototype Fund: Kommunikationstalent für Content-Strategie gesucht! (100%, ab Januar 2020)'
+draft: 'true'
+publishedDate: 2019-10-15
 ---
 
 ## Job: Kommunikationstalent für Content-Strategie gesucht! (Bewerbungsfrist 15.November 2019)

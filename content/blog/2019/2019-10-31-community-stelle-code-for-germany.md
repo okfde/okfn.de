@@ -1,17 +1,16 @@
 ---
 authors:
 - Michael Peters
-date: 2019-10-31
 image:
   src: /files/blog/2019/10/CFG_logo.png
-  title: "CodeforGermany-logo"
-  license:
-  license_url:
+  title: CodeforGermany-logo
+  license: null
+  license_url: null
 type: post
 layout: post
 card: true
-published: true
-title: "Neuer Job bei Code for Germany: Wir suchen Communitybuilder*in! (80%, ab Januar 2020)"
+title: 'Neuer Job bei Code for Germany: Wir suchen Communitybuilder*in! (80%, ab Januar 2020)'
+publishedDate: 2019-10-31
 ---
 
 [Code for Germany](https://codefor.de/) ist eine deutschlandweite Community, die sich dafür einsetzt, das Potenzial der Digitalisierung für alle Menschen zugänglich zu machen. In 26 Städten treffen sich dazu technisch interessierte Menschen, um in den Open Knowledge Labs (kurz: OK Labs) zu coden, zu diskutieren und sich mit Bürger\*innen und politischen Vertreter\*innen auszutauschen.

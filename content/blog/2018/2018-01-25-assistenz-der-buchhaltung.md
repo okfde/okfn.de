@@ -1,18 +1,17 @@
 ---
 author: OKF
-date: 2018-01-26 
 image:
   src: /files/blog/2017/01/flickr-state-library-of-queensland.jpg
   title: Flickr_State Library of Queensland
-  license: "CC0, Quelle: [Flickr](https://www.flickr.com/photos/statelibraryqueensland/3219069891/in/photolist-5Uszk2-9uR1dn-8njtj3-ajsBLH-bFoYtX-fmHa3L-fcvwEM-6Rs7a9-8amQJJ-dWXUzG-cqAKgJ-hKCuvT-qoHkXL-9D3vSu-8rWEFV-cL1xu1-6Ro4c6-6Ro3HX-8nYiep-6o6cpV-6pAPsT-6bJirV-9nw5zW-ecrAZB-c4cVC7-hHPTBe-dcE2YL-9WeSMp-cKXUgN-64ESGS-fepHQ1-qrf3jr-bUr4os-ec3yXd-bsu6Co-9M5sip-8o2y1s-8njtAL-8njs8S-dWXV4w-5J7Q2k-qh8Dht-8ngjUD-8vNAMa-4i7B9z-6pEXQf-5SGTuA-9s7jAX-8njsXS-ek1kNh)"
+  license: 'CC0, Quelle: [Flickr](https://www.flickr.com/photos/statelibraryqueensland/3219069891/in/photolist-5Uszk2-9uR1dn-8njtj3-ajsBLH-bFoYtX-fmHa3L-fcvwEM-6Rs7a9-8amQJJ-dWXUzG-cqAKgJ-hKCuvT-qoHkXL-9D3vSu-8rWEFV-cL1xu1-6Ro4c6-6Ro3HX-8nYiep-6o6cpV-6pAPsT-6bJirV-9nw5zW-ecrAZB-c4cVC7-hHPTBe-dcE2YL-9WeSMp-cKXUgN-64ESGS-fepHQ1-qrf3jr-bUr4os-ec3yXd-bsu6Co-9M5sip-8o2y1s-8njtAL-8njs8S-dWXV4w-5J7Q2k-qh8Dht-8ngjUD-8vNAMa-4i7B9z-6pEXQf-5SGTuA-9s7jAX-8njsXS-ek1kNh)'
 type: post
 layout: post
 card: true
 tags:
- - OKF
- - Jobs
-title: "Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)"
-published: true 
+- OKF
+- Jobs
+title: Wir suchen eine Assistenz der Buchhaltung (Minijob oder studentische Hilfskraft, 10h, ab sofort)
+publishedDate: 2018-01-26
 ---
 
 Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein mit Sitz in

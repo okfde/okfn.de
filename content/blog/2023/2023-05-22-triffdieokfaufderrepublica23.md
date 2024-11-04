@@ -1,17 +1,16 @@
 ---
 authors:
 - OKFDE
-date: 2023-05-22
-image: 
+image:
   src: /files/blog/2023/Blogpost_Foto_republica_kombrimiert2.jpg
 tags:
 - re-publica
 - digitaleZivilgesellschaft
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Triff die OKFDE auf der re:publica!"
+title: Triff die OKFDE auf der re:publica!
+publishedDate: 2023-05-22
 ---
 
 **Die [re:publica](https://re-publica.com/de), das Festival für die digitale Gesellschaft, findet vom 05.-07. Juni 2023 in der Arena Berlin und dem Festsaal Kreuzberg statt. Die OKFDE wird mit verschiedenen Themen und Formaten dabei sein.**
@@ -94,4 +93,3 @@ Das vollständige Programm zur re:publica findet [ihr hier](https://re-publica.c
 
 
 See you soon!
-

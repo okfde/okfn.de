@@ -1,20 +1,20 @@
 ---
 authors:
-- 
-date: 2021-05-21
+- null
 image:
   src: /files/blog/2021/05/campaign-watch.png
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Policy
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Leitfaden für digitale Demokratie"
+title: Leitfaden für digitale Demokratie
+publishedDate: 2021-05-21
 ---
+
 ### Zivilgesellschaft fordert Parteien zu mehr Einsatz gegen Hetze und Desinformation auf
 
 Ein breites zivilgesellschaftliches Bündnis mit der Open Knowledge Foundation fordert im Wahlkampf 2021 die Parteien zur Einhaltung eines “Leitfaden für Digitale Demokratie” auf. Die Unterzeichner:innen des Appells richten sich an Wahlkämpfende aller Parteien.

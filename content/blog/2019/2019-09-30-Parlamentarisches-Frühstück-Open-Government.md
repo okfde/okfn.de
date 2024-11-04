@@ -1,21 +1,19 @@
 ---
 authors:
 - Michael Peters
-date: 2019-09-30
 image:
   src: /files/blog/2019/09/bundestag.jpg
-  title: "Das Reichstagsgebäude - Jürgen Matern"
+  title: Das Reichstagsgebäude - Jürgen Matern
   license: CC BY-SA 3.0
   license_url: https://creativecommons.org/licenses/by-sa/3.0/
-tags:
-
+tags: null
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Parlamentarisches Frühstück zu Open Government"
-url: "/blog/2019/09/parlamentarisches-fruehstueck-open-gov/"
+title: Parlamentarisches Frühstück zu Open Government
+url: /blog/2019/09/parlamentarisches-fruehstueck-open-gov/
+publishedDate: 2019-09-30
 ---
 
 ### Mittwoch 16.10.2019, 8:00 - 9:15, Bundestag, Paul-Löbe-Haus (Raum 5.101 / 102)

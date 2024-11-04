@@ -1,20 +1,19 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2021-03-15
 image:
   src: /files/blog/2021/03/FOE-Posts-Social-Media-Landscape1-1024x532.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open Education
 - Bildungspolitik
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Forum Open Education: Bildungspolitik auf Augenhöhe"
+title: 'Forum Open Education: Bildungspolitik auf Augenhöhe'
+publishedDate: 2021-03-15
 ---
 
 Mit dem vierten [Forum Open Education](https://education.forum-open.de/) lädt das [Bündnis Freie Bildung](https://buendnis-freie-bildung.de/) auch 2021 wieder engagierte Bildungsenthusiast*innen und politischen Entscheidungstragende ein, zeitgemäßes Lehren und Lernen für eine digitale und offene Gesellschaft voranzubringen. Ziel ist es, die Zusammenarbeit und den Austausch zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Gemeinsam werden Einschätzungen, Strategien und konkrete Handlungsempfehlungen für gerechte, offene und nachhaltige Bildung erarbeitet.

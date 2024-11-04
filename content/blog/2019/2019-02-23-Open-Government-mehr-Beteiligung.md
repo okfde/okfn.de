@@ -1,12 +1,11 @@
 ---
-authors: 
+authors:
 - Michael Peters
-date: 2019-02-23
 image:
   src: /files/blog/2018/08/OGP-Georgia.jpg
-  title: "OGP Georgia"
-  license:
-  license_url:
+  title: OGP Georgia
+  license: null
+  license_url: null
 tags:
 - Open Government
 - Beteiligung
@@ -14,8 +13,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Open Government in Deutschland: mehr zivilgesellschaftliche Beteiligung"
+title: 'Open Government in Deutschland: mehr zivilgesellschaftliche Beteiligung'
+publishedDate: 2019-02-23
 ---
 
 In unseren westlichen Gesellschaften sinkt das Vertrauen in die Politik. Dabei spielt insbesondere auch die Intransparenz politischer Prozesse eine Rolle. Ein faktenbasierter öffentlicher Diskurs ist in Deutschland unter anderem häufig deswegen nicht möglich, weil Informationen zurückgehalten werden. Über Horst Seehofers sogenannten »Masterplan« wurde zum Beispiel monatelang diskutiert, ohne dass das Dokument je öffentlich war. Dabei hat die Bundesregierung mit dem Open Government Ansatz schon einen möglichen Lösungsansatz entdeckt, sie muss die Umsetzung in Deutschland aber auch flächendeckend verfolgen.

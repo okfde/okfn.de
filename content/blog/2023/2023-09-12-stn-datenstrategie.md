@@ -2,7 +2,6 @@
 authors:
 - Christina Willems
 - Henriette Litta
-date: 2023-09-12
 image:
   src: /files/blog/2020/03/data-joshua-sortino-unsplash.jpg
   title: Photo by Joshua Sortino on Unsplash
@@ -12,9 +11,9 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
-title: "Stellungnahme des Bündnis F5 zur Datenstrategie der Bundesregierung"
+title: Stellungnahme des Bündnis F5 zur Datenstrategie der Bundesregierung
+publishedDate: 2023-09-12
 ---
 
 **„Fortschritt durch Datennutzung“ – so lautet die Weiterentwicklung der Datenstrategie von 2021, die zur Mitte der Legislatur veröffentlicht wurde. Es ist deutlich erkennbar, dass die Bedeutung der Datenpolitik nun stärker als gesamtgesellschaftliches Thema begriffen wird. Dennoch verharrt das Dokument im üblichen Modus der zusammengeschusterten Strategiepapiere als Sammelsurium verschiedener bekannter Ansätze und Einzelmaßnahmen; ein Gesamtrahmen mit klaren Governance-Strukturen, Rollen und Prozessen sowie einer soliden Dateninfrastruktur für eine planvolle und effektive Umsetzung der bereits beschlossenen Maßnahmen fehlt weiterhin.**
@@ -45,5 +44,4 @@ Um den Mehrwert von Daten aufzuzeigen, sollen laut Datenstrategie Anwendungsbeis
 
 ### Klare Governance-Strukturen müssen endlich entwickelt werden ###
 
-Um die vielen Einzelmaßnahmen effektiv umsetzen zu können, muss die Regierung klare Governance-Strukturen mit eindeutigen Rollen und Prozessen schaffen, die bisher zu unkoordiniert sind. So soll laut Datenstrategie nun jedes Ministerium Datenatlasse und Datenpools in den einzelnen Datenlaboren entwickeln. Dabei stellen sich zentrale Fragen: Wie werden zivilgesellschaftliche Organisationen in den Strukturen eingebunden und wie wird ihre langjährige Expertise nachhaltig berücksichtigt? Wie wird Wissen zwischen den Laboren ausgetauscht? Wie sollen die notwendigen Infrastrukturen entstehen, um nach der Kartierung auch den Zugang zu schaffen? Es braucht eine übergeordnete Koordination für eine solide Dateninfrastruktur der öffentlichen Verwaltung. Experimentierräume der Verwaltung dürfen dabei unter keinen Umständen demokratische Prinzipien der Transparenz, Beteiligung und Rechenschaftspflicht außer Acht lassen. Zudem ist unklar, welche Rolle das sich im Aufbau befindende Dateninstitut innerhalb des Datenökosystems einnehmen soll und wie zivilgesellschaftliche Expertise eingebunden wird. Auch wie die nationale Datenpolitik andere föderale Ebenen unterstützt und mitdenkt, findet keine Erwähnung. Die Datenstrategie hätte das Potenzial gehabt, einen Gesamtrahmen mit einer klaren Zielrichtung der Datenpolitik zu definieren. Diese Chance wurde leider vertan. 
-
+Um die vielen Einzelmaßnahmen effektiv umsetzen zu können, muss die Regierung klare Governance-Strukturen mit eindeutigen Rollen und Prozessen schaffen, die bisher zu unkoordiniert sind. So soll laut Datenstrategie nun jedes Ministerium Datenatlasse und Datenpools in den einzelnen Datenlaboren entwickeln. Dabei stellen sich zentrale Fragen: Wie werden zivilgesellschaftliche Organisationen in den Strukturen eingebunden und wie wird ihre langjährige Expertise nachhaltig berücksichtigt? Wie wird Wissen zwischen den Laboren ausgetauscht? Wie sollen die notwendigen Infrastrukturen entstehen, um nach der Kartierung auch den Zugang zu schaffen? Es braucht eine übergeordnete Koordination für eine solide Dateninfrastruktur der öffentlichen Verwaltung. Experimentierräume der Verwaltung dürfen dabei unter keinen Umständen demokratische Prinzipien der Transparenz, Beteiligung und Rechenschaftspflicht außer Acht lassen. Zudem ist unklar, welche Rolle das sich im Aufbau befindende Dateninstitut innerhalb des Datenökosystems einnehmen soll und wie zivilgesellschaftliche Expertise eingebunden wird. Auch wie die nationale Datenpolitik andere föderale Ebenen unterstützt und mitdenkt, findet keine Erwähnung. Die Datenstrategie hätte das Potenzial gehabt, einen Gesamtrahmen mit einer klaren Zielrichtung der Datenpolitik zu definieren. Diese Chance wurde leider vertan.

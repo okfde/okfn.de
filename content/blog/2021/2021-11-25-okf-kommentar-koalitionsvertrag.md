@@ -1,20 +1,19 @@
 ---
 authors:
 - Henriette Litta
-date: 2021-11-25
 image:
   src: /files/blog/2021/09/Screenshot_KoaVertrag2021.png
   title: Screenshot vom Titel des Koalitionsvertrags
   license: Screenshot vom Titel des Koalitionsvertrags
-  license_url: 
+  license_url: null
 tags:
 - politik
 - zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
 title: Der Koalitionsvertrag liegt vor. In der Digitalpolitik soll vieles anders werden. Gut so. Aber bitte auch liefern.
+publishedDate: 2021-11-25
 ---
 
 **Gestern hat die Ampel ihren [Koalitionsvertrag](https://fragdenstaat.de/dokumente/142083-koalitionsvertrag-2021-2025/#page-1) vorgestellt. Für die Digitalpolitik nimmt sie sich viel vor. Sehr erfreulich ist der vorgenommene Perspektivwechsel: Im Zentrum der Vorschläge stehen die Bürger:innen mit ihren Rechten, ihrem Bedürfnis nach Sicherheit und dem Wunsch nach mehr Partizipation. Darüber hinaus ist es den Verhandelnden gelungen, die Digitalpolitik in ihrer gesamten Bandbreite quer über alle Themen zu verankern: Von der Infrastruktur, den Digitalkompetenzen, den Verbraucher:innenrechten bis zur IT-Sicherheit und der Außenpolitik. Aus der Zivilgesellschaft bekommt die Ampel daher viel Lob zum Start. Ob sie die ambitionierten Pläne wirklich umsetzt, werden wir ab jetzt kritisch begleiten.**
@@ -55,4 +54,4 @@ Wir begrüßen es sehr, dass die Ampel “zivilgesellschaftliches Bildungsengage
 
 **Institutioneller Rahmen: same same but different?**
 
-Die neue Regierung gibt uns im Koalitionsvertrag nur wenig Aufschluss darüber, in welcher institutionellen Konstellation die ambitionierten Pläne der Digitalpolitik umgesetzt werden sollen. Es wird wohl kein Digitalministerium geben, sondern ein neues zentrales Digitalbudget, das wahrscheinlich im Bundeskanzleramt angesiedelt wird. Gesetzentwürfe sollen sich zudem einem Digitalisierungscheck unterziehen. Ob diese “kleine Lösung” die passende Form für eine umfassend neue Digitalpolitik ist, bleibt abzuwarten. Wir sind gespannt, wie die Ausgestaltung aussehen wird. 
+Die neue Regierung gibt uns im Koalitionsvertrag nur wenig Aufschluss darüber, in welcher institutionellen Konstellation die ambitionierten Pläne der Digitalpolitik umgesetzt werden sollen. Es wird wohl kein Digitalministerium geben, sondern ein neues zentrales Digitalbudget, das wahrscheinlich im Bundeskanzleramt angesiedelt wird. Gesetzentwürfe sollen sich zudem einem Digitalisierungscheck unterziehen. Ob diese “kleine Lösung” die passende Form für eine umfassend neue Digitalpolitik ist, bleibt abzuwarten. Wir sind gespannt, wie die Ausgestaltung aussehen wird.

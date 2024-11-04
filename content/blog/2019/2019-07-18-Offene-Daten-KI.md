@@ -1,10 +1,9 @@
 ---
 authors:
 - Elisa Lindinger
-date: 2019-07-18
 image:
   src: /files/blog/2019/roboter.jpg
-  title: "Photo by Daniel Cheung on Unsplash"
+  title: Photo by Daniel Cheung on Unsplash
   license: Unsplash License
   license_url: https://unsplash.com/license
 tags:
@@ -13,8 +12,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Öffentliche Daten und Künstliche Intelligenz – Unsere Kernthesen für die Enquete-Kommission"
+title: Öffentliche Daten und Künstliche Intelligenz – Unsere Kernthesen für die Enquete-Kommission
+publishedDate: 2019-07-18
 ---
 
 Im Rahmen der [Enquete-Kommission](https://www.bundestag.de/ausschuesse/weitere_gremien/enquete_ki) “Künstliche Intelligenz – Gesellschaftliche Verantwortung und wirtschaftliche, soziale und ökologische Potenziale” haben wir unsere Einschätzung dazu abgegeben, wie öffentliche Daten für eine sinnvolle Nutzung durch KI-Anwendungen bereitgestellt werden müssen. Hier sind unsere Kernthesen, die wir der Kommission bei ihrer Sitzung am 3. Juni 2019 unterbreitet haben: 
@@ -39,4 +38,4 @@ Auch öffentliche Daten können personenbezogen sein und deshalb eine Herausford
 - Gerade für die Entwicklung von Technologien mit großem Impact brauchen wir flexiblere und mutigere Formen von öffentlicher Förderung, die es der Zivilgesellschaft ermöglicht, diese Entwicklung zu beeinflussen.
 
 
-Die Sitzung kann [auf der Webseite des Bundestags](https://www.bundestag.de/dokumente/textarchiv/2019/kw23-pa-enquete-ki-644010) nachgeschaut werden. 
+Die Sitzung kann [auf der Webseite des Bundestags](https://www.bundestag.de/dokumente/textarchiv/2019/kw23-pa-enquete-ki-644010) nachgeschaut werden.

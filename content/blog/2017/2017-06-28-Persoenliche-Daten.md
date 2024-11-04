@@ -1,22 +1,19 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2017-06-29 23:59:00
 image:
   src: /files/blog/2017/06/mydata.png
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Persönliche Daten
 - mydata
 type: post
 layout: post
 card: true
-published: true
-title: "Digitale Souveränität" 
-
-
+title: Digitale Souveränität
+publishedDate: 2017-06-29 23:59:00
 ---
 
 Am 29. Juni wurde in Berlin das Gutachten ["Digitale Souveränität: Gutachten des Sachverständigenrats für Verbraucherfragen"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Gutachten_Digitale_Souver%C3%A4nit%C3%A4t_.pdf) präsentiert. Zusammen mit Anna Alberts und Arne Semsrott habe ich dafür eine Studie zum [Wert persönlicher Daten](http://www.svr-verbraucherfragen.de/wp-content/uploads/Open_Knowledge_Foundation_Studie.pdf) erstellt. Sie ist zusätzlich zum Beiratsgutachten und einer weitere Studie von Volker Grassmuck, Rüdiger Weis und Stefan Lucks veröffentlicht worden: ["Technologien für und wider Digitale Souveränität"](http://www.svr-verbraucherfragen.de/wp-content/uploads/Weis_Lucks_Grassmuck_Studie_.pdf). 

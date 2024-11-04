@@ -1,20 +1,19 @@
 ---
 authors:
 - Arne Semsrott
-date: 2021-08-01
 image:
   src: /files/blog/2021/08/fds.png
   title: Ausschnitt aus dem Aufghanistan-Lagebericht des Auswärtigen Amts
-  license: 
-  license_url: 
+  license: null
+  license_url: null
 tags:
 - FragDenStaat
 - Informationsfreiheit
 type: post
 layout: post
-published: true
 featured: blue
-title: "10 Jahre FragDenStaat: Fortschritte sind durchaus erkennbar"
+title: '10 Jahre FragDenStaat: Fortschritte sind durchaus erkennbar'
+publishedDate: 2021-08-01
 ---
 
 FragDenStaat wird heute zehn Jahre alt. Darüber freuen wir uns sehr!

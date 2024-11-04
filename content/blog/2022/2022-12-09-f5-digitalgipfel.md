@@ -2,8 +2,7 @@
 authors:
 - Christina Willems
 - Henriette Litta
-date: 2022-12-09
-image: 
+image:
   src: /files/blog/2022/10/kleiner_mikrofon.jpg
 tags:
 - Zivilgesellschaft
@@ -11,9 +10,9 @@ tags:
 - BündnisF5
 type: post
 layout: post
-published: true
 featured: blue
-title: "Digital-Gipfel der Bundesregierung – ein staatlich organisiertes Lobbyfest"
+title: Digital-Gipfel der Bundesregierung – ein staatlich organisiertes Lobbyfest
+publishedDate: 2022-12-09
 ---
 
 **Heute endet der Digital-Gipfel der Bundesregierung. Titel: „Digitalisierung betrifft uns alle – Unternehmen wie Bürgerinnen und Bürger, Wissenschaft wie Gesellschaft.“ Doch „die Gesellschaft“ spricht gar nicht mit. Schon bei der Digitalstrategie war es ein Problem, dass die Zivilgesellschaft nicht eingebunden war. Die Ampel gelobte, alles besser zu machen. Der Digital-Gipfel zeigt, dass das ein Lippenbekenntnis war. Die Regierung behandelt die digitalpolitische Zivilgesellschaft wie es die GroKo tat: Gerne mal reden – aber strukturelle Einbindung, gleichberechtigte Teilnahme, Mitgestaltung? Fehlanzeige...**
@@ -37,7 +36,4 @@ Wir fordern, dass dieses Versprechen endlich eingelöst wird: Für jedes Treffen
 
 Die Bundesregierung täte gut daran, einen echten Neustart in der Zusammenarbeit mit der Zivilgesellschaft zu wagen. Das vordergründige Werben um die Zivilgesellschaft bei gleichzeitiger wirtschaftspolitischer „Realpolitik“ ist unaufrichtig und schädlich: Die Zukunft der Digitalpolitik ist zu wichtig, um sie nur aus gewinnorientierter Unternehmenssicht zu diskutieren. 
 
-Die Stellungnahme ist [hier](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/10/F5_Digitalgipfel.pdf) zu finden. 
-
-
-
+Die Stellungnahme ist [hier](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/10/F5_Digitalgipfel.pdf) zu finden.

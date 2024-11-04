@@ -1,12 +1,11 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2017-08-16 13:10:00
 image:
   src: /files/blog/2017/03/Timeline2.png
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open-Data
 - EITI
@@ -14,10 +13,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Erster OGP Aktionsplan verabschiedet" 
-
-
+title: Erster OGP Aktionsplan verabschiedet
+publishedDate: 2017-08-16 13:10:00
 ---
 
 Die Bundesregierung hat den ersten Aktionsplan Open Government Partnership [beschlossen](http://www.bmi.bund.de/SharedDocs/Pressemitteilungen/DE/2017/08/ogp-aktionsplan.html).

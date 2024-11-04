@@ -1,16 +1,15 @@
 ---
 authors:
 - Arne Semsrott
-date: 2017-09-13 09:00:00
 image:
   src: /files/blog/2017/09/pmpc.jpg
 type: post
 layout: post
 card: true
-published: true
 tags:
 - Open Software
-title: "Public Money? Public Code! Öffentlich finanzierte Software muss Open Source werden"
+title: Public Money? Public Code! Öffentlich finanzierte Software muss Open Source werden
+publishedDate: 2017-09-13 09:00:00
 ---
 
 Die digitalen Dienste der öffentlichen Verwaltungen sind die zentrale Infrastruktur demokratischer Staaten im 21. Jahrhundert. Um Vertrauen in die Systeme zu stärken, müssen Behörden die volle Kontrolle über sie haben. Aufgrund restriktiver Softwarelizenzen ist dies jedoch selten der Fall.

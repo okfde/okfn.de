@@ -1,19 +1,18 @@
 ---
 authors:
 - Beata Hubrig
-date: 2022-01-11
 image:
   src: /files/blog/2022/01/220111-schutz-des-pseudonyms.jpg
   title: Fuer den Schutz des Psyeudonyms
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Datenschutz
 type: post
 layout: post
-published: true
 featured: blue
 title: Für den Schutz des Pseudonyms
+publishedDate: 2022-01-11
 ---
 
 *In diesem Blogartikel meldet sich die OKF-Datenschutzexpertin Beata Hubrig zu Wort. Die Rechtsanwältin tritt dafür ein, dass Nutzer\*innen Profile auf Facebook etc. weiterhin unter Pseudonymen verwenden können. Das Oberlandesgericht München hatte zuletzt anders geurteilt. Update vom 27.01.2022: Der Bundesgerichtshof entschied zugunsten der pseudonymisierten Nutzung.*
@@ -54,4 +53,4 @@ Die bundesrichterliche Entscheidung über die Revision gegen die Entscheidung de
 
 _Nach den für diesen Fall maßgeblichen Nutzungsbedingungen vom 19. April 2018 hat der Kontoinhaber bei der Nutzung des Netzwerks den Namen zu verwenden, den er auch im täglichen Leben verwendet. Diese Bestimmung ist unwirksam, weil sie den Kläger zum Zeitpunkt ihrer Einbeziehung in den Nutzungsvertrag der Parteien am 30. April 2018 entgegen den Geboten von Treu und Glauben unangemessen benachteiligte. Sie ist mit dem in § 13 Abs. 6 Satz 1 TMG in der bis zum 30. November 2021 geltenden Fassung zum Ausdruck kommenden Grundgedanken, dass der Diensteanbieter die Nutzung der Telemedien anonym oder unter Pseudonym zu ermöglichen hat, soweit dies technisch möglich und zumutbar ist, nicht zu vereinbaren. Eine umfassende Würdigung und Abwägung der wechselseitigen Interessen unter Einbeziehung von Art. 6 Abs. 1 Buchst. c der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr (Datenschutz-Richtlinie) ergibt, dass es der Beklagten zwar nicht zumutbar gewesen ist, die Nutzung des Netzwerks zu ermöglichen, ohne dass der jeweilige Nutzer ihr zuvor – etwa bei der Registrierung – im Innenverhältnis seinen Klarnamen mitgeteilt hatte. Für die anschließende Nutzung der von ihr angebotenen Dienste unter Pseudonym ist die Zumutbarkeit jedoch zu bejahen._
 
-https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2022/2022013.html 
+https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2022/2022013.html

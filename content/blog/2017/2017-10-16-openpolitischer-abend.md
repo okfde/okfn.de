@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2017-10-27 08:00:00
 image:
   src: /files/blog/2017/10/openpolitischerAbend_01.gif
 tags:
@@ -9,8 +8,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Der erste openpolitische Abend: NSU, Verfassungsschutz und Transparenz" 
+title: 'Der erste openpolitische Abend: NSU, Verfassungsschutz und Transparenz'
+publishedDate: 2017-10-27 08:00:00
 ---
 
 Wir freuen uns sehr, euch alle zu unserem ersten openpolitischen Abend einzuladen! 

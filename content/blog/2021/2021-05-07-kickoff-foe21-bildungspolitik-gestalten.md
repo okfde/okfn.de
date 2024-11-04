@@ -1,21 +1,21 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2021-05-07
 image:
   src: /files/blog/2021/05/FOE-Posts-Social-Media-Landscape2-1024x532.jpg
-  title:
+  title: null
   license: CC-BY 4.0 Wikimedia
-  license_url:
+  license_url: null
 tags:
 - Bildungspolitik
 - Open Education
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Bundespolitik und offene Bildungspraxis gehen in den Austausch"
+title: Bundespolitik und offene Bildungspraxis gehen in den Austausch
+publishedDate: 2021-05-07
 ---
+
 Ab dem 12. Mai kommen zum vierten Mal engagierte Bildungsenthusiast:innen und Bundespolitiker:innen zusammen, um gemeinsam an zukunftsgerichteten Lösungen für die Bildungslandschaft zu arbeiten. Im Zentrum stehen Einschätzungen, Strategien und konkrete Handlungsempfehlungen für eine gerechte, offene und nachhaltige Bildung.
 
 Das vergangene Jahr hat gezeigt, wie wichtig der Austausch mit der Bildungspraxis ist und welche wirkmächtigen Strukturen zivilgesellschaftliche Netzwerke und Projekte schaffen können. Aber auch die Politik zeigte, dass schnelles Handeln möglich ist und ebnete mit zahlreichen Maßnahmen den Weg für längst überfällige Veränderungen. Wohin sich diese in der kommenden Legislatur entwickeln und wie die zahlreichen Fäden zu einer zeitgemäßen und offenen Bildung verwoben werden können, ist Thema des diesjährigen [Forum Open Education](https://education.forum-open.de).

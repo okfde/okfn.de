@@ -1,20 +1,18 @@
 ---
 authors:
 - Arne Semsrott
-date: 2019-09-28
 image:
   src: /files/blog/2019/09/000000-2019.jpg
-  title: "Bundeskanzleramt"
+  title: Bundeskanzleramt
   license: CC-0
   license_url: https://creativecommons.org/share-your-work/public-domain/cc0/
-tags:
-
+tags: null
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Tag der Informationsfreiheit: Geschwärzte Kunst"
+title: 'Tag der Informationsfreiheit: Geschwärzte Kunst'
+publishedDate: 2019-09-28
 ---
 
 Der 28. September ist der internationale Tag der Informationsfreiheit. Wir feiern den Tag wie jedes Jahr mit einer neuen Kunstedition – diesmal mit drei Klassikern.

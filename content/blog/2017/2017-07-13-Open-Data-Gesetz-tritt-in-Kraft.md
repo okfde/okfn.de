@@ -1,12 +1,11 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2017-07-13 00:10:00
 image:
   src: /files/blog/2017/07/egov-gesetz.png
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open-Data-Gesetz
 - Policy
@@ -14,10 +13,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Öffentliche Ankündigung: Das Open-Data-Gesetz ist in Kraft" 
-
-
+title: 'Öffentliche Ankündigung: Das Open-Data-Gesetz ist in Kraft'
+publishedDate: 2017-07-13 00:10:00
 ---
 
 <br>

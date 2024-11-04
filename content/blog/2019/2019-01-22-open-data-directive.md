@@ -1,10 +1,9 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2019-01-22
 image:
   src: /files/blog/2018/10/LogoEC-el-svg.png
-  title: Open Data directive, the directive formerly known as PSI public sector information 
+  title: Open Data directive, the directive formerly known as PSI public sector information
 tags:
 - PSI
 - Policy
@@ -12,9 +11,10 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Open Data directive, the directive formerly known as PSI public sector information" 
+title: Open Data directive, the directive formerly known as PSI public sector information
+publishedDate: 2019-01-22
 ---
+
 It's done. The Provisional Agreement for the PSI Directive soon to be known as Open Data Directive (directive on Open
 Data and the re-use of public sector information) is reached.
 

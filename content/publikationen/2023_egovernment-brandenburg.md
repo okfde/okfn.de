@@ -1,8 +1,6 @@
 ---
 title: E-Government-Gesetz Brandenburg
 subtitle: Zweites Gesetz zur Änderung (Drs.7/8080)
-published: true
-date: 2023-09-28
 layout: publikation
 image:
   src: /files/images/Policy5.jpg
@@ -16,8 +14,9 @@ pages: 3
 size: 912KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
-links: 
-  - url: "<a href=\"https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_8000/8080.pdf\" target=\"_blank\">Zum Gesetzentwurf</a>"
+links:
+- url: <a href="https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_8000/8080.pdf" target="_blank">Zum Gesetzentwurf</a>
+publishedDate: 2023-09-28
 ---
 
 Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.

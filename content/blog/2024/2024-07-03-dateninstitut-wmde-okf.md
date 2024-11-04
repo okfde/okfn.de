@@ -2,8 +2,7 @@
 authors:
 - Aline Blankertz
 - Henriette Litta
-date: 2024-07-03
-image: 
+image:
   src: /files/blog/2020/03/data-joshua-sortino-unsplash.jpg
   title: Photo by Joshua Sortino on Unsplash
 tags:
@@ -12,9 +11,9 @@ tags:
 - zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Das Dateninstitut kommt. Die Gemeinwohlorientierung bleibt fraglich"
+title: Das Dateninstitut kommt. Die Gemeinwohlorientierung bleibt fraglich
+publishedDate: 2024-07-03
 ---
 
 Das Dateninstitut wird kommen: Bis zum 4. Juli 2024 [läuft](https://bieterportal.pd-g.e-va.eu/?tid=dd7c196d2ee42c5b953d617afb8ab0b0) die Frist für Bewerbungen für „Konzeptionierung, Gründung und Betrieb des Dateninstituts“. Mit diesem Startschuss löst die Ampel ein Versprechen aus ihrem Koalitionsvertrag ein. In Sachen Daten gibt es wahrlich viel zu tun. Gut, dass hier etwas passiert. Trotzdem haben sich Wikimedia Deutschland und die Open Knowledge Foundation Deutschland gegen eine Beteiligung an dem Bewerbungsverfahren entschieden. Im Weiteren erklären wir, welche Überlegungen zu unserer Entscheidung geführt haben und welche nächsten Schritte für ein gemeinwohlorientiertes Dateninstitut wichtig sind.

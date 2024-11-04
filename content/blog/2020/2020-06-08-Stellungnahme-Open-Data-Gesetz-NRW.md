@@ -1,20 +1,19 @@
 ---
 authors:
 - Henriette Litta
-date: 2020-06-08
-image: 
+image:
   src: /files/blog/2020/06/Open_picture_by_alex_holyoake_unsplash.jpg
   title: Open_picture_by_alex_holyoake_unsplash.jpg
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Open Data
 - Gesetzgebung
 type: post
 layout: post
-published: true
 featured: blue
-title: "Unsere Stellungnahme zum Open-Data-Gesetz in NRW"
+title: Unsere Stellungnahme zum Open-Data-Gesetz in NRW
+publishedDate: 2020-06-08
 ---
 
 Im März 2020 wurden wir gebeten, eine Stellungnahme zum Gesetzentwurf der Landesregierung zur Änderung des E-Government-Gesetzes Nordrhein-Westfalen und zur Änderung weiterer Vorschriften ([Drs. 17/8795](https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD17-8795.pdf) des Landtags Nordrhein-Westfalen) abzugeben. In Vorbereitung der Stellungnahme haben wir Inputs aus unserer Community eingesammelt, um Expertise aus verschiedenen Arbeitsbereichen der OKF einbringen zu können. Alle [eingegangenen Stellungnahmen](https://www.landtag.nrw.de/home/dokumente_und_recherche/aktuelle-dokumente.html?dokTyp=ST&wp=17&dokNum=Drs%2017/8795&_eventId_sendform=suchen) hat der Landtag NRW veröffentlicht. Der schriftlichen Stellungnahme folgte eine öffentliche Anhörung im Landtag NRW am 14.05.2020, an der unsere Geschäftsführerin Henriette Litta teilnahm. Im Folgenden haben wir unser Feedback an die Landesregierung NRW für euch zusammengefasst.

@@ -1,6 +1,5 @@
 ---
 authors: OKF
-date: 2018-07-17
 image:
   src: /files/blog/2018/06/tale-of-three-men.jpg
   title: frankieleon, A tale of three men
@@ -11,15 +10,13 @@ tags:
 - Open Data
 - Policy
 - Transparency
-
 type: post
 layout: post
 card: true
-published: true
-title: "Policy advocacy with a twist"
-
-
+title: Policy advocacy with a twist
+publishedDate: 2018-07-17
 ---
+
 At the Open Knowledge Foundation Deutschland we’ve been advocating for rules and regulation that open up closed systems and processes in areas such as data governance, financial transparency and algorithmic accountability. However, as a small organisation that largely runs on project grants and individual donations, we don’t have the resources to run large-scale advocacy campaigns. The key to success for us has been to rely on a combination of law, tech and crowd to address some of the most important policy issues in our field. Here are two examples to illustrate how we work.
 
 ### Pushing for transparency in lawmaking

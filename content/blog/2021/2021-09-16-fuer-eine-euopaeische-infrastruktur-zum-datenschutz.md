@@ -1,19 +1,18 @@
 ---
 authors:
 - Beata Hubrig
-date: 2021-09-16
 image:
   src: /files/blog/2021/09/2021-09-15_datenschutz.jpg
-  title:
-  license: 
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Datenschutz
 type: post
 layout: post
-published: true
 featured: yellow
 title: Für eine europäische Infrastruktur zum Datenschutz
+publishedDate: 2021-09-16
 ---
 
 **In diesem Blogartikel meldet sich die OKF-Datenschutzexpertin Beata Hubrig zu Wort. 

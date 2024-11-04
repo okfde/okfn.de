@@ -1,20 +1,20 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
-date: 2017-05-18 07:00:00
 image:
   src: /files/blog/2017/05/odgesetz.jpg
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
-- "Open-Data-Gesetz"
+- Open-Data-Gesetz
 type: post
 layout: post
 card: true
-published: true
-title: "Änderungen im Bundestag: Open-Data-Gesetz wird besser" 
+title: 'Änderungen im Bundestag: Open-Data-Gesetz wird besser'
+publishedDate: 2017-05-18 07:00:00
 ---
+
 Am Schluss geht es ganz schnell: In der Nacht zu Donnerstag wird der Bundestag voraussichtlich das neue [Open-Data-Gesetz](https://okfn.de/blog/tags/open-data-gesetz/) beschließen. Um 23:30 soll die "Änderung des E-Government-Gesetzes" als Teil eines Gesetzesmarathons verabschiedet werden.
 
 Das Gesetz wird [besser als zuletzt erwartet](http://dip21.bundestag.de/dip21/btd/18/124/1812406.pdf). Wie der Innenausschuss gestern in einer nicht-öffentlichen Sitzung ohne Anhörung von Sachverständigen beschlossen hat, fallen im Entwurf der Regierungsfraktionen einige restriktive Regelungen weg, die der Kabinettsentwurf noch vorgesehen hatte. Damit gehen CDU/CSU und SPD zumindest auf einige unserer Forderungen ein.

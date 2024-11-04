@@ -2,7 +2,6 @@
 authors:
 - Patricia Leu
 - Katharina Meyer
-date: 2020-02-06
 image:
   src: /files/blog/2020/02/prototypefund.png
   title: 8. Runde des Prototype Fund
@@ -13,9 +12,9 @@ tags:
 - Public Interest Tech
 type: post
 layout: post
-published: true
 featured: blue
-title: "Der Prototype Fund geht in die 8. Runde: Förderung von bis zu 47.500 € für Open-Source-Projekte"
+title: 'Der Prototype Fund geht in die 8. Runde: Förderung von bis zu 47.500 € für Open-Source-Projekte'
+publishedDate: 2020-02-06
 ---
 
 Nachdem uns über die letzten sieben Runden Projektvorschläge zu so unterschiedlichen Schwerpunkten wie Machine Learning oder Vertrauen in und durch Technologie erreicht haben, wollen wir mit der Runde 8 bis zum 31.3.2020 noch einmal die ganze Bandbreite von Public Interest Technologie einfangen.

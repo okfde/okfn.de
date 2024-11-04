@@ -1,11 +1,10 @@
 ---
-authors: 
+authors:
 - Leonard Wolf
-date: 2019-04-01
-image: 
+image:
   src: /files/blog/2019/daten.jpg
-  title: "CC BY 4.0, OKF DE, Foto: Lea Pfau"
-  license: "CC BY 4.0, OKF DE, Foto: Lea Pfau"
+  title: 'CC BY 4.0, OKF DE, Foto: Lea Pfau'
+  license: 'CC BY 4.0, OKF DE, Foto: Lea Pfau'
 tags:
 - Open Data
 - Beteiligung
@@ -13,9 +12,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Offene Daten für die digitale Jugendbeteiligung"
-
+title: Offene Daten für die digitale Jugendbeteiligung
+publishedDate: 2019-04-01
 ---
 
 Von Auskünften über die Lärmbelästigung an Straßen und Barrierefreiheit von Bahnübergängen bis hin zu Einnahmen und Ausgaben einer Gemeinde: Offene Daten helfen uns nicht nur dabei, unsere Umwelt und gesellschaftliche Prozesse besser zu verstehen, sondern ermöglichen auch eine aktive Beteiligung und politische Teilhabe. Wir zeigen, welche Potentiale offene Daten für die digitale Jugendbeteiligung haben und teilen unser Wissen, das wir in den vergangenen Monaten dazu gesammelt haben. 

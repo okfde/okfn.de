@@ -1,15 +1,15 @@
 ---
 authors:
 - Sonja Fischbauer
-date: 2021-06-22
 image:
   src: /files/blog/2019/31632708378_9e627e19eb_z.jpg
-  title: "Sonja und Daniel vom Jugend hackt Programmleitungsteam"
+  title: Sonja und Daniel vom Jugend hackt Programmleitungsteam
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
-tags:
-published: false
-title: "Jugend hackt sucht ein*e Fundraiser*in (80%, Bewerbungsschluss verlängert auf 31.08.2021)"
+tags: null
+title: Jugend hackt sucht ein*e Fundraiser*in (80%, Bewerbungsschluss verlängert auf 31.08.2021)
+draft: 'true'
+publishedDate: 2021-06-22
 ---
 
 Zur Verstärkung des Jugend hackt Teams suchen wir:

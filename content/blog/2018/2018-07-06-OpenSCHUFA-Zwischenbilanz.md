@@ -1,8 +1,7 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
 - Walter Palmetshofer
-date: 2018-07-06
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSchufa
@@ -11,11 +10,10 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "OpenSCHUFA: Zwischenbilanz der Datenspende - noch immer gerne Daten spenden!" 
-
-
+title: 'OpenSCHUFA: Zwischenbilanz der Datenspende - noch immer gerne Daten spenden!'
+publishedDate: 2018-07-06
 ---
+
 Liebe Unterstützerinnen und Unterstützer,
 
 die Datenspende von OpenSCHUFA läuft jetzt seit sieben Wochen. Wir wollen Euch ein Update zum Fortschritt des Projekts geben, aber auch zu den Herausforderungen:
@@ -45,4 +43,3 @@ Euer OpenSCHUFA Team
 
 Weitere Infos:
 [Welt](https://www.welt.de/finanzen/article177303132/DSGVO-stellt-das-Abo-Modell-der-Schufa-infrage.html)
-

@@ -1,17 +1,16 @@
 ---
 authors:
 - OKFDE
-date: 2024-09-05
-image: 
+image:
   src: /files/blog/2024/PTF-DemoDay-Titel.jpg
 tags:
 - PrototypeDemos
 - Demo Day
 type: post
 layout: post
-published: true
 featured: blue
-title: "Demo Day von Prototype Fund: die 15. Förderrunde im Rampenlicht"
+title: 'Demo Day von Prototype Fund: die 15. Förderrunde im Rampenlicht'
+publishedDate: 2024-09-05
 ---
 
 ## Rückblick

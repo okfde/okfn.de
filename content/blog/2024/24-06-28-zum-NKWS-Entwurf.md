@@ -1,8 +1,7 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2024-06-28
-image: 
+image:
   src: /files/blog/2024/rc2.JPG
   license: cc by Maximilian Voigt
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -14,9 +13,9 @@ tags:
 - Produkttransparenz
 type: post
 layout: post
-published: true
 featured: blue
-title: "Zum Entwurf der NKWS: ambitioniert bleiben!"
+title: 'Zum Entwurf der NKWS: ambitioniert bleiben!'
+publishedDate: 2024-06-28
 ---
 
 Die Bundesregierung arbeitet an einer Strategie, die "[Ziele und Maßnahmen zum zirkulären Wirtschaften und zur Ressourcenschonung aus allen relevanten Strategien](https://www.bmuv.de/themen/kreislaufwirtschaft/kreislaufwirtschaftsstrategie)" zusammenführen und den primären Rohstoffbedarf "absolut" senken soll. Mehr Informationen auf der Produktebene und offene Designs können maßgeblich zum Erfolg dieses Zieles beitragen. Dafür setzt sich die OKF zusammen mit der [Open Hardware Allianz](https://open-hardware-allianz.de/) ein.
@@ -43,4 +42,3 @@ Für eine effektive Kreislaufgesellschaft muss Technologie grundsätzlich neu ge
 ## Die Stellungnahme der OKF DE und der Open Hardware Allianz in voller Länge
 
 {{< pdf url="/files/documents/NKWS_Kommentierung_OKFDE_OHAGERMANY.pdf" >}}
-

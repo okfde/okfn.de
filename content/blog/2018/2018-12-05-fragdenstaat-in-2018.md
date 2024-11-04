@@ -1,20 +1,19 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
-date: 2018-12-05
 image:
   src: /files/blog/2018/12/fds.jpg
-  title: 
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - FragDenStaat
 - english
 type: post
 layout: post
 card: true
-published: true
-title: "Strengthening the Democratic Infrastructure"
+title: Strengthening the Democratic Infrastructure
+publishedDate: 2018-12-05
 ---
 
 <p>2018 proved, again, why we need to strengthen the infrastructure for democracy. This year, our freedom of information project <a href="https://fragdenstaat.de">FragDenStaat</a> has revealed how the Ministry of Family Affairs cooperates with the Domestic Intelligence Service, we have published the Ministry of the Interior's <a href="https://fragdenstaat.de/blog/2018/masterplan-english/">Master Plan on Migration</a> and documents on “<a href="https://fragdenstaat.de/blog/2018/exclusive-internal-diplomatic-report-concentration-camp-conditions-libyan-refugee-camps/">concentration camp-like prisons</a>”&nbsp;in Libya.</p>

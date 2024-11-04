@@ -1,8 +1,7 @@
 ---
 authors:
 - Dénes Jäger
-date: 2023-04-13
-image: 
+image:
   src: /files/blog/2023/04/blog-koavertrag-2.jpg
 tags:
 - Digitalpolitik
@@ -11,9 +10,9 @@ tags:
 - Transparenzgesetz
 type: post
 layout: post
-published: true
 featured: blue
-title: "Digitalpolitik im Berliner Koalitionsvertrag: Wenig Zeit für Veränderung"
+title: 'Digitalpolitik im Berliner Koalitionsvertrag: Wenig Zeit für Veränderung'
+publishedDate: 2023-04-13
 ---
 
 **Sollten die jeweiligen Parteigremien Ende April zustimmen, bleibt einer neuen Regierungskoalition aus CDU und SPD nur wenig Zeit, um in der restlichen Legislaturperiode digitalpolitische Vorhaben umzusetzen. Welche Projekte priorisiert werden sollen, bleibt im Koalitionsvertrag vage. Viel wird von dem neuen Personal abhängen.**
@@ -48,4 +47,4 @@ Ansonsten beruft sich der Koalitionsvertrag vor allem auf die Basics. Dazu gehö
 
 **Ohne Mut zur Reform und Investitionen in Infrastruktur wird es nicht gehen**
 
-Insgesamt zeigt sich der Koalitionsvertrag digitalpolitisch wenig aufschlussreich und  unambitioniert, was angesichts der kurzen Zeit, die noch für vorzeigbare Ergebnisse bleibt, nicht verwunderlich ist. Zumindest mit der E-Akte und den Änderungen im Rechtsrahmen können aber die Weichen für einen Aufbruch gestellt werden. In vielen Bereichen ist zudem schon Vorarbeit geleistet worden, die jetzt endlich auch in die Praxis kommen muss – die Verabschiedung des Transparenzgesetzes bleibt alternativlos. Vieles wird von der Neubesetzung des CDO abhängen, beispielsweise ob die aktuell gültigen Open-Source-Regelungen weiter verfolgt werden und die Dachstrategie „Gemeinsam:Digital Berlin“ Früchte trägt. Externe Anbieter:innen spielen in den Überlegungen der Koalitionsparteien eine größere Rolle als zuvor, allerdings richtet sich der Fokus nahezu ausschließlich auf wirtschaftliche Akteur:innen. Dabei darf auch eine neue Regierung nicht vergessen: Investitionen in Infrastruktur und der Mut, Reformen intern voranzubringen, mögen nicht so öffentlichkeitswirksam sein, ohne wird es aber nicht gehen.  
+Insgesamt zeigt sich der Koalitionsvertrag digitalpolitisch wenig aufschlussreich und  unambitioniert, was angesichts der kurzen Zeit, die noch für vorzeigbare Ergebnisse bleibt, nicht verwunderlich ist. Zumindest mit der E-Akte und den Änderungen im Rechtsrahmen können aber die Weichen für einen Aufbruch gestellt werden. In vielen Bereichen ist zudem schon Vorarbeit geleistet worden, die jetzt endlich auch in die Praxis kommen muss – die Verabschiedung des Transparenzgesetzes bleibt alternativlos. Vieles wird von der Neubesetzung des CDO abhängen, beispielsweise ob die aktuell gültigen Open-Source-Regelungen weiter verfolgt werden und die Dachstrategie „Gemeinsam:Digital Berlin“ Früchte trägt. Externe Anbieter:innen spielen in den Überlegungen der Koalitionsparteien eine größere Rolle als zuvor, allerdings richtet sich der Fokus nahezu ausschließlich auf wirtschaftliche Akteur:innen. Dabei darf auch eine neue Regierung nicht vergessen: Investitionen in Infrastruktur und der Mut, Reformen intern voranzubringen, mögen nicht so öffentlichkeitswirksam sein, ohne wird es aber nicht gehen.

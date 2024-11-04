@@ -1,12 +1,11 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2017-06-22 07:00:00
 image:
   src: /files/blog/2017/06/digitale-agenda-3.jpg
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open-Data-Gesetz
 - EITI
@@ -15,10 +14,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Digitale Agenda Stellungnahme & Fachgespräch: Moderner Staat - Chancen durch Digitalisierung" 
-
-
+title: 'Digitale Agenda Stellungnahme & Fachgespräch: Moderner Staat - Chancen durch Digitalisierung'
+publishedDate: 2017-06-22 07:00:00
 ---
 
 Der Ausschuss für [Digitale Agenda](https://www.bundestag.de/ada) des Bundestags befasste sich letzte Woche, am 21.06.2017, in einem öffentlichen Fachgespräch mit dem Thema ["Moderner Staat - Chancen durch Digitalisierung"](https://www.bundestag.de/presse/hib/2017_06/-/511466) und wir waren auch dabei. 

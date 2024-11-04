@@ -1,8 +1,7 @@
 ---
 authors:
 - Henriette Litta
-date: 2024-06-20
-image: 
+image:
   src: /files/blog/2024/2023 Jahresbericht Blogbild.png
 tags:
 - OKFDE
@@ -10,11 +9,10 @@ tags:
 - jahresbericht
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Das war 2023: Unser Jahresbericht ist online!"
+title: 'Das war 2023: Unser Jahresbericht ist online!'
+publishedDate: 2024-06-20
 ---
-
 
 Unser Jahresbericht 2023 ist online! Viel ist passiert, und wir blicken zurück auf ein ereignisreiches Jahr voller spannender Projekt und beeindruckender Highlights. Nach der erfolgreich abgeschlossenen Wirtschaftsprüfung könnt ihr ab sofort unseren vollständigen Jahresbericht auf [2023.okfn.de](https://2023.okfn.de/) einsehen. Selbstverständlich steht auch eine [PDF Version](https://2023.okfn.de/assets/documents/OKF_Jahresbericht_2023.pdf) zum Download bereit. Taucht ein und erfahrt mehr über unsere Erfolge und Fortschritte im vergangenen Jahr!
 

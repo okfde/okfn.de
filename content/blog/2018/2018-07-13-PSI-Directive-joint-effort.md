@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2018-07-13
 image:
   src: /files/blog/2018/07/20180713-psi-screenshot.png
   title: PSI-Directive
@@ -13,10 +12,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "PSI Directive - joint effort by OKF and friends"  
-
-
+title: PSI Directive - joint effort by OKF and friends
+publishedDate: 2018-07-13
 ---
 
 Updates: 
@@ -64,4 +61,3 @@ We will coordinate the Open Knowledge Network and friends.
 
 On the 25th of October there will be a PSI-policy meeting at the [European Data Summit](http://www.kas.de/wf/en/17.78393/)<br>
 ~12:00/12:30 - 14:00, remote participation is possible, more infos walter@okfn.de.
-

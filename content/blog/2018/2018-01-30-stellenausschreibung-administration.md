@@ -1,20 +1,19 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2018-01-30 08:00:00
 image:
   src: /files/blog/2015/12/okfdebuero.jpg
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Ausschreibung
 - Jobs
 type: post
 layout: post
 card: true
-published: true
-title: "Administrator*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort)"
+title: Administrator*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort)
+publishedDate: 2018-01-30 08:00:00
 ---
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. Der Verein ist eine Dachorganisation für rund 20 Projekte mit hoher konzeptioneller und finanzieller Eigenverantwortung. 
@@ -57,6 +56,4 @@ Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migra
  
 Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn bis zum **21.02.2018** per E-Mail an <a href="mailto:jobs@okfn.de">jobs@okfn.de</a>. 
 
-Die Gespräche finden vom 27.02.-01.03.2018 in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. 
-
-
+Die Gespräche finden vom 27.02.-01.03.2018 in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.

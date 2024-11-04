@@ -1,7 +1,6 @@
 ---
 authors:
 - Michael Peters
-date: 2017-11-02 08:00:00
 image:
   src: /files/blog/2017/10/ogp-civil-society.jpg
 tags:
@@ -9,10 +8,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Was macht eigentlich die Open Government Partnership"
-
-
+title: Was macht eigentlich die Open Government Partnership
+publishedDate: 2017-11-02 08:00:00
 ---
 
 Die Open Government Partnership ist ein internationales Netzwerk, welches sich für offenes Regierungs- und Verwaltungshandeln [einsetzt](https://www.opengovpartnership.org/open-government-declaration). Ins Leben gerufen wurde es 2011 durch den damaligen US-Präsident [Obama](https://obamawhitehouse.archives.gov/the-press-office/2011/09/20/fact-sheet-open-government-partnership) und Ziel des Netzwerks ist es, die Arbeit des öffentlichen Sektors (Politik, Regierung, Verwaltung und Justiz) offener, transparenter, partizipativer und kooperativer zu gestalten. Dazu hat die OGP einen partizipativen Ansatz etabliert, bei dem nationale Regierungen mit der Zivilgesellschaft gemeinsam Ideen für ein offeneres Regierungshandeln entwickeln. Sie unterstützen dabei sowohl die Regierungen der 75 Mitgliedstaaten, als auch die Zivilgesellschaft, durch unabhängige Forschung, Beratung und best-practice Beispiele.

@@ -1,14 +1,14 @@
 ---
 authors:
 - OKF
-date: 2019-06-24
 image:
   src: /files/blog/2019/06/team-foto.jpg
-  title: "OKF Team 2018"
+  title: OKF Team 2018
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/2.0/
-published: false
-title: "Wir suchen eine*n Geschäftsführer*in, Bewerbungsfrist 28.07."
+title: Wir suchen eine*n Geschäftsführer*in, Bewerbungsfrist 28.07.
+draft: 'true'
+publishedDate: 2019-06-24
 ---
 
 Die **Open Knowledge Foundation Deutschland (OKF)** setzt sich seit 2011 erfolgreich für dezentrale Teilhabe, offenes Wissen, digitales zivilgesellschaftliches Engagement und offene Innovation ein. Um die Wirksamkeit der OKF zu stärken und die Organisation in enger Zusammenarbeit mit Team und Board weiterzuentwickeln, suchen wir zum nächstmöglichen Zeitpunkt eine neue **Geschäftsführung (in Vollzeit)**.

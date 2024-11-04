@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - Ernesto Ruge
-date: 2020-03-23
 image:
   src: /files/blog/2020/03/2020-03-23-Prototyp-und-dann.jpg
   title: Photo by Charles Deluvio on Unsplash
@@ -10,9 +9,9 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
-title: "Open Data: ein bisschen Prototyp und dann?"
+title: 'Open Data: ein bisschen Prototyp und dann?'
+publishedDate: 2020-03-23
 ---
 
 ### Wie können erfolgreiche ehrenamtliche Civic-Tech-Projekte nachhaltig betreut und weiterentwickelt werden?

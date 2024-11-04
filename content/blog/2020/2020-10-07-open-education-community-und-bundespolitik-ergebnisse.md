@@ -1,20 +1,20 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2020-10-06
 image:
   src: /files/blog/2020/10/foe20_fg.png
-  title: 
+  title: null
   license: CC-BY 4.0 Wikimedia DE
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 - Open Education
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Offene Bildung stärken: Lösungen und Forderungen"
+title: 'Offene Bildung stärken: Lösungen und Forderungen'
+publishedDate: 2020-10-06
 ---
+
 *Wie lässt sich Bildung inklusiv, gerecht und offen gestalten, lautet die Frage beim [Forum Open Education 2020](https://education.forum-open.de/timeline/) - [#FOE20](https://twitter.com/search?q=%23foe20&src=typed_query&f=live). Bereits das dritte Jahr in Folge laden das Bündnis Freie Bildung, die Open Knowledge Foundation Deutschland und Wikimedia Deutschland zum Austausch zwischen Zivilgesellschaft, Bildungspraxis und politischen Entscheidungsgremien.*
 
 Am [8. Oktober](https://education.forum-open.de/timeline/) werden die Ergebnisse des bisher einmaligen Arbeitsprozesses - in dem Bundespolitik und Zivilgesellschaft auf Augenhöhe korrespondieren - in einer digitalen Abschlussveranstaltung präsentiert und von den Bildungspolitiker\*innen Marja-Liisa Völlers, Margit Stumpp, Dr. Jens Brandenburg, Ronja Kemmer und Birke Bull-Bischoff diskutiert. 
