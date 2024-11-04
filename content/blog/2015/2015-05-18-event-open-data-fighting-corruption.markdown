@@ -1,6 +1,6 @@
 ---
 author: Mara Mendes
-date: 2015-05-18 11:25
+date: 2015-05-18
 image:
   src: /files/blog/2015/05/digiwhist.jpg
 layout: post

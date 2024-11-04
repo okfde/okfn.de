@@ -1,6 +1,6 @@
 ---
 author: Kristina Klein
-date: 2015-06-04 14:05
+date: 2015-06-04
 image:
   src: /files/blog/2015/06/images-people-working-office-coffee-9228.jpg
   title: Athmo

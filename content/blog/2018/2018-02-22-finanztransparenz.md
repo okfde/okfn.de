@@ -1,6 +1,6 @@
 ---
 authors: Michael Peters
-date: 2018-02-22 10:00
+date: 2018-02-22
 image: 
   src: /files/blog/2017/12/offener-haushalt.png
   title: Offenerhaushalt.de 

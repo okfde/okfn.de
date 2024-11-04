@@ -1,6 +1,6 @@
 ---
 author: Christian Heise
-date: 2015-05-25 18:11
+date: 2015-05-25
 image:
   src: http://farm4.staticflickr.com/3752/9075252444_43b30267fa_c.jpg
 layout: post

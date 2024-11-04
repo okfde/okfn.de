@@ -2,7 +2,7 @@
 authors:
 - Anna Alberts
 - Moritz Neujeffski
-date: 2016-09-02 15:00
+date: 2016-09-02
 image:
   src: /files/blog/2016/09/EA_CAMPUS.png
   title: European Alternatives Campus Event 16

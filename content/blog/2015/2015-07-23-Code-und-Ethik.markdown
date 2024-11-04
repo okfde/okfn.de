@@ -1,6 +1,6 @@
 ---
 author: Paula Glaser
-date: 2015-07-23 17:00
+date: 2015-07-23
 image:
   src: http://medialepfade.de/wp-content/uploads/2015/07/codeundethik.jpg
 layout: post

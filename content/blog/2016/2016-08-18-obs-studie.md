@@ -1,7 +1,7 @@
 ---
 authors:
 - Arne Semsrott
-date: 2016-08-18 12:00
+date: 2016-08-18
 image:
   src: /files/blog/2016/08/obs-cover.jpg
   title: OBS-Studie   

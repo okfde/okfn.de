@@ -1,6 +1,6 @@
 ---
 author: Fiona Krakenbuerger
-date: 2015-07-20 12:00
+date: 2015-07-20
 image:
   src: /files/blog/2015/07/jobs.jpg
   title: Jobs bei OKFDE

@@ -1,6 +1,6 @@
 ---
 author: Fiona Krakenbuerger
-date: 2015-05-12 14:25
+date: 2015-05-12
 image:
   src: /files/blog/2015/04/codeforde.jpg
   title: 

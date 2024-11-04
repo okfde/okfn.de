@@ -1,6 +1,6 @@
 ---
 authors: Linus
-date: 2018-03-08 09:00
+date: 2018-03-08
 image: 
   src: /files/blog/2018/03/blog-linus.jpg
   title: 

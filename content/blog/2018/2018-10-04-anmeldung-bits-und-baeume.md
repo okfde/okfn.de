@@ -1,6 +1,6 @@
 ---
 authors: OKF
-date: 2018-10-04 09:00
+date: 2018-10-04
 image: 
   src: /files/blog/2018/schwer-bit.jpg
   title: 

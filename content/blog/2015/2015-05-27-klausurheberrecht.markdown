@@ -1,6 +1,6 @@
 ---
 author: Arne Semsrott
-date: 2015-05-27 18:42
+date: 2015-05-27
 image:
   src: https://netzpolitik.org/wp-upload/pruefung-300x225.jpg
 layout: post

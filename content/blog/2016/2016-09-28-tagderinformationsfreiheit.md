@@ -1,7 +1,7 @@
 ---
 authors:
 - Arne Semsrott
-date: 2016-09-28 14:00
+date: 2016-09-28
 image:
   src: /files/blog/2016/09/000000.jpg
   title: IFG-Kunstedition

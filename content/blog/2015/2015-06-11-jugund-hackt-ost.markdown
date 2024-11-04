@@ -1,6 +1,6 @@
 ---
 author: Paula Glaser
-date: 2015-06-09 10:00
+date: 2015-06-09
 image:
   src: /files/blog/2015/06/17987867593_a11540c288_k.jpg
   title: Logo Entwicklungsbarometer

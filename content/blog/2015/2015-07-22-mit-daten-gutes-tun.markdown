@@ -1,6 +1,6 @@
 ---
 author: Tobias Pfaff
-date: 2015-07-22 16:00
+date: 2015-07-22
 image:
   src: /files/blog/2015/07/open-impact.png
   title: OpenImpact

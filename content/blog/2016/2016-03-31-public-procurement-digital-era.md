@@ -2,7 +2,7 @@
 authors:
 - Mara Mendes
 - Mihaly Fazekas
-date: 2016-03-30 23:33
+date: 2016-03-30
 image:
   src: /files/blog/2016/03/FileStack_retouched.jpg
   title: "Public procurement in Europe needs to enter the digital era"

@@ -1,6 +1,6 @@
 ---
 author: Eileen Wagner
-date: 2015-07-16 12:00
+date: 2015-07-16
 image:
   src: /files/blog/2015/07/stadtgeschichten.png
   title: Stadtgeschichten
