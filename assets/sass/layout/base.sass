@@ -32,27 +32,20 @@
     @include make-col(6)
     @include make-col-offset(4)
 
-  .l__nav-link--anniversary
-    color: #9558b7
-
-    &:hover
-      color: #59439c
-      border-bottom-color: #59439c
-
   .l__nav-link--donate
     color: $anchor
 
     &:hover
       color: $anchor
       border-bottom-color: $anchor
-    
+
   .l__item
     margin-inline: 0.15rem;
 
 @media print
   .js
     padding-top: 0
-    
+
     .l__topbar
       position: static
       margin-bottom: $space
@@ -60,7 +53,7 @@
       > div
         min-height: auto !important
         height: auto !important
-        
+
 
   .l__topbar
     .l__inner
