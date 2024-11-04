@@ -1,6 +1,44 @@
-.l__donation
+.l__fancy-donation
   max-width: $max-width
+  padding-block: 30px
+
+  position: relative
   margin: auto
+  margin-outside: 50px
+  flex-wrap: wrap
+  display: grid
+  grid-template-columns: 1fr 1fr
+
+  @include media-breakpoint-down(sm)
+    grid-template-columns: 1fr
+
+
+  &:nth-of-type(even)
+    background-color: #f4f4f4
+
+  &:before
+    content: ''
+    z-index: -1
+    position: absolute
+    top: 0
+    bottom: 0
+    left: -100vw
+    right: -100vw
+    background: inherit
+
+  .l__fancy-donation__image
+    display: flex
+    justify-content: center
+    align-items: center
+    img
+      max-width: unquote("min(100%, 400px)")
+
+  .l__fancy-donation__content
+    ul
+      list-style-type: disc
+      padding: 1ch
+
+
 
 .l__donation__bank-transfer
   font-size: 1.2rem
