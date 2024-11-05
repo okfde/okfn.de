@@ -30,27 +30,6 @@
       <description></description>
     </item>
     <item>
-      <title>OKFDE</title>
-      <link>https://okfn.de/authors/okfde/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/authors/okfde/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jugend Hackt</title>
-      <link>https://okfn.de/authors/jugend-hackt/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/authors/jugend-hackt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OKF DE</title>
-      <link>https://okfn.de/authors/okf-de/</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/authors/okf-de/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Aline Blankertz</title>
       <link>https://okfn.de/authors/aline-blankertz/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
@@ -76,6 +55,20 @@
       <link>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OKF DE</title>
+      <link>https://okfn.de/authors/okf-de/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/authors/okf-de/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OKFDE</title>
+      <link>https://okfn.de/authors/okfde/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/authors/okfde/</guid>
       <description></description>
     </item>
     <item>
@@ -235,7 +228,7 @@
     <item>
       <title>Aus Dem Off Der OKF</title>
       <link>https://okfn.de/authors/aus-dem-off-der-okf/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/aus-dem-off-der-okf/</guid>
       <description></description>
     </item>
@@ -375,14 +368,14 @@
     <item>
       <title>Johannes Filter</title>
       <link>https://okfn.de/authors/johannes-filter/</link>
-      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/johannes-filter/</guid>
       <description></description>
     </item>
     <item>
       <title>Martin Koll</title>
       <link>https://okfn.de/authors/martin-koll/</link>
-      <pubDate>Thu, 18 Oct 2018 06:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/martin-koll/</guid>
       <description></description>
     </item>
@@ -403,7 +396,7 @@
     <item>
       <title>Markus Neuschäfer, Tanja Zagel, Timo Lundelius, Walter Palmetshofer</title>
       <link>https://okfn.de/authors/markus-neusch%C3%A4fer-tanja-zagel-timo-lundelius-walter-palmetshofer/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/markus-neusch%C3%A4fer-tanja-zagel-timo-lundelius-walter-palmetshofer/</guid>
       <description></description>
     </item>
@@ -424,7 +417,7 @@
     <item>
       <title>Linus</title>
       <link>https://okfn.de/authors/linus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Mar 2018 09:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/linus/</guid>
       <description></description>
     </item>
@@ -445,14 +438,14 @@
     <item>
       <title>Mara Mendes</title>
       <link>https://okfn.de/authors/mara-mendes/</link>
-      <pubDate>Mon, 29 Jan 2018 07:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/mara-mendes/</guid>
       <description></description>
     </item>
     <item>
       <title>Max Kasy</title>
       <link>https://okfn.de/authors/max-kasy/</link>
-      <pubDate>Fri, 29 Dec 2017 11:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/max-kasy/</guid>
       <description></description>
     </item>
@@ -473,35 +466,35 @@
     <item>
       <title>Christian Heise</title>
       <link>https://okfn.de/authors/christian-heise/</link>
-      <pubDate>Thu, 13 Jul 2017 00:10:00 +0000</pubDate>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/christian-heise/</guid>
       <description></description>
     </item>
     <item>
       <title>Rebecca Varghese Buchholz</title>
       <link>https://okfn.de/authors/rebecca-varghese-buchholz/</link>
-      <pubDate>Tue, 27 Jun 2017 10:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/rebecca-varghese-buchholz/</guid>
       <description></description>
     </item>
     <item>
       <title>Fiona Krakenbürger</title>
       <link>https://okfn.de/authors/fiona-krakenb%C3%BCrger/</link>
-      <pubDate>Fri, 09 Jun 2017 10:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/fiona-krakenb%C3%BCrger/</guid>
       <description></description>
     </item>
     <item>
       <title>Miles Heekeren</title>
       <link>https://okfn.de/authors/miles-heekeren/</link>
-      <pubDate>Wed, 05 Apr 2017 01:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/miles-heekeren/</guid>
       <description></description>
     </item>
     <item>
       <title>Johanna Zum Felde</title>
       <link>https://okfn.de/authors/johanna-zum-felde/</link>
-      <pubDate>Tue, 28 Mar 2017 01:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/johanna-zum-felde/</guid>
       <description></description>
     </item>
@@ -536,7 +529,7 @@
     <item>
       <title>Mihaly Fazekas</title>
       <link>https://okfn.de/authors/mihaly-fazekas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Mar 2016 23:33:00 +0000</pubDate>
       <guid>https://okfn.de/authors/mihaly-fazekas/</guid>
       <description></description>
     </item>
@@ -552,6 +545,13 @@
       <link>https://okfn.de/authors/michael-h%C3%B6rz/</link>
       <pubDate>Fri, 22 Jan 2016 13:00:00 +0000</pubDate>
       <guid>https://okfn.de/authors/michael-h%C3%B6rz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jugend Hackt</title>
+      <link>https://okfn.de/authors/jugend-hackt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/authors/jugend-hackt/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,40 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2024-10-11T00:00:00+0000</updated>
+  <updated>2024-05-22T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
-  
-  <entry>
-    <title>Stellungnahme zur Reform des Öffentlich-Rechtlichen Rundfunks</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2024-okf_stellungnahme_rundfunk/"/>
-    <id>https://okfn.de/publikationen/2024-okf_stellungnahme_rundfunk/</id>
-    <published>2024-10-11T00:00:00+0000</published>
-    <updated>2024-10-11T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Open Knowledge Foundation Deutschland (OKF) beteiligt sich an der Konsultation zu den vorgelegten Änderungsvorschlägen des Reformstaatsvertrags. In Zeiten von Vertrauenskrise und Falschinformationen muss ein zeitgemäßes Medienangebot sicherstellen, dass faktenbasierte, gut recherchierte Informationen der Öffentlich-Rechtlichen gut auffindbar, breit gestreut und dauerhaft abrufbar sind. Die Pflicht zur Depublizierung für nicht-fiktionale Inhalte muss daher bedingungslos gestrichen werden. Im Zeitalter von immenser digitaler Desinformation, Fake News, Deep Fakes und Hassrede braucht es starke Player, die dagegen halten und Menschen mit gut recherchierten Informationen versorgen und zeitgemäße hochwertige online-Angebote bereitstellen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Stellungnahme zum Entwurf einer Nationalen Kreislaufwirtschaftsstrategie</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2024-kommentierung-entwurf-nkws-okfde_oha/"/>
-    <id>https://okfn.de/publikationen/2024-kommentierung-entwurf-nkws-okfde_oha/</id>
-    <published>2024-07-09T00:00:00+0000</published>
-    <updated>2024-07-09T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Wir begrüßen den Entwurf einer Nationalen Kreislaufwirtschaftsstrategie (NKWS) des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) und sehen ihn als ersten wichtigen Schritt hin zu einer ressourcenschonenden und transparenten Kreislaufwirtschaft in Deutschland. Mit dem Netzwerk Ressourcenwende haben wir bereits die wichtigen Kernziele und Maßnahmen kommentiert. Wir unterstützen die dort bereits genannten Forderungen. Mit der vorliegenden Kommentierung fokussieren wir insbesondere die Rolle und Potenziale von Open Source, die stellenweise im aktuellen Entwurf enthalten sind. Neben Rohstoffkreisläufen sollten auch damit zusammenhängende Informationen im Zentrum stehen. Eine Kreislaufwirtschaft ist in erster Linie ein Kooperationsprojekt, das viele Akteure braucht. Informationen sind die wesentliche Triebkraft dabei. Dafür braucht es die allgemeine Ausrichtung auf das Zirkulieren von produkt- und rohstoffspezifischen Informationen und Anreize, offene Ansätze zu etablieren, die Produkttransparenz von Beginn an mitdenken (Open Source Hardware, Open Data, Open Source Software).&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2023</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023-jahresbericht/"/>
-    <id>https://okfn.de/publikationen/2023-jahresbericht/</id>
-    <published>2024-06-20T00:00:00+0000</published>
-    <updated>2024-06-20T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland im Jahr 2023. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen.&lt;/p&gt;</summary>
-  </entry>
   
   <entry>
     <title>Positionen des Bündnis F5 zur Europawahl 2024</title>
@@ -56,97 +29,135 @@
   </entry>
   
   <entry>
-    <title>Diskussionspapier Open Circularity</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/"/>
-    <id>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</id>
-    <published>2023-12-06T00:00:00+0000</published>
-    <updated>2023-12-06T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Mit der Nationalen Kreislaufwirtschaftsstrategie und dem Circular Economy Action Plan arbeiten die Bundesregierung und die EU an Maßnahmen zur Entwicklung zirkulärer Wirtschafts- und Gesellschaftsformen. Dabei dürfen Informationstransparenz und die Bedarfe der Zivilgesellschaft nicht unter den Tisch fallen. Im Diskussionspapier zeigen wir auf, wie offene Technologien bestehende Herausforderungen effektiv lösen und die Zivilgesellschaft stärken.&lt;/p&gt;</summary>
+    <title>Bündnis F5 zum Demokratiefördergesetz (DFördG)</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2022_f5_demokratief%C3%B6rdergesetz/"/>
+    <id>https://okfn.de/publikationen/2022_f5_demokratief%C3%B6rdergesetz/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Eine lebendige Demokratie braucht zivilgesellschaftliches Engagement; dieses Engagement wiederum braucht Schutz und Förderung.&lt;/p&gt;
+&lt;p&gt;Das Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) begrüßt daher den Vorschlag des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums des Innern und für Heimat für ein Gesetz zur Stärkung von Maßnahmen zur Demokratieförderung, Vielfaltgestaltung, Extremismusprävention und politischen Bildung (Demokratiefördergesetz – DFördG).&lt;/p&gt;
+&lt;p&gt;An einigen Stellen bedarf es aus unserer Sicht der Ergänzung. Unsere Anmerkungen und Kritikpunkte lesen Sie in dieser Stellungnahme.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <title>Handbuch Informationsfreiheitsrecht</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/"/>
-    <id>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</id>
-    <published>2023-10-23T00:00:00+0000</published>
-    <updated>2023-10-23T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Das Ziel dieses Handbuch ist es, einen gut verständlichen und praxistauglichen Überblick des Informationsfreiheitsrechts in Deutschland zu schaffen. Und zwar nicht nur für die, die es sich leisten können, sondern für alle.&lt;/p&gt;
-&lt;p&gt;Das Handbuch orientiert sich nicht an einzelnen Paragraphen, sondern an Themengebieten. Wenngleich ein Schwerpunkt auf dem Informationsfreiheitsgesetz des Bundes (IFG) liegt, ist es damit nicht nur für Anträge nach dem IFG, sondern auch für Anträge nach anderen Gesetzen nutzbar.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>E-Government-Gesetz Brandenburg</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_egovernment-brandenburg/"/>
-    <id>https://okfn.de/publikationen/2023_egovernment-brandenburg/</id>
-    <published>2023-09-28T00:00:00+0000</published>
-    <updated>2023-09-28T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.&lt;/p&gt;
-&lt;p&gt;Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Versäumnisse ein, die bei der Einführung des E-Government-Gesetzes entstanden sind. So werden beispielsweise Anforderungen an die Bereitstellung von offenen Daten definiert. In der beigefügten Begründung wird die Förderung von Open Data explizit als Ziel genannt. Begrüßenswert ist zudem die geplante Einführung einer Informations- und Beratungsstelle, die Behörden bei Fragen rund um das Thema Open Data im Land Brandenburg unterstützen soll.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Position deutscher digitaler zivilgesellschaftlicher Organisationen zum Global Digital Compact</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_globaldigitalcompact/"/>
-    <id>https://okfn.de/publikationen/2023_globaldigitalcompact/</id>
-    <published>2023-09-13T00:00:00+0000</published>
-    <updated>2023-09-13T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Vereinten Nationen befassen sich im Rahmen des Global Digital Compact (GDC) mit der Gestaltung der digitalen Zukunft im globalen Rahmen. Hierzu hatte der UN-Generalsekretär im Mai 2023 einen Policy Brief vorgelegt. Die Regierungen verorten derzeit ihre Positionen dazu und sollten dabei insbesondere auch die Stimmen aus der Zivilgesellschaft hören. Über die letzten Wochen hatte sich die Open Knowledge Foundation im Rahmen eines Bündnisses aus zivilgesellschaftlichen Organisationen (auf Initiative von Wikimedia Deutschland) den Policy Brief genauer angeschaut und Vorschläge für wünschenswerte Anpassungen gemacht. Beim Internet Governance Forum Deutschland in der letzten Woche bot sich nun die Gelegenheit für einen neuen Austausch.&lt;/p&gt;</summary>
+    <title>Bündnis F5 zum Referentenentwurf des Demokratiefördergesetz (DFördG)</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2022_f5_demokratief%C3%B6rdergesetz_referentenentwurf/"/>
+    <id>https://okfn.de/publikationen/2022_f5_demokratief%C3%B6rdergesetz_referentenentwurf/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Das Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) begrüßt den Vorschlag des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums des Innern und für Heimat für ein Gesetz zur Stärkung von Maßnahmen zur Demokratieförderung, Vielfaltgestaltung, Extremismusprävention und politischen Bildung (Demokratiefördergesetz – DFördG).
+An einigen Stellen bedarf es aus unserer Sicht der Ergänzung.&lt;/p&gt;
+&lt;p&gt;Unsere Anmerkungen und Kritikpunkte lesen Sie in dieser Stellungnahme.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
     <title>Bündnis F5 zur Datenstrategie der Bundesregierung</title>
     <link rel="alternate" href="https://okfn.de/publikationen/2023_f5_datenstrategie/"/>
     <id>https://okfn.de/publikationen/2023_f5_datenstrategie/</id>
-    <published>2023-09-12T00:00:00+0000</published>
-    <updated>2023-09-12T00:00:00+0000</updated>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;„Fortschritt durch Datennutzung“ – so lautet die Weiterentwicklung der Datenstrategie von 2021, die zur Mitte der Legislatur veröffentlicht wurde. Es ist deutlich erkennbar, dass die Bedeutung der Datenpolitik nun stärker als gesamtgesellschaftliches Thema begriffen wird. Dennoch verharrt das Dokument im üblichen Modus der zusammengeschusterten Strategiepapiere als Sammelsurium verschiedener bekannter Ansätze und Einzelmaßnahmen; ein Gesamtrahmen mit klaren Governance-Strukturen, Rollen und Prozessen sowie einer soliden Dateninfrastruktur für eine planvolle und effektive Umsetzung der bereits beschlossenen Maßnahmen fehlt weiterhin.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Pressemitteilung des Bündnis F5 zum Digitale-Dienste-Gesetz (DDG)</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_f5_pm_ddg/"/>
-    <id>https://okfn.de/publikationen/2023_f5_pm_ddg/</id>
-    <published>2023-07-06T00:00:00+0000</published>
-    <updated>2023-07-06T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Deutschland droht die Chance zu verspielen, Internetplattformen – wie soziale Netzwerke oder Online-Marktplätze – unter eine effektive, unabhängige Aufsicht zu stellen. Der Digital Services Act (DSA) soll Nutzer*innenrechte online schützen und legt Sorgfaltspflichten für Plattformen wie TikTok, Facebook und Twitter fest. Um diese Ziele wirkungsvoll zu erreichen, bedarf es einer zentralen und gut organisierten Plattformaufsicht in den EU-Mitgliedstaaten, die Beschwerden von Betroffenen zügig und kompetent bearbeitet und ihre Rechte durchsetzt. Mit dieser Aufgabe sind die sogenannten Koordinatoren für Digitale Dienste (Digital Services Coordinators, DSCs) in Zusammenarbeit mit der EU-Kommission betraut. Jedoch streiten sich die deutschen Behörden seit Monaten um Zuständigkeiten und verzögern damit die dringend notwendigen Vorbereitungen für eine effektive Plattformaufsicht.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Jahresbericht Open Knowledge Foundation Deutschland e.V. 2022</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2022-jahresbericht/"/>
-    <id>https://okfn.de/publikationen/2022-jahresbericht/</id>
-    <published>2023-06-28T00:00:00+0000</published>
-    <updated>2023-06-28T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland im Jahr 2022. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen&lt;/p&gt;</summary>
   </entry>
   
   <entry>
     <title>Bündnis F5 zur Engagementstrategie des Bundes</title>
     <link rel="alternate" href="https://okfn.de/publikationen/2023_f5_engagementstrategie/"/>
     <id>https://okfn.de/publikationen/2023_f5_engagementstrategie/</id>
-    <published>2023-06-08T00:00:00+0000</published>
-    <updated>2023-06-08T00:00:00+0000</updated>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;Noch in dieser Legislaturperiode soll unter Beteiligung der Zivilgesellschaft eine neue Engagementstrategie des Bundes erarbeitet werden. Die letzte Engagementstrategie stammt noch aus dem Jahr 2010. Es wird also Zeit – denn es hat sich viel getan! Das digitale Ehrenamt ist stark gewachsen und neue Technologien durchdringen mehr und mehr unser Leben.&lt;/p&gt;
 &lt;p&gt;Im Rahmen der Verbändebeteiligung haben wir gemeinsam im Bündnis F5 eine Stellungnahme eingereicht.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <title>Open-Data-Gesetz Hessen (HODaG)</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_stellungnahme-hessisches-opendatagesetz/"/>
-    <id>https://okfn.de/publikationen/2023_stellungnahme-hessisches-opendatagesetz/</id>
-    <published>2023-03-23T00:00:00+0000</published>
-    <updated>2023-03-23T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Bereitstellung von Open Data ist ein zentrales Element in der Umsetzung des Offenen Regierungshandeln und maßgebliche Voraussetzung für Transparenz, Nachvollziehbarkeit und Überprüfbarkeit politischen Handelns, Akzeptanz politischer Entscheidungen, Meinungsbildung und Partizipation.&lt;/p&gt;
-&lt;p&gt;Die Hessische Regierung macht mit dem Open-Data-Gesetz zwar den überfälligen ersten Schritt, verpasst es aber, aus den zahlreichen Beispielen anderer Open-Data-Gesetze die richtigen Schlüsse zu ziehen. Unsere Anmerkungen und Kritkpunkte haben wir in dieser Stellungnahme ausgeführt.&lt;/p&gt;</summary>
+    <title>Bündnis F5 zur Zukunftsstrategie Forschung und Innovation</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2022_f5_zukunftsstrategie/"/>
+    <id>https://okfn.de/publikationen/2022_f5_zukunftsstrategie/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Wir sind davon überzeugt, dass die Bewältigung der gesellschaftlichen und globalen Herausforderungen nur gelingen wird, wenn das Innovationssystem auf den Prinzipien der Offenheit und Partizipation beruht.&lt;/p&gt;
+&lt;p&gt;Im Bündnis F5 (Algorithmwatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) haben wir im Rahmen der Online-Konsultation des Bundesministeriums für Bildung und Forschung (BMBF) eine Stellungnahme auf die vorgegebenen Fragen zur „Zukunftsstrategie Forschung und Innovation“ abgegeben, in der wir unsere Anmerkungen und Kritikpunkte detailliert aufführen.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <title>Unboxing Blackboxes</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_handbuch_open_hardware_nachhaltigkeit_foh/"/>
-    <id>https://okfn.de/publikationen/2023_handbuch_open_hardware_nachhaltigkeit_foh/</id>
-    <published>2023-03-13T00:00:00+0000</published>
-    <updated>2023-03-13T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Herausforderungen unser Zeit sind bekannt, die auf sozialer, ökologischer und wirtschaftlicher Ebene vor uns liegen. Offene Hardware kann ein Teil der Lösung werden. In der Publikation &amp;ldquo;Unboxing Blackboxes&amp;rdquo; zeigen wir, wie. Außerdem stellen wir die sechs Projekte vor, die Teil der ersten Runde des Prototype Fund Hardware waren.&lt;/p&gt;</summary>
+    <title>Datenstrategie der Bundesregierung</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2021_datenstrategie_breg/"/>
+    <id>https://okfn.de/publikationen/2021_datenstrategie_breg/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Die Bundesregierung hat am 27.01.2021 ihre erste Datenstrategie im Kabinett verabschiedet. Die Datenstrategie ist ein Schritt in die richtige Richtung. Die Datenstrategie folgt aus unserer Sicht einer richtigen gesellschaftlichen Zielsetzung: Rahmenbedingungen zu schaffen für eine verantwortungsvolle und innovative Datennutzung, die sich an
+den Werten der informationellen Selbstbestimmung und des Schutzes persönlicher Daten orientiert und dem Gemeinwohl verpflichtet ist. Leider versäumt es die Bundesregierung in der Datenstrategie, diesen Werten das nötige Gewicht zu verleihen. Die Datenstrategie verengt sich zu stark auf wirtschaftliche Aspekte und lässt dabei weitere, ge-
+meinwohlorientierte Aspekte der Datennutzung unter den Tisch fallen. Die Zivilgesellschaft bleibt weiterhin Zaungast in der Diskussion: In der Datenstrategie finden sich die Vorschläge, die aus der Zivilgesellschaft kamen, nur teilweise berücksichtigt. Ungehört bleibt auch der Wunsch nach einem Regulativ: Die Gefahr des Datenmissbrauchs durch
+staatliche Behörden lässt die Datenstrategie gänzlich unbehandelt.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Der Wert persönlicher Daten</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2016_studie_wert-pers%C3%B6nlicher-daten/"/>
+    <id>https://okfn.de/publikationen/2016_studie_wert-pers%C3%B6nlicher-daten/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Ziel dieser Studie ist, eine allgemein verständliche Übersicht zum Handel mit Daten zu erstellen, die den Wert von Daten strukturiert erfasst.&lt;/p&gt;
+&lt;p&gt;Mit dem Wissen um den Wert ihrer Daten werden VerbraucherInnen dazu ermächtigt, bessere, informierte Entscheidungen über den Umgang mit ihren persönlichen Daten zu treffen. Auf Basis der Erkenntnisse aus der Studie werden schließlich Empfehlungen für EntscheidungsträgerInnen aus Politik, Verwaltung, Wissenschaft und Wirtschaft formuliert, die dabei helfen können, das Potential persönlicher Daten zu nutzen und bestimmte persönliche Daten von VerbraucherInnen zu schützen.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Diskussionspapier Open Circularity</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/"/>
+    <id>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Mit der Nationalen Kreislaufwirtschaftsstrategie und dem Circular Economy Action Plan arbeiten die Bundesregierung und die EU an Maßnahmen zur Entwicklung zirkulärer Wirtschafts- und Gesellschaftsformen. Dabei dürfen Informationstransparenz und die Bedarfe der Zivilgesellschaft nicht unter den Tisch fallen. Im Diskussionspapier zeigen wir auf, wie offene Technologien bestehende Herausforderungen effektiv lösen und die Zivilgesellschaft stärken.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>E-Government-Gesetz Brandenburg</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2023_egovernment-brandenburg/"/>
+    <id>https://okfn.de/publikationen/2023_egovernment-brandenburg/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.&lt;/p&gt;
+&lt;p&gt;Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Versäumnisse ein, die bei der Einführung des E-Government-Gesetzes entstanden sind. So werden beispielsweise Anforderungen an die Bereitstellung von offenen Daten definiert. In der beigefügten Begründung wird die Förderung von Open Data explizit als Ziel genannt. Begrüßenswert ist zudem die geplante Einführung einer Informations- und Beratungsstelle, die Behörden bei Fragen rund um das Thema Open Data im Land Brandenburg unterstützen soll.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>E-Government-Gesetz Hessen</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2023_stellungnahme-hessischen-e-government-gesetzes/"/>
+    <id>https://okfn.de/publikationen/2023_stellungnahme-hessischen-e-government-gesetzes/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Der vorliegende Entwurf behandelt im Wesentlichen die landesrechtliche Umsetzung der durch das Onlinezugangsgesetz (OZG) des Bundes verpflichtend gewordenen digitalen Bereitstellung von Verwaltungsleistungen.&lt;/p&gt;
+&lt;p&gt;Aus Sicht der Open Knowledge Foundation Deutschland setzt die Landesregierung Hessen mit dem Gesetzentwurf zwar notwendige Änderungen im Bereich der Nutzer:innenkonten und Behördenpostfächer um, verpasst aber die Chance, nach über vier Jahren mit einer echten Novelle des HEGovG weiterreichende Regelungen und Ziele zu formulieren, wie die digitale Transformation zu einer effizienten und transparenten Verwaltung beitragen könnte.
+Weitere Anmerkungen und Kritikpunkte finden Sie in dieser Stellungnahme.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Forderungspapier: Digitalisierung zukunftsfähig und nachhaltig gestalten</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2022_bitsundb%C3%A4ume_forderungen/"/>
+    <id>https://okfn.de/publikationen/2022_bitsundb%C3%A4ume_forderungen/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Die Digitalisierung muss stärker in den Dienst der Gesellschaft und des sozial-ökologischen Wandels gestellt werden. Digitale Technologien sollten durch gleichberechtigte gesellschaftliche Teilhabe und innerhalb der planetaren Grenzen zur Verbesserung von Lebensbedingungen und der Umwelt beitragen, anstatt durch explodierenden Energiebedarf, Ressourcenverbrauch und mangelnde Teilhabe vor allem des Globalen Südens existierende Krisen noch weiter zu verschärfen. Mit diesem Appell und insgesamt mehr als 60 thematischen Forderungen wenden sich 13 Organisationen aus Umwelt,- Klima- und Naturschutz, Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft anlässlich der „Bits &amp;amp; Bäume“-Konferenz an die Bundesregierung, die Europäische Union und politische Akteure weltweit.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Funding for Future</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2022_handbuch-funding-for-future/"/>
+    <id>https://okfn.de/publikationen/2022_handbuch-funding-for-future/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Mit diesem Handbuch gibt der Prototype Fund am Beispiel von Open-Source-Software einen Einblick darin, wie unbürokratisches Funding für Individuen und kleine Teams funktionieren kann und was die Vorteile davon sind.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Gesetzentwurf E-Verkündung</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2022_stellungnahme_verk%C3%BCndungs--und-bekanntmachungswesens/"/>
+    <id>https://okfn.de/publikationen/2022_stellungnahme_verk%C3%BCndungs--und-bekanntmachungswesens/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Organisationen der digitalen Zivilgesellschaft fordern bereits seit vielen Jahren die Bereitstellung von Gesetzestexten als Open Data. Die Open Knowledge Foundation Deutschland begrüßt daher, dass die Bundesregierung das
+Verkündungs- und Bekanntmachungswesen insofern modernisieren möchte, dass Gesetzestexte digital bekannt gemacht werden können. Die geplante Reform ist längst überfällig und unterstützenswert.&lt;/p&gt;
+&lt;p&gt;Unsere Anmerkungen und Kritikpunkte sind in dieser Stellungnahme nachzulesen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
