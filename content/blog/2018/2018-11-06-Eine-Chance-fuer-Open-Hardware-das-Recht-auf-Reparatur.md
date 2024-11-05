@@ -1,22 +1,19 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2018-11-06 16:00:00
 image:
   src: /files/blog/2018/11/Open-source-hardware-logo.png
-  title:
+  title: null
   license: CC-BY-SA 1.0
-  license_url: "https://creativecommons.org/licenses/sa/1.0/deed.de"
+  license_url: https://creativecommons.org/licenses/sa/1.0/deed.de
 tags:
 - Open Hardware
 - Transparenz
 type: post
 layout: post
 card: true
-published: true
-title: "Eine Chance für Open Hardware: das Recht auf Reparatur"
-
-
+title: 'Eine Chance für Open Hardware: das Recht auf Reparatur'
+publishedDate: 2018-11-06 16:00:00
 ---
 
 In einer Zeit, in der große Teile der technischen Apparate Daten verarbeiten, hat die Forderung nach transparenter Technik einen hohen Stellenwert: Wie erfasst das Smartphone seine Umgebung, welche Daten werden erhoben und wohin gelangen sie? Open Source, das Offenlegen des technischen Aufbaus und die Verwendung von freien Lizenzen, ist hier das bekannte Schlagwort. **Während Open Source für den Bereich der Software ein verbreitetes Thema ist und freie Software weite Teile der Softwareentwicklung bereichert, steckt Open Source Hardware noch in den Kinderschuhen.** Schlimmer noch: Wer sich an die 50er und 60er Jahre erinnert, weiß, dass der Schaltplan oft fester Bestandteil erworbener Geräte war. Heute verschwinden sie immer mehr in verklebten Gehäusen und sollen möglichst wenige Gründe zum Öffnen geben – eine technische Dokumentation liefert nur die nötigsten Informationen.

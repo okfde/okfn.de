@@ -1,21 +1,20 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2017-02-21 08:00:00
 image:
   src: /files/blog/2017/02/okf-team.png
-  title: 
+  title: null
   license: CC BY 2.0
-  license_url: 
+  license_url: null
 tags:
 - Ausschreibung
 - Jobs
 type: post
 layout: post
 card: true
-published: true
-jobs:
-title: "OKF DE sucht neue/n Geschäftsführer/in!"
+jobs: null
+title: OKF DE sucht neue/n Geschäftsführer/in!
+publishedDate: 2017-02-21 08:00:00
 ---
 
 <b>+++ Bewerbungsfrist um eine Woche auf 16. März verlängert! +++</b>

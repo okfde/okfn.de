@@ -1,7 +1,6 @@
 ---
 authors:
 - Walter Palmetshofer
-date: 2019-04-04
 image:
   src: /files/blog/2018/10/LogoEC-el-svg.png
   title: PSI Open Data Richtlinie
@@ -12,10 +11,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "PSI public sector information"
-
-
+title: PSI public sector information
+publishedDate: 2019-04-04
 ---
 
 **Open Data: EU öffnet Datensilos des öffentlichen Sektors**

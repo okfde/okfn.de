@@ -1,23 +1,22 @@
 ---
 authors:
 - OKF
-date: 2019-01-23
 image:
   src: /files/blog/2019/01/Stellenausschreibung_ReKoUlm.jpg
   title: Jugend hackt
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Ausschreibung
 - Jobs
 type: post
 layout: post
 card: true
-published: true
-title: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
-jobs: "Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)"
+title: 'Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)'
+jobs: 'Stellenausschreibung: Regionale Koordinator*in (w/m/d) für Jugend hackt Labregion in Ulm (20h)'
 aliases:
-    - /blog/2019/01/Stellenausschreibung-Regionale-Koordination-Jugend-hackt-Lab-Ulm/
+- /blog/2019/01/Stellenausschreibung-Regionale-Koordination-Jugend-hackt-Lab-Ulm/
+publishedDate: 2019-01-23
 ---
 
 ### Wer wir sind

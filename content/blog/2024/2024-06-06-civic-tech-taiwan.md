@@ -1,8 +1,7 @@
 ---
-authors: 
+authors:
 - Sonja Fischbauer
-date: 2024-06-06
-image: 
+image:
   src: /files/blog/2024/2024-06-taipei-skyline.jpg
   license: CC-BY SA 4.0
   license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.de
@@ -10,10 +9,11 @@ tags:
 - Taiwan
 type: post
 layout: post
-published: true
 featured: blue
-title: "Von Taipei nach Berlin: Wie Civic Tech in Taiwan zur digitalen Demokratie inspiriert"
+title: 'Von Taipei nach Berlin: Wie Civic Tech in Taiwan zur digitalen Demokratie inspiriert'
+publishedDate: 2024-06-06
 ---
+
 Im letzten Monat hatten wir die Chance, mehr über die Civic-Tech- und Open-Source-Szene in Taiwan zu erfahren und uns mit taiwanischen Aktivist:innen auszutauschen. Das Land ist ein Vorbild im Bereich Digital Democracy mit einigen Erfolgsgeschichten in der Zusammenarbeit zwischen Verwaltung und Zivilgesellschaft. Vor sieben Jahren berichteten wir über unseren ersten [Besuch in Taiwan](https://codefor.de/blog/open-communities/) im Rahmen eines Austauschprogramms von Code for All.
 
 Im internationalen Civic-Tech-Netzwerk ist g0v (ausgesprochen “gov-zero”) das taiwanesische Pendant zu Code for Germany. Nach dem Hands-on-Prinzip entwickelt die Community Open-Source-Technologien und Civic-Tech-Projekte zur demokratischen Teilhabe. Ein bekanntes frühes Projekt ist die Plattform [vTaiwan](https://info.vtaiwan.tw/), mit der Menschen aktiv an der Gesetzgebung teilnehmen können. Alle zwei Monate finden g0v-Hackathons statt, die jeweils bis zu 100 Teilnehmende zählen. 
@@ -52,4 +52,4 @@ Isabel Hou, ehemalige Vorständin von g0v und Tiff Lin, Projektmanagerin der g0v
 ![Isabel Hou beim g0v workshop in Berlin.](/files/blog/2024/2024-06-g0v-in-berlin.jpg)
 Photo: Sonja Fischbauer; Isabel Hou beim g0v workshop in Berlin; Lizenz CC-BY SA 4.0
 
-Wir freuen uns über die zahlreichen Kontakte nach Taiwan, die neu gewonnenen Perspektive und die gestärkte Motivation, auch hierzulande mehr Civic-Tech-Projekte umzusetzen. 
+Wir freuen uns über die zahlreichen Kontakte nach Taiwan, die neu gewonnenen Perspektive und die gestärkte Motivation, auch hierzulande mehr Civic-Tech-Projekte umzusetzen.

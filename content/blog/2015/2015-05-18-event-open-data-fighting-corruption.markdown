@@ -1,14 +1,15 @@
 ---
 author: Mara Mendes
-date: 2015-05-18 11:25
+date: 2015-05-18 11:25:00
 image:
   src: /files/blog/2015/05/digiwhist.jpg
 layout: post
 tags:
 - Event
-title: "Event: How Open Data Tools Can be Used to Engage Citizens in Fighting Corruption"
+title: 'Event: How Open Data Tools Can be Used to Engage Citizens in Fighting Corruption'
 type: post
 ---
+
 Wir freuen uns, dass die Hertie School of Governance und Transparency International am 21. Mai zu einer Diskussion zur Nutzung von Open Data in der Korruptionsbekämpfung einladen. Hierbei wird auch das 
 <a href="/blog/2015/01/okfde-awarded-h2020-project-to-improve-transparency-in-public-spending-and-support-whistleblowing/">DIGIWHIST Projekt</a>
  an dem wir zusammen mit unter anderem der Hertie School of Governance arbeiten vorgestellt. Diskutiert wird auf Englisch. Mehr Infos findet ihr 
@@ -35,5 +36,3 @@ Alina Mungiu-Pippidi, Professor of Democracy Studies, Hertie School of Governanc
 The event will take place at the Hertie School of Governance in Berlin ( Quartier 110, Friedrichstraße 180, 10117 Berlin) <b>on 21 May from 18.30 - 20.00</b>.
 
 If you wish to attend and haven’t registered yet, <b>please register</b> via fax (0049-30-259 219 444) or e-mail (events@hertie-school.org).
-
-

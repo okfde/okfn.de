@@ -4,12 +4,12 @@ authors:
 date: 2022-01-27
 image:
   src: /files/jobs/cfg-redakteurin.jpg
-  title: "Community Redakteur:in gesucht!"
-  license: "CC-BY 4.0, Urheber: Leonard Wolf"
+  title: Community Redakteur:in gesucht!
+  license: 'CC-BY 4.0, Urheber: Leonard Wolf'
   license_url: https://creativecommons.org/licenses/by/4.0/
-tags:
-published: false
-title: "Wir suchen eine:n Junior Community Redakteur:in für Code for Germany (Studentische Hilfskraft, 19h/Woche)"
+tags: null
+title: Wir suchen eine:n Junior Community Redakteur:in für Code for Germany (Studentische Hilfskraft, 19h/Woche)
+draft: 'true'
 ---
 
 Um die Geschichten aus unserem ehrenamtlichen Netzwerk Code for Germany aufzubereiten, suchen wir eine:n 
@@ -75,4 +75,4 @@ Wir freuen uns insbesondere über die Bewerbungen von Frauen*, BPoC, Menschen mi
 Bitte schicke uns deine Bewerbung **bis spätestens Dienstag, 1. März 2022** mit Anschreiben, Lebenslauf und frühestmöglichem Arbeitsbeginn per E-Mail an Sonja via **jobs@okfn.de**. 
 Bitte verzichte in deiner Bewerbung auf Fotos und Angaben zu Alter und Familienstand. 
 
-Wir werden alle Bewerbungen sichten und unserem personalverantwortlichen Team zur Auswahl vorlegen (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen ein (zweite Runde), entweder vor Ort in Berlin oder online. 
+Wir werden alle Bewerbungen sichten und unserem personalverantwortlichen Team zur Auswahl vorlegen (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen ein (zweite Runde), entweder vor Ort in Berlin oder online.

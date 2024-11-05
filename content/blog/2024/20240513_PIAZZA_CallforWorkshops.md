@@ -1,8 +1,7 @@
 ---
 authors:
 - OKF DE
-date: 2024-05-13
-image: 
+image:
   src: /files/blog/2024/20240513_PIAZZA_2024-SharePic-CfW-2.png
   license: cc by Kompetenzzentrum Öffentliche IT (ÖFIT)
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -11,9 +10,9 @@ tags:
 - Verwaltung
 type: post
 layout: post
-published: true
 featured: yellow
-title: "PIAZZA-Konferenz 2024: Call for Workshops"
+title: 'PIAZZA-Konferenz 2024: Call for Workshops'
+publishedDate: 2024-05-13
 ---
 
 Am **14. November 2024** findet die Konferenz „PIAZZA – Für digitale Verwaltung & Gesellschaft“ zum vierten Mal online statt. Die OKF wird dieses Jahr erstmalig im Trägerkreis dabei sein. Wir freuen uns sehr! 

@@ -1,17 +1,17 @@
 ---
 authors:
 - Arne Semsrott
-date: 2016-09-28 14:00
+date: 2016-09-28 14:00:00
 image:
   src: /files/blog/2016/09/000000.jpg
   title: IFG-Kunstedition
-  license: "CC0"   
+  license: CC0
 type: post
 layout: post
 card: true
 tags:
 - FragDenStaat
-title: "#000000 - FragDenStaat enthüllt Kunstedition zur Informationsfreiheit"
+title: '#000000 - FragDenStaat enthüllt Kunstedition zur Informationsfreiheit'
 ---
 
 Heute ist internationaler Tag der Informationsfreiheit! Vor 250 Jahren trat in Schweden das erste Informationsfreiheitsgesetz der Welt in Kraft.

@@ -2,10 +2,9 @@
 authors:
 - Arne Semsrott
 - Stefan Wehrmeyer
-date: 2019-03-20
 image:
   src: /files/blog/2019/03/abmahnung-blog.jpg
-  title: "Abmahnschreiben von Gleiss Lutz"
+  title: Abmahnschreiben von Gleiss Lutz
   license: CC 0
 tags:
 - Zensurheberrecht
@@ -15,8 +14,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Copyright Censorship: We Got a Cease-and-Desist by the Government "
+title: 'Copyright Censorship: We Got a Cease-and-Desist by the Government '
+publishedDate: 2019-03-20
 ---
 
 The German government has threatened us in order to depublish a government report on the risks of glyphosate. The responsible Federal Institute for Risk Assessment (BfR), which reports to the Ministry of Agriculture of Julia Klöckner (CDU), accuses us of copyright infringement and demands that we sign a cease-and-desist declaration.

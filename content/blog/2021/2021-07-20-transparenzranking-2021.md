@@ -1,21 +1,21 @@
 ---
 authors:
 - Arne Semsrott
-date: 2021-07-20
 image:
   src: /files/blog/2021/07/transparenzranking-2021.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Transparenzranking
 - FragDenStaat
 type: post
 layout: post
-published: true
 featured: blue
-title: "Neues Transparenz-Ranking 2021: Bundesländer meilenweit auseinander"
+title: 'Neues Transparenz-Ranking 2021: Bundesländer meilenweit auseinander'
+publishedDate: 2021-07-20
 ---
+
 Das neue Transparenz-Ranking zeigt große Unterschiede zwischen den Bundesländern in Sachen Informationsfreiheit: Verträge der öffentlichen Hand, Gutachten oder für die Allgemeinheit wichtigen Informationen, zum Beispiel über staatlich kontrollierte Unternehmen, Hochschulen oder Strafverfolgungsbehörden, sind noch immer nicht in allen Bundesländern einsehbar. In Hamburg (Platz 1) macht die Verwaltung solche amtlichen Dokumente und Aufzeichnungen von sich aus kostenlos zugänglich, seitdem 2012 eine Volksinitiative für ein Transparenzgesetz erfolgreich war. Bayern, Sachsen und Niedersachsen (gemeinsam auf dem letzten Platz) dagegen ermöglichen der Bevölkerung bisher nicht einmal auf Nachfrage, an Informationen zu gelangen.
 
 "Informationsfreiheit ist Teil eines demokratischen Staatswesens“, sagt Arne Semsrott, Projektleiter von FragDenStaat bei der Open Knowledge Foundation. „Trotzdem haben Bayern, Sachsen und Niedersachsen noch immer kein Informationsfreiheitsgesetz. Die dortigen Landesregierungen schließen ihre Bürgerinnen und Bürger noch komplett von der Einsicht in Verwaltungsakten aus. Das muss sich ändern!" Die nächste Bundesregierung müsse Informationsfreiheit endlich zum Standard in ganz Deutschland machen und die Tromsö-Konvention des Europarates über den Zugang zu amtlichen Dokumenten unterzeichnen.

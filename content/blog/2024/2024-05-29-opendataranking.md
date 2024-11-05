@@ -1,9 +1,8 @@
 ---
-authors: 
+authors:
 - Dénes Jäger
 - OKF DE
-date: 2024-05-29
-image: 
+image:
   src: /files/blog/2024/OpenDataRanking.png
   license: cc Karte by  David Liuzzo, DeStatis
   license_url: https://OpenDataRanking.de
@@ -11,9 +10,9 @@ tags:
 - OpenDataRanking
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Das erste Open Data Ranking ist erschienen"
+title: Das erste Open Data Ranking ist erschienen
+publishedDate: 2024-05-29
 ---
 
 *Wir veröffentlichen das erste [Open Data Ranking](https://opendataranking.de)! In Anlehnung an das [Transparenzranking](https://transparenzranking.de) blicken wir auf die Open-Data-Landschaft in Deutschland und gehen über das reine Datensätzezählen hinaus. Die Analyse der rechtlichen Rahmenbedingungen, Datenqualität und personellen Ausstattung zeigen, dass es innerhalb Deutschlands erhebliche Unterschiede in Bezug auf Open Data gibt. Während sich einzelne Bundesländer auch schon um Linked Data kümmern, fehlen bei anderen noch jegliche Grundlagen für die Datenbereitstellung.*
@@ -39,6 +38,3 @@ Am anderen Ende des [Rankings](https://opendataranking.de) stehen allerdings etl
 Weder in einem Bundesland noch im Bund gibt es aktuell ein subjektiv-öffentliches Recht auf Bereitstellung von Daten. Auf Bundesebene steht ein Rechtsanspruch zumindest im Koalitionsvertrag. Mit 25% nimmt diese Kategorie einen großen Anteil des Rankings ein, denn ein solcher Rechtsanspruch könnte als Umsetzungsmotor dienen, um die notwendige IT- und  Dateninfrastruktur für eine automatisierte Bereitstellung von Open Data zu schaffen. Die Hoffnung, dass der Rechtsanspruch in dieser Legislaturperiode noch kommt, wollen wir uns nach wie vor erhalten und setzen uns weiterhin dafür ein. Die positive Wirkung eines solchen wird im Übrigen auch vom [Max-Planck-Institut](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4492439), von [Wikimedia](https://www.wikimedia.de/wp-content/uploads/2023/04/Wikimedia_Deutschland_-_Positionspapier_Recht_auf_Open_Data_2022.pdf) und von der [Böll-Stiftung](https://www.boell.de/de/2022/09/15/daten-als-oeffentliche-infrastruktur) untermauert.
 
 ## [www.OpenDataRanking.de](https://www.opendataranking.de) ##
-
-
-

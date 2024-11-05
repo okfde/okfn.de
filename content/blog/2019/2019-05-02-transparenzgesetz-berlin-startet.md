@@ -2,10 +2,9 @@
 authors:
 - Arne Semsrott
 - Leonard Wolf
-date: 2019-05-02
 image:
   src: /files/blog/2019/05/transparenzgesetz-berlin.jpg
-  title: "Das Rathaus muss bald transparenter werden"
+  title: Das Rathaus muss bald transparenter werden
   license: CC 0
 tags:
 - Berlin
@@ -13,10 +12,11 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Ein Transparenzgesetz für Berlin: Volksbegehren startet im Juli"
+title: 'Ein Transparenzgesetz für Berlin: Volksbegehren startet im Juli'
 featured: blue
+publishedDate: 2019-05-02
 ---
+
 Milliardenschwere Bauvorhaben, Geheimverträge mit der Wirtschaft und Einflussnahme von Lobbyist*innen: Ein Bündnis zivilgesellschaftlicher Organisationen will jetzt Licht ins Dunkel der Berliner Verwaltung bringen. Dafür hat es ein eigenes Transparenzgesetz auf den Weg gebracht, das das Recht auf Informationen des Staates in Zukunft weitreichend stärken soll.
 
 Das <a href="https://volksentscheid-transparenz.de/">Bündnis Volksentscheid Transparenz</a>, zu dem unter anderem die Open Knowledge Foundation Deutschland, Mehr Demokratie, der Chaos Computer Club und die Digitale Gesellschaft zählen, hat dem Senat im April <a href="https://volksentscheid-transparenz.de/documents/BerlTG-E-6_clean.pdf">einen Gesetzentwurf vorgelegt</a>, nach dem Berliner Landes- und Bezirksbehörden proaktiv Informationen in einem zentralen Transparenzportal offenlegen müssen. Dazu zählen zum Beispiel Senatsbeschlüsse, Gutachten, Planungsunterlagen, Sponsoring-, Bau- und Umweltdaten sowie der Quelltext von Computerprogrammen der Verwaltung. Verträge über 100.000 Euro, die das Land Berlin oder die Bezirke schließen, müssten einen Monat vor Inkrafttreten veröffentlicht werden. Außerdem sollen Angaben zu Treffen von Regierungsmitgliedern mit Lobbyistinnen im Transparenzregister zu finden sein.

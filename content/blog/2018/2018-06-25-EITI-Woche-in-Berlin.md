@@ -1,22 +1,20 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2018-06-25
 image:
   src: /files/blog/2018/06/eiti-oil-platform.jpg
   title: EITI
 tags:
 - EITI
-- open data 
+- open data
 - transparency
 type: post
 layout: post
 card: true
-published: true
-title: "EITI-Woche in Berlin" 
-
-
+title: EITI-Woche in Berlin
+publishedDate: 2018-06-25
 ---
+
 Diese Woche findet in Berlin das [internationale Board-Meeting](https://eiti.org/document/40th-board-meeting) von [EITI](https://www.eiti.org) statt.
 
 EITI steht für Extractive Industry Transparency Initiative und bemüht sich um die Offenlegung der Zahlungsströme im Rohstoffsektor. 
@@ -210,4 +208,3 @@ Picture archives:<br>
 [BMWI](https://www.flickr.com/photos/okfde/sets/72157695420395142)<br>
 [Board meeting including civil society constituency, BMZ shrinking civic space, blockchain side event)](https://www.flickr.com/photos/okfde/albums/72157696919938241)<br>
 [dropbox - Thomas & Boris](https://www.dropbox.com/sh/kcdorf0qxz7a423/AABa-bhDYnaEwZZ58UA94E2Ua?dl=0)
-

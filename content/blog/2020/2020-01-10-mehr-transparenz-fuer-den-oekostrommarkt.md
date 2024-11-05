@@ -1,7 +1,6 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2020-01-10
 image:
   src: /files/blog/2019/12/oekostromreport_2020.png
   title: Ökostrombericht 2020
@@ -13,9 +12,9 @@ tags:
 - Open Data
 type: post
 layout: post
-published: true
 featured: blue
-title: "Ökostrombericht 2020: Mehr Transparenz für den Strommarkt"
+title: 'Ökostrombericht 2020: Mehr Transparenz für den Strommarkt'
+publishedDate: 2020-01-10
 ---
 
 Seit einigen Monaten arbeitet das Projekt [Umweltdatenschule](https://datenschule.de/projekte/umweltdatenschule/) gemeinsam mit der Umweltorganisation [ROBIN WOOD](https://www.robinwood.de/) an der Neuauflage des [Ökostromberichtes 2020, der nun online ist](https://www.robinwood.de/oekostromreport-2020). Mit dem Bericht werden acht von über 1200 Ökostromanbieter empfohlen, die nicht nur ausschließlich Ökostrom vertreiben, sondern auch nahezu keine wirtschaftlichen Verflechtungen zu Unternehmen der Kohle- und Atomenergie aufweisen sowie sich für eine nachhaltige Energiewende engagieren.

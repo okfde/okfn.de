@@ -1,7 +1,6 @@
 ---
 authors:
 - Arne Semsrott
-date: 2020-02-26
 image:
   src: /files/blog/2020/02/frontex-share.png
   title: Frontex
@@ -10,9 +9,9 @@ tags:
 - Frontex
 type: post
 layout: post
-published: true
 featured: blue
-title: "Frontex will 24.000 Euro von FragDenStaat"
+title: Frontex will 24.000 Euro von FragDenStaat
+publishedDate: 2020-02-26
 ---
 
 Eine EU-Behörde, die mit Waffen auf Flüchtlinge schießt. Nach Aussage des Chefs von Frontex [könnte das bald Wirklichkeit werden](https://www.zeit.de/2020/09/fabrice-leggeri-frontex-waffen-grenzwache-eu/komplettansicht). Frontex, die Europäische Grenzpolizei, hat in den vergangenen Jahren einen enormen Machtzuwachs erlebt. Sie hat inzwischen Milliarden Euro zur Verfügung, um sich eigene Flugzeuge, Schiffe und Autos zu kaufen – und darf an EU-Außengrenzen Waffen einsetzen.

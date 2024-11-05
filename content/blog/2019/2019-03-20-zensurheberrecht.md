@@ -2,10 +2,9 @@
 authors:
 - Arne Semsrott
 - Stefan Wehrmeyer
-date: 2019-03-20
 image:
   src: /files/blog/2019/03/abmahnung-blog.jpg
-  title: "Abmahnschreiben von Gleiss Lutz"
+  title: Abmahnschreiben von Gleiss Lutz
   license: CC 0
 tags:
 - Zensurheberrecht
@@ -14,9 +13,9 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Zensurheberrecht: Bundesregierung mahnt uns ab, wir wehren uns"
+title: 'Zensurheberrecht: Bundesregierung mahnt uns ab, wir wehren uns'
 featured: yellow
+publishedDate: 2019-03-20
 ---
 
 [Die Bundesregierung hat FragDenStaat für die Veröffentlichung eines staatlichen Gutachtens zu den Risiken von Glyphosat abgemahnt](https://fragdenstaat.de/zensurheberrecht/). Das zuständige Bundesinstitut für Risikobewertung (BfR), das dem Landwirtschaftsministerium von Julia Klöckner (CDU) untersteht, wirft uns eine Urheberrechtsverletzung vor und fordert von uns die Unterzeichnung einer Unterlassungserklärung.

@@ -1,8 +1,7 @@
 ---
 authors:
 - Dénes Jäger
-date: 2023-06-22
-image: 
+image:
   src: /files/blog/2023/06/knowledgehub-new.png
 tags:
 - Open Data
@@ -11,9 +10,9 @@ tags:
 - Knowledge Hub
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Der Open Data Knowledge Hub ist gelauncht! "
+title: 'Der Open Data Knowledge Hub ist gelauncht! '
+publishedDate: 2023-06-22
 ---
 
 **Braucht es im Jahr 2023 noch einen weiteren Knowledge Hub? Wir glauben ja! Mit dem Projekt [Open Data in der Verwaltung](https://okfn.de/projekte/opendata/) bringen wir uns wieder verstärkt in den Diskurs um eines unserer Kernthemen ein. Das heißt: Expertise zu Open Data aus der Zivilgesellschaft in die Behörden transportieren und öffentlich dokumentieren sowie den Mehrwert von offenen Daten zeigen.**

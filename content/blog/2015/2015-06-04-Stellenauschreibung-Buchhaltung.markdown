@@ -1,6 +1,6 @@
 ---
 author: Kristina Klein
-date: 2015-06-04 14:05
+date: 2015-06-04 14:05:00
 image:
   src: /files/blog/2015/06/images-people-working-office-coffee-9228.jpg
   title: Athmo
@@ -8,9 +8,9 @@ layout: post
 tags:
 - OER
 title: Aushilfe für unsere Buchhaltung auf 450-Euro-Basis gesucht
-
 type: post
 ---
+
 Die Open Knowledge Foundation (e.V.) ist eine der führenden NGOs im Bereich Offene Daten und Freies Wissen in Deutschland. Viele unserer Projekte gelten als Pionierprojekte, unsere Expertise wird von Anbietern wie Nutzern Offener Daten geschätzt und wir sind ein wichtiger Förderer der deutschen Open Data Community. Um unsere Organisation dem gewachsenen Projektportfolio anzupassen, unsere Projektteams weiter schlagkräftig zu halten und die finanzielle Basis dafür zu stabilisieren, suchen wir zum nächstmöglichen Termin eine Aushilfe für unsere Buchhaltung.
 Bewerbung durch Buchführungsbüros oder Multibeschäftigte ist nicht erwünscht. Wir stellen uns als Idealbewerber/in jemanden vor, der die hier ausgeschriebene Tätigkeit als Student/In und/oder während der Elternzeit oder im Vorruhestand oder während der Arbeitssuche zu einer Vollzeittätigkeit ausüben möchte.
 
@@ -38,7 +38,4 @@ Bewerbung durch Buchführungsbüros oder Multibeschäftigte ist nicht erwünscht
 
 Bitte schicke uns Deine Bewerbung per E-Mail an **[kristina.klein@okfn.de](mailto:kristina.klein@okfn.de?subject=Aushilfe Buchhaltung)**, die Dir auch für Rückfragen gern zur Verfügung steht.
 
-<hr>  
-
-
-
+<hr>

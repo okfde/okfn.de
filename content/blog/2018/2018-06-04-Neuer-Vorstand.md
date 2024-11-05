@@ -1,21 +1,18 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2018-06-04
 image:
   src: /files/blog/2018/06/OKF.gif
   title: wave
-  license: 
-  license_url: 
+  license: null
+  license_url: null
 tags:
 - Vorstand
 type: post
 layout: post
 card: true
-published: true
-title: "Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt"
-
-
+title: Neuer Vorstand der Open Knowledge Foundation Deutschland gewählt
+publishedDate: 2018-06-04
 ---
 
 Auf der Mitgliederversammlung des Open Knowledge Foundation Deutschland e.V. (OKF) wurde am 2. Juni 2018 ein neuer Vorstand gewählt.
@@ -32,4 +29,4 @@ Friedrich Lindenberg stand dem Team als stellvertretender Vorstandsvorsitzender 
 
 Sören Auer, Informatiker und Professor für Data Science and Digital Libraries an der Gottfried Wilhelm Leibniz Universität Hannover und Direktor der Technischen Informationsbibliothek in Hannover, hat die OKF unermüdlich mit seiner Expertise in den Bereichen Semantic Web und Offene Daten unterstützt. Die OKF konnte oft von seinen außergewöhnlichen Netzwerkfähigkeiten im akademischen Umfeld profitieren und seine langjährige Erfahrung hat die Organisation in vielen Bereichen gestärkt. Es ist ihm insbesondere zu verdanken, dass die OKF heute auf einem stabilen Fundament steht.
 
-Wir möchten uns ganz herzlich bei Christian, Friedrich und Sören für ihre langjährige Vorstandsarbeit bei der Open Knowledge Foundation Deutschland bedanken. Als Gründungsmitglieder haben sie eine unschätzbare Rolle bei den Erfolgen der heutigen Open Knowledge Foundation Deutschland gespielt. Wir werden ihnen auch in Zukunft eng verbunden bleiben. 
+Wir möchten uns ganz herzlich bei Christian, Friedrich und Sören für ihre langjährige Vorstandsarbeit bei der Open Knowledge Foundation Deutschland bedanken. Als Gründungsmitglieder haben sie eine unschätzbare Rolle bei den Erfolgen der heutigen Open Knowledge Foundation Deutschland gespielt. Wir werden ihnen auch in Zukunft eng verbunden bleiben.

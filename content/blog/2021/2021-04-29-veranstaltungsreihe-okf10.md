@@ -1,12 +1,11 @@
 ---
 authors:
 - Claudia Jach
-date: 2021-04-29
 image:
   src: /files/blog/2021/04/confetti_Photo_by_jason-leung_unsplash.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OKFDE10
 - Community
@@ -15,10 +14,11 @@ tags:
 - Transparenz
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Wir laden ein zu unserer Veranstaltungsreihe. Ein Jahrzehnt OKF – Kritik, Politik und Aktivismus"
+title: Wir laden ein zu unserer Veranstaltungsreihe. Ein Jahrzehnt OKF – Kritik, Politik und Aktivismus
+publishedDate: 2021-04-29
 ---
+
 [10 Jahre OKF](https://okfn.de/anniversary/), das heißt auch, zehn Jahre Kontakte knüpfen, Expertise herausbilden, Konzepte entwickeln und Austausch befördern. All das möchten wir in diesem Sommer in einer Veranstaltungsreihe mit euch zusammen bringen. 
 
 ### Digitale Zivilgesellschaft – dem Schlagwort zum Durchbruch verhelfen

@@ -1,17 +1,16 @@
 ---
 authors:
 - OKFDE
-date: 2024-09-10
-image: 
+image:
   src: /files/blog/2024/Spenden_Erbschaften OKF.png
 tags:
 - Spenden
 - Erbschaften
 type: post
 layout: post
-published: true
 featured: blue
-title: "Spenden und Erbschaften für die OKF"
+title: Spenden und Erbschaften für die OKF
+publishedDate: 2024-09-10
 ---
 
 ## Spenden und Erbschaften

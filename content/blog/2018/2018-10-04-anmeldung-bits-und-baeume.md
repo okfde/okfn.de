@@ -1,11 +1,11 @@
 ---
 authors: OKF
-date: 2018-10-04 09:00
-image: 
+date: 2018-10-04 09:00:00
+image:
   src: /files/blog/2018/schwer-bit.jpg
-  title: 
-  license: ""
-  license_url: ""
+  title: null
+  license: ''
+  license_url: ''
 type: post
 layout: post
 card: true
@@ -13,7 +13,7 @@ tags:
 - konferenz
 - tech
 - nachhaltigkeit
-title: "Anmeldung gestartet: Bits & Bäume – Die Konferenz für Digitalisierung, Tech und Nachhaltigkeit"
+title: 'Anmeldung gestartet: Bits & Bäume – Die Konferenz für Digitalisierung, Tech und Nachhaltigkeit'
 ---
 
 Welche Rolle spielt Nachhaltigkeit für Tech-Communities? Welche ökologischen Chancen stecken in digitalen Anwendungen für Klima- und Ressourcenschutz? Und wie kann Digitalisierung zur nachhaltigen Transformation der Gesellschaft beitragen? Und wie kann die digitale Gesellschaft demokratisch, nachhaltig und gerecht gestaltet werden?

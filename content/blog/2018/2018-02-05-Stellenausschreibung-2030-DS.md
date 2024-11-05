@@ -1,22 +1,19 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2018-02-05
 image:
   src: /files/blog/2015/12/okfdebuero.jpg
   title: OKF Büro
-  license: 
-  license_url: 
+  license: null
+  license_url: null
 tags:
 - Ausschreibung
 - Jobs
 type: post
 layout: post
 card: true
-published: true
-title: "Entwickler*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort) für 2030 Watch und Demokratielabore"
-
-
+title: Entwickler*in bei der Open Knowledge Foundation Deutschland (50% E13/3, ab sofort) für 2030 Watch und Demokratielabore
+publishedDate: 2018-02-05
 ---
 
 <p style="background-color: #fffaed; padding: 50px;">

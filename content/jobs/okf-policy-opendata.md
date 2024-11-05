@@ -4,12 +4,12 @@ authors:
 date: 2022-08-03
 image:
   src: /files/blog/2021/03/Logo_okfde_black_centered.png
-  title:
-  license: 
-  license_url:
-tags:
-published: false
-title: "Die OKF sucht eine:n Projektmanager:in für Policy und Open Data"
+  title: null
+  license: null
+  license_url: null
+tags: null
+title: Die OKF sucht eine:n Projektmanager:in für Policy und Open Data
+draft: 'true'
 ---
 
 Die Open Knowledge Foundation Deutschland (OKF) ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich für offenes Wissen, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär.

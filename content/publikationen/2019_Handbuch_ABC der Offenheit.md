@@ -1,7 +1,6 @@
 ---
 title: ABC der Offenheit
-subtitle: 
-published: false
+subtitle: null
 date: 2019-11-06
 layout: publikation
 image:
@@ -17,8 +16,9 @@ pages: 36
 size: 573 KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
-links: 
-  - url: 
+links:
+- url: null
+draft: 'true'
 ---
 
 Open Data, Open Education, Open Government - Es gibt viele Bereiche, in denen Offenheit gefordert wird. Doch was bedeutet das eigentlich jeweils genau?

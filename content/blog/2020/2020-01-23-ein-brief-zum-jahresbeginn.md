@@ -1,7 +1,6 @@
 ---
 authors:
 - Andreas Pawelke
-date: 2020-01-23
 image:
   src: /files/blog/2020/01/jahresbeginn_2020.jpg
   title: OKF 2020 Ein Brief zum Jahresbeginn
@@ -17,9 +16,9 @@ tags:
 - community
 type: post
 layout: post
-published: true
 featured: blue
-title: "OKF 2020: Ein Brief zum Jahresbeginn"
+title: 'OKF 2020: Ein Brief zum Jahresbeginn'
+publishedDate: 2020-01-23
 ---
 
 Liebe Freund\*innen der OKF,

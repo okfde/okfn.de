@@ -1,11 +1,11 @@
 ---
 authors: Linus
-date: 2018-03-08 09:00
-image: 
+date: 2018-03-08 09:00:00
+image:
   src: /files/blog/2018/03/blog-linus.jpg
-  title: 
-  license: "CC-BY-4.0, Demokratielabore, Foto: Leonard Wolf"
-  license_url: "https://creativecommons.org/licenses/by/4.0/"
+  title: null
+  license: 'CC-BY-4.0, Demokratielabore, Foto: Leonard Wolf'
+  license_url: https://creativecommons.org/licenses/by/4.0/
 type: post
 layout: post
 card: true
@@ -13,8 +13,9 @@ tags:
 - demokratie
 - praktikum
 - digitale bildung
-title: "Mein Praktikum bei den Demokratielaboren"
+title: Mein Praktikum bei den Demokratielaboren
 ---
+
 Ich bin Linus. Ich bin 14 Jahre alt und gehe in die 9. Klasse. Ich besuche eine Gemeinschaftsschule in Berlin, und mache zurzeit mein dreiwöchiges Praktikum bei den Demokratielaboren der Open Knowledge Foundation. Während des Praktikums schreibe ich diesen Blogpost über die Demokratielabore und meine Aufgaben dort. 
 
 ## Was sind die Demokratielabore?

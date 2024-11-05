@@ -1,19 +1,18 @@
 ---
 authors:
 - OKF
-date: 2019-12-09
 image:
   src: /files/blog/2019/06/team-foto.jpg
   title: Das Team der OKF
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Vorstand
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Die Zukunft einer impulsgebenden Organisation im Vorstand aktiv mitgestalten!"
+title: Die Zukunft einer impulsgebenden Organisation im Vorstand aktiv mitgestalten!
+publishedDate: 2019-12-09
 ---
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin. Seit 2011 sind wir maßgeblicher Motor für den selbstbestimmten Umgang mit Technologie und Daten, für Transparenz und Rechenschaft öffentlicher Institutionen und für politische Teilhabe und eine aktive Zivilgesellschaft.
@@ -68,5 +67,3 @@ Wenn Dich diese Herausforderungen reizen, freuen wir uns, mehr von Dir zu hören
 3. Falls beiderseits Interesse besteht, wollen wir Dich als Kandidat*in der Mitgliederversammlung zur Wahl stellen. Deren Votum ist letztlich bindend. 
 
 Wir freuen uns auf Deine Bewerbung!
-
-

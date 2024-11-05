@@ -1,10 +1,9 @@
 ---
-authors: 
+authors:
 - Michael Peters
-date: 2019-04-01
-image: 
+image:
   src: /files/blog/2019/auftakt-ogpde-19.jpg
-  title: "OGP Auftakt Workshop"
+  title: OGP Auftakt Workshop
   license: CC 0
 tags:
 - Open Government
@@ -13,9 +12,9 @@ tags:
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Beteiligt euch jetzt: Online Konsultation Open Government"
+title: 'Beteiligt euch jetzt: Online Konsultation Open Government'
+publishedDate: 2019-04-01
 ---
 
 Die Online Konsultation der Bundesregierung zum 2. Nationalen Aktionsplan im Rahmen der Open Government Partnership ist offiziell gestartet. Hier können Bürgerinnen und Bürger Vorschläge einreichen, welche die Bundesregierung und Verwaltung offener, transparenter und partizipativer gestalten und damit die Umsetzung von Open Government in Deutschland voranbringen.

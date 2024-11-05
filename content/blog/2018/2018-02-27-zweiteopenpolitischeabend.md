@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2018-02-27 13:00:00
 image:
   src: /files/blog/2018/02/berlinmydata.png
 tags:
@@ -9,8 +8,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Der zweite openpolitische Abend: MyData in Berlin mit Antti \"Jogi\" Poikola und Nicola Jentzsch "
+title: 'Der zweite openpolitische Abend: MyData in Berlin mit Antti "Jogi" Poikola und Nicola Jentzsch '
+publishedDate: 2018-02-27 13:00:00
 ---
 
 Wir freuen uns sehr, euch alle zu unserem zweiten openpolitischen Abend einzuladen!

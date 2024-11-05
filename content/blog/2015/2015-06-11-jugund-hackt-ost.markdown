@@ -1,6 +1,6 @@
 ---
 author: Paula Glaser
-date: 2015-06-09 10:00
+date: 2015-06-09 10:00:00
 image:
   src: /files/blog/2015/06/17987867593_a11540c288_k.jpg
   title: Logo Entwicklungsbarometer
@@ -8,9 +8,7 @@ layout: post
 tags:
 - OER
 title: Schaukeln für Freifunk und Katzenbilder für Internetschönheit - Das war Hack your City meets Jugend hackt Ost
-
 type: post
-
 ---
 
 Schaukeln für Freifunk und den Umweltschutz, Katzenbilder für Internetschönheit und gegen staatliche Zensur - bei Hack your City meets Jugend hackt Ost sind am Wochenende wieder großartige Projekte entstanden, die auch vom Publikum bei der Präsentation am Sonntag begeistert gefeiert wurden.
@@ -31,4 +29,4 @@ Wir, als  Organisator/innen, freuen uns, endlich dem großen Wunsch unserer Teil
 
 Alle Projekte vom Wochenende sind <a href="http://hackdash.org/dashboards/jhost2015">hier</a> zu finden, alle Fotos <a href="https://www.flickr.com/photos/okfde/sets/72157651802543473">hier</a>.
 
-Die <a href="https://www.youtube.com/watch?v=wJ9G2wxTD7o">Aufzeichnung der Abschlußpräsentation</a> ist sehr zu empfehlen - wie <a href="https://twitter.com/a_ka_es/status/607491819191062528">@a_ka_es</a> ganz auf unserer Linie von der Veranstaltung twittert: <a href="https://twitter.com/a_ka_es/status/607491819191062528">https://twitter.com/a_ka_es/status/607491819191062528</a> 
+Die <a href="https://www.youtube.com/watch?v=wJ9G2wxTD7o">Aufzeichnung der Abschlußpräsentation</a> ist sehr zu empfehlen - wie <a href="https://twitter.com/a_ka_es/status/607491819191062528">@a_ka_es</a> ganz auf unserer Linie von der Veranstaltung twittert: <a href="https://twitter.com/a_ka_es/status/607491819191062528">https://twitter.com/a_ka_es/status/607491819191062528</a>

@@ -1,11 +1,11 @@
 ---
 authors: Michael Peters
-date: 2018-02-22 10:00
-image: 
+date: 2018-02-22 10:00:00
+image:
   src: /files/blog/2017/12/offener-haushalt.png
-  title: Offenerhaushalt.de 
-  license: 
-  license_url: 
+  title: Offenerhaushalt.de
+  license: null
+  license_url: null
 type: post
 layout: post
 card: true
@@ -13,7 +13,7 @@ tags:
 - open data
 - transparenz
 - offenerhaushalt
-title: "Finanztransparenz: Informationsfreiheit bleibt ein Problem"
+title: 'Finanztransparenz: Informationsfreiheit bleibt ein Problem'
 ---
 
 Auf [OffenerHaushalt.de](https://offenerhaushalt.de/) können Bürger die Verwendung von Steuergeldern transparent nachvollziehen. Das Open-Source Projekt ermöglicht der Zivilgesellschaft Haushaltsdaten selbständig zu visualisieren und für öffentliche Rechenschaftslegung zu nutzen. 
@@ -35,5 +35,3 @@ Wir setzen uns mit OffenerHaushalt.de dafür ein, das öffentliche Daten offen g
 [Mailingliste](https://lists.okfn.org/mailman/listinfo/offener-haushalt)
 
 [Twitter](https://twitter.com/offenerhaushalt)
-
-

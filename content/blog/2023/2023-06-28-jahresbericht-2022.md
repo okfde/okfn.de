@@ -1,8 +1,7 @@
 ---
 authors:
 - Henriette Litta
-date: 2023-06-28
-image: 
+image:
   src: /files/blog/2023/jahresbericht22-blog.jpg
 tags:
 - OKFDE
@@ -10,11 +9,10 @@ tags:
 - jahresbericht
 type: post
 layout: post
-published: true
 featured: blue
-title: "Das war 2022: Unser Jahresbericht ist jetzt veröffentlicht"
+title: 'Das war 2022: Unser Jahresbericht ist jetzt veröffentlicht'
+publishedDate: 2023-06-28
 ---
-
 
 Wer erinnert sich noch an 2022? Es ist viel passiert, wenn man so zurückschaut! 
 Nach erfolgreich abgeschlossener Wirtschaftsprüfung findet ihr auf [2022.okfn.de](https://2022.okfn.de/) unseren Jahresbericht online. 

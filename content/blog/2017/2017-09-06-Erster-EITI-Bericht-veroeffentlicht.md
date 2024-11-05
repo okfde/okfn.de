@@ -1,22 +1,19 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2017-09-06 01:00:00
 image:
   src: /files/blog/2017/09/EITI-abstimmung-09082017.jpg
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open-Data
 - EITI
 type: post
 layout: post
 card: true
-published: true
-title: "Erster deutscher EITI-Bericht veröffentlicht" 
-
-
+title: Erster deutscher EITI-Bericht veröffentlicht
+publishedDate: 2017-09-06 01:00:00
 ---
 
 Am 9. August wurde in der 10. Sitzung der MSG (Multi-Stakerholder-Group) der 1. EITI Bericht einstimmig beschlossen. Wir bedanken uns herzlichst bei den KollegInnen der MSG und den MitarbeiterInnnen des EITI-Sekretariat für eine erfolgreiche jahrelange Zusammenarbeit. Am 23. August wurde nach Oslo verschickt, heute um 16:00 wird er in Berlin präsentiert. Hier ist der [1. Bericht](www.d-eiti.de/wp-content/uploads/2017/08/1_D-EITI_Bericht_-fuer_-2016.pdf).

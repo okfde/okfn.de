@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2018-01-19 02:30:00
 image:
   src: /files/blog/2018/01/eu-flag.jpg
 tags:
@@ -9,11 +8,9 @@ tags:
 - Open data
 type: post
 layout: post
-published: true
 card: true
-title: "Live aus Brüssel: Anhörung zur neuen PSI-Richtlinie" 
-
-
+title: 'Live aus Brüssel: Anhörung zur neuen PSI-Richtlinie'
+publishedDate: 2018-01-19 02:30:00
 ---
 
 Am 19.01.18 fand das Hearing zur neuen PSI-Richtlinie in Brüssel statt. PSI steht für "Public Sector Information". Dabei geht es beispielsweise um die Weiterverwendung offener Daten. Walter Palmetshofer hat an dem Hearing teilnehmen.
@@ -50,4 +47,3 @@ Upcoming eine Zusammenfassung der Statements.
 
 At current implementation speed:
 ![Make your bets.](/files/blog/2018/01/marsvseu.jpg "Close call")
-

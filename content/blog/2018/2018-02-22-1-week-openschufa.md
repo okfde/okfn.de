@@ -1,8 +1,7 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
 - Arne Semsrott
-date: 2018-02-22 08:00
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSchufa
@@ -11,8 +10,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "One week of OpenSchufa - we crack the Schufa!" 
+title: One week of OpenSchufa - we crack the Schufa!
+publishedDate: 2018-02-22 08:00:00
 ---
 
 Last week we launched our newest project [OpenSCHUFA](http://openschufa.de) together with [AlgorithmWatch](https://algorithmwatch.org/de/).<br> 

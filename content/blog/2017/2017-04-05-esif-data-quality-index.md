@@ -2,12 +2,11 @@
 authors:
 - Anna Alberts
 - Michael Peters
-date: 2017-04-04 09:00:00
 image:
   src: /files/blog/2017/03/Subsidystory.png
   title: Subsidystories
   license: CC 0
-  license_url:
+  license_url: null
 tags:
 - EU
 - Open Data
@@ -16,9 +15,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-
-title: "Slovenia Ranks Highest in ESIF Data Quality Index by OpenBudgets.eu."
+title: Slovenia Ranks Highest in ESIF Data Quality Index by OpenBudgets.eu.
+publishedDate: 2017-04-04 09:00:00
 ---
 
 <p>
@@ -78,4 +76,3 @@ The current funding period shows more machine readable data formats and the data
 <p>
 Read the full <a href="http://openbudgets.eu/assets/resources/Report-OpenBudgets-ESIF Data-Quality-Index.pdf">Report</a>.
 </p>
-

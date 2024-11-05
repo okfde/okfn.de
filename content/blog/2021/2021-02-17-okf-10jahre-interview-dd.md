@@ -1,12 +1,11 @@
 ---
 authors:
 - Henriette Litta, Daniel Dietrich
-date: 2021-02-17
 image:
   src: /files/blog/2021/01/happybirthday1.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OKFDE10
 - openknowledge
@@ -14,9 +13,9 @@ tags:
 - zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: yellow
 title: Die OKF wird 10 Jahre alt
+publishedDate: 2021-02-17
 ---
 
 **Am 19. Februar 2011 wurde die “Open Knowledge Foundation Deutschland” in das Berliner Vereinsregister eingetragen. 10 Jahre ist das her. Unseren ersten runden Geburtstag wollen wir nutzen, um in diesem Jahr auf unsere Arbeit zurückzublicken, mit früheren und aktuellen Wegbegleiter:innen zu sprechen und auch nach vorne zu schauen, was zukünftig wichtig sein wird. Und feiern wollen wir auch. Ein bißchen. Im Sommer.**

@@ -1,8 +1,7 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2024-02-03
-image: 
+image:
   src: /files/blog/2024/rc2.JPG
   license: cc by Maximilian Voigt
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -12,10 +11,11 @@ tags:
 - Produkttransparenz
 type: post
 layout: post
-published: true
 featured: blue
-title: "Nach EU-Einigung: Beim Reparaturgesetz sollte DE sich an Frankreich orientieren"
+title: 'Nach EU-Einigung: Beim Reparaturgesetz sollte DE sich an Frankreich orientieren'
+publishedDate: 2024-02-03
 ---
+
 Im März 2023 hat die EU-Kommission neue Regeln zur Förderung von Reparaturen vorgelegt. Seitdem ist die Diskussion um ein Recht auf Reparatur europaweit im vollen Gange.
 
 Im Oktober haben Rat und Parlament sich mit dem Entwurf befasst und ihre eigene Position entwickelt. Nun ist es im Rahmen der Trilog-Verhandlungen gelungen, die unterschiedlichen Perspektiven zusammenzubringen. Die neue Verordnung könnte den Preis für Reparaturen deutlich senken und Praktiken unterbinden, die Reparaturen erschweren oder gar verbieten.
@@ -26,6 +26,4 @@ Das Recht auf Reparatur setzt einen wichtigen Startpunkt, dass Bürger*innen ein
 
 Daher sollte sich die Bundesregierung bei der Schaffung des aktuell geplanten Reparaturgesetztes an Frankreich orientieren, [das die Möglichkeiten von Open Hardware erkannt hat](https://netzpolitik.org/2022/frankreich-selbstgemachte-ersatzteile-aus-dem-3d-drucker/).
 
-In Zusammenarbeit mit der Open Hardware Allianz ist ein [Diskussionspapier](https://open-hardware-allianz.de/assets/files/OHA_Open-Hardware_Circularity.pdf) entstanden, das die Rollen von Hardware in einer auf Kreisläufe ausgereichteten Gesellschaft neu denkt. Die Reparatur ist in dieser nur eine Praktik, die intensiv auf Informationen angewiesen ist. Der auf EU-Ebene erreichte Kompromiss kann nur ein Anfang sein, eine in die Sackgasse geratene Industrie transparenter und nachhaltiger zu gestalten. Open Hardware muss dabei eine wichtige Rolle spielen. 
-
-
+In Zusammenarbeit mit der Open Hardware Allianz ist ein [Diskussionspapier](https://open-hardware-allianz.de/assets/files/OHA_Open-Hardware_Circularity.pdf) entstanden, das die Rollen von Hardware in einer auf Kreisläufe ausgereichteten Gesellschaft neu denkt. Die Reparatur ist in dieser nur eine Praktik, die intensiv auf Informationen angewiesen ist. Der auf EU-Ebene erreichte Kompromiss kann nur ein Anfang sein, eine in die Sackgasse geratene Industrie transparenter und nachhaltiger zu gestalten. Open Hardware muss dabei eine wichtige Rolle spielen.

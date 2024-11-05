@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2018-01-31
 image:
   src: /files/blog/2018/01/scaling-okfde-nahverkehr.png
   title: Verkehrsdings
@@ -13,12 +12,9 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Zentrale Bereitstellung EU-weiter multimodaler Reiseinformationsdienste" 
-
-
+title: Zentrale Bereitstellung EU-weiter multimodaler Reiseinformationsdienste
+publishedDate: 2018-01-31
 ---
-
 
 Am 31.01.18 fand im BMVI ein Dialogforum zur zentralen Bereitstellung EU-weiter multimodaler Reiseinformationsdienste statt.
 Hintergrund dafür ist die [delegierte Verordnung (EU) Nr. 2017/1926](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1926)

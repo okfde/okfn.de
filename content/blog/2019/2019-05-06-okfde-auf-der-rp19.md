@@ -1,10 +1,9 @@
 ---
-authors: 
+authors:
 - OKFDE
-date: 2019-05-06
 image:
   src: /files/blog/2019/05/rp19_fyi2.jpg
-  title: re:publica 2019  
+  title: re:publica 2019
   license: CC-BY-SA
   license_url: https://creativecommons.org/licenses/by-sa/2.0/
 tags:
@@ -12,8 +11,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "OKFDE auf der re:publica 2019" 
+title: OKFDE auf der re:publica 2019
+publishedDate: 2019-05-06
 ---
 
 ## [tl;dr](https://19.re-publica.com/de/page/tldr): kurze Übersicht 
@@ -35,4 +34,3 @@ Mit 11 Beiträgen war die OKF in diesem Jahr vertreten. Vom traditionellen “St
 * [citylab Vorstellung - Adriana Groh & Benjamin Seibel](https://19.re-publica.com/en/session/citylab-berlin-vorstellung)
 * [openschufa - Lea Pfau & Patrick Stotz](https://19.re-publica.com/en/session/openschufa-resultate)
 * [Manifesto for technological sovereignty and digital rights for cities - Francesa Bria, Katalin Gennburg & Walter Palmetshofer](https://19.re-publica.com/en/session/manifesto-technological-sovereignty-digital-rights-cities)
-

@@ -1,12 +1,11 @@
 ---
 authors:
 - Judith Doleschal
-date: 2021-08-05
 image:
   src: /files/blog/2021/08/online-talkrunde-2-julia-stefan-freiheit.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OKFDE10
 - Community
@@ -14,10 +13,11 @@ tags:
 - Informationsfreiheit
 type: post
 layout: post
-published: true
 featured: blue
-title: "Von der ersten Anfrage bis zur großen Enthüllung - zwei Perspektiven auf 10 Jahre Informationsfreiheit"
+title: Von der ersten Anfrage bis zur großen Enthüllung - zwei Perspektiven auf 10 Jahre Informationsfreiheit
+publishedDate: 2021-08-05
 ---
+
 Unser Veranstaltungsreihe im Rahmen des [10. Geburtstags der OKF](https://okfn.de/anniversary/) ist am 20. Juli 2021 in die nächste Runde gegangen. Dieses Mal haben sich Felix Reda und Stefan Wehrmeyer über Informationsfreiheit ausgetauscht.
 
 Informationsfreiheit spielt schon seit Gründung in der OKF eine wichtige Rolle, denn [FragDenStaat.de](https://fragdenstaat.de) – die Plattform für Informationsfreiheit – wird dieses Jahr ebenfalls 10 Jahre alt und war somit von Anfang an mit dabei. Stefan erzählt, wie er 2011 als Softwareentwickler nach guten Civic Tech-Anwendungsfällen gesucht und bei befreundeten internationalen Organisationen das Thema entdeckt hat. Behörden zur Herausgabe öffentlicher Informationen zwingen, gibt es dafür auch eine rechtliche Grundlage in Deutschland? Schnell hat sich gezeigt, dass ein komplexes Bundes-Informationsfreiheitsgesetz (IFG) und viele zusätzliche Spezial- und Ländergesetze eine neue eigene Plattform erforderlich machen.

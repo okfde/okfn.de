@@ -1,16 +1,15 @@
 ---
 authors:
 - OKFDE
-date: 2024-10-15
-image: 
+image:
   src: /files/blog/2024/2024-Vorstand.png
 tags:
 - Vorstand
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Neuwahl des Vorstands - Pressemitteilung"
+title: Neuwahl des Vorstands - Pressemitteilung
+publishedDate: 2024-10-15
 ---
 
 ## Neuer Vorstand gewählt

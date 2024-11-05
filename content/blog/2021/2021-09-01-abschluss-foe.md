@@ -1,21 +1,21 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2021-09-01
 image:
   src: /files/blog/2021/09/foe-abschluss.jpeg
   title: Carla Cargo Drawing
   license: CC-BY 4.0 FOE21
-  license_url: 
+  license_url: null
 tags:
 - Open Education
 - Bildungspolitik
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Mach mit: für transparente und offene Politikgestaltung"
+title: 'Mach mit: für transparente und offene Politikgestaltung'
+publishedDate: 2021-09-01
 ---
+
 Mit dem vierten [Forum Open Education](https://education.forum-open.de) geht die über vier Jahre gewachsene Veranstaltung zu Ende. Begonnen als Paneldiskussion ist daraus ein über fünf Monate verlaufendes Beteiligungsprogramm entstanden, durch das Abgeordnete und Aktivist\*en intensiv zusammenarbeiten. Die Teilnehmenden diskutieren Positionen, Ideen und entwickeln gemeinsame Konzepte. In diesem Jahr waren es folgende Themen:
 
 * **[Bildungsbenachteiligungen erfassen und strukturiert angehen](https://education.forum-open.de/2021/groups/fg1.html)** \

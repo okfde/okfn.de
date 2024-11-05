@@ -2,10 +2,9 @@
 authors:
 - Arne Semsrott
 - Stefan Wehrmeyer
-date: 2019-04-02
 image:
   src: /files/blog/2019/03/abmahnung-blog.jpg
-  title: "Abmahnschreiben von Gleiss Lutz"
+  title: Abmahnschreiben von Gleiss Lutz
   license: CC 0
 tags:
 - Zensurheberrecht
@@ -15,9 +14,10 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Copyright Censorship: Cologne Court orders us to take down Glyphosate Report (Update)"
+title: 'Copyright Censorship: Cologne Court orders us to take down Glyphosate Report (Update)'
+publishedDate: 2019-04-02
 ---
+
 The Cologne Regional Court has issued an injunction ordering FragDenStaat to depublish a glyphosate report from the Federal Institute for Risk Assessment. The Federal Institute that belongs to Julia Klöckner’s Agriculture Ministry had already sent us a cease-and-desist letter.
 
 The glyphosate report was financed by the state and written by civil servants. The fact that copyright is being misused as a censorship right is an attack on freedom of the press! If necessary, we will take the case to the European Court of Justice.

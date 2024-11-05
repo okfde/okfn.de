@@ -1,12 +1,11 @@
 ---
 authors:
 - Miles Heekeren
-date: 2017-04-05 01:00:00
 image:
   src: /files/blog/2017/04/open-data-blogbild.jpg
-  title: 
-  license: 
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Praktikant
 - Open Data
@@ -14,12 +13,9 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-
-title: "Open Data aus Sicht eines 14-Jährigen"
+title: Open Data aus Sicht eines 14-Jährigen
+publishedDate: 2017-04-05 01:00:00
 ---
-
-
 
 <h1> Wer bin ich ? </h1>
 
@@ -165,4 +161,3 @@ Warum Pünktlichkeit wichtig ist.
 Die Seite <a href="https://w3schools.com">w3schools.com</a> hilft sehr gut, wenn man zum ersten Mal Html benutzt.
 Außerdem konnte ich mich an ein Raster von der Okf halten, dies half mir auch sehr gut.
 Ich habe meine Markdown Datei mit <a href="http://dillinger.io/">dillinger.io</a> geschrieben, die Website ist sehr gut, wenn man kein extra Programm zum schreiben des Html Codes runterladen möchte, außerdem ist Sie sehr überischtlich aufgebaut.
-

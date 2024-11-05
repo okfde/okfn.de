@@ -2,18 +2,17 @@
 authors:
 - Christina Willems
 - Henriette Litta
-date: 2023-08-29
 image:
   src: /files/blog/2023/Sanduhr_PM_Halbzeitkritik.jpg
-  title: Halb abgelaufene Sanduhr 
+  title: Halb abgelaufene Sanduhr
 tags:
 - Pressemitteilung
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Halbzeit für die Ampel: Danke für die schönen Worte, lasst endlich Taten sprechen!"
+title: 'Halbzeit für die Ampel: Danke für die schönen Worte, lasst endlich Taten sprechen!'
+publishedDate: 2023-08-29
 ---
 
 **Pressemitteilung**
@@ -65,6 +64,4 @@ Eine Übersicht aller beteiligten Organisationen findet sich auf der Webseite de
 
 +++
 
-Pressekontakt: presse@okfn.de 
-
-
+Pressekontakt: presse@okfn.de

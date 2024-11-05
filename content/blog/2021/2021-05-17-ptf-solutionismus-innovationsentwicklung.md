@@ -1,22 +1,22 @@
 ---
 authors:
-- 
-date: 2021-05-17
+- null
 image:
   src: /files/blog/2021/05/Copy of PrototypeFund_twitter-headerNEU.png
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Prototype Fund
 - Policy
 - Positionen
 type: post
 layout: post
-published: true
 featured: blue
-title: "Vielleicht hilft eine App? – Prototype Fund kritisiert Solutionismus in der Innovationsentwicklung"
+title: Vielleicht hilft eine App? – Prototype Fund kritisiert Solutionismus in der Innovationsentwicklung
+publishedDate: 2021-05-17
 ---
+
 **Pressemitteilung**
 
 **Berlin, 17.05.2021**
@@ -38,4 +38,3 @@ Diese Bedeutung von Technologien sollte bereits vor ihrer Entstehung analysiert 
 **+++**
 
 **Für weitere Informationen steht Patricia Leu vom Prototype Fund zur Verfügung: presse@prototypefund.de**
-

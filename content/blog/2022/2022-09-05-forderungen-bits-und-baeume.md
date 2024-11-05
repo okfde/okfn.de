@@ -1,8 +1,7 @@
 ---
 authors:
 - Bits & Bäume
-date: 2022-09-05
-image: 
+image:
   src: /files/blog/2022/03/B&B Logo mit Schrift.jpg
 tags:
 - Bits & Bäume
@@ -10,9 +9,9 @@ tags:
 - Policy
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Bündnis fordert von Politik: Digitalisierung muss sozial-ökologischem Wandel dienen"
+title: 'Bündnis fordert von Politik: Digitalisierung muss sozial-ökologischem Wandel dienen'
+publishedDate: 2022-09-05
 ---
 
 **Pressemitteilung**
@@ -51,4 +50,4 @@ Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt (DBU)
 
 **Ticketverkauf:** https://events.fairetickets.de/gedlv/
 
-**E-Mail*:** presse@bits-und-baeume.org 
+**E-Mail*:** presse@bits-und-baeume.org

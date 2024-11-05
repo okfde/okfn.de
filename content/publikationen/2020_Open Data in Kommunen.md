@@ -1,13 +1,11 @@
 ---
 title: Handbuch Open Data in Kommunen
-subtitle: 
-published: true
-date: 2020-03-16
+subtitle: null
 layout: publikation
 image:
   src: /files/images/Handbuch2.jpg
-  license: 
-  license_url:
+  license: null
+  license_url: null
 kategorien: Handbücher
 categories: handbooks
 people:
@@ -18,7 +16,8 @@ pages: 20
 size: 622KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
-links: 
+links: null
+publishedDate: 2020-03-16
 ---
 
-Dieses Handbuch bietet einen Überblick, was unter Open Data in Kommunen (offenen Verwaltungsdaten) zu verstehen ist, skizziert Argumente für Open Data aus Sicht der Verwaltung, der Bürger:innen und der Wirtschaft und veranschaulicht Anwendungsbeispiele für offene Daten.  
+Dieses Handbuch bietet einen Überblick, was unter Open Data in Kommunen (offenen Verwaltungsdaten) zu verstehen ist, skizziert Argumente für Open Data aus Sicht der Verwaltung, der Bürger:innen und der Wirtschaft und veranschaulicht Anwendungsbeispiele für offene Daten.

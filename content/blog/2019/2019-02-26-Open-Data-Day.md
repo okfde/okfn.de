@@ -1,20 +1,19 @@
 ---
-authors: 
+authors:
 - Michael Peters
-date: 2019-02-25
 image:
   src: /files/blog/2019/odd-karlsruhe.jpg
-  title: "ODD Karlsruhe"
-  license:
-  license_url:
+  title: ODD Karlsruhe
+  license: null
+  license_url: null
 tags:
 - Open Data
 - Zivilgesellschaft
 type: post
 layout: post
 card: true
-published: true
-title: "Der Open Data Day 2019"
+title: Der Open Data Day 2019
+publishedDate: 2019-02-25
 ---
 
 Am Samstag, 2. März 2019, findet weltweit der Open Data Day statt. Weltweit wird dieser von Aktivist*innen auf der ganzen Welt genutzt, um auf die Bedeutung offener Daten hinzuweisen. Auch in diesem Jahr organisieren zahlreiche Ehrenamtliche in den Open Knowledge Labs unseres Netzwerks Code for Germany Veranstaltungen rund um offene Daten.

@@ -1,19 +1,19 @@
 ---
 authors:
 - Michael Peters
-date: 2019-11-12
 image:
   src: /files/blog/2019/11/reichstag-juergen-matern.jpg
-  title: "Reichstag"
+  title: Reichstag
   license: CC BY-SA 3.0
   license_url: https://creativecommons.org/licenses/by-sa/3.0
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Is Germany ready for the OGP Steering Committee?"
+title: Is Germany ready for the OGP Steering Committee?
+publishedDate: 2019-11-12
 ---
+
 ### A critical review of the 2nd national action plan
 
 In October 2019 Germany is officially joining OGP’s steering committee, together with Indonesia. However, after the release of the second national action plan, the steering committee seems like premature praise. Or what us Germans would call it: Vorschusslorbeeren, which literally translates to receiving a roman laurel — before you’ve won the competition.

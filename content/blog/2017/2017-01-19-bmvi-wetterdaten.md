@@ -1,19 +1,18 @@
 ---
 authors:
 - Arne Semsrott
-date: "2017-01-19 14:00:00"
+date: 2017-01-19 14:00:00
 image:
   src: /files/blog/2017/01/lightning.jpg
-  title:
+  title: null
   license: <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>
 type: post
 layout: post
 card: true
 tags:
-- "BMVI"
-title: "Pressemitteilung statt Offenheit: Open Government ist mehr als nur Open Data"
+- BMVI
+title: 'Pressemitteilung statt Offenheit: Open Government ist mehr als nur Open Data'
 ---
-
 
 Das Bundesverkehrsministerium (BMVI) hat gestern [mitgeteilt](https://www.bmvi.de/SharedDocs/DE/Pressemitteilungen/2017/006-dobrindt-dwd-gesetz.html), dass es amtliche Wetterdaten des Deutschen Wetterdienstes zur gebührenfreien Nutzung für die Öffentlichkeit freigeben will. Minister Dobrindt freut sich laut Mitteilung, dass ein “einzigartiger Datenschatz” geöffnet werde. Anscheinend hat das Bundeskabinett gestern einem Entwurf für die Änderung des [DWD-Gesetzes](https://www.gesetze-im-internet.de/dwdg/) zugestimmt. 
 

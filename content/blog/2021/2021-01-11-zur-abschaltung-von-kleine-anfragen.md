@@ -1,7 +1,6 @@
 ---
 authors:
 - Maximilian Richt
-date: 2021-01-11
 image:
   src: /files/projects/KleineAnfragen_Header.png
   title: kleineAnfragen
@@ -12,9 +11,9 @@ tags:
 - Open Government
 type: post
 layout: post
-published: true
 featured: blue
-title: "Zur Abschaltung von kleineAnfragen.de"
+title: Zur Abschaltung von kleineAnfragen.de
+publishedDate: 2021-01-11
 ---
 
 Zum 31.12.2020 wurde [kleineAnfragen.de](https://kleineAnfragen.de) abgeschaltet. Das haben wir schon im Mai 2019 angekündigt. Denn nach mehr als 5 Jahren Betrieb ist die Datensituation der Parlamente kein Stück besser geworden. Was jetzt?

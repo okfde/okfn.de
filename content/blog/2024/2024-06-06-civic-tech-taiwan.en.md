@@ -1,8 +1,7 @@
 ---
-authors: 
+authors:
 - Sonja Fischbauer
-date: 2024-06-06
-image: 
+image:
   src: /files/blog/2024/2024-06-taipei-skyline.jpg
   license: CC-BY SA 4.0
   license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.de
@@ -12,10 +11,11 @@ tags:
 - Community
 type: post
 layout: post
-published: true
 featured: blue
-title: "From Taipei to Berlin: How Civic Tech in Taiwan Inspires Digital Democracy"
+title: 'From Taipei to Berlin: How Civic Tech in Taiwan Inspires Digital Democracy'
+publishedDate: 2024-06-06
 ---
+
 Last month, we had the chance to learn more about the civic tech and open source scene in Taiwan and to exchange ideas with Taiwanese activists. The country is a model in the field of digital democracy with some success stories in the collaboration between government and civil society. Seven years ago, we reported on our first [visit to Taiwan](https://codefor.de/blog/open-communities/) as part of an exchange program by Code for All.
 
 In the international civic tech network, g0v is the Taiwanese counterpart to Code for Germany. The organization g0v is the Taiwanese counterpart to Code for Germany in Taiwan, g0v (pronounced “gov-zero”). Following the hands-on principle, the community develops open source technologies and civic tech projects for democratic participation. A well-known early project is the vTaiwan platform, which allows people to actively participate in legislation. The g0v hackathons take place every two months and each have 100 participants to this day.

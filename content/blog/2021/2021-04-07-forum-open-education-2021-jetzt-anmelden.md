@@ -1,21 +1,21 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2021-04-07
 image:
   src: /files/blog/2020/10/foe_2020.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open Education
 - Bildungspolitik
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Forum Open Education: jetzt anmelden & Bildungspolitik mitgestalten"
+title: 'Forum Open Education: jetzt anmelden & Bildungspolitik mitgestalten'
+publishedDate: 2021-04-07
 ---
+
 Es muss politischer Anspruch sein, Bildung offen, partizipativ und demokratisch zu gestalten. Bildungspolitische Strategien entstehen allerdings häufig hinter verschlossenen Türen. Die Perspektive der Praxis findet zu selten Beachtung im politischen Diskurs. Politik und Praxis können und wollen mehr voneinander profitieren.
 
 Das „Forum Open Education“ schafft eine Vertrauensbasis, indem es zu einem Arbeitsprozess auf Augenhöhe einlädt. Es zielt darauf ab, die Zusammenarbeit zwischen Politik, Praxis und Zivilgesellschaft dauerhaft zu stärken. Der Prozess ist darauf angelegt, dass politische Entscheidungstragende sowie politisch interessierte und engagierte Bildungsexpertinnen und -experten gemeinsam Einschätzungen, Strategien und konkrete Handlungsempfehlungen für zeitgemäße Bildung erarbeiten.

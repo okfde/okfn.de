@@ -1,20 +1,18 @@
 ---
-authors: 
+authors:
 - Andreas Pawelke
-date: 2019-04-04
-image: 
+image:
   src: /files/blog/2019/data-types.png
-  title: "Data Types"
+  title: Data Types
   license: CC 0
 tags:
 - Data Philantropy
 - Privacy
-
 type: post
 layout: post
 card: true
-published: true
-title: "Daten für alle - aber wie?"
+title: Daten für alle - aber wie?
+publishedDate: 2019-04-04
 ---
 
 Mit ihrem Daten-für-alle-Vorschlag, also einer gesetzlichen Pflicht zum Teilen von Daten, [die insbesondere für die Tech-Riesen gelten soll](https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-die-tech-riesen-des-silicon-valleys-gefaehrden-den-fairen-wettbewerb/22900656.html), hat die SPD eine wichtige und längst überfällige Debatte über den Wert von Unternehmensdaten angestoßen. Diese beschränkt sich bislang jedoch wahlweise auf die [Sinnhaftigkeit einer allgemeinen gesetzlichen Verpflichtung](https://twitter.com/St_Heumann/status/1101380946220208129), die [technische Machbarkeit einer vollständigen Anonymisierung](https://www.stiftung-nv.de/de/publikation/daten-fuer-alle-innovation-fuer-wenige) zum Schutz persönlicher Daten oder die rechtlichen [Einschränkungen zur Datenweitergabe durch die europäische Datenschutzgrundverordnung](https://www.gq-magazin.de/auto-technik/article/daten-fuer-alle-warum-die-digitale-enteignung-von-google-und-facebook-nichts-bringt).
@@ -52,6 +50,4 @@ Ein Mehr an Klarheit und Struktur in den Begriffsdefinitionen, Zielen und Ansät
 
 Die Komplexität des Themas gekoppelt mit der begrenzten Erfahrung in der praktischen Umsetzung schreien jedenfalls förmlich nach einem [experimentellen und iterativen Vorgehen](https://www.nesta.org.uk/feature/innovation-methods/anticipatory-regulation/), das die notwendigen rechtlichen und datenschutztechnischen Rahmenbedingungen bereitstellt, um unterschiedliche Ansätze zu testen. Statt vorzugeben man werde die genaue (regulatorische) Antwort auf eine solch komplexe Herausforderung schon finden wenn man nur lange genug debattiert und Wissenschaftler sich darüber die Köpfe zerbrechen, ist es Zeit die Realität anzuerkennen: Weder wird es [eine einzige Lösung](https://www.cigionline.org/articles/reclaiming-data-trusts) geben, noch ist es möglich [jede potentielle Nutzung der Daten (gewollt oder ungewollt)](https://www.thestar.com/opinion/contributors/2019/02/28/secure-torontos-smart-neighbourhood-in-a-trust.html) vorherzusehen und zu regulieren.
 
-[Andere](https://www.gov.uk/government/news/digital-revolution-to-use-the-power-of-data-to-combat-illegal-wildlife-trade-and-reduce-food-waste) haben das bereits erkannt und erste Pilotprojekte gestartet, um genau jene praktischen Erfahrungen zu machen, die für eine effektive Regelsetzung zwingend notwendig sind. Die SPD wäre gut darin beraten, ein ähnliches Vorgehen zu wählen. Und vielleicht findet die Partei dadurch ja doch eine Möglichkeit, die Marktmacht der großen Tech-Unternehmen zu begrenzen. Dazu die [Ökonomin Mariana Mazzucato](https://www.technologyreview.com/s/611489/lets-make-private-data-into-a-public-good/%0A): "There is indeed no reason why the public’s data should not be owned by a public repository that sells the data to the tech giants, rather than vice versa.” 
-
-
+[Andere](https://www.gov.uk/government/news/digital-revolution-to-use-the-power-of-data-to-combat-illegal-wildlife-trade-and-reduce-food-waste) haben das bereits erkannt und erste Pilotprojekte gestartet, um genau jene praktischen Erfahrungen zu machen, die für eine effektive Regelsetzung zwingend notwendig sind. Die SPD wäre gut darin beraten, ein ähnliches Vorgehen zu wählen. Und vielleicht findet die Partei dadurch ja doch eine Möglichkeit, die Marktmacht der großen Tech-Unternehmen zu begrenzen. Dazu die [Ökonomin Mariana Mazzucato](https://www.technologyreview.com/s/611489/lets-make-private-data-into-a-public-good/%0A): "There is indeed no reason why the public’s data should not be owned by a public repository that sells the data to the tech giants, rather than vice versa.”

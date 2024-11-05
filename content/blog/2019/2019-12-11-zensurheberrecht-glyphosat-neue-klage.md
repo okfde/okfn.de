@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
-date: 2019-12-11
 image:
   src: /files/blog/2019/12/glyphosat.jpg
   title: Zensurheberrecht
@@ -11,9 +10,9 @@ tags:
 - Zensurheberrecht
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Zensurheberrecht: Bundesregierung verklagt uns erneut wegen Glyphosat-Gutachten"
+title: 'Zensurheberrecht: Bundesregierung verklagt uns erneut wegen Glyphosat-Gutachten'
+publishedDate: 2019-12-11
 ---
 
 [Über 100.000 Euro](https://fragdenstaat.de/blog/2019/06/03/bmel-interne-doks/) hat das Bundesinstitut für Risikobewertung (BfR) für seine Rechtsstreite schon ausgegeben. Mit seiner einstweiligen Verfügung gegen uns ist es im Sommer [schon vor dem Landgericht Köln gescheitert](https://fragdenstaat.de/blog/2019/07/04/glyphosat-gutachten-hier-ist-es/). Aber jetzt verklagt das BfR von Bundeslandwirtschaftsministerin Julia Klöckner (CDU) uns erneut.

@@ -2,8 +2,7 @@
 authors:
 - Christina Willems
 - Henriette Litta
-date: 2023-06-21
-image: 
+image:
   src: /files/blog/2023/Blogpost_Engangementstrategie.png
 tags:
 - Stellungnahme
@@ -11,9 +10,9 @@ tags:
 - DigitalesEhrenamt
 type: post
 layout: post
-published: true
 featured: blue
-title: "Engagementstrategie des Bundes: Unsere Forderungen für ein starkes digitales Ehrenamt"
+title: 'Engagementstrategie des Bundes: Unsere Forderungen für ein starkes digitales Ehrenamt'
+publishedDate: 2023-06-21
 ---
 
 **Noch in dieser Legislaturperiode soll unter Beteiligung der Zivilgesellschaft eine neue [Engagementstrategie des Bundes](https://www.bmfsfj.de/bmfsfj/themen/engagement-und-gesellschaft/engagement-staerken/engagementstrategie-des-bundes-222072) erarbeitet werden. Die letzte Engagementstrategie stammt noch aus dem Jahr 2010. Es wird also Zeit – denn es hat sich viel getan! Das digitale Ehrenamt ist stark gewachsen und neue Technologien durchdringen mehr und mehr unser Leben. Im Rahmen der Verbändebeteiligung haben wir gemeinsam im [Bündnis F5](https://buendnis-f5.de/) eine Stellungnahme eingereicht. Hier sind unsere zentralen Forderungen:**
@@ -43,4 +42,4 @@ Menschen aller Altersgruppen müssen befähigt werden, sich selbstbestimmt und k
 Die ganze Stellungnahme ist [hier](https://github.com/okfde/okfn.de/blob/5da0a7a476b038ea084ca3d60fc931569cc0e04b/static/files/blog/2023/Stellungnahme_Engagementstrategie_Bu%CC%88ndnisF5.pdf) zu finden. 
 
 
-Auf der Website www.zukunft-des-engagements.de haben Engagierte und zivilgesellschaftliche Akteur:innen die Möglichkeit, durch verschiedene Formate ihre Vorschläge und Ideen einzubringen. Der Beteiligungsprozess wird bis Ende des Jahres 2023 andauern. 
+Auf der Website www.zukunft-des-engagements.de haben Engagierte und zivilgesellschaftliche Akteur:innen die Möglichkeit, durch verschiedene Formate ihre Vorschläge und Ideen einzubringen. Der Beteiligungsprozess wird bis Ende des Jahres 2023 andauern.

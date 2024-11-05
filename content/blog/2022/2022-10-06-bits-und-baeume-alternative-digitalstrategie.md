@@ -1,8 +1,7 @@
 ---
 authors:
 - Bits & Bäume
-date: 2022-10-06
-image: 
+image:
   src: /files/blog/2022/03/B&B Logo mit Schrift.jpg
 tags:
 - Bits & Bäume
@@ -10,9 +9,9 @@ tags:
 - Policy
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Für eine nachhaltige Digitalisierung: 2.500 Teilnehmende auf der Konferenz Bits & Bäume"
+title: 'Für eine nachhaltige Digitalisierung: 2.500 Teilnehmende auf der Konferenz Bits & Bäume'
+publishedDate: 2022-10-06
 ---
 
 **Pressemitteilung**

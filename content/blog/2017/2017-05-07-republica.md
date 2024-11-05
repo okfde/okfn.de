@@ -1,19 +1,18 @@
 ---
 authors:
 - OKF
-date: 2017-05-07 05:00:00
 image:
   src: /files/blog/2017/05/republica17_RGB.jpg
-  title: 
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - republica
 type: post
 layout: post
 card: true
-published: true
-title: "Love out Loud: Smart und Rebel Cities, State of the Open und Geld für Open Source"
+title: 'Love out Loud: Smart und Rebel Cities, State of the Open und Geld für Open Source'
+publishedDate: 2017-05-07 05:00:00
 ---
 
 Die re:publica geht wieder los! Vom 8. bis 10. Mai treffen sich in Berlin wieder Tausende Menschen und diskutieren über alle möglichen Digitalthemen. Wir sind wie jedes Jahr zahlreich vertreten. Zu diesen Gelegenheiten könnt ihr Mitglieder aus unserem Team treffen: 

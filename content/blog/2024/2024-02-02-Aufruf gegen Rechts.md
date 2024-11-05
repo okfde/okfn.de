@@ -1,8 +1,7 @@
 ---
 authors:
 - OKFDE
-date: 2024-02-02
-image: 
+image:
   src: /files/blog/2024-02-Demo Aufurf_Hand in Hand.jpg
 tags:
 - Engangement
@@ -10,9 +9,9 @@ tags:
 - Digitalpolitik
 type: post
 layout: post
-published: true
 featured: blue
-title: "OKF und Bündnis F5 unterstützen Aktionstag gegen Rechtsextremismus und Rassismus"
+title: OKF und Bündnis F5 unterstützen Aktionstag gegen Rechtsextremismus und Rassismus
+publishedDate: 2024-02-02
 ---
 
 **Digitalpolitik für eine starke Demokratie.**
@@ -33,5 +32,3 @@ Wir stehen gemeinsam für eine offene, demokratische, vielfältige und solidaris
 Zum Aufruf des [Bündnis F5](https://buendnis-f5.de/publikationen/2024-02-01-resilientedemokratie)
 
 Weitere Infos findet ihr unter www.gemeinsam-hand-in-hand.org
-
-

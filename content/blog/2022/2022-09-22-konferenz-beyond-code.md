@@ -1,7 +1,6 @@
 ---
 authors:
 - Philip Steffan
-date: 2022-09-22
 image:
   src: /files/blog/2022/09/jugend-hackt-beyond-code.jpeg
 tags:
@@ -10,9 +9,9 @@ tags:
 - KI
 type: post
 layout: post
-published: true
 featured: blue
-title: "Einladung zur Jugendkonferenz „Beyond Code“"
+title: Einladung zur Jugendkonferenz „Beyond Code“
+publishedDate: 2022-09-22
 ---
 
 **Jugend hackt lädt ein zur ersten Jugendkonferenz zu digital literacy, KI und digitaler Verantwortung; vom 17. bis 18. November 2022, in den Technischen Sammlungen Dresden.**

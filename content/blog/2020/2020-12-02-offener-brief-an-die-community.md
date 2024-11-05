@@ -1,20 +1,20 @@
 ---
 authors:
 - AG Community
-date: 2020-12-02
 image:
   src: /files/blog/2020/06/OKF-logo_black.png
   title: OKF Logo
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Community
 type: post
 layout: post
-published: true
 featured: blue
-title: "Offener Brief an die Community"
+title: Offener Brief an die Community
+publishedDate: 2020-12-02
 ---
+
 **Dieser offene Brief richtet sich an die Community des Vereins, besonders an die vielen ehrenamtlich arbeitenden Menschen, die sich im Rahmen von Code for Germany engagieren. Wir nehmen damit Stellung zu den Konflikten und strukturellen Problemen, die es schon länger gibt, die jedoch in diesem Jahr besonders deutlich geworden sind.**
 
 Liebe Mitstreiter\*innen, liebe Engagierte und Unterstützer\*innen, liebe Community!

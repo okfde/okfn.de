@@ -2,22 +2,22 @@
 authors:
 - Vorstand
 - Henriette Litta
-date: 2021-07-15
 image:
   src: /files/blog/2021/07/titelbild_fuer_blog.png
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OKFDE
 - openknowledge
 - jahresbericht
 type: post
 layout: post
-published: true
 featured: blue
-title: "Das war 2020: Unser Jahresbericht ist jetzt veröffentlicht"
+title: 'Das war 2020: Unser Jahresbericht ist jetzt veröffentlicht'
+publishedDate: 2021-07-15
 ---
+
 ### Das letzte Jahr war mal wieder besonders aufregend. Eine kurze Übersicht über 2020 stellen wir euch hier zusammen. Ausführlichere und übersichtlich zusammengestellte Informationen findet ihr in unserem [Jahresbericht 2020](https://2020.okfn.de/).
 
  *   In diesem Jahr eröffnete [Jugend hackt](https://jugendhackt.org/) drei neue Labs in Cottbus, Heilbronn und Heidelberg. Zusammen mit den 2019 gestarteten Pilot-Labs in Fürstenberg und Ulm gibt es damit in fünf deutschen Städten ein regelmäßiges Angebot von Jugend hackt mit Workshops, Vorträgen und offenen Nachmittagen.

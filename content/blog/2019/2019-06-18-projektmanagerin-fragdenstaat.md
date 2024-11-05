@@ -1,12 +1,11 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
-date: 2019-06-18
 image:
   src: /files/jobs/fds1.png
-  title: "FragDenStaat-Logo"
-  license:
-  license_url: 
+  title: FragDenStaat-Logo
+  license: null
+  license_url: null
 tags:
 - FragDenStaat
 - In eigener Sache
@@ -14,9 +13,9 @@ tags:
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Neue Stelle bei FragDenStaat: Wir suchen Projektmanager*in! (75-100%, ab August 2019)"
+title: 'Neue Stelle bei FragDenStaat: Wir suchen Projektmanager*in! (75-100%, ab August 2019)'
+publishedDate: 2019-06-18
 ---
 
 ## Wer wir sind

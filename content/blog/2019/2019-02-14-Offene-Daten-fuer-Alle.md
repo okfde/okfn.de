@@ -1,10 +1,9 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
-date: 2019-02-14
 image:
   src: /files/blog/2019/rollup-offenedatenfueralle.png
-  title: Offene Daten für Alle 
+  title: Offene Daten für Alle
 tags:
 - PSI
 - Policy
@@ -12,9 +11,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Offene Daten für Alle" 
-
+title: Offene Daten für Alle
+publishedDate: 2019-02-14
 ---
 
 Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt,

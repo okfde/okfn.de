@@ -1,20 +1,19 @@
 ---
 authors:
 - Claudia Jach
-date: 2020-06-04
-image: 
+image:
   src: /files/blog/2020/05/Town_Picture_by_john_moeses_bauan_unsplash.jpg
   title: Town_Picture_by_john_moeses_bauan_unsplash.jpg
-  license:
-  license_url:
+  license: null
+  license_url: null
 tags:
 - Code for Germany
 - Veranstaltungen
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Online-Seminar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?"
+title: 'Online-Seminar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?'
+publishedDate: 2020-06-04
 ---
 
 Krisenzeiten legen Mängel und Versäumnisse schonungslos offen. Krisenzeiten machen aber auch einen Raum auf für Kreativität, Kooperation und Partizipation. Eine Zeit, in der neue Lösungen entstehen können.

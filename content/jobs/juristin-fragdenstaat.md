@@ -1,15 +1,15 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
 - Phillip Hofmann
 date: 2020-12-04
 image:
   src: /files/jobs/fds1.png
-  title: "FragDenStaat-Logo"
-  license:
-  license_url: 
-published: false
-title: "FragDenStaat: Wir suchen Volljurist*in! (80-100%, ab Februar 2021)" 
+  title: FragDenStaat-Logo
+  license: null
+  license_url: null
+title: 'FragDenStaat: Wir suchen Volljurist*in! (80-100%, ab Februar 2021)'
+draft: 'true'
 ---
 
 **Für unseren Bereich der strategischen Klagen suchen wir ab Februar des kommenden Jahres zur Verstärkung eine Volljurist\*in für FragDenStaat!**

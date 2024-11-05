@@ -2,10 +2,9 @@
 authors:
 - Katharina Meyer
 - Adriana Groh
-date: 2021-08-27
 image:
   src: /files/blog/2021/08/dependency.png
-  title: 
+  title: null
   license: CC BY-NC 2.5
   license_url: https://creativecommons.org/licenses/by-nc/2.5/
 tags:
@@ -13,9 +12,9 @@ tags:
 - zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
 title: Infrastructure first, Innovation second!
+publishedDate: 2021-08-27
 ---
 
 Verschiedene Arten von Infrastrukturen verbindet, dass sie in der Regel beinahe unsichtbar sind - und deshalb gerne in Vergessenheit geraten. Ob Internet-Kabel auf dem Meeresgrund, die Straßen unter unseren Füßen und Reifen, oder die untersten Schichten eines Technologiestacks - Infrastrukturen wirken im Verborgenen.

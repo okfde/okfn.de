@@ -3,12 +3,12 @@ authors:
 - Patricia Leu
 date: 2023-07-17
 image:
-  src:
-  title:
-  license:
-  license_url:
-published: false
-title: "Ausschreibung: Kommunikation und Projektmanagement für den Prototype Fund"
+  src: null
+  title: null
+  license: null
+  license_url: null
+title: 'Ausschreibung: Kommunikation und Projektmanagement für den Prototype Fund'
+draft: 'true'
 ---
 
 Im Prototype Fund suchen wir eine Person, die unsere Arbeit und Ziele über verschiedene Kanäle kommuniziert. Dabei platzierst du sowohl unsere Inhalte als auch die der geförderten Projekte und hilfst ihnen, sich und ihre Ideen vorzustellen und zu vernetzen.

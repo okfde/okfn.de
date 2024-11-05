@@ -1,6 +1,6 @@
 ---
 author: Fiona Krakenbuerger
-date: 2015-07-20 12:00
+date: 2015-07-20 12:00:00
 image:
   src: /files/blog/2015/07/jobs.jpg
   title: Jobs bei OKFDE
@@ -10,6 +10,7 @@ tags:
 title: Junior Researcher/Journalist für OpenBudgets.EU gesucht
 type: post
 ---
+
 ###  Junior Researcher/Journalist with a strong technical background (Product Owner) in the H2020 EU Project: OpenBudgets.EU
 
 * Part-Time (50%) limited term: 14 months

@@ -1,20 +1,19 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
 - Walter Palmetshofer
-date: 2018-11-28
 image:
   src: /files/blog/2018/11/openschufa.jpg
-  title: 
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OpenSchufa
 type: post
 layout: post
 card: true
-published: true
-title: "OpenSchufa: The first results"
+title: 'OpenSchufa: The first results'
+publishedDate: 2018-11-28
 ---
 
 Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline  have evaluated the anonymous data that we have collected with the help of our "mydata" project [OpenSchufa](https://okfn.de/blog/tags/openschufa/) since this spring.

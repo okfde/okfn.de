@@ -1,17 +1,15 @@
 ---
 authors:
 - Arne Semsrott
-date: 2019-10-08
 image:
   src: /files/blog/2019/10/liste-stift-volksentscheid.jpg
-tags:
-
+tags: null
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Endspurt: Jetzt noch fürs Transparenzgesetz unterschreiben!"
+title: 'Endspurt: Jetzt noch fürs Transparenzgesetz unterschreiben!'
+publishedDate: 2019-10-08
 ---
 
 Noch bis zum 31. Oktober sammeln wir Unterschriften für den Volksentscheid. Bitte ladet euch jetzt die Unterschriftenliste herunter, [sammelt fünf Unterschriften und schickt sie uns](https://volksentscheid-transparenz.de/mitmachen/)!

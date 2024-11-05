@@ -4,12 +4,12 @@ authors:
 date: 2019-08-05
 image:
   src: /files/blog/2019/31632708378_9e627e19eb_z.jpg
-  title: "Sonja und Daniel vom Jugend hackt Programmleitungsteam"
+  title: Sonja und Daniel vom Jugend hackt Programmleitungsteam
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
-tags:
-published: false
-title: "Verstärke das Programmleitungsteam von Jugend hackt (80-100%, Bewerbungsschluss 10.10.2019)"
+tags: null
+title: Verstärke das Programmleitungsteam von Jugend hackt (80-100%, Bewerbungsschluss 10.10.2019)
+draft: 'true'
 ---
 
 [Jugend hackt](https://jugendhackt.org/) ist ein preisgekröntes Förderprogramm für programmier- und making-begeisterte Jugendliche zwischen 12 und 18 Jahren, die “mit Code die Welt verbessern” wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. mit mediale pfade.org - Verein für Medienbildung e.V. 

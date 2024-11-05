@@ -1,14 +1,14 @@
 ---
-authors: 
+authors:
 - Dr. Henriette Litta
 date: 2020-04-28
 image:
   src: /files/blog/2019/06/team-foto.jpg
-  title: "OKF Team"
-  license:
-  license_url:
-published: false
-title: "Neuer Job bei der OKF: Wir suchen eine Assistenz der Geschäftsführung (Vollzeit oder Teilzeit, ab sofort, zunächst befristet auf 1 Jahr)" 
+  title: OKF Team
+  license: null
+  license_url: null
+title: 'Neuer Job bei der OKF: Wir suchen eine Assistenz der Geschäftsführung (Vollzeit oder Teilzeit, ab sofort, zunächst befristet auf 1 Jahr)'
+draft: 'true'
 ---
 
 ## Wer wir sind
@@ -70,5 +70,4 @@ Bitte schicke uns deine Bewerbung (Anschreiben, Lebenslauf) inkl. möglichem Beg
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die generell und auch in unserer Welt unterrepräsentiert sind. 
  
-Die Gespräche finden zeitnah nach Bewerbungsschluss in Berlin statt bzw. remote per Videokonferenz. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden. 
-
+Die Gespräche finden zeitnah nach Bewerbungsschluss in Berlin statt bzw. remote per Videokonferenz. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.

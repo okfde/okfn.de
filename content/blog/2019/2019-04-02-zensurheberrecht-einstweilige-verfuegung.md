@@ -2,10 +2,9 @@
 authors:
 - Arne Semsrott
 - Stefan Wehrmeyer
-date: 2019-04-02
 image:
   src: /files/blog/2019/03/abmahnung-blog.jpg
-  title: "Abmahnschreiben von Gleiss Lutz"
+  title: Abmahnschreiben von Gleiss Lutz
   license: CC 0
 tags:
 - Zensurheberrecht
@@ -14,10 +13,11 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Zensurheberrecht: Landgericht Köln zwingt FragDenStaat, staatliches Glyphosat-Gutachten zu löschen"
+title: 'Zensurheberrecht: Landgericht Köln zwingt FragDenStaat, staatliches Glyphosat-Gutachten zu löschen'
 featured: blue
+publishedDate: 2019-04-02
 ---
+
 Das Landgericht Köln hat FragDenStaat per einstweiliger Verfügung verboten, ein Glyphosat-Gutachten des Bundesinstituts für Risikobewertung zu veröffentlichen. Das staatliche Institut von Landwirtschaftsministerin Julia Klöckner hatte FragDenStaat vorher bereits abgemahnt.
 
 Das Glyphosat-Gutachten ist staatlich finanziert und von Beamten erstellt worden. Dass das Urheberrecht als Zensurheberrecht missbraucht wird, ist ein Angriff auf die Pressefreiheit! Wenn es nötig ist, ziehen wir mit dem Fall bis vor den Europäischen Gerichtshof.
@@ -33,4 +33,3 @@ FragDenStaat wird Widerspruch gegen den Beschluss des Landgerichts einlegen. Das
 → Sämtliche Dokumente und Mitmach-Button: [fragdenstaat.de/zensurheberrecht/](https://fragdenstaat.de/zensurheberrecht/)
 
 Pressekontakt: Arne Semsrott, arne.semsrott@okfn.de, Telefonnummer: 030 57703666 2
-

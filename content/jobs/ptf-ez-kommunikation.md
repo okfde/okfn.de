@@ -4,12 +4,12 @@ authors:
 date: 2022-07-12
 image:
   src: /files/jobs/ptf-kommunikation.png
-  title: "Elternzeitvertretung: Kommunikations- und Content-Management"
-  license: 
-  license_url:
-tags:
-published: false
-title: "Der Prototype Fund sucht eine Person für Kommunikation und Content als Elternzeitvertretung"
+  title: 'Elternzeitvertretung: Kommunikations- und Content-Management'
+  license: null
+  license_url: null
+tags: null
+title: Der Prototype Fund sucht eine Person für Kommunikation und Content als Elternzeitvertretung
+draft: 'true'
 ---
 
 Im Rahmen einer Elternzeitvertretung suchen wir eine Person, die unsere Arbeit und Ziele über verschiedene Kanäle kommuniziert. Dabei nutzt du proaktiv Möglichkeiten, um unsere Inhalte zu platzieren und unterstützt die geförderten Projekte (und ggf. Alumni) dabei, sich und ihre Ideen vorzustellen und zu vernetzen. Dafür nutzen wir bereits etablierte Formate und freuen uns über neue Ideen und Vorschläge!

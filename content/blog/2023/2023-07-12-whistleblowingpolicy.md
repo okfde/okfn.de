@@ -1,7 +1,6 @@
 ---
 authors:
 - Henriette Litta
-date: 2023-07-12
 image:
   src: /files/blog/2023/grafik_erhobenerZeigefinger.png
   title: erhobener Zeigefinger
@@ -11,9 +10,9 @@ tags:
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
-title: "Die OKF hat eine Whistleblowing Policy eingeführt, um Hinweisgebende besser zu schützen"
+title: Die OKF hat eine Whistleblowing Policy eingeführt, um Hinweisgebende besser zu schützen
+publishedDate: 2023-07-12
 ---
 
 **Wir haben uns einem zivilgesellschaftlichen Bündnis zur Einführung einer Whistleblowing Policy angeschlossen. Mit der Whistleblowing Policy verpflichten wir uns, Menschen zu schützen, die erhebliches Fehlverhalten in unserer Organisation melden.**

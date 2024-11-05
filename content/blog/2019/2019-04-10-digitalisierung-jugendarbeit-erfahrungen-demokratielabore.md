@@ -1,11 +1,10 @@
 ---
 authors:
 - Demokratielabore-Team
-date: 2019-04-10
 image:
   src: /files/blog/2019/Essen.jpg
-  title: "CC BY 4.0, OKF DE, Foto: Lea Pfau"
-  license: "CC BY 4.0, OKF DE, Foto: Lea Pfau"
+  title: 'CC BY 4.0, OKF DE, Foto: Lea Pfau'
+  license: 'CC BY 4.0, OKF DE, Foto: Lea Pfau'
   license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 - Digitalisierung
@@ -13,8 +12,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Digitalisierung in der Jugendarbeit - unsere Erfahrungen mit den Demokratielaboren"
+title: Digitalisierung in der Jugendarbeit - unsere Erfahrungen mit den Demokratielaboren
+publishedDate: 2019-04-10
 ---
 
 Die Digitalisierung ist insbesondere im schulischen und außerschulischen Bereich ein viel diskutiertes Thema - von der Infrastruktur bis hin zu digitalen Kompetenzen. Doch wie wirkt sich die Digitalisierung konkret auf die Jugendarbeit aus? Wo gibt es Bedarfe und Potentiale? Und welche Tools und Methoden funktionieren besonders gut? Im Rahmen der [Demokratielabore](https://demokratielabore.de) konnten wir hierzu zahlreiche Erfahrungen sammeln, die wir mit euch teilen wollen. 

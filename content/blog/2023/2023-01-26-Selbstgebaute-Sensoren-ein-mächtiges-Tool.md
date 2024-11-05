@@ -2,16 +2,16 @@
 authors:
 - Nora Titz
 date: 2023-01-26
-image: 
-  src: 
+image:
+  src: null
 tags:
 - codeforgermany
 - open-data
 type: post
 layout: post
-published: false
 featured: yellow
-title: "Selbstgebaute Sensoren - ein mächtiges Tool"
+title: Selbstgebaute Sensoren - ein mächtiges Tool
+draft: 'true'
 ---
 
 ## Selbstgebaute Sensoren - ein mächtiges Tool
@@ -58,4 +58,4 @@ Damit internationale Institutionen Ableitung aus den Daten treffen können, biet
 
 Eine direkte Zusammenarbeit mit Forschungsinstituten ermöglicht es, spezifischer auf deren Bedarfe einzugehen. So gibt es z.B. eine Community Kampagne DIY Sensoren im Umkreis von 250 Meter um eine offizielle Station zu installieren, da es ein Forschungsprojekt gibt, welches nach diesem Parameter Datenvergleiche erhebt. “Leute schreiben uns E-Mails, wenn sie nicht mehr wissen, wo sie ihren dritten oder fünften Sensor anbringen sollen und Fragen, ob es strategisch sinnvolle Orte für Sensoren gibt. Die Kampagne war eine der Reaktionen darauf.”, erzählt Lukas.  
 
-Das Fazit ist und bleibt wohl: Bringt man viele Menschen, möglichst unkompliziert zusammen, lässt sich auch viel erreichen. Dabei ermöglichen digitale Werkzeuge und gemeinsame Interessen sogar eine Zusammenarbeit über Kontinente hinweg. 
+Das Fazit ist und bleibt wohl: Bringt man viele Menschen, möglichst unkompliziert zusammen, lässt sich auch viel erreichen. Dabei ermöglichen digitale Werkzeuge und gemeinsame Interessen sogar eine Zusammenarbeit über Kontinente hinweg.

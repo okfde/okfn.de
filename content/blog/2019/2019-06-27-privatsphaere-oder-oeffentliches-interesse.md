@@ -1,10 +1,9 @@
 ---
 authors:
 - Michael Peters
-date: 2019-06-27
 image:
   src: /files/blog/2018/06/tale-of-three-men.jpg
-  title: "frankieleon, A tale of three men"
+  title: frankieleon, A tale of three men
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/2.0/
 tags:
@@ -16,8 +15,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Privatsphäre oder öffentliches Interesse?"
+title: Privatsphäre oder öffentliches Interesse?
+publishedDate: 2019-06-27
 ---
 
 ### Ein Plädoyer für öffentliche Informationen zu wirtschaftlichen Eigentümern

@@ -1,12 +1,11 @@
 ---
 authors:
 - OKF
-date: 2017-05-11 15:00:00
 image:
   src: /files/blog/2017/03/Artboard.jpg
-  title: 
-  license: 
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Datensummit
 - Open Data
@@ -17,9 +16,10 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Das war der Datensummit ‘17 – Das Community-Festival der OKF"
+title: Das war der Datensummit ‘17 – Das Community-Festival der OKF
+publishedDate: 2017-05-11 15:00:00
 ---
+
 Nach vier Monaten Vorbereitung auf Hochtouren und zwei Tagen geballtem Input zu Open Data, Civic Tech und Data Literacy haben wir ausgeschlafen und lassen Revue passieren: den Datensummit ‘17 – unser erstes zweitägiges Festival, das vom Bundesministerium für Verkehr und digitale Infrastruktur gefördert wurde. 
 
 Rund 280 Teilnehmerinnen durften wir am ersten Tag im Erich-Klausener-Saal des BMVIs begrüßen und müssen zugeben, dass wir mit unseren pinken Programmflyern, bunten Armbändern und zehn Kästen Club Mate eine nicht alltägliche Veranstaltung für ein Ministerium organisiert haben. Aber schließlich ging es genau darum:
@@ -44,4 +44,4 @@ Im Wahlsalon kamen Datenbegeisterte aus Community, Politik und Journalismus zusa
 
 Alle Vorträge des ersten Tages findet ihr in unserem [Youtube-Kanal](https://www.youtube.com/playlist?list=PL9h-RCl9wnxr6JUKz1wotehA-uUpHYwis) und die [Fotos beider Tage](https://www.flickr.com/photos/okfde/sets/72157680549129692) hat der beste Fotograf unseres Teams Leonard Wolf zusammengestellt. 
 
-Schließlich möchten wir noch einmal den Mitarbeiterinnen des Verkehrsministeriums, Event-Consult, all den Helfern und Teilnehmerinnen der beiden großartigen Tage danken. Wir sehen uns beim nächsten Datensummit! 
+Schließlich möchten wir noch einmal den Mitarbeiterinnen des Verkehrsministeriums, Event-Consult, all den Helfern und Teilnehmerinnen der beiden großartigen Tage danken. Wir sehen uns beim nächsten Datensummit!

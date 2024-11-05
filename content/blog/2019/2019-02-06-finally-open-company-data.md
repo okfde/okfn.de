@@ -1,11 +1,10 @@
 ---
-authors: 
+authors:
 - Stefan Wehrmeyer
 - Arne Semsrott
-date: 2019-02-06
 image:
   src: /files/blog/2019/speicherstadt.jpg
-  title: "Hamburg. Speicherstadt"
+  title: Hamburg. Speicherstadt
   license: CC BY 2.0
   license_url: https://creativecommons.org/licenses/by/2.0/de/
 tags:
@@ -14,9 +13,10 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Finally: Open Company Data!"
+title: 'Finally: Open Company Data!'
+publishedDate: 2019-02-06
 ---
+
 Today, together with [OpenCorporates](https://blog.opencorporates.com/2019/02/06/german-company-data-now-available-for-download-via-open-knowledge-deutschland/), we make information from the German company register and its announcements accessible as open data on [OffeneRegister.de](https://offeneregister.de/). For the first time, data such as the registered office, legal form and authorised representatives of 5.1 million German companies, foundations and associations are openly and freely available on the Internet.
 
 On the website, the data can be searched centrally, downloaded and reused via the programming interface (API). Reprints from the commercial register, for which handelsregister.de charges fees, are not included in the data.

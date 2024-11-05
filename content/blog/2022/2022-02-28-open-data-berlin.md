@@ -1,10 +1,9 @@
 ---
 authors:
 - Stefan Kaufmann und Walter Palmetshofer
-date: 2022-02-28
 image:
   src: /files/blog/2022/02/Bebelplatz_berlin_1998.jpg
-  title: "Reichstag"
+  title: Reichstag
   license: CC BY-SA 3.0
   license_url: https://creativecommons.org/licenses/by-sa/3.0
 tags:
@@ -13,11 +12,10 @@ tags:
 - Advocacy
 type: post
 layout: post
-published: true
 featured: blue
 title: Eine neue Open Data Strategie für Berlin
+publishedDate: 2022-02-28
 ---
-
 
 Als das Land Berlin letztes Jahr 10 Jahre Open Data feierte, war das Anlass für einige Diskussionen unter denjenigen, die den Prozess schon länger aus Sicht der Zivilgesellschaft begleiteten: Auch 10 Jahre später scheinen wir noch weit entfernt von einer automatisierten Open-by-Default-Strategie. Umso mehr freut uns, dass Berlin sich genau diesen kritischen Blick als Unterstützung bei der Ausarbeitung einer neuen Open-Data-Strategie gewünscht hat. Die Open Knowledge Foundation darf das Land bei der Entwicklung dieser Strategie unterstützen, und wir wünschen uns ganz ausdrücklich viel Beteiligung von all denjenigen in unserem weiten und erfahrenen Ehrenamtsnetzwerk, die die üblichen Fallstricke und Probleme kennen!
 

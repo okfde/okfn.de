@@ -3,14 +3,14 @@ authors:
 - Marie
 date: 2021-11-18
 image:
-  src: 
-  title:
-  license:
-  license_url:
-published: false
-title: "Studentische Hilfskraft mit Schwerpunkt Tech, ca. 15 Std./Woche &
-Studentische Hilfskraft mit Schwerpunkt Kommunikation, ca. 15 Std./Woche"
+  src: null
+  title: null
+  license: null
+  license_url: null
+title: Studentische Hilfskraft mit Schwerpunkt Tech, ca. 15 Std./Woche & Studentische Hilfskraft mit Schwerpunkt Kommunikation, ca. 15 Std./Woche
+draft: 'true'
 ---
+
 Der Prototype Fund ist ein Förderprogramm des Bundesministeriums für Bildung und Forschung für Public-Interest-Technologien: Als erstes Programm seiner Art in Deutschland unterstützt es selbstständige Softwareentwickler*innen, Hacker*innen und Kreative dabei, ihre Open-Source-Ideen in den Bereichen Civic Tech, Digital Literacy, IT- Sicherheit und Software-Infrastruktur vom Konzept bis zur ersten Demo umzusetzen. Wir (Claudia, Marie und Patricia) begleiten unsere Förderprojekte, die das Potenzial von technischen Innovationen für die Gesellschaft testen.
 
 ## SHK mit Schwerpunkt Tech
@@ -84,4 +84,3 @@ Bei Rückfragen kannst du dich an unser Team wenden: bewerbung@prototypefund.de
 Der Prototype Fund ist ein Programm der Open Knowledge Foundation Deutschland.Der Verein mit Sitz in Berlin-Mitte setzt sich für offenes Wissen, Transparenz und Beteiligung ein. Unsere Arbeit ist unabhängig, überparteilich und interdisziplinär. Mehr erfährst du auf okfn.de.
 
 [Hier gibt es die Ausschreibung auch als PDF.](https://prototypefund.de/wp-content/uploads/2021/11/Stellenausschreibung-SHKs-20211.pdf)
-

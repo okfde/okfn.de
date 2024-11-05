@@ -1,12 +1,11 @@
 ---
-authors: 
+authors:
 - Rebecca Varghese Buchholz
-date: 2017-06-27 10:00:00
 image:
   src: /files/blog/2017/06/2030-Watch.jpg
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - 2030Watch
 - Ausschreibung
@@ -14,10 +13,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Teilzeit-Entwickler/in bei 2030Watch gesucht" 
-
-
+title: Teilzeit-Entwickler/in bei 2030Watch gesucht
+publishedDate: 2017-06-27 10:00:00
 ---
 
 <b>Entwickler/in (Schwerpunkt Web Development) bei 2030Watch gesucht!</b>
@@ -37,4 +34,4 @@ Die Open Knowledge Foundation Deutschland (OKF-DE) ist ein Verein in Berlin, der
 
 Wenn Du Interesse hast, dann schick uns Deine Bewerbung (CV, GitHub oder ähnliches Profil und Anschreiben) bis zum 15. Juli an <a href="mailto:2030-watch@okfn.de">2030-watch@okfn.de</a>. 
 
-Bei Fragen, melde Dich gerne bei <a href="mailto:rebecca.buchholz@okfn.de">Rebecca Varghese Buchholz</a> 
+Bei Fragen, melde Dich gerne bei <a href="mailto:rebecca.buchholz@okfn.de">Rebecca Varghese Buchholz</a>

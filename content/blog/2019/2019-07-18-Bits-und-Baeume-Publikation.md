@@ -2,10 +2,9 @@
 authors:
 - Juliane Krüger
 - Michael Peters
-date: 2019-07-18
 image:
   src: /files/blog/2019/07/BUB.png
-  title: "Bits&Bäume Logo"
+  title: Bits&Bäume Logo
   license: CC BY Schauschau
   license_url: https://creativecommons.org/licenses/by/3.0/
 tags:
@@ -18,8 +17,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Öffentliche Daten nützen – Umwelt schützen und Zivilgesellschaft stützen"
+title: Öffentliche Daten nützen – Umwelt schützen und Zivilgesellschaft stützen
+publishedDate: 2019-07-18
 ---
 
 _Eine leicht gekürzte Version dieses Artikels und viele weitere spannende Texte zur Schnittstelle von Digitalisierung und Nachhaltigkeit findet ihr in der frisch erschienenen Publikation des Konferenzteams [Bits&Bäume](https://bits-und-baeume.org/de): [„Was Bits und Bäume verbindet“](https://www.oekom.de/nc/buecher/gesamtprogramm/buch/was-bits-und-baeume-verbindet.html) – in Papierform und als pdf unter freier Lizenz._ 

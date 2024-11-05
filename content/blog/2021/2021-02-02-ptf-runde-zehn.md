@@ -1,12 +1,11 @@
 ---
 authors:
 - Patricia Leu
-date: 2021-02-02
 image:
   src: /files/blog/2020/02/prototypefund.png
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Prototype Fund
 - Civic Tech
@@ -14,9 +13,9 @@ tags:
 - Public Interest Tech
 type: post
 layout: post
-published: true
 featured: yellow
 title: Prototype Fund fördert eure Open-Source-Softwareideen – bewerbt euch jetzt!
+publishedDate: 2021-02-02
 ---
 
 Seit dem 1. Februar 2021 könnt ihr euch mit eurer Open-Source-Softwareidee für die kommende 10. Förderphase des Prototype Fund bewerben. Die Bewerbungsrunde ist themenoffen – auch wenn wir uns in der Trendforschung speziell an der Schnittstelle von Journalismus, Medien und Technologien umgesehen haben. Die Bereiche, in die eure Idee fallen sollte, heißen Civic Tech, Data Literacy, Datensicherheit und Softwareinfrastruktur. Darüber hinaus sind euch keine Grenzen gesetzt!

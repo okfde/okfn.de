@@ -1,21 +1,20 @@
 ---
 authors:
 - OKF
-date: 2017-07-21
 image:
   src: /files/blog/2017/07/StellenausschreibungJH.jpg
-  title:
-  license: 
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Jobs
 type: post
 layout: post
 card: true
-title: "Projektleitung Jugend hackt bei der OKF DE (30-40h, ab sofort)"
-published: true
+title: Projektleitung Jugend hackt bei der OKF DE (30-40h, ab sofort)
+publishedDate: 2017-07-21
 ---
-    
+
 ### Wer wir sind
 Jugend hackt ist ein preisgekröntes Förderprogramm für junge Menschen zwischen 12 und 18 Jahren, die mit Code die Welt verbessern wollen. Jugend hackt ist ein gemeinsames Programm der Open Knowledge Foundation Deutschland e.V. (OKF DE) und von mediale pfade.org - Verein für Medienbildung e.V. 
 

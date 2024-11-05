@@ -1,20 +1,19 @@
 ---
 authors:
 - Maximilian Voigt, Dominik Theis
-date: 2021-01-15
 image:
-  src: /files/blog/2021/01/jh.jpeg 
-  title: "Jugend hackt - by Leonard Wolf"
-  license:
-  license_url:
+  src: /files/blog/2021/01/jh.jpeg
+  title: Jugend hackt - by Leonard Wolf
+  license: null
+  license_url: null
 type: post
 tags:
 - Open Education
 - Bildungspolitik
 layout: post
-published: true
 featured: yellow
-title: "Open Education: Rückschritte und Fortschritte"
+title: 'Open Education: Rückschritte und Fortschritte'
+publishedDate: 2021-01-15
 ---
 
 Die im [März 2020 herbeigesehnten Entwicklungen](https://www.freitag.de/autoren/der-freitag/bildung-in-krisenzeiten) im Bildungsbereich haben sich nur bedingt bewahrheitet. Denn über Jahre hin aufgeschobene Defizite lassen sich nicht im Ausnahmezustand aufholen. 2021 blicken wir auf ein Jahr zurück, das durch Chaos und Frustration geprägt ist. In dieser Situation gehen Sensationen, wie der extrem gestiegene Einsatz von Cloud-Systemen in der Schule, beinahe unter: In der [JIM-Studie (Jugend Information Medien)](https://www.mpfs.de/fileadmin/files/Presse/2020/PM_JIM-2020-Homeschooling.pdf) berichteten im Juli 55 Prozent der befragten Lernenden, dass sie in der Schule in einer Cloud arbeiten. Als die Forschenden dieselbe Frage im April stellten, waren es nur 22 Prozent. In drei Monaten ist damit die Anbindung der Schulen an Clouds und Lernplattformen um 150 Prozent gestiegen - das schaffen aktuell kaum andere Softwarelösungen. 
@@ -33,4 +32,3 @@ Es geht also um die Integration von bereits etablierten Strukturen und mehr Vern
 Um die nötige Ausfallsicherheit und Weiterentwicklung sicherzustellen, braucht es darüber hinaus Förderstrukturen, die die Entwicklung freier Software und Infrastrukturen nachhaltig sichern. Dazu trägt eine vitale Open-Source und Open-Education-Gemeinschaft entscheidend bei. Daher muss der Bund und die Länder auf Kooperation, nicht auf Konkurrenz setzen. Das [agile Zusammenarbeiten](https://buendnis-freie-bildung.de/2020/09/18/wirlernenonline-mundo-bitte-gemeinsam/) und ein informeller Kooperationsstil sollten 2021 im Vordergrund stehen. Es bleibt abzuwarten, ob der Weg der Reformierung oder des “Weiter-so” gegangen wird. Fakt ist: Wir waren lange nicht so nah an grundlegenden Veränderungen dran. 
 
 [Dieser Artikel ist am 24.12. bereits auf Netzpolitik.org erschienen.](https://netzpolitik.org/2020/open-education-rueckschritte-und-fortschritte/)
-

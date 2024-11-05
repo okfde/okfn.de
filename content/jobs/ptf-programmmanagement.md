@@ -4,12 +4,12 @@ authors:
 date: 2023-09-27
 image:
   src: /files/jobs/ptf-kommunikation.png
-  title: "Programmmanagement"
-  license: 
-  license_url:
-tags:
-published: false
-title: "Der Prototype Fund sucht eine Person für das Programmmanagement"
+  title: Programmmanagement
+  license: null
+  license_url: null
+tags: null
+title: Der Prototype Fund sucht eine Person für das Programmmanagement
+draft: 'true'
 ---
 
 Im Prototype Fund suchen wir eine Person, die unsere Förderprojekte betreut. Dabei stehst du den Teams und Einzelentwicker*innen während ihrer Förderzeit zur Seite, übernimmst die Organisation unterschiedlicher Austausch- und Coachingformate und begleitest die Geförderten in der Vorbereitung ihrer Projektvorstellungen am Ende der Förderzeit.
@@ -64,4 +64,3 @@ Weil wir ein kleines Team sind, teilen wir uns zudem administrative Aufgaben wie
 * Die Position ist wie alle Stellen im Team zum 28. Februar 2025 befristet. Vorbehaltlich der Finanzierung ist eine Verlängerung angestrebt.
 
 Sende deine Unterlagen (Anschreiben, Lebenslauf ohne Foto und Geburtsdatum) bitte per E-Mail an bewerbung@prototypefund.de. Fragen zur Stelle und zum Bewerbungsprozess kannst du auch an diese Adresse richten.
-

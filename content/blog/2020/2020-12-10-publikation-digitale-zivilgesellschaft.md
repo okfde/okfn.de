@@ -1,21 +1,20 @@
 ---
 authors:
 - Patricia Leu
-date: 2020-12-10
 image:
-  src: /files/blog/2020/12/Publikation_Cover.png 
-  title: "Publikation des Prototype Fund"
-  license:
-  license_url:
+  src: /files/blog/2020/12/Publikation_Cover.png
+  title: Publikation des Prototype Fund
+  license: null
+  license_url: null
 tags:
 - Prototype Fund
 - Digitale Zivilgesellschaft
 - Public Interest Tech
 type: post
 layout: post
-published: true
 featured: blue
-title: "Publikation des Prototype Fund: Community-Technologien von Nutzer:innen für Nutzer:innen"
+title: 'Publikation des Prototype Fund: Community-Technologien von Nutzer:innen für Nutzer:innen'
+publishedDate: 2020-12-10
 ---
 
 Die digitale Zivilgesellschaft zeigt ständig ihr großes Engagement – und hat in der Corona-Krise vollends bewiesen, dass sie unser (digitales) Leben besser macht. Diese wichtige Arbeit hat der Prototype Fund über den Lauf des Jahres in einer [Reihe von Blogartikeln](https://prototypefund.de/was-ist-die-digitale-zivilgesellschaft/) dargestellt, welche nun in der Publikation [“Community-Technologien: Von Nutzer:innen für Nutzer:innen” zusammengefasst veröffentlicht werden](https://prototypefund.de/wp-content/uploads/2020/12/Die_digitale_Zivilgesellschaft_PTF-2.pdf).

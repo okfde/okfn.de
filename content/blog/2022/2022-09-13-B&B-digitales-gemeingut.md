@@ -1,8 +1,7 @@
 ---
 authors:
 - Ben Burmeister
-date: 2022-09-13
-image: 
+image:
   src: /files/blog/2022/03/B&B Logo mit Schrift.jpg
 tags:
 - Bits & Bäume
@@ -10,9 +9,9 @@ tags:
 - Policy
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Bits & Bäume 2022: Nachhaltigkeit braucht digitales Gemeingut!"
+title: 'Bits & Bäume 2022: Nachhaltigkeit braucht digitales Gemeingut!'
+publishedDate: 2022-09-13
 ---
 
 **Die Digitalisierung schafft neue Möglichkeiten für eine offene und gerechtere Gesellschaft. Dafür muss sie allerdings auch mit den Herausforderungen des Klimawandels vereinbar sein.  Im Rahmen der Bits & Bäume 2022 fordern wir eine digitale Transformation, die aktiv zu einer gerechten, nachhaltigen und demokratischen Zukunft beiträgt. Um diese Zukunft zu ermöglichen, muss der Fokus auf das Gemeingut rücken – das Natürliche wie das Digitale!**

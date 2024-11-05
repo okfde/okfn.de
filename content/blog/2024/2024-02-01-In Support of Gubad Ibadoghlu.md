@@ -1,17 +1,16 @@
 ---
 authors:
 - Walter Palmetshofer
-date: 2024-02-01
-image: 
+image:
   src: /files/blog/2024/02/FreeGubad-update.png
 tags:
 - DEITI
-- Transparency 
+- Transparency
 type: post
 layout: post
-published: true
 featured: blue
-title: "In Support of Gubad Ibadoghlu"
+title: In Support of Gubad Ibadoghlu
+publishedDate: 2024-02-01
 ---
 
 **Statement from the Civil Society Members of the EITI Germany (DEITI) in Support of Gubad Ibadoghlu**

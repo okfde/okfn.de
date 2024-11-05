@@ -1,6 +1,6 @@
 ---
 author: Mara Mendes
-date: 2015-08-14 12:00
+date: 2015-08-14 12:00:00
 image:
   src: /files/blog/2015/07/digiwhist.jpg
   title: Jobs bei OKFDE

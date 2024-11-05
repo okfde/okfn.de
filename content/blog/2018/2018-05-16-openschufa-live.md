@@ -1,8 +1,7 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
 - Walter Palmetshofer
-date: 2018-05-16
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSchufa
@@ -11,8 +10,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "OpenSchufa.de ist live - jetzt Daten spenden!" 
+title: OpenSchufa.de ist live - jetzt Daten spenden!
+publishedDate: 2018-05-16
 ---
 
 Los geht's! Heute launchen wir die [Datenspende-Plattform für unser Crowdsourcing-Projekt OpenSCHUFA](https://www.openschufa.de). Unter [openschufa.de](https://www.openschufa.de) können alle Menschen die Daten, die sie bei der SCHUFA über sich angefragt haben, hochladen. Wir werden sie dann gemeinsam mit unserem Partner AlgorithmWatch analysieren, um den SCHUFA-Algorithmus zu knacken.

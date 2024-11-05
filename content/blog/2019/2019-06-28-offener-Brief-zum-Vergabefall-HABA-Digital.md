@@ -1,10 +1,9 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2019-06-28
 image:
   src: /files/blog/2019/06/NRW_Schulministerium.jpg
-  title: "Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen"
+  title: Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/2.0/
 tags:
@@ -13,9 +12,9 @@ tags:
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "Offener Brief an NRW nach fragwürdigem Auftrag an FDP-Großspenderin"
+title: Offener Brief an NRW nach fragwürdigem Auftrag an FDP-Großspenderin
+publishedDate: 2019-06-28
 ---
 
 In einem [Offenen Brief](https://github.com/okfde/okfn.de/blob/master/static/files/blog/2019/06/Offener%20Brief_Vergabeprozess%20Projekt%20_MobiDigNRW.pdf) zum Vergabeprozess des Projektes “Mobile Digitalwerkstatt” problematisieren wir gemeinsam mit zahlreichen Akteurinnen und Akteuren der Bildungspraxis kommerzielle Abhängigkeiten im Bildungsbereich. Anlässlich der [umstrittenen Beauftragung von HABA Digital](https://www.abgeordnetenwatch.de/blog/2019-06-28/fragwuerdiger-auftrag-fdp-grossspenderin) durch das FDP geführte Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen fordern wir:
@@ -29,4 +28,4 @@ In einem [Offenen Brief](https://github.com/okfde/okfn.de/blob/master/static/fil
 * die Förderung einer nachhaltigen Zusammenarbeit auf Basis bestehender Strukturen sowie 
 * frei zugängliche Bildung und Schutz der Bildung vor lobbyistischen Einflüssen. 
 
-Bildung ist Gemeingut und sollte somit für alle zugänglich sein. Insbesondere vor dem Hintergrund des Digitalpaktes Schule ist es umso wichtiger, den Wettbewerb um die Förderungen gerecht zu gestalten und insbesondere nachhaltige, offene Ansätze zu berücksichtigen. Investitionen, die kurzsichtig in geschlossene und proprietäre Systeme getätigt werden, erschweren oder verhindern langfristig freie Bildung und stellen Abhängigkeiten her. 
+Bildung ist Gemeingut und sollte somit für alle zugänglich sein. Insbesondere vor dem Hintergrund des Digitalpaktes Schule ist es umso wichtiger, den Wettbewerb um die Förderungen gerecht zu gestalten und insbesondere nachhaltige, offene Ansätze zu berücksichtigen. Investitionen, die kurzsichtig in geschlossene und proprietäre Systeme getätigt werden, erschweren oder verhindern langfristig freie Bildung und stellen Abhängigkeiten her.

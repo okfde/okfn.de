@@ -4,12 +4,12 @@ authors:
 date: 2024-01-24
 image:
   src: /files/jobs/cfg-redakteurin.jpg
-  title: "Kommunikationsmanager:in gesucht!"
-  license: "CC-BY 4.0, Urheber: Leonard Wolf"
+  title: Kommunikationsmanager:in gesucht!
+  license: 'CC-BY 4.0, Urheber: Leonard Wolf'
   license_url: https://creativecommons.org/licenses/by/4.0/
-tags:
-published: false
-title: "Wir suchen eine:n Kommunikationsmanager:in für die OKF (Teilzeit, 20-28h/Woche)"
+tags: null
+title: Wir suchen eine:n Kommunikationsmanager:in für die OKF (Teilzeit, 20-28h/Woche)
+draft: 'true'
 ---
 
 Um unsere Arbeit zu Open Data & Co. in unseren Communities zu begleiten und öffentlichkeitswirksam zu verbreiten, suchen wir eine:n
@@ -87,4 +87,3 @@ Schick uns deine Bewerbungsunterlagen (Anschreiben, Lebenslauf, relevante Zeugni
 Wir sichten alle Bewerbungen in einem kleinen Berwerbungskommittee (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen ein, vor Ort in Berlin oder online (zweite Runde). 
 
 Die **Bewerbungsgespräche** finden voraussichtlich in der Zeit **von 19. bis 21. März** statt.
-

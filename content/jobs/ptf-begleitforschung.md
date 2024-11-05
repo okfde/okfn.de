@@ -5,10 +5,10 @@ date: 2022-09-22
 image:
   src: /files/jobs/ptf-kommunikation.png
   title: Begleitforschung und Projektmanagement
-  license:
-  license_url:
-published: false
-title: "Der Prototype Fund sucht eine Person für Begleitforschung und Projektmanagement"
+  license: null
+  license_url: null
+title: Der Prototype Fund sucht eine Person für Begleitforschung und Projektmanagement
+draft: 'true'
 ---
 
 Zur Unterstützung unseres Teams suchen wir eine Person, die die Evaluation und Weiterentwicklung unseres Förderprogramms im Rahmen der Begleitforschung vorantreibt. Dafür recherchierst du zu technologischen Trends, führst Interviews mit (ehemaligen) Geförderten, erhebst Daten und verarbeitest die Ergebnisse regelmäßig zu [Forschungsberichten](https://prototypefund.de/about/begleitforschung/). Außerdem übernimmst du im Team Projektmanagementaufgaben wie z. B. unsere [Events](https://prototypefund.de/demo-day-runde-11/). Dafür nutzen wir bereits etablierte Formate und freuen uns über neue Ideen und Vorschläge!

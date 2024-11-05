@@ -1,19 +1,19 @@
 ---
 authors: Arne Semsrott
-date: 2018-03-12 09:00
-image: 
+date: 2018-03-12 09:00:00
+image:
   src: /files/blog/2018/03/jan-kuciak.jpg
-  title: 
-  license: "CC-BY-SA-2.0, Foto: Peter Tkac"
-  license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
+  title: null
+  license: 'CC-BY-SA-2.0, Foto: Peter Tkac'
+  license_url: https://creativecommons.org/licenses/by-sa/2.0/
 type: post
 layout: post
 card: true
 tags:
 - pressefreiheit
 - informationsfreiheit
-title: "Mord an Ján Kuciak: Informationsfreiheit braucht Datenschutz"
-published: false
+title: 'Mord an Ján Kuciak: Informationsfreiheit braucht Datenschutz'
+draft: 'true'
 ---
 
 Nach Recherchen der Journalistenorganisation OCCRP hängt der Tod des slowakischen Journalisten Ján Kuciak mit seinen Recherchen nach dem slowakischen Informationsfreiheitsgesetz zusammen. Den slowakischen Behörden wird vorgeworfen, im Rahmen einer Drittbeteiligung Kuciaks Daten an Dritte weitergeleitet zu haben – wodurch seine künftigen Mörder überhaupt erst auf seine Recherchen aufmerksam wurden.

@@ -1,24 +1,21 @@
 ---
 author: Tanja Zagel
-date: 2018-05-25 
-image: 
-  src: 
-  title: 
-  license: 
-  license_url: 
+date: 2018-05-25
+image:
+  src: null
+  title: null
+  license: null
+  license_url: null
 type: post
 layout: post
 card: true
-published: false
 tags:
 - okf
 - büro
 - nachhaltigkeit
 - sustainability
-
-
-
-title: "Schmierpapier, my love"
+title: Schmierpapier, my love
+draft: 'true'
 ---
 
 Wenn man 20 Getränkekästen in den 3. Stock schleppt, hat man Zeit, über die grundsätzlichen Dinge des Lebens nachzudenken. Warum ist der Aufzug kaputt? Was machen wir, wenn er kaputt bleibt? Warum wuchten wir Wasser in Flaschen und Kästen die Treppen hinauf, wenn wir auch einfach den Wasserhahn aufmachen könnten?
@@ -41,11 +38,3 @@ Ein paar Sachen haben wir schon gelernt:
 ### Bits & Bäume 
 
 Wenn es so viele Berührungspunkte zwischen dem Thema Nachhaltigkeit und der guten Gestaltung unserer digitalen Gesellschaft gibt, dann könnte man ja direkt noch mehr daraus machen. Haben wir uns gedacht. Und wir machen noch mehr daraus: Wir freuen uns, die erste [Bits & Bäume - Die Konferenz für Digitalisierung und Nachhaltigkeit] (https://www.bits-und-baeume.org/) mitzuorganisieren: 17.-18. November, Berlin - Save the date!
-
-
-
-
-
-
-
-

@@ -1,20 +1,19 @@
 ---
 authors:
 - Patricia Leu
-date: 2022-03-31
 image:
   src: /files/blog/2022/03/open-source-investigation.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - tag1
 - tag2
 type: post
 layout: post
-published: true
 featured: yellow
-title: "Mit Open Source Investigation gegen Menschenrechtsverletzungen"
+title: Mit Open Source Investigation gegen Menschenrechtsverletzungen
+publishedDate: 2022-03-31
 ---
 
 **Hadi al-Khatib** ist Geschäftsführer der gemeinnützigen Organisation Mnemonic und Gründer des Syrian Archive. Beide Projekte konzentrieren sich auf Open Source Investigation - eine Methodik, die sich immer weiter verbreitet und über die im Kontext des Krieges in der Ukraine immer wieder auch in den Medien berichtet wird. Das Syrian Archive wurde im Jahr 2017 im Rahmen des Prototype Fund gefördert. Wir haben mit Hadi über seine Arbeit, die Vorteile von Open Source Investigation und deren Entwicklung über die letzten Jahre gesprochen. Hier gibt es das Interview auch auf [Englisch](https://prototypefund.de/open-source-investigation/).
@@ -101,4 +100,4 @@ Hier erfahrt ihr mehr über
 
 - das Yemeni Archive: https://yemeniarchive.org/, 
 
-- und das Sudanese Archive: https://sudanesearchive.org/. 
+- und das Sudanese Archive: https://sudanesearchive.org/.

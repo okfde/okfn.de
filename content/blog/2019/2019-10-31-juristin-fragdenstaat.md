@@ -1,18 +1,16 @@
 ---
-authors: 
+authors:
 - Arne Semsrott
-date: 2019-10-31
 image:
   src: /files/jobs/fds1.png
-  title: "FragDenStaat-Logo"
-  license:
-  license_url:
+  title: FragDenStaat-Logo
+  license: null
+  license_url: null
 type: post
 layout: post
 card: true
-published: true
-published: true
-title: "Neuer Job bei FragDenStaat: Wir suchen Jurist*in! (60-100%, ab Februar 2020)" 
+title: 'Neuer Job bei FragDenStaat: Wir suchen Jurist*in! (60-100%, ab Februar 2020)'
+publishedDate: 2019-10-31
 ---
 
 ## Wer wir sind

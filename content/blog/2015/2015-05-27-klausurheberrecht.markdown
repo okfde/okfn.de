@@ -1,14 +1,15 @@
 ---
 author: Arne Semsrott
-date: 2015-05-27 18:42
+date: 2015-05-27 18:42:00
 image:
   src: https://netzpolitik.org/wp-upload/pruefung-300x225.jpg
 layout: post
 tags:
 - IFG
-title: "Klausurheberrecht: Bildungsmaterialien dürfen nicht veröffentlicht werden"
+title: 'Klausurheberrecht: Bildungsmaterialien dürfen nicht veröffentlicht werden'
 type: post
 ---
+
 Vor einem Monat erzielte eine IFG-Anfrage auf <a href="https://fragdenstaat.de/anfrage/abiturklausuren-2015/">vorzeitige Einsicht</a> von Abiklausuren <a href="http://www.theguardian.com/world/2015/apr/09/german-student-makes-official-request-to-see-test-papers-before-exams">europaweit</a> einigen <a href="http://www.spiegel.de/schulspiegel/abi/abitur-schueler-beantragt-klausur-nach-informationsfreiheitsgesetz-a-1027298.html">Buzz</a>.
 
 Das führte zu einer Welle von <a href="https://fragdenstaat.de/anfragen/tag/abitur/">Nachahmern</a>, die über FragDenStaat Prüfungsaufgaben zum Richteramt, für Masseurausbildungen oder zur Jägerprüfung haben wollten. Eine Anfrage für die <a href="https://fragdenstaat.de/anfrage/abiturklausuren-2011/">Abituraufgaben 2011 in NRW</a> war jetzt erfolgreich - zumindest für den Antragssteller.

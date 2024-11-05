@@ -1,20 +1,19 @@
 ---
 authors:
-- 
-date: 2021-03-16
+- null
 image:
   src: /files/blog/2021/03/vote_photo_by_glen_carrie_unsplash.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - open-government
 - policy
 type: post
 layout: post
-published: true
 featured: blue
-title: "Forderungen für eine gemeinwohlorientierte, demokratische Digitalpolitik"
+title: Forderungen für eine gemeinwohlorientierte, demokratische Digitalpolitik
+publishedDate: 2021-03-16
 ---
 
 Die sechs Landtags- bzw. Abgeordnetenhauswahlen sowie die Bundestagswahl am 26. September geben dieses Jahr viele Anlässe, die Themen der OKF zu diskutieren und - wie wir aktuell besonders erleben - viel Nachholbedarf bei Open Government und Co. auf Seiten von Staat und Verwaltungen.

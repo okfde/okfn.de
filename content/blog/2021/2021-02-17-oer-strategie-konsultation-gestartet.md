@@ -1,20 +1,19 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2021-02-21
 image:
   src: https://edulabs.de/assets/img/blog/2018/Mai/squarelet/squarelet.jpg
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open Education
 - Bildungspolitik
 type: post
 layout: post
-published: true
 featured: yellow
 title: Konsultation zur bundesweiten OER-Strategie gestartet
+publishedDate: 2021-02-21
 ---
 
 Im vergangenen Jahr hat die OKF gemeinsam mit dem Bündnis Freie Bildung an einem [Entwurf für die lange überfällige OER-Strategie](https://okfn.de/blog/2020/09/open-education-strategie-unser-vorschlag/) des Bundes gearbeitet und den Prozess maßgeblich mitgestaltet. Nun ist es endlich soweit und die Strategie wird angegangen. Dazu hat das BMBF einen neuartigen Konsultationsprozess aufgelegt. Wir sind beteiligt und haben notwendige Entwicklungsbereiche im Bildungsbereich in [unserem Beitrag](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2021/01/Konsultation_OER-Strategie_Themenbereich_Gesellschaft_OKF_DE.pdf) benannt, damit Bildung partizipativer, gerechter und offener wird. 

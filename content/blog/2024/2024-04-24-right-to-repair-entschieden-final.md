@@ -1,8 +1,7 @@
 ---
 authors:
 - Maximilian Voigt
-date: 2024-02-03
-image: 
+image:
   src: /files/blog/2024/rc2.JPG
   license: cc by Maximilian Voigt
   license_url: https://creativecommons.org/licenses/by/4.0/
@@ -12,10 +11,11 @@ tags:
 - Produkttransparenz
 type: post
 layout: post
-published: true
 featured: blue
-title: "EU-Parlament schafft ein Rechtchen auf Reparatur"
+title: EU-Parlament schafft ein Rechtchen auf Reparatur
+publishedDate: 2024-02-03
 ---
+
 *Wir haben das Recht, ein paar Geräte reparieren zu lassen, aber nicht auf technische Informationen oder Ersatzteile, um es selbst zu tun.*
 
 Am vergangenen Dienstag hat das EU-Parlament nach langem Prozess das sogenannte "Recht auf Reparatur" verabschiedet. Anfang 2024 wurde im Rahmen der Trilogverhandlungen ein [Kompromiss ausgehandelt](https://netzpolitik.org/2024/verbraucherschutz-eu-ebnet-weg-fuer-guenstige-reparaturen/). Im Kern gibt es uns als Kaufende das Recht, auch außerhalb der Gewährleistung die Reparatur des Gegenstandes einzufordern, sofern die Reparatur nicht "unmöglich" ist. Das Recht zu reparieren haben hingegen in der Regel "fachlich kompetente Reparateure" oder "gewerbliche Reparateure", wie es in den Ecodesignverordnungen zu verschiedenen Produktgruppen heißt. Die reparieren nur das, was sich lohnt. Inwiefern zivilgesellschaftliche Akteure am Ende an Ersatzteile oder reparaturrelevante Informationen kommen, ist offen. Bisher haben sie nur bei Smartphones einen umfänglichen Zugriff. Für den Rest gibt's Dichtungen. Denn ohnehin gilt das sogenannte "Recht auf Reparatur" nur für wenige Produktgruppen, für die bereits Verordnungen erlassen wurden. Das ist die sogenannte "weiße Ware", wie Kühlschränke und Waschmaschinen, sowie Schweißgeräte, Smartphones, Displays und Server.

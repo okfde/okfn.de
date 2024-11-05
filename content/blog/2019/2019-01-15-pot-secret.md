@@ -1,21 +1,20 @@
 ---
-authors: 
+authors:
 - Stefan Wehrmeyer
 - Arne Semsrott
-date: 2019-01-15
 image:
   src: /files/blog/2019/01/topfsecret.jpg
-  title: 
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - TopfSecret
 - English
 type: post
 layout: post
 card: true
-published: true
-title: "Pot Secret - Freeing thousands of Food Safety Reports"
+title: Pot Secret - Freeing thousands of Food Safety Reports
+publishedDate: 2019-01-15
 ---
 
 Yesterday we launched ["Pot Secret"](https://fragdenstaat.de/kampagnen/lebensmittelkontrolle/) ("Topf Secret" in German) - a platform against secrecy at food authorities. Consumers can use this platform to obtain the results of food safety inspections in restaurants, bakeries, supermarkets and other food-processing businesses.

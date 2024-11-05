@@ -1,7 +1,6 @@
 ---
 authors:
 - OKF
-date: 2017-04-12 07:00:00
 image:
   src: /files/blog/2017/04/lautsprecher.jpg
   title: Nahverkehr
@@ -13,9 +12,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-
-title: "Für Meinungsfreiheit - gegen das NetzDG"
+title: Für Meinungsfreiheit - gegen das NetzDG
+publishedDate: 2017-04-12 07:00:00
 ---
 
 Die Open Knowledge Foundation Deutschland unterstützt die "Deklaration für die Meinungsfreiheit". In Reaktion auf die Verabschiedung des Netzwerkdurchsetzungsgesetzes (NetzDG) durch das Bundeskabinett am 5. April 2017 zeigen wir gemeinsam mit einer breiten Allianz von Wirtschaftsverbänden, netzpolitischen Vereinen, Bürgerrechtsorganisationen und Rechtsexperten, dass der Gesetzentwurf nicht dem Anspruch genügt, die Meinungsfreiheit adäquat zu wahren. 

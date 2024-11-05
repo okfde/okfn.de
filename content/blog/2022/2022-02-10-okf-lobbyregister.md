@@ -1,10 +1,9 @@
 ---
 authors:
 - Henriette Litta
-date: 2022-02-10
 image:
   src: /files/blog/2019/11/reichstag-juergen-matern.jpg
-  title: "Reichstag"
+  title: Reichstag
   license: CC BY-SA 3.0
   license_url: https://creativecommons.org/licenses/by-sa/3.0
 tags:
@@ -13,9 +12,9 @@ tags:
 - Advocacy
 type: post
 layout: post
-published: true
 featured: blue
 title: Das neue Lobbyregister braucht schon jetzt ein Update (und wir sind auch drin)
+publishedDate: 2022-02-10
 ---
 
 **Berlin, 10.02.2022**

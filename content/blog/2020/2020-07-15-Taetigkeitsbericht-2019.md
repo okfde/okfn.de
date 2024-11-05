@@ -1,18 +1,17 @@
 ---
-authors: 
+authors:
 - Dr. Henriette Litta
-date: 2020-07-15
 image:
   src: /files/blog/2020/06/OKF-logo_black.png
-  title: "OKF Logo"
-  license:
-  license_url:
+  title: OKF Logo
+  license: null
+  license_url: null
 type: post
 layout: post
 card: true
-published: true
 featured: yellow
-title: "Das war 2019: Unser Tätigkeitsbericht ist veröffentlicht" 
+title: 'Das war 2019: Unser Tätigkeitsbericht ist veröffentlicht'
+publishedDate: 2020-07-15
 ---
 
 Das letzte Jahr war wieder bunt und turbulent. Eine kurze Übersicht über das Jahr 2019 stellen wir euch hier zusammen. Ausführlichere und übersichtlich zusammengestellte Informationen findet ihr in unserem [aktuellen Tätigkeitsbericht](https://2019.okfn.de/), den wir wieder nach dem Social Reporting Standard erstellt haben.

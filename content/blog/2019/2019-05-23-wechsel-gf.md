@@ -1,12 +1,11 @@
 ---
-authors: 
+authors:
 - OKF
-date: 2019-06-10
 image:
   src: /files/blog/2017/07/OKFDE_Logo_black.png
-  title: "Open Knowledge Foundation Deutschland"
-  license:
-  license_url: 
+  title: Open Knowledge Foundation Deutschland
+  license: null
+  license_url: null
 tags:
 - Geschäftsführung
 - In eigener Sache
@@ -14,9 +13,9 @@ tags:
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "In eigener Sache: Wechsel der Geschäftsführung bei der Open Knowledge Foundation Deutschland" 
+title: 'In eigener Sache: Wechsel der Geschäftsführung bei der Open Knowledge Foundation Deutschland'
+publishedDate: 2019-06-10
 ---
 
 *Nach zwei Jahren als Geschäftsführerin verlässt Nadine Evers Mitte Juni die Open Knowledge Foundation Deutschland e.V.  

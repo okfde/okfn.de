@@ -1,15 +1,16 @@
 ---
 author: Fiona Krakenbuerger
-date: 2015-05-12 14:25
+date: 2015-05-12 14:25:00
 image:
   src: /files/blog/2015/04/codeforde.jpg
-  title: 
+  title: null
 layout: post
 tags:
 - Jobs
-title: "Praktikum bei Code for Germany - Bewerbungsfrist verlängert"
+title: Praktikum bei Code for Germany - Bewerbungsfrist verlängert
 type: post
 ---
+
 <strong>Code for Germany sucht eine/n Praktikanten/in zum nächstmöglichen Zeitpunkt</strong>
 
 Du interessierst dich für Technologie, Politik, Design und Aktivismus. Storytelling ist deine Leidenschaft und das Internet dein Zuhause. Bloggen, schreiben und twittern machen dir Spaß. Du wolltest schon immer mal für eine NGO arbeiten, hast eine eigenständige Arbeitsweise, Lust viel zu lernen und dich weiterzuentwickeln. 
@@ -55,5 +56,4 @@ Ort: Open Knowledge Foundation Deutschland e.V., Berlin
 <hr>
 Wenn du Interesse hast, dann schick uns deine <b>Bewerbung bis zum 31. Mai</b> per E-Mail an **[info@codefor.de](mailto:info@codefor.de)**.<br>
 Wir freuen uns auf dich!<br>
-Julia & Fiona 
-
+Julia & Fiona

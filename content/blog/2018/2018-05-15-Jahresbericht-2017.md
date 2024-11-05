@@ -1,7 +1,6 @@
 ---
-authors: 
+authors:
 - Bela Seeger
-date: 2018-05-15
 image:
   src: /files/blog/2018/05/jahresbericht.png
   title: Jahresbericht
@@ -14,10 +13,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Der Jahresbericht 2017 der Open Knowledge Foundation Deutschland" 
-
-
+title: Der Jahresbericht 2017 der Open Knowledge Foundation Deutschland
+publishedDate: 2018-05-15
 ---
 
 Unser [Jahresbericht 2017 ist online!](https://okfn.de/files/verein/OKFDE-Taetigkeitsbericht-2017.pdf)
@@ -34,6 +31,3 @@ offenen Lizenzen entwickeln können
 Freitag 12:45– 14:15 Uhr - Digitale Bildung offen gestalten – Mehr Reichweite für Bildungsangebote mit OpenEducational Ressources
 
 Mehr Details unter [DST18.okfn.de](http://dst18.okfn.de).
-
-
-

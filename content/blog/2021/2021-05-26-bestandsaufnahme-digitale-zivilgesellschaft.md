@@ -1,22 +1,22 @@
 ---
 authors:
 - Patricia Leu
-date: 2021-05-26
 image:
   src: /files/blog/2021/05/DZ_Event.png
-  title:
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OKFDE10
 - Community
 - Zivilgesellschaft
 type: post
 layout: post
-published: true
 featured: blue
-title: "Von Militärgeschichte zu Datenspaziergängen - eine Bestandsaufnahme der digitalen Zivilgesellschaft"
+title: Von Militärgeschichte zu Datenspaziergängen - eine Bestandsaufnahme der digitalen Zivilgesellschaft
+publishedDate: 2021-05-26
 ---
+
 Am 18. Mai 2021 fand das erste Bildschirmgespräch anlässlich des [10. Geburtstags der OKF](https://okfn.de/anniversary/) in diesem Jahr statt. In einer [“Bestandsaufnahme der digitalen Zivilgesellschaft”](https://okfn.de/blog/2021/05/veranstaltung-digitale-zivilgesellschaft/) diskutierten die Gäste Elisa Lindinger (Initiative Digitale Zivilgesellschaft), Victoria Boeck (Technologiestiftung Berlin) und Maximilian Voigt (Verbund Offener Werkstätten), wer zu dieser zählt, wie sie sich politisch positioniert und - vor allem - wie sie sich politisch mehr Gehör verschaffen kann. [Die Aufzeichnung der Veranstaltung kann hier angesehen werden.](https://www.youtube.com/watch?v=EV4MmjaKerU)
 
 Wir freuen uns sehr, diese drei Expert\*innen für die Veranstaltung gewonnen zu haben, die spannende Ein- und inspirierende Ausblicke geben konnten. Einige davon fassen wir hier zusammen.

@@ -1,22 +1,21 @@
 ---
-authors: 
+authors:
 - Johannes Filter
 - Stefan Wehrmeyer
 - Arne Semsrott
-date: 2018-12-24
 image:
   src: /files/blog/2018/12/offenegesetze.png
-  title: 
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 tags:
 - OffeneGesetze
 - english
 type: post
 layout: post
 card: true
-published: true
-title: "OffeneGesetze: Opening Germany's Law Gazette (Update)"
+title: 'OffeneGesetze: Opening Germany''s Law Gazette (Update)'
+publishedDate: 2018-12-24
 ---
 
 **Update, 12/24/2018**: In response to OffeneGesetze, [the German Ministry of Justice has announced](https://www.faz.net/aktuell/wirtschaft/diginomics/justizministerin-barley-nimmt-dumont-verlag-das-gesetzblatt-weg-15957231.html?GEPC=s3) that it will create a digital legislative process in the coming years. The ministry is creating a platform on which federal law gazettes "can also be freely printed, searched and re-used". There should be unrestricted access, the Justice Minister Katarina Barley said.

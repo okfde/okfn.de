@@ -1,21 +1,19 @@
 ---
 authors:
 - Julia Thomaschki
-date: 2019-10-17
 image:
   src: /files/blog/2019/10/summit-fos-pic.png
-  title: "FOS19-CFGSummit"
+  title: FOS19-CFGSummit
   license: CC BY 4.0
   license_url: https://creativecommons.org/licenses/by/4.0/
-tags:
-
+tags: null
 type: post
 layout: post
 card: true
-published: true
 featured: blue
-title: "FORUM Offene Stadt & Code for Germany Summit"
-url: "/blog/2019/10/forum-offene-stadt-code-for-germany-summit/"
+title: FORUM Offene Stadt & Code for Germany Summit
+url: /blog/2019/10/forum-offene-stadt-code-for-germany-summit/
+publishedDate: 2019-10-17
 ---
 
 Sommer Adieu, Hello Herbst!

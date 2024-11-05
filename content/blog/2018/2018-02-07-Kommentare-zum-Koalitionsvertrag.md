@@ -1,5 +1,5 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
 date: 2018-02-08
 image:
@@ -7,7 +7,7 @@ image:
   title: Koalitionsvertrag
 tags:
 - Zivilgesellschaft
-- Transparenz 
+- Transparenz
 - Open Data
 - Open Source
 - Policy
@@ -15,10 +15,8 @@ tags:
 type: post
 layout: post
 card: true
-published: false
-title: "Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version" 
-
-
+title: Kurze Kommentierung  Koalitonsvertrag 07.02 tl;dr Version
+draft: 'true'
 ---
 
 # OKFDE-relevante Punkte des [Koalitionsvertrages](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
@@ -208,6 +206,3 @@ Als Optimisten hoffen wir natürlich, dass nach den teils "offenen" Absichtserkl
 <br>
 ps: Einer der Autoren ist Österreicher, sieht Deutschland punkto Rechtspopulismus noch als Fels in der Brandung und hofft der Schuss aus Österreich wurde gehört und die notwendigen Schritte (Transparenzgesetz, Lobbyregister, ...) werden gesetzt.
 <br>
-
-
-

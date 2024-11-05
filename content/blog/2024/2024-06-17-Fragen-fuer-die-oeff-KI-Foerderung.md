@@ -1,8 +1,7 @@
 ---
-authors: 
+authors:
 - Sophia Schulze Schleithoff
-date: 2024-06-17
-image: 
+image:
   src: /files/blog/2024/2024-06-17-Blog-Fragen-fuer-die-oeff-KI-Foerderung.jpeg
   license: CC0 1.0 Universal
   license_url: https://commons.wikimedia.org/wiki/File:Cameron_Kirby_2016-10-01_(Unsplash).jpg
@@ -12,9 +11,9 @@ tags:
 - Open Source
 type: post
 layout: post
-published: true
 featured: blue
-title: "Fragen für die öffentliche KI-Förderung"
+title: Fragen für die öffentliche KI-Förderung
+publishedDate: 2024-06-17
 ---
 
 In den vergangenen zwei Jahren haben den [Prototype Fund](https://prototypefund.de/) zunehmend mehr Bewerbungen für Softwareprojekte erreicht, die Methoden der Künstlichen Intelligenz (KI) wie Large Language Models (LLM) nutzen oder kritisch beleuchten. Mit der Verbreitung dieser Ansätze müssen sich öffentlich finanzierte Technologieförderprogramme wie der Prototype Fund damit auseinandersetzen, welche Auswahl- und Unterstützungsmechanismen es für KI-Projekte braucht, die offen, anpassbar und nachhaltig sind.

@@ -1,8 +1,7 @@
 ---
-authors: 
+authors:
 - Walter Palmetshofer
 - Arne Semsrott
-date: 2018-02-14
 image:
   src: /files/blog/2018/02/openschufa.png
   title: OpenSchufa
@@ -11,8 +10,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Get involved: We crack the Schufa!" 
+title: 'Get involved: We crack the Schufa!'
+publishedDate: 2018-02-14
 ---
 
 When applying for a loan, mobile phone contract, or even trying to rent an apartment in Germany, the [Schufa](https://en.wikipedia.org/wiki/Schufa) score - Germany's credit rating - is decisive. If you have a few "points" too little, your application is refused. (Computer says ["No"](https://youtu.be/AJQ3TM-p2QI?t=45) to your new smartphone or apartment.) However, the calculation of these credit scores - done by the private Schufa company - is fully intransparent. The formula is a trade secret, and as such not open to the public. 

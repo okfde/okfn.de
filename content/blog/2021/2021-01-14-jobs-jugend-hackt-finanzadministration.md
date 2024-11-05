@@ -1,19 +1,18 @@
 ---
 authors:
 - Sonja Fischbauer
-date: 2021-01-14
 image:
   src: /files/blog/2021/01/jugend-hackt-team-2020.jpg
-  title: "Jugend hackt Team"
-  license:
-  license_url:
+  title: Jugend hackt Team
+  license: null
+  license_url: null
 tags:
 - Jobs
 type: post
 layout: post
-published: true
 featured: blue
-title: "Job bei der OKF: Finanzadministration bei Jugend hackt (ab sofort)"
+title: 'Job bei der OKF: Finanzadministration bei Jugend hackt (ab sofort)'
+publishedDate: 2021-01-14
 ---
 
 ## Jugend hackt sucht eine\*n studentische\*n Mitarbeiter\*in (m/w/d) für Finanzadministration, 19h/Woche, ab sofort

@@ -1,7 +1,6 @@
 ---
 authors:
 - Helene Hahn
-date: 2017-05-17 09:00:00
 image:
   src: /files/blog/2017/05/wikidata.png
   title: Wikidata
@@ -15,8 +14,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "A gentle introduction to Wikidata - für Kulturinstitutionen"
+title: A gentle introduction to Wikidata - für Kulturinstitutionen
+publishedDate: 2017-05-17 09:00:00
 ---
 
 Gemeinsam mit der Servicestelle Digitalisierung Berlin (digiS) und Wikimedia Deutschland bieten wir am 09. Juni einen Workshop zu Wikidata und den Potenzialen für Kulturinstitutionen an. Die Teilnahme ist kostenlos.
@@ -58,4 +57,3 @@ Agenda
 
 Ort: Zuse Institute Berlin (ZIB), Takustraße 7, 14195 Berlin
 Anmeldung: [helene.hahn@okfn.de](mailto:helene.hahn@okfn.de)
-

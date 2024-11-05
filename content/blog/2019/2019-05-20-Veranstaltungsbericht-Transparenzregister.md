@@ -2,10 +2,9 @@
 authors:
 - OKF
 - TI
-date: 2019-05-20
 image:
   src: /files/blog/2019/05/veranstaltung-okf-ti.JPG
-  title: "Podiumsdiskussion"
+  title: Podiumsdiskussion
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/2.0/
 tags:
@@ -16,10 +15,11 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-featured:
-title: "Veranstaltungsbericht: Mit Open Data Geldwäsche bekämpfen"
+featured: null
+title: 'Veranstaltungsbericht: Mit Open Data Geldwäsche bekämpfen'
+publishedDate: 2019-05-20
 ---
+
 ### Donnerstag, 16. Mai 2019 | 13:00 – 14:30 Uhr Hotel nhow | Stralauer Allee 3 | 10245 Berlin-Friedrichshain
 #### Eine gemeinsame Veranstaltung von Transparency Deutschland und Open Knowledge Foundation Deutschland e.V.
 

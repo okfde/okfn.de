@@ -1,16 +1,15 @@
 ---
 authors:
 - Arne Semsrott
-date: 2017-08-29 10:00:00
 image:
   src: /files/blog/2017/08/digitalomat.jpg
 type: post
 layout: post
 card: true
-published: true
 tags:
 - Digital-O-Mat
-title: "Digital-O-Mat geht online: Entscheidungshilfe zur Bundestagswahl"
+title: 'Digital-O-Mat geht online: Entscheidungshilfe zur Bundestagswahl'
+publishedDate: 2017-08-29 10:00:00
 ---
 
 Ab sofort können alle Wahlberechtigten ein neues Online-Tool als Entscheidungshilfe für die Bundestagswahl nutzen: Mit 12 Klicks verrät der [Digital-O-Mat](https://bund.digital-o-mat.de/) Wählerinnen und Wählern, mit welcher Partei sie bei netzpolitischen Themen auf einer Wellenlänge liegen.

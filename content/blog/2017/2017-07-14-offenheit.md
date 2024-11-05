@@ -1,14 +1,13 @@
 ---
-authors: 
+authors:
 - Christian Heise
 - Andreas Pawelke
 - Arne Semsrott
-date: 2017-07-13 00:10:00
 image:
   src: /files/blog/2017/07/zivilgesellschaft.jpg
-  title: 
-  license:
-  license_url: 
+  title: null
+  license: null
+  license_url: null
 tags:
 - Open-Data-Gesetz
 - Policy
@@ -18,8 +17,8 @@ tags:
 type: post
 layout: post
 card: true
-published: true
-title: "Wir müssen in die Zivilgesellschaft investieren" 
+title: Wir müssen in die Zivilgesellschaft investieren
+publishedDate: 2017-07-13 00:10:00
 ---
 
 Hoffnung allein reicht nicht. Angesichts von Donald, Brexit und Orbán, angesichts der großen Stimmengewinne von rechtsextremen Parteien bei Wahlen in Frankreich, Österreich und den Niederlande sind die demokratischen Kräfte in Europa gefordert, die Demokratie attraktiver zu machen.

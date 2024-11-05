@@ -2,18 +2,19 @@
 authors:
 - Mara Mendes
 - Mihaly Fazekas
-date: 2016-03-30 23:33
+date: 2016-03-30 23:33:00
 image:
   src: /files/blog/2016/03/FileStack_retouched.jpg
-  title: "Public procurement in Europe needs to enter the digital era"
+  title: Public procurement in Europe needs to enter the digital era
 type: post
 layout: post
 card: true
 tags:
 - Public Procurement
 - Fiscal Transparency
-title: "Public procurement in Europe needs to enter the digital era"
+title: Public procurement in Europe needs to enter the digital era
 ---
+
 Approximately 20% of the EU’s GDP every year is spent on procuring public goods and some estimate that the costs added to government contracts due to corruption amount to around 20-25%. This is a striking amount and it is even more worrying considering that it compromises widely supported public goals such a building safe highways, high quality school buildings, or delivering medicine for a fair price. This is one of the main reasons why more research needs to be done to make public procurement more efficient and transparent. Addressing this gap is what this new EU-funded large-scale project, <a href="http://digiwhist.eu">DIGIWHIST</a>, does. 
 
 ###Transparency in procurement starts with governments proactively publishing key data on every relevant aspect of procurement tenders.  
@@ -28,5 +29,3 @@ With a few exceptions such as the European Commission’s TED database or Romani
 <iframe src="https://opentender.eu/mapping/iframe.html#?nr=10" frameborder="0" width="600px" height="524px"></iframe>
 
 Over the next years, we will publish a set of blog posts discussing these key issues in depth. Also, we will work on capturing and re-publishing open public procurement data in all 35 jurisdictions and collaborating with existing partners to work towards a more standardised procurement data landscape in Europe. If you are interested in joining us - get in touch <a href="mailto:digiwhist@okfn.de">digiwhist@okfn.de</a>
-
-
