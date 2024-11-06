@@ -346,6 +346,24 @@
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/blog/2024/10/neuwahl-vorstand-okf/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/vorstand/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/erbschaften/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/spenden/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2024/09/spenden-erbschaften/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/hackday/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -353,9 +371,6 @@
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/jugendhackt/</loc>
-    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/okfde/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/demo-day/</loc>
@@ -1018,9 +1033,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/04/forum-open-education-2021-jetzt-anmelden/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/vorstand/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/03/okf-vorstandswechsel/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
@@ -3990,8 +4002,6 @@
                 href="https://okfn.de/projekte/energyhack/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/erbschaften/</loc>
-  </url><url>
     <loc>https://okfn.de/projekte/europeanacloud/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4197,8 +4207,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/mofab/"
                 />
-  </url><url>
-    <loc>https://okfn.de/blog/1/01/neuwahl-des-vorstands-pressemitteilung/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/odine/</loc>
     <xhtml:link
@@ -4434,8 +4442,6 @@
                 href="https://okfn.de/publikationen/2021_sovereigntechfeasibility/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/spenden/</loc>
-  </url><url>
     <loc>https://okfn.de/spenden/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4447,8 +4453,6 @@
                 hreflang="de"
                 href="https://okfn.de/spenden/"
                 />
-  </url><url>
-    <loc>https://okfn.de/blog/1/01/spenden-und-erbschaften-f%C3%BCr-die-okf/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/stadtlandcode/</loc>
     <xhtml:link

@@ -41,6 +41,27 @@
     </item>
     
     <item>
+      <title>Neuwahl des Vorstands - Pressemitteilung</title>
+      <link>https://okfn.de/blog/2024/10/neuwahl-vorstand-okf/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2024/10/neuwahl-vorstand-okf/</guid>
+      <description>&lt;h2 id=&#34;neuer-vorstand-gewählt&#34;&gt;Neuer Vorstand gewählt&lt;/h2&gt;
+&lt;p&gt;Bei der Mitgliederversammlung der Open Knowledge Foundation e. V. wurde am 19.09.2024 ein neuer Vorstand gewählt. Bisher bestand dieser aus Kristina Klein (Vorsitzende), Gabriele C. Klug (Kassenwartin), sowie den Beisitzer*innen Lea Gimpel, Stefan Heumann und Felix Reda. Wir freuen uns bekanntzugeben, dass die bisherigen Vorstandsmitglieder erneut ihre Positionen antreten.&lt;/p&gt;
+&lt;p&gt;Zitat unserer wiedergewählten Vorsitzenden Kristina Klein: &lt;em&gt;&amp;ldquo;Ich kenne die OKF seit 10 Jahren und stehe immer wieder verblüfft vor diesen fantastischen Menschen, die hier zusammenkommen. Ihr politisches Feingespür verbunden mit Tech-Kompetenz, ihr pädagogisches Talent, jungen Menschen das Gefühl zu geben, Demokratie mitgestalten zu können sowie ihre Leidenschaft, durch Förderprogramme und Mentoring die Civic-Tech-Community zu unterstützen und aufzubauen, sind besonders. So simpel es für diesen Anlass klingen mag: Es ist mir eine Ehre, Teil dieser Organisation zu sein und mit dem OKF-Team zusammenarbeiten zu dürfen.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spenden und Erbschaften für die OKF</title>
+      <link>https://okfn.de/blog/2024/09/spenden-erbschaften/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2024/09/spenden-erbschaften/</guid>
+      <description>&lt;h2 id=&#34;spenden-und-erbschaften&#34;&gt;Spenden und Erbschaften&lt;/h2&gt;
+&lt;p&gt;Spenden ermöglichen es uns als Open Knowledge Foundation Deutschland e. V., unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Aber auch Erbschaften können unsere Arbeit unterstützen! So wie es bei &lt;a href=&#34;https://fragdenstaat.de/artikel/eigener-sache/2024/07/wir-haben-geerbt/&#34; target=&#34;_blank&#34;&gt;FragDenStaat&lt;/a&gt; in diesem Jahr zum ersten Mal passiert ist: Ein Nutzer, der im vergangenen Jahr verstorben ist, hat FragDenStaat in seinem Testament bedacht und dem Projekt insgesamt 86.000 Euro überlassen. Wir sind sehr, sehr dankbar für dieses große Vertrauen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Hackday am 3. Oktober!</title>
       <link>https://okfn.de/blog/2024/09/hack-day/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
@@ -7611,17 +7632,6 @@ Internationale Tagung mit Hackday und Schulungsangebot zu Datenanalyse und -quel
     </item>
     
     <item>
-      <title>Neuwahl des Vorstands - Pressemitteilung</title>
-      <link>https://okfn.de/blog/1/01/neuwahl-des-vorstands-pressemitteilung/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/blog/1/01/neuwahl-des-vorstands-pressemitteilung/</guid>
-      <description>&lt;h2 id=&#34;neuer-vorstand-gewählt&#34;&gt;Neuer Vorstand gewählt&lt;/h2&gt;
-&lt;p&gt;Bei der Mitgliederversammlung der Open Knowledge Foundation e. V. wurde am 19.09.2024 ein neuer Vorstand gewählt. Bisher bestand dieser aus Kristina Klein (Vorsitzende), Gabriele C. Klug (Kassenwartin), sowie den Beisitzer*innen Lea Gimpel, Stefan Heumann und Felix Reda. Wir freuen uns bekanntzugeben, dass die bisherigen Vorstandsmitglieder erneut ihre Positionen antreten.&lt;/p&gt;
-&lt;p&gt;Zitat unserer wiedergewählten Vorsitzenden Kristina Klein: &lt;em&gt;&amp;ldquo;Ich kenne die OKF seit 10 Jahren und stehe immer wieder verblüfft vor diesen fantastischen Menschen, die hier zusammenkommen. Ihr politisches Feingespür verbunden mit Tech-Kompetenz, ihr pädagogisches Talent, jungen Menschen das Gefühl zu geben, Demokratie mitgestalten zu können sowie ihre Leidenschaft, durch Förderprogramme und Mentoring die Civic-Tech-Community zu unterstützen und aufzubauen, sind besonders. So simpel es für diesen Anlass klingen mag: Es ist mir eine Ehre, Teil dieser Organisation zu sein und mit dem OKF-Team zusammenarbeiten zu dürfen.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Rückblick Energyhack 2017: Du hast die Wahl!</title>
       <link>https://okfn.de/blog/1/01/r%C3%BCckblick-energyhack-2017-du-hast-die-wahl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -7629,16 +7639,6 @@ Internationale Tagung mit Hackday und Schulungsangebot zu Datenanalyse und -quel
       <guid>https://okfn.de/blog/1/01/r%C3%BCckblick-energyhack-2017-du-hast-die-wahl/</guid>
       <description>&lt;p&gt;Am 22. und 23. September fand der dritte Energyhack von &lt;a href=&#34;https://www.stromnetz-berlin.de/&#34; target=&#34;_blank&#34;&gt;Stromnetz Berlin&lt;/a&gt; und der Open Knowledge Foundation statt. Passend zum Wahlwochende lautete das Motto &amp;ldquo;Du hast die Wahl&amp;rdquo;. Wir haben uns sehr über euer großes Interesse gefreut und wollen an dieser Stelle allen die nicht dabei sein konnten einen Überblick geben was alles an dem Wochenende passierte und welche Projekte entstanden sind.&lt;/p&gt;
 &lt;p&gt;Ziel des Hackdays war es innerhalb von 24h mit offenen Daten aus dem Energiesektor kreative Projekte umzusetzen, um die Gesellschaft stärker für die Themen Strom-, Energienetze und Energiewende zu sensibilisieren und Anwendungen für diese Bereiche zu entwickeln. Nach den erfolgreichen Energyhacks 2013 und 2015 fand die diesjährige Veranstaltung im Kontext des Forschungsprojekts WindNODE statt. Dadurch hatten wir die Chance weitere Betriebe der Daseinsvorsorge wie die Berliner Wasserbetriebe als Unterstützer und Bereitsteller von offenen Daten zu gewinnen.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Spenden und Erbschaften für die OKF</title>
-      <link>https://okfn.de/blog/1/01/spenden-und-erbschaften-f%C3%BCr-die-okf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/blog/1/01/spenden-und-erbschaften-f%C3%BCr-die-okf/</guid>
-      <description>&lt;h2 id=&#34;spenden-und-erbschaften&#34;&gt;Spenden und Erbschaften&lt;/h2&gt;
-&lt;p&gt;Spenden ermöglichen es uns als Open Knowledge Foundation Deutschland e. V., unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Aber auch Erbschaften können unsere Arbeit unterstützen! So wie es bei &lt;a href=&#34;https://fragdenstaat.de/artikel/eigener-sache/2024/07/wir-haben-geerbt/&#34; target=&#34;_blank&#34;&gt;FragDenStaat&lt;/a&gt; in diesem Jahr zum ersten Mal passiert ist: Ein Nutzer, der im vergangenen Jahr verstorben ist, hat FragDenStaat in seinem Testament bedacht und dem Projekt insgesamt 86.000 Euro überlassen. Wir sind sehr, sehr dankbar für dieses große Vertrauen.&lt;/p&gt;</description>
     </item>
     
   </channel>
