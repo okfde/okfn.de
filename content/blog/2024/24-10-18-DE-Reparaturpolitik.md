@@ -11,7 +11,7 @@ tags:
 type: post
 layout: post
 featured: blue
-title: Licht ins Dunkel deutscher Reparaturpolitik
+title: 'Licht ins Dunkel deutscher Reparaturpolitik'
 publishedDate: 2024-10-19
 ---
 
