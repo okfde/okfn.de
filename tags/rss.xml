@@ -65,10 +65,31 @@
       <description></description>
     </item>
     <item>
+      <title>Hackday</title>
+      <link>https://okfn.de/tags/hackday/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/hackday/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Jugendhackt</title>
       <link>https://okfn.de/tags/jugendhackt/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/jugendhackt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Demo Day</title>
+      <link>https://okfn.de/tags/demo-day/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/demo-day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PrototypeDemos</title>
+      <link>https://okfn.de/tags/prototypedemos/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/prototypedemos/</guid>
       <description></description>
     </item>
     <item>
@@ -1878,13 +1899,6 @@
       <description></description>
     </item>
     <item>
-      <title>Hackday</title>
-      <link>https://okfn.de/tags/hackday/</link>
-      <pubDate>Mon, 16 Nov 2015 10:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/hackday/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Open Science</title>
       <link>https://okfn.de/tags/open-science/</link>
       <pubDate>Wed, 16 Sep 2015 10:42:49 +0000</pubDate>
@@ -2704,13 +2718,6 @@
       <description></description>
     </item>
     <item>
-      <title>Demo Day</title>
-      <link>https://okfn.de/tags/demo-day/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/demo-day/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Demokratieförderung</title>
       <link>https://okfn.de/tags/demokratief%C3%B6rderung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2722,13 +2729,6 @@
       <link>https://okfn.de/tags/erbschaften/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/erbschaften/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PrototypeDemos</title>
-      <link>https://okfn.de/tags/prototypedemos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/prototypedemos/</guid>
       <description></description>
     </item>
     <item>
