@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-10-20T00:00:00+0000</updated>
+  <updated>2024-11-11T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bewerbungsstart für Jahrgang 01 des Prototype Fund</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/11/newprototypefund/"/>
+    <id>https://okfn.de/blog/2024/11/newprototypefund/</id>
+    <published>2024-11-11T00:00:00+0000</published>
+    <updated>2024-11-11T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;der-prototype-fund-geht-weiter---förderung-bis-2029&#34;&gt;Der Prototype Fund geht weiter - Förderung bis 2029&lt;/h2&gt;
+&lt;p&gt;Großartige Neuigkeiten! Der Prototype Fund wird für weitere vier Jahre innovative Open-Source-Software aus der Gesellschaft und für die Gesellschaft fördern! Damit bleibt er auch in den nächsten Jahren eine wichtige Anlaufstelle für alle, die Lösungen für gesellschaftliche Herausforderungen entwickeln wollen. Und dabei gibt es ganz viel Neues, das nicht nur dem Team von Prototype Fund, sondern auch ihren zukünftigen Förderprojekten sehr gut gefallen dürfte. Unter anderem liegt der maximale Förderbetrag nun bei bis zu 158.000 € für zehn Monate. Für die zukünftigen Förderphasen liegen die Förder­schwerpunkte bei Datensicherheit und Software-Infrastruktur – zwei Bereiche, die besonders wichtig sind.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Prototpye Fund Hardware Runde 2: Open Hardware für den Umweltschutz</title>
@@ -156,18 +166,6 @@ Foto: Moderator Tobias Schmid auf der Bühne&lt;/p&gt;
     <updated>2024-06-28T00:00:00+0000</updated>
     <summary>&lt;p&gt;Die Bundesregierung arbeitet an einer Strategie, die &amp;ldquo;&lt;a href=&#34;https://www.bmuv.de/themen/kreislaufwirtschaft/kreislaufwirtschaftsstrategie&#34; target=&#34;_blank&#34;&gt;Ziele und Maßnahmen zum zirkulären Wirtschaften und zur Ressourcenschonung aus allen relevanten Strategien&lt;/a&gt;&amp;rdquo; zusammenführen und den primären Rohstoffbedarf &amp;ldquo;absolut&amp;rdquo; senken soll. Mehr Informationen auf der Produktebene und offene Designs können maßgeblich zum Erfolg dieses Zieles beitragen. Dafür setzt sich die OKF zusammen mit der &lt;a href=&#34;https://open-hardware-allianz.de/&#34; target=&#34;_blank&#34;&gt;Open Hardware Allianz&lt;/a&gt; ein.&lt;/p&gt;
 &lt;p&gt;Am 17. Juni 2024 legte das Umweltministerium (BMUV) den ersten &lt;a href=&#34;https://www.bmuv.de/download/entwurf-einer-nationalen-kreislaufwirtschaftsstrategie-nkws&#34; target=&#34;_blank&#34;&gt;Entwurf&lt;/a&gt; dieser &amp;ldquo;Nationalen Kreislaufwirtschaftsstrategie&amp;rdquo; (NKWS) vor. Er basiert auf Dialogprozessen mit einer Vielzahl von Akteur:innen, an denen sich auch die OKF beteiligt hat. Parallel zur Ressortabstimmung der Regierung und Einbindung der Länder gibt es bis zum 9. Juli die Möglichkeit zur schriftlichen Stellungnahme. Die Verabschiedung der NKWS im Kabinett ist für Herbst dieses Jahres geplant.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Das war 2023: Unser Jahresbericht ist online!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/06/jahresbericht-2023/"/>
-    <id>https://okfn.de/blog/2024/06/jahresbericht-2023/</id>
-    <published>2024-06-20T00:00:00+0000</published>
-    <updated>2024-06-20T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Unser Jahresbericht 2023 ist online! Viel ist passiert, und wir blicken zurück auf ein ereignisreiches Jahr voller spannender Projekt und beeindruckender Highlights. Nach der erfolgreich abgeschlossenen Wirtschaftsprüfung könnt ihr ab sofort unseren vollständigen Jahresbericht auf &lt;a href=&#34;https://2023.okfn.de/&#34; target=&#34;_blank&#34;&gt;2023.okfn.de&lt;/a&gt; einsehen. Selbstverständlich steht auch eine &lt;a href=&#34;https://2023.okfn.de/assets/documents/OKF_Jahresbericht_2023.pdf&#34; target=&#34;_blank&#34;&gt;PDF Version&lt;/a&gt; zum Download bereit. Taucht ein und erfahrt mehr über unsere Erfolge und Fortschritte im vergangenen Jahr!&lt;/p&gt;
-&lt;h2 id=&#34;unsere-highlights-aus-2023&#34;&gt;Unsere Highlights aus 2023:&lt;/h2&gt;
-&lt;h3 id=&#34;ein-scharfes-schwert-gegen-rechts&#34;&gt;Ein scharfes Schwert gegen rechts&lt;/h3&gt;
-&lt;p&gt;Wer von rechts abgemahnt oder verklagt wird – sei es wegen eines Artikels, eines Tweets oder eines Theaterstücks – kann sich seit 2023 an unseren Rechtshilfefonds, den Gegenrechtsschutz wenden. Bisher fehlte es oft an ausreichenden Mitteln und sachverständiger Unterstützung, um gegen diese juristischen Angriffe und Einschüchterungsversuche vorzugehen. In einem halben Dutzend Fällen haben wir Betroffenen bereits geholfen, sich erfolgreich vor Gericht zu wehren. In vielen anderen Fällen hat bereits ein Anwaltsschreiben geholfen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
