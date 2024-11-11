@@ -18,11 +18,11 @@ publishedDate:
 
 ## Vielseitige Angebote
 
-Neben der finanziellen Unterstützung erwarten euch außerdem ein umfassendes Unterstützungsprogramm: Alle geförderten Projekte können auf Beratung und ein starkes Netzwerk zurückgreifen, um technische Herausforderungen zu meistern, an Sichtbarkeit zu gewinnen und sich zu vernetzen. Wenn ihr eine Lösung für gesellschaftliche Herausforderungen entwickelt oder neue Wege der digitalen Zusammenarbeit aufzeigen möchtet, ist jetzt der richtige Zeitpunkt, den nächsten Schritt zu machen und euer Projekt weiterzuentwickeln! 
+Neben der finanziellen Unterstützung erwartet euch außerdem ein umfassendes Unterstützungsprogramm: Alle geförderten Projekte können auf Beratung und ein starkes Netzwerk zurückgreifen, um technische Herausforderungen zu meistern, an Sichtbarkeit zu gewinnen und sich zu vernetzen. Wenn ihr eine Lösung für gesellschaftliche Herausforderungen entwickelt oder neue Wege der digitalen Zusammenarbeit aufzeigen möchtet, ist jetzt der richtige Zeitpunkt, den nächsten Schritt zu machen und euer Projekt weiterzuentwickeln! 
 
 ## Jetzt bewerben!
 
-Der Bewerbungsstart für den Jahrgang 01 ist *heute*, am 11. November 2024. Bis zum 2. Januar 2025 habt ihr die Chance, euch zu bewerben. Der Förderstart ist dann für den 01. Juni 2025 vorgesehen.
+Der Bewerbungsstart für den Jahrgang 01 ist der 11. November 2024. Bis zum 2. Januar 2025 habt ihr die Chance, euch zu bewerben! Der Förderstart ist dann für den 01. Juni 2025 vorgesehen.
 
 ## Weitere Infos
 
