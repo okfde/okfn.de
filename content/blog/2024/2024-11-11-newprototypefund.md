@@ -14,7 +14,7 @@ publishedDate:
 
 ## Der Prototype Fund geht weiter - Förderung bis 2029
 
-Großartige Neuigkeiten! Der Prototype Fund wird für weitere vier Jahre innovative Open-Source-Software aus der Gesellschaft und für die Gesellschaft fördern! Damit bleibt er auch in den nächsten Jahren eine wichtige Anlaufstelle für alle, die Lösungen für gesellschaftliche Herausforderungen entwickeln wollen. Und dabei gibt es ganz viel Neues, das nicht nur dem Team von Prototype Fund, sondern auch ihren zukünftigen Förderprojekten sehr gut gefallen dürfte. Unter anderem liegt der maximale Förderbetrag nun bei bis zu 158.000 € für zehn Monate. Für die zukünftigen Förderphasen liegen die Förder­schwerpunkte bei Datensicherheit und Software-Infrastruktur – zwei Bereiche, die besonders wichtig sind.
+*Großartige Neuigkeiten!* Der Prototype Fund wird für weitere vier Jahre innovative Open-Source-Software aus der Gesellschaft und für die Gesellschaft fördern! Damit bleibt er auch in den nächsten Jahren eine wichtige Anlaufstelle für alle, die Lösungen für gesellschaftliche Herausforderungen entwickeln wollen. Und dabei gibt es ganz viel Neues, das nicht nur dem Team von Prototype Fund, sondern auch ihren zukünftigen Förderprojekten sehr gut gefallen dürfte. Unter anderem liegt der maximale Förderbetrag nun bei bis zu 158.000 € für zehn Monate. Für die zukünftigen Förderphasen liegen die Förder­schwerpunkte bei Datensicherheit und Software-Infrastruktur – zwei Bereiche, die besonders wichtig sind.
 
 ## Vielseitige Angebote
 
