@@ -1,48 +1,45 @@
 <header class="l__topbar">
-  <div>
-    <div class="l__inner">
-      <a href="#content" class="show-on-focus skip">Skip to content</a>
-      {{ with .Site.GetPage "/"}}
-        <a href="{{.Permalink}}" title="Startseite" class="c__logo l__logo">
-          {{ readFile "static/okf/okf-logo-topbar.svg" | safeHTML }}
-        </a>
-      {{end}}
-      <div class="l__topbar__toggle">
-        <button type="button" id="js-topnav-toggle" tabindex="">
-          <span class="l__topbar__toggle--burger">{{ readFile "static/files/icons/menu.svg" | safeHTML }}</span>
-          <span class="l__topbar__toggle--close">{{ readFile "static/files/icons/close.svg" | safeHTML }}</span>
-        </button>
-      </div>
-      <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
-        <!-- {{ with .Site.GetPage "/anniversary" }}<li class="l__item"><a href="{{ .Permalink }}" class="l__nav-link--anniversary">{{ .Title }}</a></li>{{ end }} -->
-        {{ with .Site.GetPage "/spenden" }}<li class="l__item"><a href="{{ .Permalink }}" class="l__nav-link--donate">{{ .Title }}</a></li>{{ end }}
-        {{ with .Site.GetPage "/profil" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        {{ with .Site.GetPage "/projekte" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        {{ with .Site.GetPage "/publikationen" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        {{ with .Site.GetPage "/events" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-        <li class="l__item"><a href="/blog">Blog</a></li>
-
-        {{ $langList := (.Page.AllTranslations) }}
-        {{ $currentLang := .Language}}
-        {{ $lenLangList := len $langList}}
-        <li>{{ range $index, $translation := $langList }}
-          <a href="{{ $translation.Permalink }}" class="{{ if ne $currentLang .Language}}inactive{{ end }}">{{ $translation.Language.LanguageName }}</a>
-          {{ if (eq $index 0) }}|{{ end }}
-          {{ if (eq $lenLangList 1)}}
-          <a href="{{ $translation.Permalink}}">EN</a>
-          {{ end }}
-          {{ end }}
-        </li>
-        <li class="l__search__btn">
-          <button class="" id="js-search-button">
-            <span class="sr-only invisible">{{ i18n "search_open"}}</span>
-            <span class="d-md-none fake-link">Suche</span>
-            <span class="d-none d-md-block">
-              {{ readFile "static/files/icons/search.svg" | safeHTML }}
-            </span>
-          </button>
-        </li>
-      </ul>
+  <div class="l__wrapper">
+    <a href="#content" class="show-on-focus skip">Skip to content</a>
+    {{ with .Site.GetPage "/"}}
+      <a href="{{.Permalink}}" title="Startseite" class="c__logo l__logo">
+        {{ readFile "static/okf/okf-logo-topbar.svg" | safeHTML }}
+      </a>
+    {{end}}
+    <div class="l__topbar__toggle">
+      <button type="button" id="js-topnav-toggle" tabindex="">
+        <span class="l__topbar__toggle--burger">{{ readFile "static/files/icons/menu.svg" | safeHTML }}</span>
+        <span class="l__topbar__toggle--close">{{ readFile "static/files/icons/close.svg" | safeHTML }}</span>
+      </button>
     </div>
+    <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
+      {{ with .Site.GetPage "/spenden" }}<li class="l__item"><a href="{{ .Permalink }}" class="l__nav-link--donate">{{ .Title }}</a></li>{{ end }}
+      {{ with .Site.GetPage "/profil" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+      {{ with .Site.GetPage "/projekte" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+      {{ with .Site.GetPage "/publikationen" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+      {{ with .Site.GetPage "/events" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+      <li class="l__item"><a href="/blog">Blog</a></li>
+
+      {{ $langList := (.Page.AllTranslations) }}
+      {{ $currentLang := .Language}}
+      {{ $lenLangList := len $langList}}
+      <li>{{ range $index, $translation := $langList }}
+        <a href="{{ $translation.Permalink }}" class="{{ if ne $currentLang .Language}}inactive{{ end }}">{{ $translation.Language.LanguageName }}</a>
+        {{ if (eq $index 0) }}|{{ end }}
+        {{ if (eq $lenLangList 1)}}
+        <a href="{{ $translation.Permalink}}">EN</a>
+        {{ end }}
+        {{ end }}
+      </li>
+      <li class="l__search__btn">
+        <button class="" id="js-search-button">
+          <span class="sr-only invisible">{{ i18n "search_open"}}</span>
+          <span class="d-md-none fake-link">Suche</span>
+          <span class="d-none d-md-block">
+            {{ readFile "static/files/icons/search.svg" | safeHTML }}
+          </span>
+        </button>
+      </li>
+    </ul>
   </div>
 </header>

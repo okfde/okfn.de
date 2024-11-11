@@ -13,31 +13,30 @@
 .l__topbar
   background-color: $white
   border-bottom: $greyish 1px solid
-  > div
+  .l__wrapper
+    padding-top: 7px
     max-width: map-get($container-max-widths, xl)
-    @include make-container()
+    display: grid
+    grid-template-areas: "logo burger" "nav nav"
+    margin: auto
+
+    @media (max-width: map-get($container-max-widths, xl))
+      padding-inline: $space-half
+
+    .l__logo
+      grid-area: logo
+
+    .l__topbar__toggle
+      grid-area: burger
+
 
 .l__inner
   @include make-row()
 
-.l__logo
-  @include make-col-ready()
-  @include make-col(2)
-
 .l__nav
-  @include make-col-ready()
   justify-content: end
   align-items: center
-  @include media-breakpoint-up(md)
-    @include make-col(6)
-    @include make-col-offset(4)
-
-  .l__nav-link--anniversary
-    color: #9558b7
-
-    &:hover
-      color: #59439c
-      border-bottom-color: #59439c
+  gap: 1ch
 
   .l__nav-link--donate
     color: $anchor
@@ -45,14 +44,11 @@
     &:hover
       color: $anchor
       border-bottom-color: $anchor
-    
-  .l__item
-    margin-inline: 0.15rem;
 
 @media print
   .js
     padding-top: 0
-    
+
     .l__topbar
       position: static
       margin-bottom: $space
@@ -60,7 +56,7 @@
       > div
         min-height: auto !important
         height: auto !important
-        
+
 
   .l__topbar
     .l__inner
