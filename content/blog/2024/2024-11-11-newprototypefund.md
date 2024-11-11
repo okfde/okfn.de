@@ -9,7 +9,7 @@ type: post
 layout: post
 featured: yellow
 title: Bewerbungsstart für Jahrgang 01 des Prototype Fund
-publishedDate:
+publishedDate: 2024-11-11
 ---
 
 ## Der Prototype Fund geht weiter - Förderung bis 2029
