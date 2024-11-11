@@ -9,5 +9,5 @@
 
   "forwardPorts": [1313],
 
-  "postCreateCommand": "hugo serve",
+  "postStartCommand": "hugo serve --baseUrl=/ --appendPort=false"
 }
