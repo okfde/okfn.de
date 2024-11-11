@@ -22,7 +22,7 @@ Neben der finanziellen Unterstützung erwartet euch außerdem ein umfassendes Un
 
 ## Jetzt bewerben!
 
-Der Bewerbungsstart für den Jahrgang 01 ist der 11. November 2024. Bis zum 2. Januar 2025 habt ihr die Chance, euch zu bewerben! Der Förderstart ist dann für den 01. Juni 2025 vorgesehen.
+Der Bewerbungsstart für den Jahrgang 01 ist der 11. November 2024. Bis zum 2. Januar 2025 habt ihr die Chance, euch für eine Förderung zu bewerben! Der Förderstart ist dann für den 01. Juni 2025 vorgesehen.
 
 ## Weitere Infos
 
