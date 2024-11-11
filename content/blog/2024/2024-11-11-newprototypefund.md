@@ -2,7 +2,7 @@
 authors:
 - OKFDE
 image:
-  src: /files
+  src: /files/blog/2024/2024-PrototypeFund-new.png
 tags:
 - PrototypeFund
 type: post
