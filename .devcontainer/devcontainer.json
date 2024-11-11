@@ -1,0 +1,13 @@
+{
+  "name": "Hugo Preview",
+  "image": "mcr.microsoft.com/devcontainers/base:latest",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "extended": true
+    }
+  },
+
+  "forwardPorts": [1313],
+
+  "postCreateCommand": "hugo serve",
+}
