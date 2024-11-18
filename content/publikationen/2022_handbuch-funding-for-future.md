@@ -15,7 +15,7 @@ license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: '[PrototypeFund Website](https://www.prototypefund.de)'
-publishedDate: 2022-04-01
+date: 2022-04-01
 ---
 
 Mit diesem Handbuch gibt der Prototype Fund am Beispiel von Open-Source-Software einen Einblick darin, wie unbürokratisches Funding für Individuen und kleine Teams funktionieren kann und was die Vorteile davon sind.

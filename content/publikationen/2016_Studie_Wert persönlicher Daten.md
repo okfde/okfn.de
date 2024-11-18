@@ -18,7 +18,7 @@ size: 1.03 MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links: null
-publishedDate: 2016-09-01
+date: 2016-09-01
 ---
 
 Ziel dieser Studie ist, eine allgemein verständliche Übersicht zum Handel mit Daten zu erstellen, die den Wert von Daten strukturiert erfasst.

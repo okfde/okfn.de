@@ -16,7 +16,7 @@ license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: '[https://2023.okfn.de](https://2023.okfn.de)'
-publishedDate: 2024-06-20
+date: 2024-06-20
 ---
 
 The report looks back at the work of the Open Knowledge Foundation Germany in 2023. The report summarizes the most important activities, describes how the organization works, and presents all projects in brief. The final part of the annual report includes information on the organizational structure and finances.

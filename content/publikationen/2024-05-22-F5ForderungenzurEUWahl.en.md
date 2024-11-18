@@ -16,7 +16,7 @@ license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: <a href="https://buendnis-f5.de/" target="_blank">F5 Alliance Webpage</a>
-publishedDate: 2024-05-22
+date: 2024-05-22
 ---
 
 The European Union has established itself as a pioneer in digital policy. Over the past five years, important laws have been introduced to curb the power of big tech companies and to strengthen human rights in the digital world. At the same time, European digital policy is still too often driven by technical trends and profit-oriented interests. The focus on the common good is lost.

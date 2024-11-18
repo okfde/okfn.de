@@ -16,7 +16,7 @@ license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: <a href="https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_8000/8080.pdf" target="_blank">Draft law</a>
-publishedDate: 2023-03-23
+date: 2023-03-23
 ---
 
 The provision of open data is a central element in the implementation of open government and a key prerequisite for transparency, accountability and verifiability of political actions, acceptance of political decisions, opinion formation and participation.
