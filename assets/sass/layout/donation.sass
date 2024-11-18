@@ -1,6 +1,6 @@
 .l__fancy-donation
   max-width: $max-width
-  padding-block: 30px
+  padding-block: 200px
 
   position: relative
   margin: auto
@@ -9,8 +9,12 @@
   display: grid
   grid-template-columns: 1fr 1fr
 
+  &:first-child
+    padding-top: 30px
+
   @include media-breakpoint-down(sm)
     grid-template-columns: 1fr
+    padding-top: 40px
 
 
   &:nth-of-type(even)
