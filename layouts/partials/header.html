@@ -13,12 +13,13 @@
       </button>
     </div>
     <ul class="l__nav c__nav-list c__nav-list--top" id="js-topnav-menu">
-      {{ with .Site.GetPage "/spenden" }}<li class="l__item"><a href="{{ .Permalink }}" class="l__nav-link--donate">{{ .Title }}</a></li>{{ end }}
-      {{ with .Site.GetPage "/profil" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      {{ with .Site.GetPage "/projekte" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      {{ with .Site.GetPage "/publikationen" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      {{ with .Site.GetPage "/events" }}<li class="l__item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      <li class="l__item"><a href="/blog">Blog</a></li>
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      {{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+      <li>
+      <a {{ if $active }}class="active"{{ end }} href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
 
       {{ $langList := (.Page.AllTranslations) }}
       {{ $currentLang := .Language}}

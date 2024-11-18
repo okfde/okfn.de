@@ -32,7 +32,7 @@ weight =  80
     name = 'tags'
     weight = 60
 
-[mediaTypes]        
+[mediaTypes]
   [mediaTypes."application/atom"]
     suffixes = ["xml"]
   [mediaTypes."application/json"]
@@ -54,14 +54,63 @@ weight =  80
 [languages]
   [languages.de]
     title = "OKF"
-    languageName = "DE" 
+    languageName = "DE"
     weight = 1
+    [languages.de.menus]
+      [[languages.de.menus.main]]
+        name = 'Spenden'
+        pageRef = '/spenden'
+        weight = 10
+      [[languages.de.menus.main]]
+        name = 'Über uns'
+        pageRef = '/profil'
+        weight = 20
+      [[languages.de.menus.main]]
+        name = 'Projekte'
+        pageRef = '/projekte'
+        weight = 30
+      [[languages.de.menus.main]]
+        name = 'Publikationen'
+        pageRef = '/publikationen'
+        weight = 40
+      [[languages.de.menus.main]]
+        name = 'Events'
+        pageRef = '/events'
+        weight = 50
+      [[languages.de.menus.main]]
+        name = 'Blog'
+        pageRef = '/blog'
+        weight = 60
   [languages.en]
     title = "OKF DE"
     languageName = "EN"
     weight = 2
-    
-  
+    [languages.en.menus]
+      [[languages.en.menus.main]]
+        name = 'Donate'
+        pageRef = '/spenden'
+        weight = 10
+      [[languages.en.menus.main]]
+        name = 'About'
+        pageRef = '/profil'
+        weight = 20
+      [[languages.en.menus.main]]
+        name = 'Projects'
+        pageRef = '/projekte'
+        weight = 30
+      [[languages.en.menus.main]]
+        name = 'Publications'
+        pageRef = '/publikationen'
+        weight = 40
+      [[languages.en.menus.main]]
+        name = 'Events'
+        pageRef = '/events'
+        weight = 50
+      [[languages.en.menus.main]]
+        name = 'Blog'
+        pageRef = '/blog'
+        weight = 60
+
 [outputs]
 home = ["HTML", "Json"]
 section = [ "HTML", "Atom", "Json", "Rss" ]
