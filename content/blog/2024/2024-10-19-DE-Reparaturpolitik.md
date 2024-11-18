@@ -13,8 +13,6 @@ layout: post
 featured: blue
 title: 'Licht ins Dunkel deutscher Reparaturpolitik'
 publishedDate: 2024-10-19
-aliases:
-- /blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/
 ---
 
 Als die Bundesregierung 2021 angetreten ist, hatte sie sich vorgenommen das sogenannte „Recht auf Reparatur“ voranzubringen und die Reparierbarkeit eines Produktes „zum erkennbaren Merkmal der Produkteigenschaft“ zu machen (siehe [Koalitionsvertrag](https://www.bundesregierung.de/breg-de/aktuelles/koalitionsvertrag-2021-1990800)). In den folgenden Jahren gab es immer wieder Berichterstattung zu den Entwicklungen auf EU-Ebene. Deutschland wollte mit einem Aktionsprogramm „Reparieren statt wegwerfen“ eine Vorreiterrolle einnehmen. Doch bisher ist nichts passiert. Dafür haben wir ein EU-weites Recht auf Reparatur bekommen, das [seinen Namen nicht verdient](https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/). Mich hat ein Jahr die Frage beschäftigt: Für was hat sich die Bundesregierung nun wirklich eingesetzt? Zahlreiche Anfragen im Rahmen des Informationsfreiheitsgesetzes und eine Klage gegen das Bundes Justizministerium später gibt es einen Haufen Papier und ein paar Antworten. Anlässlich des [internationalen Tages der Reparatur](https://openrepair.org/international-repair-day/) fasse ich sie hier zusammen.
