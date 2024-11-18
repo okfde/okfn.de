@@ -10,6 +10,7 @@ tags:
 - OER
 - Offenes Wissen
 title: '#OERcamp - 14.–16. September 2012, Uni Bremen'
+url: blog/2012/08/oercamp-14.16.-september-2012-uni-bremen
 type: post
 ---
 

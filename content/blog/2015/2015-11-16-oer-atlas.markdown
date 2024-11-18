@@ -10,6 +10,7 @@ tags:
 - Open Education
 - Open Knowledge
 title: "OER-Atlas 2016: Jetzt #OER-Projekte einreichen"
+url: /blog/2016/11/oer-atlas-2016-jetzt-oer-projekte-einreichen
 type: post
 ---
 Für den OER-Atlas 2016 werden Projekte, Akteure und Angebote zum Thema Open Educational Resources gesammelt. Als Open Educational Resources, kurz OER, werden Lern- und Lehrmaterialien bezeichnet, die kostenlos genutzt, verbreitet und bearbeitet werden dürfen. Als eine Art Jahrbuch nimmt der OER-Atlas alle deutschsprachigen Angebote im Bereich freier Lehr- und Lernmittel auf. Die Daten zu Akteuren und Projekten werden im vierten Quartal 2015 in Zusammenarbeit mit dem OER World Map-Projekt des Hochschulbibliothekszentrums NRW (hbz) erhoben. Die Ergebnisse werden parallel in der interaktiven Datenbank der OER World Map auf [oerworldmap.org](oerworldmap.org) und als Buch veröffentlicht. Noch bis zum 02.12.2015 können sich alle Projekte und Organisationen rund um offene Lehr-Lern-Inhalte, über die Webseite [www.o-e-r.de/16/cfp](http://www.o-e-r.de/16/cfp) eintragen .

@@ -8,6 +8,7 @@ layout: post
 tags:
 - Open Data
 title: 'Gastbeitrag - #openimpact: 10 Projekte, die mit Daten Gutes tun'
+url: blog/2015/07/gastbeitrag-openimpact-10-projekte-die-mit-daten-gutes-tu
 type: post
 ---
 
