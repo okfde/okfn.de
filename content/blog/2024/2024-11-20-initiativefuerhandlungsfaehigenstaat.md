@@ -9,7 +9,7 @@ tags:
 type: post
 layout: post
 featured: blue
-title: Initiative für einen handlungsfähigen Staat – Eine notwendige Debatte über unsere Demokratie
+title: Initiative für einen handlungsfähigen Staat – eine notwendige Debatte über unsere Demokratie
 publishedDate: 
 ---
 
