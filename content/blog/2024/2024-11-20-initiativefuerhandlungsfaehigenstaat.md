@@ -10,7 +10,7 @@ type: post
 layout: post
 featured: blue
 title: Initiative für einen handlungsfähigen Staat – eine notwendige Debatte über unsere Demokratie
-publishedDate: 
+publishedDate: 2024-11-20
 ---
 
 ## Eine neue Inititiative
