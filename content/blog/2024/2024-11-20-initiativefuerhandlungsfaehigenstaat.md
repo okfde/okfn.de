@@ -15,7 +15,7 @@ publishedDate:
 
 ## Eine neue Inititiative
 
-Am 12. November 2024 fiel im Schloss Bellevue der Startschuss für die ["Initiative für einen handlungsfähigen Staat"](https://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2024/11/241112-Initiative-handlungsfaehiger-Staat.html), ein Projekt unter der Schirmherrschaft von Bundespräsident Frank-Walter Steinmeier. In einer Rede hob er die Dringlichkeit hervor, die Strukturen des Staates zu reformieren, um der Gesellschaft als Unterstützung dienen zu können. Die Open Knowledge Foundation Deutschland begrüßt die Initiative, denn große Transformationen können nur durch sektorübergreifende Zusammenarbeit gemeistert werden.
+Am 12. November 2024 fiel im Schloss Bellevue der Startschuss für die ["Initiative für einen handlungsfähigen Staat"](https://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2024/11/241112-Initiative-handlungsfaehiger-Staat.html), ein Projekt unter der Schirmherrschaft von Bundespräsident Frank-Walter Steinmeier. In einer Rede hob er die Dringlichkeit hervor, die Strukturen des Staates zu reformieren, um der Gesellschaft als Unterstützung dienen zu können. Die Open Knowledge Foundation e. V. begrüßt die Initiative, denn große Transformationen können nur durch sektorübergreifende Zusammenarbeit gemeistert werden.
 
 ## #Zivilgesellschaft als Schlüssel
 
