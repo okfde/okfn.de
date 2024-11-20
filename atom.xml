@@ -1,25 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2024-11-20T00:00:00+0000</updated>
+  <updated>2024-11-11T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
-  
-  <entry>
-    <title>Initiative für einen handlungsfähigen Staat – eine notwendige Debatte über unsere Demokratie</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/11/initiativefuerhandlungsfaehigenstaat/"/>
-    <id>https://okfn.de/blog/2024/11/initiativefuerhandlungsfaehigenstaat/</id>
-    <published>2024-11-20T00:00:00+0000</published>
-    <updated>2024-11-20T00:00:00+0000</updated>
-    <summary>&lt;h2 id=&#34;eine-neue-inititiative&#34;&gt;Eine neue Inititiative&lt;/h2&gt;
-&lt;p&gt;Am 12. November 2024 fiel im Schloss Bellevue der Startschuss für die &lt;a href=&#34;https://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2024/11/241112-Initiative-handlungsfaehiger-Staat.html&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Initiative für einen handlungsfähigen Staat&amp;rdquo;&lt;/a&gt;, ein Projekt unter der Schirmherrschaft von Bundespräsident Frank-Walter Steinmeier. In einer Rede hob er die Dringlichkeit hervor, die Strukturen des Staates zu reformieren, um der Gesellschaft als Unterstützung dienen zu können. Die Open Knowledge Foundation e. V. begrüßt die Initiative, denn große Transformationen können nur durch sektorübergreifende Zusammenarbeit gemeistert werden.&lt;/p&gt;
-&lt;h2 id=&#34;zivilgesellschaft-als-schlüssel&#34;&gt;#Zivilgesellschaft als Schlüssel&lt;/h2&gt;
-&lt;p&gt;In der Initiative werden größere Fragen der Transformation aus verschiedenen Perspektiven diskutiert. Das ist richtig und gut, denn nur durch eine Zusammenarbeit zwischen den Sektoren werden wir es schaffen, große Herausforderungen zu meistern. Insbesondere die Einbindung von Akteur*innen der Zivilgesellschaft und die Schaffung von Beteiligungsformaten sind dabei entscheidend. Ein funktionierender Staat braucht das Vertrauen und die Mitgestaltung der Menschen.&lt;/p&gt;</summary>
-  </entry>
   
   <entry>
     <title>Bewerbungsstart für Jahrgang 01 des Prototype Fund</title>
@@ -168,6 +156,16 @@ Foto: Moderator Tobias Schmid auf der Bühne&lt;/p&gt;
     <published>2024-07-03T00:00:00+0000</published>
     <updated>2024-07-03T00:00:00+0000</updated>
     <summary>&lt;p&gt;Das Dateninstitut wird kommen: Bis zum 4. Juli 2024 &lt;a href=&#34;https://bieterportal.pd-g.e-va.eu/?tid=dd7c196d2ee42c5b953d617afb8ab0b0&#34; target=&#34;_blank&#34;&gt;läuft&lt;/a&gt; die Frist für Bewerbungen für „Konzeptionierung, Gründung und Betrieb des Dateninstituts“. Mit diesem Startschuss löst die Ampel ein Versprechen aus ihrem Koalitionsvertrag ein. In Sachen Daten gibt es wahrlich viel zu tun. Gut, dass hier etwas passiert. Trotzdem haben sich Wikimedia Deutschland und die Open Knowledge Foundation Deutschland gegen eine Beteiligung an dem Bewerbungsverfahren entschieden. Im Weiteren erklären wir, welche Überlegungen zu unserer Entscheidung geführt haben und welche nächsten Schritte für ein gemeinwohlorientiertes Dateninstitut wichtig sind.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Zum Entwurf der NKWS: ambitioniert bleiben!</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/06/zum-nkws-entwurf/"/>
+    <id>https://okfn.de/blog/2024/06/zum-nkws-entwurf/</id>
+    <published>2024-06-28T00:00:00+0000</published>
+    <updated>2024-06-28T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Die Bundesregierung arbeitet an einer Strategie, die &amp;ldquo;&lt;a href=&#34;https://www.bmuv.de/themen/kreislaufwirtschaft/kreislaufwirtschaftsstrategie&#34; target=&#34;_blank&#34;&gt;Ziele und Maßnahmen zum zirkulären Wirtschaften und zur Ressourcenschonung aus allen relevanten Strategien&lt;/a&gt;&amp;rdquo; zusammenführen und den primären Rohstoffbedarf &amp;ldquo;absolut&amp;rdquo; senken soll. Mehr Informationen auf der Produktebene und offene Designs können maßgeblich zum Erfolg dieses Zieles beitragen. Dafür setzt sich die OKF zusammen mit der &lt;a href=&#34;https://open-hardware-allianz.de/&#34; target=&#34;_blank&#34;&gt;Open Hardware Allianz&lt;/a&gt; ein.&lt;/p&gt;
+&lt;p&gt;Am 17. Juni 2024 legte das Umweltministerium (BMUV) den ersten &lt;a href=&#34;https://www.bmuv.de/download/entwurf-einer-nationalen-kreislaufwirtschaftsstrategie-nkws&#34; target=&#34;_blank&#34;&gt;Entwurf&lt;/a&gt; dieser &amp;ldquo;Nationalen Kreislaufwirtschaftsstrategie&amp;rdquo; (NKWS) vor. Er basiert auf Dialogprozessen mit einer Vielzahl von Akteur:innen, an denen sich auch die OKF beteiligt hat. Parallel zur Ressortabstimmung der Regierung und Einbindung der Länder gibt es bis zum 9. Juli die Möglichkeit zur schriftlichen Stellungnahme. Die Verabschiedung der NKWS im Kabinett ist für Herbst dieses Jahres geplant.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

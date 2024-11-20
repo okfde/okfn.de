@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,8 +255,11 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
+    <loc>https://okfn.de/blog/2024/11/newprototypefund/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,14 +271,8 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2024/11/initiativefuerhandlungsfaehigenstaat/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/initiativef%C3%BCreinenhandlungsf%C3%A4higenstaat/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -288,10 +285,13 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/okfde/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/prototypefund/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -302,15 +302,6 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
-  </url><url>
-    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2024/11/newprototypefund/</loc>
-    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/prototypefund/</loc>
-    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/civic-tech/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
@@ -359,6 +350,9 @@
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/pressemitteilung/</loc>
+    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/10/neuwahl-vorstand-okf/</loc>
