@@ -19,11 +19,11 @@ Am 12. November 2024 fiel im Schloss Bellevue der Startschuss für die ["Initiat
 
 ## #Zivilgesellschaft als Schlüssel
 
-In der Initiative werden größere Fragen der Transformation aus verschiedenen Perspektiven diskutiert. Das ist richtig und gut, denn nur durch eine Zusammenarbeit zwischen den Sektoren werden wir es schaffen, große Herausforderungen zu meistern. Insbesondere die Einbindung von Akteur*innen der Zivilgesellschaft und die Schaffung von Beteiligungsformaten sind dabei maßgeblich entscheidend. Ein funktionierender Staat braucht das Vertrauen und die Mitgestaltung der Menschen.
+In der Initiative werden größere Fragen der Transformation aus verschiedenen Perspektiven diskutiert. Das ist richtig und gut, denn nur durch eine Zusammenarbeit zwischen den Sektoren werden wir es schaffen, große Herausforderungen zu meistern. Insbesondere die Einbindung von Akteur*innen der Zivilgesellschaft und die Schaffung von Beteiligungsformaten sind dabei entscheidend. Ein funktionierender Staat braucht das Vertrauen und die Mitgestaltung der Menschen.
 
 ## Herausforderungen und Ziele der Initiative
 
-Bundespräsident Steinmeier zeichnete die Schwächen unseres Rechts- und Sozialstaats nachab: angeschlagene Infrastruktur, Hürden in der Bürokratie und ein Mangel an Teilhabe der Zivilgesellschaft. Diese Probleme beeinträchtigen nicht nur den Alltag der Bürger*innen, sondern mindern auch das Vertrauen in den Staat und die Demokratie. Er betonte: „Ohne einen leistungsfähigen Staat geht es nicht.“ Die Initiative will genau hier ansetzen, indem sie überparteiliche und langfristige Reformvorschläge erarbeitet. Sie zielt darauf ab, den Staat moderner, bürgernäher und wirksamer zu machen – sei es in der Bildung, Digitalisierung oder Energiepolitik. Vor allem Menschen aus der Zivilgesellschaft sollen ihre Erfahrungen einbringen.
+Bundespräsident Steinmeier zeichnete die Schwächen unseres Rechts- und Sozialstaats nach: angeschlagene Infrastruktur, Hürden in der Bürokratie und ein Mangel an Teilhabe der Zivilgesellschaft. Diese Probleme beeinträchtigen nicht nur den Alltag der Bürger*innen, sondern mindern auch das Vertrauen in den Staat und die Demokratie. Er betonte: *„Ohne einen leistungsfähigen Staat geht es nicht.“* Die Initiative will genau hier ansetzen, indem sie überparteiliche und langfristige Reformvorschläge erarbeitet. Sie zielt darauf ab, den Staat moderner, bürgernäher und wirksamer zu machen – sei es in der Bildung, Digitalisierung oder Energiepolitik. Vor allem Menschen aus der Zivilgesellschaft sollen ihre Erfahrungen einbringen.
 
 ## Ein Aufruf zur Reform
 
