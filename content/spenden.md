@@ -2,7 +2,6 @@
 title: Spenden
 blurb: OKF unterstützen!
 blurb_copy: "**Spenden** ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Wenn euch unsere Mission am Herzen liegt, und es eure finanzielle Situation erlaubt, könnt ihr unsere Arbeit nachhaltig sichern."
-benefits: "Mit eurer Unterstützung stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht uns:"
 benefits_copy: "Mit eurer Unterstützung stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht uns:"
 benefits_bullets:
   - politische Kampagnenarbeit im Interesse der Zivilgesellschaft
@@ -13,17 +12,13 @@ org_copy: "Mit unserem [aktuellen Freistellungsbescheid](https://okfn.de/files/d
 meta: OKF DE unterstützen. Spenden via Überweisung, Betterplace, Paypal
 layout: donation
 bank_name: "Überweisung"
-bank_text: "Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:"
+bank_copy: "Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:"
 img_header: /okf/social-og/spenden-social-og.png
 betterplace_name: Betterplace
-betterplace_text:
 inheritance: "Erbschaften"
 inheritance_text: >
   Erbschaften sind eine besondere Möglichkeit, positiven Einfluss zu hinterlassen. 
   Falls ihr euch nun fragt: „Vererben, aber wie?“ – schaut gerne auf [unserem Blogbeitrag](https://okfn.de/blog/2024/09/spenden-und-erbschaften-f%C3%BCr-die-okf/) vorbei.
-    
-box_title: Um unseren eigenen Ansprüchen an Transparenz gerecht zu werden, haben wir die wichtigsten Transparenzinfos zusammengetragen
-box_link_name: Hier geht's zur Transparenzseite
 thanks: Dankeschön!
 thanks_copy: "Folgt uns gerne auf unseren Social-Media-Kanälen, um über unsere Arbeit auf dem Laufenden zu sein. Und abonniert gerne unseren Newsletter!"
 ---
