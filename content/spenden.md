@@ -1,6 +1,6 @@
 ---
 title: Spenden
-blurb: OKF unterstützen!
+blurb: OKF unterstützen
 blurb_copy: "**Spenden** ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten. Wenn euch unsere Mission am Herzen liegt, und es eure finanzielle Situation erlaubt, könnt ihr unsere Arbeit nachhaltig sichern."
 benefits_copy: "Mit eurer Unterstützung stärkt ihr eine starke digitale Zivilgesellschaft und ermöglicht uns:"
 benefits_bullets:
