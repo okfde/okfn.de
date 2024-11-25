@@ -1,7 +1,7 @@
 ---
 title: Donate
 meta: Support OKF DE. Donate via bank transfer, Betterplace or bank transfer
-blurb: Support OKF!
+blurb: Support OKF
 blurb_copy: >
   **Donations** enable our work to remain independent, non-partisan, interdisciplinary and non-commercial. 
   If our mission is close to your heart and your financial situation allows it, you can secure our work in the long term.
