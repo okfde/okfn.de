@@ -355,6 +355,22 @@
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/2024-okf_stellungnahme_rundfunk/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/2024/10/neuwahl-vorstand-okf/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -437,6 +453,9 @@
     <loc>https://okfn.de/tags/united-nations/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2024-kommentierung-entwurf-nkws-okfde_oha/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/2024/07/recap-republica/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -475,6 +494,19 @@
   </url><url>
     <loc>https://okfn.de/tags/jahresbericht/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023-jahresbericht/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2023-jahresbericht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2023-jahresbericht/"
+                />
   </url><url>
     <loc>https://okfn.de/tags/okfde/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
@@ -561,19 +593,6 @@
                 href="https://okfn.de/publikationen/f5forderungenzureuwahl/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
-  </url><url>
     <loc>https://okfn.de/blog/2024/05/triffdieokfaufderrepublica24/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -634,8 +653,27 @@
     <loc>https://okfn.de/authors/walter-palmetshofer/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</loc>
+    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/e-government-gesetz/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_egovernment-brandenburg/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2023_egovernment-brandenburg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2023_egovernment-brandenburg/"
+                />
   </url><url>
     <loc>https://okfn.de/blog/2023/09/stn-egovgbb/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
@@ -651,6 +689,22 @@
   </url><url>
     <loc>https://okfn.de/tags/un/</loc>
     <lastmod>2023-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_globaldigitalcompact/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2023_globaldigitalcompact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2023_globaldigitalcompact/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_f5_datenstrategie/</loc>
+    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/datenstrategie/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
@@ -682,8 +736,34 @@
     <loc>https://okfn.de/tags/plattformaufsicht/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2023_f5_pm_ddg/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2023_f5_pm_ddg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2023_f5_pm_ddg/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/2023/06/jahresbericht-2022/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2022-jahresbericht/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2022-jahresbericht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2022-jahresbericht/"
+                />
   </url><url>
     <loc>https://okfn.de/tags/community/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
@@ -713,6 +793,19 @@
     <loc>https://okfn.de/tags/stellungnahme/</loc>
     <lastmod>2023-06-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2023_f5_engagementstrategie/</loc>
+    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2023_f5_engagementstrategie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2023_f5_engagementstrategie/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/2023/05/triffdieokfaufderrepublica23/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -731,8 +824,24 @@
     <loc>https://okfn.de/authors/nora-titz/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2023_stellungnahme-hessisches-opendatagesetz/</loc>
+    <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2023_stellungnahme-hessisches-opendatagesetz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2023_stellungnahme-hessisches-opendatagesetz/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/2023/03/das-war-das-forum-open-hardware-23/</loc>
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_handbuch_open_hardware_nachhaltigkeit_foh/</loc>
+    <lastmod>2023-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2023/02/wahlberlin-forderungen/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
@@ -745,6 +854,19 @@
   </url><url>
     <loc>https://okfn.de/blog/2023/02/ptf-bewerbungsphase-runde-14/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2023_stellungnahme-hessischen-e-government-gesetzes/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2023_stellungnahme-hessischen-e-government-gesetzes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2023_stellungnahme-hessischen-e-government-gesetzes/"
+                />
   </url><url>
     <loc>https://okfn.de/blog/2023/01/save-the-date-forum-open-hardware-23/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
@@ -775,6 +897,12 @@
   </url><url>
     <loc>https://okfn.de/tags/openscience/</loc>
     <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2022_f5_zukunftsstrategie/</loc>
+    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2022_f5_demokratief%C3%B6rdergesetz_referentenentwurf/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/bits-b%C3%A4ume/</loc>
     <lastmod>2022-10-06T00:00:00+00:00</lastmod>
@@ -818,6 +946,9 @@
     <loc>https://okfn.de/blog/2022/09/forderungen-bits-und-baeume/</loc>
     <lastmod>2022-09-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2022_bitsundb%C3%A4ume_forderungen/</loc>
+    <lastmod>2022-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/patricia-leu/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -833,11 +964,27 @@
     <loc>https://okfn.de/blog/2022/06/auftakt-pm-bits-baeume/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2022_stellungnahme_verk%C3%BCndungs--und-bekanntmachungswesens/</loc>
+    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/2022/04/auftakt-bits-und-baeume/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/04/prototype-fund-hardware-jetzt-bewerben/</loc>
     <lastmod>2022-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2022_handbuch-funding-for-future/</loc>
+    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2022_handbuch-funding-for-future/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2022_handbuch-funding-for-future/"
+                />
   </url><url>
     <loc>https://okfn.de/blog/2022/03/open-source-investigation/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
@@ -859,6 +1006,9 @@
   </url><url>
     <loc>https://okfn.de/blog/2022/03/stf-offener-brief/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2022_f5_demokratief%C3%B6rdergesetz/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/leonie-gehrke/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
@@ -917,6 +1067,19 @@
     <loc>https://okfn.de/tags/infrastructure/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2021_sovereigntechfeasibility/</loc>
+    <lastmod>2021-11-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2021_sovereigntechfeasibility/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2021_sovereigntechfeasibility/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/2021/11/stf-publikation-machbarkeitsstudie/</loc>
     <lastmod>2021-11-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -970,6 +1133,9 @@
   </url><url>
     <loc>https://okfn.de/tags/transparenzranking/</loc>
     <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2021_stellungnahme_open-data_sh/</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/07/jahresbericht-2020/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
@@ -1055,6 +1221,9 @@
     <loc>https://okfn.de/blog/2021/03/forum-open-education-2021/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2021_datenstrategie_breg/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/2021/02/okf-10jahre-interview-dd/</loc>
     <lastmod>2021-02-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1100,6 +1269,9 @@
     <loc>https://okfn.de/tags/jobs/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2021_stellungnahme_e-gov-gesetz/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/maximilian-richt/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -1136,6 +1308,9 @@
     <loc>https://okfn.de/blog/2020/10/open-education-community-und-bundespolitik-ergebnisse/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2020_landesinformationsfreiheitsgesetzes-in-bw/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/henriette-litta-leonard-wolf/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -1153,6 +1328,9 @@
   </url><url>
     <loc>https://okfn.de/blog/2020/09/open-education-strategie-unser-vorschlag/</loc>
     <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2020_stellungnahme_zweiter-aktionsplan-ogp/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2020/08/kick-off-forum-open-education-2020/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
@@ -1201,6 +1379,9 @@
   </url><url>
     <loc>https://okfn.de/blog/2020/03/ein-bisschen-prototyp-und-dann/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2020_open-data-in-kommunen/</loc>
+    <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2020/03/datenpolitik-gesellschaftspolitik/</loc>
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
@@ -1796,6 +1977,9 @@
     <loc>https://okfn.de/blog/2018/01/34c3-rueckblick/</loc>
     <lastmod>2018-01-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2018_positionspapier-b%C3%BCndnis-freie-bildung/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/gesellschaft/</loc>
     <lastmod>2017-12-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -2309,6 +2493,9 @@
     <loc>https://okfn.de/blog/2016/09/openbudgets-datenschule-at-ea-campus_event/</loc>
     <lastmod>2016-09-02T15:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/2016_studie_wert-pers%C3%B6nlicher-daten/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/2016/08/2030watch-datenschule-bmz/</loc>
     <lastmod>2016-08-31T09:00:00+00:00</lastmod>
   </url><url>
@@ -2452,6 +2639,9 @@
   </url><url>
     <loc>https://okfn.de/authors/paula-glaser/</loc>
     <lastmod>2016-03-03T13:12:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2016_handbuch-jugend-hackathons/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/fernverkehr/</loc>
     <lastmod>2016-02-28T16:39:00+00:00</lastmod>
@@ -3860,26 +4050,6 @@
                 href="https://okfn.de/projekte/buendnisf5/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2022_f5_demokratief%C3%B6rdergesetz/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2022_f5_demokratief%C3%B6rdergesetz_referentenentwurf/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2023_f5_datenstrategie/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2023_f5_engagementstrategie/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2023_f5_engagementstrategie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2023_f5_engagementstrategie/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2022_f5_zukunftsstrategie/</loc>
-  </url><url>
     <loc>https://okfn.de/projekte/codingdavinci/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3928,8 +4098,6 @@
                 href="https://okfn.de/projekte/datenmachenschule/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2021_datenstrategie_breg/</loc>
-  </url><url>
     <loc>https://okfn.de/tags/demokratief%C3%B6rderung/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/demokratielabore/</loc>
@@ -3944,8 +4112,6 @@
                 href="https://okfn.de/projekte/demokratielabore/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2016_studie_wert-pers%C3%B6nlicher-daten/</loc>
-  </url><url>
     <loc>https://okfn.de/projekte/digiwhist/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3956,32 +4122,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/projekte/digiwhist/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2023_egovernment-brandenburg/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2023_egovernment-brandenburg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2023_egovernment-brandenburg/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2023_stellungnahme-hessischen-e-government-gesetzes/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2023_stellungnahme-hessischen-e-government-gesetzes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2023_stellungnahme-hessischen-e-government-gesetzes/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/edulabs/</loc>
@@ -4068,8 +4208,6 @@
                 href="https://okfn.de/finanzierung/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2022_bitsundb%C3%A4ume_forderungen/</loc>
-  </url><url>
     <loc>https://okfn.de/projekte/forumopenedu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4106,27 +4244,7 @@
                 href="https://okfn.de/projekte/frankfurtgestalten/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2022_handbuch-funding-for-future/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2022_handbuch-funding-for-future/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2022_handbuch-funding-for-future/"
-                />
-  </url><url>
     <loc>https://okfn.de/blog/1/01/gerade-jetzt.-f%C3%BCr-alle./</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2022_stellungnahme_verk%C3%BCndungs--und-bekanntmachungswesens/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2023_handbuch_informationsfreiheit/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2016_handbuch-jugend-hackathons/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2020_open-data-in-kommunen/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/httpsjetzt/</loc>
     <xhtml:link
@@ -4150,32 +4268,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/impressum/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2020_landesinformationsfreiheitsgesetzes-in-bw/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2023-jahresbericht/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2023-jahresbericht/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2023-jahresbericht/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2022-jahresbericht/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2022-jahresbericht/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2022-jahresbericht/"
                 />
   </url><url>
     <loc>https://okfn.de/jahresberichte/</loc>
@@ -4310,20 +4402,6 @@
                 href="https://okfn.de/projekte/openbudgets/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2023_stellungnahme-hessisches-opendatagesetz/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2023_stellungnahme-hessisches-opendatagesetz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2023_stellungnahme-hessisches-opendatagesetz/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2021_stellungnahme_open-data_sh/</loc>
-  </url><url>
     <loc>https://okfn.de/projekte/openschufa/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4348,20 +4426,6 @@
                 href="https://okfn.de/projekte/politikbeiuns/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2023_globaldigitalcompact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2023_globaldigitalcompact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2023_globaldigitalcompact/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2018_positionspapier-b%C3%BCndnis-freie-bildung/</loc>
-  </url><url>
     <loc>https://okfn.de/presse/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4372,18 +4436,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/presse/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2023_f5_pm_ddg/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2023_f5_pm_ddg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2023_f5_pm_ddg/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/</loc>
@@ -4436,18 +4488,6 @@
                 href="https://okfn.de/projekte/stf-machbarkeitsstudie/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2021_sovereigntechfeasibility/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/2021_sovereigntechfeasibility/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/2021_sovereigntechfeasibility/"
-                />
-  </url><url>
     <loc>https://okfn.de/spenden/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4471,10 +4511,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/stadtlandcode/"
                 />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2024-kommentierung-entwurf-nkws-okfde_oha/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2024-okf_stellungnahme_rundfunk/</loc>
   </url><url>
     <loc>https://okfn.de/styleguide/</loc>
   </url><url>
@@ -4550,8 +4586,6 @@
                 href="https://okfn.de/profil/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/2023_handbuch_open_hardware_nachhaltigkeit_foh/</loc>
-  </url><url>
     <loc>https://okfn.de/verein/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4625,9 +4659,5 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/zuganggestalten/"
                 />
-  </url><url>
-    <loc>https://okfn.de/publikationen/2020_stellungnahme_zweiter-aktionsplan-ogp/</loc>
-  </url><url>
-    <loc>https://okfn.de/publikationen/2021_stellungnahme_e-gov-gesetz/</loc>
   </url>
 </urlset>
