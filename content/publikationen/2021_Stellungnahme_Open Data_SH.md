@@ -16,7 +16,7 @@ license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: <a href="https://www.landtag.ltsh.de/infothek/wahl19/unterrichtungen/00300/unterrichtung-19-00301.pdf" target="_blank">Zum Gesetzentwurf</a>
-publishedDate: 2021-07-19
+date: 2021-07-19
 ---
 
 Die Bereitstellung von Open Data ist ein zentrales Element in der Umsetzung des Offenen Regierungshandeln und maßgebliche Voraussetzung für Transparenz, Nachvollziehbarkeit und Überprüfbarkeit politischen Handelns, Akzeptanz politischer Entscheidungen, Meinungsbildung und Partizipation.

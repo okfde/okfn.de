@@ -18,7 +18,7 @@ links:
 - url: <a href="https://fragdenstaat.de/recht/handbuch-informationsfreiheit/" target="_blank">Zur Online-Version des Handbuchs</a>
 - url: <a href="https://www.universitaetsverlag.uni-kiel.de/de/programm/einzelschriften/Informationsfreiheitsrecht" target="_blank">Zur Print-Version beim Universitätsverlag Kiel</a>
 - url: <a href="https://fragdenstaat.de/blog/2023/10/23/handbuch-informationsfreiheit/" target="_blank">Zum Blogbeitrag von FragDenStaat</a>
-publishedDate: 2023-10-23
+date: 2023-10-23
 ---
 
 Das Ziel dieses Handbuch ist es, einen gut verständlichen und praxistauglichen Überblick des Informationsfreiheitsrechts in Deutschland zu schaffen. Und zwar nicht nur für die, die es sich leisten können, sondern für alle. 

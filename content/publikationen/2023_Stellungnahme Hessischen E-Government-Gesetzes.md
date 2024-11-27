@@ -18,7 +18,7 @@ license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: '[Alle Stellungnahmen zum Gesetzentwurf - Teil 1](https://starweb.hessen.de/cache/AV/20/DDA/DDA-AV-031-T1.pdf)'
 - url: '[Alle Stellungnahmen zum Gesetzentwurf - Teil 2](https://starweb.hessen.de/cache/AV/20/DDA/DDA-AV-031-T2.pdf)'
-publishedDate: 2023-01-31
+date: 2023-01-31
 ---
 
 Der vorliegende Entwurf behandelt im Wesentlichen die landesrechtliche Umsetzung der durch das Onlinezugangsgesetz (OZG) des Bundes verpflichtend gewordenen digitalen Bereitstellung von Verwaltungsleistungen.

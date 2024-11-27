@@ -17,7 +17,7 @@ license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: <a href="https://www.bmfsfj.de/bmfsfj/service/gesetze/gesetz-zur-staerkung-von-massnahmen-zur-demokratiefoerderung-vielfaltgestaltung-extremismuspraevention-und-politischen-bildung-demokratiefoerdergesetz--207726/" target="_blank">Zum Gesetzgebungsverfahren</a>
 - url: <a href="https://buendnis-f5.de/" target="_blank">Zur Website des Bündnis F5</a>
-publishedDate: 2022-03-21
+date: 2022-03-21
 ---
 
 Eine lebendige Demokratie braucht zivilgesellschaftliches Engagement; dieses Engagement wiederum braucht Schutz und Förderung.

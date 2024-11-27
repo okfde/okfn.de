@@ -17,7 +17,7 @@ license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: <a href="https://buendnis-f5.de/publikationen/2024-05-21-positionsonthe2024europeanelections/" target="_blank">Positions of the F5-Alliance on the 2024 EU-elections in english</a>
 - url: <a href="https://buendnis-f5.de/" target="_blank">Zur Website des Bündnis F5</a>
-publishedDate: 2024-05-22
+date: 2024-05-22
 ---
 
 Die Europäische Union hat sich als wegweisende Akteurin in der Digitalpolitik etabliert. In den letzten fünf Jahren wurden bedeutende Gesetze auf den Weg gebracht, um die Macht von Big-Tech Unternehmen einzudämmen und die Einhaltung von Grund- und Menschenrechten im Digitalen zu stärken. Gleichzeitig ist die europäische Digitalpolitik zu oft von technischen Trends und gewinnorientierten Interessen getrieben. Der Fokus auf das Gemeinwohl geht dabei verloren.

@@ -16,7 +16,7 @@ license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: <a href="https://rundfunkkommission.rlp.de/rundfunkkommission-der-laender/reformstaatsvertrag/" target="_blank">Zum Reformstaatsvertrag</a>
-publishedDate: 2024-10-11
+date: 2024-10-11
 ---
 
 Die Open Knowledge Foundation Deutschland (OKF) beteiligt sich an der Konsultation zu den vorgelegten Änderungsvorschlägen des Reformstaatsvertrags. In Zeiten von Vertrauenskrise und Falschinformationen muss ein zeitgemäßes Medienangebot sicherstellen, dass faktenbasierte, gut recherchierte Informationen der Öffentlich-Rechtlichen gut auffindbar, breit gestreut und dauerhaft abrufbar sind. Die Pflicht zur Depublizierung für nicht-fiktionale Inhalte muss daher bedingungslos gestrichen werden. Im Zeitalter von immenser digitaler Desinformation, Fake News, Deep Fakes und Hassrede braucht es starke Player, die dagegen halten und Menschen mit gut recherchierten Informationen versorgen und zeitgemäße hochwertige online-Angebote bereitstellen.

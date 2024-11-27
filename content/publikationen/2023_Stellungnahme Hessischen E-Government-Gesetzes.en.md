@@ -17,7 +17,7 @@ license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: '[All policy statements for the draft law - Part 1](https://starweb.hessen.de/cache/AV/20/DDA/DDA-AV-031-T1.pdf)'
 - url: '[All policy statements for the draft law - Part 2](https://starweb.hessen.de/cache/AV/20/DDA/DDA-AV-031-T2.pdf)'
-publishedDate: 2023-01-31
+date: 2023-01-31
 ---
 
 The draft law essentially deals with the implementation of the digital provision of administrative services in state law, which has become mandatory as a result of the Federal Law on Online Access (OZG).

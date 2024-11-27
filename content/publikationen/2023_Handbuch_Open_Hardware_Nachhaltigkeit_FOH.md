@@ -13,7 +13,7 @@ pages: 56
 size: 4.5MB
 license_type: CC-BY 4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
-publishedDate: 2023-03-13
+date: 2023-03-13
 ---
 
 Die Herausforderungen unser Zeit sind bekannt, die auf sozialer, ökologischer und wirtschaftlicher Ebene vor uns liegen. Offene Hardware kann ein Teil der Lösung werden. In der Publikation "Unboxing Blackboxes" zeigen wir, wie. Außerdem stellen wir die sechs Projekte vor, die Teil der ersten Runde des Prototype Fund Hardware waren.

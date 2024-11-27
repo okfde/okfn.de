@@ -16,7 +16,7 @@ license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
 - url: <a href="https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_8000/8080.pdf" target="_blank">Open draft law</a>
-publishedDate: 2023-09-28
+date: 2023-09-28
 ---
 
 The state government of Brandenburg wants to incorporate open data into the legal framework by amending the existing law. However, the OKF considers the proposed changes to be insufficient. In a short statement we outline several points of criticism.
