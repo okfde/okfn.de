@@ -7,6 +7,7 @@ tags:
 - Hackday
 title: '#Apps4De Opendata Hackday in Bremen'
 type: post
+url: blog/2011/11/apps4de-opendata-hackday-in-bremen
 ---
 
 Am 9 November wurde der Apps 4 Deutschland Wettbewerb gestartet. Begleitend zu diesem Wettbewerb veranstaltet die Open Knowledge Foundation Deutschland e.V. eine Reihe von Hackdays.

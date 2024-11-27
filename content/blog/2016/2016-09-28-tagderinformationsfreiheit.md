@@ -12,6 +12,7 @@ card: true
 tags:
 - FragDenStaat
 title: '#000000 - FragDenStaat enthüllt Kunstedition zur Informationsfreiheit'
+url: blog/2016/09/000000-fragdenstaat-enthüllt-kunstedition-zur-informationsfreiheit
 ---
 
 Heute ist internationaler Tag der Informationsfreiheit! Vor 250 Jahren trat in Schweden das erste Informationsfreiheitsgesetz der Welt in Kraft.

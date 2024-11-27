@@ -10,6 +10,7 @@ tags:
 - Europe
 - Innovation
 title: 'Apps for Europe sucht die besten #opendata Apps'
+url: /blog/2014/09/apps-for-europe-sucht-die-besten-opendata-apps
 type: post
 ---
 

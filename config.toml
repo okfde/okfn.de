@@ -8,7 +8,7 @@ enableRobotsTXT = true
   twitter = "okfde"
 
 [permalinks]
-  blog = 'blog/:year/:month/:slug/'
+  blog = 'blog/:year/:month/:title/'
   tags = 'tags/:slug/'
   authors = 'authors/:slug/'
 

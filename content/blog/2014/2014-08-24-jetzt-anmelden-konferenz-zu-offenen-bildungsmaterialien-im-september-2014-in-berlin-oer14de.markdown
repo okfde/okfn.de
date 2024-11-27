@@ -11,6 +11,7 @@ tags:
 - OER14de
 - Wikimedia
 title: 'Jetzt anmelden: Konferenz zu offenen Bildungsmaterialien im September 2014 in Berlin (#OER14de)'
+url: 2014/08/jetzt-anmelden-konferenz-zu-offenen-bildungsmaterialien-im-september-2014-in-berlin-oer14d
 type: post
 ---
 
