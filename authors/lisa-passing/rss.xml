@@ -10,9 +10,9 @@
     <atom:link href="https://okfn.de/authors/lisa-passing/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OKF Jahresbericht 2018 &#43; Webseite Redesign!</title>
-      <link>https://okfn.de/blog/2019/06/okf-jahresbericht-webseite/</link>
+      <link>https://okfn.de/blog/2019/06/okf-jahresbericht-2018--webseite-redesign/</link>
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2019/06/okf-jahresbericht-webseite/</guid>
+      <guid>https://okfn.de/blog/2019/06/okf-jahresbericht-2018--webseite-redesign/</guid>
       <description>&lt;h2 id=&#34;webseiten-redesign&#34;&gt;Webseiten-Redesign&lt;/h2&gt;&#xA;&lt;p&gt;Anfang des Jahres haben wir unsere Webseite grundlegend überarbeitet. Dazu haben wir Zielgruppeninterviews geführt, Nutzerberichte gesammelt und mit Hilfe des Teams an Prototypen gearbeitet. Neben unzähligen Feinheiten und Details haben wir daraufhin alle Sektionen inhaltlich und gestalterisch aktualisiert. Dabei ist unter anderem die neue &lt;a href=&#34;https://okfn.de/profil&#34;&gt;Profil-Sektion&lt;/a&gt; entstanden, die unsere &lt;a href=&#34;https://okfn.de/themen&#34;&gt;Themen&lt;/a&gt; (in welchen Bereichen arbeiten wir?) mit Zielen und Tätigkeiten ergänzt (was &lt;em&gt;tun&lt;/em&gt; wir?). Auch haben wir uns auch die englischen Version unserer Webseite vorgenommen und diese aufpoliert (Danke Eileen Wagner!). Auf technischer Ebene sind wir von jekyll zu hugo gewechselt.&lt;/p&gt;</description>
     </item>
   </channel>

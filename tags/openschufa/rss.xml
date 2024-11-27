@@ -10,79 +10,79 @@
     <atom:link href="https://okfn.de/tags/openschufa/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Schufa gibt nach: Elektronische Auskünfte ab 2019</title>
-      <link>https://okfn.de/blog/2018/12/schufa-elektronische-auskuenfte/</link>
+      <link>https://okfn.de/blog/2018/12/schufa-gibt-nach-elektronische-ausk%C3%BCnfte-ab-2019/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/12/schufa-elektronische-auskuenfte/</guid>
+      <guid>https://okfn.de/blog/2018/12/schufa-gibt-nach-elektronische-ausk%C3%BCnfte-ab-2019/</guid>
       <description>&lt;p&gt;Nach Monaten des Widerstands hat die Schufa zugesagt, künftig auch Daten-Auskünfte von Privatpersonen elektronisch zu beantworten. Das bestätigte der Hessische Datenschutzbeauftragte gegenüber OpenSchufa, unserer gemeinsamen Initiative mit AlgorithmWatch. Nach Artikel 15 der Datenschutzgrundverordnung (DS-GVO) ist die Schufa seit Mai dazu verpflichtet, Auskünfte nicht mehr nur wie bisher postalisch, sondern auch elektronisch zugänglich zu machen.&lt;/p&gt;&#xA;&lt;p&gt;Das Unternehmen wird auf Datenkopien, die es weiterhin in gedruckter Form auf dem Postweg versendet, künftig individuelle Zugangscodes aufdrucken. Damit sollen sich Empfänger auf dem Online-Portal der Schufa einloggen können. Der Hessische Datenschutzbeauftragte hat sich mit diesem Vorgehen einverstanden erklärt. Diese Lösung soll “zu Beginn des nächsten Jahres” umgesetzt werden. Ob die Anforderung der Daten bei der Schufa allerdings weiterhin &lt;a href=&#34;https://twitter.com/arnesemsrott/status/1069911427241132032&#34; target=&#34;_blank&#34;&gt;so umständlich bleibt wie bisher&lt;/a&gt;, ist unklar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenSchufa: Die Ergebnisse (Updates)</title>
-      <link>https://okfn.de/blog/2018/11/openschufa-ergebnisse/</link>
+      <link>https://okfn.de/blog/2018/11/openschufa-die-ergebnisse-updates/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/11/openschufa-ergebnisse/</guid>
+      <guid>https://okfn.de/blog/2018/11/openschufa-die-ergebnisse-updates/</guid>
       <description>&lt;p&gt;Lange hat es gedauert, aber heute werden die ersten Analysen des OpenSchufa-Datensatzes veröffentlicht. Die Redaktionen vom &lt;a href=&#34;http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html&#34; target=&#34;_blank&#34;&gt;SpiegelOnline&lt;/a&gt; und dem &lt;a href=&#34;https://www.br.de/nachrichten/wirtschaft/schufa-score-wie-menschen-unverschuldet-zum-risikofall-werden,RAheWGP&#34; target=&#34;_blank&#34;&gt;Bayerischen Rundfunk&lt;/a&gt; haben die anonymisierten Daten, die wir mithilfe von &lt;a href=&#34;https://okfn.de/blog/tags/openschufa/&#34; target=&#34;_blank&#34;&gt;OpenSchufa&lt;/a&gt; im Frühjahr gesammelt haben, ausgewertet.  Herzlichen Dank an alle Personen, die uns für das Projekt &lt;a href=&#34;https://www.startnext.com/openschufa&#34; target=&#34;_blank&#34;&gt;Geld&lt;/a&gt;, Zeit und &lt;a href=&#34;https://www.openschufa.de/&#34; target=&#34;_blank&#34;&gt;Daten&lt;/a&gt; gespendet haben!&lt;/p&gt;&#xA;&lt;h2 id=&#34;das-sind-die-wichtigsten-erkenntnisse&#34;&gt;Das sind die wichtigsten Erkenntnisse:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Schlechte Scores auch ohne Negativmerkmale&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Viele Personen haben schlechte Schufa-Scores, obwohl sie keine negativen Merkmale haben. Im OpenSchufa-Datensatz finden sich mehr als 20 Verbraucherinnen und Verbraucher, denen die Schufa ein &amp;ldquo;erhöhtes Risiko&amp;rdquo; bescheinigt, obwohl ihre Finanzhistorie nicht mehr als drei Einträge umfasst - ausschließlich positive. Das bedeutet: Offenbar ist der Schufa-Algorithmus fehleranfällig. Wenn auch Personen, die keine Schulden oder Zahlungsausfälle haben, schlechte Scores bekommen, ist das &lt;strong&gt;Scoring-Verfahren kaputt&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenSchufa: The first results</title>
-      <link>https://okfn.de/blog/2018/11/openschufa-first-results/</link>
+      <link>https://okfn.de/blog/2018/11/openschufa-the-first-results/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/11/openschufa-first-results/</guid>
+      <guid>https://okfn.de/blog/2018/11/openschufa-the-first-results/</guid>
       <description>&lt;p&gt;Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline  have evaluated the anonymous data that we have collected with the help of our &amp;ldquo;mydata&amp;rdquo; project &lt;a href=&#34;https://okfn.de/blog/tags/openschufa/&#34; target=&#34;_blank&#34;&gt;OpenSchufa&lt;/a&gt; since this spring.&lt;/p&gt;&#xA;&lt;p&gt;In the last 10 months this project generated 100,000 individual data requests in Germany. Out of these, more than 30,000 were directed at Schufa and resulted in more than 3,000 data donations to us.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenSCHUFA: Verbrauchergerechtes Scoring</title>
-      <link>https://okfn.de/blog/2018/10/faires-scoring/</link>
+      <link>https://okfn.de/blog/2018/10/openschufa-verbrauchergerechtes-scoring/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/10/faires-scoring/</guid>
+      <guid>https://okfn.de/blog/2018/10/openschufa-verbrauchergerechtes-scoring/</guid>
       <description>&lt;p&gt;Heute findet die Präsentation des Sachverständigenrates für Verbraucherfragen statt. Thema: Faires Scoring. Wir berichten live vor Ort.&#xA;#fairesscoring #openschufa&lt;/p&gt;&#xA;&lt;h3 id=&#34;das-wichtigste-in-kürze&#34;&gt;Das wichtigste in Kürze&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.bmjv.de/DE/Veranstaltungen/Anmeldeportal/Events/SVRV/SVRV_Anmeldung_node.html&#34; target=&#34;_blank&#34;&gt;Programm der Veranstaltung&lt;/a&gt;&#xA;&lt;a href=&#34;http://www.svr-verbraucherfragen.de/dokumente/verbrauchergerechtes-scoring/&#34; target=&#34;_blank&#34;&gt;Übersichtsseite zu „Verbrauchergerechtes Scoring“ (Sachverständigenrat)&lt;/a&gt;&#xA;&lt;a href=&#34;http://www.svr-verbraucherfragen.de/dokumente/technische-und-rechtliche-betrachtungen-algorithmischer-entscheidungsverfahren/&#34; target=&#34;_blank&#34;&gt;Technische und rechtliche Betrachtungen algorithmischer Entscheidungsverfahren&#xA;(Gesellschaft für Informatik e. V.)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;handlungsempfehlungen&#34;&gt;Handlungsempfehlungen&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://okfn.de/files/blog/2018/10/SVRV_HR-Verbrauchergerechtes_Scoring.pdf&#34;&gt;Handlungsempfehlungen des Rats (S. 142-151)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Scoring für den Verbraucher verständlich machen&lt;/li&gt;&#xA;&lt;li&gt;Scoring-Wissen und Kompetenz fördern&lt;/li&gt;&#xA;&lt;li&gt;Diskriminierung prüfen und offenlegen&lt;/li&gt;&#xA;&lt;li&gt;telematikfreie Option sicherstellen&lt;/li&gt;&#xA;&lt;li&gt;Score-Qualität gewährleisten&lt;/li&gt;&#xA;&lt;li&gt;Datenqualität sichern&lt;/li&gt;&#xA;&lt;li&gt;Aufsicht verbessern&lt;/li&gt;&#xA;&lt;li&gt;Super-Scores&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Empfehlungen&#34; src=&#34;https://okfn.de/files/blog/2018/10/img-20181031-empfehlungen.jpg&#34; title=&#34;Empfehlungen&#34;&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenSCHUFA: Zwischenbilanz der Datenspende - noch immer gerne Daten spenden!</title>
-      <link>https://okfn.de/blog/2018/07/openschufa-zwischenbilanz/</link>
+      <link>https://okfn.de/blog/2018/07/openschufa-zwischenbilanz-der-datenspende-noch-immer-gerne-daten-spenden/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/07/openschufa-zwischenbilanz/</guid>
+      <guid>https://okfn.de/blog/2018/07/openschufa-zwischenbilanz-der-datenspende-noch-immer-gerne-daten-spenden/</guid>
       <description>&lt;p&gt;Liebe Unterstützerinnen und Unterstützer,&lt;/p&gt;&#xA;&lt;p&gt;die Datenspende von OpenSCHUFA läuft jetzt seit sieben Wochen. Wir wollen Euch ein Update zum Fortschritt des Projekts geben, aber auch zu den Herausforderungen:&lt;/p&gt;&#xA;&lt;h3 id=&#34;was-haben-wir-bisher-erreicht&#34;&gt;Was haben wir bisher erreicht?&lt;/h3&gt;&#xA;&lt;p&gt;Mehr als 2.300 Menschen haben ihre Selbstauskunft über &lt;a href=&#34;http://www.openschufa.de&#34; target=&#34;_blank&#34;&gt;www.openschufa.de&lt;/a&gt; gespendet. Das Thema Scoring und die Geschäftspraktiken SCHUFA waren Gegenstand einer kritischen Berichterstattung und werden von einer breiten Öffentlichkeit debattiert.&lt;/p&gt;&#xA;&lt;h3 id=&#34;beteiligung-an-der-datenspende-niedriger-als-erhofft&#34;&gt;Beteiligung an der Datenspende niedriger als erhofft&lt;/h3&gt;&#xA;&lt;p&gt;Von den mehr als 26.000 SCHUFA-Selbstauskünften, die über &lt;a href=&#34;selbstauskunft.net/schufa&#34;&gt;selbstauskunft.net/schufa&lt;/a&gt; beantragt wurden, sind bislang weniger als 10 Prozent gespendet worden. Hier müssen wir offen sagen, dass wir aktuell hinter unseren Erwartungen liegen. Ein Grund dafür kann sein, dass das Verfahren der Datenspende für viele noch zu komplex und aufwendig erscheint. Dass das Verfahren so aufwendig ist, liegt vor allem daran, dass die SCHUFA möglicherweise nicht konform zur neuen Datenschutzgrundverordnung (DSGVO) operiert. Wie in einem Bericht der &lt;a href=&#34;https://www.welt.de/finanzen/article177303132/DSGVO-stellt-das-Abo-Modell-der-Schufa-infrage.html&#34; target=&#34;_blank&#34;&gt;Welt&lt;/a&gt; festgestellt wurde, muss eine Auskunftsanfrage, die digital gestellt wird (etwa per Mail) auch digital beantwortet werden. Die SCHUFA handelt aber nicht so. Derzeit prüft das der Hessische Datenschutzbeauftragte.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenSchufa is live!</title>
-      <link>https://okfn.de/blog/2018/05/openschufa-live-english/</link>
+      <link>https://okfn.de/blog/2018/05/openschufa-is-live/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/05/openschufa-live-english/</guid>
+      <guid>https://okfn.de/blog/2018/05/openschufa-is-live/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s go! Today we launch the &lt;a href=&#34;https://www.openschufa.de&#34; target=&#34;_blank&#34;&gt;data donation platform for our crowdsourcing project OpenSCHUFA&lt;/a&gt;. At &lt;a href=&#34;https://www.openschufa.de&#34; target=&#34;_blank&#34;&gt;openschufa.de&lt;/a&gt; all people can upload the data they requested from the SCHUFA. We will then analyze them together with our partner AlgorithmWatch to crack the SCHUFA algorithm.&lt;/p&gt;&#xA;&lt;p&gt;More than 20,000 people have already applied for their free self-disclosure since the beginning of our campaign via &lt;a href=&#34;https://selbstauskunft.net/schufa&#34; target=&#34;_blank&#34;&gt;selbstauskunft.net/schufa&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.openschufa.de/&#34; target=&#34;_blank&#34;&gt;DATA DONATION&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenSchufa.de ist live - jetzt Daten spenden!</title>
-      <link>https://okfn.de/blog/2018/05/openschufa-live/</link>
+      <link>https://okfn.de/blog/2018/05/openschufa.de-ist-live-jetzt-daten-spenden/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/05/openschufa-live/</guid>
+      <guid>https://okfn.de/blog/2018/05/openschufa.de-ist-live-jetzt-daten-spenden/</guid>
       <description>&lt;p&gt;Los geht&amp;rsquo;s! Heute launchen wir die &lt;a href=&#34;https://www.openschufa.de&#34; target=&#34;_blank&#34;&gt;Datenspende-Plattform für unser Crowdsourcing-Projekt OpenSCHUFA&lt;/a&gt;. Unter &lt;a href=&#34;https://www.openschufa.de&#34; target=&#34;_blank&#34;&gt;openschufa.de&lt;/a&gt; können alle Menschen die Daten, die sie bei der SCHUFA über sich angefragt haben, hochladen. Wir werden sie dann gemeinsam mit unserem Partner AlgorithmWatch analysieren, um den SCHUFA-Algorithmus zu knacken.&lt;/p&gt;&#xA;&lt;p&gt;Bereits mehr als 20.000 Menschen haben seit Beginn unserer Kampagne über &lt;a href=&#34;https://selbstauskunft.net/schufa&#34; target=&#34;_blank&#34;&gt;selbstauskunft.net/schufa&lt;/a&gt; ihre kostenlose Selbstauskunft beantragt.&lt;/p&gt;&#xA;&lt;p&gt;Mehr über die OpenSCHUFA-Datenspende und die mangelnde Kontrolle der Auskunfteien berichten &lt;a href=&#34;http://www.spiegel.de/wirtschaft/service/schufa-wirtschaftsauskunfteien-zahlen-kontroll-gutachten-selbst-a-1207678.html&#34; target=&#34;_blank&#34;&gt;Spiegel Online&lt;/a&gt; und &lt;a href=&#34;https://www.tagesschau.de/wirtschaft/auskunfteien-101.html&#34; target=&#34;_blank&#34;&gt;tagesschau.de&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.openschufa.de/&#34; target=&#34;_blank&#34;&gt;ZUR DATENSPENDE&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Endspurt beim Crowdfunding: Noch drei Tage OpenSchufa unterstützen!</title>
-      <link>https://okfn.de/blog/2018/03/openschufa-endspurt/</link>
+      <link>https://okfn.de/blog/2018/03/endspurt-beim-crowdfunding-noch-drei-tage-openschufa-unterst%C3%BCtzen/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/03/openschufa-endspurt/</guid>
+      <guid>https://okfn.de/blog/2018/03/endspurt-beim-crowdfunding-noch-drei-tage-openschufa-unterst%C3%BCtzen/</guid>
       <description>&lt;p&gt;Unsere &lt;a href=&#34;https://okfn.de/blog/2018/02/openschufa/&#34; target=&#34;_blank&#34;&gt;Initiative OpenSchufa&lt;/a&gt; hat schon jetzt ein großes Echo gefunden. Animiert durch nationalen und internationale Berichterstattung haben schon fast 15.000 Menschen ihre kostenlose Selbstauskunft bei der &lt;a href=&#34;https://selbstauskunft.net/schufa&#34; target=&#34;_blank&#34;&gt;Schufa angefordert&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Damit wir die anonymisierten Daten daraus gut auswerten können, brauchen wir jetzt Deine Unterstützung: Noch drei Tage lang läuft das Crowdfunding für OpenSchufa. &lt;a href=&#34;https://www.startnext.com/openschufa&#34; target=&#34;_blank&#34;&gt;Spende uns bitte für das Projekt jetzt 20 oder 50 Euro!&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/HBsD8BdXSCY?rel=0&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;h2 id=&#34;präsentation-beim-netzpolitschen-abend-06032018&#34;&gt;Präsentation beim netzpolitschen Abend 06.03.2018&lt;/h2&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/OdDPK2EVITc?start=70&amp;rel=0&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>One week of OpenSchufa - we crack the Schufa!</title>
-      <link>https://okfn.de/blog/2018/02/1-week-openschufa/</link>
+      <link>https://okfn.de/blog/2018/02/one-week-of-openschufa-we-crack-the-schufa/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/02/1-week-openschufa/</guid>
+      <guid>https://okfn.de/blog/2018/02/one-week-of-openschufa-we-crack-the-schufa/</guid>
       <description>&lt;p&gt;Last week we launched our newest project &lt;a href=&#34;http://openschufa.de&#34; target=&#34;_blank&#34;&gt;OpenSCHUFA&lt;/a&gt; together with &lt;a href=&#34;https://algorithmwatch.org/de/&#34; target=&#34;_blank&#34;&gt;AlgorithmWatch&lt;/a&gt;.&lt;br&gt;&#xA;Inspired by &lt;a href=&#34;http://www.okf.fi&#34; target=&#34;_blank&#34;&gt;OKF Finland&lt;/a&gt; and the &lt;a href=&#34;http://mydata.org&#34; target=&#34;_blank&#34;&gt;„mydata“&lt;/a&gt; project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.&lt;/p&gt;&#xA;&lt;p&gt;Over the last 7 days, the campaign generated Germany-wide media attention &lt;a href=&#34;#media&#34;&gt;(see press listing)&lt;/a&gt;&#xA;and already over 8.000 individual Schufa data request (30.000 personal data requests in total).&lt;/p&gt;&#xA;&lt;p&gt;Congrats to &lt;a href=&#34;http://selbstauskunft.net&#34; target=&#34;_blank&#34;&gt;selbstauskunft.net&lt;/a&gt; for serving &lt;strong&gt;1 million&lt;/strong&gt; personal data requests!&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-we-started-openschufa-and-why-you-should-care-about-credit-scoring&#34;&gt;Why we started OpenSCHUFA and why you should care about credit scoring&lt;/h3&gt;&#xA;&lt;p&gt;Germany’s leading credit rating bureau, SCHUFA, has immense power over people’s lives. A low SCHUFA score means landlords will refuse to rent you an apartment, banks will reject your credit card application and network providers will say ‘&lt;a href=&#34;https://youtu.be/AJQ3TM-p2QI?t=45&#34; target=&#34;_blank&#34;&gt;computer says no&lt;/a&gt;’ to a new Internet contract. But what if your SCHUFA score is low because there are mistakes in your credit history? Or if the score is calculated by a mathematical model that is biased?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jetzt mitmachen: Wir knacken die Schufa! (Update)</title>
-      <link>https://okfn.de/blog/2018/02/openschufa/</link>
+      <link>https://okfn.de/blog/2018/02/jetzt-mitmachen-wir-knacken-die-schufa-update/</link>
       <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/02/openschufa/</guid>
+      <guid>https://okfn.de/blog/2018/02/jetzt-mitmachen-wir-knacken-die-schufa-update/</guid>
       <description>&lt;p&gt;Ob Kredite, Handyverträge oder Wohnungsbewerbungen - bei wichtigen Verbraucherfragen spielt der Schufa-Score eine zentrale Rolle. Wer zu wenige Punkte hat, geht oft leer aus. Das Scoring-Verfahren des Privatunternehmens Schufa ist allerdings höchst intransparent. Als Geschäftsgeheimnis ist es der Öffentlichkeit nicht zugänglich.&lt;/p&gt;&#xA;&lt;p&gt;Das wollen wir ab heute mit dem Projekt &lt;a href=&#34;http://openschufa.de&#34;&gt;OpenSCHUFA&lt;/a&gt; ändern. Gemeinsam mit &lt;a href=&#34;https://algorithmwatch.org/de/&#34;&gt;AlgorithmWatch&lt;/a&gt; wollen wir den Algorithmus der Schufa mit Reverse Engineering rekonstruieren.&lt;/p&gt;&#xA;&lt;p&gt;Dazu rufen wir zur Datenspende auf: Alle Menschen können unter &lt;a href=&#34;https://selbstauskunft.net/schufa&#34;&gt;selbstauskunft.net/schufa&lt;/a&gt; bei der Schufa ihren kostenlosen SCHUFA-Score anfordern und die Daten anschließend an das Projekt spenden.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Get involved: We crack the Schufa!</title>
-      <link>https://okfn.de/blog/2018/02/openschufa-english/</link>
+      <link>https://okfn.de/blog/2018/02/get-involved-we-crack-the-schufa/</link>
       <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2018/02/openschufa-english/</guid>
+      <guid>https://okfn.de/blog/2018/02/get-involved-we-crack-the-schufa/</guid>
       <description>&lt;p&gt;When applying for a loan, mobile phone contract, or even trying to rent an apartment in Germany, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Schufa&#34; target=&#34;_blank&#34;&gt;Schufa&lt;/a&gt; score - Germany&amp;rsquo;s credit rating - is decisive. If you have a few &amp;ldquo;points&amp;rdquo; too little, your application is refused. (Computer says &lt;a href=&#34;https://youtu.be/AJQ3TM-p2QI?t=45&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;No&amp;rdquo;&lt;/a&gt; to your new smartphone or apartment.) However, the calculation of these credit scores - done by the private Schufa company - is fully intransparent. The formula is a trade secret, and as such not open to the public.&lt;/p&gt;</description>
     </item>
   </channel>
