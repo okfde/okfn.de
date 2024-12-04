@@ -30,7 +30,7 @@ breitere Basis stellen und eine Bestandsaufnahme des Status quo von Open Data in
 
 <div class="flex">
   <figure class="license">
-        <img alt="Screenshot vom Open Data Knowledge Hub" src="/files/projects/opendata_OKhub.png">
+       <a href="https://opendata.okfn.de" target="_blank"><img alt="Screenshot vom Open Data Knowledge Hub" src="/files/projects/opendata_OKhub.png"></a>
         <figcaption>Open Data Knowledge Hub</figcaption>
     </figure>
 </div>
