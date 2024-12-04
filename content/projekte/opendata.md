@@ -24,3 +24,13 @@ Behörden von Bundes- bis Kommunalebene produzieren und veröffentlichen jeden T
 Das Ziel offener Verwaltungsdaten hat dabei mehrere Ebenen: Neben der nach außen wirkenden Nachvollziehbarkeit staatlichen Handelns und der Förderung demokratischer Teilhabe soll im Dialog mit Behörden auch der Mehrwert offener Daten für interne Verwaltungsabläufe hervorgehoben werden. Im Zusammenspiel mit unserer Community wollen wir Know-how und Umsetzungsstrategien bündeln und verfügbar machen.
 
 Als Dokumentationsbasis für die kommenden Jahre des Projekts haben wir den <a href="https://opendata.okfn.de" target="_blank">Knowledge Hub</a> entwickelt, wo wir unsere eigenen Use Cases präsentieren und darüber hinaus auf bereits existierende Materialien von anderen Akteur:innen aus dem Open-Data-Universum verweisen möchten.
+
+2024 haben wir das erste <a href="https://opendataranking.de" target="_blank">Open-Data-Ranking</a> veröffentlicht. Mit dem Ranking wollen wir die Diskussion über offene Daten im Land auf eine
+breitere Basis stellen und eine Bestandsaufnahme des Status quo von Open Data in Deutschland für das Kalenderjahr 2023 bieten. Für die kommenden Jahre sind weitere Aktualisierungen des Open-Data-Rankings vorgesehen.
+
+<div class="flex">
+  <figure class="license">
+        <img alt="Screenshot vom Open Data Knowledge Hub" src="/files/projects/opendata_OKhub.png">
+        <figcaption>Open Data Knowledge Hub</figcaption>
+    </figure>
+</div>
