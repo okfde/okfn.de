@@ -26,4 +26,4 @@ Zu Beginn meiner Beiratsarbeit habe ich auf LinkedIn geschrieben, dass es mir in
 
 Es muss klar benannt werden, was politisch mit einem Vorhaben erreicht werden und wie konkret das Vorhaben diese Ziele erreichen soll. Dann könnte es besser gelingen, mehr Menschen von guten Digitalprojekten zu überzeugen und die Akzeptanz für sie zu erhöhen, was wiederum den Einsatz und somit den angestrebten Nutzen wahrscheinlicher macht. Darüber hinaus ist es auch für das Vorhaben selbst wichtig, immer wieder verortet zu werden: Sind die Ziele noch im Blick? 
 
-Ganz Beirats-typisch geht die Arbeit mit einem Abschlussbericht nun zu Ende. Ob dieser in Ablage P verschwindet, entscheiden Andere. Hier gehts zum Bericht: https://www.digitalstrategie-deutschland.de/medien/. 
+Ganz Beirats-typisch geht die Arbeit mit einem Abschlussbericht nun zu Ende. Ob dieser in Ablage P verschwindet, entscheiden andere. Hier geht's zum Bericht: https://www.digitalstrategie-deutschland.de/medien/. 
