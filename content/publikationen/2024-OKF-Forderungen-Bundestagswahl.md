@@ -11,7 +11,7 @@ people:
 file: /files/publikationen/OKF Forderungen BTW 2025.pdf
 format: pdf
 pages: 6
-size: 2,91MB
+size: 432KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
