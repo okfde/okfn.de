@@ -13,6 +13,8 @@ layout: post
 featured: blue
 title: "Digitalpolitik für eine demokratische und resiliente Zukunft - Forderungen der Open Knowledge Foundation Deutschland zur Bundestagswahl 2025"
 publishedDate: 2024-12-16
+aliases:
+- /blog/2024/10/okf-forderungen-2024/
 ---
 
 ## Unsere Forderungen zur Bundestagswahl 2025
