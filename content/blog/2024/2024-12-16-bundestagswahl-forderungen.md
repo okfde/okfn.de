@@ -15,8 +15,6 @@ title: Digitalpolitik für eine demokratische und resiliente Zukunft - Forderun
 publishedDate: 2024-12-16
 ---
 
-## Digitalpolitik für eine demokratische und resiliente Zukunft - Forderungen der Open Knowledge Foundation Deutschland zur Bundestagswahl 2025
-
 **Die Bundestagswahl 2025 steht vor der Tür! Für eine demokratische und resiliente Zukunft ist die Gestaltung der Digitalpolitik, insbesondere der Umgang mit Daten und Informationen, von zentraler Bedeutung. Wir fordern politische Akteur:innen dazu auf, Digitalpolitik als Gesellschaftspolitik zu verstehen, die unsere demokratischen Werte schützt.**
 
 Unsere Forderungen gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind:
