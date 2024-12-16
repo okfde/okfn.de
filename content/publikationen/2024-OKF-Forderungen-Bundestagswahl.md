@@ -8,7 +8,7 @@ kategorien: Stellungnahmen
 categories: policy statements
 people:
 - name: Henriette Litta, Christina Willems
-file: /files/publikationen/OKF Forderungen BTW 2025.pdf
+file: /files/publikationen/OKF_Forderungen_BTW_2025.pdf
 format: pdf
 pages: 6
 size: 432KB
