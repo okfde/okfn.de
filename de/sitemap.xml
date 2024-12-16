@@ -242,6 +242,19 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -254,6 +267,24 @@
                 hreflang="de"
                 href="https://okfn.de/blog/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/bundestagswahl2025/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/christina-willems/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2024/12/digitalpolitik-fu%CC%88r-eine-demokratische-und-resiliente-zukunft-forderungen-der-open-knowledge-foundation-deutschland-zur-bundestagswahl-2025/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/henriette-litta/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
@@ -268,27 +299,21 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/authors/"
+                href="https://okfn.de/en/publikationen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/authors/"
+                href="https://okfn.de/publikationen/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/henriette-litta/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -374,24 +399,8 @@
     <loc>https://okfn.de/blog/2024/10/b%C3%BCndnis-f5-beim-digital-gipfel-die-zivilgesellschaft-muss-um-jeden-zentimeter-raum-k%C3%A4mpfen/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/christina-willems/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/pressemitteilung/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/2024-okf_stellungnahme_rundfunk/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
