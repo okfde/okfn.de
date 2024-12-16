@@ -15,7 +15,7 @@ size: 2,91MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
-date: 
+date: 2024-12-16
 ---
 
 Für eine demokratische und resiliente Zukunft ist die Gestaltung der Digitalpolitik, insbesondere der Umgang mit Daten und Informationen, von zentraler Bedeutung. Wir fordern politische Akteur:innen dazu auf, Digitalpolitik als Gesellschaftspolitik zu verstehen, die unsere demokratischen Werte schützt.  
