@@ -33,6 +33,6 @@ Technologien müssen mehr dazu beitragen, die Komplexität von Problemlagen zu e
 Demokratie lebt von einer starken, kritischen und unabhängigen Zivilgesellschaft, die Gemeinwohlorientierung einfordert und ihre Expertise einbringen kann. Das zivilgesellschaftliche Engagement braucht mehr denn je Schutz und Förderung und Bildung konstante Aufmerksamkeit.
 
 
-Unsere gesamten Forderungen findet ihr ab sofort [hier auf unserer Website]([https://www.linkedin.com/posts/henriette-litta-b9583959_digitalstrategie-wirtschaft-wissenschaft-activity-7004038487607803904-LNo5](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/). 
+Unsere gesamten Forderungen findet ihr ab sofort [hier auf unserer Website](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/).
 
 Für Fragen und Anregungen zu unseren Forderungen steht unsere Geschäftsführerin Dr. Henriette Litta gerne zur Verfügung: henriette.litta@ofkn.de
