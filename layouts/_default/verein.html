@@ -112,6 +112,15 @@
   {{ end }}
 
   <section class="l__verein container mt-l">
+    <div class="row">
+      <h2 class="col col-12 mb-s">{{ .Params.coc_title }} </h2>
+      <p class="col col-12 col-lg-6">
+        {{ .Params.coc_body | markdownify }}
+      </p>
+    </div>
+  </section>
+
+  <section class="l__verein container mt-l">
     {{- partial "downloads/verein" . -}}
   </section>
 </main>

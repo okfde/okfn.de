@@ -26,6 +26,8 @@ stats:
   - number: 55.797
     text:  Since our incorporation, we've made over 50,000 commits in our Github repo.
 meta: OKF DE nonprofit gemeinnützig Verein annual report Social Reporting Standard
+coc_title: Code of Conduct
+coc_body: Our [Code of Conduct](/codeofconduct) sets out the basic rules for how we interact within the organization. We want to make the OKF as welcoming, friendly and safe a place as possible. It applies to everyone who participates in our work.
 ---
 
 ### Association

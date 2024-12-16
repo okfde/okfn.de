@@ -25,6 +25,13 @@ stats:
     text: So viele Personen engagieren sich in unserer Community. In unserem Netzwerk findet sich ein vielfältiges Wissen rund um die Themen Open Data, Open Government und Civic Tech.
   - number: 55.797
     text: Seit unserer Gründung haben wir über 50.000 Commits in unserem Github-Repo gemacht.
+coc_title: Verhaltenskodex
+coc_body: >
+    Unser [Verhaltenskodex](/codeofconduct) (auch: Code of Conduct) legt die Grundregeln fest, wie wir uns im Rahmen des
+    Vereins begegnen. Wir wollen damit die OKF zu einem möglichst einladenden, freundlichen und sicheren Ort machen. 
+    Er gilt für alle, die an der Arbeit der OKF teilnehmen.
+
+
 ---
 
 ### Verein
