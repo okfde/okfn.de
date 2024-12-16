@@ -37,4 +37,4 @@ Demokratie lebt von einer starken, kritischen und unabhängigen Zivilgesellschaf
 
 Unsere gesamten Forderungen findet ihr ab sofort [hier auf unserer Website](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/).
 
-Für Fragen und Anregungen zu unseren Forderungen steht unsere Geschäftsführerin Dr. Henriette Litta gerne zur Verfügung: henriette.litta@ofkn.de
+Für Fragen und Anregungen zu unseren Forderungen steht unsere Geschäftsführerin Dr. Henriette Litta gerne zur Verfügung: henriette.litta@okfn.de
