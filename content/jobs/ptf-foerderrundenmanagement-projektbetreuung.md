@@ -55,7 +55,7 @@ Wir legen im Team großen Wert darauf, eine sichere und angenehme Arbeitsumgebun
 
 #### Zahlen, Daten, Fakten:
 * Bewerbungsfrist: Sonntag, 12. Januar 2025
-* Bewerbungsgespräche: zwischen dem 20. und 24. Januar 2025, am liebsten in Person
+* Bewerbungsgespräche: voraussichtlich am 28. oder 29. Januar 2025, am liebsten in Person (Hinweis: hier stand zuerst 20. bis 24. Januar 2025, die Daten haben wir nachträglich angepasst)
 * Vertragsbeginn: idealerweise zum 1. März 2025 
 * Zeitlicher Aufwand: 32 h/Woche (80 %); sollte dir ein geringfügig abweichender Umfang vorschweben, teile uns dies bitte bereits mit der Bewerbung mit
 * Gehalt: nach TV-L E12/S1 im ersten Jahr, danach TV-L E12/2
