@@ -46,7 +46,7 @@ Konkret fallen unter anderem folgende Aufgaben an:
 
 Du wirst im Team der Geschäftsführung arbeiten. Dabei wirst du mehrheitlich mit Giulia und Nadja zusammenarbeiten, die sich um das Rechnungswesen, die Personalverwaltung und das Spendenmanagement kümmern. Bei den Themen finanzielle Jahresplanung und Wirtschaftsprüfung arbeitest du besonders eng mit unserer Geschäftsführerin Henriette zusammen. Du wirst auch bereichsübergreifend mit anderen Teamkolleg:innen aus der OKF arbeiten, z. B. mit den Teams FragDenStaat, Jugend hackt und Prototype Fund.
 
-# Was wir bieten*
+# Was wir bieten
 
 * Eine sinnstiftende Tätigkeit in einer erfolgreichen, wachsenden Organisation.
 * Flexible, familienfreundliche Arbeitszeiten, eine klare Überstundenregelung und eine Menstrual Leave Policy.
