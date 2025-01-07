@@ -60,14 +60,15 @@ Du wirst im Team der Geschäftsführung arbeiten. Dabei wirst du mehrheitlich mi
 * Ein Gehalt angelehnt an TVL 12/1 oder 12/2 (ab 2 Jahren Erfahrung im Bereich Finanzen und Controlling). Hier findest du die aktuelle Tabelle für den Tarifvertrag der Länder: https://oeffentlicher-dienst.info/c/t/rechner/tv-l/tr/2023?id=tv-l-2025&matrix=1. 
 * Die Stelle ist befristet auf 2 Jahre, wir planen eine Verlängerung fest ein.  
 
-## Was musst du jetzt wissen und tun
+## Wie es weitergeht
 
-Wir freuen uns besonders über Bewerbungen von BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Wir möchten vor allem wissen, warum du glaubst, dass eine Mitarbeit in der Open Knowledge Foundation Deutschland genau das Richtige für dich ist.
+Wir freuen uns besonders über Bewerbungen von BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Wir möchten vor allem wissen, warum du glaubst, dass eine Mitarbeit in der Open Knowledge Foundation Deutschland genau das Richtige für dich ist. 
+
 Bitte schicke uns deine Bewerbung (Motivationsschreiben, Lebenslauf, nur wenn relevant auch Nachweise) **bis spätestens 02.02.2025** per E-Mail an Giulia Norberti an **jobs@okfn.de**.
 
-Please don't: Bitte schicke uns in deiner Bewerbung kein Foto mit und mache keine Angaben zu deinem Alter oder deinem Familienstand.
+**Please don't:** Bitte schicke uns in deiner Bewerbung kein Foto mit und mache keine Angaben zu deinem Alter oder deinem Familienstand.
 
-Please do: Bitte schreibe uns deinen möglichen Arbeitsbeginn und wie viel Arbeitsstunden pro Woche du gerne hättest.
+**Please do:** Bitte schreibe uns deinen möglichen Arbeitsbeginn und wie viel Arbeitsstunden pro Woche du gerne hättest.
 Wir sichten alle Bewerbungen in einem kleinen Berwerbungskommittee (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen ein, vor Ort in Berlin oder online (zweite Runde).
 
-Die Gespräche finden voraussichtlich am 11. und 13.02.2025 in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.
+Die **Bewerbungsgespräche** finden voraussichtlich am **11. und 13.02.2025 in Berlin** statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.
