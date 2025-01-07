@@ -23,24 +23,24 @@ Für die ausgeschriebene Position sind wir auf der Suche nach einer teamstarken,
 # Deine Verantwortlichkeiten
 
 Konkret fallen unter anderem folgende Aufgaben an: 
-·	Unterstützung der Geschäftsführung bei der Liquiditätsplanung und dem laufenden Zahlungsverkehr
-·	Unterstützung der Projektteams bei der Erstellung von Finanzierungsplänen für Projektanträge, beim Budget-Controlling sowie beim Erstellen von Mittelabrufen und Verwendungsnachweisen
-·	Koordination des finanziellen Jahresabschlusses (Bilanzierung) in Zusammenarbeit mit dem Steuerbüro sowie der monatlichen Abschlüsse
-·	Koordination der jährlichen Wirtschaftsprüfung in Zusammenarbeit mit unserem Dienstleister
-·	Generelle Ansprechperson sein für alle Fragen zum Finanzbereich für das Team
-·	Übernahme allgemeiner Verwaltungstätigkeiten
+* Unterstützung der Geschäftsführung bei der Liquiditätsplanung und dem laufenden Zahlungsverkehr
+* Unterstützung der Projektteams bei der Erstellung von Finanzierungsplänen für Projektanträge, beim Budget-Controlling sowie beim Erstellen von Mittelabrufen und Verwendungsnachweisen
+* Koordination des finanziellen Jahresabschlusses (Bilanzierung) in Zusammenarbeit mit dem Steuerbüro sowie der monatlichen Abschlüsse
+* Koordination der jährlichen Wirtschaftsprüfung in Zusammenarbeit mit unserem Dienstleister
+* Generelle Ansprechperson sein für alle Fragen zum Finanzbereich für das Team
+* Übernahme allgemeiner Verwaltungstätigkeiten
 
 # Dein Profil
 
 *Du…*
 
-·	hast praktische (Berufs-)Erfahrung in der Arbeit mit Vereinsfinanzen, Projektfinanzen oder anderen finanzbezogenen Themen
-·	hast Spaß am sorgfältigen Arbeiten mit Zahlen, Tabellen und Formeln
-·	pflegst einen professionellen Umgang mit gängiger Bürosoftware und bist bereit, dich in vereinsinterne Administrationstools einzuarbeiten und diese mitzugestalten
-·	verfügst über sehr gute Deutschkenntnisse in Wort und Schrift (Niveau C1) 
-·	hast eine selbständige, organisierte und lösungsorientierte Arbeitsweise sowie ein gutes Gefühl für Zeitmanagement und Priorisierung
-·	hast eine hohe soziale Kompetenz und Teamfähigkeit sowie ein hohes Verantwortungsgefühl 
-·	Ein Plus (aber kein Muss) wären Erfahrungen im Zuwendungsrecht sowie im Vereins-, Arbeits- oder Personalrecht.
+* hast praktische (Berufs-)Erfahrung in der Arbeit mit Vereinsfinanzen, Projektfinanzen oder anderen finanzbezogenen Themen
+* hast Spaß am sorgfältigen Arbeiten mit Zahlen, Tabellen und Formeln
+* pflegst einen professionellen Umgang mit gängiger Bürosoftware und bist bereit, dich in vereinsinterne Administrationstools einzuarbeiten und diese mitzugestalten
+* verfügst über sehr gute Deutschkenntnisse in Wort und Schrift (Niveau C1) 
+* hast eine selbständige, organisierte und lösungsorientierte Arbeitsweise sowie ein gutes Gefühl für Zeitmanagement und Priorisierung
+* hast eine hohe soziale Kompetenz und Teamfähigkeit sowie ein hohes Verantwortungsgefühl 
+* Ein Plus (aber kein Muss) wären Erfahrungen im Zuwendungsrecht sowie im Vereins-, Arbeits- oder Personalrecht.
 
 # Dein Team
 
@@ -67,4 +67,5 @@ Please don't: Bitte schicke uns in deiner Bewerbung kein Foto mit und mache kein
 
 Please do: Bitte schreibe uns deinen möglichen Arbeitsbeginn und wie viel Arbeitsstunden pro Woche du gerne hättest.
 Wir sichten alle Bewerbungen in einem kleinen Berwerbungskommittee (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen ein, vor Ort in Berlin oder online (zweite Runde).
+
 Die Gespräche finden voraussichtlich am 11. und 13.02.2025 in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.
