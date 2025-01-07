@@ -12,15 +12,15 @@ title: 'Neuer Job bei der OKF: Wir suchen eine:n Mitarbeiter:in im Bereich Finan
 draft: 'false'
 ---
 
-# Wer wir sind
+## Wer wir sind
 
 Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sitz in Berlin, der sich seit 2011 für offenes Wissen, offene Daten, Transparenz und Beteiligung einsetzt. Unsere Arbeit ist unabhängig, überparteilich, gemeinnützig und interdisziplinär. 
 
-# Wen wir suchen
+## Wen wir suchen
 
 Für die ausgeschriebene Position sind wir auf der Suche nach einer teamstarken, sorgfältigen und zuverlässigen Persönlichkeit, die Freude daran hat, ein technikbegeistertes und politisch engagiertes Team zu unterstützen. Du solltest Freude an der Arbeit mit Zahlen und Tabellen und keine Angst vor Kleingedrucktem haben. Uns ist wichtig, dass du mindestens einen Tag pro Woche im Büro arbeitest. Wenn du bereits Erfahrungen im Rechnungswesen und/oder in der Finanzadministration mitbringst, freuen wir uns umso mehr.
 
-# Deine Verantwortlichkeiten
+## Deine Verantwortlichkeiten
 
 Konkret fallen unter anderem folgende Aufgaben an: 
 * Unterstützung der Geschäftsführung bei der Liquiditätsplanung und dem laufenden Zahlungsverkehr
@@ -30,7 +30,7 @@ Konkret fallen unter anderem folgende Aufgaben an:
 * Generelle Ansprechperson sein für alle Fragen zum Finanzbereich für das Team
 * Übernahme allgemeiner Verwaltungstätigkeiten
 
-# Dein Profil
+## Dein Profil
 
 *Du…*
 
@@ -42,11 +42,11 @@ Konkret fallen unter anderem folgende Aufgaben an:
 * hast eine hohe soziale Kompetenz und Teamfähigkeit sowie ein hohes Verantwortungsgefühl 
 * Ein Plus (aber kein Muss) wären Erfahrungen im Zuwendungsrecht sowie im Vereins-, Arbeits- oder Personalrecht.
 
-# Dein Team
+## Dein Team
 
 Du wirst im Team der Geschäftsführung arbeiten. Dabei wirst du mehrheitlich mit Giulia und Nadja zusammenarbeiten, die sich um das Rechnungswesen, die Personalverwaltung und das Spendenmanagement kümmern. Bei den Themen finanzielle Jahresplanung und Wirtschaftsprüfung arbeitest du besonders eng mit unserer Geschäftsführerin Henriette zusammen. Du wirst auch bereichsübergreifend mit anderen Teamkolleg:innen aus der OKF arbeiten, z. B. mit den Teams FragDenStaat, Jugend hackt und Prototype Fund.
 
-# Was wir bieten
+## Was wir bieten
 
 * Eine sinnstiftende Tätigkeit in einer erfolgreichen, wachsenden Organisation.
 * Flexible, familienfreundliche Arbeitszeiten, eine klare Überstundenregelung und eine Menstrual Leave Policy.
@@ -58,7 +58,7 @@ Du wirst im Team der Geschäftsführung arbeiten. Dabei wirst du mehrheitlich mi
 * Ein Gehalt angelehnt an TVL 12/1 oder 12/2 (ab 2 Jahren Erfahrung im Bereich Finanzen und Controlling). Hier findest du die aktuelle Tabelle für den Tarifvertrag der Länder: https://oeffentlicher-dienst.info/c/t/rechner/tv-l/tr/2023?id=tv-l-2025&matrix=1. 
 * Die Stelle ist befristet auf 2 Jahre, wir planen eine Verlängerung fest ein.  
 
-# Was musst du jetzt wissen und tun
+## Was musst du jetzt wissen und tun
 
 Wir freuen uns besonders über Bewerbungen von BPoC, Menschen mit Behinderung, Menschen mit Migrationsgeschichte und Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Wir möchten vor allem wissen, warum du glaubst, dass eine Mitarbeit in der Open Knowledge Foundation Deutschland genau das Richtige für dich ist.
 Bitte schicke uns deine Bewerbung (Motivationsschreiben, Lebenslauf, nur wenn relevant auch Nachweise) **bis spätestens 02.02.2025** per E-Mail an Giulia Norberti an **jobs@okfn.de**.
