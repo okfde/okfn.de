@@ -4,7 +4,7 @@ authors:
 date: 2025-01-07
 image:
   src: 
-  title: Finanzen und Controlling
+  title:
   license: null
   license_url: null
 tags: null
