@@ -9,7 +9,7 @@ image:
   license_url: null
 tags: null
 title: 'Der Prototype Fund sucht eine Person für Förderrundenmanagement und Projektbetreuung (32 h/Woche)'
-draft: 'false'
+draft: 'true'
 ---
 
 Im Prototype Fund suchen wir eine Person, die unsere Förderrunden organisiert und die geförderten Projekte betreut. Dabei stehst du den Teams und Einzelentwickler*innen während ihrer Förderzeit zur Seite, übernimmst die Organisation unterschiedlicher Austausch- und Coachingformate und begleitest die Geförderten in der Vorbereitung ihrer Projektvorstellungen am Ende der Förderzeit.
