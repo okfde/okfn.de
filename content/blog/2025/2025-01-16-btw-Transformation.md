@@ -16,6 +16,8 @@ title: "Die Zukunft der Digitalpolitik 1/3: Transformation offen & innovativ ges
 publishedDate: 
 ---
 
+## Unsere Forderungen zur Bundestagswahl 2025
+
 Unsere [Forderungen zur Bundestagswahl 2025](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/) gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind. Dies ist der erste von drei Blogbeiträgen, in denen wir diese zentralen Aspekte näher beleuchten. 
 
 Eines unserer Kernanliegen die kommende Legislaturperiode ist es, dass Technologien mehr dazu beitragen, die Komplexität von Problemlagen zu erfassen und Lösungswege für gesellschaftliche Herausforderungen zu skizzieren. Technologien können dabei helfen, informierte Entscheidungen zu treffen, Zusammenhänge sichtbar zu machen sowie  Innovationen und Zusammenarbeit zu fördern – sei es bei der Bewältigung der Klimakrise, der Verbesserung sozialstaatlicher Leistungen oder der Förderung multimodaler Mobilität.
@@ -37,5 +39,5 @@ Bei der Digitalisierung der Verwaltung muss die Expertise der Zivilgesellschaft 
 # Digitalpolitik als Basis
 Die Gestaltung der Digitalpolitik hat vielfältige Auswirkungen auf nahezu alle Politikfelder und entscheidet maßgeblich darüber, wie wir als Gesellschaft auf die großen Herausforderungen unserer Zeit reagieren können. Eine zukunftsorientierte Digitalpolitik nutzt Technologien, um die Komplexität von Problemlagen zu erfassen und Lösungswege für gesellschaftliche Herausforderungen zu skizzieren. Sie verankert Offenheit und Kollaboration als Grundprinzipien und schafft somit Rahmenbedingungen für Innovationen, die allen zu Gute kommen.
 
-In unserem nächsten Blogbeitrag erfahrt ihr mehr zum Thema: **1. HANDLUNGSFÄHIGKEIT stärken & VERTRAUEN zurückgewinnen**
+In unserem nächsten Blogbeitrag erfahrt ihr mehr unserer Forderung: **1. Handlungsfähigkeit stärken & Vertrauen zurückgewinnen**
 Hier geht es zu unseren [Forderungen](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/).
