@@ -3,7 +3,7 @@ authors:
 - Henriette Litta
 - Christina Willems
 image:
-  src: /files/blog/2024/2024_12_16_Blog_Bundestagswahl_Forderungen.png
+  src: 
   title: 
 tags:
 - Digitalpolitik
