@@ -59,7 +59,7 @@ Erstelle eine neue Datei in `content/blog/<jahr>/` und kopiere die Dummydaten au
 - `image`: ein Bild das in Social Media Links angezeigt wird und optional bei _Featured_ (siehe unten). Bitte achte auf angemessene Bildgrößen! Ein Bild direkt von Flickr oder deiner Kamera ist in den meisten Fällen viel zu groß!
 - `tags`: eine Liste von Tags
 - `type` und `layout` für intere Sachen. Bitte nicht verändern
-- `published`: ob der Post veröffentlicht werden soll, `true` oder `false`
+- `draft`: `true` falls der Post noch nicht veröffentlicht werden soll
 - `title`: der Titel des Posts
 - `featured`: siehe unten
 
