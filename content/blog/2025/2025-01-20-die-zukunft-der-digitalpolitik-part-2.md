@@ -14,7 +14,7 @@ title: "Die Zukunft der Digitalpolitik 2/3: Handlungsfähigkeit stärken & Vertr
 draft: true
 ---
 
-*Unsere [Forderungen zur Bundestagswahl 2025](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/) gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind.*
+*Unsere [Forderungen zur Bundestagswahl 2025](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/) gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind. Dies ist der zweite von drei Blogbeiträgen, in denen wir diese zentralen Aspekte näher beleuchten.*
 * [ Die Zukunft der Digitalpolitik 1/3: Transformation offen & innovativ gestalten](https://okfn.de/blog/)
 
 Bei der dringend benötigten Modernisierung der bürokratischen Prozesse muss es im Kern um einen <b>handlungsfähigen Staat gehen, der nachvollziehbar transparent arbeitet</b>. Teil davon sind eine funktionierende IT-Infrastruktur sowie ein barrierefreier Zugang zu staatlichen Informationen und Dienstleistungen. Zudem mehr partizipative Prozesse vor allem dort, wo Bürger:innen im direkten Kontakt mit der Verwaltung sind: in den Kommunen. 
