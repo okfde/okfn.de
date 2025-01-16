@@ -11,7 +11,7 @@ type: post
 layout: post
 featured: blue
 title: "Die Zukunft der Digitalpolitik 2/3: Handlungsfähigkeit stärken & Vertrauen zurückgewinnen"
-published: false
+draft: true
 ---
 
 *Unsere [Forderungen zur Bundestagswahl 2025](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/) gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind.*
