@@ -2,9 +2,9 @@
 authors:
 - Henriette Litta
 - Christina Willems
-image: /files/blog/2025/2025-01-16-BTW_Transformation.png
-  src: 
-  title: Transformation offen und innovativ gestalten
+image: 
+  src: /files/blog/2025/2025-01-16-BTW_Transformation.png
+  title:
 tags:
 - Digitalpolitik
 - Zivilgesellschaft
