@@ -4,7 +4,7 @@ authors:
 - Christina Willems
 image: /files/blog/2025/2025-01-16-BTW_Transformation.png
   src: 
-  title: Transformation offen & innovativ gestalten
+  title: Transformation offen und innovativ gestalten
 tags:
 - Digitalpolitik
 - Zivilgesellschaft
