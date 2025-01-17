@@ -39,5 +39,5 @@ Bei der Digitalisierung der Verwaltung muss die Expertise der Zivilgesellschaft 
 # Digitalpolitik als Basis
 Die Gestaltung der Digitalpolitik hat vielfältige Auswirkungen auf nahezu alle Politikfelder und entscheidet maßgeblich darüber, wie wir als Gesellschaft auf die großen Herausforderungen unserer Zeit reagieren können. Eine zukunftsorientierte Digitalpolitik nutzt Technologien, um die Komplexität von Problemlagen zu erfassen und Lösungswege für gesellschaftliche Herausforderungen zu skizzieren. Sie verankert Offenheit und Kollaboration als Grundprinzipien und schafft somit Rahmenbedingungen für Innovationen, die allen zu Gute kommen.
 
-In unserem nächsten Blogbeitrag erfahrt ihr mehr über unsere Forderung: **Handlungsfähigkeit stärken & Vertrauen zurückgewinnen**
+In unserem nächsten Blogbeitrag erfahrt ihr mehr über unsere Forderung: **Handlungsfähigkeit stärken & Vertrauen zurückgewinnen**.
 Hier geht es zu unserer gesamten [Publikation](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/).
