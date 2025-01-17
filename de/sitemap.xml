@@ -242,32 +242,6 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -299,6 +273,32 @@
   </url><url>
     <loc>https://okfn.de/authors/okf/</loc>
     <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
   </url><url>
     <loc>https://okfn.de/tags/bundestagswahl2025/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
