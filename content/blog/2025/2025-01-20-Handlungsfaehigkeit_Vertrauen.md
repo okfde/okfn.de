@@ -44,5 +44,5 @@ Dabei muss nicht jede der über 11.000 Kommunen in Deutschland über eine maßge
 
 Ein wichtiger Faktor für die Entwicklung nachhaltiger Lösungen für lokale Herausforderungen ist die Einbindung engagierter Menschen vor Ort. Statt in regelmäßigen Zyklen das Rad neu erfinden zu wollen oder auf kommerzielle Innovationsversprechen zu setzen, sollte  stärker auf ihre Erfahrungen zurückgegriffen werden. Das Wissen der engagierten Menschen ist ein längst bekannter Erfolgsfaktor für Digitalisierungsprojekte, der institutionell durch partizipative Formate und Prozesse eingebunden werden kann. Die langfristige Finanzierung von Infrastrukturen sollte zudem Vorrang vor dem x-ten Leuchtturmprojekt haben, das an den Bedürfnissen vorbei zielt. Staatliche Förderstrukturen sollten dies adäquat unterstützen, z. B. indem sie bei der **Stärkung des digitalen Ehrenamts** dem Grundsatz folgen: weniger Projektförderung, mehr Strukturförderung.
 
-In unserem nächsten Blogbeitrag erfahrt ihr mehr über unsere Forderung: **Handlungsfähigkeit stärken & Vertrauen zurückgewinnen**.
+In unserem nächsten Blogbeitrag erfahrt ihr mehr über unsere Forderung: **Demokratie schützen & Zivilgesellschaft stärken**.
 Hier geht es zu unserer gesamten [Publikation](https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/).
