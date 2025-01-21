@@ -20,7 +20,7 @@ Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sit
 
 ## Wen wir suchen
 
-Für die ausgeschriebene Position sind wir auf der Suche nach einer teamstarken, sorgfältigen und zuverlässigen Persönlichkeit, die Freude daran hat, ein technikbegeistertes und politisch engagiertes Team zu unterstützen. Du solltest Freude an der Arbeit mit Zahlen und Tabellen und keine Angst vor Kleingedrucktem haben. Uns ist wichtig, dass du mindestens einen Tag pro Woche im Büro arbeitest. Wenn du bereits Erfahrungen im Rechnungswesen und/oder in der Finanzadministration mitbringst, freuen wir uns umso mehr.
+Für die ausgeschriebene Position sind wir auf der Suche nach einer teamstarken, sorgfältigen und zuverlässigen Persönlichkeit, die Freude daran hat, ein technikbegeistertes und politisch engagiertes Team zu unterstützen. Du solltest Freude an der Arbeit mit Zahlen und Tabellen und keine Angst vor Kleingedrucktem haben. Uns ist wichtig, dass du mindestens zwei Tage pro Woche im Büro arbeitest. Wenn du bereits Erfahrungen im Rechnungswesen und/oder in der Finanzadministration mitbringst, freuen wir uns umso mehr.
 
 ## Deine Verantwortlichkeiten
 
