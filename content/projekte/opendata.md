@@ -14,6 +14,7 @@ people:
   - name: Dénes Jäger
   - name: Christina Willems
   - name: Henriette Litta
+  - name: Yasemin Altınay
 contact_person: denesjaeger
 years: 2022 - 2025
 financing:
