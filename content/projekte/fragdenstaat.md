@@ -16,21 +16,31 @@ website: https://fragdenstaat.de
 people:
   - name: Arne Semsrott
     role: Projektleiter
-  - name: Stefan Wehrmeyer
-    role: Tech Lead
-  - name: Judith Doleschal
-    role: Kommunikation und Community-Entwicklung
-  - name: Max Kronmüller
-  - name: Hannah Vos
-  - name: Vivian Kube
-  - name: Aiko Kempen
-  - name: Luisa Izuzquiza
-  - name: Karl Engelhardt
+  - name: Ylva Ahrens
+  - name: Thomas Babyesiza
   - name: Melek Bazgan
-  - name: Isa Lachmann
-  - name: Lea Pfau
   - name: Vera Deleja-Hotko
-  - name: Monica Phương Thúy Nguyễn
+  - name: Judith Doleschal
+  - name: Kara Engelhardt
+  - name: Luisa Izuzquiza
+  - name: Aiko Kempen
+  - name: Max Kronmüller
+  - name: Dr. Vivian Kube
+  - name: Giulia Norberti
+  - name: Stella Schiffczyk
+  - name: Philipp Schönberger
+  - name: Feli Strickmann
+  - name: Sebastian Sudrow
+  - name: Michelle Trimborn
+  - name: Yasemin Uyar
+  - name: Hannah Vos
+  - name: Stefan Wehrmeyer
+  - name: Mattea Weihe
+  - name: Ida Westphal
+  - name: Jakob Wierzba
+  - name: Sabrina Winter
+  - name: Denis Witt
+  - name: Joschi Wolf
 contact_person: arnesemsrott
 years: 2011 - heute
 financing:
