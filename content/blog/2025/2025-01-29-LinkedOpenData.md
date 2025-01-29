@@ -10,7 +10,7 @@ tags:
 type: post
 layout: post
 featured: yellow
-title: "Linked Open Data"
+title: "Linked Open Data: Der Schlüssel zur vernetzten Verwaltung"
 publishedDate: 2025-01-29
 ---
 
