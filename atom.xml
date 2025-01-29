@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-01-20T00:00:00+0000</updated>
+  <updated>2025-01-29T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Linked Open Data</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/01/linked-open-data/"/>
+    <id>https://okfn.de/blog/2025/01/linked-open-data/</id>
+    <published>2025-01-29T00:00:00+0000</published>
+    <updated>2025-01-29T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;linked-open-data-der-schlüssel-zur-vernetzten-verwaltung&#34;&gt;Linked Open Data: Der Schlüssel zur vernetzten Verwaltung&lt;/h2&gt;
+&lt;p&gt;Im November 2024 fand die PIAZZA-Konferenz statt, bei der die Open Knowledge Foundation, neben dem Kompetenzzentrum Öffentliche IT, NExT e. V. und der Gesellschaft für Informatik e. V., eine der Trägerinstitutionen war. Bei der Konferenz trafen sich Menschen und Organisationen mit Perspektiven, Expertise und Ideen aus den Sektoren &lt;strong&gt;Zivilgesellschaft, Wissenschaft und Verwaltung&lt;/strong&gt; und brachten diese in einen Dialog. Was sie eint: den Wunsch nach gemeinwohlorientierten Lösungen für den digitalen Staat. Häufig arbeiten diese jedoch nebeneinander statt miteinander. Die Konferenzreihe PIAZZA zielt daher auf einen gemeinsamen Austausch auf Augenhöhe ab, bei dem es gilt, konstruktiv Herausforderungen zu definieren und Handlungsoptionen zu entwickeln.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Die Zukunft der Digitalpolitik 2/3: Handlungsfähigkeit stärken &amp; Vertrauen zurückgewinnen</title>
@@ -161,18 +171,6 @@ Foto: Moderator Tobias Schmid auf der Bühne&lt;/p&gt;
     <summary>&lt;h2 id=&#34;sommerprogramm-highlights&#34;&gt;Sommerprogramm-Highlights&lt;/h2&gt;
 &lt;p&gt;Die großen Sommerferien – an einigen Orten beginnen sie gerade und an anderen enden sie schon. Diese Zeit des Jahres ist nicht nur eine Phase der Entspannung und Erholung, sondern auch eine Gelegenheit für spannende Aktivitäten und neue Erlebnisse. Bei Jugend hackt steht daher bei einigen Labs eine Sommerpause an, andere jedoch planen ein volles Ferienprogramm, zu dem wir gerne einladen möchten.&lt;/p&gt;
 &lt;p&gt;Wie zum Beispiel zum Lab in Moers vom 6. bis 16. August: die Jugendlichen erwartet ein neuntägiges Abenteuer mit vielfältigen Angeboten: von Künstlicher Intelligenz und 3D-Scannen über Open Street Map und Cosplay bis hin zu Hardware-Coding. Auch das Lab Berlin hat im August ein prall gefülltes Programm, das sogar eine Führung durch einen stillgelegten Teilchenbeschleuniger umfasst.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Team-Retreat in Stechlin/Brandenburg: Natur, Teambuilding, Zukunftsvisionen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/"/>
-    <id>https://okfn.de/blog/2024/07/team-retreat-in-stechlin/brandenburg-natur-teambuilding-zukunftsvisionen/</id>
-    <published>2024-07-17T00:00:00+0000</published>
-    <updated>2024-07-17T00:00:00+0000</updated>
-    <summary>&lt;h2 id=&#34;team-retreat&#34;&gt;Team-Retreat&lt;/h2&gt;
-&lt;p&gt;Auch dieses Jahr hat sich die OKF wieder auf den Weg nach Stechlin gemacht: In Brandenburg fand sich unser Team bei einem Retreat zusammen, um gemeinsam an Themen und Visionen zu arbeiten. Auf unserer Agenda standen dieses Mal unter anderem: Governance-Strukturen, Instrumente zu mehr Partizipationsmöglichkeiten, Stärkung der Mitarbeiter:innen und die Reflexion der Veränderung des Vereins über die letzten Jahre.&lt;/p&gt;
-&lt;h2 id=&#34;natur&#34;&gt;Natur&lt;/h2&gt;
-&lt;p&gt;Das Stechlin-Institut, 80 km nördlich von Berlin, wird als inklusiver Ort Menschen bereitgestellt, die sich für eine offene Gesellschaft einsetzen und mit ihren Idealen die Welt aktiv verändern: &lt;em&gt;„Wir haben am Stechlin-Institut einen Raum geschaffen, der die Sinne schärft, sensibilisiert, erinnert, Verantwortung zu übernehmen für sein [da]sein, den anderen und sich selbst. Nicht nur den Menschen zentral zu sehen, sondern sich einzufügen in das komplexe System Erde und demutsvoll zurückzunehmen, paritätisch neben allem Lebendigen eingebettet in eine vergehende, noch immer intakt scheinende Natur.“&lt;/em&gt;, beschreiben die Leiter:innen Romy und Stef ihre Mission.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
