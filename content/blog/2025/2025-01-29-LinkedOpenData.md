@@ -10,11 +10,11 @@ tags:
 type: post
 layout: post
 featured: yellow
-title: "Linked Open Data: Der Schlüssel zur vernetzten Verwaltung"
+title: "Linked Open Data: Vernetzte Verwaltung für vernetzte Daten"
 publishedDate: 2025-01-29
 ---
 
-## Linked Open Data: Der Schlüssel zur vernetzten Verwaltung
+## Linked Open Data: Vernetzte Verwaltung für vernetzte Daten
 
 Im November 2024 fand die PIAZZA-Konferenz statt, bei der die Open Knowledge Foundation, neben dem Kompetenzzentrum Öffentliche IT, NExT e. V. und der Gesellschaft für Informatik e. V., eine der Trägerinstitutionen war. Bei der Konferenz trafen sich Menschen und Organisationen mit Perspektiven, Expertise und Ideen aus den Sektoren **Zivilgesellschaft, Wissenschaft und Verwaltung** und brachten diese in einen Dialog. Was sie eint: den Wunsch nach gemeinwohlorientierten Lösungen für den digitalen Staat. Häufig arbeiten diese jedoch nebeneinander statt miteinander. Die Konferenzreihe PIAZZA zielt daher auf einen gemeinsamen Austausch auf Augenhöhe ab, bei dem es gilt, konstruktiv Herausforderungen zu definieren und Handlungsoptionen zu entwickeln. 
 
