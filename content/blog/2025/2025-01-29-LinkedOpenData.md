@@ -1,6 +1,6 @@
 ---
 authors:
-- Christina Willems
+- OKFDE
 image: 
   src: /files/blog/2025/2025-01-PIAZZA-LinkedOpenData.png
   title:
