@@ -1,24 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-01-30T00:00:00+0000</updated>
+  <updated>2025-01-29T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
-  
-  <entry>
-    <title>Die Zukunft der Digitalpolitik 3/3: Demokratie schützen &amp; Zivilgesellschaft stärken</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-3/3-demokratie-sch%C3%BCtzen-zivilgesellschaft-st%C3%A4rken/"/>
-    <id>https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-3/3-demokratie-sch%C3%BCtzen-zivilgesellschaft-st%C3%A4rken/</id>
-    <published>2025-01-30T00:00:00+0000</published>
-    <updated>2025-01-30T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Unsere &lt;a href=&#34;https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/&#34; target=&#34;_blank&#34;&gt;Forderungen zur Bundestagswahl 2025&lt;/a&gt; gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind. Dies ist der dritte von drei Blogbeiträgen, in denen wir diese zentralen Aspekte näher beleuchten. Hier kommt ihr zum &lt;a href=&#34;https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/&#34; target=&#34;_blank&#34;&gt;ersten&lt;/a&gt; und zum &lt;a href=&#34;https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/&#34; target=&#34;_blank&#34;&gt;zweiten&lt;/a&gt; Blogbeitrag.&lt;/p&gt;
-&lt;h2 id=&#34;lebendige-demokratien-brauchen-engagement-und-reformen&#34;&gt;Lebendige Demokratien brauchen Engagement und Reformen&lt;/h2&gt;
-&lt;p&gt;Eine starke Demokratie lebt von einer aktiven und engagierten Zivilgesellschaft. Angesichts aktueller Herausforderungen gilt es, diese zu schützen und zu fördern, und die Zivilgesellschaft zu stärken. Ein zentraler Schritt in diese Richtung ist beispielsweise die Verabschiedung des Demokratiefördergesetzes. Doch auch darüber hinaus gibt es entscheidende Hebel, die wir ansetzen müssen, um demokratische Prozesse und gesellschaftliches Engagement nachhaltig zu stärken. Wie etwa eine Reform des Gemeinnützigkeitsrechts, die unerlässlich ist, um mehr Rechtssicherheit für gemeinnützige Organisationen zu schaffen, insbesondere solche, die politisch engagiert sind. Gleichzeitig braucht es klarere Regeln für die Anerkennung der Gemeinnützigkeit von Open-Source-Projekten. Offener Quellcode ist eine der zentralen Grundlagen digitaler Transparenz und Innovation – es ist Zeit, dass dieser Beitrag zur Gesellschaft auch rechtlich nachhaltig gewürdigt wird.&lt;/p&gt;</summary>
-  </entry>
   
   <entry>
     <title>Linked Open Data: Vernetzte Verwaltung für vernetzte Daten</title>
@@ -171,6 +160,17 @@
 Foto: Moderator Tobias Schmid auf der Bühne&lt;/p&gt;
 &lt;h2 id=&#34;programm&#34;&gt;Programm&lt;/h2&gt;
 &lt;p&gt;Nach der Begrüßung der Projektleiter:innen Marie Kreil und Patricia Leu begann die Veranstaltung mit einer Keynote des ehrenamtlichen Jury-Mitglieds Jens Ohlig, der die Bedeutung von Software vor allem in Bezug auf das Ehrenamt beleuchtete. Er unterstrich dabei die Wichtigkeit von intrinsischer Motivation für nachhaltige Veränderungen. Im Laufe des Tages gab es ein spannendes Programm mit verschiedenen &lt;a href=&#34;https://prototypefund.de/demo-day/&#34; target=&#34;_blank&#34;&gt;Vorträgen und Panels&lt;/a&gt;, um auch untereinander in Austausch zu kommen. Besonders spannend war die „Demo Time“ zwischen den Talks, bei der die Teilnehmer*innen die Projekte interaktiv kennenlernen konnten.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Sommer bei Jugend hackt: Ein buntes Programm für junge Hacker*innen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2024/08/sommer-bei-jugend-hackt-ein-buntes-programm-f%C3%BCr-junge-hackerinnen/"/>
+    <id>https://okfn.de/blog/2024/08/sommer-bei-jugend-hackt-ein-buntes-programm-f%C3%BCr-junge-hackerinnen/</id>
+    <published>2024-08-05T00:00:00+0000</published>
+    <updated>2024-08-05T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;sommerprogramm-highlights&#34;&gt;Sommerprogramm-Highlights&lt;/h2&gt;
+&lt;p&gt;Die großen Sommerferien – an einigen Orten beginnen sie gerade und an anderen enden sie schon. Diese Zeit des Jahres ist nicht nur eine Phase der Entspannung und Erholung, sondern auch eine Gelegenheit für spannende Aktivitäten und neue Erlebnisse. Bei Jugend hackt steht daher bei einigen Labs eine Sommerpause an, andere jedoch planen ein volles Ferienprogramm, zu dem wir gerne einladen möchten.&lt;/p&gt;
+&lt;p&gt;Wie zum Beispiel zum Lab in Moers vom 6. bis 16. August: die Jugendlichen erwartet ein neuntägiges Abenteuer mit vielfältigen Angeboten: von Künstlicher Intelligenz und 3D-Scannen über Open Street Map und Cosplay bis hin zu Hardware-Coding. Auch das Lab Berlin hat im August ein prall gefülltes Programm, das sogar eine Führung durch einen stillgelegten Teilchenbeschleuniger umfasst.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
