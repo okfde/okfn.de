@@ -9,7 +9,7 @@ image:
   license_url: null
 tags: null
 title: 'Die OKF sucht eine:n Mitarbeiter:in im Bereich Finanzen und Controlling (75-100%, ab sofort)'
-draft: 'false'
+draft: 'true'
 ---
 
 Neuer Job bei der OKF: Wir suchen eine:n Mitarbeiter:in im Bereich Finanzen und Controlling (TVL E12/S1, 75-100%, ab sofort, zunächst auf 2 Jahre befristet, Verlängerung ist geplant)
