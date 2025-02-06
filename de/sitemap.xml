@@ -333,25 +333,6 @@
     <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/jobs/okf-finanzen-controlling/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
-                />
-  </url><url>
-    <loc>https://okfn.de/authors/okf/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -394,6 +375,19 @@
   </url><url>
     <loc>https://okfn.de/tags/produkttransparenz/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
+                />
   </url><url>
     <loc>https://okfn.de/blog/2024/11/bewerbungsstart-f%C3%BCr-jahrgang-01-des-prototype-fund/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
@@ -1462,6 +1456,9 @@
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2019/12/in-eigener-sache-henriette-litta-%C3%BCbernimmt-gesch%C3%A4ftsf%C3%BChrung-bei-open-knowledge-foundation-deutschland-e.v./</loc>
+    <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/okf/</loc>
     <lastmod>2019-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2019/12/volksentscheid-transparenz-berlin-33.000-unterschriften-f%C3%BCr-mehr-transparenz/</loc>
@@ -4147,6 +4144,8 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/demokratielabore/"
                 />
+  </url><url>
+    <loc>https://okfn.de/jobs/okf-finanzen-controlling/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/digiwhist/</loc>
     <xhtml:link
