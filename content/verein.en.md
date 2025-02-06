@@ -32,6 +32,6 @@ coc_body: Our [Code of Conduct](/codeofconduct) sets out the basic rules for how
 
 ### Association
 
-Our work is independent, non-partisan, interdisciplinary, and non-commercial. Our non-profit status is based on our statutes. The statutes were adopted at the first general meeting in 2011 and last amended in 2021. Our Code of Conduct sets out the common values and principles of action.
+Our work is independent, non-partisan, interdisciplinary, and non-commercial. Our non-profit status is based on our statutes. The statutes were adopted at the first general meeting in 2011 and last amended in 2024. Our Code of Conduct sets out the common values and principles of action.
 
 We are present in numerous areas of society and are recognized as one of the leading organisations for innovative projects in the areas of transparency and accountability, rule of law, access to knowledge and participation, digital literacy and public control in Germany and Europe alike. We are also engaged in the globally active [Open Knowledge Network](https://okfn.org/network/).
