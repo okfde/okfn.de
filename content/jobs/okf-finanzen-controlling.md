@@ -1,7 +1,7 @@
 ---
 authors:
 - OKF
-date: 2025-01-07
+date: 
 image:
   src: 
   title:
