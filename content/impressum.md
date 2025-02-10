@@ -16,7 +16,7 @@ Singerstr. 109 | D-10179 Berlin</br>
 **Vereinsregister-Nr.:** VR 30468 B<br>
 **Umsatzsteuernummer:** DE278022128<br>
 **Registergericht:** Amtsgericht Charlottenburg<br>
-**Vertretungsberechtigter Vorstand**: Lea Gimpel, Stefan Heumann, Kristina Klein, Gabriele C. Klug, Felix Reda.
+**Vertretungsberechtigter Vorstand**: Elina Eickstädt, Lea Gimpel, Stefan Heumann, Kristina Klein, Gabriele C. Klug, Fiona Krakenbürger, Felix Reda.
 
 **Technisch:**
     Statisches HTML generiert mit [Hugo](https://gohugo.io/)
