@@ -14,17 +14,17 @@ Register of associations no.: VR 30468 B <br>
 
 ### Complete statutes as well as information on the organisational goals (DE)
 
-The statutes of the Open Knowledge Foundation Deutschland e. V. can be found [here](/files/documents/01_OKF-Satzung_neu.pdf).
+The statutes of the Open Knowledge Foundation Deutschland e. V. can be found [here](/files/documents/01_Satzung_2024.pdf).
 
 ### Information on tax relief
 
 Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Corporation Tax Act and from trade tax pursuant to § 3 no. 6 of the Trade Tax Act due to the promotion of science and research, the promotion of popular and vocational education as well as student assistance, the strengthening of the democratic state as well as the strengthening of civic commitment pursuant to the last [exemption notice](/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) received by us from the Tax Office for Corporations I, Berlin dated 27.11.2023.
 
-A current extract from the register of associations can be found [here](/files/documents/2024-03-12-Vereinsregisterauszug-OKF-DE.pdf).
+A current extract from the register of associations can be found [here](/files/documents/2025-02-07-Vereinsregisterauszug-OKF-DE.pdf).
 
 ### Name and function of essential decision makers
 
-Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Further board members are Felix Reda, Lea Gimpel and Stefan Heumann. Henriette Litta is managing director of the association.
+Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Further board members are Elina Eickstädt, Lea Gimpel, Stefan Heumann, Fiona Krakenbürger and Felix Reda. Henriette Litta is managing director of the association.
 
 ### Annual reports [DE]
 
