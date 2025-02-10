@@ -13,15 +13,15 @@ Gründungsjahr: 2011 <br>
 Vereinsregister Nr: VR 30468 B <br>
 
 ### Vollständige Satzung sowie Angaben zu den Organisationszielen
-Die Satzung der Open Knowledge Foundation Deutschland e. V. ist [hier einsehbar](/files/documents/01_OKF-Satzung_neu.pdf).
+Die Satzung der Open Knowledge Foundation Deutschland e. V. ist [hier einsehbar](/files/documents/01_Satzung_2024.pdf).
 
 ### Angaben zur Steuerbegünstigung
 Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe, Stärkung des demokratischen Gemeinwesens und  Stärkung des bürgerschaftlichen Engagements nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) des Finanzamts für Körperschaften I, Berlin vom 27.11.2023 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
 
-Ein aktueller Auszug aus dem Vereinsregister ist [hier einsehbar](/files/documents/2024-03-12-Vereinsregisterauszug-OKF-DE.pdf).
+Ein aktueller Auszug aus dem Vereinsregister ist [hier einsehbar](/files/documents/2025-02-07-Vereinsregisterauszug-OKF-DE.pdf).
 
 ### Name und Funktion wesentlicher Entscheidungsträger:innen
-Vorsitzende ist Kristina Klein, Kassenwartin ist Gabriele C. Klug. Weitere Vorstandsmitglieder sind Felix Reda, Lea Gimpel und Stefan Heumann. Vom Vorstand bevollmächtigte Geschäftsführerin ist Henriette Litta.
+Vorsitzende ist Kristina Klein, Kassenwartin ist Gabriele C. Klug. Weitere Vorstandsmitglieder sind Elina Eickstädt, Lea Gimpel, Stefan Heumann, Fiona Krakenbürger und Felix Reda. Vom Vorstand bevollmächtigte Geschäftsführerin ist Henriette Litta.
 
 ### Jahresberichte
 Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Finanzierung. Seit 2017 erstellen wir unseren Jahresbericht darum nach Social Reporting Standard.
