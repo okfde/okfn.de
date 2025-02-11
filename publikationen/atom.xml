@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2024-12-16T00:00:00+0000</updated>
+  <updated>2025-02-10T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Stellungnahme zum Open-Data-Erfahrungsbericht des Landes Nordrhein-Westfalen</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/okf_stellungnahme_od-berichtnrw/"/>
+    <id>https://okfn.de/publikationen/okf_stellungnahme_od-berichtnrw/</id>
+    <published>2025-02-10T00:00:00+0000</published>
+    <updated>2025-01-22T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Das Land NRW hat einen Erfahrungsbericht zum Umsetzungsstand von Open Data auf Landesebene veröffentlicht. Der Bericht wirft mehr Fragen auf, als er beantwortet. Wir empfehlen konkrete Maßnahmen, wie das Einbringen qualitativer Perspektiven, eine mögliche Fokussierung auf bestimmte Kerndatensätze und die Einbeziehung der Zivilgesellschaft.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Digitalpolitik für eine demokratische und resiliente Zukunft</title>
@@ -143,16 +152,6 @@
     <updated>2023-06-08T00:00:00+0000</updated>
     <summary>&lt;p&gt;Noch in dieser Legislaturperiode soll unter Beteiligung der Zivilgesellschaft eine neue Engagementstrategie des Bundes erarbeitet werden. Die letzte Engagementstrategie stammt noch aus dem Jahr 2010. Es wird also Zeit – denn es hat sich viel getan! Das digitale Ehrenamt ist stark gewachsen und neue Technologien durchdringen mehr und mehr unser Leben.&lt;/p&gt;
 &lt;p&gt;Im Rahmen der Verbändebeteiligung haben wir gemeinsam im Bündnis F5 eine Stellungnahme eingereicht.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Open-Data-Gesetz Hessen (HODaG)</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_stellungnahme-hessisches-opendatagesetz/"/>
-    <id>https://okfn.de/publikationen/2023_stellungnahme-hessisches-opendatagesetz/</id>
-    <published>2023-03-23T00:00:00+0000</published>
-    <updated>2023-03-23T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Bereitstellung von Open Data ist ein zentrales Element in der Umsetzung des Offenen Regierungshandeln und maßgebliche Voraussetzung für Transparenz, Nachvollziehbarkeit und Überprüfbarkeit politischen Handelns, Akzeptanz politischer Entscheidungen, Meinungsbildung und Partizipation.&lt;/p&gt;
-&lt;p&gt;Die Hessische Regierung macht mit dem Open-Data-Gesetz zwar den überfälligen ersten Schritt, verpasst es aber, aus den zahlreichen Beispielen anderer Open-Data-Gesetze die richtigen Schlüsse zu ziehen. Unsere Anmerkungen und Kritkpunkte haben wir in dieser Stellungnahme ausgeführt.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

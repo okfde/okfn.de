@@ -293,6 +293,22 @@
     <loc>https://okfn.de/tags/open-data-nrw/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/okf_stellungnahme_od-berichtnrw/</loc>
+    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -347,19 +363,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2024/12/digitalpolitik-fu%CC%88r-eine-demokratische-und-resiliente-zukunft-forderungen-der-open-knowledge-foundation-deutschland-zur-bundestagswahl-2025/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2024-12-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2024/12/unruhe-als-strukturprinzip-die-arbeit-im-beirat-digitalstrategie-der-bundesregierung-geht-zu-ende/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
