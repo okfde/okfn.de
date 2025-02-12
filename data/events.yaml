@@ -202,3 +202,9 @@
   startdate: "2025-03-03"
   venue: bUm, Berlin
   show: true
+- name: Jugend hackt in Dresden
+  url: https://jugendhackt.org/events/dresden/
+  enddate: "2025-04-13"
+  startdate: "2025-04-11"
+  venue: TU Dresden – Fakultät Informatik
+  show: true
