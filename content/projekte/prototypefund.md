@@ -54,4 +54,4 @@ Neben der finanziellen Unterstützung bieten wir auf dem Weg zum Prototypen Coac
 
 Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von Selbstständigen angepasst. Bisher konnten wir bereits ca. 14,4 Millionen Euro an 340 Projekte ausgeben (Stand: Oktober 2023). Das Programm läuft über insgesamt 16 Förderrunden noch bis 2024.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MOGdX7ipcu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Ojvcz0JjDhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
