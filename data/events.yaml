@@ -196,3 +196,9 @@
   startdate: "2024-10-03"
   venue: Jugendkulturzentrum Königstadt, Berlin
   show: true
+- name: Protoype Fund Demo Day
+  url: https://prototypefund.de/demo-day/
+  enddate:
+  startdate: "2025-03-03"
+  venue: bUm, Berlin
+  show: true
