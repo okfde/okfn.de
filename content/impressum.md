@@ -47,7 +47,7 @@ Die Open Knowledge Foundation möchte Ihnen mit dieser Datenschutzerklärung erl
 
 ### I. Verantwortliche und Kontaktmöglichkeiten der Datenschutzbeauftragten
 
-Open Knowledge Foundation Deutschland e.V.<br>
+Open Knowledge Foundation Deutschland e. V.<br>
 Datenschutzbeauftragte <br>
 Singerstr. 109 | D-10179 Berlin</br>
 **Email:** datenschutz@okfn.de [<a href="/okf/datenschutz_okfn_de_pub.asc">OpenPGP</a>]<br>
