@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,17 +268,17 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/demokratie/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/erfahrungsbericht/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2025/02/nrw-ver%C3%B6ffentlicht-erfahrungsbericht-zu-open-data-mehr-fragen-als-antworten/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2025/02/digitalpolitik-f%C3%BCr-eine-starke-demokratie-okf-unterst%C3%BCtzt-aktionswoche-f%C3%BCr-demokratie-soziale-gerechtigkeit-und-menschenrechte/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -289,6 +289,31 @@
                 hreflang="de"
                 href="https://okfn.de/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/erfahrungsbericht/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2025/02/nrw-ver%C3%B6ffentlicht-erfahrungsbericht-zu-open-data-mehr-fragen-als-antworten/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/open-data-nrw/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
@@ -309,29 +334,10 @@
     <loc>https://okfn.de/publikationen/okf_stellungnahme_od-berichtnrw/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/bundestagswahl2025/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-3/3-demokratie-sch%C3%BCtzen-zivilgesellschaft-st%C3%A4rken/</loc>
-    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2025-01-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/okfde/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/01/linked-open-data-vernetzte-verwaltung-f%C3%BCr-vernetzte-daten/</loc>
@@ -689,9 +695,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2024/02/nach-eu-einigung-beim-reparaturgesetz-sollte-de-sich-an-frankreich-orientieren/</loc>
     <lastmod>2024-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/demokratie/</loc>
-    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/engangement/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
