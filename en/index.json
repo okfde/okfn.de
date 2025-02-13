@@ -300,6 +300,18 @@
  
    ,
      {
+       "url": "https://okfn.de/en/publikationen/opendataranking24/",
+       "title": "Open Data Ranking Germany 2024",
+       "section": "publikationen",
+       "date": "2024-05-29 00:00:00 +0000 UTC",
+       
+       
+       "content": ["We","publish","the","first","Open","Data","Ranking","for","Germany!","Based","on","the","Transparency","Ranking,","we","take","a","look","at","the","open","data","landscape","in","Germany","and","go","beyond","simply","counting","data","sets.","The","analysis","of","the","legal","framework,","data","quality","and","personnel","resources","shows","that","there","are","considerable","differences","within","Germany","with","regard","to","open","data.","While","some","federal","states","are","already","taking","care","of","linked","data,","others","still","lack","any","basis","for","data","provision."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/en/publikationen/f5forderungenzureuwahl/",
        "title": "Positions of the F5-Alliance on the 2024 European Elections",
        "section": "publikationen",
