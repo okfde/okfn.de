@@ -5,7 +5,6 @@ layout: publikation
 image:
   src: /files/images/Studie2.jpg
 kategorien: Studien
-categories: Studies
 people:
 - name: Dénes Jäger
 file: /files/publikationen/2024_05_29_opendataranking24.pdf
