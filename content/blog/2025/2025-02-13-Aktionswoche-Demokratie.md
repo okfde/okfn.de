@@ -16,7 +16,7 @@ publishedDate: 2025-02-13
 
 ## Aktionswoche für Demokratie, soziale Gerechtigkeit und Menschenrechte
 
-Auch in diesem Jahr unterstützt die Open Knowledge Foundation Deutschland e. V. die Aktionswoche für Demokratie, soziale Gerechtigkeit und Menschenrechte. Am 16.02. startet die Aktionswoche, die von über 60 Organisationen getragen wird, welche sich gemeinsam für eine offene, demokratische, plurale, inklusive und solidarische Gesellschaft einsetzen. 
+Auch in diesem Jahr unterstützt die Open Knowledge Foundation Deutschland e. V. die Aktionswoche für Demokratie, soziale Gerechtigkeit und Menschenrechte. Am 16. Februar startet die Aktionswoche, die von über 60 Organisationen getragen wird, welche sich gemeinsam für eine offene, demokratische, plurale, inklusive und solidarische Gesellschaft einsetzen. 
 
 Dabei spielt die **Digitalpolitik eine zentrale Rolle**:
 
