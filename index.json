@@ -646,6 +646,18 @@
  
    ,
      {
+       "url": "https://okfn.de/publikationen/opendataranking24/",
+       "title": "Open Data Ranking Deutschland 2024",
+       "section": "publikationen",
+       "date": "2024-05-29 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Wir","veröffentlichen","das","erste","Open","Data","Ranking!","In","Anlehnung","an","das","Transparenzranking","blicken","wir","auf","die","Open-Data-Landschaft","in","Deutschland","und","gehen","über","das","reine","Datensätzezählen","hinaus.","Die","Analyse","der","rechtlichen","Rahmenbedingungen,","Datenqualität","und","personellen","Ausstattung","zeigen,","dass","es","innerhalb","Deutschlands","erhebliche","Unterschiede","in","Bezug","auf","Open","Data","gibt.","Während","sich","einzelne","Bundesländer","auch","schon","um","Linked","Data","kümmern,","fehlen","bei","anderen","noch","jegliche","Grundlagen","für","die","Datenbereitstellung."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/blog/2024/05/positionen-des-b%C3%BCndnis-f5-zur-europawahl-2024/",
        "title": "Positionen des Bündnis F5 zur Europawahl 2024",
        "section": "blog",
