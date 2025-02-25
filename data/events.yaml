@@ -208,3 +208,9 @@
   startdate: "2025-04-11"
   venue: TU Dresden – Fakultät Informatik
   show: true
+- name: Jugend hackt Konferenz: Beyond Education
+  url: https://jugendhackt.org/events/konferenz-beyond-education/
+  enddate:
+  startdate: "2025-05-11"
+  venue:  Einstein Center Digital Future, Berlin
+  show: true
