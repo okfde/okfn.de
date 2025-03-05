@@ -14,7 +14,7 @@ title: "Offener Brief: Plattformen regulieren, Demokratie schützen"
 publishedDate: 2025-03-5
 ---
 
-Spätestens mit dem Walndel der US-Politik hin zu einem antidemokratischen agitieren und den diese Politik unterstützenden Plattformmachthabern wird klar: Regulierung bedeutet demokratische Selbstverteidigung. Deswegen muss die zukünftige Bundesregierung sie konsequent durchsetzen. 
+Spätestens mit dem Wandel der US-Politik hin zu einem antidemokratischen Agitieren und den diese Politik unterstützenden Plattformmachthabern wird klar: Regulierung bedeutet demokratische Selbstverteidigung. Deswegen muss die zukünftige Bundesregierung sie konsequent durchsetzen. 
 Gemeinsam mit einem breiten gesellschaftlichen Bündnis von mehr als 75 Organisationen und Netzwerken mit über 1.000 Mitgliedsorganisationen [fordern wir](https://www.germanwatch.org/de/93066) die Verhandlungsführenden von CDU/CSU und SPD in einem heute veröffentlichten Brief auf, die Kontrolle von Online-Plattformen und eine gemeinwohlorientierte Digitalisierung auf die Agenda der Sondierungsgespräche zu setzen.
 
 Wir fordern deshalb, sich in der kommenden Legislaturperiode entschlossen dafür einzusetzen, dass Online-Plattformen das gesellschaftliche Gemeinwohl und den demokratischen Diskurs fördern, um damit Hassrede, Desinformationen und gesellschaftliche Spaltung in die Schranken zu weisen. Zentral sind dabei drei Handlungsfelder:
