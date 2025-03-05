@@ -1,13 +1,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2025-02-10T00:00:00+0000</updated>
+  <updated>2025-03-05T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bausteine für eine resiliente digitale Infrastruktur</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/digitaleinfrastrukturf5/"/>
+    <id>https://okfn.de/publikationen/digitaleinfrastrukturf5/</id>
+    <published>2025-03-05T00:00:00+0000</published>
+    <updated>2025-03-05T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Genau wie ein gut ausgebautes Schienennetzwerk, zugängliche Schulen oder ein verlässliches Energiesystem brauchen digitale Systeme ein stabiles Fundament – von der IT kommunaler Verwaltungen bis hin zu den großen Plattformen.&lt;/p&gt;
+&lt;p&gt;Dieses Dokument beinhaltet 20 elementare Bausteine einer resilienten digitalen Infrastruktur, die für die Erreichung folgender Ziele notwendig sind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ein zukunftsorientierter digitaler Staat&lt;/li&gt;
+&lt;li&gt;Mehr Gemeinwohl auf Plattformen&lt;/li&gt;
+&lt;li&gt;Verlässliche Digital-Stacks&lt;/li&gt;
+&lt;/ul&gt;</summary>
+  </entry>
   
   <entry>
     <title>Stellungnahme zum Open-Data-Erfahrungsbericht des Landes Nordrhein-Westfalen</title>
@@ -142,15 +157,6 @@
     <published>2023-07-06T00:00:00+0000</published>
     <updated>2023-07-06T00:00:00+0000</updated>
     <summary>&lt;p&gt;Deutschland droht die Chance zu verspielen, Internetplattformen – wie soziale Netzwerke oder Online-Marktplätze – unter eine effektive, unabhängige Aufsicht zu stellen. Der Digital Services Act (DSA) soll Nutzer*innenrechte online schützen und legt Sorgfaltspflichten für Plattformen wie TikTok, Facebook und Twitter fest. Um diese Ziele wirkungsvoll zu erreichen, bedarf es einer zentralen und gut organisierten Plattformaufsicht in den EU-Mitgliedstaaten, die Beschwerden von Betroffenen zügig und kompetent bearbeitet und ihre Rechte durchsetzt. Mit dieser Aufgabe sind die sogenannten Koordinatoren für Digitale Dienste (Digital Services Coordinators, DSCs) in Zusammenarbeit mit der EU-Kommission betraut. Jedoch streiten sich die deutschen Behörden seit Monaten um Zuständigkeiten und verzögern damit die dringend notwendigen Vorbereitungen für eine effektive Plattformaufsicht.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Jahresbericht Open Knowledge Foundation Deutschland e.V. 2022</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2022-jahresbericht/"/>
-    <id>https://okfn.de/publikationen/2022-jahresbericht/</id>
-    <published>2023-06-28T00:00:00+0000</published>
-    <updated>2023-06-28T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland im Jahr 2022. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen&lt;/p&gt;</summary>
   </entry>
   
 </feed>

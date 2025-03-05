@@ -5,10 +5,25 @@
     <description>Publikationen on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bausteine für eine resiliente digitale Infrastruktur</title>
+      <link>https://okfn.de/publikationen/digitaleinfrastrukturf5/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/digitaleinfrastrukturf5/</guid>
+      <description>&lt;p&gt;Genau wie ein gut ausgebautes Schienennetzwerk, zugängliche Schulen oder ein verlässliches Energiesystem brauchen digitale Systeme ein stabiles Fundament – von der IT kommunaler Verwaltungen bis hin zu den großen Plattformen.&lt;/p&gt;
+&lt;p&gt;Dieses Dokument beinhaltet 20 elementare Bausteine einer resilienten digitalen Infrastruktur, die für die Erreichung folgender Ziele notwendig sind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ein zukunftsorientierter digitaler Staat&lt;/li&gt;
+&lt;li&gt;Mehr Gemeinwohl auf Plattformen&lt;/li&gt;
+&lt;li&gt;Verlässliche Digital-Stacks&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Stellungnahme zum Open-Data-Erfahrungsbericht des Landes Nordrhein-Westfalen</title>
