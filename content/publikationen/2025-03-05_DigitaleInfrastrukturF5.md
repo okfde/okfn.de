@@ -7,7 +7,7 @@ image:
 kategorien: Studien
 people:
 - name: Bündnis F5
-file: /files/publikationen/2024_05_29_opendataranking24.pdf
+file: /files/publikationen/2025-03_F5_DigitaleInfrastruktur_onepager.pdf
 format: pdf
 pages: 1
 size: 77KB
