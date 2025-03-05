@@ -4,7 +4,7 @@ subtitle: null
 layout: publikation
 image:
   src: /files/images/Studie2.jpg
-kategorien: Studien
+kategorien: Stellungnahmen
 people:
 - name: Bündnis F5
 file: /files/publikationen/2025-03_F5_DigitaleInfrastruktur_onepager.pdf
