@@ -242,8 +242,11 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/blog/2025/03/acht-jahre-prototype-fund-eine-herzliche-einladung/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,11 +258,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/digitaleinfrastrukturf5/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -271,17 +271,8 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/demokratie/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2025/03/offener-brief-plattformen-regulieren-demokratie-sch%C3%BCtzen/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -294,6 +285,34 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/prototypefund/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/digitaleinfrastrukturf5/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/demokratie/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2025/03/offener-brief-plattformen-regulieren-demokratie-sch%C3%BCtzen/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
@@ -307,19 +326,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/publikationen/"
-                />
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/blog/2025/02/digitalpolitik-f%C3%BCr-eine-starke-demokratie-okf-unterst%C3%BCtzt-aktionswoche-f%C3%BCr-demokratie-soziale-gerechtigkeit-und-menschenrechte/</loc>
@@ -414,9 +420,6 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/2024/11/bewerbungsstart-f%C3%BCr-jahrgang-01-des-prototype-fund/</loc>
-    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/prototypefund/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/civic-tech/</loc>
