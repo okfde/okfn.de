@@ -616,7 +616,7 @@
   bio: "Arne (er/ihm) ist Projektleiter von FragDenStaat und beschäftigt sich mit Informationsfreiheit. Er ist Politikwissenschaftler, arbeitet als freier Journalist und ist Gründer des Freiheitsfonds."
   bio_en: "Arne (he/him) leads FragDenStaat and is an expert in the domain of Freedom of Information (FOI). With a background in political science, he also works as a freelance journalist and engages with other NGOs in topics related to transparency and lobbyism, e.g. for LobbyControl and the Whistleblower Network."
   mail: arne.semsrott@okfn.de
-  twitter: arnesemsrott
+  mastodon: "https://chaos.social/@arnesemsrott"
   website:
   github: arnese
 
@@ -775,6 +775,7 @@
   bio_en: "Since 2009 Stefan Wehrmeyer promotes Open Data and he started the Freedom of Information (FOI) portal FragDenStaat.de in 2011."
   mail: stefan.wehrmeyer@okfn.de
   twitter: stefanwehrmeyer
+  mastodon: "https://chaos.social/@stwe"
   website: https://stefanwehrmeyer.com
   github: stefanw
 
