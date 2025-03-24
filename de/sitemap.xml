@@ -4042,8 +4042,6 @@
     <loc>https://okfn.de/tags/semantic-web/</loc>
     <lastmod>2010-02-07T09:16:40+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/1/01/</loc>
-  </url><url>
     <loc>https://okfn.de/anniversary/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4128,6 +4126,8 @@
                 href="https://okfn.de/projekte/buendnisf5/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/civictech/</loc>
+  </url><url>
     <loc>https://okfn.de/projekte/codingdavinci/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4189,6 +4189,8 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/demokratielabore/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/digitalrights/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/digiwhist/</loc>
     <xhtml:link
@@ -4539,6 +4541,8 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/refugeephrasebook/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/1/01/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/</loc>
   </url><url>
     <loc>https://okfn.de/blog/1/01/r%C3%BCckblick-energyhack-2017-du-hast-die-wahl/</loc>
   </url><url>

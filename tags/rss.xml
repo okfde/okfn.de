@@ -2781,10 +2781,24 @@
       <description></description>
     </item>
     <item>
+      <title>CivicTech</title>
+      <link>https://okfn.de/tags/civictech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/civictech/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Demokratieförderung</title>
       <link>https://okfn.de/tags/demokratief%C3%B6rderung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/demokratief%C3%B6rderung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DigitalRights</title>
+      <link>https://okfn.de/tags/digitalrights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/digitalrights/</guid>
       <description></description>
     </item>
   </channel>
