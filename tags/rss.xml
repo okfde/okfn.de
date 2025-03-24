@@ -6,8 +6,36 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CivicTech</title>
+      <link>https://okfn.de/tags/civictech/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/civictech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community</title>
+      <link>https://okfn.de/tags/community/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DigitalRights</title>
+      <link>https://okfn.de/tags/digitalrights/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/digitalrights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Taiwan</title>
+      <link>https://okfn.de/tags/taiwan/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/taiwan/</guid>
+      <description></description>
+    </item>
     <item>
       <title>DigitaleBrandmauer</title>
       <link>https://okfn.de/tags/digitalebrandmauer/</link>
@@ -303,13 +331,6 @@
       <description></description>
     </item>
     <item>
-      <title>Taiwan</title>
-      <link>https://okfn.de/tags/taiwan/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/taiwan/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>OpenDataRanking</title>
       <link>https://okfn.de/tags/opendataranking/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
@@ -433,13 +454,6 @@
       <link>https://okfn.de/tags/plattformaufsicht/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/plattformaufsicht/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Community</title>
-      <link>https://okfn.de/tags/community/</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/community/</guid>
       <description></description>
     </item>
     <item>
@@ -2781,24 +2795,10 @@
       <description></description>
     </item>
     <item>
-      <title>CivicTech</title>
-      <link>https://okfn.de/tags/civictech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/civictech/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Demokratieförderung</title>
       <link>https://okfn.de/tags/demokratief%C3%B6rderung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/demokratief%C3%B6rderung/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DigitalRights</title>
-      <link>https://okfn.de/tags/digitalrights/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/digitalrights/</guid>
       <description></description>
     </item>
   </channel>

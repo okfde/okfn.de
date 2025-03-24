@@ -1,13 +1,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-03-06T00:00:00+0000</updated>
+  <updated>2025-03-24T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>RightsCon 2025 in Taipei – Insights on digital rights and activism</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/03/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/"/>
+    <id>https://okfn.de/blog/2025/03/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/</id>
+    <published>2025-03-24T00:00:00+0000</published>
+    <updated>2025-03-24T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;rightscon-2025-in-taipei--insights-on-digital-rights-and-activism&#34;&gt;RightsCon 2025 in Taipei – Insights on digital rights and activism&lt;/h2&gt;
+&lt;p&gt;Last month, &lt;a href=&#34;https://www.rightscon.org/&#34; target=&#34;_blank&#34;&gt;RightsCon&lt;/a&gt;, the international summit on human rights in the digital age, took place in Taipei, Taiwan, from 24th to 27th February. After its previous iteration in Costa Rica two years ago, RightsCon once again brought together a mix of large and small NGOs, tech companies, policy-makers, and activists.&lt;/p&gt;
+&lt;h2 id=&#34;event-overview&#34;&gt;Event overview&lt;/h2&gt;
+&lt;p&gt;The summit was attended by our team member Sonja Fischbauer, who leads organisational development at OKF Germany. After attending the &lt;a href=&#34;https://okfn.de/en/blog/2024/06/from-taipei-to-berlin-how-civic-tech-in-taiwan-inspires-digital-democracy/&#34; target=&#34;_blank&#34;&gt;g0v summit 2024 in Taipei&lt;/a&gt;, she returned to Taiwan for a longer stay, connecting with like-minded local organizations such as the &lt;a href=&#34;https://ocf.tw/en/&#34; target=&#34;_blank&#34;&gt;Open Culture Foundation&lt;/a&gt;. This Taiwanese nonprofit acts as a hub to connect the local open source community with human rights activists, civil society and government stakeholders. The Open Culture Foundation was this year’s local partner for the organizers behind RightsCon, the US-American NGO Access Now. &lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Acht Jahre Prototype Fund – Eine herzliche Einladung</title>
@@ -158,15 +170,6 @@ Gemeinsam mit einem breiten gesellschaftlichen Bündnis von mehr als 75 Organisa
     <published>2024-10-20T00:00:00+0000</published>
     <updated>2024-10-20T00:00:00+0000</updated>
     <summary>&lt;p&gt;Wie stark ist das Grundwasser mit Nitrat belastet? Welche Insektenarten sind bedroht? Und was sind zielführende Maßnahmen, dem entgegenzuwirken? Solche und andere Fragen drängen bei der effektiven Gestaltung des Umweltschutzes. Offene Technologien und Daten können dabei helfen, Antworten zu entwickeln und breit nutzbar zu machen. Mit der 2. Runde des Prototype Fund Hardware „KI-Ideenwerkstatt X Prototype Fund Hardware: Offene Technologien für den Umweltschutz“ suchen die Open Knowledge Foundation Deutschland in Kooperation mit der KI-Ideenwerkstatt für den Umweltschutz Menschen, die die technischen Möglichkeiten für Umweltschützende sinnvoll erweitern und es anderen erleichtern, am Schutz der Umwelt mitzuwirken. Unterstützt werden zehn Projektteams mit 24.500€ sowie mit Expertise. Die Bewerbung ist bis zum 31. Oktober möglich.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Licht ins Dunkel deutscher Reparaturpolitik</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/"/>
-    <id>https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/</id>
-    <published>2024-10-19T00:00:00+0000</published>
-    <updated>2024-10-19T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Als die Bundesregierung 2021 angetreten ist, hatte sie sich vorgenommen das sogenannte „Recht auf Reparatur“ voranzubringen und die Reparierbarkeit eines Produktes „zum erkennbaren Merkmal der Produkteigenschaft“ zu machen (siehe &lt;a href=&#34;https://www.bundesregierung.de/breg-de/aktuelles/koalitionsvertrag-2021-1990800&#34; target=&#34;_blank&#34;&gt;Koalitionsvertrag&lt;/a&gt;). In den folgenden Jahren gab es immer wieder Berichterstattung zu den Entwicklungen auf EU-Ebene. Deutschland wollte mit einem Aktionsprogramm „Reparieren statt wegwerfen“ eine Vorreiterrolle einnehmen. Doch bisher ist nichts passiert. Dafür haben wir ein EU-weites Recht auf Reparatur bekommen, das &lt;a href=&#34;https://okfn.de/blog/2024/04/right-to-repair-entschieden-final/&#34; target=&#34;_blank&#34;&gt;seinen Namen nicht verdient&lt;/a&gt;. Mich hat ein Jahr die Frage beschäftigt: Für was hat sich die Bundesregierung nun wirklich eingesetzt? Zahlreiche Anfragen im Rahmen des Informationsfreiheitsgesetzes und eine Klage gegen das Bundes Justizministerium später gibt es einen Haufen Papier und ein paar Antworten. Anlässlich des &lt;a href=&#34;https://openrepair.org/international-repair-day/&#34; target=&#34;_blank&#34;&gt;internationalen Tages der Reparatur&lt;/a&gt; fasse ich sie hier zusammen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

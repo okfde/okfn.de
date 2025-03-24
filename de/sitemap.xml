@@ -242,11 +242,8 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2025/03/acht-jahre-prototype-fund-eine-herzliche-einladung/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -259,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -271,11 +268,27 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/digitalebrandmauer/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/civictech/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/community/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/community/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/digitalrights/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,14 +300,24 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/okfde/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2025/03/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/prototypefund/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/sonja-fischbauer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/sonja-fischbauer/"
+                />
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -305,6 +328,31 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/taiwan/</loc>
+    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/taiwan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/taiwan/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2025/03/acht-jahre-prototype-fund-eine-herzliche-einladung/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalebrandmauer/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/okfde/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/prototypefund/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/03/zivilgesellschaft-fordert-digitale-brandmauer-zum-schutz-der-demokratie/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
@@ -598,32 +646,6 @@
     <loc>https://okfn.de/authors/sophia-schulze-schleithoff/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/sonja-fischbauer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/sonja-fischbauer/"
-                />
-  </url><url>
-    <loc>https://okfn.de/tags/taiwan/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/taiwan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/taiwan/"
-                />
-  </url><url>
     <loc>https://okfn.de/blog/2024/06/von-taipei-nach-berlin-wie-civic-tech-in-taiwan-zur-digitalen-demokratie-inspiriert/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -839,19 +861,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/publikationen/2022-jahresbericht/"
-                />
-  </url><url>
-    <loc>https://okfn.de/tags/community/</loc>
-    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/community/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/community/"
                 />
   </url><url>
     <loc>https://okfn.de/blog/2023/06/der-open-data-knowledge-hub-ist-gelauncht/</loc>
@@ -4126,8 +4135,6 @@
                 href="https://okfn.de/projekte/buendnisf5/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/civictech/</loc>
-  </url><url>
     <loc>https://okfn.de/projekte/codingdavinci/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4189,8 +4196,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/demokratielabore/"
                 />
-  </url><url>
-    <loc>https://okfn.de/tags/digitalrights/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/digiwhist/</loc>
     <xhtml:link
@@ -4541,8 +4546,6 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/refugeephrasebook/"
                 />
-  </url><url>
-    <loc>https://okfn.de/blog/1/01/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/</loc>
   </url><url>
     <loc>https://okfn.de/blog/1/01/r%C3%BCckblick-energyhack-2017-du-hast-die-wahl/</loc>
   </url><url>
