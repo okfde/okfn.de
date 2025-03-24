@@ -1,6 +1,6 @@
 ---
 authors:
-- OKFDE
+- Sonja Fischbauer
 image: 
   src: /files/blog/2025/2025-taipei-streets.jpeg
   title:
