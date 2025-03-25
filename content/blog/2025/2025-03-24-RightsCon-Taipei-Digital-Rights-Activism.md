@@ -4,8 +4,6 @@ authors:
 image: 
   src: /files/blog/2025/2025-taipei-streets.jpeg
   title:
-  license: CC-BY SA 4.0
-  license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 tags:
 - Taiwan
 - CivicTech
