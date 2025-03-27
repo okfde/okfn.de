@@ -21,4 +21,4 @@ Defekte Produkte zu reparieren statt wegzuwerfen – das wünschen sich die meis
 
 Die günstigsten Reparaturen werden von der Zivilgesellschaft selbst durchgeführt, z.B. in Repair Cafés und Offenen Werkstätten. Dort helfen Menschen, die reparieren können, anderen dabei, es selbst zu tun. Doch genau diese Gruppe wird in aktuellen Gesetzesvorhaben auf EU-Ebene noch zu wenig mitgedacht. Ihnen wird bisher kein Zugang zu reparaturrelevanten Informationen und Ersatzteilen zugesichert. Die anstehende Bundesregierung sollte dem im aktuellen Entwurf der [AG 11 formulierten Grundsatz „Reparieren statt Wegwerfen“ (Zeile 195)](https://fragdenstaat.de/dokumente/258020-koalitionsverhandlungen-cdu-csu-spd-ag-11-laendliche-raeume-landwirtschaft-ernaehrung-und-umwelt/) konkrete Maßnahmen folgen lassen, die die erwähnten Zugänge zusichern und vor allem für Reparaturinitiativen einen klaren Status definieren, wie sie sich als professionelle Reparateure authentifizieren können. 
 
-{{< pdf url="https://www.flickr.com/photos/202434395@N03/54399110651/in/album-72177720324532257" >}}
+[Zum Statement](https://www.flickr.com/photos/202434395@N03/54399110651/in/album-72177720324532257)
