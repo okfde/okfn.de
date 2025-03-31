@@ -214,3 +214,9 @@
   startdate: "2025-05-11"
   venue: Einstein Center Digital Future, Berlin
   show: true
+- name: Jugend hackt – Frankfurt am Main
+  url: https://jugendhackt.org/events/frankfurt/
+  enddate: "2025-06-08"
+  startdate: "2025-06-06"
+  venue: Jugendhaus Riedberg, Frankfurt am Main
+  show: true
