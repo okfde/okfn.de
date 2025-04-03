@@ -35,7 +35,7 @@ Selbstorganisiertes Lernen bedeutet mehr Verantwortung und Freiheit. Wie können
 Gesellschaftliche Barrieren bestehen nicht nur in der Schule, sondern in vielen Lebensbereichen. Wie können Ableismus, Rassismus und andere Formen der Diskriminierung abgebaut werden? Bildung sollte für alle offen und zugänglich sein.
 
 📌 Wo: Einstein Center Digital Future, Berlin<br>
-📆 Wann: 10.05.2025<br>
+📆 Wann: 10.05.2025, 11:00-19:00 Uhr<br>
 ✨ Für wen: Die Konferenz ist offen für junge Menschen zwischen 14 und 24 Jahren. Insgesamt gibt es Platz für 80 Personen.
 
 Mehr Infos und [zur Anmeldung](https://anmeldung.jugendhackt.org/konferenz/beyondedu25/). Bei Fragen könnt ihr euch gerne an Philip Steffan wenden: berlin@jugendhackt.org oder [per Messenger](https://jugendhackt.org/kontakt/).
