@@ -242,6 +242,70 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2025/04/beyond-education-die-bildungskonferenz-von-jugend-hackt/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/beyondeducation/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/jugend-hackt/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/jugendhackt/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
     <loc>https://okfn.de/jobs/ptf-begleitforschung-ezvertretretung/</loc>
     <lastmod>2025-04-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -256,45 +320,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/jobs/"
-                />
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
-  </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/civictech/</loc>
@@ -330,19 +355,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/sonja-fischbauer/"
-                />
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/taiwan/</loc>
@@ -540,9 +552,6 @@
     <loc>https://okfn.de/blog/2024/09/hackday-am-3.-oktober/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/jugendhackt/</loc>
-    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/demo-day/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -551,9 +560,6 @@
   </url><url>
     <loc>https://okfn.de/tags/prototypedemos/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/jugend-hackt/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/08/sommer-bei-jugend-hackt-ein-buntes-programm-f%C3%BCr-junge-hackerinnen/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
