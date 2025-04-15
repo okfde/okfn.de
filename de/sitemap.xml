@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,14 +255,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2025/04/beyond-education-die-bildungskonferenz-von-jugend-hackt/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/beyondeducation/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -274,14 +268,8 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/jugend-hackt/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/jugendhackt/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -293,8 +281,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/okf-de/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2025/04/piazza-konferenz-2025-call-for-workshops/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -305,6 +299,24 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/verwaltung/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
+    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2025/04/beyond-education-die-bildungskonferenz-von-jugend-hackt/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/beyondeducation/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/jugend-hackt/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/jugendhackt/</loc>
+    <lastmod>2025-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/ptf-begleitforschung-ezvertretretung/</loc>
     <lastmod>2025-04-02T00:00:00+00:00</lastmod>
@@ -467,9 +479,6 @@
     <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -568,9 +577,6 @@
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/brandenburg/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/okf-de/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/retreat/</loc>
@@ -713,9 +719,6 @@
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/05/piazza-konferenz-2024-call-for-workshops/</loc>
-    <lastmod>2024-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/verwaltung/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/open-data/</loc>
