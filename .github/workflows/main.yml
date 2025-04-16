@@ -4,11 +4,11 @@ name: Release
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
 
   schedule:
     # Runs "at minute 55 past 2" (see https://crontab.guru)
-    - cron: '55 2 * * *'
+    - cron: "55 2 * * *"
 
   workflow_dispatch:
 
@@ -18,12 +18,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: NPM or Yarn install with caching
-        uses: bahmutov/npm-install@v1.6.0
+        uses: actions/setup-node@v4
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v3.0.0
         with:
           extended: true
-          hugo-version: '0.139.4'
+          hugo-version: "0.139.4"
       - run: hugo
       - run: pwd
       - name: Create site search index
