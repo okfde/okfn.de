@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>2025-04-02T00:00:00+0000</updated>
+  <updated>2025-04-16T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Jugend hackt sucht eine Person für Öffentlichkeitsarbeit, Kommunikation und Networking (50-70%)</title>
+    <link rel="alternate" href="https://okfn.de/jobs/jugendhackt-oeffentlichkeitsarbeit/"/>
+    <id>https://okfn.de/jobs/jugendhackt-oeffentlichkeitsarbeit/</id>
+    <published>2025-04-16T00:00:00+0000</published>
+    <updated>2025-04-16T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Zur Verstärkung des Jugend hackt-Teams bei der Open Knowledge Foundation Deutschland suchen wir:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unterstützung bei der Öffentlichkeitsarbeit in Teilzeit (50–70%). Die Stelle kann zum nächstmöglichen Zeitpunkt besetzt werden. Die Stelle ist zunächst befristet auf 12 Monate.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Wichtiger als formale Qualifikationen sind uns kreatives Vorstellungsvermögen, echte Begeisterungsfähigkeit, Interesse schnell Neues zu erlernen und Leidenschaft für gesellschaftlichen Wandel mit Tiefgang. Wenn du also das Gefühl hast, die Punkte unten nicht 100%ig zu erfüllen, aber ernsthaftes Interesse und große Begeisterung für unsere Community und unsere Themen hast, dann bewirb dich in jedem Fall trotzdem!&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Der Prototype Fund sucht eine Person für die Begleitforschung als Elternzeitvertretung</title>
