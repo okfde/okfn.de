@@ -59,6 +59,6 @@ Sämtliche Aufgaben werden in der Regel in lebendigem Austausch bzw. in direkter
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, PoC und Menschen mit Migrationsgeschichte sowie Menschen anderer Gruppen, die in der IT-Welt unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
 
-Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang bis zum 5. Mai per E-Mail an [jobs@jugendhackt.org^](mailto:jobs@jugendhackt.org).
+Bitte schicke uns Deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang bis zum 5. Mai per E-Mail an [jobs@jugendhackt.org](mailto:jobs@jugendhackt.org).
 
 Die Gespräche finden vom 19. bis 23. Mai in Berlin statt. Die innerdeutschen Reisekosten für die Bewerbungsgespräche übernehmen wir, sofern sie nicht von der Arbeitsagentur getragen werden.
