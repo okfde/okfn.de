@@ -7,7 +7,6 @@ image:
   title: Jugend hackt
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
-tags: null
 title: Jugend hackt sucht eine Person für Öffentlichkeitsarbeit, Kommunikation und Networking (50-70%)
 draft: 'false'
 ---
