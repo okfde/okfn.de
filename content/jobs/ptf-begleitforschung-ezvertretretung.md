@@ -8,7 +8,7 @@ image:
   license: null
   license_url: null
 title: Der Prototype Fund sucht eine Person für die Begleitforschung als Elternzeitvertretung
-draft: 'false'
+draft: 'true'
 ---
 
 Zur Unterstützung unseres Teams während einer Elternzeit suchen wir eine Person für die Begleitforschung unseres Förderprogramms. Dafür erhebst und veröffentlichst du regelmäßig Kennzahlen zur Förderung, recherchierst zu aktuellen Themen der Open-Source-Softwareentwicklung in Deutschland und veröffentlichst deine Erkenntnisse in Blogposts, Vorträgen oder Forschungsberichten.
