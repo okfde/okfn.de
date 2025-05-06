@@ -8,7 +8,7 @@ image:
   license: CC-BY
   license_url: https://creativecommons.org/licenses/by/4.0/
 title: Jugend hackt sucht eine Person für Öffentlichkeitsarbeit, Kommunikation und Networking (50-70%)
-draft: 'false'
+draft: 'true'
 ---
 
 Zur Verstärkung des Jugend hackt-Teams bei der Open Knowledge Foundation Deutschland suchen wir:
