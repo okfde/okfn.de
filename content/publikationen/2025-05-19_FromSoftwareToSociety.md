@@ -4,7 +4,7 @@ subtitle: null
 layout: publikation
 image:
   src: /files/blog/2025/2025-05-From Software to Society1.png
-kategorien: Stellungnahmen
+kategorien: Studien
 people:
 - name: Henriette Litta, Peter Bihr
 file: /files/publikationen/2025-05-From Software to Society.pdf
