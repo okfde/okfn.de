@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2025-03-05T00:00:00+0000</updated>
+  <updated>2025-05-19T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>From Software to Society — Openness in a changing world</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/fromsoftwaretosociety/"/>
+    <id>https://okfn.de/publikationen/fromsoftwaretosociety/</id>
+    <published>2025-05-19T00:00:00+0000</published>
+    <updated>2025-05-19T00:00:00+0000</updated>
+    <summary>&lt;p&gt;The new study &amp;ldquo;From Software to Society: Openness in a Changing World&amp;rdquo; by Dr. Henriette Litta and Peter Bihr takes stock and looks to the future: What does openness mean in the digital age? Is the concept still up to date? The study traces the development of openness and analyses current challenges. It is based on interviews with experts and extensive literature research. The key insights at a glance are:&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Bausteine für eine resiliente digitale Infrastruktur</title>
@@ -148,15 +157,6 @@
     <published>2023-09-12T00:00:00+0000</published>
     <updated>2023-09-12T00:00:00+0000</updated>
     <summary>&lt;p&gt;„Fortschritt durch Datennutzung“ – so lautet die Weiterentwicklung der Datenstrategie von 2021, die zur Mitte der Legislatur veröffentlicht wurde. Es ist deutlich erkennbar, dass die Bedeutung der Datenpolitik nun stärker als gesamtgesellschaftliches Thema begriffen wird. Dennoch verharrt das Dokument im üblichen Modus der zusammengeschusterten Strategiepapiere als Sammelsurium verschiedener bekannter Ansätze und Einzelmaßnahmen; ein Gesamtrahmen mit klaren Governance-Strukturen, Rollen und Prozessen sowie einer soliden Dateninfrastruktur für eine planvolle und effektive Umsetzung der bereits beschlossenen Maßnahmen fehlt weiterhin.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Pressemitteilung des Bündnis F5 zum Digitale-Dienste-Gesetz (DDG)</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_f5_pm_ddg/"/>
-    <id>https://okfn.de/publikationen/2023_f5_pm_ddg/</id>
-    <published>2023-07-06T00:00:00+0000</published>
-    <updated>2023-07-06T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Deutschland droht die Chance zu verspielen, Internetplattformen – wie soziale Netzwerke oder Online-Marktplätze – unter eine effektive, unabhängige Aufsicht zu stellen. Der Digital Services Act (DSA) soll Nutzer*innenrechte online schützen und legt Sorgfaltspflichten für Plattformen wie TikTok, Facebook und Twitter fest. Um diese Ziele wirkungsvoll zu erreichen, bedarf es einer zentralen und gut organisierten Plattformaufsicht in den EU-Mitgliedstaaten, die Beschwerden von Betroffenen zügig und kompetent bearbeitet und ihre Rechte durchsetzt. Mit dieser Aufgabe sind die sogenannten Koordinatoren für Digitale Dienste (Digital Services Coordinators, DSCs) in Zusammenarbeit mit der EU-Kommission betraut. Jedoch streiten sich die deutschen Behörden seit Monaten um Zuständigkeiten und verzögern damit die dringend notwendigen Vorbereitungen für eine effektive Plattformaufsicht.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
