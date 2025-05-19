@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-05-05T00:00:00+0000</updated>
+  <updated>2025-05-19T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>From Software to Society — Openness in a changing world</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/05/from-software-to-society-openness-in-a-changing-world/"/>
+    <id>https://okfn.de/blog/2025/05/from-software-to-society-openness-in-a-changing-world/</id>
+    <published>2025-05-19T00:00:00+0000</published>
+    <updated>2025-05-19T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;from-software-to-society--openness-in-a-changing-world&#34;&gt;From Software to Society — Openness in a changing world&lt;/h2&gt;
+&lt;p&gt;The idea of openness has had a decisive influence on the digital age. Whether open source software, open standards or freely licensed content - many foundations are based on principles of accessibility, participation and transparency. Openness, understood as free access, free use, modification and sharing of knowledge, has established itself as a driver of innovation and social progress. However, despite all its successes, the concept of openness seems to be going through a crisis. Between political appropriation, economic instrumentalisation and technological upheaval, the concept of openness is coming under increasing pressure and threatens to become diluted. The reasons for this include contradictory definitions, the enormous concentration of power in a few tech companies, geopolitical tensions and internal conflicts in openness communities.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Effizienzmaschine Staat - die neue Digitalpolitik soll jetzt endlich liefern. Aber bitte auch für alle!</title>
@@ -158,18 +168,6 @@ Gemeinsam mit einem breiten gesellschaftlichen Bündnis von mehr als 75 Organisa
     <summary>&lt;h2 id=&#34;unsere-forderungen-zur-bundestagswahl-2025&#34;&gt;Unsere Forderungen zur Bundestagswahl 2025&lt;/h2&gt;
 &lt;p&gt;Unsere &lt;a href=&#34;https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/&#34; target=&#34;_blank&#34;&gt;Forderungen zur Bundestagswahl 2025&lt;/a&gt; gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind. Dies ist der erste von drei Blogbeiträgen, in denen wir diese zentralen Aspekte näher beleuchten.&lt;/p&gt;
 &lt;p&gt;Eines unserer Kernanliegen die kommende Legislaturperiode ist es, dass Technologien mehr dazu beitragen, die Komplexität von Problemlagen zu erfassen und Lösungswege für gesellschaftliche Herausforderungen zu skizzieren. Technologien können dabei helfen, informierte Entscheidungen zu treffen, Zusammenhänge sichtbar zu machen sowie  Innovationen und Zusammenarbeit zu fördern – sei es bei der Bewältigung der Klimakrise, der Verbesserung sozialstaatlicher Leistungen oder der Förderung multimodaler Mobilität.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Digitalpolitik für eine demokratische und resiliente Zukunft - Forderungen der Open Knowledge Foundation Deutschland zur Bundestagswahl 2025</title>
-    <link rel="alternate" href="https://okfn.de/blog/2024/12/digitalpolitik-fu%CC%88r-eine-demokratische-und-resiliente-zukunft-forderungen-der-open-knowledge-foundation-deutschland-zur-bundestagswahl-2025/"/>
-    <id>https://okfn.de/blog/2024/12/digitalpolitik-fu%CC%88r-eine-demokratische-und-resiliente-zukunft-forderungen-der-open-knowledge-foundation-deutschland-zur-bundestagswahl-2025/</id>
-    <published>2024-12-16T00:00:00+0000</published>
-    <updated>2024-12-16T00:00:00+0000</updated>
-    <summary>&lt;h2 id=&#34;unsere-forderungen-zur-bundestagswahl-2025&#34;&gt;Unsere Forderungen zur Bundestagswahl 2025&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Die Bundestagswahl 2025 steht vor der Tür! Für eine demokratische und resiliente Zukunft ist die Gestaltung der Digitalpolitik, insbesondere der Umgang mit Daten und Informationen, von zentraler Bedeutung. Wir fordern politische Akteur:innen dazu auf, Digitalpolitik als Gesellschaftspolitik zu verstehen, die unsere demokratischen Werte schützt.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Unsere Forderungen gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. HANDLUNGSFÄHIGKEIT stärken &amp;amp; VERTRAUEN zurückgewinnen&lt;/strong&gt;&lt;/p&gt;</summary>
   </entry>
   
 </feed>

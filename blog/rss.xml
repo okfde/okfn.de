@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From Software to Society — Openness in a changing world</title>
+      <link>https://okfn.de/blog/2025/05/from-software-to-society-openness-in-a-changing-world/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2025/05/from-software-to-society-openness-in-a-changing-world/</guid>
+      <description>&lt;h2 id=&#34;from-software-to-society--openness-in-a-changing-world&#34;&gt;From Software to Society — Openness in a changing world&lt;/h2&gt;
+&lt;p&gt;The idea of openness has had a decisive influence on the digital age. Whether open source software, open standards or freely licensed content - many foundations are based on principles of accessibility, participation and transparency. Openness, understood as free access, free use, modification and sharing of knowledge, has established itself as a driver of innovation and social progress. However, despite all its successes, the concept of openness seems to be going through a crisis. Between political appropriation, economic instrumentalisation and technological upheaval, the concept of openness is coming under increasing pressure and threatens to become diluted. The reasons for this include contradictory definitions, the enormous concentration of power in a few tech companies, geopolitical tensions and internal conflicts in openness communities.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Effizienzmaschine Staat - die neue Digitalpolitik soll jetzt endlich liefern. Aber bitte auch für alle!</title>
