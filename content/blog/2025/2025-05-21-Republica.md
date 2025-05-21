@@ -97,6 +97,6 @@ Arne Semsrott<br>
 
 [Buchpremiere: Die Milliarden-Lobby - wer uns von Öl und Gas abhängig macht](https://re-publica.com/de/session/buchpremiere-die-milliarden-lobby-wer-uns-von-oel-und-gas-abhaengig-macht)
 
-*Die Journalistinnen Susanne Götze und Annika Joeres feiern die Premiere ihres vierten gemeinsamen Buches »Die Milliarden-Lobby – wer uns von Öl und Gas abhängig macht« (Piper Verlag) und berichten von ihren Recherchen. Es moderiert Arne Semsrott von »Frag den Staat«.*
+*Die Journalistinnen Susanne Götze und Annika Joeres feiern die Premiere ihres vierten gemeinsamen Buches "Die Milliarden-Lobby – wer uns von Öl und Gas abhängig macht" (Piper Verlag) und berichten von ihren Recherchen. Es moderiert Arne Semsrott von Frag den Staat.*
 
 Das gesamte Programm der re:publica findet ihr [hier](https://re-publica.com/de/schedule?day=2025-05-26). Wir freuen uns auf euren Besuch und gemeinsamen Austausch!
