@@ -3,7 +3,7 @@ title: From Software to Society — Openness in a changing world
 subtitle: null
 layout: publikation
 image:
-  src: /files/blog/2025/2025-05-From Software to Society1.png
+  src: /files/images/Studie2.jpg
 kategorien: Studien
 people:
 - name: Henriette Litta, Peter Bihr
