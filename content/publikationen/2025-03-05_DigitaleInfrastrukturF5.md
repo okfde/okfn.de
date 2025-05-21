@@ -3,7 +3,7 @@ title: Bausteine für eine resiliente digitale Infrastruktur
 subtitle: null
 layout: publikation
 image:
-  src: /files/images/Studie2.jpg
+  src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 people:
 - name: Bündnis F5
