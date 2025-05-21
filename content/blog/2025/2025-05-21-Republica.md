@@ -81,7 +81,7 @@ Henriette Litta, Peter Bihr, Markus Beckedahl, Lea Gimpel & Carla Hustedt<br>
 
 [Offenheit von Technologie und Gesellschaft – Midlife-Crisis eines populären Begriffs?](https://re-publica.com/de/session/offenheit-von-technologie-und-gesellschaft-midlife-crisis-eines-populaeren-begriffs)
 
-Openness als Konzept steht unter Druck von vielen Seiten: durch „offene“ KI, Openwashing, rechte Schwurbler und viele andere. Ist Openness als Konzept überholt oder relevanter denn je?
+*Openness als Konzept steht unter Druck von vielen Seiten: durch „offene“ KI, Openwashing, rechte Schwurbler und viele andere. Ist Openness als Konzept überholt oder relevanter denn je?*
 
 **15:30 – 16:00**<br>
 Atrium 2<br>
