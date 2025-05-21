@@ -8,7 +8,7 @@ benefits_bullets:
   - Projekte zu freiem Wissen und digitaler Mündigkeit
   - missionskritische Infrastruktur, die alle unsere Projekte trägt (z. B. Server, Verwaltung und laufende Mietkosten)
 org: Verein
-org_copy: "Mit unserem [aktuellen Freistellungsbescheid](https://okfn.de/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung, der Volks- und Berufsbildung, des demokratischen Staatswesens im Geltungsbereich der Abgabenordnung sowie des bürgerschaftlichen Engagements zugunsten gemeinnütziger Zwecke anerkannt. Für Spenden bis zu 300 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z. B. Kontoauszug) zusammen mit unserem Vereinfachten Zuwendungsnachweis."
+org_copy: "Mit unserem [aktuellen Freistellungsbescheid](https://okfn.de/files/documents/2025-05-Freistellungsbescheid-fuer-2023.pdf) sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft und Forschung, der Volks- und Berufsbildung, des demokratischen Staatswesens im Geltungsbereich der Abgabenordnung sowie des bürgerschaftlichen Engagements zugunsten gemeinnütziger Zwecke anerkannt. Für Spenden bis zu 300 Euro jährlich genügt als Spendennachweis dein Zahlungsnachweis (z. B. Kontoauszug) zusammen mit unserem Vereinfachten Zuwendungsnachweis."
 meta: OKF DE unterstützen. Spenden via Überweisung, Betterplace, Paypal
 layout: donation
 bank_name: "Überweisung"
