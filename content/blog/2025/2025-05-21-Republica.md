@@ -70,7 +70,7 @@ Henriette Litta, Matthias Spielkamp, Klaus Müller & Caroline Paulick-Thiel<br>
 Wir diskutieren, wie die Expertise der Zivilgesellschaft effektiver in das Regierungshandeln einbezogen werden sollte.*
 
 **11:00 – 11:30**<br>
-Atrium 2<br>
+F5 Stand<br>
 Michelle Trimborn & Mattea Weihe<br>
 
 Real-O-Mat: Eine echte Alternative zum Wahl-O-Mat?
