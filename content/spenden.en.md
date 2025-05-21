@@ -15,7 +15,7 @@ org_copy: >
   With our [current notice of exemption](https://okfn.de/files/documents/2025-05-Freistellungsbescheid-fuer-2023.pdf) we are 
   recognised as a non-profit association for the promotion of science and research as well as of popular and vocational education. 
   For donations up to 300 Euros per year your proof of payment (e.g. bank statement) together with our
-  [Vereinfachten Zuwendungsnachweis](https://okfn.de/files/documents/2023_OKF_Zuwendungen_vereinfachteZuwendungsbest.pdf) is sufficient 
+  [Vereinfachten Zuwendungsnachweis](https://okfn.de/files/documents/2025_OKF_vereinfachteZuwendungsbestaetigung.pdf) is sufficient 
   as proof of donation.
 layout: donation
 bank_name: "Bank transfer"
