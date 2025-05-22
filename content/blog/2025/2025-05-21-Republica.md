@@ -39,6 +39,12 @@ Nina Schröter & Alev Coban<br>
 
 *Bei "Jugend hackt" treffen sich seit zehn Jahren junge Menschen, die "Mit Code die Welt verbessern" wollen. Welche Erfahrungen sie in unserem Bildungssystem machen, welche Herausforderungen ihnen begegnen und wie sie sich zeitgemäße digitale Bildung vorstellen, wollen wir in diesem Talk beleuchten.*
 
+**17:00–17:45**<br>
+F5 Stand<br>
+Ben Burmeister, Dr. Friederike von Franqué, Philipp Schulte
+
+Wohin geht die digitale Reise? Szenarien für Internet Governance 2040
+
 **17:30 – 18:30**<br>
 Popticum<br>
 Dénes Jäger, Julian Brummer & Jan Schroeter<br>
@@ -58,16 +64,17 @@ Joschka Selinger & Hannah Vos<br>
 
 *Rechtsextreme nutzen das Recht, um ihre Agenda durchzusetzen. Wer kritisch berichtet, widerspricht, oder Haltung zeigt, dem drohen Klage, Anzeige und Abmahnung. Wir geben einen Einblick in die Klagestrategien der Rechten und was wir dagegen tun können.* 
 
-## Mittwoch, 28.05.2025
-
-**10:00**<br>
-Ort tba<br>
+**15:00 - 16:00**<br>
+Atrium 2<br>
 Henriette Litta, Matthias Spielkamp, Klaus Müller & Caroline Paulick-Thiel<br>
 
 [Gekommen, um zu beraten? – Zivilgesellschaftliche Beteiligung in der Digitalpolitik neu denken](https://re-publica.com/de/session/gekommen-um-zu-beraten-zivilgesellschaftliche-beteiligung-der-digitalpolitik-neu-denken)
 
 *Neue Legislatur – Neue Perspektiven für die Beteiligung der digitalpolitischen Zivilgesellschaft an den großen Transformationsprozessen unserer Zeit?
 Wir diskutieren, wie die Expertise der Zivilgesellschaft effektiver in das Regierungshandeln einbezogen werden sollte.*
+
+
+## Mittwoch, 28.05.2025
 
 **11:00 – 11:30**<br>
 F5 Stand<br>
