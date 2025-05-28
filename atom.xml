@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-05-21T00:00:00+0000</updated>
+  <updated>2025-05-28T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Data Ranking – Update 2025</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/05/open-data-ranking-update-2025/"/>
+    <id>https://okfn.de/blog/2025/05/open-data-ranking-update-2025/</id>
+    <published>2025-05-28T00:00:00+0000</published>
+    <updated>2025-05-28T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Das &lt;a href=&#34;https://opendataranking.de/&#34; target=&#34;_blank&#34;&gt;Open Data Ranking&lt;/a&gt; bekommt ein Update! Zum zweiten Mal werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze. Die Analyse der rechtlichen Rahmenbedingungen, der Datenqualität und des Open-Data-Ökosystems für das letzte Jahr hat gezeigt: Allzu große Veränderungen gab es 2024 nicht.&lt;/p&gt;
+&lt;p&gt;Behörden aller staatlichen Ebenen – von der Bundes- bis zur Kommunalverwaltung – produzieren täglich eine Vielzahl von Informationen. Allerdings wird nur ein vergleichsweise geringer Anteil davon unter freien Lizenzen in offenen und maschinenlesbaren Formaten automatisiert bereitgestellt. Mit dem Open Data Ranking haben wir im letzten Jahr eine erste Bestandsaufnahme des Status quo von Open Data in Deutschland vorgenommen, um die Diskussion über offene Daten im Land auf eine breitere Basis stellen.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Triff die OKF auf der re:publica 2025!</title>
@@ -160,17 +170,6 @@ Gemeinsam mit einem breiten gesellschaftlichen Bündnis von mehr als 75 Organisa
     <updated>2025-01-29T00:00:00+0000</updated>
     <summary>&lt;h2 id=&#34;linked-open-data-vernetzte-verwaltung-für-vernetzte-daten&#34;&gt;Linked Open Data: Vernetzte Verwaltung für vernetzte Daten&lt;/h2&gt;
 &lt;p&gt;Im November 2024 fand die PIAZZA-Konferenz statt, bei der die Open Knowledge Foundation, neben dem Kompetenzzentrum Öffentliche IT, NExT e. V. und der Gesellschaft für Informatik e. V., eine der Trägerinstitutionen war. Bei der Konferenz trafen sich Menschen und Organisationen mit Perspektiven, Expertise und Ideen aus den Sektoren &lt;strong&gt;Zivilgesellschaft, Wissenschaft und Verwaltung&lt;/strong&gt; und brachten diese in einen Dialog. Was sie eint: den Wunsch nach gemeinwohlorientierten Lösungen für den digitalen Staat. Häufig arbeiten diese jedoch nebeneinander statt miteinander. Die Konferenzreihe PIAZZA zielt daher auf einen gemeinsamen Austausch auf Augenhöhe ab, bei dem es gilt, konstruktiv Herausforderungen zu definieren und Handlungsoptionen zu entwickeln.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Die Zukunft der Digitalpolitik 2/3: Handlungsfähigkeit stärken &amp; Vertrauen zurückgewinnen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/"/>
-    <id>https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/</id>
-    <published>2025-01-20T00:00:00+0000</published>
-    <updated>2025-01-20T00:00:00+0000</updated>
-    <summary>&lt;h2 id=&#34;unsere-forderungen-zur-bundestagswahl-2025&#34;&gt;Unsere Forderungen zur Bundestagswahl 2025&lt;/h2&gt;
-&lt;p&gt;Unsere &lt;a href=&#34;https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/&#34; target=&#34;_blank&#34;&gt;Forderungen zur Bundestagswahl 2025&lt;/a&gt; gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind. Dies ist der zweite von drei Blogbeiträgen, in denen wir diese zentralen Aspekte näher beleuchten. Hier kommt ihr zum &lt;a href=&#34;https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/&#34; target=&#34;_blank&#34;&gt;ersten Blogbeitrag&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Bei der dringend benötigten Modernisierung der bürokratischen Prozesse muss es im Kern um einen &lt;strong&gt;handlungsfähigen Staat gehen, der nachvollziehbar transparent arbeitet&lt;/strong&gt;. Teil davon sind eine funktionierende IT-Infrastruktur sowie ein barrierefreier Zugang zu staatlichen Informationen und Dienstleistungen. Zudem mehr partizipative Prozesse vor allem dort, wo Bürger:innen im direkten Kontakt mit der Verwaltung sind: in den Kommunen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

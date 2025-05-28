@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -256,7 +256,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -268,11 +268,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -285,13 +285,16 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/okf-de/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/re-publica/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2025/05/open-data-ranking-update-2025/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/opendataranking/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -302,6 +305,15 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/update2025/</loc>
+    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/re-publica/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/05/triff-die-okf-auf-der-republica-2025/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
@@ -466,9 +478,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2025/02/digitalpolitik-f%C3%BCr-eine-starke-demokratie-okf-unterst%C3%BCtzt-aktionswoche-f%C3%BCr-demokratie-soziale-gerechtigkeit-und-menschenrechte/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/erfahrungsbericht/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
@@ -713,9 +722,6 @@
                 hreflang="de"
                 href="https://okfn.de/publikationen/opendataranking24/"
                 />
-  </url><url>
-    <loc>https://okfn.de/tags/opendataranking/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/europa/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
