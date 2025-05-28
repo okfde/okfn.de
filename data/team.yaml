@@ -1698,3 +1698,15 @@
   bio: "Enyong (sie/ihr) arbeitet beim Prototype Fund in der Projektkoordination. Daneben begleitet sie Gruppen, Organisationen und Einzelpersonen als ressourcenorientierte Coach*in. Sie beschäftigt sich viel mit Wertschätzung, Achtsamkeit und Selbstbestimmung - besonders im Kontext von gemeinsamer Arbeit."
   bio_en: "Enyong (she/her) works as Project Coordinator at Prototype Fund. She also supports groups, organizations and individuals as a resource-oriented coach. She supports them to deepen their appreciation, mindfulness and self-determination - especially in the context of collaborative work."
   mail: enyong.kuesgen@okfn.de
+
+- name: Gerd Kant
+  img: gerdkant
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Softwareentwickler bei FragDenStaat
+  position_en: Developer at FragDenStaat
+  bio: Gerd (er/ihm) ist Softwareentwickler und engagiert sich außerhalb von FragDenStaat als Vorstandsmitglied des Schweriner Hackspace sowie als Lab-Lead des Jugend hackt Lab Schwerin.
+  bio_en: Gerd (he/him) is a software developer and, outside of FragDenStaat, serves as a board member of the Schwerin Hackspace and as the lab lead of the Jugend hackt Lab Schwerin.
+  mail: gerd.kant@okfn.de
+  mastodon: "https://chaos.social/@noctua"
