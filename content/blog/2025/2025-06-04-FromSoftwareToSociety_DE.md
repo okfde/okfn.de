@@ -47,4 +47,6 @@ Die Studie fordert klare gesellschaftliche Ziele statt unspezifischer Vorstellun
 
 Hier kommt ihr zur gesamten [Publikation auf Deutsch](https://okfn.de/publikationen/fromsoftwaretosociety_de/). Die englische Version findet ihr [auf unserer Website](https://okfn.de/publikationen/fromsoftwaretosociety/).
 
-Hier noch ein Veranstaltungshinweis: Die Studie wird am 12.06.2025 in einem Expert:innengespräch von Dr. Henriette Litta & Peter Bihr präsentiert. Am Gespräch teilnehmen werden außerdem: Renata Ávila, Nurunnaby Chowdhury, Hille Hinsberg & Oluseun Onigbinde. Mehr dazu erfahrt ihr bald auf unserem Blog!
+## Veranstaltung
+
+Hier noch ein Veranstaltungshinweis: Die Studie wird am 12.06.2025 um 12:00 Uhr CEST (10:00 UTC) in einem Expert:innengespräch von Dr. Henriette Litta & Peter Bihr präsentiert. Am Gespräch teilnehmen werden außerdem: Renata Ávila, Nurunnaby Chowdhury, Hille Hinsberg & Oluseun Onigbinde. Mehr dazu erfahrt ihr bald auf unserem Blog!
