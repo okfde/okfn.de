@@ -16,7 +16,7 @@ license_link: https://creativecommons.org/licenses/by-sa/4.0/
 date: 2025-06-04
 ---
 
-Die neue Studie "From Software to Society: Openness in a Changing World" von Dr. Henriette Litta und Peter Bihr zieht Bilanz und blickt in die Zukunft: Was bedeutet Offenheit im digitalen Zeitalter? Ist das Konzept noch zeitgemäß? Die Studie zeichnet die Entwicklung von Offenheit nach und analysiert aktuelle Herausforderungen. Sie basiert auf Expert:inneninterviews und umfangreichen Literaturrecherchen. Die wichtigsten Erkenntnisse auf einen Blick sind: 
+Die neue Studie "From Software to Society: Openness in a Changing World" von Dr. Henriette Litta und Peter Bihr zieht Bilanz und blickt perspektivisch in die Zukunft: Was bedeutet Offenheit im digitalen Zeitalter? Ist das Konzept noch zeitgemäß? Die Studie zeichnet die Entwicklung von Offenheit nach und untersucht aktuelle Herausforderungen. Grundlage sind Interviews mit Expert:innen und umfassende Literaturrecherchen. Die wichtigsten Kenntnisse auf einen Blick sind:
 
 - Offenheit braucht einen Sinn.
 - Offenheit braucht Schutzvorkehrungen.
