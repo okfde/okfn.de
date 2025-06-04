@@ -29,6 +29,10 @@ In this conversation, we will bring together senior members of the Open Knowledg
 🕒 12:00 CEST (10:00 UTC)<br>
 📍 Online
 
+## Registration
+
+[Register now](https://docs.google.com/forms/d/e/1FAIpQLSdhDSl9Ox9OnaNum4ToUtC2WJm65m5S2uKndiMTRdtU4_fFug/viewform) to receive the call link (and the event recording later).
+
 ## Speakers
 
 **Renata Ávila**, CEO, Open Knowledge Foundation, Guatemala/UK<br>
@@ -39,10 +43,6 @@ In this conversation, we will bring together senior members of the Open Knowledg
 **Oluseun Onigbinde**, Director, BudgIT, Nigeria
 
 ![Speaker](/files/blog/2025/2025-06-Roundtable_Invitation_Experts.png)<br>
-
-## Registration
-
-[Register now](https://docs.google.com/forms/d/e/1FAIpQLSdhDSl9Ox9OnaNum4ToUtC2WJm65m5S2uKndiMTRdtU4_fFug/viewform) to receive the call link (and the event recording later).
 
 ## Biographies
 
