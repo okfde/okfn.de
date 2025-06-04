@@ -16,7 +16,7 @@ license_link: https://creativecommons.org/licenses/by-sa/4.0/
 date: 2025-05-19
 ---
 
-The new study "From Software to Society: Openness in a Changing World" by Dr. Henriette Litta and Peter Bihr takes stock and looks to the future: What does openness mean in the digital age? Is the concept still up to date? The study traces the development of Openness and analyses current challenges. It is based on interviews with experts and extensive literature research. The key insights at a glance are: 
+The new study "From Software to Society: Openness in a changing world" by Dr. Henriette Litta and Peter Bihr takes stock and looks to the future: What does openness mean in the digital age? Is the concept still up to date? The study traces the development of Openness and analyses current challenges. It is based on interviews with experts and extensive literature research. The key insights at a glance are: 
 
 - Give Openness a purpose.
 - Protect Openness by adding guard rails.
