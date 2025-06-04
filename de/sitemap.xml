@@ -242,6 +242,32 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -270,19 +296,6 @@
   </url><url>
     <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/okf-de/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
@@ -335,19 +348,6 @@
   </url><url>
     <loc>https://okfn.de/authors/peter-bihr/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/digitalpolitik/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
