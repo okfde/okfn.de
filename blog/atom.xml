@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-05-28T00:00:00+0000</updated>
+  <updated>2025-06-04T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>From Software to Society — Openness in a changing world, deutsche Übersetzung</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/06/from-software-to-society-openness-in-a-changing-world-deutsche-%C3%BCbersetzung/"/>
+    <id>https://okfn.de/blog/2025/06/from-software-to-society-openness-in-a-changing-world-deutsche-%C3%BCbersetzung/</id>
+    <published>2025-06-04T00:00:00+0000</published>
+    <updated>2025-06-04T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;from-software-to-society--openness-in-a-changing-world&#34;&gt;From Software to Society — Openness in a changing world&lt;/h2&gt;
+&lt;p&gt;Die Idee der Openness hat das digitale Zeitalter entscheidend geprägt. Ob Open-Source-Software, offene Standards oder frei lizenzierte Inhalte – viele Grundlagen beruhen auf Prinzipien der Zugänglichkeit, Teilhabe und Transparenz. Offenheit, verstanden als freier Zugang, freie Nutzung, Veränderung und Weitergabe von Wissen, hat sich als Motor für Innovation und gesellschaftlichen Fortschritt etabliert. Doch trotz aller Erfolge scheint das Konzept der Offenheit eine Krise zu durchlaufen. Zwischen politischer Vereinnahmung, ökonomischer Instrumentalisierung und technologischen Umbrüchen gerät der Begriff der Offenheit zunehmend unter Druck und droht zu verwässern. Gründe dafür sind unter anderem widersprüchliche Definitionen, die enorme Machtkonzentration bei wenigen Tech-Konzernen, geopolitische Spannungen und interne Konflikte in Openness-Communities.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Open Data Ranking – Update 2025</title>
@@ -160,16 +170,6 @@ Gemeinsam mit einem breiten gesellschaftlichen Bündnis von mehr als 75 Organisa
     <summary>&lt;p&gt;Unsere &lt;a href=&#34;https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/&#34; target=&#34;_blank&#34;&gt;Forderungen zur Bundestagswahl 2025&lt;/a&gt; gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind. Dies ist der dritte von drei Blogbeiträgen, in denen wir diese zentralen Aspekte näher beleuchten. Hier kommt ihr zum &lt;a href=&#34;https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/&#34; target=&#34;_blank&#34;&gt;ersten&lt;/a&gt; und zum &lt;a href=&#34;https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/&#34; target=&#34;_blank&#34;&gt;zweiten&lt;/a&gt; Blogbeitrag.&lt;/p&gt;
 &lt;h2 id=&#34;lebendige-demokratien-brauchen-engagement-und-reformen&#34;&gt;Lebendige Demokratien brauchen Engagement und Reformen&lt;/h2&gt;
 &lt;p&gt;Eine starke Demokratie lebt von einer aktiven und engagierten Zivilgesellschaft. Angesichts aktueller Herausforderungen gilt es, diese zu schützen und zu fördern, und die Zivilgesellschaft zu stärken. Ein zentraler Schritt in diese Richtung ist beispielsweise die Verabschiedung des Demokratiefördergesetzes. Doch auch darüber hinaus gibt es entscheidende Hebel, die wir ansetzen müssen, um demokratische Prozesse und gesellschaftliches Engagement nachhaltig zu stärken. Wie etwa eine Reform des Gemeinnützigkeitsrechts, die unerlässlich ist, um mehr Rechtssicherheit für gemeinnützige Organisationen zu schaffen, insbesondere solche, die politisch engagiert sind. Gleichzeitig braucht es klarere Regeln für die Anerkennung der Gemeinnützigkeit von Open-Source-Projekten. Offener Quellcode ist eine der zentralen Grundlagen digitaler Transparenz und Innovation – es ist Zeit, dass dieser Beitrag zur Gesellschaft auch rechtlich nachhaltig gewürdigt wird.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Linked Open Data: Vernetzte Verwaltung für vernetzte Daten</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/01/linked-open-data-vernetzte-verwaltung-f%C3%BCr-vernetzte-daten/"/>
-    <id>https://okfn.de/blog/2025/01/linked-open-data-vernetzte-verwaltung-f%C3%BCr-vernetzte-daten/</id>
-    <published>2025-01-29T00:00:00+0000</published>
-    <updated>2025-01-29T00:00:00+0000</updated>
-    <summary>&lt;h2 id=&#34;linked-open-data-vernetzte-verwaltung-für-vernetzte-daten&#34;&gt;Linked Open Data: Vernetzte Verwaltung für vernetzte Daten&lt;/h2&gt;
-&lt;p&gt;Im November 2024 fand die PIAZZA-Konferenz statt, bei der die Open Knowledge Foundation, neben dem Kompetenzzentrum Öffentliche IT, NExT e. V. und der Gesellschaft für Informatik e. V., eine der Trägerinstitutionen war. Bei der Konferenz trafen sich Menschen und Organisationen mit Perspektiven, Expertise und Ideen aus den Sektoren &lt;strong&gt;Zivilgesellschaft, Wissenschaft und Verwaltung&lt;/strong&gt; und brachten diese in einen Dialog. Was sie eint: den Wunsch nach gemeinwohlorientierten Lösungen für den digitalen Staat. Häufig arbeiten diese jedoch nebeneinander statt miteinander. Die Konferenzreihe PIAZZA zielt daher auf einen gemeinsamen Austausch auf Augenhöhe ab, bei dem es gilt, konstruktiv Herausforderungen zu definieren und Handlungsoptionen zu entwickeln.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
