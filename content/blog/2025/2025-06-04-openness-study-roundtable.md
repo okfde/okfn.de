@@ -48,7 +48,7 @@ In this conversation, we will bring together senior members of the Open Knowledg
 
 **Renata Ávila**<br>
 
-Renata Avila (Guatemalan), CEO of Open Knowledge Foundation, is an international Human Rights lawyer specialising in the next wave of technological challenges to preserve and advance our rights and better understand the politics of data and their implications on trade, democracy and society. She is an Affiliate with the Center for Internet and Society at CNRS in France. She has been writing about Digital Colonialism since 2013 and was a fellow at the Stanford Institute of Human-Centered Artificial Intelligence (HAI). @avilarenata
+Renata Ávila (Guatemalan), CEO of Open Knowledge Foundation, is an international Human Rights lawyer specialising in the next wave of technological challenges to preserve and advance our rights and better understand the politics of data and their implications on trade, democracy and society. She is an Affiliate with the Center for Internet and Society at CNRS in France. She has been writing about Digital Colonialism since 2013 and was a fellow at the Stanford Institute of Human-Centered Artificial Intelligence (HAI). @avilarenata
 
 **Peter Bihr**<br>
 
