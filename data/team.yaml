@@ -1451,8 +1451,8 @@
   advisory: 0
   position: Projektmanagerin Policy und Open Data
   position_en: Project Manager Policy and Open Data
-  bio: Christina (sie/ihr) ist Projektmanagerin für Policy und Open Data. Sie ist die Ansprechpartnerin für das Bündnis F5. 
-  bio_en: Christina (she/her) is a project manager for policy and open data. She is the contact person for the alliance F5.
+  bio: Christina (sie/ihr) ist Projektmanagerin für Policy und Open Data. 
+  bio_en: Christina (she/her) is a project manager for policy and open data. 
  
 - name: Tasha Akimi
   img: unknown
@@ -1710,3 +1710,17 @@
   bio_en: Gerd (he/him) is a software developer and, outside of FragDenStaat, serves as a board member of the Schwerin Hackspace and as the lab lead of the Jugend hackt Lab Schwerin.
   mail: gerd.kant@okfn.de
   mastodon: "https://chaos.social/@noctua"
+
+
+- name: Ben Burmeister
+  img: unknown
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Projektmanager Policy
+  position_en: Project Manager Policy
+  bio: Ben (er/ihm) ist seit Mai 2025 Projektmanager für die Policy-Arbeit der OKF und Ansprechperson für das Bündnis F5.
+  bio_en: Ben (he/him) manages the policy and advocacy work of the OKF and is the contact person for the F5 Alliance.
+  mail: ben.burmeister@okfn.de
+  twitter:
+  website:
