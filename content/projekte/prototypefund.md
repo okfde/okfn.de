@@ -54,4 +54,4 @@ Neben der finanziellen Unterstützung bieten wir auf dem Weg zum Prototypen Coac
 
 Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von förderfernen Zielgruppen angepasst. Seit 2016 konnten wir bereits ca. 16,6 Millionen Euro an fast 400 Projekte ausgeben (Stand: Januar 2025). Das Programm läuft noch bis 2029.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ojvcz0JjDhs?si=3p_eyk8CoFvYrGVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OH5w99wv8fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
