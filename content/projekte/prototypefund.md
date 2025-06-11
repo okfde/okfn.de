@@ -1,6 +1,6 @@
 ---
 title: Prototype Fund
-subtitle: 47.500€ für deine Public-Interest-Tech-Idee
+subtitle: Ideen erproben - Offenheit schaffen
 type: research
 kategorien:
   - Civic Tech
@@ -10,8 +10,8 @@ tile: double
 type: featured
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
-img_square: projects/prototypefund_square.jpg
-img_header: projects/PrototypeFund_Header.png
+img_square: projects/PrototypeFund_logo_icon_dark.svg
+img_header: projects/PrototypeFund_logo_dark.svg
 layout: project
 weight: 4
 people:
@@ -25,10 +25,10 @@ people:
     role: Kommunikation und Öffentlichkeitsarbeit
   - name: Marie-Lena Wiese
     role: Projektbetreuung
-  - name: Jasmin Meiling
-    role: Eventmanagement
+  - name: Enyong Küsgen
+    role: Projektbetreuung
 financing:
-  - BMBF
+  - BMFTR
 contact_person: patricialeu
 contact_alternate_email: info@prototypefund.de
 years: 2016 - heute
@@ -43,7 +43,7 @@ contact:
 
 cta: Mitmachen
 cta_text: |-
-    Du kannst dich alle 6 Monate auf den Prototype Fund bewerben. Alle Infos hierzu findest du <a href="https://prototypefund.de/faq/">hier</a>.
+    Du kannst dich jedes Jahr vom 01.Oktober - 30.November auf den Prototype Fund bewerben. Alle Infos hierzu findest du <a href="https://www.prototypefund.de/bewerbung">hier</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://prototypefund.de">Website</a> des Prototype Fund.
 ---
@@ -54,4 +54,4 @@ Neben der finanziellen Unterstützung bieten wir auf dem Weg zum Prototypen Coac
 
 Der Bewerbungsprozess ist dabei so unbürokratisch wie möglich gehalten und an die Bedürfnisse von förderfernen Zielgruppen angepasst. Seit 2016 konnten wir bereits ca. 16,6 Millionen Euro an fast 400 Projekte ausgeben (Stand: Januar 2025). Das Programm läuft noch bis 2029.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Ojvcz0JjDhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ojvcz0JjDhs?si=3p_eyk8CoFvYrGVX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
