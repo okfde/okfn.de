@@ -9,7 +9,8 @@ people:
 - name: Christina Willems
 - name: Henriette Litta
 - name: Dénes Jäger
-contact_person: christinawillems
+- name: Ben Burmeister
+contact_person: benburmeister
 years: seit 2021
 financing:
 - Stiftung Mercator
