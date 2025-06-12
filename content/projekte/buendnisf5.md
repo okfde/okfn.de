@@ -10,7 +10,7 @@ people:
 - name: Henriette Litta
 - name: Dénes Jäger
 - name: Ben Burmeister
-contact_person: Ben Burmeister
+contact_person: benburmeister
 years: seit 2021
 financing:
 - Stiftung Mercator
