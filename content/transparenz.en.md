@@ -20,7 +20,7 @@ Read the [statutes](/files/documents/01_Satzung_2024.pdf) of the Open Knowledge 
 
 Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Corporation Tax Act and from trade tax pursuant to § 3 no. 6 of the Trade Tax Act due to the promotion of science and research, the promotion of popular and vocational education as well as student assistance, the strengthening of the democratic state as well as the strengthening of civic commitment pursuant to the last [exemption notice](/files/documents/2025-05-Freistellungsbescheid-fuer-2023.pdf) received by us from the Tax Office for Corporations I, Berlin dated 13.05.2025.
 
-A current extract from the register of associations can be found [here](/files/documents/2025-02-07-Vereinsregisterauszug-OKF-DE.pdf).
+Find here a [current extract from the register of associations](/files/documents/2025-02-07-Vereinsregisterauszug-OKF-DE.pdf).
 
 ### Name and function of essential decision makers
 
