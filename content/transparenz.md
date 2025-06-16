@@ -13,7 +13,7 @@ Gründungsjahr: 2011 <br>
 Vereinsregister Nr: VR 30468 B <br>
 
 ### Vollständige Satzung sowie Angaben zu den Organisationszielen
-Die Satzung der Open Knowledge Foundation Deutschland e. V. ist [hier einsehbar](/files/documents/01_Satzung_2024.pdf).
+Die [Satzung](/files/documents/01_Satzung_2024.pdf) der Open Knowledge Foundation Deutschland e. V. lesen.
 
 ### Angaben zur Steuerbegünstigung
 Unsere Arbeit ist wegen Förderung der Wissenschaft und Forschung, Förderung der Volks- und Berufsbildung sowie der Studentenhilfe, Stärkung des demokratischen Gemeinwesens und  Stärkung des bürgerschaftlichen Engagements nach dem letzten uns zugegangenen [Freistellungsbescheid](/files/documents/2025-05-Freistellungsbescheid-fuer-2023.pdf) des Finanzamts für Körperschaften I, Berlin vom 13.05.2025 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftssteuer und nach § 3 Nr. 6 des Gewerbesteuergesetzes von der Gewerbesteuer befreit.
