@@ -14,7 +14,7 @@ Register of associations no.: VR 30468 B <br>
 
 ### Complete statutes as well as information on the organisational goals (DE)
 
-The statutes of the Open Knowledge Foundation Deutschland e. V. can be found [here](/files/documents/01_Satzung_2024.pdf).
+Read the [statutes](/files/documents/01_Satzung_2024.pdf) of the Open Knowledge Foundation Deutschland e. V.
 
 ### Information on tax relief
 
