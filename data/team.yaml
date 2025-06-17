@@ -1711,7 +1711,6 @@
   mail: gerd.kant@okfn.de
   mastodon: "https://chaos.social/@noctua"
 
-
 - name: Ben Burmeister
   img: benburmeister
   staff: 1
@@ -1724,3 +1723,15 @@
   mail: ben.burmeister@okfn.de
   twitter:
   website:
+
+- name: Anett Seeker
+  img: anettseeker
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Softwareentwicklerin bei FragDenStaat
+  position_en: Developer at FragDenStaat
+  bio: Anett (sie/ihr) ist Computerlinguistin und unterstützt FragDenStaat als Softwareentwicklerin.
+  bio_en: Anett (she/her) is a computational linguist and works as a software developer at FragDenStaat.
+  mail: anett.seeker@okfn.de
+  github: noeddl
