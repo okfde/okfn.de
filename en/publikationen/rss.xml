@@ -5,10 +5,19 @@
     <description>Publications on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/en/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Knowledge Foundation Germany e. V. - 2023 Annual report</title>
+      <link>https://okfn.de/en/publikationen/2024-jahresbericht/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/publikationen/2024-jahresbericht/</guid>
+      <description>&lt;p&gt;The report looks back at the work of the Open Knowledge Foundation Germany in 2024. The report summarizes the most important activities, describes how the organization works, and presents all projects in brief. The final part of the annual report includes information on the organizational structure and finances.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Open Knowledge Foundation Germany e. V. - 2023 Annual report</title>

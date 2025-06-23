@@ -255,7 +255,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/en/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -265,6 +265,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/publikationen/2024-jahresbericht/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2024-jahresbericht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2024-jahresbericht/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/publikationen/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
                 />
   </url><url>
     <loc>https://okfn.de/en/publikationen/2023-jahresbericht/</loc>
@@ -278,19 +304,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/publikationen/2023-jahresbericht/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/publikationen/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
                 />
   </url><url>
     <loc>https://okfn.de/en/authors/</loc>
