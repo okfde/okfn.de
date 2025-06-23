@@ -7,7 +7,7 @@ kategorien: Jahresberichte
 categories: yearly reports
 people:
 - name: Henriette Litta
-file: static/files/publikationen/OKF_Jahresbericht_2024.pdf
+file: https://2024.okfn.de/assets/documents/OKF_Jahresbericht_2024.pdf?raw=true
 format: pdf
 pages: 59
 size: 9,43MB
