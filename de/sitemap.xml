@@ -242,6 +242,35 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/publikationen/2024-jahresbericht/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -283,19 +312,6 @@
     <loc>https://okfn.de/authors/henriette-litta/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/openness/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -307,19 +323,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2025/06/presentation-expert-roundtable-from-software-to-society-openness-in-a-changing-world/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>

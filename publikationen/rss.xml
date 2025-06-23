@@ -5,10 +5,19 @@
     <description>Publikationen on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2024</title>
+      <link>https://okfn.de/publikationen/2024-jahresbericht/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/2024-jahresbericht/</guid>
+      <description>&lt;p&gt;Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland im Jahr 2024. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>From Software to Society — Openness in a changing world, deutsche Übersetzung</title>
