@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-06-04T00:00:00+0000</updated>
+  <updated>2025-06-23T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Das war 2024: Unser Jahresbericht ist online!</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/06/das-war-2024-unser-jahresbericht-ist-online/"/>
+    <id>https://okfn.de/blog/2025/06/das-war-2024-unser-jahresbericht-ist-online/</id>
+    <published>2025-06-23T00:00:00+0000</published>
+    <updated>2025-06-23T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Unser Jahresbericht 2024 ist online! Ein bewegtes und ereignisreiches Jahr 2024 liegt hinter uns und wir freuen uns, unsere Highlights mit euch zu teilen. Wir haben als gemeinnütziger Verein sowohl inhaltlich als auch personell viele Schritte unternommen, um die Notwendigkeit einer demokratischen und resilienten Digitalpolitik durch unsere vielfältige Arbeit sichtbar zu machen. Nach der erfolgreich abgeschlossenen Wirtschaftsprüfung könnt ihr ab sofort unseren vollständigen Jahresbericht auf &lt;a href=&#34;https://2024.okfn.de/&#34; target=&#34;_blank&#34;&gt;2024.okfn.de&lt;/a&gt; einsehen. Selbstverständlich steht auch eine &lt;a href=&#34;https://2024.okfn.de/assets/documents/OKF_Jahresbericht_2024.pdf&#34; target=&#34;_blank&#34;&gt;PDF Version&lt;/a&gt; zum Download bereit – Die Versionen unterscheiden sich lediglich in Layout und Bildauswahl. Viel Spaß beim Lesen unserer Erfolge und Fortschritte im vergangenen Jahr!&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>From Software to Society — Openness in a changing world, deutsche Übersetzung</title>
@@ -160,15 +169,6 @@ Gemeinsam mit einem breiten gesellschaftlichen Bündnis von mehr als 75 Organisa
 &lt;p&gt;Auch in diesem Jahr unterstützt die Open Knowledge Foundation Deutschland e. V. die Aktionswoche für Demokratie, soziale Gerechtigkeit und Menschenrechte. Am 16. Februar startet die Aktionswoche, die von über 60 Organisationen getragen wird, welche sich gemeinsam für eine offene, demokratische, plurale, inklusive und solidarische Gesellschaft einsetzen.&lt;/p&gt;
 &lt;p&gt;Dabei spielt die &lt;strong&gt;Digitalpolitik eine zentrale Rolle&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;Die OKF setzt sich für eine Digitalpolitik ein, die Grundrechte schützt, den digitalen Raum sicher gestaltet und die Demokratie verteidigt. Wir sind überzeugt: Repressive Maßnahmen wie die Klarnamenpflicht oder Vorratsdatenspeicherung lösen keine Probleme. Was wir brauchen, sind transparente Plattformen, freien Zugang zu Wissen und eine Politik, die Menschenrechte sowohl online als auch offline schützt. Und nicht zuletzt: eine kritische Zivilgesellschaft, die solidarisch füreinander eintritt und Gemeinwohlorientierung einfordert. &lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>NRW veröffentlicht Erfahrungsbericht zu Open Data – mehr Fragen als Antworten</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/02/nrw-ver%C3%B6ffentlicht-erfahrungsbericht-zu-open-data-mehr-fragen-als-antworten/"/>
-    <id>https://okfn.de/blog/2025/02/nrw-ver%C3%B6ffentlicht-erfahrungsbericht-zu-open-data-mehr-fragen-als-antworten/</id>
-    <published>2025-02-10T00:00:00+0000</published>
-    <updated>2025-02-10T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Öffnung und Nachnutzung der eigenen Datenbestände findet sich als Forderung seit mehr als einem Jahrzehnt in Regierungsprogrammen und offiziellen Strategien. Dabei bleiben die genaue Ausgestaltung und die beabsichtigten Wirkungen oft diffus. Die Wirtschaft soll von einer besseren Datenbereitstellung profitieren, die Transparenz erhöht werden und im besten Fall die Verwaltungsarbeit unterstützt werden. Umso erstaunlicher ist es, wie selten offizielle Evaluationsmaßnahmen mit konkreten Fragestellungen Bestandteil von Richtlinien sind. Die &lt;a href=&#34;https://opendataranking.de/&#34; target=&#34;_blank&#34;&gt;wenigsten Bundesländer&lt;/a&gt; sehen überhaupt Open-Data-Fortschrittsberichte vor und wenn, dann nur als einmalige Überprüfung mehrere Jahre nach Inkrafttreten eines Gesetzes. Auf Bundesebene schreibt das &lt;a href=&#34;https://www.gesetze-im-internet.de/egovg/__12a.html&#34; target=&#34;_blank&#34;&gt;E-Government-Gesetz&lt;/a&gt; in §12a Abs. 11 vor: “Die Bundesregierung berichtet dem Bundestag alle zwei Jahre über die Fortschritte bei der Bereitstellung von Daten durch die Behörden der Bundesverwaltung als offene Daten.“ „Alle zwei Jahre“ ist allerdings ein dehnbarer Begriff - der letzte Bericht erschien im Jahr &lt;a href=&#34;https://dip21.bundestag.de/dip21/btd/19/141/1914140.pdf&#34; target=&#34;_blank&#34;&gt;2019&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
