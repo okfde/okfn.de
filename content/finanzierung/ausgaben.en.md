@@ -1,5 +1,5 @@
 ---
-title: Expenses 2023
+title: Expenses 2024
 weight: 3
 data: path/to/data.csv
 ---
