@@ -30,6 +30,7 @@ Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Furthe
 
 Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
+- [Jahresbericht 2024](https://2024.okfn.de/) <br>
 - [Jahresbericht 2023](https://2023.okfn.de/) <br>
 - [Jahresbericht 2022](https://2022.okfn.de/) <br>
 - [Jahresbericht 2021](https://2021.okfn.de/) <br>
@@ -46,7 +47,7 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### Personnel structure
 
-In addition to the managing director, OKF DE employs 40 team members (2023). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes all personnel with responsibilities for the organization itself. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE’s’ is about 66 percent.
+In addition to the managing director, OKF DE employs 42 team members (2024). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes all personnel with responsibilities for the organization itself. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE’s’ is about 60 percent.
 
 
 ### Information on source & use of funds
@@ -79,7 +80,7 @@ Neither private nor legal persons hold shares in our association. This would not
 
 ### Names of legal entities whose annual payments account for more than 10% of the total annual budget.
 
-Core funding from Luminate and a donation of the Alfred Landecker Foundation for FragDenStaat each correspond to approx. 13% of the total income in 2023. Project funding from the Federal Ministry of Education and Research to finance the Prototype Fund as well as the project MoFab accounts for approximately 11% of the total annual budget in 2023. Project funding from the Saxonian State Ministry for Culture and Education for Jugend hackt activities in Saxony accounts for approx. 10% of the total income in 2023. All other income is well below 10% of total income.
+Project funding from the German Federal Ministry of Education and Research to finance the Prototype Fund corresponds to approximately 14% of the total income in 2024. Funding of the Arcadia Fund for FragDenStaat accounts for almost 10% of the total annual budget in 2024. All other income is well below 10% of the total income.
 
 ### Internal ethics officer
 
