@@ -9,7 +9,7 @@ Gut die Hälfte (54%) unserer Einnahmen machen projektgebundene Zuschüsse aus. 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Übersicht</a>
     <a href="#income-institutions" class="">Zuschüsse</a>
-    <a href="#income-companies" class="">Sponsoring</a>
+    <a href="#income-companies" class="">sonstiges</a>
     <a href="#income-services">wirtschaftliche Einnahmen</a>
     <a href="#income-donations" class="">Spenden</a>
 </div>
