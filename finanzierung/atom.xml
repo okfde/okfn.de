@@ -38,7 +38,7 @@
 &lt;div id=&#34;js-incomes-nav&#34; class=&#34;tabnav mt-s&#34;&gt;
     &lt;a href=&#34;#incomes&#34; class=&#34;mr-xs&#34;&gt;Übersicht&lt;/a&gt;
     &lt;a href=&#34;#income-institutions&#34; class=&#34;&#34;&gt;Zuschüsse&lt;/a&gt;
-    &lt;a href=&#34;#income-companies&#34; class=&#34;&#34;&gt;Sponsoring&lt;/a&gt;
+    &lt;a href=&#34;#income-companies&#34; class=&#34;&#34;&gt;sonstiges&lt;/a&gt;
     &lt;a href=&#34;#income-services&#34;&gt;wirtschaftliche Einnahmen&lt;/a&gt;
     &lt;a href=&#34;#income-donations&#34; class=&#34;&#34;&gt;Spenden&lt;/a&gt;
 &lt;/div&gt;
