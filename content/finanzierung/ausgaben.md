@@ -1,5 +1,5 @@
 ---
-title: Ausgaben 2023
+title: Ausgaben 2024
 weight: 3
 data: path/to/data.csv
 ---
