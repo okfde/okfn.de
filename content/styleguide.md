@@ -9,7 +9,7 @@ title: "Styleguide"
 <h3>Überschrift 3</h3>
 <h4>Überschrift 4</h4>
 <h5>Überschrift 5</h5>
-<h6>Überschrift 6</h6>
+<h6>Überschrift 7</h6>
 
 <p>Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.</p>
 
