@@ -21,4 +21,4 @@ Henriette Litta<br>
 
 ### Logos und Material
 
-Das Logo der OKF gibt es in verschiedenen Formaten als [Paket-Download](/files/logos/Logos_okfde.zip). Viele schöne Fotos gibt es in unserer Fotosammlung bei [Flickr](https://www.flickr.com/photos/okfde/sets/).
+Das Logo der OKF gibt es in diversen Formaten als [Paket-Download](/files/logos/Logos_okfde.zip). Viele schöne Fotos gibt es in unserer Fotosammlung bei [Flickr](https://www.flickr.com/photos/okfde/sets/).
