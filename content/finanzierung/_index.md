@@ -17,4 +17,4 @@ search_keys:
   - Einnahmen-Ausgaben-Überschussrechnung
 ---
 
-Seit unserer Gründung im Jahr 2011 finanzieren wir uns mehrheitlich über Projekte. Diese werden von wechselnden Mittelgebenden gefördert. Darüber hinaus erhalten wir Spendeneinnahmen sowie in geringerem Ausmaß wirtschaftliche Einnahmen. Im Geschäftsjahr 2023 standen uns 3,946 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen Gesamtausgaben von insgesamt 2,798 Millionen Euro gegenüber.
+Seit unserer Gründung im Jahr 2011 finanzieren wir uns mehrheitlich über Projekte. Diese werden von wechselnden Mittelgebenden gefördert. Darüber hinaus erhalten wir Spendeneinnahmen sowie in geringerem Ausmaß wirtschaftliche Einnahmen. Im Geschäftsjahr 2024 standen uns 3,742 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen  Gesamtausgaben von insgesamt 2,959 Millionen Euro gegenüber.

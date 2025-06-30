@@ -1,5 +1,15 @@
 # Den neuen Bericht immer erst einpflegen, wenn die MV ihn bestäigt und der Wirtschaftsprüfer die Zahlen bestötigt hat!
 
+- year: 2024
+  img: /okf/verein/Jahresbericht_2024.png
+  pdf: https://2024.okfn.de/
+  de:
+    title: Jahresbericht 2024
+    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2024, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+  en:
+    title: Annual Report 2023
+    text: In addition to funding information and program activities from the 2024 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+
 - year: 2023
   img: /okf/verein/Jahresbericht_2023.png
   pdf: https://2023.okfn.de/

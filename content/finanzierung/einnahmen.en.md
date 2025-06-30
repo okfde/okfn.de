@@ -1,10 +1,10 @@
 ---
-title: Revenues 2023
+title: Revenues 2024
 weight: 3
 ---
 
 
-The majority (69%) of our income comes from project-related grants. In addition, we have donations (29% of our income). Most of the donations are addressed to FragDenStaat but also Jugend hackt, Code for Germany and OKF DE as a whole record donations. Only 2% of our income derives from economic income sources. Sponsoring accounts for less than 1% of our funds.
+About half (54%) of our income comes from project-related grants. In addition, we receive donations (40% of our income). Most of the donations are addressed to FragDenStaat but also Jugend hackt, Code for Germany and OKF DE as a whole record donations. Only 6% of our income derives from economic income sources, including some minor sponsoring income.  Other income includes minor interest income for the first time.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Overview</a>

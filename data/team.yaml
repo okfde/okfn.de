@@ -280,8 +280,8 @@
   advisory: 0
   position: Co-Projektleitung Prototype Fund
   position_en: Co-Director Prototype Fund
-  bio: "Patricia (sie/ihr) leitet den Prototype Fund gemeinsam mit Marie und verantwortet zudem die Kommunikation des Prototype Fund. Sie hat Religion und Kultur in Berlin studiert und zu medialer Diskurshegemonie geforscht. Zuvor arbeitete sie in der Öffentlichkeitsarbeit verschiedener NGOs."
-  bio_en: "Patricia (she/her) runs the Prototype Fund together with Marie and is also responsible for the Prototype Fund's communication. She studied religion and culture in Berlin and did research on media discourse hegemony. Previously, she worked in public relations for various NGOs."
+  bio: "Patricia (sie/ihr, in Elternzeit) leitet den Prototype Fund gemeinsam mit Marie und verantwortet zudem die Kommunikation des Prototype Fund. Sie hat Religion und Kultur in Berlin studiert und zu medialer Diskurshegemonie geforscht. Zuvor arbeitete sie in der Öffentlichkeitsarbeit verschiedener NGOs."
+  bio_en: "Patricia (she/her, on parental leave) runs the Prototype Fund together with Marie and is also responsible for the Prototype Fund's communication. She studied religion and culture in Berlin and did research on media discourse hegemony. Previously, she worked in public relations for various NGOs."
   mail: patricia.leu@okfn.de
   twitter:
   website:
@@ -1693,10 +1693,10 @@
   staff: 1
   board: 0
   advisory: 0
-  position: Projektkoordination Prototype Fund
-  position_en: Project Coordination Prototype Fund
-  bio: "Enyong (sie/ihr) arbeitet beim Prototype Fund in der Projektkoordination. Daneben begleitet sie Gruppen, Organisationen und Einzelpersonen als ressourcenorientierte Coach*in. Sie beschäftigt sich viel mit Wertschätzung, Achtsamkeit und Selbstbestimmung - besonders im Kontext von gemeinsamer Arbeit."
-  bio_en: "Enyong (she/her) works as Project Coordinator at Prototype Fund. She also supports groups, organizations and individuals as a resource-oriented coach. She supports them to deepen their appreciation, mindfulness and self-determination - especially in the context of collaborative work."
+  position: Projektbetreuung Prototype Fund
+  position_en: Program Management Prototype Fund
+  bio: "Enyong (sie/ihr) ist beim Prototype Fund für die Betreuung der Förderprojekte verantwortlich. Daneben begleitet sie Gruppen, Organisationen und Einzelpersonen als ressourcenorientierte Coach*in. Sie beschäftigt sich viel mit Wertschätzung, Achtsamkeit und Selbstbestimmung - besonders im Kontext von gemeinsamer Arbeit."
+  bio_en: "Enyong (she/her) works as Program Manager at the Prototype Fund. Next to it she works as a resource-oriented coach and supports groups, organizations and individuals to deepen their appreciation, mindfulness and self-determination - especially in the context of collaborative work."
   mail: enyong.kuesgen@okfn.de
 
 - name: Gerd Kant
@@ -1711,7 +1711,6 @@
   mail: gerd.kant@okfn.de
   mastodon: "https://chaos.social/@noctua"
 
-
 - name: Ben Burmeister
   img: benburmeister
   staff: 1
@@ -1725,7 +1724,7 @@
   twitter:
   website:
 
-  - name: Nils Deventer
+- name: Nils Deventer
   img: nils_deventer
   staff: 1
   board: 0
@@ -1736,4 +1735,15 @@
   bio_en: "For years, Nils (he/him) has been roaming around on mountains, rivers and trees as an adventure educator. In between, he was also engaged as a theater educator at various state theaters, where he developed plays with young people. Since 2021 he has been part of the Jugend hackt alpaca flock as educational director."
   mail: nils.deventer@okfn.de
   mastodon: "https://alpaka.social/@nils"
- 
+
+- name: Anett Seeker
+  img: anettseeker
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Softwareentwicklerin bei FragDenStaat
+  position_en: Developer at FragDenStaat
+  bio: Anett (sie/ihr) ist Computerlinguistin und unterstützt FragDenStaat als Softwareentwicklerin.
+  bio_en: Anett (she/her) is a computational linguist and works as a software developer at FragDenStaat.
+  mail: anett.seeker@okfn.de
+  github: noeddl

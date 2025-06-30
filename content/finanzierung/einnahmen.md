@@ -1,15 +1,15 @@
 ---
-title: Einnahmen 2023
+title: Einnahmen 2024
 weight: 3
 ---
 
 
-Den Großteil (69%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Dazu kommen Spendeneinnahmen in Höhe von ca. 29% unserer Einnahmen. Die meisten Spenden sind an FragDenStaat adressiert; aber auch Jugend hackt, Code for Germany und die OKF als Ganzes verbuchen Spendeneinnahmen. Über wirtschaftliche Einnahmen haben wir 2% erwirtschaftet, Sponsoring trägt aktuell zu weniger als 1% unserer Gelder bei.
+Gut die Hälfte (54%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Dazu kommen Spendeneinnahmen in Höhe von ca. 40% unserer Einnahmen. Die meisten Spenden sind an FragDenStaat adressiert; aber auch Jugend hackt, Code for Germany und die OKF als Ganzes verbuchen Spendeneinnahmen. Über wirtschaftliche Einnahmen (darin auch wenige Sponsoringeinnahmen) haben wir 6%  erwirtschaftet. Unter den sonstigen Einnahmen finden sich erstmals geringfügige Zinserträge.
 
 <div id="js-incomes-nav" class="tabnav mt-s">
     <a href="#incomes" class="mr-xs">Übersicht</a>
     <a href="#income-institutions" class="">Zuschüsse</a>
-    <a href="#income-companies" class="">Sponsoring</a>
+    <a href="#income-companies" class="">sonstiges</a>
     <a href="#income-services">wirtschaftliche Einnahmen</a>
     <a href="#income-donations" class="">Spenden</a>
 </div>
