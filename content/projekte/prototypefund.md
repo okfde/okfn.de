@@ -43,7 +43,7 @@ contact:
 
 cta: Mitmachen
 cta_text: |-
-    Du kannst dich jedes Jahr vom 01.Oktober - 30.November auf den Prototype Fund bewerben. Alle Infos hierzu findest du <a href="https://www.prototypefund.de/bewerbung">hier</a>.
+    Du kannst dich jedes Jahr vom 01. Oktober - 30. November auf eine Förderung durch den Prototype Fund bewerben. Alle Infos hierzu findest du <a href="https://www.prototypefund.de/bewerbung">hier</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://prototypefund.de">Website</a> des Prototype Fund.
 ---
