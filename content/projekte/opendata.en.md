@@ -12,6 +12,7 @@ img: projects/opendata_tile.png
 img_header: projects/opendata_header.jpg
 people:
   - name: Dénes Jäger
+  - name: Ben Burmeister
   - name: Christina Willems
   - name: Henriette Litta
   - name: Yasemin Altınay
@@ -26,7 +27,7 @@ The goal of open administrative data has several levels: In addition to making g
 
 As a documentation basis for the coming years of the project, we have developed the <a href="https://opendata.okfn.de" target="_blank">Open Data Knowledge Hub</a>, where we present our own use cases and also refer to existing materials from other players in the open data universe.
 
-In 2024, we published the first <a href="https://opendataranking.de" target="_blank">Open Data Ranking</a>. With the ranking, we want to put the discussion about open data in Germany on a broader footing and provide an overview of the status quo of open data in Germany for the calendar year 2023. Further updates of the Open Data Ranking are planned for the coming years.
+In 2024, we published the first <a href="https://opendataranking.de" target="_blank">Open Data Ranking</a>. With the ranking, we want to put the discussion about open data in Germany on a broader footing and provide an overview of the status quo of open data in Germany. Further updates of the Open Data Ranking are planned for the coming years.
 
 <div class="two-img offset-lg-2">
   <figure class="license">
@@ -34,8 +35,8 @@ In 2024, we published the first <a href="https://opendataranking.de" target="_bl
         <figcaption>Screenshot Open Data Knowledge Hub</figcaption>
     </figure>
     <figure class="license">
-        <a href="https://opendataranking.de" target="_blank"><img alt="Karte des Open-Data-Rankings 2024" src="/files/projects/opendata_ranking.png"></a>
-        <figcaption>Karte des Open-Data-Rankings 2024</figcaption>
+        <a href="https://opendataranking.de" target="_blank"><img alt="Karte des Open-Data-Rankings 2025" src="/files/projects/opendata_ranking.png"></a>
+        <figcaption>Map of the Open-Data-Ranking 2025</figcaption>
     </figure>
 </div>
 </div>
