@@ -1,10 +1,11 @@
 ---
-title: From Software to Society — Openness in a changing world, deutsche Übersetzung
+title: From Software to Society — Openness in a changing world
 subtitle: null
 layout: publikation
 image:
   src: /files/images/Studie2.jpg
 kategorien: Studien
+language: de
 people:
 - name: Henriette Litta, Peter Bihr
 file: /files/publikationen/2025-From Software to society_DE.pdf
