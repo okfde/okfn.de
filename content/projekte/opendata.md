@@ -12,6 +12,7 @@ img: projects/opendata_tile.png
 img_header: projects/opendata_header.jpg
 people:
   - name: Dénes Jäger
+  - name: Ben Burmeister
   - name: Christina Willems
   - name: Henriette Litta
   - name: Yasemin Altınay
@@ -26,8 +27,8 @@ Das Ziel offener Verwaltungsdaten hat dabei mehrere Ebenen: Neben der nach auße
 
 Als Dokumentationsbasis für die kommenden Jahre des Projekts haben wir den <a href="https://opendata.okfn.de" target="_blank">Knowledge Hub</a> entwickelt, wo wir unsere eigenen Use Cases präsentieren und darüber hinaus auf bereits existierende Materialien von anderen Akteur:innen aus dem Open-Data-Universum verweisen möchten.
 
-2024 haben wir das erste <a href="https://opendataranking.de" target="_blank">Open-Data-Ranking</a> veröffentlicht. Mit dem Ranking wollen wir die Diskussion über offene Daten im Land auf eine
-breitere Basis stellen und eine Bestandsaufnahme des Status quo von Open Data in Deutschland für das Kalenderjahr 2023 bieten. Für die kommenden Jahre sind weitere Aktualisierungen des Open-Data-Rankings vorgesehen.
+Mittlerweile haben wir zwei Mal <a href="https://opendataranking.de" target="_blank">Open-Data-Rankings</a> veröffentlicht. Mit dem Ranking wollen wir die Diskussion über offene Daten im Land auf eine
+breitere Basis stellen und eine Bestandsaufnahme des Status quo von Open Data in Deutschland bieten. Für die kommenden Jahre sind weitere Aktualisierungen des Open-Data-Rankings vorgesehen.
 
 <div class="two-img offset-lg-2">
   <figure class="license">
@@ -36,7 +37,7 @@ breitere Basis stellen und eine Bestandsaufnahme des Status quo von Open Data in
     </figure>
     <figure class="license">
         <a href="https://opendataranking.de" target="_blank"><img alt="Karte des Open-Data-Rankings 2024" src="/files/projects/opendata_ranking.png"></a>
-        <figcaption>Karte des Open-Data-Rankings 2024</figcaption>
+        <figcaption>Karte des Open-Data-Rankings 2025</figcaption>
     </figure>
 </div>
 </div>
