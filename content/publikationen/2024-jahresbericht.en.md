@@ -1,5 +1,5 @@
 ---
-title: Open Knowledge Foundation Germany e. V. - 2023 Annual report
+title: Open Knowledge Foundation Germany e. V. - 2024 Annual report
 layout: publikation
 image:
   src: /files/images/Jahresbericht1.png
