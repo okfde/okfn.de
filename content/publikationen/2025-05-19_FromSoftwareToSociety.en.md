@@ -5,6 +5,7 @@ layout: publikation
 image:
   src: /files/images/Studie2.jpg
 kategorien: Studien
+language: en
 people:
 - name: Henriette Litta, Peter Bihr
 file: /files/publikationen/2025-05-From Software to Society.pdf
