@@ -19,7 +19,7 @@ publishedDate: 2025-06-04
 
 Die Idee der Openness hat das digitale Zeitalter entscheidend geprägt. Ob Open-Source-Software, offene Standards oder frei lizenzierte Inhalte – viele Grundlagen beruhen auf Prinzipien der Zugänglichkeit, Teilhabe und Transparenz. Offenheit, verstanden als freier Zugang, freie Nutzung, Veränderung und Weitergabe von Wissen, hat sich als Motor für Innovation und gesellschaftlichen Fortschritt etabliert. Doch trotz aller Erfolge scheint das Konzept der Offenheit eine Krise zu durchlaufen. Zwischen politischer Vereinnahmung, ökonomischer Instrumentalisierung und technologischen Umbrüchen gerät der Begriff der Offenheit zunehmend unter Druck und droht zu verwässern. Gründe dafür sind unter anderem widersprüchliche Definitionen, die enorme Machtkonzentration bei wenigen Tech-Konzernen, geopolitische Spannungen und interne Konflikte in Openness-Communities.
 
-Die neue Studie [From Software to Society: Openness in a Changing World](https://okfn.de/publikationen/fromsoftwaretosociety_de/) von Dr. Henriette Litta und Peter Bihr zieht Bilanz und blickt perspektivisch in die Zukunft: **Was bedeutet Offenheit im digitalen Zeitalter? Ist das Konzept noch zeitgemäß?** Die Studie zeichnet die Entwicklung von Offenheit nach und untersucht aktuelle Herausforderungen. Grundlage sind Interviews mit Expert:innen und umfassende Literaturrecherchen. Die wichtigsten Kenntnisse auf einen Blick sind: 
+Die neue Studie [From Software to Society: Openness in a Changing World](https://okfn.de/publikationen/fromsoftwaretosociety/) von Dr. Henriette Litta und Peter Bihr zieht Bilanz und blickt perspektivisch in die Zukunft: **Was bedeutet Offenheit im digitalen Zeitalter? Ist das Konzept noch zeitgemäß?** Die Studie zeichnet die Entwicklung von Offenheit nach und untersucht aktuelle Herausforderungen. Grundlage sind Interviews mit Expert:innen und umfassende Literaturrecherchen. Die wichtigsten Kenntnisse auf einen Blick sind: 
 
 ## Offenheit braucht einen Sinn.
 
@@ -45,7 +45,7 @@ Ohne inhaltliche Schärfung und strukturelle Erneuerung droht Openness zu einer 
 
 Die Studie fordert klare gesellschaftliche Ziele statt unspezifischer Vorstellungen, sie unterstreicht die Notwendigkeit von Schutzmechanismen wie faire Lizenzen und Share-Back-Modellen, gezielte Investitionen in gemeinwohlorientierte Innovation – und vor allem: eine politische Haltung, die sich aktiv gegen Machtkonzentration stellt. Dr. Henriette Litta betont deutlich: **„Von Open Access zu Open Source – Openness ist ein starker und historisch bedeutender Motor für digitale Transformation. Wir brauchen aber jetzt ein Update des Konzeptes, damit es auch in einem radikal veränderten politischen Umfeld relevant bleibt.“**
 
-Hier kommt ihr zur gesamten [Publikation auf Deutsch](https://okfn.de/publikationen/fromsoftwaretosociety_de/). Die englische Version findet ihr [auf unserer Website](https://okfn.de/publikationen/fromsoftwaretosociety/).
+Hier kommt ihr zur gesamten [Publikation auf Deutsch](https://okfn.de/publikationen/fromsoftwaretosociety/). Die englische Version findet ihr [auf unserer Website](https://okfn.de/en/publikationen/fromsoftwaretosociety/).
 
 ## Veranstaltung
 
