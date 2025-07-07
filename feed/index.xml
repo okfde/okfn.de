@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IGF 2025: Diskussionen um die Zukunft des freien Internets</title>
+      <link>https://okfn.de/blog/2025/07/igf-2025-diskussionen-um-die-zukunft-des-freien-internets/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2025/07/igf-2025-diskussionen-um-die-zukunft-des-freien-internets/</guid>
+      <description>&lt;p&gt;Ende Juni fand das 20. Internet Governance Forum (IGF) in Lillestrøm, Norwegen statt. Mit fast 5000 registrierten Teilnehmenden aus der ganzen Welt ist das IGF die zentrale Austauschplattform auf UN-Ebene, um über Fragen des Internets und digitaler Technologien zu diskutieren.&lt;/p&gt;
+&lt;p&gt;Dieses Jahr steht die Zukunft des IGFs auf der Probe – und dabei auch die zukünftige Ausrichtung der internationalen Digitalpolitik. Zwanzig Jahre nach dem World Summit on the Information Society (WSIS) bewertet die UN-Generalversammlung Ende des Jahres die digitale Entwicklung und wie es weitergehen soll.  Dabei geht es um weit mehr als Formulierungen in UN-Dokumenten – langfristig steht der freie und offene Charakter des Internets auf dem Spiel.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Das war 2024: Unser Jahresbericht ist online!</title>

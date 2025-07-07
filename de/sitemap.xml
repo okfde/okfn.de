@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,8 +255,11 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/ben-burmeister/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -266,6 +269,41 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2025/07/igf-2025-diskussionen-um-die-zukunft-des-freien-internets/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/konferenz/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/policy/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/blog/2025/06/das-war-2024-unser-jahresbericht-ist-online/</loc>
@@ -290,19 +328,6 @@
                 href="https://okfn.de/publikationen/2024-jahresbericht/"
                 />
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/okfde/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -317,19 +342,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/publikationen/"
-                />
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/digitaletransformation/</loc>
@@ -1084,9 +1096,6 @@
     <loc>https://okfn.de/tags/nachhaltigkeit/</loc>
     <lastmod>2022-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/policy/</loc>
-    <lastmod>2022-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/circular-economy/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -1104,9 +1113,6 @@
   </url><url>
     <loc>https://okfn.de/authors/philip-steffan/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/ben-burmeister/</loc>
-    <lastmod>2022-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/09/bits-b%C3%A4ume-2022-nachhaltigkeit-braucht-digitales-gemeingut/</loc>
     <lastmod>2022-09-13T00:00:00+00:00</lastmod>
@@ -1417,9 +1423,6 @@
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/frag-den-staat/</loc>
-    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/konferenz/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/01/nachlese-vortr%C3%A4ge-auf-dem-congress-rc3/</loc>
