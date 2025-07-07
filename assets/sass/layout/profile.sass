@@ -1,100 +1,26 @@
 .l__profile
   p
-    line-height: 1.5
-    font-size: 1.1em
-    margin-bottom: $space
+    line-height: 1.55
+    font-size: 1.2rem
 
-    @media print
-      margin-bottom: 10px
-  h2
-    margin: 2em 0 0.25em 0
-
-    @media print
-      margin-top: 0.5em
-  img
-    width: 100%
-    height: auto
-
-  .row + .row
-    margin-top: $space
-    @media print
-      margin-top: 0
-
-  @media print
-    margin-top: $space-half
-
-.l__profile__section
-  margin: $space-double 0
-
-  @media print
-    margin: 0
-
-    .row
-      margin-left: 0
-      padding-left: 0
-    
-    .col.col-12
-      width: 100%
-      max-width: none
-      flex: 0 0 100%
-      position: static
-      margin-left: 0
-      padding-left: 0
-      @include avoid-break()
-
-    figure
-      display: none
-
-
-.l__profile__aside
-  margin: 120px 0
-
-  @media print
-    margin: $space-double 0
-
-.c__additional
-  img
-    max-height: 364px
-    width: 100%
-    object-fit: cover
-    @media print
-      max-height: 250px
-  @include media-breakpoint-up(md)
-    max-height: 364px
-    overflow: hidden
-    img
-      width: auto
-
-.c__additional__info
-  padding: $space $space-double $space $space
-  background-color: #e1eafb
-  @include media-breakpoint-up(md)
-    height: 364px
-  p
-    font-size: 18px
-    font-weight: 400
-    padding-bottom: 5px
-    @include media-breakpoint-up(xl)
-      font-size: 18px
-      font-weight: 400
-      padding-bottom: 5px
-    
-  h3 + p
-    margin-top: $space
-  a
-    font-size: 18px
-    font-weight: 400
-    position: relative
-    svg
-      position: absolute
-      top: 3px
-      right: -20px
-      transition: transform 300ms ease
-    &:hover,
-    &:active
-      text-decoration: none
-      svg
-        transform: translateX(1em)
+  \:is(h2, h3, p:not(:empty)) + p:not(:empty)
+    margin-top: $space-half / 2
 
 .print-page
   text-align: right
+
+.l__breakout
+  .container
+    display: flex
+    flex-direction: column
+    img
+      height: 100%
+    @include media-breakpoint-up(sm)
+      flex-direction: row
+
+.l__breakout
+  .container
+    gap: $spacer
+
+  img
+    transform: translateY(-16px)

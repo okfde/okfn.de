@@ -1,4 +1,23 @@
-.l__finance
+.l__finance__reports
+  display: flex
+  flex-direction: column
+  gap: 20px
+
+  ul
+    list-style-type: none
+    padding: 0
+    margin: 0
+    column-gap: 20px
+    row-gap: .2em
+    display: flex
+    flex-wrap: wrap
+    flex-direction: row
+
+    li
+      margin-bottom: 0
+
+  h4
+    margin: 0
 
 .l__finance__logos
   display: flex
@@ -11,3 +30,53 @@
   img
     width: auto
     margin: 0 0 $space 0
+
+.l__profile__aside
+  margin: 120px 0
+
+  @media print
+    margin: $space-double 0
+
+.c__additional
+  img
+    max-height: 364px
+    width: 100%
+    object-fit: cover
+    @media print
+      max-height: 250px
+  @include media-breakpoint-up(md)
+    max-height: 364px
+    overflow: hidden
+    img
+      width: auto
+
+.c__additional__info
+  padding: $space $space-double $space $space
+  background-color: #e1eafb
+  @include media-breakpoint-up(md)
+    height: 364px
+  p
+    font-size: 18px
+    font-weight: 400
+    padding-bottom: 5px
+    @include media-breakpoint-up(xl)
+      font-size: 18px
+      font-weight: 400
+      padding-bottom: 5px
+
+  h3 + p
+    margin-top: $space
+  a
+    font-size: 18px
+    font-weight: 400
+    position: relative
+    svg
+      position: absolute
+      top: 3px
+      right: -20px
+      transition: transform 300ms ease
+    &:hover,
+    &:active
+      text-decoration: none
+      svg
+        transform: translateX(1em)
