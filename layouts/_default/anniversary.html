@@ -93,10 +93,10 @@
 
 
 
-  <div class="l__profile">
+  <div class="l__anniversary">
     {{ range (.Paginator 10).Pages }}
     {{ if eq .Params.arrange "img_top"}}
-    <section class="row l__profile__section">
+    <section class="row l__anniversary__section">
       <div class="col col-12 col-md-10 offset-md-1">
         <div class="row align-items-center">
           {{ with .Params.img }}
@@ -121,7 +121,7 @@
     {{ end }}
 
     {{ if eq .Params.arrange "img_bottom"}}
-    <section class="row l__profile__section">
+    <section class="row l__anniversary__section">
       <div class="row col col-12 col-md-10 offset-md-1">
         <div class="row order-2 order-md-1">
           <div class="col col-12 col-md-8 offset-md-2">
@@ -146,7 +146,7 @@
     {{ end }}
 
     {{ if eq .Params.arrange "img_bottom_2"}}
-    <section class="row l__profile__section">
+    <section class="row l__anniversary__section">
       <div class="row col col-12">
         <div class="row order-2 order-md-1">
           <div class="col col-12 col-md-6 offset-md-3">
@@ -171,7 +171,7 @@
     {{ end }}
 
     {{ if eq .Params.arrange "img_right"}}
-    <section class="row l__profile__section">
+    <section class="row l__anniversary__section">
       <div class="col col-12">
         <div class="row align-items-center">
           <div class="col col-12 col-md-4 order-2 order-md-1">

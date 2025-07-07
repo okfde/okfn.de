@@ -59,29 +59,7 @@ Im Geschäftsjahr 2024 standen uns 3,742 Millionen Euro für unsere Arbeit zur V
 
 Hier finden sich Informationen zur finanziellen Entwicklung der Organisation sowie die Einnahmen und Ausgaben des jeweils aktuell abgeschlossenen Wirtschaftsjahrs. Seit 2018 unterziehen wir uns einer freiwilligen externen Wirtschaftsprüfung.
 
-- [Bericht der Wirtschaftsprüfung 2024](/files/documents/WP-Berichte/OKF-DE-WPBericht-2024.pdf) <br>
-- [Bericht der Wirtschaftsprüfung 2023](/files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf) <br>
-- [Bericht der Wirtschaftsprüfung 2022](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
-- [Bericht der Wirtschaftsprüfung 2021](/files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf) <br>
-- [Bericht der Wirtschaftsprüfung 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
-- [Bericht der Wirtschaftsprüfung 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
-- [Bericht der Wirtschaftsprüfung 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
-
-- [Bilanz 2024](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2024.pdf) <br>
-- [Bilanz 2023](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2023.pdf) <br>
-- [Bilanz 2022](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2022.pdf) <br>
-- [Bilanz 2021](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf) <br>
-- [Bilanz 2020](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf) <br>
-- [Bilanz 2019](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2019.pdf) <br>
-- [Bilanz 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2018.pdf) | [Eröffnungsbilanz 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-Eröffnungsbilanz_2018.pdf) <br>
-
-- [Einnahmenüberschussrechnung 2017](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2017.pdf) <br> 
-- [Einnahmenüberschussrechnung 2016](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2016.pdf) <br>
-- [Einnahmenüberschussrechnung 2015](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2015.pdf) <br>
-- [Einnahmenüberschussrechnung 2014](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2014.pdf) <br>
-- [Einnahmenüberschussrechnung 2013](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2013.pdf) <br>
-- [Einnahmenüberschussrechnung 2012](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2012.pdf) <br>
-- [Einnahmenüberschussrechnung 2011](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2011.pdf)
+{{< finances >}}
 
 ### Gesellschaftsrechtliche Verbundenheit
 An unserem Verein halten weder private noch juristische Personen Anteile. Dies ist auch nicht möglich. Es besteht keine Mitgliedschaft in einer anderen Organisationen. Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine Anteile an anderen Organisationen.

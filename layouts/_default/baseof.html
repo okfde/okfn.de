@@ -9,7 +9,7 @@
     {{- partial "header.html" . -}}
     {{- partial "site-search" . -}}
     <main id="content" name="content">
-      <div class="">
+      <div class="{{- block "main-class" . }}{{- end }}">
         {{- block "main" . }}{{- end }}
       </div>
     </main>
