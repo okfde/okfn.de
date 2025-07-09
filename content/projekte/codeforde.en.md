@@ -21,7 +21,7 @@ people:
     role:
 contact_person: michaelpeters
 years: 2014 - heute
-weight: 4
+weight: 5
 partners:
   - Code for All
 website: https://codefor.de
