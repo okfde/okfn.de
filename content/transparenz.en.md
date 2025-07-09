@@ -3,6 +3,7 @@ title: Transparency
 meta: Voluntary transparency information about the organisation
 img_header: /okf/social-og/transparenz-social-og.png
 ---
+jump straight to [Finances](#finances)
 
 ### Name, registered office, address and year of incorporation
 
@@ -26,7 +27,7 @@ Find here a [current extract from the register of associations](/files/documents
 
 Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Further board members are Elina Eickstädt, Lea Gimpel, Stefan Heumann, Fiona Krakenbürger and Felix Reda. Henriette Litta is managing director of the association.
 
-### Annual reports [DE]
+### Annual reports 
 
 Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
@@ -49,10 +50,17 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 In addition to the managing director, OKF DE employs 42 team members (2024). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes all personnel with responsibilities for the organization itself. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE’s’ is about 60 percent.
 
+### Finances
 
-### Information on source & use of funds
+Since our launch in 2011, our funding is based on project work. Our projects are financed by a variety of changing private and public funding institutions. In addition, we generate income via donations and to a small degree via economic activities.
 
-Under the heading "Funding" we present in detail the financial development of the organization and the income and expenditure of the current financial year. Since 2018, we have been undergoing a voluntary external audit.
+#### Overview of the recent financial year
+
+In the financial year 2024, we raised 3.742 million euros for our work. This was offset by total expenditure of 2.959 million euros.
+
+#### Detailed information on source & use of funds
+
+Here you can find in detail the financial development of the organization and the income and expenditure of the current financial year. Since 2018, we have been undergoing a voluntary external audit.
 ](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
 - [Audit Report 2024](/files/documents/WP-Berichte/OKF-DE-WPBericht-2024.pdf) <br>
 - [Audit Report 2023](/files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf) <br>
@@ -96,6 +104,4 @@ OKF has joined a civil society alliance to introduce a [Whistleblowing Policy](h
 
 We are signatories to the [Initiative Transparent Civil Society](https://www.transparente-zivilgesellschaft.de/) and thus commit ourselves to the greatest possible openness. We are registered in the [Lobbyregister of the German Parliament](https://www.lobbyregister.bundestag.de/startseite) under registration number R000405. We are also registered in the [EU Transparency Register](https://ec.europa.eu/transparencyregister/public/homePage.do?redir=false&locale=de). 
 
-### Licenses
 
-We are committed to the publication, use and reuse of open knowledge. We take intellectual property rights very seriously. Therefore, it is only logical to make all the content we create as openly accessible as possible.

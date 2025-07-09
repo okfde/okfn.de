@@ -3,6 +3,7 @@ title: Transparenz
 meta: Freiwillige Angaben zur Vereinstransparenz
 img_header: /okf/social-og/transparenz-social-og.png
 ---
+springe direkt zu [Finanzierung](#finanzierung)
 
 ### Name, Sitz, Anschrift und Gründungsjahr
 
@@ -47,9 +48,16 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 Die OKF DE beschäftigt neben der Geschäftsführung noch 42 hauptamtliche Teammitglieder (2024). Die Projektleitungen steuern ihre Projekte eigenständig und haben Projektteams mit Projektmanager:innen und Projektassistent:innen. Im Team der Geschäftsführung sind alle Personen angesiedelt, die für die Gesamtorganisation tätig sind. Die OKF DE zahlt allen Mitarbeitenden Gehälter angelehnt an den Tarifvertrag der Länder (TVL). Studierende erhalten eine Vergütung gemäß des Berliner Tarifvertrags für Studierende. Der Frauenanteil in der OKF DE liegt bei etwa 60 Prozent.
 
-### Angaben zur Mittelherkunft & -verwendung
+### Finanzierung
 
-Unter der Rubrik „Finanzierung“ legen wir die finanzielle Entwicklung der Organisation und die Einnahmen und Ausgaben des jeweils aktuell abgeschlossenen Wirtschaftsjahrs detailliert dar. Seit 2018 unterziehen wir uns einer freiwilligen externen Wirtschaftsprüfung.
+Seit unserer Gründung im Jahr 2011 finanzieren wir uns mehrheitlich über Projekte. Diese werden von wechselnden Mittelgebenden gefördert. Darüber hinaus erhalten wir Spendeneinnahmen sowie in geringerem Ausmaß wirtschaftliche Einnahmen. 
+
+#### Übersicht des aktuellen Geschäftsjahres
+Im Geschäftsjahr 2024 standen uns 3,742 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen Gesamtausgaben von insgesamt 2,959 Millionen Euro gegenüber.
+
+#### Detaillierte Angaben zur Mittelherkunft & -verwendung
+
+Hier finden sich Informationen zur finanziellen Entwicklung der Organisation sowie die Einnahmen und Ausgaben des jeweils aktuell abgeschlossenen Wirtschaftsjahrs. Seit 2018 unterziehen wir uns einer freiwilligen externen Wirtschaftsprüfung.
 
 - [Bericht der Wirtschaftsprüfung 2024](/files/documents/WP-Berichte/OKF-DE-WPBericht-2024.pdf) <br>
 - [Bericht der Wirtschaftsprüfung 2023](/files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf) <br>
@@ -81,7 +89,7 @@ An unserem Verein halten weder private noch juristische Personen Anteile. Dies i
 ### Namen von juristischen Personen, deren jährliche Zahlungen mehr als 10 % des Gesamtjahresbudgets ausmachen
 Die Projektförderung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds entspricht etwa 14% der Gesamteinnahmen im Jahr 2024. Die Förderung des Arcadia Fund für FragDenStaat macht knapp 10% des Gesamtjahresbudgets aus. Alle weiteren Einnahmen liegen jeweils deutlich unter 10% der Gesamteinnahmen.
 
-### interne Ethikbeauftragte
+### Interne:r Ethikbeauftragte:r
 Seit 2017 gibt es in der OKF das Amt der Ethikbeauftragten im Team. Die Ethikbeauftragte ist die erste Anlaufstelle für interne und externe ethische Fragen. Darüber hinaus ist die Ethikbeauftragte erste Anlaufstelle für Teammitglieder, die Sorgen und Unsicherheiten jeglicher Art haben. Die Ethikbeauftragte sorgt für die Weiterleitung der Anfragen an die richtigen Stellen (z.B. Board oder GF) und überwacht den Prozess. Derzeitige Ethikbeauftragte ist Giulia Norberti. Externe Anfragen gehen an die Adresse ethics@okfn.de. [<a href="/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
 
 ### Whistleblowing Policy
@@ -91,6 +99,3 @@ Die OKF hat sich einem zivilgesellschaftlichen Bündnis zur Einführung einer [W
 ### Transparenzverpflichtungen
 Wir sind Mitglied der [Initiative Transparente Zivilgesellschaft](https://www.transparente-zivilgesellschaft.de/) und verpflichten uns damit selbst zu größtmöglicher Offenheit. Wir sind im [Lobbyregister des Bundestages](https://www.lobbyregister.bundestag.de/startseite) unter der Registernummer R000405 eingetragen. Wir sind auch im [Transparenzregister der EU](https://transparency-register.europa.eu/searchregister-or-update/organisation-detail_de?id=849884533831-33) eingetragen. 
 
-### Lizenzen
-
-Wir setzen uns für die Veröffentlichung, Nutzung und Wiederverwertung von offenem Wissen ein. Daher nehmen wir Immaterialgüterrechte sehr ernst. Deshalb ist es nur konsequent, alle Inhalte, die wir erstellen, so offen wie möglich zugänglich zu machen.
