@@ -3,6 +3,7 @@ title: Transparency
 meta: Voluntary transparency information about the organisation
 img_header: /okf/social-og/transparenz-social-og.png
 ---
+jump straight to [Finances](#finances)
 
 ### Name, registered office, address and year of incorporation
 

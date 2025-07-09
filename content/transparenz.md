@@ -3,6 +3,7 @@ title: Transparenz
 meta: Freiwillige Angaben zur Vereinstransparenz
 img_header: /okf/social-og/transparenz-social-og.png
 ---
+springe direkt zu [Finanzierung](#finanzierung)
 
 ### Name, Sitz, Anschrift und Gründungsjahr
 
@@ -47,14 +48,14 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 Die OKF DE beschäftigt neben der Geschäftsführung noch 42 hauptamtliche Teammitglieder (2024). Die Projektleitungen steuern ihre Projekte eigenständig und haben Projektteams mit Projektmanager:innen und Projektassistent:innen. Im Team der Geschäftsführung sind alle Personen angesiedelt, die für die Gesamtorganisation tätig sind. Die OKF DE zahlt allen Mitarbeitenden Gehälter angelehnt an den Tarifvertrag der Länder (TVL). Studierende erhalten eine Vergütung gemäß des Berliner Tarifvertrags für Studierende. Der Frauenanteil in der OKF DE liegt bei etwa 60 Prozent.
 
-## Finanzierung
+### Finanzierung
 
 Seit unserer Gründung im Jahr 2011 finanzieren wir uns mehrheitlich über Projekte. Diese werden von wechselnden Mittelgebenden gefördert. Darüber hinaus erhalten wir Spendeneinnahmen sowie in geringerem Ausmaß wirtschaftliche Einnahmen. 
 
-### Übersicht des aktuellen Geschäftsjahres
+#### Übersicht des aktuellen Geschäftsjahres
 Im Geschäftsjahr 2024 standen uns 3,742 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen Gesamtausgaben von insgesamt 2,959 Millionen Euro gegenüber.
 
-### Detaillierte Angaben zur Mittelherkunft & -verwendung
+#### Detaillierte Angaben zur Mittelherkunft & -verwendung
 
 Hier finden sich Informationen zur finanziellen Entwicklung der Organisation sowie die Einnahmen und Ausgaben des jeweils aktuell abgeschlossenen Wirtschaftsjahrs. Seit 2018 unterziehen wir uns einer freiwilligen externen Wirtschaftsprüfung.
 
