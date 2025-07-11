@@ -13,7 +13,7 @@ img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/PrototypeFund_logo_icon_dark.svg
 img_header: projects/PrototypeFund_logo_dark.svg
 layout: project
-weight: 4
+weight: 2
 people:
   - name: Patricia Leu
     role: Co-Projektleitung - Schwerpunkt Kommunikation und Projektmanagement

@@ -8,6 +8,7 @@ kategorien:
 tile: double
 type: featured 
 layout: project
+weight: 3
 img: projects/opendata_tile.png
 img_header: projects/opendata_header.jpg
 people:

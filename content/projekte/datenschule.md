@@ -7,7 +7,6 @@ kategorien:
 categories:
   - education
 tile: single
-weight: 5
 layout: project
 img: projects/Datenschule_Projektuebersicht_smallTile.png
 img_square:

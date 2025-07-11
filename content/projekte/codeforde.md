@@ -10,7 +10,7 @@ kategorien:
   - Civic Tech
 tile: double
 layout: project
-weight: 2
+weight: 5
 img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
