@@ -22,14 +22,6 @@
   <script src="{{$share.RelPermalink}}"></script>
 {{ end }}
 
-{{ if (eq .Section "projekte") }}
-  {{ $shuffLib := resources.Get "/js/vendor/shuffle.min.js" }}
-  {{ $shuff := resources.Get "/js/shuffle.js" }}
-  {{ $shuffleJs := slice $shuffLib $shuff | resources.Concat "js/shuff.js" | resources.Minify | resources.Fingerprint}}
-  <link rel="preload" href="{{$shuffleJs.RelPermalink}}" as="script">
-  <script src="{{$shuffleJs.RelPermalink}}" defer></script>
-{{ end }}
-
 {{ if eq .Section "finanzierung" }}
   {{ $d3 := resources.Get "/js/vendor/d3.min.js" }}
   {{ $d3tip := resources.Get "/js/vendor/d3-tip.js" }}
