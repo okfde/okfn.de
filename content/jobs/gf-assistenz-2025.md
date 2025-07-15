@@ -54,8 +54,8 @@ Wir freuen uns besonders über Bewerbungen von Menschen, die von struktureller D
 
 Schicke uns deine Bewerbungsunterlagen (Anschreiben, Lebenslauf; Nachweise und Zeugnisse brauchen wir meist nicht, schicke sie nur wenn sie für diese konkrete Bewerbung wirklich relevant sind) per Email an Sonja unter jobs@okfn.de.
 
-Please don’t: Bitte schicke uns in deiner Bewerbung kein Foto mit und mache keine Angaben zu deinem Alter oder deinem Familienstand. 
-Please do: Bitte schreibe uns deine Motivation, welche Erfahrungen du mitbringst, wann du frühestens anfangen könntest, welche Vertragsart du möchtest und wie viele Arbeitsstunden pro Woche du dir vorstellst. 
+**Please don’t:** Bitte schicke uns in deiner Bewerbung kein Foto mit und mache keine Angaben zu deinem Alter oder deinem Familienstand.<br> 
+**Please do:** Bitte schreibe uns deine Motivation, welche Erfahrungen du mitbringst, wann du frühestens anfangen könntest, welche Vertragsart du möchtest und wie viele Arbeitsstunden pro Woche du dir vorstellst. 
 
 Wir sichten alle Bewerbungen in einem kleinen Berwerbungskommittee (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen ein, vor Ort in Berlin oder online (zweite Runde). 
 
