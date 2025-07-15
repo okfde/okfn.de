@@ -13,7 +13,7 @@ draft: 'false'
 
 Zur Verstärkung des Geschäfsführungs-Teams der Open Knowledge Foundation Deutschland suchen wir:
 
-**Assistenz für Verwaltung, Personal und Office. In Teilzeit 20-28h/Woche und Gehalt orientiert an TVL E12/1 ODER studentische Hilfskraft ODER Minijob, ab sofort, 1 Jahr befristet (Elternzeitvertretung)**
+**Assistenz für Verwaltung, Personal und Office. In Teilzeit 20-28h/Woche und Gehalt orientiert an TVL E12/1 ODER studentische Hilfskraft ODER Minijob, ab sofort, 1 Jahr befristet (Elternzeitvertretung)** Bewerbungsfrist: 15. August 2025
 
 ## Über die OKF
 
