@@ -65,31 +65,38 @@ $theight-large: 503px
   text-align: center
 
 .l__projects__list--home
+  display: grid
+  row-gap: $space
   width: 100%
-  display: flex
-  flex-flow: row wrap
-  li:nth-child(1),
-  li:nth-child(4),
+  .c__tile
+    height: 100%
+
+  li:nth-child(1)
+    grid-area: a
+  li:nth-child(2)
+    grid-area: b
+  li:nth-child(3)
+    grid-area: c
+  li:nth-child(4)
+    grid-area: d
   li:nth-child(5)
-    .c__tile
-      height: $theight-large
+    grid-area: e
+  li:nth-child(6)
+    grid-area: f
+
+  @include media-breakpoint-down(sm)
+    grid-template-rows: 250px 500px 250px  500px 250px 500px
+    grid-template-areas: "a" "b" "c" "d" "e" "f"
+
   @include media-breakpoint-up(sm)
-    max-height: 1080px
-    flex-flow: column wrap
-    li:nth-child(4) // exception for this size
-      .c__tile
-        height: $theight-small
+    grid-template-rows: repeat(4, 250px)
+    grid-template-columns: repeat(2, 1fr)
+    grid-template-areas: "a b" "a c" "d c" "e f"
 
   @include media-breakpoint-up(md)
-    flex-flow: column wrap
-    max-height: 800px
-    li:nth-child(1),
-    li:nth-child(4),
-    li:nth-child(5)
-      .c__tile
-        height: $theight-large
-  .l__projects__item
-    margin-bottom: 0
+    grid-template-rows: repeat(3, 250px)
+    grid-template-columns: repeat(3, 1fr)
+    grid-template-areas: "a b c" "a e c" "d e f"
 
 .l__projects__list--center
   margin-top: $space
