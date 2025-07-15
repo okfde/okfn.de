@@ -243,7 +243,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -253,6 +253,48 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/jobs/gf-assistenz-ez-giulia-2025/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/jobs/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/jobs/"
+                />
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/sonja-fischbauer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/sonja-fischbauer/"
                 />
   </url><url>
     <loc>https://okfn.de/authors/ben-burmeister/</loc>
@@ -276,19 +318,6 @@
   </url><url>
     <loc>https://okfn.de/tags/konferenz/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/policy/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
@@ -417,19 +446,6 @@
     <loc>https://okfn.de/tags/koalitionsvertrag/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/jobs/</loc>
-    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jobs/"
-                />
-  </url><url>
     <loc>https://okfn.de/blog/2025/04/piazza-konferenz-2025-call-for-workshops/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -472,19 +488,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2025/03/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/</loc>
     <lastmod>2025-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
-    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/sonja-fischbauer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/sonja-fischbauer/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/taiwan/</loc>
     <lastmod>2025-03-24T00:00:00+00:00</lastmod>
