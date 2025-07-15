@@ -39,6 +39,16 @@
     </item>
     
     <item>
+      <title>Prototype Fund</title>
+      <link>https://okfn.de/en/projekte/prototypefund/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/prototypefund/</guid>
+      <description>&lt;p&gt;With the Prototype Fund, we support socially relevant software projects and increase their sustainable impact through open source by principle. In short: We fund open source software made by society and for society.
+We make digital social innovation possible with developers who bring a wide range of skills to technology design and are given the space to develop their good ideas. You will receive funding of up to €95,000 over six months or €158,000 over ten months for your project and team. The fund supports software developers, hackers, and creative minds in turning sketches for tools and applications into reality. The Prototype Fund has redefinied its funding priorities since 2025 and now focuses on the areas of data security and software infrastructure.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Prototype Fund Hardware</title>
       <link>https://okfn.de/en/projekte/prototypefundhardware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,12 +58,12 @@
     </item>
     
     <item>
-      <title>Code for Germany</title>
-      <link>https://okfn.de/en/projekte/codeforde/</link>
+      <title>Open administrative data</title>
+      <link>https://okfn.de/en/projekte/opendata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://okfn.de/en/projekte/codeforde/</guid>
-      <description>&lt;p&gt;Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.&lt;/p&gt;</description>
+      <guid>https://okfn.de/en/projekte/opendata/</guid>
+      <description>&lt;p&gt;Public authorities from federal to local level produce and publish thousands of documents every day. In the context of the omnipresent digitalisation of public services, many goals have been set in recent years concerning the use of open data standards. However, the implementation fell short of the target so far. There is a great need for public authorities to build up knowledge and competences in the field of data provision. With this project the OKF wants to put its focus again on one of its core topics: contributing to the social discourse by offering our expertise in the field of open data.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,26 +76,12 @@
     </item>
     
     <item>
-      <title>Prototype Fund</title>
-      <link>https://okfn.de/en/projekte/prototypefund/</link>
+      <title>Code for Germany</title>
+      <link>https://okfn.de/en/projekte/codeforde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://okfn.de/en/projekte/prototypefund/</guid>
-      <description>&lt;p&gt;With the Prototype Fund, we support socially relevant software projects and increase their sustainable impact through open source by principle. In short: We fund open source software made by society and for society.
-We make digital social innovation possible with developers who bring a wide range of skills to technology design and are given the space to develop their good ideas. You will receive funding of up to €95,000 over six months or €158,000 over ten months for your project and team. The fund supports software developers, hackers, and creative minds in turning sketches for tools and applications into reality. The Prototype Fund has redefinied its funding priorities since 2025 and now focuses on the areas of data security and software infrastructure.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Datenschule</title>
-      <link>https://okfn.de/en/projekte/datenschule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/datenschule/</guid>
-      <description>&lt;p&gt;The Data School is a nationwide educational program on the subject of data and technologies. We mainly target non-profit organisations that work with data, or alternatively want to deepen their existing data knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.&lt;/p&gt;
-&lt;p&gt;We want non-profit organisations:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;to encourage targeted use of data and technology in their work.&lt;/p&gt;</description>
+      <guid>https://okfn.de/en/projekte/codeforde/</guid>
+      <description>&lt;p&gt;Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -209,6 +205,19 @@ By supporting digitally-enabled research and teaching in the arts and humanities
       <description>&lt;p&gt;DatenmachenSchule shows the potential open data in the classroom. The initial idea for the project came from a study published in 2013 on the subject of Open Data by the Fraunhofer Focus Institute:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Open administrative data [&amp;hellip;] in principle holds the chance of a new educational design (Open Educational Resources)&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;In order to pursue this thesis, a cooperation between the administration of the city of Moers, the Gymnasium Adolfinum, the Rhein-Waal University of Applied Sciences and the Open Knowledge Lab Niederrhein was formed. The findings and experiences developed from this cooperation were collected in DatenmachenSchule.de and processed in the form of a guide and the corresponding website. Based on feedback from the project, the election results portal and the OffenerHaushalt tool were technically and visually redesigned and loaded with new data in order to facilitate their subsequent use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Datenschule</title>
+      <link>https://okfn.de/en/projekte/datenschule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/projekte/datenschule/</guid>
+      <description>&lt;p&gt;The Data School is a nationwide educational program on the subject of data and technologies. We mainly target non-profit organisations that work with data, or alternatively want to deepen their existing data knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.&lt;/p&gt;
+&lt;p&gt;We want non-profit organisations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;to encourage targeted use of data and technology in their work.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -393,15 +402,6 @@ Picture: &lt;a href=&#34;https://www.flickr.com/photos/max-stolbinsky/3617415945
       
       <guid>https://okfn.de/en/projekte/oparl/</guid>
       <description>&lt;p&gt;Many municipalities, counties and regions in Germany have council information systems at their disposal in order to organise committee work in local councils and at district assemblies. A lot of information is hidden in these council information systems of German municipalities. The entire municipal policy is documented - decisions that have a direct impact on the inhabitants of the city. Nonetheless, to involve citizens and their creative potential in the city&amp;rsquo;s politics, it is important to provide information.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Open administrative data</title>
-      <link>https://okfn.de/en/projekte/opendata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/en/projekte/opendata/</guid>
-      <description>&lt;p&gt;Public authorities from federal to local level produce and publish thousands of documents every day. In the context of the omnipresent digitalisation of public services, many goals have been set in recent years concerning the use of open data standards. However, the implementation fell short of the target so far. There is a great need for public authorities to build up knowledge and competences in the field of data provision. With this project the OKF wants to put its focus again on one of its core topics: contributing to the social discourse by offering our expertise in the field of open data.&lt;/p&gt;</description>
     </item>
     
     <item>

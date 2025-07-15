@@ -39,6 +39,16 @@
   </entry>
   
   <entry>
+    <title>Prototype Fund</title>
+    <link rel="alternate" href="https://okfn.de/en/projekte/prototypefund/"/>
+    <id>https://okfn.de/en/projekte/prototypefund/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;With the Prototype Fund, we support socially relevant software projects and increase their sustainable impact through open source by principle. In short: We fund open source software made by society and for society.
+We make digital social innovation possible with developers who bring a wide range of skills to technology design and are given the space to develop their good ideas. You will receive funding of up to €95,000 over six months or €158,000 over ten months for your project and team. The fund supports software developers, hackers, and creative minds in turning sketches for tools and applications into reality. The Prototype Fund has redefinied its funding priorities since 2025 and now focuses on the areas of data security and software infrastructure.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
     <title>Prototype Fund Hardware</title>
     <link rel="alternate" href="https://okfn.de/en/projekte/prototypefundhardware/"/>
     <id>https://okfn.de/en/projekte/prototypefundhardware/</id>
@@ -48,12 +58,12 @@
   </entry>
   
   <entry>
-    <title>Code for Germany</title>
-    <link rel="alternate" href="https://okfn.de/en/projekte/codeforde/"/>
-    <id>https://okfn.de/en/projekte/codeforde/</id>
+    <title>Open administrative data</title>
+    <link rel="alternate" href="https://okfn.de/en/projekte/opendata/"/>
+    <id>https://okfn.de/en/projekte/opendata/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.&lt;/p&gt;</summary>
+    <summary>&lt;p&gt;Public authorities from federal to local level produce and publish thousands of documents every day. In the context of the omnipresent digitalisation of public services, many goals have been set in recent years concerning the use of open data standards. However, the implementation fell short of the target so far. There is a great need for public authorities to build up knowledge and competences in the field of data provision. With this project the OKF wants to put its focus again on one of its core topics: contributing to the social discourse by offering our expertise in the field of open data.&lt;/p&gt;</summary>
   </entry>
   
   <entry>
@@ -66,26 +76,12 @@
   </entry>
   
   <entry>
-    <title>Prototype Fund</title>
-    <link rel="alternate" href="https://okfn.de/en/projekte/prototypefund/"/>
-    <id>https://okfn.de/en/projekte/prototypefund/</id>
+    <title>Code for Germany</title>
+    <link rel="alternate" href="https://okfn.de/en/projekte/codeforde/"/>
+    <id>https://okfn.de/en/projekte/codeforde/</id>
     <published>0001-01-01T00:00:00+0000</published>
     <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>&lt;p&gt;With the Prototype Fund, we support socially relevant software projects and increase their sustainable impact through open source by principle. In short: We fund open source software made by society and for society.
-We make digital social innovation possible with developers who bring a wide range of skills to technology design and are given the space to develop their good ideas. You will receive funding of up to €95,000 over six months or €158,000 over ten months for your project and team. The fund supports software developers, hackers, and creative minds in turning sketches for tools and applications into reality. The Prototype Fund has redefinied its funding priorities since 2025 and now focuses on the areas of data security and software infrastructure.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Datenschule</title>
-    <link rel="alternate" href="https://okfn.de/en/projekte/datenschule/"/>
-    <id>https://okfn.de/en/projekte/datenschule/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>&lt;p&gt;The Data School is a nationwide educational program on the subject of data and technologies. We mainly target non-profit organisations that work with data, or alternatively want to deepen their existing data knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.&lt;/p&gt;
-&lt;p&gt;We want non-profit organisations:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;to encourage targeted use of data and technology in their work.&lt;/p&gt;</summary>
+    <summary>&lt;p&gt;Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.&lt;/p&gt;</summary>
   </entry>
   
   <entry>

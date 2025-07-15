@@ -86,6 +86,18 @@
                 href="https://okfn.de/en/themen/civic_tech/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/projekte/prototypefund/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/prototypefund/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/prototypefund/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/prototypefundhardware/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,6 +132,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/finanzierung/ausgaben/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/projekte/opendata/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/opendata/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/opendata/"
                 />
   </url><url>
     <loc>https://okfn.de/en/themen/offenes_regierungshandeln/</loc>
@@ -170,18 +194,6 @@
                 href="https://okfn.de/en/profil/muendigkeit/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/projekte/codeforde/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/codeforde/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/codeforde/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/projekte/fragdenstaat/</loc>
     <xhtml:link
                 rel="alternate"
@@ -206,28 +218,16 @@
                 href="https://okfn.de/en/themen/bildung/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/projekte/prototypefund/</loc>
+    <loc>https://okfn.de/en/projekte/codeforde/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/projekte/prototypefund/"
+                href="https://okfn.de/projekte/codeforde/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/projekte/prototypefund/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/projekte/datenschule/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/datenschule/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/datenschule/"
+                href="https://okfn.de/en/projekte/codeforde/"
                 />
   </url><url>
     <loc>https://okfn.de/en/themen/informationsfreiheit/</loc>
@@ -734,6 +734,18 @@
                 href="https://okfn.de/en/projekte/datenmachenschule/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/projekte/datenschule/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/projekte/datenschule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/projekte/datenschule/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/demokratielabore/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1020,18 +1032,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/oparl/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/projekte/opendata/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/projekte/opendata/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/projekte/opendata/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/openbudgets/</loc>

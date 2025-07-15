@@ -96,6 +96,20 @@
  
    ,
      {
+       "url": "https://okfn.de/en/projekte/prototypefund/",
+       "title": "Prototype Fund",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/PrototypeFund_Projektuebersicht_bigTile.png",
+       
+       
+       "content": ["With","the","Prototype","Fund,","we","support","socially","relevant","software","projects","and","increase","their","sustainable","impact","through","open","source","by","principle.","In","short:","We","fund","open","source","software","made","by","society","and","for","society.","We","make","digital","social","innovation","possible","with","developers","who","bring","a","wide","range","of","skills","to","technology","design","and","are","given","the","space","to","develop","their","good","ideas.","You","will","receive","funding","of","up","to","€95,000","over","six","months","or","€158,000","over","ten","months","for","your","project","and","team.","The","fund","supports","software","developers,","hackers,","and","creative","minds","in","turning","sketches","for","tools","and","applications","into","reality.","The","Prototype","Fund","has","redefinied","its","funding","priorities","since","2025","and","now","focuses","on","the","areas","of","data","security","and","software","infrastructure.","In","addition","to","financial","support,","we","offer","coaching","and","exchange","with","our","extensive","and","diverse","network","of","coders,","other","practitioners,","and","potential","users","on","the","way","to","prototyping.","Teams","based","in","other","EU","countries","can","now","also","apply","for","funding—the","only","important","requirement","is","that","the","(to","be","founded)","GbR","is","based","in","Germany.","The","application","process","is","kept","as","unbureaucratic","as","possible","and","tailored","to","the","needs","of","target","groups","that","are","not","used","to","receiving","funding.","Since","2016,","we","have","already","been","able","to","spend","approximately","€16.6","million","on","almost","400","projects","(as","of","January","2025).","The","program","will","run","until","2029."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/en/projekte/prototypefundhardware/",
        "title": "Prototype Fund Hardware",
        "section": "projekte",
@@ -129,6 +143,20 @@
        
        
        "content": ["Personnel","costs","are","by","far","the","largest","expense","item.","Our","excellent","team","is","our","most","important","resource.","In","addition,","material","costs","as","well","as","tax","payments","are","incurred","every","year.","Most","of","the","expenditure","is","project-related.","The","administrative","costs","include,","for","example,","costs","for","rent,","finances,","insurances","and","technical","infrastructure."]
+       
+     }
+ 
+   ,
+     {
+       "url": "https://okfn.de/en/projekte/opendata/",
+       "title": "Open administrative data",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/opendata_tile.png",
+       
+       
+       "content": ["Public","authorities","from","federal","to","local","level","produce","and","publish","thousands","of","documents","every","day.","In","the","context","of","the","omnipresent","digitalisation","of","public","services,","many","goals","have","been","set","in","recent","years","concerning","the","use","of","open","data","standards.","However,","the","implementation","fell","short","of","the","target","so","far.","There","is","a","great","need","for","public","authorities","to","build","up","knowledge","and","competences","in","the","field","of","data","provision.","With","this","project","the","OKF","wants","to","put","its","focus","again","on","one","of","its","core","topics:","contributing","to","the","social","discourse","by","offering","our","expertise","in","the","field","of","open","data.","The","goal","of","open","administrative","data","has","several","levels:","In","addition","to","making","government","action","more","transparent","and","promoting","democratic","participation","of","several","stakeholders,","we","also","want","to","emphasize","on","the","benefits","of","open","data","standards","for","internal","administrative","processes","in","dialogue","with","public","authorities.","In","cooperation","with","our","community,","we","want","to","bundle","know-how","and","implementation","strategies","and","make","them","freely","available.","As","a","documentation","basis","for","the","coming","years","of","the","project,","we","have","developed","the","Open","Data","Knowledge","Hub,","where","we","present","our","own","use","cases","and","also","refer","to","existing","materials","from","other","players","in","the","open","data","universe.","In","2024,","we","published","the","first","Open","Data","Ranking.","With","the","ranking,","we","want","to","put","the","discussion","about","open","data","in","Germany","on","a","broader","footing","and","provide","an","overview","of","the","status","quo","of","open","data","in","Germany.","Further","updates","of","the","Open","Data","Ranking","are","planned","for","the","coming","years.","Screenshot","Open","Data","Knowledge","Hub","Map","of","the","Open-Data-Ranking","2025"]
        
      }
  
@@ -182,20 +210,6 @@
  
    ,
      {
-       "url": "https://okfn.de/en/projekte/codeforde/",
-       "title": "Code for Germany",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/codefor_BigTile.gif",
-       
-       
-       "content": ["Code","For","Germany","is","a","network","of","groups","of","volunteers","(labs)","who","use","their","skills","to","shape","their","cities","and","social","life.","They","advocate","more","transparency,","open","data","and","participation","in","their","cities.","In","particular,","they","mediate","between","civil","society,","administration","and","politics,","and","use","their","skills","to","improve","communication","between","them.","This","provides","the","necessary","impetus","so","that","as","many","people","as","possible","can","benefit","from","open","and","free","digitisation.","Foto:","Foto:","Some","cities","already","have","Open","Data","programs","and","make","data","sets","available","openly,","but","in","many","cases","there","is","still","a","lack","of","applications","and","examples","that","demonstrate","the","practical","use","of","open","data","-","this","is","exactly","where","Code","for","Germany","comes","into","play.","In","addition","to","software","projects,","\u0026ldquo;Do","It","Yourself\u0026rdquo;","hardware","projects","such","as","the","network","of","fine","dust","sensors","or","the","Long","Range","Wide","Area","Network","(LoRaWan)","are","also","being","worked","on.","The","program","started","in","February","2014","with","the","foundation","of","Open","Knowledge","Labs","in","8","cities.","In","the","meantime,","the","network","has","grown","to","around","20","labs","and","comprises","a","community","of","over","500","volunteers.","Funding","and","support:","In","2022","the","project","\u0026lsquo;Code","for","Germany","-","Digitale","Nachhaltigkeit","stärken\u0026rsquo;","(\u0026lsquo;Code","for","Germany","-","strengthen","digital","sustainability\u0026rsquo;)","is","supported","by","the","Deutsche","Postcode","Lotterie.","Processes","concerning","our","community","measures","in","2022","are","funded","by","Fonds","Soziokultur","aus","Mitteln","der","Beauftragten","der","Bundesregierung","für","Kultur","und","Medien","im","Rahmen","von","NEUSTART","KULTUR."]
-       
-     }
- 
-   ,
-     {
        "url": "https://okfn.de/en/projekte/fragdenstaat/",
        "title": "FragDenStaat",
        "section": "projekte",
@@ -222,29 +236,15 @@
  
    ,
      {
-       "url": "https://okfn.de/en/projekte/prototypefund/",
-       "title": "Prototype Fund",
+       "url": "https://okfn.de/en/projekte/codeforde/",
+       "title": "Code for Germany",
        "section": "projekte",
        "date": "0001-01-01 00:00:00 +0000 UTC",
        
-       "img": "projects/PrototypeFund_Projektuebersicht_bigTile.png",
+       "img": "projects/codefor_BigTile.gif",
        
        
-       "content": ["With","the","Prototype","Fund,","we","support","socially","relevant","software","projects","and","increase","their","sustainable","impact","through","open","source","by","principle.","In","short:","We","fund","open","source","software","made","by","society","and","for","society.","We","make","digital","social","innovation","possible","with","developers","who","bring","a","wide","range","of","skills","to","technology","design","and","are","given","the","space","to","develop","their","good","ideas.","You","will","receive","funding","of","up","to","€95,000","over","six","months","or","€158,000","over","ten","months","for","your","project","and","team.","The","fund","supports","software","developers,","hackers,","and","creative","minds","in","turning","sketches","for","tools","and","applications","into","reality.","The","Prototype","Fund","has","redefinied","its","funding","priorities","since","2025","and","now","focuses","on","the","areas","of","data","security","and","software","infrastructure.","In","addition","to","financial","support,","we","offer","coaching","and","exchange","with","our","extensive","and","diverse","network","of","coders,","other","practitioners,","and","potential","users","on","the","way","to","prototyping.","Teams","based","in","other","EU","countries","can","now","also","apply","for","funding—the","only","important","requirement","is","that","the","(to","be","founded)","GbR","is","based","in","Germany.","The","application","process","is","kept","as","unbureaucratic","as","possible","and","tailored","to","the","needs","of","target","groups","that","are","not","used","to","receiving","funding.","Since","2016,","we","have","already","been","able","to","spend","approximately","€16.6","million","on","almost","400","projects","(as","of","January","2025).","The","program","will","run","until","2029."]
-       
-     }
- 
-   ,
-     {
-       "url": "https://okfn.de/en/projekte/datenschule/",
-       "title": "Datenschule",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/Datenschule_Projektuebersicht_smallTile.png",
-       
-       
-       "content": ["The","Data","School","is","a","nationwide","educational","program","on","the","subject","of","data","and","technologies.","We","mainly","target","non-profit","organisations","that","work","with","data,","or","alternatively","want","to","deepen","their","existing","data","knowledge.","Within","a","cooperation","period","of","about","three","months,","we","developed","practice-oriented","workshops","and","individualized","technical","training","courses","with","our","partners","and","trainers","to","support","social","projects.","We","want","non-profit","organisations:","to","encourage","targeted","use","of","data","and","technology","in","their","work.","to","enable","digital","tools","and","data","as","an","additional","source","of","information","for","research,","project","and","organisational","development.","to","enable","people","to","participate","in","evidence-based","public","debates","with","data-backed","projects.","Foto:","Thomas","Nitz,","Demokratielabore","-","Data","Expedition,","CC-BY","4.0","Foto:","Thomas","Nitz,","Demokratielabore","-","Data","Expedition,","CC-BY","4.0","The","use","of","digital","technologies","for","innovative","and","modern","social","or","political","work","is","the","focus","of","this","project.","Instead","of","creating","new","tools","or","web","portals,","we","want","to","improve","the","access","of","existing","groups","to","these","technologies.","To","enforce","the","use","of","data-driven","tools","in","particular,","it","is","not","enough","to","provide","a","download","or","a","website.","Instead,","institutional","users","also","need","the","technical","and","strategic","competence","to","select","and","use","the","right","analysis","methods,","visualisation","and","communication","forms","for","their","own","work","and","to","integrate","them","into","their","organisation","in","the","long","term."]
+       "content": ["Code","For","Germany","is","a","network","of","groups","of","volunteers","(labs)","who","use","their","skills","to","shape","their","cities","and","social","life.","They","advocate","more","transparency,","open","data","and","participation","in","their","cities.","In","particular,","they","mediate","between","civil","society,","administration","and","politics,","and","use","their","skills","to","improve","communication","between","them.","This","provides","the","necessary","impetus","so","that","as","many","people","as","possible","can","benefit","from","open","and","free","digitisation.","Foto:","Foto:","Some","cities","already","have","Open","Data","programs","and","make","data","sets","available","openly,","but","in","many","cases","there","is","still","a","lack","of","applications","and","examples","that","demonstrate","the","practical","use","of","open","data","-","this","is","exactly","where","Code","for","Germany","comes","into","play.","In","addition","to","software","projects,","\u0026ldquo;Do","It","Yourself\u0026rdquo;","hardware","projects","such","as","the","network","of","fine","dust","sensors","or","the","Long","Range","Wide","Area","Network","(LoRaWan)","are","also","being","worked","on.","The","program","started","in","February","2014","with","the","foundation","of","Open","Knowledge","Labs","in","8","cities.","In","the","meantime,","the","network","has","grown","to","around","20","labs","and","comprises","a","community","of","over","500","volunteers.","Funding","and","support:","In","2022","the","project","\u0026lsquo;Code","for","Germany","-","Digitale","Nachhaltigkeit","stärken\u0026rsquo;","(\u0026lsquo;Code","for","Germany","-","strengthen","digital","sustainability\u0026rsquo;)","is","supported","by","the","Deutsche","Postcode","Lotterie.","Processes","concerning","our","community","measures","in","2022","are","funded","by","Fonds","Soziokultur","aus","Mitteln","der","Beauftragten","der","Bundesregierung","für","Kultur","und","Medien","im","Rahmen","von","NEUSTART","KULTUR."]
        
      }
  
@@ -606,6 +606,20 @@
  
    ,
      {
+       "url": "https://okfn.de/en/projekte/datenschule/",
+       "title": "Datenschule",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/Datenschule_Projektuebersicht_smallTile.png",
+       
+       
+       "content": ["The","Data","School","is","a","nationwide","educational","program","on","the","subject","of","data","and","technologies.","We","mainly","target","non-profit","organisations","that","work","with","data,","or","alternatively","want","to","deepen","their","existing","data","knowledge.","Within","a","cooperation","period","of","about","three","months,","we","developed","practice-oriented","workshops","and","individualized","technical","training","courses","with","our","partners","and","trainers","to","support","social","projects.","We","want","non-profit","organisations:","to","encourage","targeted","use","of","data","and","technology","in","their","work.","to","enable","digital","tools","and","data","as","an","additional","source","of","information","for","research,","project","and","organisational","development.","to","enable","people","to","participate","in","evidence-based","public","debates","with","data-backed","projects.","Foto:","Thomas","Nitz,","Demokratielabore","-","Data","Expedition,","CC-BY","4.0","Foto:","Thomas","Nitz,","Demokratielabore","-","Data","Expedition,","CC-BY","4.0","The","use","of","digital","technologies","for","innovative","and","modern","social","or","political","work","is","the","focus","of","this","project.","Instead","of","creating","new","tools","or","web","portals,","we","want","to","improve","the","access","of","existing","groups","to","these","technologies.","To","enforce","the","use","of","data-driven","tools","in","particular,","it","is","not","enough","to","provide","a","download","or","a","website.","Instead,","institutional","users","also","need","the","technical","and","strategic","competence","to","select","and","use","the","right","analysis","methods,","visualisation","and","communication","forms","for","their","own","work","and","to","integrate","them","into","their","organisation","in","the","long","term."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/en/projekte/demokratielabore/",
        "title": "Demokratielabore",
        "section": "projekte",
@@ -889,20 +903,6 @@
        
        
        "content": ["Many","municipalities,","counties","and","regions","in","Germany","have","council","information","systems","at","their","disposal","in","order","to","organise","committee","work","in","local","councils","and","at","district","assemblies.","A","lot","of","information","is","hidden","in","these","council","information","systems","of","German","municipalities.","The","entire","municipal","policy","is","documented","-","decisions","that","have","a","direct","impact","on","the","inhabitants","of","the","city.","Nonetheless,","to","involve","citizens","and","their","creative","potential","in","the","city\u0026rsquo;s","politics,","it","is","important","to","provide","information.","OParl","is","committed","to","creating","uniform","access","to","these","information","systems","in","order","to","develop","a","classic","open","data","interface.","In","this","way,","the","entire","potential","of","the","Open","Data","Community","can","be","utilised.","Developers","and","designers","are","given","the","opportunity","to","present","new","information","and","better","involve","citizens","in","decision-making","processes.","Transparency","does","not","only","benefit","interested","citizens:","other","data","recipients","would","be","journalists,","bloggers,","scientists","and","more.","And","last","but","not","least,","OParl","is","a","form","of","digital","economic","development.","A","number","of","council","proposals","in","various","cities","already","show","that","OParl","is","an","important","part","of","an","open","data","and","e-government","strategy.","Projects","such","as","Politik","bei","Uns","and","Frankfurt","Gestalten","or","the","work","of","Abgeordnetenwatch.de","show","the","increasing","interest","and","the","possibilities","in","the","use","of","council","information","systems."]
-       
-     }
- 
-   ,
-     {
-       "url": "https://okfn.de/en/projekte/opendata/",
-       "title": "Open administrative data",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/opendata_tile.png",
-       
-       
-       "content": ["Public","authorities","from","federal","to","local","level","produce","and","publish","thousands","of","documents","every","day.","In","the","context","of","the","omnipresent","digitalisation","of","public","services,","many","goals","have","been","set","in","recent","years","concerning","the","use","of","open","data","standards.","However,","the","implementation","fell","short","of","the","target","so","far.","There","is","a","great","need","for","public","authorities","to","build","up","knowledge","and","competences","in","the","field","of","data","provision.","With","this","project","the","OKF","wants","to","put","its","focus","again","on","one","of","its","core","topics:","contributing","to","the","social","discourse","by","offering","our","expertise","in","the","field","of","open","data.","The","goal","of","open","administrative","data","has","several","levels:","In","addition","to","making","government","action","more","transparent","and","promoting","democratic","participation","of","several","stakeholders,","we","also","want","to","emphasize","on","the","benefits","of","open","data","standards","for","internal","administrative","processes","in","dialogue","with","public","authorities.","In","cooperation","with","our","community,","we","want","to","bundle","know-how","and","implementation","strategies","and","make","them","freely","available.","As","a","documentation","basis","for","the","coming","years","of","the","project,","we","have","developed","the","Open","Data","Knowledge","Hub,","where","we","present","our","own","use","cases","and","also","refer","to","existing","materials","from","other","players","in","the","open","data","universe.","In","2024,","we","published","the","first","Open","Data","Ranking.","With","the","ranking,","we","want","to","put","the","discussion","about","open","data","in","Germany","on","a","broader","footing","and","provide","an","overview","of","the","status","quo","of","open","data","in","Germany.","Further","updates","of","the","Open","Data","Ranking","are","planned","for","the","coming","years.","Screenshot","Open","Data","Knowledge","Hub","Map","of","the","Open-Data-Ranking","2025"]
        
      }
  

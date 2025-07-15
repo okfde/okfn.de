@@ -29,12 +29,13 @@
     </item>
     
     <item>
-      <title>Code for Germany</title>
-      <link>https://okfn.de/projekte/codeforde/</link>
+      <title>Prototype Fund</title>
+      <link>https://okfn.de/projekte/prototypefund/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://okfn.de/projekte/codeforde/</guid>
-      <description>&lt;p&gt;Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.&lt;/p&gt;</description>
+      <guid>https://okfn.de/projekte/prototypefund/</guid>
+      <description>&lt;p&gt;Mit dem Prototype Fund unterstützen wir gesellschaftlich relevante Software-Projekte und erhöhen ihre nachhaltige Wirkung durch Open Source aus Prinzip. Kurz: &lt;strong&gt;Wir fördern Open-Source-Software aus der Gesellschaft und für die Gesellschaft.&lt;/strong&gt;
+Wir machen digital-soziale Innovation möglich; mit Entwickler*innen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und den Raum bekommen, ihre guten Ideen weiterzuentwickeln. Ihr erhaltet dabei eine Förderung von bis zu 95.000 € in sechs Monaten oder 158.000 € in zehn Monaten für euer Projekt und Team. Der Fördertopf unterstützt Softwareentwickler*innen, Hacker*innen und Kreative dabei, Skizzen für Tools und Anwendungen umzusetzen. Der Prototype Fund richtet die Förderschwerpunkte seit 2025 neu aus und konzentriert sich nun auf die Bereiche Datensicherheit und Software-Infrastruktur.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -47,6 +48,15 @@
     </item>
     
     <item>
+      <title>Offene Verwaltungsdaten</title>
+      <link>https://okfn.de/projekte/opendata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/opendata/</guid>
+      <description>&lt;p&gt;Behörden von Bundes- bis Kommunalebene produzieren und veröffentlichen jeden Tag tausende Dokumente. Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen wurden in den letzten Jahren zum Thema Open Data häufig große Ziele formuliert. Und doch verläuft die Umsetzung bisher nur schleppend. Es besteht ein hoher Nachholbedarf bei Behörden, Wissen und Kompetenzen im Bereich der Datenbereitstellung aufzubauen. Wir möchten uns mit diesem Kernthema der OKF wieder verstärkt in den gesellschaftlichen Diskurs einbringen und unsere Expertise im Bereich Open Data zur Verfügung stellen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>FragDenStaat</title>
       <link>https://okfn.de/projekte/fragdenstaat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,30 +66,12 @@
     </item>
     
     <item>
-      <title>Prototype Fund</title>
-      <link>https://okfn.de/projekte/prototypefund/</link>
+      <title>Code for Germany</title>
+      <link>https://okfn.de/projekte/codeforde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://okfn.de/projekte/prototypefund/</guid>
-      <description>&lt;p&gt;Mit dem Prototype Fund unterstützen wir gesellschaftlich relevante Software-Projekte und erhöhen ihre nachhaltige Wirkung durch Open Source aus Prinzip. Kurz: &lt;strong&gt;Wir fördern Open-Source-Software aus der Gesellschaft und für die Gesellschaft.&lt;/strong&gt;
-Wir machen digital-soziale Innovation möglich; mit Entwickler*innen, die ganz unterschiedliche Kompetenzen in die Technikgestaltung einbringen und den Raum bekommen, ihre guten Ideen weiterzuentwickeln. Ihr erhaltet dabei eine Förderung von bis zu 95.000 € in sechs Monaten oder 158.000 € in zehn Monaten für euer Projekt und Team. Der Fördertopf unterstützt Softwareentwickler*innen, Hacker*innen und Kreative dabei, Skizzen für Tools und Anwendungen umzusetzen. Der Prototype Fund richtet die Förderschwerpunkte seit 2025 neu aus und konzentriert sich nun auf die Bereiche Datensicherheit und Software-Infrastruktur.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Datenschule</title>
-      <link>https://okfn.de/projekte/datenschule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/projekte/datenschule/</guid>
-      <description>&lt;p&gt;Die Datenschule ist ein deutschlandweites Bildungsprogramm rund um das Thema Daten und Technologien. Wir richten uns an gemeinnützige Organisationen, die mit Daten arbeiten oder bereits vorhandene Kenntnisse vertiefen möchten. Innerhalb einer Zusammenarbeit von ca. drei Monaten entwickeln wir mit unseren Partnern und Trainerinnen praxis-orientierte Workshops und individualisierte Technik-Trainings, um gesellschaftliche Projekte zu unterstützen.
-Wir möchten gemeinnützige Organisationen:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;dazu ermutigen, gezielt Daten und Technologien in ihrer Arbeit einzusetzen.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;dazu befähigen, digitale Tools und Daten als eine weitere Informationsquelle bei der Recherche, Projekt
-und Organisationsentwicklung aktiv zu nutzen.&lt;/p&gt;</description>
+      <guid>https://okfn.de/projekte/codeforde/</guid>
+      <description>&lt;p&gt;Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -193,6 +185,23 @@ Ziel ist es, die zunehmend mit digitalen Ressourcen und Methoden arbeitenden Gei
 Die Initiale Idee für das Projekt lieferte eine 2013 veröffentlichte Studie zum Thema Open Data des Fraunhofer Fokus Instituts, die unter anderem besagte:&lt;/p&gt;
 &lt;p&gt;„Offene Verwaltungsdaten bergen [&amp;hellip;] prinzipiell die Chance einer neuen Bildungsgestaltung (Open Educational Resources).“&lt;/p&gt;
 &lt;p&gt;Um der These nachzugehen, formierte sich eine Kooperation zwischen der Verwaltung der Stadt Moers, dem Gymnasium Adolfinum, der Hochschule Rhein-Waal und dem Open Knowledge Lab Niederrhein. Die aus dieser Zusammenarbeit entwickelten Erkenntnisse und Erfahrungen wurden in DatenmachenSchule.de gesammelt und in Form eines Leitfadens und der dazugehörigen Webseite aufgearbeitet. Dabei wurde das Wahlergebnisportal und das Tool OffenerHaushalt, basierend auf Feedback aus dem Projekt, technisch und visuell neu aufgesetzt und mit neuen Daten bespielt, um deren Nachnutzung zu begünstigen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Datenschule</title>
+      <link>https://okfn.de/projekte/datenschule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/projekte/datenschule/</guid>
+      <description>&lt;p&gt;Die Datenschule ist ein deutschlandweites Bildungsprogramm rund um das Thema Daten und Technologien. Wir richten uns an gemeinnützige Organisationen, die mit Daten arbeiten oder bereits vorhandene Kenntnisse vertiefen möchten. Innerhalb einer Zusammenarbeit von ca. drei Monaten entwickeln wir mit unseren Partnern und Trainerinnen praxis-orientierte Workshops und individualisierte Technik-Trainings, um gesellschaftliche Projekte zu unterstützen.
+Wir möchten gemeinnützige Organisationen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;dazu ermutigen, gezielt Daten und Technologien in ihrer Arbeit einzusetzen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;dazu befähigen, digitale Tools und Daten als eine weitere Informationsquelle bei der Recherche, Projekt
+und Organisationsentwicklung aktiv zu nutzen.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -359,15 +368,6 @@ Jede nicht verschlüsselte Übertragung von Daten kann im Internet abgefangen un
       <guid>https://okfn.de/projekte/offenedaten/</guid>
       <description>&lt;p&gt;Das Ziel von war es, den Prototyp eines Datenportals für offen zugängliche Verwaltungsdaten zu schaffen, das es bis dahin in Deutschland noch nicht in der Form gab. Offenedaten.de wurde als Datenkatalog für den Apps 4 Deutschland-Wettbewerb genutzt, der 2011 stattfand. Bei dem Programmierwettbewerb wurden aus 320 Datensätzen und 112 Ideen 77 innovative Anwendungen für die Bürgerinnen und Bürger programmiert.&lt;/p&gt;
 &lt;p&gt;Ab 2014 enthält die &lt;a href=&#34;http://beta.offenedaten.de&#34; target=&#34;_blank&#34;&gt;Beta-Version des Portals&lt;/a&gt; auch die Gesamtmetadaten des Projekts &lt;a href=&#34;http://www.open-data-map.de&#34; target=&#34;_blank&#34;&gt;Open Data Monitor&lt;/a&gt;. Es zielte darauf ab, mit vertretbarem Aufwand die Angebote offener Daten im öffentlichen Sektor Deutschlands möglichst umfassenden zu erfassen, nach Themengebieten aufzubereiten und nutzergerecht und geographisch durchsuchbar zu machen. (= 11.191 Gemeinden, mehrere Dutzend Landesbehörden pro Bundesland, Bundesbehörden und öffentliche Unternehmen auf allen drei Ebenen)&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Offene Verwaltungsdaten</title>
-      <link>https://okfn.de/projekte/opendata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/projekte/opendata/</guid>
-      <description>&lt;p&gt;Behörden von Bundes- bis Kommunalebene produzieren und veröffentlichen jeden Tag tausende Dokumente. Im Rahmen der allgegenwärtigen Digitalisierung der Verwaltungen wurden in den letzten Jahren zum Thema Open Data häufig große Ziele formuliert. Und doch verläuft die Umsetzung bisher nur schleppend. Es besteht ein hoher Nachholbedarf bei Behörden, Wissen und Kompetenzen im Bereich der Datenbereitstellung aufzubauen. Wir möchten uns mit diesem Kernthema der OKF wieder verstärkt in den gesellschaftlichen Diskurs einbringen und unsere Expertise im Bereich Open Data zur Verfügung stellen.&lt;/p&gt;</description>
     </item>
     
     <item>
