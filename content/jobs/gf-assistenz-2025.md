@@ -57,6 +57,10 @@ Schicke uns deine Bewerbungsunterlagen (Anschreiben, Lebenslauf; Nachweise und Z
 **Please don’t:** Bitte schicke uns in deiner Bewerbung kein Foto mit und mache keine Angaben zu deinem Alter oder deinem Familienstand.<br> <br>
 **Please do:** Bitte schreibe uns deine Motivation, welche Erfahrungen du mitbringst, wann du frühestens anfangen könntest, welche Vertragsart du möchtest und wie viele Arbeitsstunden pro Woche du dir vorstellst. 
 
-Wir sichten alle Bewerbungen in einem kleinen Berwerbungskommittee (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen ein, vor Ort in Berlin oder online (zweite Runde). 
+Wir sichten alle Bewerbungen in einem kleinen Berwerbungskommittee (erste Runde). Danach laden wir einige von euch zum persönlichen Kennenlernen ein, vor Ort in Berlin oder online (zweite Runde).
+
+## Bewerbungsfrist
+
+Bewerbungsfrist ist der **15. August 2025**. Wir behalten uns vor, bereits vor Ablauf der Frist Gespräche zu führen, wenn uns Bewerbungen besonders überzeugen.
 
 Wir freuen uns auf deine Bewerbung!
