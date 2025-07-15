@@ -6,4 +6,11 @@ donate_title: Unterstütze jetzt offenes Wissen!
 donate_text: Unsere Arbeit ist unabhängig, überparteilich, interdisziplinär und nicht kommerziell. Mit einer Spende unterstützt Du uns und unsere Community.
 meta: Open Knowledge Foundation Deutschland e. V.
 img_header: /okf/social-og/start-social-og.png
+aliases:
+  - /themen
+  - /themen/open_data
+  - /themen/bildung
+  - /themen/civic_tech
+  - /themen/informationsfreiheit
+  - /themen/offenes_regierungshandeln
 ---
