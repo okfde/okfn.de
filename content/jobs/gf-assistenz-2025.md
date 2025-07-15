@@ -44,7 +44,7 @@ Uns ist wichtig, dass du mindestens zwei Tage pro Woche im Büro arbeitest (bzw.
 * Die Möglichkeit, von Zuhause zu arbeiten (für diese Stelle wünschen wir uns mindestens zwei Tage/Woche im Büro (bzw. je nach Stellenumfang mindestens die Hälfte deiner Arbeitszeit).
 * 30 Urlaubstage (bei 40h/Woche) und zusätzlich arbeitsfrei am 24. und 31. Dezember
 * Zuschuss zum Deutschland-Ticket /Ticket für den öffentlichen Nahverkehr (25 €/Monat)
-* Ein transparentes Gehaltssystem mit festgelegter Vergütung je nach Vertragsart: ENTWEDER: Anstellung 20-28h/Woche, angelehnt an TVL E12/S1. Rechenbeispiel: Die Gehaltsstufe TVL E12/S1 bedeutet mit Stand Juli 2025 ein Arbeitnehmer*innenbrutto von 2.096,74 € für 20h/Woche (50%) bzw. 2.935,44 € für 28h/Woche (70%). Mit diesem Gehaltsrechner kannst du individuell berechnen. ODER studentische Hilfskraft mit Gehalt TV Stud III Berlin + 10%, das ergibt bei 19h/Woche ein ein Arbeitnehmer*innenbrutto von 1.498,08 € ODER Minijob: maximal 556 € im Monat für 8,5 h/Woche 
+* Ein transparentes Gehaltssystem mit festgelegter Vergütung je nach Vertragsart: ENTWEDER: Anstellung 20-28h/Woche, angelehnt an TVL E12/S1. Rechenbeispiel: Die Gehaltsstufe TVL E12/S1 bedeutet mit Stand Juli 2025 ein Arbeitnehmer:innenbrutto von 2.096,74 € für 20h/Woche (50%) bzw. 2.935,44 € für 28h/Woche (70%). Mit diesem Gehaltsrechner kannst du individuell berechnen. ODER studentische Hilfskraft mit Gehalt TV Stud III Berlin + 10%, das ergibt bei 19h/Woche ein ein Arbeitnehmer*innenbrutto von 1.498,08 € ODER Minijob: maximal 556 € im Monat für 8,5 h/Woche 
 *	Wenn sich die Gehälter in den TVL-Stufen jährlich durch Tarifverhandlungen erhöhen, heben wir auch die Gehälter im Team an. 
 *	Die Stelle ist eine Elternzeitvertretung, befristet auf ein Jahr.
 
