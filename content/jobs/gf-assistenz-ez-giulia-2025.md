@@ -2,7 +2,7 @@
 authors:
 - Sonja Fischbauer
 date: 2025-07-15
-image: static/files/jobs/gf-assistenz.jpg
+image:
   src: static/files/jobs/gf-assistenz.jpg
   title: Veraltung, Personal und Office bei der OKF
   license: CC BY SA 4.0
