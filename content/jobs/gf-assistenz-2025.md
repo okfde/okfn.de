@@ -61,6 +61,4 @@ Wir sichten alle Bewerbungen in einem kleinen Berwerbungskommittee (erste Runde)
 
 ## Bewerbungsfrist
 
-Bewerbungsfrist ist der **15. August 2025**. Wir behalten uns vor, bereits vor Ablauf der Frist Gespräche zu führen, wenn uns Bewerbungen besonders überzeugen.
-
-Wir freuen uns auf deine Bewerbung!
+Bewerbungsfrist ist der **15. August 2025**. Wir behalten uns vor, bereits vor Ablauf der Frist Gespräche zu führen, wenn uns Bewerbungen besonders überzeugen. Wir freuen uns auf deine Bewerbung!
