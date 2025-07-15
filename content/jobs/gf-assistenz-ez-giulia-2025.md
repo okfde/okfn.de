@@ -2,11 +2,11 @@
 authors:
 - Sonja Fischbauer
 date: 2025-07-15
-image:
-  src:
-  title: 
-  license: 
-  license_url: 
+image: static/files/jobs/gf-assistenz.jpg
+  src: static/files/jobs/gf-assistenz.jpg
+  title: Veraltung, Personal und Office bei der OKF
+  license: CC BY SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
 title: Die OKF sucht eine Assistenz für Verwaltung, Personal und Office in Teilzeit, stud. Hilfskraft oder Minijob, ab sofort, 1 Jahr befristet (Elternzeitvertretung)
 draft: 'true'
 ---
