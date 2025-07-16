@@ -23,7 +23,6 @@ contact:
   mail: info@edulabs.de
 
 subtitle: Open education with digitally supported methods
-contact_person: maximilianvoigt
 years: 2017 - today
 partners:
  - Mediale Pfade
