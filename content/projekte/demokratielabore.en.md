@@ -33,7 +33,6 @@ people:
       role: Studentische Mitarbeiterin
     - name: Sebastian Schröder
       role: Bufdi
-contact_person: lydiaboettcher
 years: 2017 - 2019
 financing:
   - BMFSFJ
