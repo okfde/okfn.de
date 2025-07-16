@@ -9,7 +9,6 @@ categories:
 img: projects/familienlabore.jpg
 img_header: projects/familienlabore_Header.jpg
 layout: project
-contact_person: matthiasloewe
 years: 2017
 financing:
   - BMFSFJ
@@ -18,7 +17,6 @@ people:
     role: Projektleitung
 contact:
   website: https://familienlabore.de
-
 ---
 The shaping of family life in Germany has changed enormously in recent decades. Patchwork families, multi-generation houses and households of single parents bring completely different requirements with them. One of the biggest challenges is the compatibility of family and career. Or to put it another way: is it really necessary to have to sit in a doctor's waiting room for three hours each time? We think that this can work better.
 
