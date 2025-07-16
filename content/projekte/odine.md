@@ -9,7 +9,6 @@ years: 2015 - 2016
 people:
   - name: Walter Palmetshofer
     role: Projektleitung
-contact_person: walterpalmetshofer
 financing:
   - EU Horizon 2020
 website: https://opendataincubator.eu/
