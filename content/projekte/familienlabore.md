@@ -9,16 +9,12 @@ categories:
 img: projects/familienlabore.jpg
 img_header: projects/familienlabore_Header.jpg
 layout: project
-contact_person: matthiasloewe
 years: 2017
 financing:
   - BMFSFJ
 people:
   - name: Matthias Löwe
     role: Projektleitung
-contact:
-  website: https://familienlabore.de
-
 ---
 Die Gestaltung von Familienleben in Deutschland hat sich in den letzten Jahrzehnten enorm gewandelt. Patchwork-Familien, Mehr-Generationen-Häuser und Haushalte von Alleinerziehenden bringen ganz unterschiedliche Anforderungen mit sich. Eine der größten Herausforderungen ist und bleibt die Vereinbarkeit von Familie und Beruf. Oder anders gefragt: Ist es wirklich notwendig, jedes Mal drei Stunden im Wartezimmer eines Arztes sitzen zu müssen? Wir denken: Das geht besser.
 
