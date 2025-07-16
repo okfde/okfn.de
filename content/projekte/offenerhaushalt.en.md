@@ -22,13 +22,6 @@ financing:
 contact:
   twitter: offenerhaushalt
   mailingliste: https://lists.okfn.org/mailman/listinfo/offener-haushalt
-
-cta: Mitmachen
-cta_text: |-
-    Help us to obtain, process and upload budget data from the administration. You can find more information on how to participate <a href="https://offenerhaushalt.de/page/mitmachen.html">here</a>.
-more_text: |-
-    Further information can be found on the <a href="https://offenerhaushalt.de">website</a> of Offener Haushalt.
-
 ---
 The central task of a parliament is to draw up and debate a budget. This essential political process decides which activities the state can carry out and which services cannot be provided. Budget data must be published by law. Unfortunately, budget data format is not standardised, which means that booklets with more than 1000 pages are printed and slowly deteriorate in the town hall or placed as PDF files on the corresponding websites. As a result, an essential aspect of political work remains closed off to many.
 
