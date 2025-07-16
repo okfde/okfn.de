@@ -19,7 +19,6 @@ financing:
   - DBU
   - BMUV
   - Spenden
-contact_person: 
 contact_alternate_email: 
 years: 2018 - 2022
 website: https://bits-und-baeume.org/de
