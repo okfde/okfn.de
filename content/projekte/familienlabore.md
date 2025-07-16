@@ -8,6 +8,7 @@ categories:
   - education
 img: projects/familienlabore.jpg
 img_header: projects/familienlabore_Header.jpg
+website: https://familienlabore.de
 layout: project
 years: 2017
 financing:
