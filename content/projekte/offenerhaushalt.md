@@ -17,7 +17,6 @@ tile: single
 layout: project
 website: https://offenerhaushalt.de
 years: 2011-heute
-contact_person: michaelpeters
 financing:
   - ehrenamtliches Projekt
 contact:
