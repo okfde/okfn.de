@@ -19,7 +19,6 @@ financing:
   - DBU
   - BMUV
   - Spenden
-contact_person: claudiajach
 contact_alternate_email: claudia.jach@okfn.de
 years: 2018 - 2022
 website: https://bits-und-baeume.org/de
