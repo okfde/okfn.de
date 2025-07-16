@@ -23,13 +23,6 @@ financing:
 contact:
   twitter: offenerhaushalt
   mailingliste: https://lists.okfn.org/mailman/listinfo/offener-haushalt
-
-cta: Mitmachen
-cta_text: |-
-    Hilf uns, Haushaltsdaten aus der Verwaltung zu besorgen, aufzubereiten und hochzuladen. Mehr Infos wie man mitmachen kann, gibt es <a href="https://offenerhaushalt.de/page/mitmachen.html">hier</a>.
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://offenerhaushalt.de">Website</a> von Offener Haushalt.
-
 ---
 Die zentrale Aufgabe eines Parlaments ist die Aufstellung und Debatte eines Haushalts. Dieser essentielle politische Prozess entscheidet, welche Tätigkeiten der Staat ausführen kann, und welche Leistungen nicht bereitgestellt werden können. Haushaltsdaten müssen per Gesetz veröffentlicht werden. Leider ist dabei das Format nicht vorgeschrieben, was dazu führt, dass Hefte mit über 1000 Seiten gedruckt werden und im Rathaus versauern oder als PDF-Dateien auf die Webseiten gestellt werden. Dadurch bleibt ein wesentlicher Aspekt der politischen Arbeit für viele verschlossen.
 
