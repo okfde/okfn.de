@@ -44,9 +44,6 @@ contact:
   instagram: demokratielabs
   facebook:
   mail: info@demokratielabore.de
-more_text: |-
-    Further information can be found on the <a href="https://demokratielabore.de">website</a> of the democracy laboratories.
-
 ---
 How can we empower children and young adults today to become the shapers of tomorrow's society? What makes young adults more visible as actors? What role do digital technologies play here? And how can participation succeed on both the digital and social levels?
 
