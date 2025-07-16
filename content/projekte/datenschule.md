@@ -20,9 +20,6 @@ website: https://datenschule.de
 contact:
   twitter: datenschule
   mail: info@datenschule.de
-
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://datenschule.de">Website</a> der Datenschule.
 ---
 Die Datenschule ist ein deutschlandweites Bildungsprogramm rund um das Thema Daten und Technologien. Wir richten uns an gemeinnützige Organisationen, die mit Daten arbeiten oder bereits vorhandene Kenntnisse vertiefen möchten. Innerhalb einer Zusammenarbeit von ca. drei Monaten entwickeln wir mit unseren Partnern und Trainerinnen praxis-orientierte Workshops und individualisierte Technik-Trainings, um gesellschaftliche Projekte zu unterstützen.
 Wir möchten gemeinnützige Organisationen:
