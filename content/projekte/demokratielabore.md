@@ -38,7 +38,6 @@ people:
 financing:
   - BMFSFJ
   - bpb
-contact_person: lydiaboettcher
 years: 2017 - 2019
 website: https://demokratielabore.de
 contact:
