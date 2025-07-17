@@ -61,28 +61,8 @@ In the financial year 2024, we raised 3.742 million euros for our work. This was
 #### Detailed information on source & use of funds
 
 Here you can find in detail the financial development of the organization and the income and expenditure of the current financial year. Since 2018, we have been undergoing a voluntary external audit.
-](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
-- [Audit Report 2024](/files/documents/WP-Berichte/OKF-DE-WPBericht-2024.pdf) <br>
-- [Audit Report 2023](/files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf) <br>
-- [Audit Report 2022](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
-- [Audit Report 2021](/files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf) <br>
-- [Audit Report 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
-- [Audit Report 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
-- [Audit Report 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
-- [Balance Sheet 2024](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2024.pdf) <br>
-- [Balance Sheet 2023](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2023.pdf) <br>
-- [Balance Sheet 2022](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2022.pdf) <br>
-- [Balance Sheet 2021](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf) <br>
-- [Balance Sheet 2020](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf) <br>
-- [Balance Sheet 2019](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2019.pdf) <br>
-- [Balance Sheet 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2018.pdf) | [Opening Balance Sheet 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-Eröffnungsbilanz_2018.pdf) <br>
-- [Profit and Loss Report 2017](/files/documents/jahresabschluesse/jahresabschluss-2017.pdf) <br>
-- [Profit and Loss Report 2016](/files/documents/jahresabschluesse/jahresabschluss-2016.pdf) <br>
-- [Profit and Loss Report 2015](/files/documents/jahresabschluesse/jahresabschluss-2015.pdf) <br>
-- [Profit and Loss Report 2014](/files/documents/jahresabschluesse/jahresabschluss-2014.pdf) <br>
-- [Profit and Loss Report 2013](/files/documents/jahresabschluesse/jahresabschluss-2013.pdf) <br>
-- [Profit and Loss Report 2012](/files/documents/jahresabschluesse/jahresabschluss-2012.pdf) <br>
-- [Profit and Loss Report 2011](/files/documents/jahresabschluesse/jahresabschluss-2011.pdf)
+
+{{< finances >}}
 
 ### Legal affiliations
 

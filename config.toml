@@ -63,7 +63,7 @@ weight =  80
         weight = 10
       [[languages.de.menus.main]]
         name = 'Über uns'
-        pageRef = '/profil'
+        pageRef = '/ueber-uns'
         weight = 20
       [[languages.de.menus.main]]
         name = 'Projekte'
@@ -92,7 +92,7 @@ weight =  80
         weight = 10
       [[languages.en.menus.main]]
         name = 'About'
-        pageRef = '/profil'
+        pageRef = '/ueber-uns'
         weight = 20
       [[languages.en.menus.main]]
         name = 'Projects'

@@ -18,17 +18,3 @@ Gut die Hälfte (54%) unserer Einnahmen machen projektgebundene Zuschüsse aus. 
 <div class="js-incomes" id="income-institutions"><div class="income-institutions d3chart"></div></div>
 <div class="js-incomes" id="income-companies"><div class="income-companies d3chart"></div></div>
 <div class="js-incomes" id="income-services"><div class="income-services d3chart"></div></div>
-
-
-#### Hauptsächlich durch Einzelspenden finanzierte oder auf ehrenamtlicher Arbeit beruhende Projekte
-
-<div class="l__finance__logos">
-    <img src="/okf/finanzierung/codefor.png" alt="Code For Germany">
-    <img src="/okf/finanzierung/fragdenstaat.png" alt="Frag Den Staat">
-    <img src="/okf/finanzierung/politikbeiuns.png" alt="Politik bei uns">
-    <img src="/okf/finanzierung/rettedeinennahverkehr.png" alt="Rette deinen Nahverkkehr">
-    <img src="/okf/finanzierung/sehrgutachten.png" alt="sehrGutachten">
-    <img src="/okf/finanzierung/oparl.png" alt="Oparl">
-    <img src="/okf/finanzierung/https.png" alt="HTTPS">
-    <img src="/okf/finanzierung/transparenzranking.png" alt="transparenzranking">
-</div>

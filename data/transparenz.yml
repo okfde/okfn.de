@@ -1,0 +1,107 @@
+- year: 2024
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2024.pdf
+      de: Bilanz
+      en: Balance Sheet
+    - path: /files/documents/WP-Berichte/OKF-DE-WPBericht-2024.pdf
+      de: Bericht der Wirtschaftsprüfung
+      en: Audit Report
+
+- year: 2023
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2023.pdf
+      de: Bilanz
+      en: Balance Sheet
+    - path: /files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf
+      de: Bericht der Wirtschaftsprüfung
+      en: Audit Report
+
+- year: 2022
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2022.pdf
+      de: Bilanz
+      en: Balance Sheet
+    - path: /files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf
+      de: Bericht der Wirtschaftsprüfung
+      en: Audit Report
+
+- year: 2021
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf
+      de: Bilanz
+      en: Balance Sheet
+    - path: /files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf
+      de: Bericht der Wirtschaftsprüfung
+      en: Audit Report
+
+- year: 2020
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf
+      de: Bilanz
+      en: Balance Sheet
+    - path: /files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf
+      de: Bericht der Wirtschaftsprüfung
+      en: Audit Report
+
+- year: 2019
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2019.pdf
+      de: Bilanz
+      en: Balance Sheet
+    - path: /files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf
+      de: Bericht der Wirtschaftsprüfung
+      en: Audit Report
+
+- year: 2018
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-Eröffnungsbilanz_2018.pdf
+      de: Eröffnungsbilanz
+      en: Opening Balance
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2018.pdf
+      de: Bilanz
+      en: Balance Sheet
+    - path: /files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf
+      de: Bericht der Wirtschaftsprüfung
+      en: Audit Report
+
+- year: 2017
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2017.pdf.pdf
+      de: Einnahmenüberschussrechnung
+      en: Profit and Loss Report
+
+- year: 2016
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2016.pdf.pdf
+      de: Einnahmenüberschussrechnung
+      en: Profit and Loss Report
+
+- year: 2015
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2015.pdf.pdf
+      de: Einnahmenüberschussrechnung
+      en: Profit and Loss Report
+
+- year: 2014
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2014.pdf.pdf
+      de: Einnahmenüberschussrechnung
+      en: Profit and Loss Report
+
+- year: 2013
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2013.pdf.pdf
+      de: Einnahmenüberschussrechnung
+      en: Profit and Loss Report
+
+- year: 2012
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2012.pdf.pdf
+      de: Einnahmenüberschussrechnung
+      en: Profit and Loss Report
+
+- year: 2011
+  files:
+    - path: /files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2011.pdf.pdf
+      de: Einnahmenüberschussrechnung
+      en: Profit and Loss Report
