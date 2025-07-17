@@ -17,13 +17,9 @@ contact:
   mail: maximilian.voigt@okfn.de
 
 subtitle: Open technologies for a sustainable society
-contact_person: maximilianvoigt
 years: 2023
 partners:
  - DSEE
 financing:
   - DSEE
-more_text: |-
-    
-
 ---
