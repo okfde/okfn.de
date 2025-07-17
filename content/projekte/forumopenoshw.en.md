@@ -1,4 +1,5 @@
 ---
+type: archive
 kategorien:
   - Community
   - Public Interest Tech
