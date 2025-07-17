@@ -1,141 +1,150 @@
 # Den neuen Bericht immer erst einpflegen, wenn die MV ihn bestäigt und der Wirtschaftsprüfer die Zahlen bestötigt hat!
 
-- year: 2024
-  img: /okf/verein/Jahresbericht_2024.png
-  pdf: https://2024.okfn.de/
+content:
   de:
-    title: Jahresbericht 2024
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2024, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    title: Jahresberichte
+    text: Unsere Jahresberichte enthalten detaillierte Angaben zu den Entwicklungen unserer Organisation und unserer Projekte. Seit 2017 orientiert sich der Bericht am [Social Reporting Standard](https://www.social-reporting-standard.de/).
   en:
-    title: Annual Report 2024
-    text: In addition to funding information and program activities from the 2024 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+    title: Annual reports
+    text: Our annual reports contain detailed information on the development of our organisation and our projects. As of 2017, our annual report is based on the [Social Reporting Standard](https://www.social-reporting-standard.de/).
 
-- year: 2023
-  img: /okf/verein/Jahresbericht_2023.png
-  pdf: https://2023.okfn.de/
-  de:
-    title: Jahresbericht 2023
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2023, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2023
-    text: In addition to funding information and program activities from the 2023 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+reports:
+  - year: 2024
+    img: /okf/verein/Jahresbericht_2024.png
+    pdf: https://2024.okfn.de/
+    de:
+      title: Jahresbericht 2024
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2024, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2024
+      text: In addition to funding information and program activities from the 2024 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2022
-  img: /okf/verein/Jahresbericht_2022.png
-  pdf: https://2022.okfn.de/
-  de:
-    title: Jahresbericht 2022
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2022, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2022
-    text: In addition to funding information and program activities from the 2022 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2023
+    img: /okf/verein/Jahresbericht_2023.png
+    pdf: https://2023.okfn.de/
+    de:
+      title: Jahresbericht 2023
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2023, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2023
+      text: In addition to funding information and program activities from the 2023 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2021
-  img: /okf/verein/Jahresbericht_2021_Titel.png
-  pdf: https://2021.okfn.de/
-  de:
-    title: Jahresbericht 2021
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2021, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2021
-    text: In addition to funding information and program activities from the 2021 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
-    
-- year: 2020
-  img: /okf/verein/Jahresbericht_2020.png
-  pdf: https://2020.okfn.de/
-  de:
-    title: Jahresbericht 2020
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2020, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2020
-    text: In addition to funding information and program activities from the 2020 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2022
+    img: /okf/verein/Jahresbericht_2022.png
+    pdf: https://2022.okfn.de/
+    de:
+      title: Jahresbericht 2022
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2022, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2022
+      text: In addition to funding information and program activities from the 2022 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2019
-  img: /okf/verein/jahresbericht_2019.png
-  pdf: https://2019.okfn.de/
-  de:
-    title: Tätigkeitsbericht 2019
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2019, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten. 2018 veröffentlichen wir unseren Jahresbericht erstmalig als Online-Variante!
-  en:
-    title: Annual Report 2019
-    text: In addition to funding information and program activities from the 2018 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end. This is the first online/non-PDF version of our annual report.
+  - year: 2021
+    img: /okf/verein/Jahresbericht_2021_Titel.png
+    pdf: https://2021.okfn.de/
+    de:
+      title: Jahresbericht 2021
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2021, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2021
+      text: In addition to funding information and program activities from the 2021 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2018
-  img: /okf/verein/jahresbericht_2018.png
-  pdf: https://2018.okfn.de/
-  de:
-    title: Tätigkeitsbericht 2018
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2018, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten. 2018 veröffentlichen wir unseren Jahresbericht erstmalig als Online-Variante!
-  en:
-    title: Annual Report 2018
-    text: In addition to funding information and program activities from the 2018 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end. This is the first online/non-PDF version of our annual report.
+  - year: 2020
+    img: /okf/verein/Jahresbericht_2020.png
+    pdf: https://2020.okfn.de/
+    de:
+      title: Jahresbericht 2020
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2020, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2020
+      text: In addition to funding information and program activities from the 2020 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2017
-  img: /okf/verein/jahresbericht_2017.png
-  pdf: /files/documents/OKFDE-Taetigkeitsbericht-2017.pdf
-  de:
-    title: Tätigkeitsbericht 2017
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2017
-    text: In addition to funding information and program activities from the 2017 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2019
+    img: /okf/verein/jahresbericht_2019.png
+    pdf: https://2019.okfn.de/
+    de:
+      title: Tätigkeitsbericht 2019
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2019, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten. 2018 veröffentlichen wir unseren Jahresbericht erstmalig als Online-Variante!
+    en:
+      title: Annual Report 2019
+      text: In addition to funding information and program activities from the 2018 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end. This is the first online/non-PDF version of our annual report.
 
-- year: 2016
-  img: /okf/verein/jahresbericht_2016.png
-  pdf: /files/documents/OKFDE-Taetigkeitsbericht-2016.pdf
-  de:
-    title: Jahresbericht 2016
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2016
-    text: In addition to funding information and program activities from the 2016 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2018
+    img: /okf/verein/jahresbericht_2018.png
+    pdf: https://2018.okfn.de/
+    de:
+      title: Tätigkeitsbericht 2018
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2018, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten. 2018 veröffentlichen wir unseren Jahresbericht erstmalig als Online-Variante!
+    en:
+      title: Annual Report 2018
+      text: In addition to funding information and program activities from the 2018 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end. This is the first online/non-PDF version of our annual report.
 
-- year: 2015
-  img: /okf/verein/jahresbericht_2015.png
-  pdf: /files/documents/OKFDE-Taetigkeitsbericht-2015.pdf
-  de:
-    title: Tätigkeitsbericht 2015
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2015
-    text: In addition to funding information and program activities from the 2015 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2017
+    img: /okf/verein/jahresbericht_2017.png
+    pdf: /files/documents/OKFDE-Taetigkeitsbericht-2017.pdf
+    de:
+      title: Tätigkeitsbericht 2017
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2017
+      text: In addition to funding information and program activities from the 2017 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2014
-  img: /okf/verein/jahresbericht_2014.png
-  pdf: /files/documents/OKFDE-Taetigkeitsbericht-2014.pdf
-  de:
-    title: Tätigkeitsbericht 2014
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2014
-    text: In addition to funding information and program activities from the 2014 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2016
+    img: /okf/verein/jahresbericht_2016.png
+    pdf: /files/documents/OKFDE-Taetigkeitsbericht-2016.pdf
+    de:
+      title: Jahresbericht 2016
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2016
+      text: In addition to funding information and program activities from the 2016 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2013
-  img: /okf/verein/jahresbericht_2013.png
-  pdf: /files/documents/OKFDE-Taetigkeitsbericht-2013.pdf
-  de:
-    title: Tätigkeitsbericht 2013
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2013
-    text: In addition to funding information and program activities from the 2013 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2015
+    img: /okf/verein/jahresbericht_2015.png
+    pdf: /files/documents/OKFDE-Taetigkeitsbericht-2015.pdf
+    de:
+      title: Tätigkeitsbericht 2015
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2015
+      text: In addition to funding information and program activities from the 2015 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2012
-  img: /okf/verein/jahresbericht_2012.png
-  pdf: /files/documents/OKFDE-Taetigkeitsbericht-2012.pdf
-  de:
-    title: Tätigkeitsbericht 2012
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2012
-    text: In addition to funding information and program activities from the 2012 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2014
+    img: /okf/verein/jahresbericht_2014.png
+    pdf: /files/documents/OKFDE-Taetigkeitsbericht-2014.pdf
+    de:
+      title: Tätigkeitsbericht 2014
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2014
+      text: In addition to funding information and program activities from the 2014 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
 
-- year: 2011
-  img: /okf/verein/jahresbericht_2011.png
-  pdf: /files/documents/OKFDE-Taetigkeitsbericht-2011.pdf
-  de:
-    title: Tätigkeitsbericht 2011
-    text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
-  en:
-    title: Annual Report 2011
-    text: In addition to funding information and program activities from the 2011 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+  - year: 2013
+    img: /okf/verein/jahresbericht_2013.png
+    pdf: /files/documents/OKFDE-Taetigkeitsbericht-2013.pdf
+    de:
+      title: Tätigkeitsbericht 2013
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2013
+      text: In addition to funding information and program activities from the 2013 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+
+  - year: 2012
+    img: /okf/verein/jahresbericht_2012.png
+    pdf: /files/documents/OKFDE-Taetigkeitsbericht-2012.pdf
+    de:
+      title: Tätigkeitsbericht 2012
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2012
+      text: In addition to funding information and program activities from the 2012 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+
+  - year: 2011
+    img: /okf/verein/jahresbericht_2011.png
+    pdf: /files/documents/OKFDE-Taetigkeitsbericht-2011.pdf
+    de:
+      title: Tätigkeitsbericht 2011
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2017, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2011
+      text: In addition to funding information and program activities from the 2011 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
