@@ -1,0 +1,7 @@
+@mixin base-styles
+  p
+    line-height: 1.55
+    font-size: 1.2rem
+
+  \:is(h2, h3, p:not(:empty)) + p:not(:empty)
+    margin-top: $space-half / 2
