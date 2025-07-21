@@ -20,7 +20,7 @@
 {{ define "main-class" }}l__profile{{ end }}
 
 {{ define "main" }}
-<div class="container">
+<div class="container mb-d">
     <h1 class="mb-xs">{{.Params.blurb}}</h1>
     <img src="/okf/verein/team-2025.jpeg" style="width: 100%"/>
 
@@ -28,19 +28,19 @@
     {{ .Params.intro.copy | markdownify }}
 </div>
 
-<section class="l__content__bg--grey l__breakout my-d">
-    <div class="container">
-        <img src="/okf/verein/spenden.png" alt="Spenden Illustration" width="255">
-        <div class="mt-s">
-            <h3>{{ .Params.breakout.title }} </h3>
-            <p>
-                {{ .Params.breakout.copy | markdownify }}
-                <br />
-                -> {{ .Params.breakout.link }}
-            </p>
-        </div>
-    </div>
-</section>
+<!--<section class="l__content__bg&#45;&#45;grey l__breakout my-d">-->
+<!--    <div class="container">-->
+<!--        <img src="/okf/verein/spenden.png" alt="Spenden Illustration" width="255">-->
+<!--        <div class="mt-s">-->
+<!--            <h3>{{ .Params.breakout.title }} </h3>-->
+<!--            <p>-->
+<!--                {{ .Params.breakout.copy | markdownify }}-->
+<!--                <br />-->
+<!--                -> {{ .Params.breakout.link }}-->
+<!--            </p>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 
 <div class="container mb-d">
     <h3>{{ .Params.finances.title }}</h3>
