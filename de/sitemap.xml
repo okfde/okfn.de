@@ -50,18 +50,6 @@
                 href="https://okfn.de/projekte/ogp/"
                 />
   </url><url>
-    <loc>https://okfn.de/profil/potential/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/potential/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/potential/"
-                />
-  </url><url>
     <loc>https://okfn.de/themen/civic_tech/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,18 +84,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/projekte/prototypefundhardware/"
-                />
-  </url><url>
-    <loc>https://okfn.de/profil/wissen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/wissen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/wissen/"
                 />
   </url><url>
     <loc>https://okfn.de/finanzierung/ausgaben/</loc>
@@ -158,18 +134,6 @@
                 href="https://okfn.de/themen/offenes_regierungshandeln/"
                 />
   </url><url>
-    <loc>https://okfn.de/profil/muendigkeit/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/muendigkeit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/muendigkeit/"
-                />
-  </url><url>
     <loc>https://okfn.de/projekte/fragdenstaat/</loc>
     <xhtml:link
                 rel="alternate"
@@ -216,18 +180,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/themen/informationsfreiheit/"
-                />
-  </url><url>
-    <loc>https://okfn.de/profil/vernetzen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/vernetzen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/vernetzen/"
                 />
   </url><url>
     <loc>https://okfn.de/projekte/jugendhackt/</loc>
@@ -4456,18 +4408,6 @@
                 href="https://okfn.de/impressum/"
                 />
   </url><url>
-    <loc>https://okfn.de/jahresberichte/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jahresberichte/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jahresberichte/"
-                />
-  </url><url>
     <loc>https://okfn.de/projekte/kleineanfragen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4748,28 +4688,16 @@
                 href="https://okfn.de/projekte/turing-bus/"
                 />
   </url><url>
-    <loc>https://okfn.de/profil/</loc>
+    <loc>https://okfn.de/ueber-uns/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/profil/"
+                href="https://okfn.de/en/ueber-uns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/profil/"
-                />
-  </url><url>
-    <loc>https://okfn.de/verein/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/verein/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/verein/"
+                href="https://okfn.de/ueber-uns/"
                 />
   </url><url>
     <loc>https://okfn.de/events/past/</loc>

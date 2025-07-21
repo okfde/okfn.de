@@ -62,18 +62,6 @@
                 href="https://okfn.de/en/projekte/turing-bus/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/profil/potential/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/potential/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/potential/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/themen/civic_tech/</loc>
     <xhtml:link
                 rel="alternate"
@@ -108,18 +96,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/prototypefundhardware/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/profil/wissen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/wissen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/wissen/"
                 />
   </url><url>
     <loc>https://okfn.de/en/finanzierung/ausgaben/</loc>
@@ -168,30 +144,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/finanzierung/einnahmen/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/profil/vernetzen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/vernetzen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/vernetzen/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/profil/muendigkeit/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/profil/muendigkeit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/profil/muendigkeit/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/fragdenstaat/</loc>
@@ -590,16 +542,16 @@
                 href="https://okfn.de/en/projekte/2030-watch/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/profil/</loc>
+    <loc>https://okfn.de/en/ueber-uns/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/profil/"
+                href="https://okfn.de/ueber-uns/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/profil/"
+                href="https://okfn.de/en/ueber-uns/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/buendnisf5/</loc>
@@ -612,18 +564,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/buendnisf5/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/jahresberichte/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/jahresberichte/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/jahresberichte/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/appsandthecity/</loc>
@@ -1056,18 +996,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/openschufa/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/verein/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/verein/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/verein/"
                 />
   </url><url>
     <loc>https://okfn.de/en/events/past/</loc>
