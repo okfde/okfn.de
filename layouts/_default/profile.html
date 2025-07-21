@@ -24,43 +24,28 @@
     <h1 class="mb-xs">{{.Params.blurb}}</h1>
     <img src="/okf/verein/team-2025.jpeg" style="width: 100%"/>
 
-    <h3 class="mt-xs">Wir stärken Zivilgesellschaft, Demokratie und Teilhabe im digitalen Zeitalter.</h3>
-    <p>Die Open Knowledge Foundation Deutschland e.V. ist ein <b>gemeinnütziger Verein</b> mit Sitz in Berlin. Wir
-        entwickeln Tools, organisieren Bildungsangebote, pflegen Communities, initiieren Kampagnen und bringen
-        unsere Expertise in politische Prozesse ein. Unsere <a href="/projekte">Projekte</a> fördern Transparenz,
-        Offenheit und technologische Souveränität.</p>
-    <p>
-        Wir haben einen ehrenamtlichen <a
-            href="/vorstand">Vorstand</a> und ein hauptamtliches <a href="/team">Team</a>. Wir arbeiten in
-        starken Allianzen mit Ehrenamtlichen, Aktivist:innen, Bildungsinitiativen und Verwaltungen. Wir sind mit
-        gleichgesinnten Organisationen verbunden, unter anderem im internationalen Open Knowledge Network. Unser <a
-            href="/codeofconduct">Verhaltenskodex</a> gilt für alle, die an unserer Arbeit teilnehmen. </p>
-    </p>
+    <h3 class="mt-xs">{{ .Params.intro.title }}</h3>
+    {{ .Params.intro.copy | markdownify }}
 </div>
 
 <section class="l__content__bg--grey l__breakout my-d">
     <div class="container">
         <img src="/okf/verein/spenden.png" alt="Spenden Illustration" width="255">
         <div class="mt-s">
-            <h3>Aktivismus von Innen</h3>
+            <h3>{{ .Params.breakout.title }} </h3>
             <p>
-                In NGOs und gemeinnützigen Organisationen liegt der Fokus oft auf der Wirkung nach außen. Doch wer
-                Veränderung fordert, muss sie auch innen leben. In dieser Serie teilen wir Erfahrungen,
-                Herausforderungen und Werkzeuge aus dem Aufbau einer Organisation, die ihre Werte im Inneren
-                umsetzt.
-                -> Aktivismus von Innen
+                {{ .Params.breakout.copy | markdownify }}
+                <br />
+                -> {{ .Params.breakout.link }}
             </p>
         </div>
     </div>
 </section>
 
 <div class="container mb-d">
-    <h3>Finanzierung</h3>
+    <h3>{{ .Params.finances.title }}</h3>
     <p>
-        Seit unserer Gründung im Jahr 2011 finanzieren wir uns mehrheitlich über Projekte. Diese werden von wechselnden
-        Mittelgebenden gefördert. Darüber hinaus erhalten wir Spendeneinnahmen sowie in geringerem Ausmaß
-        wirtschaftliche Einnahmen. In unseren Jahresberichten sind die Finanzen unseres Vereins für jedes Jahr genau aufgeschlüsselt. Jährliche
-        Bilanzen und Berichte der Wirtschaftsprüfung finden sich unter <a href="/transparenz#finanzierung">Transparenz</a>.
+        {{ .Params.finances.copy | markdownify }}
     </p>
 </div>
 
