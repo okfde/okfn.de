@@ -48,6 +48,7 @@ financing:
   - Schöpflin-Stiftung
 contact:
   website: https://fragdenstaat.de
+  bluesky: https://bsky.app/profile/fragdenstaat.de
   twitter: fragdenstaat
   github: https://github.com/okfde/fragdenstaat_de
   facebook: https://www.facebook.com/fragdenstaat.de
