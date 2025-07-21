@@ -1,0 +1,22 @@
+{{ $reports := $.Site.Data.transparenz }}
+<div class="l__finance__reports">
+    {{ range $reports }}
+    {{ $year := .year }}
+    <section class="year">
+        <h4> {{ .year }} </h4>
+        <ul>
+            {{ range .files }}
+            <li>
+                <a href="{{ .path }}">
+                    {{ if eq $.Site.Language.Lang "de" }}
+                    {{ .de }}
+                    {{ else }}
+                    {{ .en }}
+                    {{ end }} {{ $year }}
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </section>
+    {{ end }}
+</div>
