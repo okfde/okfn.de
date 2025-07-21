@@ -6,6 +6,7 @@ image:
 tags:
 - OKFDE
 - Jahresbericht
+- Aktivismus von Innen
 type: post
 layout: post
 featured: blue
