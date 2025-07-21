@@ -35,4 +35,6 @@ finances:
     wirtschaftliche Einnahmen. In unseren Jahresberichten sind die Finanzen unseres Vereins für jedes Jahr 
     genau aufgeschlüsselt. Jährliche Bilanzen und Berichte der Wirtschaftsprüfung 
     finden sich unter [Transparenz](/transparenz#finanzierung).
+files:
+  title: Vereinsdokumente
 ---

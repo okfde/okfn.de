@@ -51,8 +51,8 @@
 
 {{- partial "jahresberichte" . -}}
 
-<div class="container">
-    <h3 class="mb-s mt-d">Vereinsdokumente</h3>
+<div class="container mt-d">
+    <h3 class="mb-s">{{ .Params.files.title }}</h3>
 
     {{- partial "downloads/finanzierung" . -}}
 </div>
