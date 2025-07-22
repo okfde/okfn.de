@@ -9,7 +9,7 @@ aliases:
 intro:
   title: Wir stärken Zivilgesellschaft, Demokratie und Teilhabe im digitalen Zeitalter.
   copy: |
-      Die Open Knowledge Foundation Deutschland e.V. ist ein **gemeinnütziger Verein** mit Sitz 
+      Die Open Knowledge Foundation Deutschland e. V. ist ein **gemeinnütziger Verein** mit Sitz 
       in Berlin. Wir entwickeln Tools, organisieren Bildungsangebote, pflegen Communities, 
       initiieren Kampagnen und bringen unsere Expertise in politische Prozesse ein. 
       Unsere [Projekte](/projekte) fördern Transparenz, Offenheit und technologische Souveränität.
