@@ -44,13 +44,13 @@ people:
 contact_person: arnesemsrott
 years: 2011 - today
 financing:
+  - Donations
   - Adessium/MySociety
   - Allianz Foundation
   - Arcadia
   - netzwerk recherche
   - Schöpflin Stiftung
   - Arena for Journalism
-  - Donations
 contact:
   website: https://fragdenstaat.de
   bluesky: 
