@@ -1,6 +1,6 @@
 ---
 title: About
-blurb: About OKF
+blurb: About the OKF
 layout: profile
 meta: What we do
 img_header: /okf/social-og/profil-social-og.png
