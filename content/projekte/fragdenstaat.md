@@ -45,7 +45,12 @@ contact_person: arnesemsrott
 years: 2011 - heute
 financing:
   - Spenden
-  - Schöpflin-Stiftung
+  - Adessium/MySociety
+  - Allianz Foundation
+  - Arcadia
+  - netzwerk recherche
+  - Schöpflin Stiftung
+  - Arena for Journalism
 contact:
   website: https://fragdenstaat.de
   bluesky: https://bsky.app/profile/fragdenstaat.de
