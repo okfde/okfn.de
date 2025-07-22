@@ -17,7 +17,7 @@ img_header: projects/codefor_Header.png
 people:
   - name: Sonja Fischbauer      
     role: 
-  - name: ca. 200 volunteers all over Germany
+  - name: ca. 500 volunteers all over Germany
     role:
 contact_person: sonjafischbauer
 years: 2014 - heute
@@ -51,6 +51,6 @@ Code for Germany is a network of volunteers working on sustainable digital proje
 
 Some cities already have Open Data programs and make data sets available openly, but in many cases there is still a lack of applications and examples that demonstrate the practical use of open data - this is exactly where Code for Germany comes into play. In addition to software projects, "Do It Yourself" hardware projects such as the network of fine dust sensors or the Long Range Wide Area Network (LoRaWan) are also being worked on.
 
-The program started in February 2014 with the foundation of Open Knowledge Labs in 8 cities. In the meantime, the network has grown to around 20 labs and comprises a community of over 200 volunteers.
+The program started in February 2014 with the foundation of Open Knowledge Labs in 8 cities. In the meantime, the network has grown to around 20 labs and comprises a community of over 500 volunteers.
 
 <b>Funding and support</b>: In 2024 the project 'Code for Germany - Digitale Nachhaltigkeit stärken' ('Code for Germany - strengthen digital sustainability') is supported by the Deutsche Postcode Lotterie.
