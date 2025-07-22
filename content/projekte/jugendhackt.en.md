@@ -19,17 +19,21 @@ people:
   - name: Nina Schröter
     role: Project lead
   - name: Anne Ware
-    role: Project lead    
+    role: Project lead
+  - name: Lisa Jahn
+    role: Project management events
+  - name: Ragna-Rasmus Höfgen
+    role: Project management events
   - name: Philip Steffan
     role: Community and PR
-  - name: Ivan Botica
-    role: Student assistant (accounting)
   - name: Benjamin Laske
     role: federal volunteer
+  - name: Megan Versteeg
+    role: Federal Voluntary Service
 contact_person: nina
 years: 2012 - today
 partners:
-  - mediale pfade e.V.
+  - mediale pfade e. V.
 financing:
   - Deutsche Bahn Stiftung
   - Donations
@@ -53,11 +57,11 @@ more_text: |-
     More information is available on the <a href="https://jugendhackt.org/">Jugend hackt website</a>.
 ---
 
-Jugend hackt is a program for young people who want to improve the world with their technical skills. Supported by volunteer mentors, our participants develop digital tools, prototypes and concepts for a better future. Our offer includes hackathon events in many cities, regional labs, an online community and international exchange programs.
+Improving the world with code – that has been the goal of Jugend hackt since 2013, a programme for young people between the ages of 12 and 18 who are interested in technology and want to explore how technology and society are connected. At Jugend hackt, we do code and tinker, of course, but we are interested in more than that. We want to teach responsible use of technology. For us, this includes exploring ethical hacking, but also the openness of code and data. Tech skills are more than just something that looks good on a CV.
 
-In line with our motto "Improve the world with code", Jugend hackt is about more than just learning to program: We understand technology as a means of social change. We encourage young people to use technology responsibly in order to find solutions to socio-political questions. They create projects such as a watering system that donates free WiFi; a bracelet that warns of surveillance cameras or an audio computer game for people with visual impairment.
+So we're not interested in preparing young people for a specific career or getting them in touch with the business world as early as possible. For us, learning is above all about trying things out for yourself and making mistakes. Our educational approach is therefore strongly based on experiential learning. Together with our volunteer mentors, young people at Jugend hackt can develop their own project ideas and implement them together.
 
-Jugend hackt is a non-profit program of the non-profit organizations Open Knowledge Foundation Deutschland e.V. and [mediale pfade.org - Verein für Medienbildung e.V](https://medialepfade.org). Participation in our programs is free of charge for young people as far as possible. We value diversity in our program and actively promote the participation of young people who otherwise have limited educational opportunities in the technical field. The positive change that our program brings about in the lives of our participants is demonstrable. Jugend hackt has been awarded the PHINEO seal for effectiveness.
+Jugend hackt is a non-profit program of the non-profit organizations Open Knowledge Foundation Deutschland e. V. and [mediale pfade.org - Verein für Medienbildung e.V](https://medialepfade.org). Participation in our programs is free of charge for young people as far as possible. We value diversity in our program and actively promote the participation of young people who otherwise have limited educational opportunities in the technical field. The positive change that our program brings about in the lives of our participants is demonstrable. Jugend hackt has been awarded the PHINEO seal for effectiveness.
 
 <div class="two-img offset-lg-2">
     <figure class="license">
