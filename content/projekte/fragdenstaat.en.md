@@ -53,7 +53,7 @@ financing:
   - Arena for Journalism
 contact:
   website: https://fragdenstaat.de
-  bluesky: 
+  bluesky: https://bsky.app/profile/fragdenstaat.de
   twitter: fragdenstaat
   github: https://github.com/okfde/fragdenstaat_de
   facebook: https://www.facebook.com/fragdenstaat.de
