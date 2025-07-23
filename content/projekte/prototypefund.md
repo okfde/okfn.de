@@ -34,7 +34,6 @@ contact_alternate_email: info@prototypefund.de
 years: 2016 - heute
 website: https://prototypefund.de
 contact:
-  twitter: PrototypeFund
   github: https://github.com/prototypefund
   mailinglist: http://eepurl.com/b_rDS1
   mastodon:
