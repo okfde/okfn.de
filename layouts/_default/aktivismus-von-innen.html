@@ -1,0 +1,47 @@
+{{ define "title"}}
+<title>{{ .Title }} - {{ .Site.Title }}</title>
+{{ end }}
+
+{{ define "head" }}
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+<meta property="og:title" content="{{ .Site.Title }} {{ .Title }}"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="{{ .Permalink }}"/>
+{{ with .Params.img_header }}
+<meta property="og:image" content="{{ . }}"/>{{ end }}
+{{with .Params.meta}}
+<meta property="og:description" content="{{.}}">
+<meta name="description" content="{{.}}">
+{{end}}
+{{ end }}
+
+{{ define "main-class" }}l__aktivismus-von-innen{{ end }}
+
+{{ define "main" }}
+<div class="container">
+    <h1 class="mb-xs">{{.Params.title}}</h1>
+    {{ .Params.copy | markdownify }}
+</div>
+
+<div class="container mt-d">
+    {{ $blogposts := (where .Site.AllPages "Section" "blog") }}
+    {{ $filtered  := (where $blogposts "Params.tags" "intersect" (slice "Aktivismus von innen")) }}
+
+    <ul class="l__aktivismus-von-innen__blogposts">
+        {{ range $filtered}}
+        <li>
+            <a href="{{.Permalink}}">
+                <img src="{{ .Params.image.src }}" />
+                <h2>{{.Title}}</h2>
+                <div class="content">
+                    {{.Content | strings.Truncate 200}}
+                </div>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+
+{{ end }}
