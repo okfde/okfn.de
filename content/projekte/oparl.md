@@ -12,16 +12,14 @@ website: https://oparl.org
 img: projects/OParl_Projektuebersicht_smallTile.png
 img_header: projects/OParl_Header.png
 layout: project
-contact_person: ernestoruge
 people:
 - name: Ernesto Ruge
   role: Projektleitung
 financing:
   - volunteer project
 contact:
+  twitter: OparlOrg
   github: https://github.com/oparl
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://oparl.org/">Website</a> von OParl.
 
 ---
 
