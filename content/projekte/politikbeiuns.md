@@ -5,15 +5,13 @@ website: https://politik-bei-uns.de
 img: projects/politikbeiuns.jpg
 layout: project
 years: 2015 - 2020
-contact_person: ernestoruge
 people:
 - name: Ernesto Ruge
   role: Projektleitung
 contact:
   github: https://github.com/okfde/ris-web
-cta: Mitmachen
-cta_text: |-
-    „Politik bei uns“ lebt davon, dass viele verschiedene Akteure mitmachen. Wir freuen uns über jede Person, die die Plattform nutzen möchte, Kommunen, die Daten bereitstellen oder Entwicklerinnen und Designer, die die Plattform verbessern können Mehr Infos wie man mitmachen kann, gibt es <a href="https://offenerhaushalt.de/page/mitmachen.html">hier</a>.
+financing:
+  - volunteer project
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://politik-bei-uns.de/">Website</a> von Politik bei uns.
 ---
