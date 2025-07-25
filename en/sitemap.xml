@@ -26,18 +26,6 @@
                 href="https://okfn.de/en/finanzierung/entwicklung/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/themen/open_data/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/themen/open_data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/themen/open_data/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/projekte/ogp/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,18 +48,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/turing-bus/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/themen/civic_tech/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/themen/civic_tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/themen/civic_tech/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/prototypefund/</loc>
@@ -122,18 +98,6 @@
                 href="https://okfn.de/en/projekte/opendata/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/themen/offenes_regierungshandeln/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/themen/offenes_regierungshandeln/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/themen/offenes_regierungshandeln/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/finanzierung/einnahmen/</loc>
     <xhtml:link
                 rel="alternate"
@@ -158,18 +122,6 @@
                 href="https://okfn.de/en/projekte/fragdenstaat/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/themen/bildung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/themen/bildung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/themen/bildung/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/projekte/codeforde/</loc>
     <xhtml:link
                 rel="alternate"
@@ -180,18 +132,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/codeforde/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/themen/informationsfreiheit/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/themen/informationsfreiheit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/themen/informationsfreiheit/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/jugendhackt/</loc>
@@ -1116,18 +1056,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/team/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/themen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/themen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/themen/"
                 />
   </url><url>
     <loc>https://okfn.de/en/transparenz/</loc>
