@@ -5,19 +5,12 @@ subtitle: Transparente und nachvollziehbare Rohstoffgewinnung
 img: projects/deiti-logo.png
 layout: project
 website: https://www.d-eiti.de
-years: seit 2014
+years: 2014 - 2025
 people:
   - name: Walter Palmetshofer
     role: Projektleitung
-  - name: Daniel Dietrich
-    role: MSG Mitglied
-contact_person: walterpalmetshofer
 contact:
   twitter: EITIDeutschland
-
-more_text: |-
-  Weiterführende Informationen zu den Zielen, Anforderungen und der Umsetzung in anderen Ländern: www.eiti.org
-
 ---
 Die globale „Initiative für Transparenz im rohstoffgewinnenden Sektor“ (Extractive Industries Transparency Initiative – EITI) setzt sich ein für mehr Finanztransparenz und Rechenschaftspflicht im Rohstoffsektor.
 

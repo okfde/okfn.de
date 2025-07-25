@@ -16,16 +16,10 @@ people:
     role: Koordination
 contact:
    twitter: OpenGovGermany
-years: 2011-heute
+years: 2011 - 2025
 partners:
   - Open Government Partnership
-contact_person: 
 website: https://opengovpartnership.de
-cta: Mitmachen
-cta_text: |-
-    Werde Mitglied im Open Government Netzwerk und beteilige dich als Teil der Zivilgesellschaft am OGP Prozess in Deutschland! Wir arbeiten an ganz unterschiedliche Dingen und es gibt viele Möglichkeiten sich im Netzwerk einzubringen. <br><br>Mehr dazu gibt es <a href="https://opengovpartnership.de/mitmachen/">hier</a>.
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://opengovpartnership.de">Website</a> des Open Goverment Netzwerk.
 ---
 Als Teil des Open Government Netzwerks setzen wir uns für die aktive Mitwirkung Deutschlands in der Open Government Partnership (OGP) und die Interessen der deutschen Zivilgesellschaft in diesem Prozess ein und koordinieren das zivilgesellschaftliche Netzwerk.
 

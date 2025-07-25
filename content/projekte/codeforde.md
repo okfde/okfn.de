@@ -16,9 +16,7 @@ img_header: projects/codefor_Header.png
 people:
   - name: Sonja Fischbauer  
     role: 
-  - name: Nora Titz  
-    role: 
-  - name: + über 500 Ehrenamtliche in ganz Deutschland
+  - name: ca. 500 Ehrenamtliche in ganz Deutschland
     role:
 contact_person: sonjafischbauer
 years: 2014 - heute
@@ -37,7 +35,7 @@ more_text: |-
     Weitere Infos gibt es auf der <a href="https://codefor.de/">Website</a> von Code for Germany.
 ---
 
-Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger (Labs), die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.
+Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch wird die Beteiligung von Bürger:innen an demokratischen Prozessen gestärkt und ihr Lebensalltag erleichtert. Um dies zu ermöglichen, treffen sich Freiwillige regelmäßig in ihren Städten in den Open Knowledge Labs (OK-Labs). Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben.
 
 <div class="two-img offset-lg-2">
   <figure class="license">
@@ -55,6 +53,4 @@ Einige Städte haben bereits Open Data Programme und stellen Datensätze offen z
 Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf rund 20 Labs angewachsen und umfasst eine Community von über 500 Freiwilligen. 
 
 <b> Fördergeber:innen und Finanzierung: </b>
-Im Jahr 2023 wird das Netzwerk im Projekt von der Deutschen Postcode Lotterie unterstützt. 
-Prozesse rund um unsere Communityarbeit werden im ersten Halbjahr 2023 gefördert durch den Fonds Soziokultur aus Mitteln der Beauftragten der Bundesregierung für Kultur und Medien im Rahmen von NEUSTART KULTUR.
-
+Im Jahr 2024 wird das Netzwerk im Projekt von der Deutschen Postcode Lotterie unterstützt.

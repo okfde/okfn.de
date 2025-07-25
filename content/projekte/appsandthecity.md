@@ -13,7 +13,6 @@ layout: project
 people:
   - name: Julia Kloiber
     role: Projektleitung
-contact_person: 
 years: 2012
 partners:
   - BVG

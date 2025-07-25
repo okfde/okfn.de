@@ -13,19 +13,13 @@ categories:
   - Open Government
 people:
   - name: Walter Palmetshofer
-    role: Koordination
+    role: coordinator
 contact:
    twitter: OpenGovGermany
-years: 2011-heute
+years: 2011 - 2025
 partners:
   - Open Government Partnership
-contact_person: 
 website: https://opengovpartnership.de
-cta: Participate
-cta_text: |-
-    Become a member of the Open Government Network and participate as part of civil society in the OGP process in Germany! We work on very different things and there are many ways to get involved in the network. You can find out more <a href="https://opengovpartnership.de/mitmachen/">here</a>.
-more_text: |-
-    Further information can be found on the <a href="https://opengovpartnership.de">Website</a> of the Open Government Network.
 ---
 As part of the Open Government Network, we support Germany's active participation in the Open Government Partnership (OGP) and the interests of German civil society in this process, as well as help coordinate this civil society network.
 
