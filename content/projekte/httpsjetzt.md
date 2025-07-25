@@ -17,14 +17,10 @@ contact:
   website: https://behoerden-online-dienste.de
   github: https://github.com/robbi5/pulse
   github: https://github.com/okfde/behoerden-online-dienste.de
-  twitter: httpsjetzt
-contact_person: maximilianricht
 years: 2016 - 2019
 layout: project
 financing:
   - ehrenamtliches Projekt
-more_text: |-
-    Weitere Infos gibt es auf der Website <a href="https://https.jetzt">https.jetzt</a>.
 ---
 
 https.jetzt! ist ein Projekt, um zu zeigen, wie viele Behördenwebseiten HTTPS unterstützen. Wieso ist eine Verschlüsselung von Websites wichtig?
