@@ -1,27 +1,25 @@
 ---
 type: archive
 title: OParl
-subtitle: Initiative to promote the openness of parliamentary information systems
+subtitle: Initiative to promote the openness of parliamentary information systems 
 kategorien:
-  - Open Government
+  - Offenes Regierungshandeln
 categories:
   - Open Government
 tile: single
-years: 2012 - 2018
+years: 2012 - 2020
 website: https://oparl.org
 img: projects/OParl_Projektuebersicht_smallTile.png
+img_header: projects/OParl_Header.png
 layout: project
-contact_person: ernestoruge
 people:
 - name: Ernesto Ruge
-  role: project lead
-contact:
-  github: https://github.com/oparl
+  role: Projektleitung
 financing:
   - volunteer project
-more_text: |-
-    Further information can be found on the <a href="https://oparl.org/">website</a> of OParl.
-
+contact:
+  twitter: OparlOrg
+  github: https://github.com/oparl
 ---
 
 Many municipalities, counties and regions in Germany have council information systems at their disposal in order to organise committee work in local councils and at district assemblies. A lot of information is hidden in these council information systems of German municipalities. The entire municipal policy is documented - decisions that have a direct impact on the inhabitants of the city. Nonetheless, to involve citizens and their creative potential in the city's politics, it is important to provide information.
