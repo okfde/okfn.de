@@ -9,5 +9,28 @@
         <atom:link href="https://okfn.de/en/team/rss.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Dr. Henriette Litta</title>
+      <link>https://okfn.de/en/team/henriette-litta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/en/team/henriette-litta/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://okfn.de/team/henriette.jpg&#34; alt=&#34;Portrait of Henriette Litta&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Henriette Litta has been managing director of the non-profit Open Knowledge
+Foundation Germany since 2020. She is committed to bringing good ideas from
+civil society into the socio-political arena and making an impact. In 2021,
+Henriette joined forces with the organizations AlgorithmWatch, Gesellschaft für
+Freiheitsrechte, Reporters Without Borders, and Wikimedia Germany to found the
+F5 alliance for public-interest digital policy, which aims to give civil
+society a stronger voice. Henriette is a member of Agora Digitale
+Transformation, the Mobility Data Advisory Board of the Baden-Württemberg
+Ministry of Transport, the Advisory Board of Transparency International
+Germany, the Advisory Board for the data portal umwelt.info of the Federal
+Environment Agency, and a member of the Board of Trustees of the Fraunhofer
+Institute for Software and Systems Engineering. From 2022 to 2024, she served
+as a member of the Advisory Board for the German Federal Government&amp;rsquo;s Digital
+Strategy.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

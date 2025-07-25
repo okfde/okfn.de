@@ -722,6 +722,18 @@
                 href="https://okfn.de/en/spenden/"
                 />
   </url><url>
+    <loc>https://okfn.de/en/team/henriette-litta/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/team/henriette-litta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/team/henriette-litta/"
+                />
+  </url><url>
     <loc>https://okfn.de/en/projekte/edulabs/</loc>
     <xhtml:link
                 rel="alternate"
