@@ -9,11 +9,10 @@ people:
 - name: Ernesto Ruge
   role: Projektleitung
 contact:
+  twitter: politikbeiuns
   github: https://github.com/okfde/ris-web
 financing:
   - volunteer project
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://politik-bei-uns.de/">Website</a> von Politik bei uns.
 ---
 
 Das offene Ratsinformationssystem „Politik Bei Uns“ stellt Informationen und Vorgänge aus Rat und Verwaltung nutzerfreundlich dar, damit Bürgerinnen und Bürger politische Entscheidungen nachvollziehen können und frühzeitig mitbestimmen können. Unser Projekt stellt als eine Art Datenmarktplatz Rats- und Verwaltungsdaten Drittentwicklern zur Verfügung, so dass sie ohne großen Aufwand weitere Applikationen bauen können. Neben der Politik, der Zivilgesellschaft und den Journalisten profitiert auch die Wissenschaft von strukturierten und somit analysierbaren Daten.
