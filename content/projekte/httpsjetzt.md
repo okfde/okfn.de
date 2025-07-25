@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 title: https.jetzt
 kategorien:
   - civic tech
@@ -19,7 +19,7 @@ contact:
   github: https://github.com/okfde/behoerden-online-dienste.de
   twitter: httpsjetzt
 contact_person: maximilianricht
-years: 2016 - heute
+years: 2016 - 2019
 layout: project
 financing:
   - ehrenamtliches Projekt
