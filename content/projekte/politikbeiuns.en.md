@@ -11,6 +11,8 @@ people:
   role: Projektleitung
 contact:
   github: https://github.com/okfde/ris-web
+financing:
+- volunteer project
 more_text: |-
     Further information can be found on the <a href="https://politik-bei-uns.de/">website</a> of Politik bei uns.
 ---
