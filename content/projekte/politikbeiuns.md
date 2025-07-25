@@ -1,17 +1,15 @@
 ---
-type: politics
+type: archive
 title: Politik Bei Uns
 website: https://politik-bei-uns.de
 img: projects/politikbeiuns.jpg
 layout: project
-years: 2015-heute
+years: 2015 - 2020
 contact_person: ernestoruge
 people:
 - name: Ernesto Ruge
   role: Projektleitung
 contact:
-  twitter: politikbeiuns
-  facebook: https://www.facebook.com/OpenRuhr
   github: https://github.com/okfde/ris-web
 cta: Mitmachen
 cta_text: |-
