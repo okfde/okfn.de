@@ -20,20 +20,6 @@
     padding-bottom: 0
     font-size: 11px
 
-.l__footer__contact
-  margin-bottom: $space-double
-
-.l__footer__footnote
-  margin-top: $space-double
-  color: #6b6b6b
-  font-size: 13px
-  a
-    color: $primary
-    text-decoration: none
-    &:hover,
-    &:active
-      text-decoration: underline
-
 .l__footer__itz
   img
     width: 100%
@@ -42,3 +28,42 @@
   a:active
     img
       filter: grayscale(100%)
+
+
+.l__footer
+  > div
+    max-width: map-get($container-max-widths, xl)
+    @include make-container()
+    border-top: $greyish 1px solid
+    padding-top: $space
+    display: grid
+    gap: $space
+
+    @include media-breakpoint-down(md)
+      grid-template-areas: "nav" "newsletter" "social-media" "contact" "fine-print"
+      grid-template-rows: repeat(5, auto)
+
+    @include media-breakpoint-up(md)
+      grid-template-columns: 2fr 1fr
+      grid-template-areas: "nav newsletter" "fine-print social-media" "fine-print contact"
+
+  aside
+    grid-area: sidebar
+    display: flex
+    flex-direction: column
+    gap: $space
+
+  nav
+    grid-area: nav
+
+  .l__footer__footnote
+    grid-area: fine-print
+    color: #6b6b6b
+    font-size: 13px
+    a
+      color: $primary
+      text-decoration: none
+      &:hover,
+      &:active
+        text-decoration: underline
+
