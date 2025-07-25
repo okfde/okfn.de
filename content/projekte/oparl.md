@@ -7,7 +7,7 @@ kategorien:
 categories:
   - Open Government
 tile: single
-years: 2012
+years: 2012 - 2020
 website: https://oparl.org
 img: projects/OParl_Projektuebersicht_smallTile.png
 img_header: projects/OParl_Header.png
@@ -16,8 +16,9 @@ contact_person: ernestoruge
 people:
 - name: Ernesto Ruge
   role: Projektleitung
+financing:
+  - volunteer project
 contact:
-  twitter: OParlOrg
   github: https://github.com/oparl
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://oparl.org/">Website</a> von OParl.
