@@ -16,8 +16,9 @@ people:
 - name: Ernesto Ruge
   role: project lead
 contact:
-  twitter: OParlOrg
   github: https://github.com/oparl
+financing:
+  - volunteer project
 more_text: |-
     Further information can be found on the <a href="https://oparl.org/">website</a> of OParl.
 
