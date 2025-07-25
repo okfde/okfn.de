@@ -28,3 +28,6 @@ Many municipalities, counties and regions in Germany have council information sy
 OParl is committed to creating uniform access to these information systems in order to develop a classic open data interface. In this way, the entire potential of the Open Data Community can be utilised. Developers and designers are given the opportunity to present new information and better involve citizens in decision-making processes. Transparency does not only benefit interested citizens: other data recipients would be journalists, bloggers, scientists and more. And last but not least, OParl is a form of digital economic development.
 
 A number of council proposals in various cities already show that OParl is an important part of an open data and e-government strategy. Projects such as Politik bei Uns and Frankfurt Gestalten or the work of Abgeordnetenwatch.de show the increasing interest and the possibilities in the use of council information systems.
+
+You can read our article on [Oparl's history and impact](https://netzpolitik.org/2022/open-data-wie-ein-datenstandard-die-digitale-verwaltung-oeffnen-kann) on netzpolitik.org (2022).
+
