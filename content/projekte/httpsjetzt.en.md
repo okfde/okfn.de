@@ -15,12 +15,13 @@ people:
 contact:
   website: https://https.jetzt
   website: https://behoerden-online-dienste.de
+  twitter: @httpsjetzt
   github: https://github.com/robbi5/pulse
   github: https://github.com/okfde/behoerden-online-dienste.de
 years: 2016 - 2019
 layout: project
 financing:
-  - ehrenamtliches Projekt
+  - volunteer projekt
 ---
 
 https.jetzt! shows how many government websites support encryption via HTTPS. Why is website encryption important?
