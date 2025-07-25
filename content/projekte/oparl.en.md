@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 title: OParl
 subtitle: Initiative to promote the openness of parliamentary information systems
 kategorien:
@@ -7,16 +7,14 @@ kategorien:
 categories:
   - Open Government
 tile: single
-years: 2012
+years: 2012 - 2018
 website: https://oparl.org
 img: projects/OParl_Projektuebersicht_smallTile.png
 layout: project
 contact_person: ernestoruge
 people:
 - name: Ernesto Ruge
-  role: Projektleitung
-- name: Lucas Jacob
-  role: Projektleitung
+  role: project lead
 contact:
   twitter: OParlOrg
   github: https://github.com/oparl
