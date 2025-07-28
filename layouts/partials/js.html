@@ -21,12 +21,3 @@
   <script src="{{$bsearch.RelPermalink}}"></script>
   <script src="{{$share.RelPermalink}}"></script>
 {{ end }}
-
-{{ if eq .Section "finanzierung" }}
-  {{ $d3 := resources.Get "/js/vendor/d3.min.js" }}
-  {{ $d3tip := resources.Get "/js/vendor/d3-tip.js" }}
-  {{ $customd3 := resources.Get "/js/viz.js" }}
-  {{ $vizJs := slice $d3 $d3tip $customd3 | resources.Concat "js/data-viz.js" | resources.Minify | resources.Fingerprint}}
-  <link rel="preload" href="{{$vizJs.RelPermalink}}" as="script">
-  <script src="{{$vizJs.RelPermalink}}" defer></script>
-{{ end }}
