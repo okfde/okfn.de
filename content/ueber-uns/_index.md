@@ -6,6 +6,7 @@ meta: Was wir machen
 img_header: /okf/social-og/profil-social-og.png
 aliases:
   - /verein
+  - /profil
 intro:
   title: Wir stärken Zivilgesellschaft, Demokratie und Teilhabe im digitalen Zeitalter.
   copy: |
