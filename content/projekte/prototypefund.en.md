@@ -29,7 +29,7 @@ people:
     role: Program Management
 Financing:
   - BMFTR
-contact_person: patricialeu
+contact_person: marie_k
 contact_alternate_email: info@prototypefund.de
 years: 2016 - today
 website: https://prototypefund.de

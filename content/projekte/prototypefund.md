@@ -29,7 +29,7 @@ people:
     role: Projektbetreuung
 financing:
   - BMFTR
-contact_person: patricialeu
+contact_person: marie_k
 contact_alternate_email: info@prototypefund.de
 years: 2016 - heute
 website: https://prototypefund.de
