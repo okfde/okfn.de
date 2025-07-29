@@ -6,8 +6,22 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barcamp</title>
+      <link>https://okfn.de/tags/barcamp/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/barcamp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linkedopendata</title>
+      <link>https://okfn.de/tags/linkedopendata/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/linkedopendata/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Konferenz</title>
       <link>https://okfn.de/tags/konferenz/</link>
@@ -223,13 +237,6 @@
       <link>https://okfn.de/tags/bundestagswahl2025/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/bundestagswahl2025/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LinkedOpenData</title>
-      <link>https://okfn.de/tags/linkedopendata/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/linkedopendata/</guid>
       <description></description>
     </item>
     <item>
@@ -2414,13 +2421,6 @@
       <link>https://okfn.de/tags/open-data-census/</link>
       <pubDate>Wed, 30 Oct 2013 20:12:43 +0000</pubDate>
       <guid>https://okfn.de/tags/open-data-census/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Barcamp</title>
-      <link>https://okfn.de/tags/barcamp/</link>
-      <pubDate>Mon, 28 Oct 2013 16:57:14 +0000</pubDate>
-      <guid>https://okfn.de/tags/barcamp/</guid>
       <description></description>
     </item>
     <item>

@@ -6,8 +6,15 @@
     <description>Recent content in Barcamp on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 28 Oct 2013 16:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/barcamp/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Barcamp zu Haushaltsdaten als Linked Open Data in Berlin</title>
+      <link>https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/</guid>
+      <description>&lt;p&gt;Bereits zum zweiten Mal trafen sich über 20 Personen aus Verwaltung, Politik, Wissenschaft und Zivilgesellschaft in den Räumlichkeiten der Senatsverwaltung für Finanzen in Berlin um über Linked Data zu sprechen. Im Vergleich zum ersten Barcamp konnte dieses Mal anhand eines konkreten Anwendungsfalls gesprochen werden – den Haushaltsdaten des Landes Berlin und dem dazugehörigen Vokabular.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mit-critical-friends-zu-mehr-wissensgraphen&#34;&gt;Mit Critical Friends zu mehr Wissensgraphen&lt;/h2&gt;&#xA;&lt;p&gt;In den letzten zwei Jahren hat sich viel getan: Berlin verfügt nun über einen ersten kleinen &lt;a href=&#34;https://github.com/berlin&#34; target=&#34;_blank&#34;&gt;Wissensgraphen&lt;/a&gt;, Schleswig-Holstein arbeitet weiterhin an einem &lt;a href=&#34;https://www.open-government-deutschland.de/opengov-de/ogp/aktionsplaene-und-berichte/4-nap/oeffentlich-bereitgestellte-daten-als-linked-open-data-verpflichtung-schleswig-holstein--2225528?view=&#34; target=&#34;_blank&#34;&gt;ganzheitlichen LOD-Ansatz&lt;/a&gt; und in Kooperation zwischen den beiden Bundesländern ist ein &lt;a href=&#34;https://okfde.github.io/lod-budget-vocab/&#34; target=&#34;_blank&#34;&gt;Vokabular für Landeshaushaltsdaten&lt;/a&gt; entstanden. Grund genug, noch einmal genauer Einblick in die Prozesse zu geben und mit einer Gruppe von Critical Friends über Weiterentwicklungen und mögliche Anwendungen zu sprechen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Drittes Barcamp Offene Kommunen.NRW am 9. November</title>
       <link>https://okfn.de/blog/2013/10/drittes-barcamp-offene-kommunen.nrw-am-9.-november/</link>

@@ -134,8 +134,11 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -145,6 +148,54 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/barcamp/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/linkedopendata/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/jobs/gf-assistenz-2025/</loc>
@@ -163,19 +214,6 @@
                 href="https://okfn.de/jobs/"
                 />
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
     <lastmod>2025-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -192,19 +230,6 @@
     <loc>https://okfn.de/authors/ben-burmeister/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
     <loc>https://okfn.de/blog/2025/07/igf-2025-diskussionen-um-die-zukunft-des-freien-internets/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -213,19 +238,6 @@
   </url><url>
     <loc>https://okfn.de/tags/policy/</loc>
     <lastmod>2025-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2025/06/das-war-2024-unser-jahresbericht-ist-online/</loc>
     <lastmod>2025-06-23T00:00:00+00:00</lastmod>
@@ -285,9 +297,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2025/06/presentation-expert-roundtable-from-software-to-society-openness-in-a-changing-world/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2025-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/okf-de/</loc>
     <lastmod>2025-05-28T00:00:00+00:00</lastmod>
@@ -452,9 +461,6 @@
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/01/linked-open-data-vernetzte-verwaltung-f%C3%BCr-vernetzte-daten/</loc>
-    <lastmod>2025-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/linkedopendata/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/piazza-konferenz/</loc>
@@ -3317,9 +3323,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2013/10/einladung-zur-konferenz-zugang-gestalten-mehr-verantwortung-f%C3%BCr-das-kulturelle-erbe/</loc>
     <lastmod>2013-10-29T13:54:46+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/barcamp/</loc>
-    <lastmod>2013-10-28T16:57:14+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2013/10/drittes-barcamp-offene-kommunen.nrw-am-9.-november/</loc>
     <lastmod>2013-10-28T16:57:14+00:00</lastmod>

@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-07-07T00:00:00+0000</updated>
+  <updated>2025-07-29T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>2. Barcamp zu Haushaltsdaten als Linked Open Data in Berlin</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/"/>
+    <id>https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/</id>
+    <published>2025-07-29T00:00:00+0000</published>
+    <updated>2025-07-29T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Bereits zum zweiten Mal trafen sich über 20 Personen aus Verwaltung, Politik, Wissenschaft und Zivilgesellschaft in den Räumlichkeiten der Senatsverwaltung für Finanzen in Berlin um über Linked Data zu sprechen. Im Vergleich zum ersten Barcamp konnte dieses Mal anhand eines konkreten Anwendungsfalls gesprochen werden – den Haushaltsdaten des Landes Berlin und dem dazugehörigen Vokabular.&lt;/p&gt;
+&lt;h2 id=&#34;mit-critical-friends-zu-mehr-wissensgraphen&#34;&gt;Mit Critical Friends zu mehr Wissensgraphen&lt;/h2&gt;
+&lt;p&gt;In den letzten zwei Jahren hat sich viel getan: Berlin verfügt nun über einen ersten kleinen &lt;a href=&#34;https://github.com/berlin&#34; target=&#34;_blank&#34;&gt;Wissensgraphen&lt;/a&gt;, Schleswig-Holstein arbeitet weiterhin an einem &lt;a href=&#34;https://www.open-government-deutschland.de/opengov-de/ogp/aktionsplaene-und-berichte/4-nap/oeffentlich-bereitgestellte-daten-als-linked-open-data-verpflichtung-schleswig-holstein--2225528?view=&#34; target=&#34;_blank&#34;&gt;ganzheitlichen LOD-Ansatz&lt;/a&gt; und in Kooperation zwischen den beiden Bundesländern ist ein &lt;a href=&#34;https://okfde.github.io/lod-budget-vocab/&#34; target=&#34;_blank&#34;&gt;Vokabular für Landeshaushaltsdaten&lt;/a&gt; entstanden. Grund genug, noch einmal genauer Einblick in die Prozesse zu geben und mit einer Gruppe von Critical Friends über Weiterentwicklungen und mögliche Anwendungen zu sprechen.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>IGF 2025: Diskussionen um die Zukunft des freien Internets</title>
@@ -157,16 +168,6 @@ Sabrina Winter&lt;br&gt;&lt;/p&gt;</summary>
     <summary>&lt;h2 id=&#34;eine-digitale-brandmauer&#34;&gt;Eine digitale Brandmauer&lt;/h2&gt;
 &lt;p&gt;Ein breites Bündnis von mehr als 20 zivilgesellschaftlichen Organisationen, initiiert vom progressiven digitalpolitischen Verein D64 und dem Chaos Computer Club (CCC), fordert die Union und SPD zur Errichtung einer „digitalen Brandmauer“ auf. Mit zwölf konkreten Forderungen sollen in der kommenden Bundesregierung Grundrechte und Demokratie im digitalen Raum gestärkt und vor Missbrauch geschützt werden.&lt;/p&gt;
 &lt;p&gt;„Demokratie braucht sichere und vertrauliche IT-Infrastruktur für alle“, ergänzt Elina Eickstädt, Sprecherin des CCC und Vorstandsmitglied der OKF. Unsere Kernforderungen umfassen drei zentrale Bereiche:&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Offener Brief: Plattformen regulieren, Demokratie schützen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/03/offener-brief-plattformen-regulieren-demokratie-sch%C3%BCtzen/"/>
-    <id>https://okfn.de/blog/2025/03/offener-brief-plattformen-regulieren-demokratie-sch%C3%BCtzen/</id>
-    <published>2025-03-05T00:00:00+0000</published>
-    <updated>2025-03-05T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Spätestens mit dem Wandel der US-Politik hin zu einem antidemokratischen Agitieren und den diese Politik unterstützenden Plattformmachthabern wird klar: Regulierung bedeutet demokratische Selbstverteidigung. Deswegen muss die zukünftige Bundesregierung sie konsequent durchsetzen.
-Gemeinsam mit einem breiten gesellschaftlichen Bündnis von mehr als 75 Organisationen und Netzwerken mit über 1.000 Mitgliedsorganisationen &lt;a href=&#34;https://www.germanwatch.org/de/93066&#34; target=&#34;_blank&#34;&gt;fordern wir&lt;/a&gt; die Verhandlungsführenden von CDU/CSU und SPD in einem heute veröffentlichten Brief auf, die Kontrolle von Online-Plattformen und eine gemeinwohlorientierte Digitalisierung auf die Agenda der Sondierungsgespräche zu setzen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
