@@ -14,7 +14,7 @@ size: 77KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
-- url: <a href="www.buendnis-f5.de" target="_blank">Zur Website des Bündnis F5</a>
+- url: <a href="www.buendnis-f5.de">Zur Website des Bündnis F5</a>
 date: 2025-03-05
 ---
 Genau wie ein gut ausgebautes Schienennetzwerk, zugängliche Schulen oder ein verlässliches Energiesystem brauchen digitale Systeme ein stabiles Fundament – von der IT kommunaler Verwaltungen bis hin zu den großen Plattformen.
