@@ -20,18 +20,6 @@
  
    ,
      {
-       "url": "https://okfn.de/en/finanzierung/entwicklung/",
-       "title": "Development of total revenue",
-       "section": "finanzierung",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       
-       "content": []
-       
-     }
- 
-   ,
-     {
        "url": "https://okfn.de/en/projekte/ogp/",
        "title": "Open Gov Netzwerk",
        "section": "projekte",
@@ -88,18 +76,6 @@
  
    ,
      {
-       "url": "https://okfn.de/en/finanzierung/ausgaben/",
-       "title": "Expenses 2024",
-       "section": "finanzierung",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       
-       "content": ["Personnel","costs","are","by","far","the","largest","expense","item.","Our","excellent","team","is","our","most","important","resource.","In","addition,","material","costs","as","well","as","tax","payments","are","incurred","every","year.","Most","of","the","expenditure","is","project-related.","The","administrative","costs","include,","for","example,","costs","for","rent,","finances,","insurances","and","technical","infrastructure."]
-       
-     }
- 
-   ,
-     {
        "url": "https://okfn.de/en/projekte/opendata/",
        "title": "Open administrative data",
        "section": "projekte",
@@ -109,18 +85,6 @@
        
        
        "content": ["Public","authorities","from","federal","to","local","level","produce","and","publish","thousands","of","documents","every","day.","In","the","context","of","the","omnipresent","digitalisation","of","public","services,","many","goals","have","been","set","in","recent","years","concerning","the","use","of","open","data","standards.","However,","the","implementation","fell","short","of","the","target","so","far.","There","is","a","great","need","for","public","authorities","to","build","up","knowledge","and","competences","in","the","field","of","data","provision.","With","this","project","the","OKF","wants","to","put","its","focus","again","on","one","of","its","core","topics:","contributing","to","the","social","discourse","by","offering","our","expertise","in","the","field","of","open","data.","The","goal","of","open","administrative","data","has","several","levels:","In","addition","to","making","government","action","more","transparent","and","promoting","democratic","participation","of","several","stakeholders,","we","also","want","to","emphasize","on","the","benefits","of","open","data","standards","for","internal","administrative","processes","in","dialogue","with","public","authorities.","In","cooperation","with","our","community,","we","want","to","bundle","know-how","and","implementation","strategies","and","make","them","freely","available.","As","a","documentation","basis","for","the","coming","years","of","the","project,","we","have","developed","the","Open","Data","Knowledge","Hub,","where","we","present","our","own","use","cases","and","also","refer","to","existing","materials","from","other","players","in","the","open","data","universe.","In","2024,","we","published","the","first","Open","Data","Ranking.","With","the","ranking,","we","want","to","put","the","discussion","about","open","data","in","Germany","on","a","broader","footing","and","provide","an","overview","of","the","status","quo","of","open","data","in","Germany.","Further","updates","of","the","Open","Data","Ranking","are","planned","for","the","coming","years.","Screenshot","Open","Data","Knowledge","Hub","Map","of","the","Open-Data-Ranking","2025"]
-       
-     }
- 
-   ,
-     {
-       "url": "https://okfn.de/en/finanzierung/einnahmen/",
-       "title": "Revenues 2024",
-       "section": "finanzierung",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       
-       "content": ["About","half","(54%)","of","our","income","comes","from","project-related","grants.","In","addition,","we","receive","donations","(40%","of","our","income).","Most","of","the","donations","are","addressed","to","FragDenStaat","but","also","Jugend","hackt,","Code","for","Germany","and","OKF","DE","as","a","whole","record","donations.","Only","6%","of","our","income","derives","from","economic","income","sources,","including","some","minor","sponsoring","income.","Other","income","includes","minor","interest","income","for","the","first","time.","Overview","Grants","Sponsorship","Income","from","contracts","Donations"]
        
      }
  

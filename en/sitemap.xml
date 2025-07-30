@@ -14,18 +14,6 @@
                 href="https://okfn.de/en/projekte/bits-und-baeume/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/finanzierung/entwicklung/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/finanzierung/entwicklung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/finanzierung/entwicklung/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/projekte/ogp/</loc>
     <xhtml:link
                 rel="alternate"
@@ -74,18 +62,6 @@
                 href="https://okfn.de/en/projekte/prototypefundhardware/"
                 />
   </url><url>
-    <loc>https://okfn.de/en/finanzierung/ausgaben/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/finanzierung/ausgaben/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/finanzierung/ausgaben/"
-                />
-  </url><url>
     <loc>https://okfn.de/en/projekte/opendata/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,18 +72,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/projekte/opendata/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/finanzierung/einnahmen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/finanzierung/einnahmen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/finanzierung/einnahmen/"
                 />
   </url><url>
     <loc>https://okfn.de/en/projekte/fragdenstaat/</loc>

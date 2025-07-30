@@ -9,44 +9,4 @@
   </author>
   <id>https://okfn.de</id>
   
-  <entry>
-    <title>Entwicklung der Gesamteinnahmen</title>
-    <link rel="alternate" href="https://okfn.de/finanzierung/entwicklung/"/>
-    <id>https://okfn.de/finanzierung/entwicklung/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>&lt;div class=&#34;entwicklung&#34;&gt;&lt;/div&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Ausgaben 2024</title>
-    <link rel="alternate" href="https://okfn.de/finanzierung/ausgaben/"/>
-    <id>https://okfn.de/finanzierung/ausgaben/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Personalkosten stellen den mit Abstand größten Posten dar. Unser hervorragendes Team ist für uns die wichtigste Ressource. Darüber hinaus fallen – wie in jedem Jahr - Sach- und Honorarkosten an sowie Steuerzahlungen. Der größte Teil der Ausgaben ist projektbezogen. Die Verwaltungssachkosten umfassen vor allem die Buchhaltung sowie Sachkosten für Miete, Versicherungen und technische Infrastruktur.&lt;/p&gt;
-&lt;div class=&#34;ausgaben&#34;&gt;&lt;/div&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Einnahmen 2024</title>
-    <link rel="alternate" href="https://okfn.de/finanzierung/einnahmen/"/>
-    <id>https://okfn.de/finanzierung/einnahmen/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Gut die Hälfte (54%) unserer Einnahmen machen projektgebundene Zuschüsse aus. Dazu kommen Spendeneinnahmen in Höhe von ca. 40% unserer Einnahmen. Die meisten Spenden sind an FragDenStaat adressiert; aber auch Jugend hackt, Code for Germany und die OKF als Ganzes verbuchen Spendeneinnahmen. Über wirtschaftliche Einnahmen (darin auch wenige Sponsoringeinnahmen) haben wir 6%  erwirtschaftet. Unter den sonstigen Einnahmen finden sich erstmals geringfügige Zinserträge.&lt;/p&gt;
-&lt;div id=&#34;js-incomes-nav&#34; class=&#34;tabnav mt-s&#34;&gt;
-    &lt;a href=&#34;#incomes&#34; class=&#34;mr-xs&#34;&gt;Übersicht&lt;/a&gt;
-    &lt;a href=&#34;#income-institutions&#34; class=&#34;&#34;&gt;Zuschüsse&lt;/a&gt;
-    &lt;a href=&#34;#income-companies&#34; class=&#34;&#34;&gt;sonstiges&lt;/a&gt;
-    &lt;a href=&#34;#income-services&#34;&gt;wirtschaftliche Einnahmen&lt;/a&gt;
-    &lt;a href=&#34;#income-donations&#34; class=&#34;&#34;&gt;Spenden&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class=&#34;js-incomes&#34; id=&#34;incomes&#34;&gt;&lt;div class=&#34;kategorien d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&#34;js-incomes&#34; id=&#34;income-donations&#34;&gt;&lt;div class=&#34;income-donations d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&#34;js-incomes&#34; id=&#34;income-institutions&#34;&gt;&lt;div class=&#34;income-institutions d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&#34;js-incomes&#34; id=&#34;income-companies&#34;&gt;&lt;div class=&#34;income-companies d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;div class=&#34;js-incomes&#34; id=&#34;income-services&#34;&gt;&lt;div class=&#34;income-services d3chart&#34;&gt;&lt;/div&gt;&lt;/div&gt;</summary>
-  </entry>
-  
 </feed>
