@@ -5,8 +5,8 @@ layout: profile
 meta: What we do
 img_header: /okf/social-og/profil-social-og.png
 aliases:
-  - verein
-  - profil
+  - /en/verein
+  - /en/profil
 intro:
   title: We strengthen civil society, democracy and participation in the digital age.
   copy: |
