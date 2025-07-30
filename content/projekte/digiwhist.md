@@ -8,18 +8,12 @@ categories:
   - Open Government
 layout: project
 img_header: projects/digiwhist_Header.png
-contact_person: arnesemsrott
 years: 2015 - 2017
 financing:
   - EU Horizon 2020
 website: https://digiwhist.eu
 contact:
   twitter: digiwhist
-
-
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://digiwhist.eu/">Website</a> von Digiwhist.
-
 ---
 Die Vergabe von öffentlichen Aufträgen, also Dienstleistungen, Bauleistungen und Waren macht einen großen Anteil der Staatsausgaben aus. In der EU sind dies etwa 16% des Bruttoinlandsprodukts. Oft ist die Vergabe dieser Aufträge allerdings nicht besonders Transparent. So können 20-25% des Auftragsvolumens an Korruption verloren gehen.
 

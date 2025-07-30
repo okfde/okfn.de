@@ -16,11 +16,6 @@ contact:
   website: http://de.dariah.eu
   twitter: dariahde
 video: "https://www.youtube.com/embed/AWa661KfQG0Y"
-
-contact_person: markusneuschaefer
-years: 2011
-more_text: |-
-  Further information can be found on the <a href="https://de.dariah.eu">website</a> of Dariah.
 ---
 DARIAH-DE supports digitally-enabled research and teaching in the arts and humanities. The project developed research infrastructure in support of service and research data as well as materials for research and teaching in the Digital Humanities.
 

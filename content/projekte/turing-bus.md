@@ -19,13 +19,9 @@ years: 2018 - 2019
 people:
   - name: Bela Seeger
     role: Projektleitung
-contact_person: belaseeger
 website: https://turing-bus.de
 contact:
   mail: bela.seeger@okfn.de
-
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://turing-bus.de">Website</a> vom Turing-Bus.
 ---
 
 Der Turing-Bus ist ein mobiles Bildungsangebot für Schulen und Jugendclubs im ländlichen Raum. Der Bus bringt Vertreter von Fablabs, OK-Labs und Hackspaces sowie Experten in digitalen Themengebieten an oft Angebots-unterversorgte Orte der Jugendbildung, um durch Workshops, Diskussionsformaten, Screenings und mehr einen Wissensaustausch zu generieren. Das Projekt wird im <a href="https://wissenschaftsjahr.de">Wissenschaftsjahr</a> des <a href="https://bmbf.de">BMBF</a> gefördert.
