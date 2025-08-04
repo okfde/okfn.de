@@ -1,23 +1,18 @@
 ---
-type: politics
+type: archive
 title: Politik Bei Uns
 website: https://politik-bei-uns.de
 img: projects/politikbeiuns.jpg
 layout: project
-years: 2015-heute
-contact_person: ernestoruge
+years: 2015 - 2020
 people:
 - name: Ernesto Ruge
   role: Projektleitung
 contact:
   twitter: politikbeiuns
-  facebook: https://www.facebook.com/OpenRuhr
   github: https://github.com/okfde/ris-web
-cta: Mitmachen
-cta_text: |-
-    „Politik bei uns“ lebt davon, dass viele verschiedene Akteure mitmachen. Wir freuen uns über jede Person, die die Plattform nutzen möchte, Kommunen, die Daten bereitstellen oder Entwicklerinnen und Designer, die die Plattform verbessern können Mehr Infos wie man mitmachen kann, gibt es <a href="https://offenerhaushalt.de/page/mitmachen.html">hier</a>.
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://politik-bei-uns.de/">Website</a> von Politik bei uns.
+financing:
+  - ehrenamtliches Projekt
 ---
 
 Das offene Ratsinformationssystem „Politik Bei Uns“ stellt Informationen und Vorgänge aus Rat und Verwaltung nutzerfreundlich dar, damit Bürgerinnen und Bürger politische Entscheidungen nachvollziehen können und frühzeitig mitbestimmen können. Unser Projekt stellt als eine Art Datenmarktplatz Rats- und Verwaltungsdaten Drittentwicklern zur Verfügung, so dass sie ohne großen Aufwand weitere Applikationen bauen können. Neben der Politik, der Zivilgesellschaft und den Journalisten profitiert auch die Wissenschaft von strukturierten und somit analysierbaren Daten.

@@ -11,8 +11,6 @@ contact:
   github: https://github.com/okfde/2030-watch.de
 
 subtitle: Germany becomes sustainable
-more_text: |-
-    Further information can be found on the <a href="https://2030-watch.de">website</a> of 2030-Watch.
 ---
 
 2030Watch monitors the implementation of the Sustainable Development Goals (SDGs) in Germany.

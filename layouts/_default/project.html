@@ -81,6 +81,9 @@
             {{ with .mastodon }}
             <p><span class="bold">Mastodon</span><br><a href="https://{{.server}}/@{{.handle}}">@{{.handle}}</a></p>
             {{ end }}
+            {{ with .bluesky }}
+            <p><span class="bold">Bluesky</span><br><a href="https://bsky.app/profile/{{.}}">@{{.}}</a></p>
+            {{ end }}
             {{ with .facebook }}
             {{$fb := replaceRE "http(s)?://(www.)?facebook.com/([^/]+)" "$3" . }}
             <p><span class="bold">Facebook</span><br><a href="{{.}}">{{ $fb }}</a></p>

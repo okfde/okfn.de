@@ -13,7 +13,6 @@ img: projects/KleineAnfragen_Projektuebersicht_smallTile.png
 people:
 - name: Maximilian Richt
   role: Projektleitung
-contact_person: maximilianricht
 years: 2011 - heute
 financing:
   - ehrenamtliches Projekt
