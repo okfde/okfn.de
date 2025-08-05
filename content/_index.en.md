@@ -6,4 +6,11 @@ donate_title: Support our mission now!
 donate_text: Our work is independent, non-partisan, interdisciplinary and non-commercial. With a donation you can help us and our community.
 meta: Open Knowledge Foundation Germany e. V.
 img_header: /okf/social-og/start-social-og.png
+aliases:
+  - /en/themen
+  - /en/themen/open_data
+  - /en/themen/bildung
+  - /en/themen/civic_tech
+  - /en/themen/informationsfreiheit
+  - /en/themen/offenes_regierungshandeln
 ---

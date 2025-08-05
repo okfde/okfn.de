@@ -8,7 +8,7 @@ image:
   license: 
   license_url: 
 title: Die OKF sucht eine Assistenz für Verwaltung, Personal und Office in Teilzeit, stud. Hilfskraft oder Minijob, ab sofort, 1 Jahr befristet (Elternzeitvertretung)
-draft: 'false'
+draft: 'true'
 ---
 
 Zur Verstärkung des Geschäfsführungs-Teams der Open Knowledge Foundation Deutschland suchen wir:

@@ -11,7 +11,7 @@ type: featured
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/PrototypeFund_logo_icon_dark.svg
-img_header: projects/PrototypeFund_logo_dark.svg
+img_header: projects/PrototypeFund_Header.png
 layout: project
 weight: 2
 people:
@@ -29,12 +29,11 @@ people:
     role: Projektbetreuung
 financing:
   - BMFTR
-contact_person: patricialeu
+contact_person: marie_k
 contact_alternate_email: info@prototypefund.de
 years: 2016 - heute
 website: https://prototypefund.de
 contact:
-  twitter: PrototypeFund
   github: https://github.com/prototypefund
   mailinglist: http://eepurl.com/b_rDS1
   mastodon:

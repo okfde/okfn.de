@@ -10,7 +10,7 @@ tile: double
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/PrototypeFund_logo_icon_dark.svg
-img_header: projects/PrototypeFund_logo_dark.svg
+img_header: projects/PrototypeFund_Header.png
 layout: project
 weight: 2
 type: featured
@@ -29,7 +29,7 @@ people:
     role: Program Management
 Financing:
   - BMFTR
-contact_person: patricialeu
+contact_person: marie_k
 contact_alternate_email: info@prototypefund.de
 years: 2016 - today
 website: https://prototypefund.de

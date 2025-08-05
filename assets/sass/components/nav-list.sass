@@ -23,6 +23,20 @@
   .inactive
     color: $grey
 
+.c__nav-list--columns
+  gap: $space
+  display: grid
+
+  @include media-breakpoint-up(md)
+    grid-template-columns: repeat(4, auto)
+
+  @include media-breakpoint-down(md)
+   grid-template-rows: repeat(4, auto)
+
+  a
+    color: black
+    font-weight: 500
+
 .c__nav-list
   display: flex
   flex-direction: column
