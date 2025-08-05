@@ -118,6 +118,18 @@
  
    ,
      {
+       "url": "https://okfn.de/publikationen/opendataranking25/",
+       "title": "Open Data Ranking Deutschland 2025",
+       "section": "publikationen",
+       "date": "2025-08-05 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Das","Open","Data","Ranking","bekommt","ein","Update!","Zum","zweiten","Mal","werfen","wir","einen","Blick","auf","die","Open-Data-Landschaft","in","Deutschland","und","betrachten","dabei","mehr","als","nur","die","reine","Anzahl","der","Datensätze.","Die","Analyse","der","rechtlichen","Rahmenbedingungen,","der","Datenqualität","und","des","Open-Data-Ökosystems","für","das","letzte","Jahr","hat","gezeigt:","Allzu","große","Veränderungen","gab","es","2024","nicht."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/",
        "title": "2. Barcamp zu Haushaltsdaten als Linked Open Data in Berlin",
        "section": "blog",

@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2025-06-23T00:00:00+0000</updated>
+  <updated>2025-08-05T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Data Ranking Deutschland 2025</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/opendataranking25/"/>
+    <id>https://okfn.de/publikationen/opendataranking25/</id>
+    <published>2025-08-05T00:00:00+0000</published>
+    <updated>2025-08-05T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Das Open Data Ranking bekommt ein Update! Zum zweiten Mal werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze. Die Analyse der rechtlichen Rahmenbedingungen, der Datenqualität und des Open-Data-Ökosystems für das letzte Jahr hat gezeigt: Allzu große Veränderungen gab es 2024 nicht.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2024</title>
@@ -155,15 +164,6 @@
     <updated>2023-09-28T00:00:00+0000</updated>
     <summary>&lt;p&gt;Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.&lt;/p&gt;
 &lt;p&gt;Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Versäumnisse ein, die bei der Einführung des E-Government-Gesetzes entstanden sind. So werden beispielsweise Anforderungen an die Bereitstellung von offenen Daten definiert. In der beigefügten Begründung wird die Förderung von Open Data explizit als Ziel genannt. Begrüßenswert ist zudem die geplante Einführung einer Informations- und Beratungsstelle, die Behörden bei Fragen rund um das Thema Open Data im Land Brandenburg unterstützen soll.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Position deutscher digitaler zivilgesellschaftlicher Organisationen zum Global Digital Compact</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_globaldigitalcompact/"/>
-    <id>https://okfn.de/publikationen/2023_globaldigitalcompact/</id>
-    <published>2023-09-13T00:00:00+0000</published>
-    <updated>2023-09-13T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Vereinten Nationen befassen sich im Rahmen des Global Digital Compact (GDC) mit der Gestaltung der digitalen Zukunft im globalen Rahmen. Hierzu hatte der UN-Generalsekretär im Mai 2023 einen Policy Brief vorgelegt. Die Regierungen verorten derzeit ihre Positionen dazu und sollten dabei insbesondere auch die Stimmen aus der Zivilgesellschaft hören. Über die letzten Wochen hatte sich die Open Knowledge Foundation im Rahmen eines Bündnisses aus zivilgesellschaftlichen Organisationen (auf Initiative von Wikimedia Deutschland) den Policy Brief genauer angeschaut und Vorschläge für wünschenswerte Anpassungen gemacht. Beim Internet Governance Forum Deutschland in der letzten Woche bot sich nun die Gelegenheit für einen neuen Austausch.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

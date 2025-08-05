@@ -5,10 +5,19 @@
     <description>Publikationen on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open Data Ranking Deutschland 2025</title>
+      <link>https://okfn.de/publikationen/opendataranking25/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/opendataranking25/</guid>
+      <description>&lt;p&gt;Das Open Data Ranking bekommt ein Update! Zum zweiten Mal werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze. Die Analyse der rechtlichen Rahmenbedingungen, der Datenqualität und des Open-Data-Ökosystems für das letzte Jahr hat gezeigt: Allzu große Veränderungen gab es 2024 nicht.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2024</title>
