@@ -7,7 +7,7 @@ image:
 kategorien: Studien
 people:
 - name: Dénes Jäger
-file: /files/publikationen/2025-08-05_opendataranking25.pdf
+file: /files/publikationen/2025-08-05_opendataranking2025.pdf
 format: pdf
 pages: 17
 size: 310KB
