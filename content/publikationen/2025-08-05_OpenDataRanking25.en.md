@@ -18,4 +18,4 @@ links:
 - url: <a href="https://opendataranking.de" target="_blank">Interactive version of the Open Data Ranking</a>
 date: 2025-08-05
 ---
-The Open Data Ranking is getting an update! For the second time, we are taking a look at the open data landscape in Germany, considering more than just the sheer number of data sets. An analysis of the legal framework, data quality, and open data ecosystem over the past year revealed no significant improvements in 2024.
+The Open Data Ranking has been updated! For the second time, we are examining the open data landscape in Germany, considering more than just the sheer number of data sets. An analysis of the legal framework, data quality, and open data ecosystem over the past year revealed no significant improvements in 2024.
