@@ -111,7 +111,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/en/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -121,6 +121,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/publikationen/opendataranking25/</loc>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/opendataranking25/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/opendataranking25/"
+                />
+  </url><url>
+    <loc>https://okfn.de/en/publikationen/</loc>
+    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
                 />
   </url><url>
     <loc>https://okfn.de/en/publikationen/2024-jahresbericht/</loc>
@@ -134,19 +160,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://okfn.de/en/publikationen/2024-jahresbericht/"
-                />
-  </url><url>
-    <loc>https://okfn.de/en/publikationen/</loc>
-    <lastmod>2025-06-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
                 />
   </url><url>
     <loc>https://okfn.de/en/publikationen/fromsoftwaretosociety/</loc>

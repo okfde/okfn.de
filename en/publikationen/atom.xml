@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/en/publikationen/atom.xml"/>
-  <updated>2025-06-23T00:00:00+0000</updated>
+  <updated>2025-08-05T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Data Ranking Germany 2025</title>
+    <link rel="alternate" href="https://okfn.de/en/publikationen/opendataranking25/"/>
+    <id>https://okfn.de/en/publikationen/opendataranking25/</id>
+    <published>2025-08-05T00:00:00+0000</published>
+    <updated>2025-08-05T00:00:00+0000</updated>
+    <summary>&lt;p&gt;The Open Data Ranking is getting an update! For the second time, we are taking a look at the open data landscape in Germany, considering more than just the sheer number of data sets. An analysis of the legal framework, data quality, and open data ecosystem over the past year revealed no significant improvements in 2024.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Open Knowledge Foundation Germany e. V. - 2024 Annual report</title>
