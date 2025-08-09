@@ -97,7 +97,9 @@
         <div class="col col-10 mb-s">
           <h2>{{ i18n "home_blog_news" }}</h2>
         </div>
-        {{- partial "featured_post.html" . -}}
+        <div class="col">
+            {{- partial "featured_post.html" . -}}
+        </div>
 
         <ul class="l__blog__posts container mt-s">
           {{ range first 4 ( sort (where (where $.Site.AllPages "Section" "blog") "Kind" "page")) }}
