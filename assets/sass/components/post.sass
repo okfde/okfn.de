@@ -24,6 +24,7 @@
   display: block
   padding: $space
   color: black
+  text-decoration: none
   &:hover
     text-decoration: none
     color: $blue
@@ -84,6 +85,13 @@
     width: 1em
     height: 2px
     background-color: $black
+
+  #tags
+    display: flex
+    flex-direction: column
+    gap: $space/8
+    a
+      text-decoration: none
 
 // Styles specific for blog posts
 .c__post--single
