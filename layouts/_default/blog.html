@@ -54,7 +54,9 @@
     {{ $nate := .Paginate (where .Site.RegularPages "Section" "blog") }}
 
     {{ if eq $nate.HasPrev false}}
-    {{- partial "featured_post.html" . -}}
+      <div class="container">
+          {{- partial "featured_post.html" . -}}
+      </div>
     {{ end }}
 
     {{/* on the index page, the newest post will already be shown above as featured */}}
