@@ -1,5 +1,6 @@
 <figure class="license">
-  <img src="{{.Params.image.src}}" alt="{{.Params.image.title}}">
+  {{/* Empty alt tag because title is provided as figcaption */}}
+  <img src="{{.Params.image.src}}" alt="">
   {{ if .Params.image.license}}
   <figcaption>{{ with .Params.image.title }}{{.}}{{end}}
     {{ with .Params.image.license_url }}<a href="{{ . }}">{{ end }}
