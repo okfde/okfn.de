@@ -18,29 +18,16 @@
 <link rel="preload" href="/fonts/apercu-regular-pro.woff" as="font" type="font/woff" crossorigin>
 
 
-<link rel="stylesheet" href="/sass/main.min.1ecd85edfd913ef74fbf9f9e623d80d45bb5ab838582cdb1bbd85387fd9f69d9.css">
+<link rel="stylesheet" href="/sass/main.min.f86a2c56383af56120947e0278a4a6fb1a805ecd5594fecf7de0569767421142.css">
 <script src="/js/banner.js"></script>
 
-
-<link rel="preload" href="/js/vendor/lunr.min.792f151d5cbec84d043d9b2dceec9bbd1bfc9a68f1d0cbee8c8b35bf76f2e6e1.js" as="script">
-<script src="/js/vendor/lunr.min.792f151d5cbec84d043d9b2dceec9bbd1bfc9a68f1d0cbee8c8b35bf76f2e6e1.js"></script>
-
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
 
 
 
-<link rel="preload" href="/js/site-search-index.json" as="fetch">
-<link rel="preload" href="/js/bundle.min.min.9addc2dd3231404fd2639020d5b80432a9bdb12c56a4f17289e5484400fcdca3.js" as="script">
-<script src="/js/bundle.min.min.9addc2dd3231404fd2639020d5b80432a9bdb12c56a4f17289e5484400fcdca3.js"></script>
-
-
-  
-  
-
-  <link rel="preload" href="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js" as="script">
-  <link rel="preload" href="/js/blog-search-index.json" as="fetch">
-  <script src="/js/blog-search.min.2771ef519438d0e26d12fd4e9cee959f5c73516a595ece11901a707f096fdbb6.js"></script>
-  <script src="/js/share-m.js"></script>
-
+<link rel="preload" href="/js/bundle.min.min.b9744298bbe3e883c2b78011dba5e8e9d0e93a5f2b415d972044d05e300fca45.js" as="script">
+<script src="/js/bundle.min.min.b9744298bbe3e883c2b78011dba5e8e9d0e93a5f2b415d972044d05e300fca45.js"></script>
 
 <title>Es wäre toll, wenn ihr uns verklagt! - Blog - OKF</title>
 
@@ -241,35 +228,23 @@
   </div>
 </header>
 <div id="" class="l__search__overlay js-search-form">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-        <div>
-          <label for="js-search-input" class="sr-only">Suchfeld</label>
-          <input type="text" id="js-search-input" class="l__search__input" placeholder='Wonach suchst Du?'>
-          <button id="js-close-search" class="l__search__close" title='Suche schließen' aria-label='Suche schließen'>
-            <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Close Icon</title>
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g transform="translate(-923.000000, -189.000000)" stroke="#000000" stroke-width="3">
-            <g transform="translate(924.000000, 190.000000)">
-                <path d="M0.529411765,0.529411765 L17.5036442,17.5036442"></path>
-                <path d="M0.529411765,0.529411765 L17.5036442,17.5036442" transform="translate(9.000000, 9.000000) scale(-1, 1) translate(-9.000000, -9.000000) "></path>
-            </g>
-        </g>
-    </g>
-</svg>
-</button></h2></button>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col">
+                <div class="l__search__close__container">
+                    <button id="js-close-search" class="l__search__close">
+                        Suche schließen
+                    </button>
+                </div>
+
+                <div id="search"></div>
+            </div>
         </div>
-        <div><p id="js-search-result-count" class="l__search_results__count"></p></div>
-        <ul class="l__search__results" id="js-search-results"></ul>
-      </div>
     </div>
-  </div>
 </div>
-<main id="content" name="content">
+<div id="content" name="content">
       <div class="">
-<main>
+<main data-pagefind-body>
   <article class="c__post--single">
     <div class="container c__post__title">
       <div class="row">
@@ -366,7 +341,7 @@
 </main>
 
       </div>
-    </main><footer class="l__footer">
+    </div><footer class="l__footer">
   <div class="printer-hidden">
       <nav><div class="c__nav-list--columns">
   <ul>
