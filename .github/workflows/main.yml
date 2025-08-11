@@ -17,20 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: NPM or Yarn install with caching
-        uses: actions/setup-node@v4
-      - run: npm install
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v3.0.0
         with:
           extended: true
           hugo-version: "0.139.4"
       - run: hugo
-      - run: pwd
-      - name: Create site search index
-        run: cat public/index.json | node scripts/lunr/site-index.js > public/js/site-search-index.json
-      - name: Create blog search index
-        run: cat public/blog/index.json | node scripts/lunr/blog-index.js > public/js/blog-search-index.json
+      - name: Create pagefind index
+        run: npx --yes pagefind@1.3.0 --site public
       - name: Copy atom feed in place
         run: cp public/blog/atom.xml public/atom.xml
       - name: Copy more feeds in place

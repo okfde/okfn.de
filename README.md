@@ -22,13 +22,12 @@ Dann auf `localhost:1313`  die Seite anschauen. (Die Suche wird hier nicht funkt
 
 ### Seite lokal laufen lassen mit Suche
 
-Seite und dann Indexe bauen.
+Die Seite benutzt [pagefind](http://pagefind.app) für die Suche. Wenn du lokal die Suche testen möchtest,
+musst du den Index bauen. Das geht so:
 
 ``` bash
 $ hugo && \
-  cat public/index.json | node scripts/lunr/site-index.js > public/js/site-search-index.json  && \
-  cat public/blog/index.json | node scripts/lunr/blog-index.js > public/js/blog-search-index.json && \
-  echo "Done"
+  npx --yes pagefind@1.3.0 --site public
 ```
 Dann in `/public` einen HTTP-Server starten.
 
