@@ -51,17 +51,17 @@
 
 
   <div id="js-blog-index">
-    {{ $nate := .Paginate (where .Site.AllPages "Section" "blog") }}
+    {{ $nate := .Paginate (where .Site.RegularPages "Section" "blog") }}
 
     {{ if eq $nate.HasPrev false}}
     {{- partial "featured_post.html" . -}}
     {{ end }}
 
+    {{/* on the index page, the newest post will already be shown above as featured */}}
+    {{ $skip := cond (not $nate.HasPrev) 1 0 }}
     <ul class="l__blog__posts container mt-d">
-      {{ range $nate.Pages }}
-      {{ if eq .Kind "page"}}
+      {{ range $nate.Pages | after $skip }}
       {{- partial "post_item.html" . -}}
-      {{ end }}
       {{ end }}
     </ul>
 

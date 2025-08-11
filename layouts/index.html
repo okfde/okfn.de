@@ -100,7 +100,7 @@
         {{- partial "featured_post.html" . -}}
 
         <ul class="l__blog__posts container mt-s">
-          {{ range first 4 ( sort (where (where $.Site.AllPages "Section" "blog") "Kind" "page")) }}
+          {{ range (where $.Site.RegularPages "Section" "blog") | sort | after 1 | first 4 }}
           {{- partial "post_item.html" . -}}
           {{ end }}
         </ul>
