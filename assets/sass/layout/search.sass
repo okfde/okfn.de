@@ -8,54 +8,8 @@
   padding: 3em 0
   z-index: 10
   display: none
-  box-shadow: black 0px 0px 5px 0px
   &.open
     display: block
-
-.l__search__input
-  flex: 1
-  width: 75%
-  margin-right: 1rem
-  font-weight: 500
-  border: none
-  border-bottom: 2px solid #000
-  background-color: #fff
-  color: #000
-  padding: 0
-  font-size: 1.7em
-  line-height: 1.8
-  &:focus
-    border-color: $anchor
-  @include media-breakpoint-up(lg)
-    width: 84%
-    font-size: 3em
-    line-height: 1.2
-
-.l__search__results
-  margin-top: $space-double
-  font-size: 18px
-
-.l__search__result
-  padding: 0.5em 0
-  margin-bottom: 2em
-  p:last-of-type:after
-    content: ""
-    display: block
-    clear: left
-  a
-    display: block
-    color: black
-    &:hover,
-    &:active,
-    &:focus
-      text-decoration: none;
-      .l__search__result__header
-        color: $anchor
-    &:focus
-      outline: 1px solid $anchor
-
-.l__search__input-value
-  color: $anchor
 
 .l__search__btn
   .fake-link
@@ -63,6 +17,8 @@
   button
     border: none
     background: none
+    font-size: 16px
+    font-weight: 500
     &:hover,
     &:active
       cursor: pointer
@@ -73,33 +29,19 @@
       width: 1.1rem
       height: 1rem
 
+.l__search__close__container
+  display: flex
+  justify-content: flex-end
+  margin-bottom: $space / 4
+
 .l__search__close
   display: inline-block
-  width: 1.5em
-  height: 3.5rem
-  vertical-align: top
-  font-size: 2em
+  font-size: 1rem
   color: black
   border: none
   background: white
   cursor: pointer
+  text-decoration: underline
+
   &:focus
     outline: $anchor 1px solid
-
-.l__search__result__header
-  margin-bottom: 0.5em
-  margin-top: 0.2em
-
-.l__search__result__image
-  width: 265px
-  height: 179px
-  object-fit: cover
-  margin-right: 2em
-  @include media-breakpoint-up(md)
-    float: left
-
-.l__search_results__count
-  font-size: 18px
-  font-weight: 500
-  color: grey
-  margin-top: 1em

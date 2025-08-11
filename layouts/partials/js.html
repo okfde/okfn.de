@@ -1,23 +1,10 @@
 {{ $banner := resources.Get "/js/banner.js" }}
 <script src="{{$banner.RelPermalink}}"></script>
 
-{{ $lunr := resources.Get "/js/vendor/lunr.js" | resources.Minify | resources.Fingerprint }}
-<link rel="preload" href="{{$lunr.RelPermalink}}" as="script">
-<script src="{{$lunr.RelPermalink}}"></script>
-
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
 {{ $toggle := resources.Get "js/toggle.js" }}
 {{ $ssearch := resources.Get "/js/site-search.js" }}
 {{ $js := slice $toggle $ssearch | resources.Concat "js/bundle.min.js"  | resources.Minify | resources.Fingerprint}}
-<link rel="preload" href="/js/site-search-index.json" as="fetch">
 <link rel="preload" href="{{$js.RelPermalink}}" as="script">
 <script src="{{$js.RelPermalink}}"></script>
-
-{{ if eq .Section "blog"}}
-  {{ $share := resources.Get "/js/share-m.js" }}
-  {{ $bsearch := resources.Get "/js/blog-search.js" | resources.Minify | resources.Fingerprint }}
-
-  <link rel="preload" href="{{$bsearch.RelPermalink}}" as="script">
-  <link rel="preload" href="/js/blog-search-index.json" as="fetch">
-  <script src="{{$bsearch.RelPermalink}}"></script>
-  <script src="{{$share.RelPermalink}}"></script>
-{{ end }}
