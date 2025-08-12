@@ -1,5 +1,4 @@
 ---
-type: education
 kategorien:
   - Bildung
   - Community
@@ -10,6 +9,7 @@ tile: double
 weight: 6
 layout: project
 type: featured
+tileclass: dark
 title: Jugend hackt
 website: https://jugendhackt.org
 img: projects/Jugendhackt_Projektuebersicht_bigTile.png

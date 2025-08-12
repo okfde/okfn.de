@@ -21,6 +21,7 @@ contact_person: denesjaeger
 years: 2022 - 2025
 financing:
   - Mercator foundation
+tileclass: mixed
 ---
 Public authorities from federal to local level produce and publish thousands of documents every day. In the context of the omnipresent digitalisation of public services, many goals have been set in recent years concerning the use of open data standards. However, the implementation fell short of the target so far. There is a great need for public authorities to build up knowledge and competences in the field of data provision. With this project the OKF wants to put its focus again on one of its core topics: contributing to the social discourse by offering our expertise in the field of open data.
 

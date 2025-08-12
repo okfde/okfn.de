@@ -9,6 +9,7 @@ tile: double
 type: featured 
 layout: project
 weight: 3
+tileclass: mixed
 img: projects/opendata_tile.png
 img_header: projects/opendata_header.jpg
 people:
