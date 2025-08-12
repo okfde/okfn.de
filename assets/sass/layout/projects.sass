@@ -104,9 +104,14 @@ $theight-large: 503px
   margin-top: $space
   li
     display: inline-block
+    &:not(:last-child):after
+      content: '/'
+      color: $bright-aqua
+      font-size: 1.3em
+      margin: 0 0.2em
+
   .h4
     color: $black
-    //font-weight: 400
 
 
 // SINGLE
