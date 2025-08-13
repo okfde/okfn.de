@@ -13,7 +13,7 @@ img_header:
 people:
   - name: Maximilian Voigt
     role: Project Manager
-years: 2015 - today
+years: 2015 - 2020
 website: https://datenschule.de
 contact:
   twitter: datenschule
