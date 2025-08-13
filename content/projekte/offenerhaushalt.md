@@ -16,7 +16,7 @@ categories:
 tile: single
 layout: project
 website: https://offenerhaushalt.de
-years: 2011-heute
+years: 2011-2016
 financing:
   - ehrenamtliches Projekt
 contact:
