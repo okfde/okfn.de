@@ -16,7 +16,7 @@ partner:
   - Gesellschaft für Informatik e.V.
 financing:
   - BMBF
-years: 2018 - today
+years: 2018 - 2019
 people:
   - name: Bela Seeger
     role: Projektleitung
