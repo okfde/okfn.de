@@ -68,7 +68,7 @@ An unserem Verein halten weder private noch juristische Personen Anteile. Dies i
 Die Projektförderung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds entspricht etwa 14% der Gesamteinnahmen im Jahr 2024. Die Förderung des Arcadia Fund für FragDenStaat macht knapp 10% des Gesamtjahresbudgets aus. Alle weiteren Einnahmen liegen jeweils deutlich unter 10% der Gesamteinnahmen.
 
 ### Interne:r Ethikbeauftragte:r
-Seit 2017 gibt es in der OKF das Amt der Ethikbeauftragten im Team. Die Ethikbeauftragte ist die erste Anlaufstelle für interne und externe ethische Fragen. Darüber hinaus ist die Ethikbeauftragte erste Anlaufstelle für Teammitglieder, die Sorgen und Unsicherheiten jeglicher Art haben. Die Ethikbeauftragte sorgt für die Weiterleitung der Anfragen an die richtigen Stellen (z.B. Board oder GF) und überwacht den Prozess. Derzeitige Ethikbeauftragte ist Giulia Norberti. Externe Anfragen gehen an die Adresse ethics@okfn.de. [<a href="/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
+Seit 2017 gibt es in der OKF das Amt der Ethikbeauftragten im Team. Die Ethikbeauftragte ist die erste Anlaufstelle für interne und externe ethische Fragen. Darüber hinaus ist die Ethikbeauftragte erste Anlaufstelle für Teammitglieder, die Sorgen und Unsicherheiten jeglicher Art haben. Die Ethikbeauftragte sorgt für die Weiterleitung der Anfragen an die richtigen Stellen (z. B. Board oder Geschäftsführung) und überwacht den Prozess. Derzeitige Ethikbeauftragte ist Giulia Norberti. Externe Anfragen gehen an die Adresse ethics@okfn.de. [<a href="/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
 
 ### Whistleblowing Policy
 
