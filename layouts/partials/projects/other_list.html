@@ -3,9 +3,6 @@
   {{ range $index, $var := $list}}
   <li>
     <a href="{{.Permalink}}" class="h4">{{.Title}}</a>
-    {{ if ne (add $index 1) (len $list)}}
-    <span class="c__separator">/</span>
-    {{end}}
   </li>
   {{ end }}
 </ul>

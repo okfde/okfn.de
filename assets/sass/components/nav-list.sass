@@ -23,10 +23,27 @@
   .inactive
     color: $grey
 
+.c__nav-list--columns
+  gap: $space
+  display: grid
+
+  @include media-breakpoint-up(md)
+    grid-template-columns: repeat(4, auto)
+
+  @include media-breakpoint-down(md)
+   grid-template-rows: repeat(4, auto)
+
+  ul
+    flex-direction: column
+    display: flex
+    gap: $space/8
+  a
+    color: black
+    font-weight: 500
+
 .c__nav-list
   display: flex
   flex-direction: column
-  display: inline
   @include media-breakpoint-up(md)
     display: flex
     flex-direction: row
@@ -54,23 +71,6 @@
     color: $anchor
     padding-bottom: 1px
     border-bottom: 2px solid $anchor
-
-.c__nav-list--filter
-  font-weight: 400
-  font-size: 20px
-  a
-    padding-bottom: 0
-    border-bottom: 2px solid transparent
-
-  .active
-    color: $anchor
-    border-color: $anchor
-
-  @include media-breakpoint-down(md)
-    font-size: 18px
-    margin: 3em 0
-    a
-      margin: 0 0.4em
 
 .c__nav-list--report
   a

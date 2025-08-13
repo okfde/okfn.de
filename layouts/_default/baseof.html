@@ -8,11 +8,11 @@
   <body class="no-js rebuildall">
     {{- partial "header.html" . -}}
     {{- partial "site-search" . -}}
-    <main id="content" name="content">
-      <div class="">
+    <div id="content" name="content">
+      <div class="{{- block "main-class" . }}{{- end }}">
         {{- block "main" . }}{{- end }}
       </div>
-    </main>
+    </div>
     {{- partial "footer.html" . -}}
     {{- partial "matomo.html" . -}}
     <!-- {{- partial "banner.html" . -}} -->

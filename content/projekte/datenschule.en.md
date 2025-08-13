@@ -1,28 +1,23 @@
 ---
 title: Datenschule
 subtitle: Do good with data. Learn how to use data.
-type: education
 type: archive
 kategorien:
   - Bildung
 categories:
   - education
 tile: single
-weight: 5
 layout: project
 img: projects/Datenschule_Projektuebersicht_smallTile.png
 img_header:
 people:
   - name: Maximilian Voigt
     role: Project Manager
-contact_person: maximilianvoigt
-years: 2015 - today
+years: 2015 - 2020
 website: https://datenschule.de
 contact:
   twitter: datenschule
   mail: info@datenschule.de
-more_text: |-
-    More information on datenmachenschule is available at the <a href="https://datenschule.de">website</a> of Datenschule.
 ---
 
 The Data School is a nationwide educational program on the subject of data and technologies. We mainly target non-profit organisations that work with data, or alternatively want to deepen their existing data knowledge. Within a cooperation period of about three months, we developed practice-oriented workshops and individualized technical training courses with our partners and trainers to support social projects.

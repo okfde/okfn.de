@@ -3,6 +3,7 @@ title: Transparency
 meta: Voluntary transparency information about the organisation
 img_header: /okf/social-og/transparenz-social-og.png
 ---
+jump straight to [Finances](#finances)
 
 ### Name, registered office, address and year of incorporation
 
@@ -14,22 +15,23 @@ Register of associations no.: VR 30468 B <br>
 
 ### Complete statutes as well as information on the organisational goals (DE)
 
-The statutes of the Open Knowledge Foundation Deutschland e. V. can be found [here](/files/documents/01_Satzung_2024.pdf).
+Read the [statutes](/files/documents/01_Satzung_2024.pdf) of the Open Knowledge Foundation Deutschland e. V.
 
 ### Information on tax relief
 
-Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Corporation Tax Act and from trade tax pursuant to § 3 no. 6 of the Trade Tax Act due to the promotion of science and research, the promotion of popular and vocational education as well as student assistance, the strengthening of the democratic state as well as the strengthening of civic commitment pursuant to the last [exemption notice](/files/documents/2023_Freistellungsbescheid_fuer2022.pdf) received by us from the Tax Office for Corporations I, Berlin dated 27.11.2023.
+Our work is exempt from corporation tax pursuant to § 5 para. 1 no. 9 of the Corporation Tax Act and from trade tax pursuant to § 3 no. 6 of the Trade Tax Act due to the promotion of science and research, the promotion of popular and vocational education as well as student assistance, the strengthening of the democratic state as well as the strengthening of civic commitment pursuant to the last [exemption notice](/files/documents/2025-05-Freistellungsbescheid-fuer-2023.pdf) received by us from the Tax Office for Corporations I, Berlin dated 13.05.2025.
 
-A current extract from the register of associations can be found [here](/files/documents/2025-02-07-Vereinsregisterauszug-OKF-DE.pdf).
+Find here a [current extract from the register of associations](/files/documents/2025-02-07-Vereinsregisterauszug-OKF-DE.pdf).
 
 ### Name and function of essential decision makers
 
 Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Further board members are Elina Eickstädt, Lea Gimpel, Stefan Heumann, Fiona Krakenbürger and Felix Reda. Henriette Litta is managing director of the association.
 
-### Annual reports [DE]
+### Annual reports 
 
 Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
+- [Jahresbericht 2024](https://2024.okfn.de/) <br>
 - [Jahresbericht 2023](https://2023.okfn.de/) <br>
 - [Jahresbericht 2022](https://2022.okfn.de/) <br>
 - [Jahresbericht 2021](https://2021.okfn.de/) <br>
@@ -46,32 +48,21 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### Personnel structure
 
-In addition to the managing director, OKF DE employs 40 team members (2023). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes all personnel with responsibilities for the organization itself. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE’s’ is about 66 percent.
+In addition to the managing director, OKF DE employs 42 team members (2024). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes all personnel with responsibilities for the organization itself. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE’s’ is about 60 percent.
 
+### Finances
 
-### Information on source & use of funds
+Since our launch in 2011, our funding is based on project work. Our projects are financed by a variety of changing private and public funding institutions. In addition, we generate income via donations and to a small degree via economic activities.
 
-Under the heading "Funding" we present in detail the financial development of the organization and the income and expenditure of the current financial year. Since 2018, we have been undergoing a voluntary external audit.
-](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
-- [Audit Report 2023](/files/documents/WP-Berichte/OKF-DE-WPBericht-2023.pdf) <br>
-- [Audit Report 2022](/files/documents/WP-Berichte/OKF-DE-WPBericht-2022.pdf) <br>
-- [Audit Report 2021](/files/documents/WP-Berichte/OKF-DE-WPBericht-2021.pdf) <br>
-- [Audit Report 2020](/files/documents/WP-Berichte/OKF-DE-WPBericht-2020.pdf) <br>
-- [Audit Report 2019](/files/documents/WP-Berichte/OKF-DE-WPBericht-2019.pdf) <br>
-- [Audit Report 2018](/files/documents/WP-Berichte/OKF-DE-WPBericht-2018.pdf) <br>
-- [Balance Sheet 2023](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2023.pdf) <br>
-- [Balance Sheet 2022](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2022.pdf) <br>
-- [Balance Sheet 2021](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2021.pdf) <br>
-- [Balance Sheet 2020](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2020.pdf) <br>
-- [Balance Sheet 2019](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2019.pdf) <br>
-- [Balance Sheet 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-2018.pdf) | [Opening Balance Sheet 2018](/files/documents/Jahresabschluesse/OKF-DE-Jahresabschluss-Eröffnungsbilanz_2018.pdf) <br>
-- [Profit and Loss Report 2017](/files/documents/jahresabschluesse/jahresabschluss-2017.pdf) <br>
-- [Profit and Loss Report 2016](/files/documents/jahresabschluesse/jahresabschluss-2016.pdf) <br>
-- [Profit and Loss Report 2015](/files/documents/jahresabschluesse/jahresabschluss-2015.pdf) <br>
-- [Profit and Loss Report 2014](/files/documents/jahresabschluesse/jahresabschluss-2014.pdf) <br>
-- [Profit and Loss Report 2013](/files/documents/jahresabschluesse/jahresabschluss-2013.pdf) <br>
-- [Profit and Loss Report 2012](/files/documents/jahresabschluesse/jahresabschluss-2012.pdf) <br>
-- [Profit and Loss Report 2011](/files/documents/jahresabschluesse/jahresabschluss-2011.pdf)
+#### Overview of the recent financial year
+
+In the financial year 2024, we raised 3.742 million euros for our work. This was offset by total expenditure of 2.959 million euros.
+
+#### Detailed information on source & use of funds
+
+Here you can find in detail the financial development of the organization and the income and expenditure of the current financial year. Since 2018, we have been undergoing a voluntary external audit.
+
+{{< finances >}}
 
 ### Legal affiliations
 
@@ -79,7 +70,7 @@ Neither private nor legal persons hold shares in our association. This would not
 
 ### Names of legal entities whose annual payments account for more than 10% of the total annual budget.
 
-Core funding from Luminate and a donation of the Alfred Landecker Foundation for FragDenStaat each correspond to approx. 13% of the total income in 2023. Project funding from the Federal Ministry of Education and Research to finance the Prototype Fund as well as the project MoFab accounts for approximately 11% of the total annual budget in 2023. Project funding from the Saxonian State Ministry for Culture and Education for Jugend hackt activities in Saxony accounts for approx. 10% of the total income in 2023. All other income is well below 10% of total income.
+Project funding from the German Federal Ministry of Education and Research to finance the Prototype Fund corresponds to approximately 14% of the total income in 2024. Funding of the Arcadia Fund for FragDenStaat accounts for almost 10% of the total annual budget in 2024. All other income is well below 10% of the total income.
 
 ### Internal ethics officer
 
@@ -93,6 +84,4 @@ OKF has joined a civil society alliance to introduce a [Whistleblowing Policy](h
 
 We are signatories to the [Initiative Transparent Civil Society](https://www.transparente-zivilgesellschaft.de/) and thus commit ourselves to the greatest possible openness. We are registered in the [Lobbyregister of the German Parliament](https://www.lobbyregister.bundestag.de/startseite) under registration number R000405. We are also registered in the [EU Transparency Register](https://ec.europa.eu/transparencyregister/public/homePage.do?redir=false&locale=de). 
 
-### Licenses
 
-We are committed to the publication, use and reuse of open knowledge. We take intellectual property rights very seriously. Therefore, it is only logical to make all the content we create as openly accessible as possible.

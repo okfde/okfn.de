@@ -1,41 +1,42 @@
 <footer class="l__footer">
-  <div class="printer-hidden">
-    <div class="l__inner">
-      <section class="l__footer__contact col col-12 col-md-3 offset-md-2 order-2">
+      <nav>
+      {{- partial "footer-nav" . -}}
+      </nav>
+
+      <section class="newsletter">
+        <h2>Newsletter</h2>
+        <p>{{ i18n "newsletter_text" }}</p>
+        {{- partial "newsletter" -}}
+      </section>
+
+      <section class="social-media">
+        {{- partial "social-media" . -}}
+      </section>
+
+      <section class="contact">
         <h2>{{ i18n "footer_contact" }}</h2>
         <p>Open Knowledge Foundation<br>
-          Deutschland e.V.</p>
+          Deutschland e. V.</p>
         <p>
           Singerstr. 109<br>
           10179 Berlin</p>
         <p>+49-30-97894230<br>
           info@okfn.de [<a href="/okf/info_okfn_de_pub.asc">OpenPGP</a>]</p>
       </section>
-      <section class="col col-10 col-sm-10 col-md-7 order-1">
-        <h2>Newsletter</h2>
-        <p>{{ i18n "newsletter_text" }}</p>
-        {{- partial "newsletter" -}}
-      </section>
-      <nav class="col col-12 col-sm-10 col-md-7 col-lg-6 order-3">
-        {{- partial "footer-nav" . -}}
-      </nav>
-      <div class="col order-4 col-8 col-sm-6 col-md-3 offset-md-2 offset-lg-3">
-        {{- partial "social-media" . -}}
-      </div>
-    </div>
-    <div class="l__inner">
-      <div class="l__footer__footnote col col-12 col-sm-10 col-md-7 order-5">
+      <div class="l__footer__footnote">
         <div class="row">
           <div class="col-3">
-            <img src="/okf/ccby.svg" alt="CC-BY 4.0" width="100%">
+            <img src="/okf/cc-by-sa.svg" alt="CC-BY-SA 4.0" width="100%">
           </div>
           <div class="col-9">
             {{ if eq .Lang "de" }}
-            <p>Die Inhalte dieser Webseite sind, sofern nicht anders angegeben, nach <a
-                href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a> lizensiert. </p>
+            <p>Die Inhalte dieser Webseite sind, sofern nicht anders angegeben, bei Nennung von Open
+                Knowledge Deutschland unter der Lizenz <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">
+                Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a> lizensiert. </p>
             {{ else }}
-            <p>Unless otherwise stated, the contents of this website are licensed under <a
-                href="https://creativecommons.org/licenses/by/3.0/de/">Creative Commons 3.0 Attribution</a>. </p>
+              <p>The contents of this website are, unless otherwise stated, licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">
+                  Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a> license when crediting Open
+                  Knowledge Deutschland. </p>
             {{ end }}
           </div>
         </div>
@@ -53,18 +54,18 @@
         </div>
         <div class="row mt-3">
           <div class="col-3">
-            <img src="/okf/logo_itz_footer.jpg" alt='{{ i18n "itz_alt" }}' width="100%">
+            <a href="/transparenz"><img src="/okf/logo_itz_footer.jpg" alt='{{ i18n "itz_alt" }}' width="100%"></a>
           </div>
           <div class="col-9">
             {{ with .Site.GetPage "/transparenz" }}
               {{ if eq .Lang "de" }}
                 <p>
-                  Die OKF ist Mitglied der „<a href="https://www.transparente-zivilgesellschaft.de">Initiative Transparente Zivilgesellschaft</a>“ von Transparency International Deutschland. 
+                  Wir sind Mitglied der „<a href="https://www.transparente-zivilgesellschaft.de">Initiative Transparente Zivilgesellschaft</a>“ von Transparency International Deutschland.
                 </p>
               {{ else }}
                 <p>
-                  We are signatories to the “<a href="https://www.transparente-zivilgesellschaft.de">Transparent Civil Society Initiative</a>” 
-                  of Transparency  Germany.
+                  We are signatories to the “<a href="https://www.transparente-zivilgesellschaft.de">Transparent Civil Society Initiative</a>”
+                  of Transparency Germany.
                 </p>
               {{ end }}
             {{ end }}
@@ -72,10 +73,4 @@
 
         </div>
     </div>
-  </div>
-  <div class="printer-only">
-    <p>
-      Open Knowledge Foundation Deutschland e. V. | Singerstr. 109, 10179 Berlin | info@okfn.de | www.okfn.de
-    </p>
-  </div>
 </footer>

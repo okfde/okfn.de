@@ -32,11 +32,11 @@
   <header class="l__blog__header container align-items-end">
     <div class="row align-items-end">
       <h1 class="col col-5 col-sm-9 col-lg-10">{{ .Title }}</h1>
-      <div class="l__blog__search col col-7 col-sm-3 col-lg-2">
+      <!-- <div class="l__blog__search col col-7 col-sm-3 col-lg-2">
         <noscript>{{ i18n "blog_search_js" }}</noscript>
         <label class="sr-only" for="js-blog-search-input">{{ i18n "blog_search" }}</label>
         <input id="js-blog-search-input" type="text" value="" placeholder='{{ i18n "blog_search_verb"}}'>
-      </div>
+      </div> -->
     </div>
   </header>
 
@@ -51,17 +51,19 @@
 
 
   <div id="js-blog-index">
-    {{ $nate := .Paginate (where .Site.AllPages "Section" "blog") }}
+    {{ $nate := .Paginate (where .Site.RegularPages "Section" "blog") }}
 
     {{ if eq $nate.HasPrev false}}
-    {{- partial "featured_post.html" . -}}
+      <div class="container">
+          {{- partial "featured_post.html" . -}}
+      </div>
     {{ end }}
 
+    {{/* on the index page, the newest post will already be shown above as featured */}}
+    {{ $skip := cond (not $nate.HasPrev) 1 0 }}
     <ul class="l__blog__posts container mt-d">
-      {{ range $nate.Pages }}
-      {{ if eq .Kind "page"}}
+      {{ range $nate.Pages | after $skip }}
       {{- partial "post_item.html" . -}}
-      {{ end }}
       {{ end }}
     </ul>
 

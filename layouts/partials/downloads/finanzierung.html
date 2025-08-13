@@ -1,31 +1,22 @@
-<div class="row">
-  <h2 class="col col-12 mb-s">Downloads</h2>
-</div>
-<ul class="row c__download-list mb-l">
-  {{ $lang := .Lang }}
-  {{ range $.Site.Data.downloadsfinanzierung }}
-  <li class="col col-12 col-sm-6">
-    <div>
-      {{ if eq $lang "de"}}
-      <h3 class="h4">{{ .de.title }}</h3>
-      {{ with .de.text }}<p>{{ . }}</p>{{ end }}
-      {{ else }}
-      <h3 class="h4">{{ .en.title }}</h3>
-      {{ with .en.text }}<p>{{ . }}</p>{{ end }}
-      {{ end }}
-      {{ with .path}}
+<ul class="c__download-list">
+    {{ $lang := .Lang }}
+    {{ range $.Site.Data.downloadsfinanzierung }}
+    <li>
+        {{ $content := (cond (eq $lang "de") .de .en) }}
+        <h3 class="h4">{{ $content.title }}</h3>
+        <p>{{ $content.text | markdownify }}</p>
+        {{ with .path}}
         <p><a href="{{.}}">{{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} PDF</a></p>
         {{ end }}
-      {{ $p := .prefix }}
-      {{ with .years }}    
+        {{ $prefix := .prefix }}
+        {{ with .years }}
         <p>
-	  {{ range $i, $v := . }}
-          {{ if ne $i 0 }},{{ end }}
-          <a href="{{ $p }}-{{ $v }}.pdf">{{ $v }}</a>
-          {{ end }}
+            {{ range $i, $v := . }}
+            {{ if ne $i 0 }},{{ end }}
+            <a href="{{ $prefix }}-{{ $v }}.pdf">{{ $v }}</a>
+            {{ end }}
         </p>
-      {{ end }}
-    </div>
-  </li>
-  {{ end }}
+        {{ end }}
+    </li>
+    {{ end }}
 </ul>

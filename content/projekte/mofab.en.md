@@ -1,5 +1,5 @@
 ---
-type: research
+type: archive
 kategorien:
   - Civic Tech
 title: MoFab
@@ -19,17 +19,13 @@ contact:
   mail: maximilian.voigt@okfn.de
 
 subtitle: Vision oder Utopie? Open Source im ländlichen Raum
-contact_person: maximilianvoigt
-years: 2021 - heute
+years: 2021 - 2023
 partners:
  - AWO Brandenburg Süd
  - Universität Potsdam
  - Wissenschaftsladen Potsdam
 financing:
   - BMBF
-more_text: |-
-    
-
 ---
 
 

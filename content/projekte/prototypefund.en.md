@@ -1,17 +1,18 @@
 ---
 title: Prototype Fund
-subtitle: 47.500€ for your public interest tech idea
+subtitle: Exploring Ideas - Fostering Openness
 type: research
 categories:
   - Civic Tech
   - Community
+  - Public Interest Tech
 tile: double
 website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
-img_square: projects/prototypefund_square.jpg
+img_square: projects/PrototypeFund_logo_icon_dark.svg
 img_header: projects/PrototypeFund_Header.png
 layout: project
-weight: 4
+weight: 2
 type: featured
 people:
   - name: Marie Kreil
@@ -24,9 +25,11 @@ people:
     role: Communication and project management
   - name: Marie-Lena Wiese
     role: Program Management
+  - name: Enyong Küsgen
+    role: Program Management
 Financing:
-  - BMBF
-contact_person: patricialeu
+  - BMFTR
+contact_person: marie_k
 contact_alternate_email: info@prototypefund.de
 years: 2016 - today
 website: https://prototypefund.de
@@ -40,17 +43,15 @@ contact:
 
 cta: Mitmachen
 cta_text: |-
-     You can apply for the Prototype Fund every 6 months. You can find all the information you need <a href="https://prototypefund.de/faq/">here</a>.
+     You can apply for the Prototype Fund every October 1st to November 30th. You can find all the information you need <a href="https://www.prototypefund.de/en/application">here</a>.
 more_text: |-
     Further information can be found on the <a href="https://prototypefund.de">website</a> of the Prototype Fund.
 ---
-The Prototype Fund supports socially relevant software projects and increases their sustainable impact by open sourcing as a principle. In short: __We support Public Interest Tech.__
+With the Prototype Fund, we support socially relevant software projects and increase their sustainable impact through open source by principle. In short: We fund open source software made by society and for society.
+We make digital social innovation possible with developers who bring a wide range of skills to technology design and are given the space to develop their good ideas. You will receive funding of up to €95,000 over six months or €158,000 over ten months for your project and team. The fund supports software developers, hackers, and creative minds in turning sketches for tools and applications into reality. The Prototype Fund has redefinied its funding priorities since 2025 and now focuses on the areas of data security and software infrastructure.
 
-We make digital-social innovation possible with developers that bring a wide range of skills in technology design.
-With up to 47,500 euros per project and team, the Prototype Fund supports software developers, hackers and creatives in building protptypes for tools and applications in the areas of civic tech, data literacy, IT security and software infrastructure.
+In addition to financial support, we offer coaching and exchange with our extensive and diverse network of coders, other practitioners, and potential users on the way to prototyping. Teams based in other EU countries can now also apply for funding—the only important requirement is that the (to be founded) GbR is based in Germany.
 
-In addition to financial support, we offer mentorship and coaching along the way and exchange ideas with our extensive and diverse network of coders, practitioners and potential users.
+The application process is kept as unbureaucratic as possible and tailored to the needs of target groups that are not used to receiving funding. Since 2016, we have already been able to spend approximately €16.6 million on almost 400 projects (as of January 2025). The program will run until 2029.
 
-The application process is kept as unbureaucratic as possible and adapted to the needs of the self-employed. To date, we have already spent 14.4 million euros on 340 projects (status: October 2023). The programm runs over a total of 16 funding rounds until 2024.
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/MOGdX7ipcu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OH5w99wv8fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,17 +8,12 @@ categories:
   - Open Government
 layout: project
 img_header: projects/digiwhist_Header.png
-contact_person: arnesemsrott
 years: 2015 - 2017
 financing:
   - EU Horizon 2020
 website: https://digiwhist.eu
 contact:
   twitter: digiwhist
-
-more_text: |-
-    Further information can be found on the <a href="https://digiwhist.eu/">website</a> of Digiwhist.
-
 ---
 
 The allocation of funds through public procurement (services, bulding contracts, and goods) represents a significant share of state expenditure. In the EU, this amounts to about 16% of the GDP. In many cases, the allocation of these contracts is not conducted transparently. As a result, 20-25% of the total number of orders can be lost to corruption.

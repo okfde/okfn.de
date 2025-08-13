@@ -1,9 +1,16 @@
 ---
 title: OKFDE
 blurb:  Open knowledge for a digital civil society
-work: We fight for open knowledge and democratic participation by developing technologies and tools that strengthen civil society.
+work: In our work, we strive for a democratic, sustainable and resilient future based on openness, participation and transparency. We make knowledge accessible and participation possible. With digital tools and political interventions, we strengthen civil society and demand justice.
 donate_title: Support our mission now!
 donate_text: Our work is independent, non-partisan, interdisciplinary and non-commercial. With a donation you can help us and our community.
 meta: Open Knowledge Foundation Germany e. V.
 img_header: /okf/social-og/start-social-og.png
+aliases:
+  - /en/themen
+  - /en/themen/open_data
+  - /en/themen/bildung
+  - /en/themen/civic_tech
+  - /en/themen/informationsfreiheit
+  - /en/themen/offenes_regierungshandeln
 ---

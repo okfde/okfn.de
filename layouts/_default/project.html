@@ -18,7 +18,7 @@
 {{ end }}
 
 {{ define "main" }}
-<main>
+<main data-pagefind-body>
   <article class="l__project">
     <div class="container">
       <div class="row">
@@ -80,6 +80,9 @@
             {{ end }}
             {{ with .mastodon }}
             <p><span class="bold">Mastodon</span><br><a href="https://{{.server}}/@{{.handle}}">@{{.handle}}</a></p>
+            {{ end }}
+            {{ with .bluesky }}
+            <p><span class="bold">Bluesky</span><br><a href="https://bsky.app/profile/{{.}}">@{{.}}</a></p>
             {{ end }}
             {{ with .facebook }}
             {{$fb := replaceRE "http(s)?://(www.)?facebook.com/([^/]+)" "$3" . }}

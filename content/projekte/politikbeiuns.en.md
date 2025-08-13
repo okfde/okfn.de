@@ -1,23 +1,18 @@
 ---
-type: politics
+type: archive
 title: Politik Bei Uns
 website: https://politik-bei-uns.de
 img: projects/politikbeiuns.jpg
 layout: project
-years: 2016-heute
-contact_person: ernestoruge
+years: 2015 - 2020
 people:
 - name: Ernesto Ruge
-  role: Projektleitung
+  role: project lead
 contact:
   twitter: politikbeiuns
-  facebook: https://www.facebook.com/OpenRuhr
   github: https://github.com/okfde/ris-web
-cta: Mitmachen
-cta_text: |-
-    Politik bei uns thrives from the particpation of many different actors. We are happy about everyone who wants to use the platform, communities that provide data or developers and designers that can improve the platform. More information on how to participate can be found <a href="https://offenerhaushalt.de/page/mitmachen.html">here</a>.
-more_text: |-
-    Further information can be found on the <a href="https://politik-bei-uns.de/">website</a> of Politik bei uns.
+financing:
+  - volunteer project
 ---
 
 The open council information system "Politik Bei Uns" presents information and processes from council and administration in a user-friendly way, so that citizens can understand political decisions and can have a say at an early stage. As a data market place, our project makes council and administrative data available to third-party developers so that they can build further applications without much effort. Apart from politics, civil society and journalists, the scientific community also benefits from structured and therefore analysable data.

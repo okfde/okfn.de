@@ -59,7 +59,6 @@ em, i
 
 a
   color: $anchor
-  text-decoration: none
   &:hover,
   &:active
     text-decoration: underline
@@ -73,19 +72,17 @@ figure.license
     font-weight: 500
   figcaption
     position: absolute
-    //text-shadow: 1px 0px black
     bottom: 8px
     left: 8px
-    color: #FFEC00
-    //background-color: rgba(black, 0.4)
-    padding: 0 .4em
+    color: $white
+    background-color: $black
+    padding: .4em
     font-size: 10px
-    //max-width: 200px
     opacity: 0
     transition: opacity 200ms ease
   a
     text-decoration: underline
-    color: #FFEC00
+    color: $white
   &:hover,
   &:active
     figcaption

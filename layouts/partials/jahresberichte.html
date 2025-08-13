@@ -1,0 +1,35 @@
+{{ $lang := .Lang }}
+<section class="l__verein container">
+    {{ $content := $.Site.Data.jahresberichte.content }}
+    {{ $copy := (cond (eq $lang "de") $content.de $content.en) }}
+    <div class="row">
+        <div class="col col-12 col-sm-10 col-md-8">
+            <h3>{{ $copy.title }}</h3>
+            <p>{{ $copy.text | markdownify }}</p>
+        </div>
+    </div>
+
+    {{ $reports := $.Site.Data.jahresberichte.reports }}
+    <div class="row">
+        <div id="js-report-nav" class="mt-s c__nav-list col col-12 col-md-8 justify-content-start c__nav-list--report">
+            {{ range $reports }}
+            <a href="#report-{{ .year }}">{{ .year }}</a>
+            {{ end }}
+        </div>
+    </div>
+
+    {{ range $reports }}
+    <div class="row js-report" id="report-{{ .year }}">
+        <div class="col col-12 col-sm-6 col-md-8">
+            <img src="{{ .img }}" alt="">
+        </div>
+        <div class="l__verein__report col col-12 col-sm-6 col-md-4">
+            {{ $content := (cond (eq $lang "de") .de .en) }}
+            <h3>{{ $content.title }}</h3>
+            <p>{{ $content.text }}</p>
+            <p><a href="{{ .pdf }}" download="okf-de-jahresbericht-{{.year}}.pdf">{{ readFile
+                "static/files/icons/arrow_right.svg" | safeHTML }} Link</a></p>
+        </div>
+    </div>
+    {{ end }}
+</section>

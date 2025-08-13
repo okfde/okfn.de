@@ -17,11 +17,11 @@ img_header: projects/codefor_Header.png
 people:
   - name: Sonja Fischbauer      
     role: 
-  - name: + over 500 volunteers all over Germany
+  - name: ca. 500 volunteers all over Germany
     role:
-contact_person: michaelpeters
+contact_person: sonjafischbauer
 years: 2014 - heute
-weight: 4
+weight: 5
 partners:
   - Code for All
 website: https://codefor.de
@@ -36,7 +36,7 @@ cta_text: |-
 more_text: |-
     Further information can be found on the Code for Germany <a href="https://codefor.de/">website</a>.
 ---
-Code For Germany is a network of groups of volunteers (labs) who use their skills to shape their cities and social life. They advocate more transparency, open data and participation in their cities. In particular, they mediate between civil society, administration and politics, and use their skills to improve communication between them. This provides the necessary impetus so that as many people as possible can benefit from open and free digitisation.
+Code for Germany is a network of volunteers working on sustainable digital projects for an open and fair society. The central theme is how data, information and knowledge can be processed in such a way that they are accessible to as many people as possible. This strengthens citizens' participation in democratic processes and makes their everyday lives easier. To make this possible, volunteers meet regularly in their cities in Open Knowledge Labs (OK Labs). They discuss open government strategies and develop digital solutions to problems and needs they have identified in their cities and neighbourhoods.
 
 <div class="two-img">
   <figure class="license">
@@ -53,4 +53,4 @@ Some cities already have Open Data programs and make data sets available openly,
 
 The program started in February 2014 with the foundation of Open Knowledge Labs in 8 cities. In the meantime, the network has grown to around 20 labs and comprises a community of over 500 volunteers.
 
-<b>Funding and support</b>: In 2022 the project 'Code for Germany - Digitale Nachhaltigkeit stärken' ('Code for Germany - strengthen digital sustainability') is supported by the Deutsche Postcode Lotterie. Processes concerning our community measures in 2022 are funded by Fonds Soziokultur aus Mitteln der Beauftragten der Bundesregierung für Kultur und Medien im Rahmen von NEUSTART KULTUR.
+<b>Funding and support</b>: In 2024 the project 'Code for Germany - Digitale Nachhaltigkeit stärken' ('Code for Germany - strengthen digital sustainability') is supported by the Deutsche Postcode Lotterie.

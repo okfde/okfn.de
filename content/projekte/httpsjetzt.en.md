@@ -1,7 +1,6 @@
 ---
-type: politics
+type: archive
 title: https.jetzt
-subtitle: Verschlüsselung von Behördenwebsites überprüfen
 kategorien:
   - civic tech
 categories:
@@ -12,20 +11,17 @@ people:
 - name: Maximilian Richt
   role: Projektleitung
 - name: Ernesto Ruge
-  role: Projektleitung
+  role: Projektleitung 
 contact:
   website: https://https.jetzt
   website: https://behoerden-online-dienste.de
+  twitter: httpsjetzt
   github: https://github.com/robbi5/pulse
   github: https://github.com/okfde/behoerden-online-dienste.de
-  twitter: httpsjetzt
-contact_person: maximilianricht
-years: 2016 - heute
+years: 2016 - 2019
 layout: project
 financing:
-  - ehrenamtliches Projekt
-more_text: |-
-    Further information can be found on the website <a href="https://https.jetzt">https.jetzt</a>.
+  - volunteer projekt
 ---
 
 https.jetzt! shows how many government websites support encryption via HTTPS. Why is website encryption important?
