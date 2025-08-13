@@ -23,7 +23,7 @@ contact:
   mail: info@edulabs.de
 
 subtitle: Open education with digitally supported methods
-years: 2017 - today
+years: 2017 - 2018
 partners:
  - Mediale Pfade
 financing:
