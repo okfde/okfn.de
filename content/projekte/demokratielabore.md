@@ -38,7 +38,6 @@ people:
 financing:
   - BMFSFJ
   - bpb
-contact_person: lydiaboettcher
 years: 2017 - 2019
 website: https://demokratielabore.de
 contact:
@@ -46,12 +45,6 @@ contact:
   instagram: demokratielabs
   facebook:
   mail: info@demokratielabore.de
-cta: Mitmachen
-cta_text: |-
-  Führe mit Hilfe unserer Materialien <a href="https://demokratielabore.de/workshops/">eigene Workshops</a> eigene Workshops durch, starte eine Digital-AG in deinem Jugendverein und finde oder ergänze Projektideen auf unserer <a href="https://demokratielabore.de/materialsammlung/">Selbstlernplattform</a>!
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://demokratielabore.de">Website</a> der Demokratielabore.
-
 ---
 
 Wie können wir Kinder und Jugendliche heute befähigen, zu Gestaltenden unserer Gesellschaft von morgen zu werden? Was macht Jugendliche als Akteurinnen sichtbarer? Welche Rolle spielen hierbei digitale Mittel? Und wie gelingt Teilhabe auf digitaler und sozialer Ebene?

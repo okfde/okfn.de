@@ -14,7 +14,6 @@ people:
     role: Projektleitung
   - name: Edgar Zanella Alvarenga
     role: Entwickler
-contact_person: belaseeger
 years: 2017
 partners:
   - Stadt Moers

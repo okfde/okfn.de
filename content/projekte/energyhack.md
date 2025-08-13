@@ -16,11 +16,10 @@ people:
     role: Projektleitung
   - name: Walter Palmetshofer
     role: Projektleitung
-contact_person: walterpalmetshofer
 website: https://energyhack.de
 years: 2015 - 2017
 partners:
-  -  Stromnetz Berlin
+  - Stromnetz Berlin
   - windnode
   - Senatsverwaltung für Wirtschaft und Energie
 ---

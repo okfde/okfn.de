@@ -5,20 +5,13 @@ subtitle: The Extractive Industries Transparency Initiative
 img: projects/deiti-logo.png
 layout: project
 website: https://www.d-eiti.de
-years: since 2014
+years: 2014 - 2025
 people:
   - name: Walter Palmetshofer
     role: Projektleitung
-  - name: Daniel Dietrich
-    role: MSG Mitglied
-contact_person: walterpalmetshofer
 contact:
   website: https://www.d-eiti.de/de/
   twitter: EITIDeutschland
-
-more_text: |-
-  More detailed information on EITI targets, requirements and the implementation process in fellow EITI countries can be found at the <a href="www.eiti.org">website</a> of D-EITI.
-
 ---
 The global Extractive Industries Transparency Initiative (EITI) advocates greater financial transparency and accountability in the extractive sector.
 

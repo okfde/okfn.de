@@ -23,7 +23,7 @@ people:
     role: Projektleitung
   - name: Lisa Jahn
     role: Projektmanagement Events
-  - name: Ragna Höfgen
+  - name: Ragna-Rasmus Höfgen
     role: Projektmanagement Events
   - name: Philip Steffan
     role: Community und Kommunikation
@@ -52,16 +52,16 @@ video: "https://www.youtube.com/watch?v=4LQvWzOS8IY"
 subtitle: Förderprogramm für technikbegeisterte Jugendliche
 cta: Teilnehmen
 cta_text: |-
-    Du kannst <a href="https://jugendhackt.org">Teilnehmer\*in oder Mentor\*in</a> werden.<br><br>
-    Mit deiner <a href="https://jugendhackt.org/spenden/">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker\*innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:anne.ware@okfn.de">Kontaktaufnahme</a>.
+    Du kannst <a href="https://jugendhackt.org">Teilnehmer:in oder Mentor:in</a> werden.<br><br>
+    Mit deiner <a href="https://jugendhackt.org/spenden/">Spende oder Fördermitgliedschaft</a> unterstützt du die nächste Generation an verantwortungsbewussten, weltverbessernden Techniker:innen. Für Sponsorings und Kooperationen freuen wir uns über eine <a href="mailto:anne.ware@okfn.de">Kontaktaufnahme</a>.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://jugendhackt.org/">Website von Jugend hackt</a>.
 
 ---
 
-Jugend hackt ist ein Programm für junge Menschen, die mit ihren technischen Fähigkeiten die Welt verbessern wollen. Unterstützt von ehrenamtlichen Mentor\*innen entwickeln unsere Teilnehmer\*innen digitale Werkzeuge, Prototypen und Konzepte für eine bessere Zukunft. Unser Angebot umfasst Hackathon-Events in vielen Städten, regionale Labs, eine Online Community und internationale Austauschprogramme.
+Mit Code die Welt verbessern – das ist seit 2013 das Ziel von Jugend hackt, einem Programm für Jugendliche zwischen 12 und 18 Jahren, die Lust auf Technik haben und darauf, sich damit auseinanderzusetzen, wie Technik und Gesellschaft zusammenhängen. Bei Jugend hackt wird natürlich gecodet und gebastelt, es geht uns aber um mehr. Wir wollen einen verantwortungsbewussten Umgang mit Technik vermitteln. Dazu gehört für uns, dass wir uns mit ethischem Hacking auseinandersetzen, aber auch mit der Offenheit von Code und Daten. Technik-Kompetenz ist mehr als etwas, das sich gut im Lebenslauf macht.
 
-Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend hackt um mehr als nur Programmieren lernen: Wir begreifen Technik als ein Mittel zu gesellschaftlicher Veränderung. Wir bestärken Jugendliche im verantwortungsbewussten Umgang mit Technik, um damit Lösungen für gesellschaftspolitische Fragen zu finden. Dabei entstehen kreative Projekte wie ein Bewässerungssystem, das freies WiFi spendet; ein Armband, das vor Überwachungskameras warnt, oder ein Audio-Computerspiel für Menschen mit Sehschwäche.
+Es geht uns also nicht darum, die Jugendlichen auf einen konkreten Beruf vorzubereiten oder möglichst früh Kontakte zur Wirtschaft zu knüpfen. Lernen heißt für uns vor allem, sich selbst auszuprobieren und auch Fehler zu machen. Unser pädagogischer Ansatz folgt daher stark dem erfahrungsbasierten Lernen. Gemeinsam mit unseren ehrenamtlichen Mentor:innen können die Jugendlichen bei Jugend hackt eigene Projektideen entwickeln und sie gemeinsam umsetzen.
 
 <div class="two-img offset-lg-2">
     <figure class="license">
@@ -74,7 +74,7 @@ Ganz nach unserem Motto „Mit Code die Welt verbessern“ geht es bei Jugend ha
     </figure>
 </div>
 
-Jugend hackt ist ein nicht-gewinnorientiertes Programm der Open Knowledge Foundation Deutschland und von mediale pfade.org – Verein für Medienbildung e.V. Die Teilnahme an unseren Angeboten ist für die Jugendlichen soweit wie möglich kostenlos. Wir legen Wert auf Vielfalt in unserem Programm und fördern aktiv die Teilnahme von Jugendlichen, die sonst geringe Bildungschancen im Technik-Bereich vorfinden. Die positive Veränderung, die unser Programm in den Lebensverläufen unserer Teilnehmer\*innen bewirkt ist messbar und bestätigt. Jugend hackt ist mit dem PHINEO Siegel für Wirksamkeit ausgezeichnet.
+Jugend hackt ist ein nicht-gewinnorientiertes Programm der Open Knowledge Foundation Deutschland und von mediale pfade.org – Verein für Medienbildung e. V. Die Teilnahme an unseren Angeboten ist für die Jugendlichen soweit wie möglich kostenlos. Wir legen Wert auf Vielfalt in unserem Programm und fördern aktiv die Teilnahme von Jugendlichen, die sonst geringe Bildungschancen im Technik-Bereich vorfinden. Die positive Veränderung, die unser Programm in den Lebensverläufen unserer Teilnehmer:innen bewirkt ist messbar und bestätigt. Jugend hackt ist mit dem PHINEO Siegel für Wirksamkeit ausgezeichnet.
 
 Alle Infos zu unserem Angebot gibt's auf [jugendhackt.org](https://jugendhackt.org)
 
