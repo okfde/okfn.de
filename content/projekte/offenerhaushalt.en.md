@@ -15,7 +15,7 @@ layout: project
 website: https://offenerhaushalt.de
 img_header: projects/offenerHaushalt_Header.png
 img: projects/offenerHaushalt_Projektuebersicht_smallTile.png
-years: 2011-heute
+years: 2011-2016
 financing:
   - ehrenamtliches Projekt
 contact:
