@@ -17,7 +17,7 @@ contact:
   mail: maximilian.voigt@okfn.de
 
 subtitle: Offene Bildung für eine digitale Gesellschaft
-years: 2018 - heute
+years: 2018 - 2021
 partners:
  - Wikimedia DE
 financing:

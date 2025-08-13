@@ -17,7 +17,7 @@ contact:
   mail: maximilian.voigt@okfn.de
 
 subtitle: Open education for a digital society
-years: 2018 - today
+years: 2018 - 2021
 partners:
  - Wikimedia DE
 financing:
