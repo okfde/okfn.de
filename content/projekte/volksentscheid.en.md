@@ -28,11 +28,8 @@ website: https://volksentscheid-transparenz.de
 contact:
   github: https://github.com/okfde/volksentscheid-transparenz.de
   twitter: transparenzBER
-contact_person: arnesemsrott
 parners:
   - Mehr Demokratie
-more_text: |-
-    Further information can be found on the <a href="https://volksentscheid-transparenz.de/">website</a> of the Volksentscheid.
 ---
 In the Berlin coalition agreement, the governing parties agreed to further develop the Berlin Freedom of Information Act into a transparency law. However, a concrete draft has not yet been worked out. We want to change that. Together with civil society partners, we have written a draft for a Berlin Transparency Act. Within the framework of a referendum, we will implement the draft law for the whole of Berlin by 2021.
 
