@@ -26,12 +26,6 @@ website: https://volksentscheid-transparenz.de
 contact:
   github: https://github.com/okfde/volksentscheid-transparenz.de
   twitter: transparenzBER
-contact_person: arnesemsrott
-cta: Mitmachen
-cta_text: |-
-    Wir können Unterstützung bei der Presse- und Öffentlichkeitsarbeit, dem Sammeln von Unterschriften und Aktionen gebrauchen. Unsere offene Werkstatt findet jeden Montag ab 18:00 in der Begegnunsstätte Lebensfreude in der Kadiner Str. 1 statt. Komm vorbei! Und melde dich gerne unter info [at ]volksentscheid-transparenz.de!
-more_text: |-
-    Weitere Infos gibt es auf der <a href="https://volksentscheid-transparenz.de/">Website</a> des Volksentscheids.
 ---
 Im Berliner Koalitionsvertrag haben die Regierungsparteien vereinbart, das Berliner Informationsfreiheitsgesetz zu einem Transparenzgesetz weiterzuentwickeln. Ein konkreter Entwurf wird bislang jedoch nicht erarbeitet. Das möchten wir ändern. Wir haben gemeinsam mit zivilgesellschaftlichen Partnern einen Entwurf für ein Berliner Transparenzgesetz geschrieben. Im Rahmen eines Volksentscheids setzen wir bis 2021 den Gesetzentwurf für ganz Berlin durch.
 
