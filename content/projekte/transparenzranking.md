@@ -24,7 +24,7 @@ years: 2017 - heute
 financing: 
   - ehrenamtliches Projekt
 partners:
-  - Mehr Demokratie e.V.
+  - Mehr Demokratie e. V.
 contact_person: arnesemsrott
 contact:
   website: https://transparenzranking.de

@@ -8,7 +8,7 @@ categories:
   - Open Government
 website: https://sehrgutachten.de
 img: projects/sehrgutachten.jpg
-years: 2016 - heute
+years: 2016 - today
 financing:
 - ehrenamtliches Projekt
 people:

@@ -19,7 +19,7 @@ contact:
   github: https://github.com/algorithmwatch/openschufa
 financing:
   - Spenden, Ehrenamt
-years: 2018
+years: 2018 - today
 contact-person: arnesemsrott
 img_header: projects/openSchufa_Header.jpg
 
