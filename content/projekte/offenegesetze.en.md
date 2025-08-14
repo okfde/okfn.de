@@ -21,6 +21,7 @@ people:
   role: Entwickler
 - name: Arne Semsrott
   role: Kommunikation
+years: 2018 - today
 contact:
   website: https://offenegesetze.de/
   twitter: offenegesetze
@@ -31,7 +32,7 @@ contact:
   instagram: offenegesetze.de
 subtitle: Free access to the Federal Law Gazette
 more_text: |-
-    Further information can be found on the <a href="https://offenegesetze.de/">website</a> of Offene Gesetze.
+    Further information can be found on the <a href="https://offenegesetze.de/">website</a> of OffeneGesetze.
 contact_person: arnesemsrott
 
 ---
