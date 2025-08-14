@@ -27,7 +27,7 @@ more_text: |-
     Weitere Infos gibt es auf <a href="https://offeneregister.de/">OffeneRegister.de</a>.
 ---
 
-Das Handelsregister ist das zentrale öffentliche Verzeichnis, in dem Unternehmen, Stiftungen und Vereine sich registrieren müssen. Es enthält u.a. Daten zum Sitz, Rechtsform und vertretungsberechtigten Personen.
+Das Handelsregister ist das zentrale öffentliche Verzeichnis, in dem Unternehmen, Stiftungen und Vereine sich registrieren müssen. Es enthält u. a. Daten zum Sitz, Rechtsform und vertretungsberechtigten Personen.
 
 Die Daten aus dem Handelsregister sind zentral für das Vertrauen nicht nur in das Handelssystem, sondern auch in die Demokratie. Trotzdem sind sie von staatlicher Stelle nicht frei zugänglich.
 
