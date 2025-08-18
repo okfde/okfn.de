@@ -21,5 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 hamburger.classList.toggle('is-closed');
             }
         }
+        document.getElementsByClassName("pagefind-ui__search-input")[0].focus();
     }, true);
 });
