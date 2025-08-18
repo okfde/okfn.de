@@ -1,22 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2025-08-18T00:00:00+0000</updated>
+  <updated>2025-08-19T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
-  
-  <entry>
-    <title>Handlungsfähigkeit und Vertrauen zusammendenken</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/anregungen-staatsmodernisierung/"/>
-    <id>https://okfn.de/publikationen/anregungen-staatsmodernisierung/</id>
-    <published>2025-08-18T00:00:00+0000</published>
-    <updated>2025-08-18T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Ein moderner Staat muss nicht nur handlungsfähig, sondern auch vertrauenswürdig sein. Mit Blick auf die Staatsmodernisierungsagenda des BMDS unterbreiten wir in den drei zentralen Themenbereichen Strategisches Handeln, Daten &amp;amp; KI, Gesetzgebung Anregungen für Reformen.&lt;/p&gt;</summary>
-  </entry>
   
   <entry>
     <title>Open Data Ranking Deutschland 2025</title>
@@ -163,6 +154,16 @@
     <updated>2023-10-23T00:00:00+0000</updated>
     <summary>&lt;p&gt;Das Ziel dieses Handbuch ist es, einen gut verständlichen und praxistauglichen Überblick des Informationsfreiheitsrechts in Deutschland zu schaffen. Und zwar nicht nur für die, die es sich leisten können, sondern für alle.&lt;/p&gt;
 &lt;p&gt;Das Handbuch orientiert sich nicht an einzelnen Paragraphen, sondern an Themengebieten. Wenngleich ein Schwerpunkt auf dem Informationsfreiheitsgesetz des Bundes (IFG) liegt, ist es damit nicht nur für Anträge nach dem IFG, sondern auch für Anträge nach anderen Gesetzen nutzbar.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>E-Government-Gesetz Brandenburg</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2023_egovernment-brandenburg/"/>
+    <id>https://okfn.de/publikationen/2023_egovernment-brandenburg/</id>
+    <published>2023-09-28T00:00:00+0000</published>
+    <updated>2023-09-28T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Mit einer Gesetzesänderung möchte die Brandenburger Landesregierung das Thema Open Data endlich auch in den Rechtsrahmen aufnehmen. Doch die geplanten Änderungen gehen aus Sicht der OKF nicht weit genug. In einer kurzen Initiativstellungnahme haben wir einige Kritikpunkte zusammengefasst.&lt;/p&gt;
+&lt;p&gt;Die brandenburgische Landesregierung geht mit dem Gesetzentwurf teilweise auf Versäumnisse ein, die bei der Einführung des E-Government-Gesetzes entstanden sind. So werden beispielsweise Anforderungen an die Bereitstellung von offenen Daten definiert. In der beigefügten Begründung wird die Förderung von Open Data explizit als Ziel genannt. Begrüßenswert ist zudem die geplante Einführung einer Informations- und Beratungsstelle, die Behörden bei Fragen rund um das Thema Open Data im Land Brandenburg unterstützen soll.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
