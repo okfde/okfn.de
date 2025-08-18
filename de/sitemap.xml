@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,6 +109,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
                 />
   </url><url>
     <loc>https://okfn.de/publikationen/opendataranking25/</loc>
@@ -122,19 +135,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/publikationen/opendataranking25/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
                 />
   </url><url>
     <loc>https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/</loc>
