@@ -9,7 +9,7 @@ people:
 file: /files/publikationen/2025-08-19_staatsmodernisierung.pdf
 format: pdf
 pages: 11
-size: 310KB
+size: 108KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 date: 2025-08-19
