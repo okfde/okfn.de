@@ -12,6 +12,6 @@ pages: 11
 size: 108KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
-date: 2025-08-19
+date: 2025-08-18
 ---
 Ein moderner Staat muss nicht nur handlungsfähig, sondern auch vertrauenswürdig sein. Mit Blick auf die Staatsmodernisierungsagenda des BMDS unterbreiten wir in den drei zentralen Themenbereichen Strategisches Handeln, Daten & KI, Gesetzgebung Anregungen für Reformen.
