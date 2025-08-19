@@ -3,7 +3,7 @@ title: Handlungsfähigkeit und Vertrauen zusammendenken
 subtitle: Anregungen für die Staatsmodernisierung
 layout: publikation
 image:
-  src: /files/images/Studie2.jpg
+  src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 people:
 - name: Henriette Litta, Ben Burmeister
