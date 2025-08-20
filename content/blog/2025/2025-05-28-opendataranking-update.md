@@ -40,7 +40,7 @@ Auch im Koalitionsvertrag der neuen Bundesregierung ist ein Rechtsanspruch zumin
 
 Wir hoffen, dass das Update 2025 wieder als Grundlage für Diskussionen rund um Open Data genutzt wird, und möchten hiermit noch einmal unser Gesprächsangebot, insbesondere an Länder und Verwaltungen, die vielleicht noch nicht so viele Berührungspunkte mit dem Thema Open Data haben, unterstreichen.
 
-Im nächsten Monat veröffentlichen wir, wie bei der Vorgängerversion, den für die Bewertung zugrundeliegenden Datensatz maschinenlesbar als JSON sowie als PDF. Alle Informationen zu Kriterien und einzelnen Bewertungsrahmen sind auch online unter den jeweiligen Kategorien auf [opendataranking.de](https://opendataranking.de/) zu finden."
+Im nächsten Monat veröffentlichen wir, wie bei der Vorgängerversion, den für die Bewertung zugrundeliegenden Datensatz maschinenlesbar als JSON sowie als PDF. Alle Informationen zu Kriterien und einzelnen Bewertungsrahmen sind auch online unter den jeweiligen Kategorien auf [opendataranking.de](https://opendataranking.de/) zu finden.
 
 **Ansprechperson**<br>
 [Dénes Jäger](mailto:denes.jaeger@okfn.de)<br>
