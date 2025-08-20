@@ -3,7 +3,7 @@ type: politics
 subtitle: Transparency for EU agricultural subsidies
 tile: single
 title: "FarmSubsidy"
-layout: project
+layout: 
 website: https://farmsubsidy.org
 years: 2013 - today
 img: projects/FarmSubsidy_Projektuebersicht_smallTile.png
