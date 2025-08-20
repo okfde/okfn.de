@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 kategorien:
   - Offenes Regierungshandeln
 categories:
