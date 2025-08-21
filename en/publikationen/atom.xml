@@ -19,6 +19,15 @@
   </entry>
   
   <entry>
+    <title>Open Knowledge Foundation Germany e. V. - 2020 Annual report</title>
+    <link rel="alternate" href="https://okfn.de/en/publikationen/2020-jahresbericht/"/>
+    <id>https://okfn.de/en/publikationen/2020-jahresbericht/</id>
+    <published>2025-06-23T00:00:00+0000</published>
+    <updated>2025-06-23T00:00:00+0000</updated>
+    <summary>&lt;p&gt;The report looks back at the work of the Open Knowledge Foundation Germany in 2020. The report summarizes the most important activities, describes how the organization works, and presents all projects in brief. The final part of the annual report includes information on the organizational structure and finances.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
     <title>Open Knowledge Foundation Germany e. V. - 2024 Annual report</title>
     <link rel="alternate" href="https://okfn.de/en/publikationen/2024-jahresbericht/"/>
     <id>https://okfn.de/en/publikationen/2024-jahresbericht/</id>
@@ -139,15 +148,6 @@ Further comments and criticisms can be found in this statement.&lt;/p&gt;</summa
     <published>2022-04-01T00:00:00+0000</published>
     <updated>2022-04-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;In this handbook, the Prototype Fund offers a case study of open source software to demonstrate how individuals and small teams can benefit from unbureaucratic funding. The handbook examines the advantages of such funding and provides insights into its workings.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Sovereign Tech Fund - Feasibility Study</title>
-    <link rel="alternate" href="https://okfn.de/en/publikationen/2021_sovereigntechfeasibility/"/>
-    <id>https://okfn.de/en/publikationen/2021_sovereigntechfeasibility/</id>
-    <published>2021-11-16T00:00:00+0000</published>
-    <updated>2021-11-16T00:00:00+0000</updated>
-    <summary>&lt;p&gt;In the study the authors examined the needs and possibilities for a funding program to strengthen open digital infrastructure. The idea for a fund is based, among other things, on Open Technology Funds Core Infrastructure Fund and can learn from this and the experiences from other programs, e.g. the Prototype Fund, and adopt already tested procedures. For the design of the Sovereign Tech Fund, numerous other existing programs were analyzed, interviews were conducted with developers and stakeholders in the open source ecosystem, and expert workshops were held.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
