@@ -3234,6 +3234,16 @@
   </url><url>
     <loc>https://okfn.de/publikationen/2014-jahresbericht/</loc>
     <lastmod>2014-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2014-jahresbericht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2014-jahresbericht/"
+                />
   </url><url>
     <loc>https://okfn.de/tags/monatsr%C3%BCckblick/</loc>
     <lastmod>2014-06-23T14:46:36+00:00</lastmod>
