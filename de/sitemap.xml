@@ -3502,6 +3502,16 @@
   </url><url>
     <loc>https://okfn.de/publikationen/2013-jahresbericht/</loc>
     <lastmod>2013-06-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/2013-jahresbericht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/2013-jahresbericht/"
+                />
   </url><url>
     <loc>https://okfn.de/blog/2013/06/initiative-openruhr-ver%C3%B6ffentlicht-alternatives-ratsinformationssystem-f%C3%BCr-bochum-und-moers/</loc>
     <lastmod>2013-06-21T13:40:05+00:00</lastmod>
