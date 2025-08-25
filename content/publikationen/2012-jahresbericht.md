@@ -9,8 +9,8 @@ people:
 - name: Henriette Litta
 file: static/files/publikationen/OKF_Jahresbericht_2012.pdf
 format: pdf
-pages: 
-size: KB
+pages: 21
+size: 388KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
