@@ -17,7 +17,7 @@ copy: |
   die Welt zu einem besseren Ort machen wollen, möchten wir auch täglich an uns selbst arbeiten.
   
   Wir möchten damit andere Vereine, NGOs und Aktivist:innen ermutigen, einen Blick nach innen zu werfen und ihre
-  Erfahrungen zu teilen. Für Feedback oder Fragen, meldet euch bei uns, wir freuen uns auf den Austausch.
+  Erfahrungen zu teilen. Meldet euch bei uns für Feedback oder Fragen, wir freuen uns auf den Austausch.
   
   Die Serie wird von unserer Organisationsentwicklerin Sonja Fischbauer verfasst. Schreibt gern eine 
   [Mail an Sonja](mailto:sonja.fischbauer@okfn.de), wenn ihr Kommentare oder Rückfragen habt.
