@@ -21,13 +21,13 @@ intro:
       internationalen Open Knowledge Network. Unser [Verhaltenskodex](/codeofconduct) gilt für alle, 
       die an unserer Arbeit teilnehmen.
 breakout:
-  title: Aktivismus von Innen
+  title: Aktivismus von innen
   copy: |
     In NGOs und gemeinnützigen Organisationen liegt der Fokus oft auf der Wirkung nach außen. Doch wer
     Veränderung fordert, muss sie auch innen leben. In dieser Serie teilen wir Erfahrungen,
     Herausforderungen und Werkzeuge aus dem Aufbau einer Organisation, die ihre Werte im Inneren
     umsetzt.
-  link: Aktivismus von Innen
+  link: Aktivismus von innen
 finances:
   title: Finanzierung
   copy: |
