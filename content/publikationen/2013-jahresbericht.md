@@ -14,7 +14,7 @@ size: KB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
-- url: '[https://2013.okfn.de](https://2014.okfn.de)'
+- url: '[https://2013.okfn.de](https://2013.okfn.de)'
 date: 2013-06-23
 ---
 
