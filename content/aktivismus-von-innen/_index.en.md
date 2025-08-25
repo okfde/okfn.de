@@ -1,5 +1,5 @@
 ---
-title: Activism from the inside
+title: Activism from Within
 copy: |
   Im Arbeitsalltag von NGOs und gemeinnützigen Organisationen liegt der Fokus auf
   der gesellschaftlichen Wirkung: den Projekten, Kampagnen und Initiativen, die wir
