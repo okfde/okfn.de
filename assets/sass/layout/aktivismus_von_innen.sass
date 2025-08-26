@@ -1,0 +1,30 @@
+.l__aktivismus-von-innen
+  @include base-styles
+
+.l__aktivismus-von-innen__blogposts
+  display: flex
+  gap: $space
+  flex-direction: column
+
+  li a
+    display: grid
+    grid-template-areas: "img" "title" "snippet"
+    color: black
+    gap: $space / 2
+
+    @include media-breakpoint-up(md)
+      display: grid
+      grid-template-areas: "img title" "img snippet"
+      grid-template-columns: minmax(300px, 1fr) 2fr
+      grid-template-rows: auto 1fr
+
+    h2
+      grid-area: title
+      font-size: 1.25rem
+
+    img
+      width: 100%
+      grid-area: img
+
+    .content
+      grid-area: snippet
