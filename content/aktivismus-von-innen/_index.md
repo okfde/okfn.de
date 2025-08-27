@@ -8,12 +8,10 @@ copy: |
   
   <h3>In dieser Serie teilen wir Erfahrungen, Herausforderungen und Tools, wie wir unsere Werte im Arbeitsalltag umsetzen.</h3>
   
-  Wir widmen uns Themen wie Macht, Entscheidungen und Konflikte und
-  beschreiben, wie wir damit strukturell umgehen. Wir beschreiben kleine Schritte und konkrete Maßnahmen im
+  <img src="https://okfn.de/files/images/avi2.jpg" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 200px;"><br> 
+  Wir widmen uns Themen wie Macht, Entscheidungen und Konflikte und beschreiben, wie wir damit strukturell umgehen. Wir beschreiben kleine Schritte und konkrete Maßnahmen im
   Arbeitsalltag.
-  
-  <img src="https://okfn.de/files/images/avi2.jpg" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 200px;"><br>
-  
+   
   Organisationsentwicklung ist nie abgeschlossen, und wir haben noch viel Luft nach oben. Aber es lohnt sich, auch
   unfertige, imperfekte Dinge zu teilen, um ein Gespräch zu eröffnen und gemeinsam zu wachsen. Denn so, wie wir
   die Welt zu einem besseren Ort machen wollen, möchten wir auch täglich an uns selbst arbeiten.
