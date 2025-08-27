@@ -2,7 +2,7 @@
 authors:
 - Sonja Fischbauer
 image:
-  src: /files/images/avi1.jpg
+  src: /static/files/images/avi1.jpg
   title: Illustration
 tags:
 - Aktivismus von innen
