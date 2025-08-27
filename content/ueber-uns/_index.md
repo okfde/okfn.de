@@ -27,7 +27,7 @@ breakout:
     Veränderung fordert, muss sie auch innen leben. In dieser Serie teilen wir Erfahrungen,
     Herausforderungen und Werkzeuge aus dem Aufbau einer Organisation, die ihre Werte im Inneren
     umsetzt.
-  link: Aktivismus von innen
+  link: [Aktivismus von innen](/aktivismus-von-innen)
 finances:
   title: Finanzierung
   copy: |
