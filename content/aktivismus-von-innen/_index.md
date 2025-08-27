@@ -6,12 +6,13 @@ copy: |
   nach außen tragen, um die Welt zu verändern. Doch was oft auf der Strecke
   bleibt, ist der Blick nach innen. Wenn wir wirklich ernst meinen, was wir nach außen proklamieren, müssen wir das auch innerhalb der Organisation leben.
   
-  <h4>In dieser Serie teilen wir Erfahrungen, Herausforderungen und Tools aus dem Aufbau unserer Organisation mit
-  Werten, die wir intern umsetzen. Wir widmen uns Themen wie Macht, Entscheidungen und Konflikte und
-  beschreiben, wie wir damit strukturell umgehen. Wir beschreiben kleine Schritte und konkrete Maßnahmen im
-  Arbeitsalltag.</h4>
+  ## In dieser Serie teilen wir Erfahrungen, Herausforderungen und Tools, wie wir unsere Werte innerhalb unserer Organisation umsetzen.
   
-  <img src="https://okfn.de/files/images/avi2.jpg" alt="illustration" style="float: left; margin: 0 1em 1em 0; width: 250px;"><br>
+  Wir widmen uns Themen wie Macht, Entscheidungen und Konflikte und
+  beschreiben, wie wir damit strukturell umgehen. Wir beschreiben kleine Schritte und konkrete Maßnahmen im
+  Arbeitsalltag.
+  
+  <img src="https://okfn.de/files/images/avi2.jpg" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 200px;"><br>
   
   Organisationsentwicklung ist nie abgeschlossen, und wir haben noch viel Luft nach oben. Aber es lohnt sich, auch
   unfertige, imperfekte Dinge zu teilen, um ein Gespräch zu eröffnen und gemeinsam zu wachsen. Denn so, wie wir
