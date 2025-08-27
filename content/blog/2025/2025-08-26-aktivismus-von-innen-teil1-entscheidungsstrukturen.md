@@ -4,8 +4,6 @@ authors:
 image:
   src: /files/blog/2025/2025-09-Governance_de.png
   title: Illustration
-  license: CC-BY SA 4.0
-  license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 tags:
 - Aktivismus von innen
 type: post
