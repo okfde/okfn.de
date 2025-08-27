@@ -36,7 +36,7 @@ Als Material braucht ihr eine Fläche, die ihr in vier Quadranten teilt (das kö
 Ihr teilt die Fläche in vier Quadranten, indem ihr zwei Achsen aufzeichnet. Eine Achse verläuft von informell (nicht festgeschrieben) bis formell (offiziell vereinbart), die andere Achse verläuft von innen (wie es intern abläuft) bis außen (was man von außen sieht). 
 
 ![Illustration von vier Achsen: außen-innen, informell-formell](/files/blog/2025/2025-09-macht-achsen.png)<br>
- Illustration der Achsen außen-innen, informell-formell für die Übung Machtstrukturen aufdecken
+ *Illustration der Achsen außen-innen, informell-formell für die Übung Machtstrukturen aufdecken*
 
 Nach der Einführung teilt ihr euch in Kleingruppen von bis zu vier Personen. Ihr schreibt auf die Karten, welche Strukturen, Instrumente und andere Faktoren uns einfallen, die in eurer Organisation Macht verleihen. Ihr haltet Beobachtungen fest, möglichst wertneutral. 
 
@@ -55,7 +55,7 @@ Ein paar Beispiele:
 Macht durch gesellschaftliche Privilegien wie *weiß*-sein, Herkunft, Gender, etc. haben wir als informelle Macht verortet, an der Grenze zwischen innen und außen. 
 
 ![Foto von Menschen, die um einen Holztisch sitzen und Karten auflegen](/files/blog/2025/2025-09-Machtstrukturen.jpg)<br>
-Foto: Team- und Boardmitglieder machen die Übung zu Machtstrukturen auf unserem Retreat.
+*Foto: Team- und Boardmitglieder machen die Übung zu Machtstrukturen auf unserem Retreat.*
 
 Wenn alle Karten verortet sind, schaut ihr euch das Gesamtbild an: Gibt es Quadranten, in denen besonders viele Karten sind, während in anderen sehr wenige sind? 
 
