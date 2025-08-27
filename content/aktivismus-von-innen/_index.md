@@ -1,10 +1,10 @@
 ---
 title: Aktivismus von innen
 copy: | 
-  Im Arbeitsalltag von NGOs und gemeinnützigen Organisationen liegt der Fokus auf
-  der gesellschaftlichen Wirkung: den Projekten, Kampagnen und Initiativen, die wir
-  nach außen tragen, um die Welt zu verändern. Doch was oft auf der Strecke
-  bleibt, ist der Blick nach innen. Wenn wir wirklich ernst meinen, was wir nach außen proklamieren, müssen wir das auch innerhalb der Organisation leben.<br><br>
+  **Im Arbeitsalltag von NGOs und gemeinnützigen Organisationen liegt der Fokus auf
+  der gesellschaftlichen Wirkung**: den Projekten, Kampagnen und Initiativen, die wir
+  nach außen tragen, um die Welt zu verändern. **Doch was oft auf der Strecke
+  bleibt, ist der Blick nach innen.** Wenn wir wirklich ernst meinen, was wir nach außen proklamieren, müssen wir das auch innerhalb der Organisation leben.<br><br>
   
   <h3>In dieser Serie teilen wir Erfahrungen, Herausforderungen und Tools, wie wir unsere gesellschaftlichen Forderungen intern umsetzen.</h3>
   
