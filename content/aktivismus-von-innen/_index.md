@@ -12,7 +12,7 @@ copy: |
   beschreiben, wie wir damit strukturell umgehen. Wir beschreiben kleine Schritte und konkrete Maßnahmen im
   Arbeitsalltag.
   
-  ![Aktivismus von innen](/files/images/avi1.jpg)
+  ![Aktivismus von innen](/images/avi1.jpg)
   Organisationsentwicklung ist nie abgeschlossen, und wir haben noch viel Luft nach oben. Aber es lohnt sich, auch
   unfertige, imperfekte Dinge zu teilen, um ein Gespräch zu eröffnen und gemeinsam zu wachsen. Denn so, wie wir
   die Welt zu einem besseren Ort machen wollen, möchten wir auch täglich an uns selbst arbeiten.
