@@ -10,7 +10,7 @@ type: post
 layout: post
 featured: yellow
 title: 'Machtstrukturen aufdecken - Eine Übung, um über Macht zu sprechen'
-publishedDate: 2025-08-26
+publishedDate: 2025-08-25
 ---
 
 **In diesem Artikel teilen wir die Anleitung zu einer Übung,  mit der wir Gespräche über Machtstrukturen in unserer Organisation führen.** 
