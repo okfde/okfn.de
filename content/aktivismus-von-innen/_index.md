@@ -8,14 +8,14 @@ copy: |
   
   <h3>In dieser Serie teilen wir Erfahrungen, Herausforderungen und Tools, wie wir gesellschaftliche Forderungen intern umsetzen.</h3>
   
-  <img src="https://okfn.de/files/images/avi2.jpg" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 250px;"><br> 
+  <img src="https://okfn.de/files/images/avi2.jpg" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 250px;"> 
   Wir widmen uns Themen wie Macht, Entscheidungen und Konflikte und beschreiben, wie wir damit strukturell umgehen. Wir beschreiben kleine Schritte und konkrete Maßnahmen im
   Arbeitsalltag. 
    
   **Organisationsentwicklung ist nie abgeschlossen, und wir haben noch viel Luft nach oben. Aber es lohnt sich, auch
   unfertige, imperfekte Dinge zu teilen, um ein Gespräch zu eröffnen und gemeinsam zu wachsen.** 
   
-  Denn so, wie wir die Welt zu einem besseren Ort machen wollen, möchten wir auch täglich an uns selbst arbeiten. Gleichzeitig wollen wir damit auch andere Vereine, NGOs und Aktivist:innen ermutigen, einen Blick nach innen zu werfen und ihre Erfahrungen zu teilen.
+  Wir möchten damit auch andere Vereine, NGOs und Aktivist:innen ermutigen, einen Blick nach innen zu werfen und ihre Erfahrungen zu teilen.
   
   *Die Serie wird von unserer Organisationsentwicklerin Sonja Fischbauer verfasst. Schreibt gern eine 
   [Mail an Sonja](mailto:sonja.fischbauer@okfn.de), wenn ihr Kommentare oder Rückfragen habt. Meldet euch bei uns, wir freuen uns auf den Austausch!*
