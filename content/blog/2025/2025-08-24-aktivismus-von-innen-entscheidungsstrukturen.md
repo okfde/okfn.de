@@ -23,7 +23,7 @@ Ein Governance-Modell ist ein Plan dafür, wie Menschen in einer Gruppe Entschei
 Unser Governance-Modell soll unsere Werte ausdrücken und zu unseren komplexen Strukturen passen. 
 
 ![Das aktuelle Governance-Modell der OKF (2025)](/files/blog/2025/2025-09-Governance_de.png)<br>
-Das aktuelle Governance-Modeel der OKF (2025)
+*Das aktuelle Governance-Modeel der OKF (2025)*
 
 ## Struktur: Verein, Team, Projekte & Communities
 
