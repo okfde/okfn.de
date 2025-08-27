@@ -10,7 +10,7 @@ type: post
 layout: post
 featured: blue
 title: 'Entscheidungsstrukturen entwickeln - Wie wir unsere Zusammenarbeit organisieren'
-publishedDate: 2025-08-26
+publishedDate: 2025-08-24
 ---
 
 
