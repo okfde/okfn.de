@@ -12,7 +12,7 @@ copy: |
   beschreiben, wie wir damit strukturell umgehen. Wir beschreiben kleine Schritte und konkrete Maßnahmen im
   Arbeitsalltag.
   
-  <img src="https://github.com/okfde/okfn.de/blob/master/static/files/images/avi1.jpg" alt="illustration" style="float: left; margin: 0 1em 1em 0; width: 250px;"><br>
+  <img src="https://okfn.de/files/images/avi1.jpg" alt="illustration" style="float: left; margin: 0 1em 1em 0; width: 250px;"><br>
   
   Organisationsentwicklung ist nie abgeschlossen, und wir haben noch viel Luft nach oben. Aber es lohnt sich, auch
   unfertige, imperfekte Dinge zu teilen, um ein Gespräch zu eröffnen und gemeinsam zu wachsen. Denn so, wie wir
