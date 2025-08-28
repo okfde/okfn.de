@@ -4,7 +4,8 @@ subtitle: Die Potenziale von Schuldaten für ein lernendes Schulsystem
 layout: publikation
 image:
   src: /files/blog/2025/black-box-bildung-aufmacher.jpg
-kategorien: Stellungnahmen
+kategorien: Studien 
+categories: Studies
 people:
 - name: Mira Fischer, Maximilian Voigt
 file: /files/publikationen/2025-08-28-Black_Box_Bildung_final.pdf
