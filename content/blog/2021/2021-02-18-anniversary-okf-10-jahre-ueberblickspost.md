@@ -28,7 +28,7 @@ Mitarbeiter:innen 2011 0
 Mitarbeiter:innen 2021 28
 
 
-Alle Blogbeiträge zum Jubiläumsjahr 2021 gibt's unter dem Hashtag [#OKFDE10](https://okfn.de/tags/okfde10/).
+Alle Blogbeiträge zum Jubiläumsjahr 2021 gibt's unter dem Hashtag [#OKFDE10](/tags/okfde10/).
 
 ## 10 Jahre OKF in Projekten
 
