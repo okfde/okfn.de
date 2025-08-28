@@ -16,6 +16,6 @@ Hier kannst du dich einfach anmelden:
   </span>
 </form>
 
-<p align="center">
-  <img src="/files/images/Studie2.jpg" alt="illustration" width="600">
+<p align="left">
+  <img src="/files/images/Studie2.jpg" alt="illustration" width="1000">
 </p>
