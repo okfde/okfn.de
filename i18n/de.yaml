@@ -98,12 +98,6 @@
   translation: "Diese Seite drucken"
 - id: close
   translation: Schließen
-- id: anniversary_banner_headline
-  translation: Die OKF wird zehn Jahre alt. Feiere mit uns!
-- id: anniversary_one_new_project
-  translation: neues Projekt
-- id: anniversary_multiple_new_projects
-  translation: neue Projekte
 - id: publication_language
   translation: Sprache
 - id: publication_pages

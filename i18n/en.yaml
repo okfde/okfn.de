@@ -96,12 +96,6 @@
   translation: "Print this page"
 - id: close
   translation: Close
-- id: anniversary_banner_headline
-  translation: We're celebrating our tenth anniversary.
-- id: anniversary_one_new_project
-  translation: new project
-- id: anniversary_multiple_new_projects
-  translation: new projects
 - id: publication_language
   translation: Language
 - id: publication_pages
