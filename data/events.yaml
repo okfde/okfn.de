@@ -233,8 +233,26 @@
   venue: Chaostreff, Zürich
   show: true
 - name: Jugend hackt in Köln
-  url: https://jugendhackt.org/events/ch-bern/
+  url: https://jugendhackt.org/events/koeln/
   enddate: "2025-09-21"
   startdate: "2025-09-19"
   venue: Bürgerzentrum Deutz, Köln
+  show: true
+- name: Jugend hackt in Hamburg
+  url: https://jugendhackt.org/events/hamburg/
+  enddate: "2025-09-12"
+  startdate: "2025-09-10"
+  venue: Betahaus Hamburg (Schanze)
+  show: true
+- name: Jugend hackt in München
+  url: https://jugendhackt.org/events/muenchen/
+  enddate: "2025-10-12"
+  startdate: "2025-10-10"
+  venue: Amerikahaus München
+  show: true
+- name: Jugend hackt in Berlin
+  url: https://jugendhackt.org/events/berlin/
+  enddate: "2025-11-02"
+  startdate: "2025-10-31"
+  venue: Theater an der Parkaue
   show: true
