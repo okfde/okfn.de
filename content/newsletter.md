@@ -17,5 +17,5 @@ Hier kannst du dich einfach anmelden:
 </form>
 
 <p align="left">
-  <img src="/files/images/Studie2.jpg" alt="illustration" width="1000">
+  <img src="/files/images/newsletter1.jpg" alt="illustration" width="1000">
 </p>
