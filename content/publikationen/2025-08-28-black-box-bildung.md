@@ -1,5 +1,5 @@
 ---
-title: Kurzstudie. Black Box Bildung
+title: Black Box Bildung
 subtitle: Die Potenziale von Schuldaten für ein lernendes Schulsystem
 layout: publikation
 image:
