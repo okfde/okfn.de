@@ -15,3 +15,7 @@ Hier kannst du dich einfach anmelden:
     <span style="position: absolute; left: -5000px;"></span>
   </span>
 </form>
+
+<p align="center">
+  <img src="/files/images/Studie2.jpg" alt="illustration" width="600">
+</p>
