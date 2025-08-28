@@ -9,7 +9,7 @@ tags:
 type: post
 layout: post
 featured: blue
-title: '10 Jahre OKF DE'
+title: '10 Jahre OKF - Zahlen und Fakten'
 publishedDate: 2021-02-18
 
 ---
