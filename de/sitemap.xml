@@ -98,11 +98,43 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/publikationen/black-box-bildung/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/bildungsdaten/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2025/08/ergebnisse-der-studie-black-box-bildung/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,6 +145,25 @@
                 hreflang="de"
                 href="https://okfn.de/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/black-box-bildung/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
@@ -127,34 +178,8 @@
                 href="https://okfn.de/publikationen/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
-  </url><url>
     <loc>https://okfn.de/authors/ben-burmeister/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/anregungen-staatsmodernisierung/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
@@ -167,19 +192,6 @@
   </url><url>
     <loc>https://okfn.de/tags/staatsmodernisierung/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/opendataranking25/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
@@ -388,9 +400,6 @@
                 hreflang="de"
                 href="https://okfn.de/tags/taiwan/"
                 />
-  </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/produkttransparenz/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
@@ -687,9 +696,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2024/05/piazza-konferenz-2024-call-for-workshops/</loc>
     <lastmod>2024-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-data/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/verwaltungsdigitalisierung/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>

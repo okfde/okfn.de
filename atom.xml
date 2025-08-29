@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-08-19T00:00:00+0000</updated>
+  <updated>2025-08-29T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Ergebnisse der Studie „Black Box Bildung“</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/08/ergebnisse-der-studie-black-box-bildung/"/>
+    <id>https://okfn.de/blog/2025/08/ergebnisse-der-studie-black-box-bildung/</id>
+    <published>2025-08-29T00:00:00+0000</published>
+    <updated>2025-08-29T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;em&gt;Wir veröffentlichen eine Kurzstudie zu den Potenzialen von Schuldaten für ein lernendes Schulsystem&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Das deutsche Schulsystem ist eine Blackbox. Es gibt kaum Länder, die so wenig über ihre Schulen wissen, wie Deutschland. Dabei werden in Deutschland durchaus Daten erhoben und das schon seit Jahren. Doch die sind oft nicht miteinander vergleichbar, nur bruchstückhaft vorhanden, werden nicht bereitgestellt oder haben schlicht keine gute Qualität. Dies gilt sowohl im Vergleich zu Schuldaten vieler anderer Länder als auch im Vergleich zu anderen Daten, die in Deutschland erhoben werden, etwa Arbeitsmarktdaten, welche von sehr hoher Qualität sind und professionell verwaltet werden. “Wir sind ein absolutes Entwicklungsland, was das Monitoring unserer Bildungsergebnisse angeht und liegen auch im internationalen Vergleich weit hinter Ländern wie den Niederlanden, den USA oder Großbritannien.”, &lt;a href=&#34;https://www.campus-schulmanagement.de/magazin/studie-zum-corona-aufholprogramm-gezielte-investitionen-wurden-in-den-meisten-bundeslaendern-vermieden&#34; target=&#34;_blank&#34;&gt;kritisiert etwa der Bildungssoziologe Marcel Helbig&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Handlungsfähigkeit und Vertrauen zusammendenken – Anregungen für die Staatsmodernisierung</title>
@@ -153,20 +163,6 @@ Sabrina Winter&lt;br&gt;&lt;/p&gt;</summary>
     <published>2025-03-20T00:00:00+0000</published>
     <updated>2025-03-20T00:00:00+0000</updated>
     <summary>&lt;p&gt;Die neue Bundesregierung steht vor der Aufgabe, die EU-Richtlinie zum Recht auf Reparatur in nationales Recht umzusetzen. Maßnahmen gegen hohe Kosten, die viele Menschen von der Reparatur ihrer Haushaltsgegenstände abschrecken, sind darin nur unzureichend enthalten. Insbesondere die Zivilgesellschaft wird aktuell noch unzureichend mitgedacht. Sie erhält kaum Zugriff auf reparaturrelevante Informationen und Ersatzteile. Darüber hatten wir bereits zur &lt;a href=&#34;https://okfn.de/blog/2024/04/eu-parlament-schafft-ein-rechtchen-auf-reparatur/&#34; target=&#34;_blank&#34;&gt;Veröffentlichung des sogenannten Rechts auf Reparatur berichtet&lt;/a&gt;. Ein &lt;a href=&#34;https://runder-tisch-reparatur.de/wirtschaft-handwerk-sozialverbaende-kirchen-und-zivilgesellschaft-reparieren-darf-kein-luxus-sein/&#34; target=&#34;_blank&#34;&gt;Bündnis von 21 Unternehmen und Organisationen&lt;/a&gt;, dessen Teil auch die OKF DE ist, fordert die verhandelnden Parteien deshalb auf, Maßnahmen für bezahlbare Reparaturen in der kommenden Legislaturperiode auf die Agenda zu setzen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Acht Jahre Prototype Fund – Eine herzliche Einladung</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/03/acht-jahre-prototype-fund-eine-herzliche-einladung/"/>
-    <id>https://okfn.de/blog/2025/03/acht-jahre-prototype-fund-eine-herzliche-einladung/</id>
-    <published>2025-03-06T00:00:00+0000</published>
-    <updated>2025-03-06T00:00:00+0000</updated>
-    <summary>&lt;h2 id=&#34;8-jahre-prototype-fund&#34;&gt;8 Jahre Prototype Fund&lt;/h2&gt;
-&lt;p&gt;Vor acht Jahren startete der &lt;a href=&#34;https://prototypefund.de&#34; target=&#34;_blank&#34;&gt;Prototype Fund&lt;/a&gt; mit einer Vision: Technologien im Gemeinwohlinteresse zu fördern. Seitdem hat das Team fast 400 Projekte auf ihrem Weg zu innovativen Softwareprototypen begleitet. Jetzt ist es Zeit, diesen Meilenstein mit euch zu feiern!&lt;/p&gt;
-&lt;h2 id=&#34;wann--wo&#34;&gt;Wann &amp;amp; Wo&lt;/h2&gt;
-&lt;p&gt;Am 29. März 2025 laden wir herzlich in den Festsaal Kreuzberg in Berlin ein. Los geht&amp;rsquo;s um 10:30 Uhr!&lt;/p&gt;
-&lt;h2 id=&#34;anmeldung&#34;&gt;Anmeldung&lt;/h2&gt;
-&lt;p&gt;Für die Teilnahme benötigt ihr ein &lt;a href=&#34;https://prototypefund.de/acht-jahre/&#34; target=&#34;_blank&#34;&gt;kostenloses Ticket&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
