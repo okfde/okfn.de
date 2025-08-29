@@ -3,8 +3,6 @@ authors:
 - Maximilian Voigt
 image:
   src: /files/blog/2025/black_box_bildung_sq.jpeg
-  license: cc by Maximilian Voigt
-  license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 - Bildungsdaten
 - Open Data
