@@ -13,7 +13,7 @@ title: 'Ergebnisse der Studie „Black Box Bildung“'
 publishedDate: 2025-08-29
 ---
 
-*Wir veröffentlichen eine Kurzstudie zu den Potenzialen von Schuldaten für ein lernendes Schulsystem*
+*Wir veröffentlichen eine [Kurzstudie zu den Potenzialen von Schuldaten für ein lernendes Schulsystem](https://okfn.de/publikationen/black-box-bildung/)*
 
 Das deutsche Schulsystem ist eine Blackbox. Es gibt kaum Länder, die so wenig über ihre Schulen wissen, wie Deutschland. Dabei werden in Deutschland durchaus Daten erhoben und das schon seit Jahren. Doch die sind oft nicht miteinander vergleichbar, nur bruchstückhaft vorhanden, werden nicht bereitgestellt oder haben schlicht keine gute Qualität. Dies gilt sowohl im Vergleich zu Schuldaten vieler anderer Länder als auch im Vergleich zu anderen Daten, die in Deutschland erhoben werden, etwa Arbeitsmarktdaten, welche von sehr hoher Qualität sind und professionell verwaltet werden. “Wir sind ein absolutes Entwicklungsland, was das Monitoring unserer Bildungsergebnisse angeht und liegen auch im internationalen Vergleich weit hinter Ländern wie den Niederlanden, den USA oder Großbritannien.”, [kritisiert etwa der Bildungssoziologe Marcel Helbig](https://www.campus-schulmanagement.de/magazin/studie-zum-corona-aufholprogramm-gezielte-investitionen-wurden-in-den-meisten-bundeslaendern-vermieden).
 
@@ -44,6 +44,6 @@ Wie lässt sich der Status quo verbessern? Nach Vorschlägen dazu befragt, wie S
 - **Kulturwandel** hin zu einer datengestützten Schulentwicklung, z.B. durch Steigerung des Bewusstseins von Schulleitungen für die Möglichkeiten datengestützter Schulentwicklung
 - **Vollerhebungen zu standardisierten Messungen von Schüler\*innenkompetenzen** über die Zeit und zentrale, deutschlandweite Verwaltung der Daten sowie Zugänglichkeit dieser Daten für die Wissenschaft
 
-Details zur Einschätzung der Potenziale von Schuldaten, der Risiken sowie zu Handlungsempfehlungen finden sich in der Kurzstudie von Mira Fischer und Maximilian Voigt.
+Details zur Einschätzung der Potenziale von Schuldaten, der Risiken sowie zu Handlungsempfehlungen finden sich in der [Kurzstudie](https://okfn.de/publikationen/black-box-bildung/) von Mira Fischer und Maximilian Voigt.
 
 Bei Rückfragen zu den Ergebnissen: Maximilian Voigt, maximilian.voigt@okfn.de
