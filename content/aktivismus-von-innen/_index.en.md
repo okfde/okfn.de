@@ -1,6 +1,6 @@
 ---
-title: Activism from Within
-copy: |
+title: Aktivismus von innen
+copy: | 
   **In the day-to-day work of NGOs and non-profit organisations, the focus is on
 social impact**: the projects, campaigns and initiatives that we
 promote externally in order to change the world. **But what often gets left behind
