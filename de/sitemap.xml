@@ -4173,18 +4173,6 @@
     <loc>https://okfn.de/tags/semantic-web/</loc>
     <lastmod>2010-02-07T09:16:40+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/anniversary/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/anniversary/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/anniversary/"
-                />
-  </url><url>
     <loc>https://okfn.de/projekte/2030-watch/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4791,6 +4779,8 @@
                 href="https://okfn.de/ueber-uns/"
                 />
   </url><url>
+    <loc>https://okfn.de/newsletter/</loc>
+  </url><url>
     <loc>https://okfn.de/events/past/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4804,8 +4794,6 @@
                 />
   </url><url>
     <loc>https://okfn.de/codeofconduct/</loc>
-  </url><url>
-    <loc>https://okfn.de/newsletter/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/volksentscheid/</loc>
     <xhtml:link
