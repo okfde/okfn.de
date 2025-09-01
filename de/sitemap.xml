@@ -4779,8 +4779,6 @@
                 href="https://okfn.de/ueber-uns/"
                 />
   </url><url>
-    <loc>https://okfn.de/newsletter/</loc>
-  </url><url>
     <loc>https://okfn.de/events/past/</loc>
     <xhtml:link
                 rel="alternate"
@@ -4794,6 +4792,8 @@
                 />
   </url><url>
     <loc>https://okfn.de/codeofconduct/</loc>
+  </url><url>
+    <loc>https://okfn.de/newsletter/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/volksentscheid/</loc>
     <xhtml:link
