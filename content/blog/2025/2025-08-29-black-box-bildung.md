@@ -48,4 +48,4 @@ Details zur Einschätzung der Potenziale von Schuldaten, der Risiken sowie zu Ha
 
 Bei Rückfragen zu den Ergebnissen: Maximilian Voigt, maximilian.voigt@okfn.de
 
-1 unterentwickelt wurde hier durch die originale und nicht mehr zeitgemäße Formulierung "ein absolutes Entwicklungsland" ersetzt. Für Details siehe: [Was ist eigentlich (ein) Entwicklung(land)? – Kritische Perspektiven auf den Begriff „Entwicklung“](https://www.plura.uni-bayreuth.de/pool/Unterrichtsmaterialien/Was-ist-Entwicklung.pdf)
+1 "unterentwickelt" wurde hier durch die originale und nicht mehr zeitgemäße Formulierung "ein absolutes Entwicklungsland" ersetzt. Für Details siehe: [Was ist eigentlich (ein) Entwicklung(land)? – Kritische Perspektiven auf den Begriff „Entwicklung“](https://www.plura.uni-bayreuth.de/pool/Unterrichtsmaterialien/Was-ist-Entwicklung.pdf)
