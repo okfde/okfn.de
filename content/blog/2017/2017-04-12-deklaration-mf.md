@@ -1,14 +1,14 @@
 ---
 authors:
-- OKF
+  - OKF
 image:
   src: /files/blog/2017/04/lautsprecher.jpg
   title: Nahverkehr
   license: CC BY-SA 2.0
   license_url: https://creativecommons.org/licenses/by-sa/2.0/
 tags:
-- Meinungsfreiheit
-- NetzDG
+  - Meinungsfreiheit
+  - NetzDG
 type: post
 layout: post
 card: true
@@ -16,14 +16,13 @@ title: Für Meinungsfreiheit - gegen das NetzDG
 publishedDate: 2017-04-12 07:00:00
 ---
 
-Die Open Knowledge Foundation Deutschland unterstützt die "Deklaration für die Meinungsfreiheit". In Reaktion auf die Verabschiedung des Netzwerkdurchsetzungsgesetzes (NetzDG) durch das Bundeskabinett am 5. April 2017 zeigen wir gemeinsam mit einer breiten Allianz von Wirtschaftsverbänden, netzpolitischen Vereinen, Bürgerrechtsorganisationen und Rechtsexperten, dass der Gesetzentwurf nicht dem Anspruch genügt, die Meinungsfreiheit adäquat zu wahren. 
+Die Open Knowledge Foundation Deutschland unterstützt die "Deklaration für die Meinungsfreiheit". In Reaktion auf die Verabschiedung des Netzwerkdurchsetzungsgesetzes (NetzDG) durch das Bundeskabinett am 5. April 2017 zeigen wir gemeinsam mit einer breiten Allianz von Wirtschaftsverbänden, netzpolitischen Vereinen, Bürgerrechtsorganisationen und Rechtsexperten, dass der Gesetzentwurf nicht dem Anspruch genügt, die Meinungsfreiheit adäquat zu wahren.
 
 Wir sind der Auffassung, dass eine politische Gesamtstrategie notwendig ist, um das Aufkommen von Hassrede und absichtlichen Falschmeldungen im Netz einzudämmen. Es besteht Handlungsbedarf. Der vorliegende Gesetzentwurf stellt aber die Grundsätze der Meinungsfreiheit in Frage. Eine Privatisierung der Rechtsdurchsetzung ist kontraproduktiv und kann letztlich auch zu einer Gefahr für die Freiheit von Wissen werden.
 
 **[Zur Deklaration](http://deklaration-fuer-meinungsfreiheit.de/)**
 
-
-*Die weiteren Unterstützer-Organisationen sind:*
+_Die weiteren Unterstützer-Organisationen sind:_
 
 Amadeu-Antonio-Stiftung
 
@@ -60,15 +59,15 @@ Reporter ohne Grenzen e. V.
 Wikimedia Deutschland e. V.
 
 # UPDATE 17.05.2017
+
 <a id="Pressemitteilung"></a>
 
 Ein lesenswerter Kommentar von Constanze Kurz und Stefan Ullrich
-["Netzwerkdurchsetzungsgesetz 
-Nicht einmal mehr die Simulation von Partizipation"](
-http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/netzwerkdurchsetzungsgesetz-nicht-einmal-mehr-die-simulation-von-partizipation-15015559.html) in der FAZ.
-
+["Netzwerkdurchsetzungsgesetz
+Nicht einmal mehr die Simulation von Partizipation"](http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/netzwerkdurchsetzungsgesetz-nicht-einmal-mehr-die-simulation-von-partizipation-15015559.html) in der FAZ.
 
 # Gemeinsame PM am 18.05.2017 Netzwerkdurchsetzungsgesetz: Breites Bündnis wendet sich mit Appell an
+
 Fraktionen, Rechtsausschuss und EU-Kommission
 
 Vor gut zwei Wochen brachte eine breite Allianz von
@@ -101,4 +100,5 @@ Internetwirtschaft und Politik in einem strukturierten Prozess gemeinsam
 erarbeitet wird.
 
 # Declaration for Freedom of Expression letter to Andrus Ansip
-[This letter](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/Letter-NetzDG-Ansip.pdf) was sent to Ansip Vice President of the European Commission regarding Network Enforcement Law.
+
+[This letter](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2017/05/Letter-NetzDG-Ansip.pdf) was sent to Ansip Vice President of the European Commission regarding Network Enforcement Law.

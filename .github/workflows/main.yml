@@ -4,7 +4,7 @@ name: Release
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
   schedule:
     # Runs "at minute 55 past 2" (see https://crontab.guru)

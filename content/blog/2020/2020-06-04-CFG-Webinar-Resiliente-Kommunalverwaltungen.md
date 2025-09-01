@@ -1,18 +1,18 @@
 ---
 authors:
-- Claudia Jach
+  - Claudia Jach
 image:
   src: /files/blog/2020/05/Town_Picture_by_john_moeses_bauan_unsplash.jpg
   title: Town_Picture_by_john_moeses_bauan_unsplash.jpg
   license: null
   license_url: null
 tags:
-- Code for Germany
-- Veranstaltungen
+  - Code for Germany
+  - Veranstaltungen
 type: post
 layout: post
 featured: yellow
-title: 'Online-Seminar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?'
+title: "Online-Seminar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?"
 publishedDate: 2020-06-04
 ---
 
@@ -28,13 +28,13 @@ Das Webinar „Resiliente Kommunalverwaltungen – wie agieren wir krisenfest un
 
 Folgender **Ablauf** ist geplant:
 
-17.00 Uhr	Begrüßung und Input
+17.00 Uhr Begrüßung und Input
 
-17.20 Uhr	Best Practice Beispiel
+17.20 Uhr Best Practice Beispiel
 
-17.30 Uhr	Diskussion
+17.30 Uhr Diskussion
 Die Veranstaltung endet spätestens um 18.30 Uhr.
 
 Bitte melde dich unter dieser E-Mail Adresse an: krisenresilienz@staedtetag.de. Das Webinar wird als ZOOM-Konferenz veranstaltet werden.
 
-Teil die [Einladung](https://github.com/okfde/okfn.de/raw/master/static/files/blog/2020/05/Einladung_Webinar_Krisenresilienz.pdf) auch mit deiner Stadtverwaltung! Die Veranstaltung ist für alle offen.
+Teil die [Einladung](https://github.com/okfde/okfn.de/raw/main/static/files/blog/2020/05/Einladung_Webinar_Krisenresilienz.pdf) auch mit deiner Stadtverwaltung! Die Veranstaltung ist für alle offen.

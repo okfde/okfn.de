@@ -1,16 +1,16 @@
 ---
 authors:
-- Bits & Bäume
+  - Bits & Bäume
 image:
   src: /files/blog/2022/03/B&B Logo mit Schrift.jpg
 tags:
-- Bits & Bäume
-- Nachhaltigkeit
-- Policy
+  - Bits & Bäume
+  - Nachhaltigkeit
+  - Policy
 type: post
 layout: post
 featured: yellow
-title: 'Bündnis fordert von Politik: Digitalisierung muss sozial-ökologischem Wandel dienen'
+title: "Bündnis fordert von Politik: Digitalisierung muss sozial-ökologischem Wandel dienen"
 publishedDate: 2022-09-05
 ---
 
@@ -20,7 +20,7 @@ publishedDate: 2022-09-05
 
 Berlin, 5. September 2022 – Die Digitalisierung muss stärker in den Dienst der Gesellschaft und des sozial-ökologischen Wandels gestellt werden. Digitale Technologien sollten durch gleichberechtigte gesellschaftliche Teilhabe und innerhalb der planetaren Grenzen zur Verbesserung von Lebensbedingungen und der Umwelt beitragen, anstatt durch explodierenden Energiebedarf, Ressourcenverbrauch und mangelnde Teilhabe vor allem des Globalen Südens existierende Krisen noch weiter zu verschärfen. Mit diesem Appell und insgesamt mehr als 60 thematischen Forderungen wenden sich heute 13 Organisationen aus Umwelt,- Klima- und Naturschutz, Digitalpolitik, Entwicklungszusammenarbeit und Wissenschaft anlässlich der bevorstehenden „Bits & Bäume“-Konferenz an die Bundesregierung, die Europäische Union und politische Akteure weltweit. Die Konferenz für Digitalisierung und Nachhaltigkeit findet vom 30. September bis 2. Oktober 2022 in Berlin statt.
 
-Die Organisationen fordern, dass die Politik die strategischen Rahmenbedingungen für die Digitalisierung am Natur-, Klima- und Ressourcenschutz sowie am Erhalt der Biodiversität ausrichtet. Nur so kann die Digitalisierung insbesondere in den Sektoren Energie, Mobilität, Landwirtschaft, Industrie und Konsum zu grundlegenden sozial-ökologischen Transformationen beitragen. Damit einhergehend müsse die Digitalisierung ein weltweit faires Wirtschaftssystem unterstützen, das dem Globalen Süden eine gerechte und wirtschaftliche Teilhabe ermöglicht. Lokale Gemeinschaften, zivilgesellschaftliche Gruppen und indigene Völker seien bei der Gestaltung der globalen Digitalwirtschaft und -politik aktiv einzubeziehen. Mit ihren Forderungen gehen die Organisationen deutlich über die Ansätze der jüngst beschlossenen Digitalstrategie der Bundesregierung hinaus.  
+Die Organisationen fordern, dass die Politik die strategischen Rahmenbedingungen für die Digitalisierung am Natur-, Klima- und Ressourcenschutz sowie am Erhalt der Biodiversität ausrichtet. Nur so kann die Digitalisierung insbesondere in den Sektoren Energie, Mobilität, Landwirtschaft, Industrie und Konsum zu grundlegenden sozial-ökologischen Transformationen beitragen. Damit einhergehend müsse die Digitalisierung ein weltweit faires Wirtschaftssystem unterstützen, das dem Globalen Süden eine gerechte und wirtschaftliche Teilhabe ermöglicht. Lokale Gemeinschaften, zivilgesellschaftliche Gruppen und indigene Völker seien bei der Gestaltung der globalen Digitalwirtschaft und -politik aktiv einzubeziehen. Mit ihren Forderungen gehen die Organisationen deutlich über die Ansätze der jüngst beschlossenen Digitalstrategie der Bundesregierung hinaus.
 
 „Die digitale Wirtschaft ist gefordert, ökologische und soziale Verantwortung entlang der gesamten Wertschöpfungskette zu übernehmen“, so Thomas Korbun, Wissenschaftlicher Geschäftsführer am Institut für ökologische Wirtschaftsforschung (IÖW). „Digitalunternehmen müssen in die Pflicht genommen werden, Informationstechnologien und -infrastrukturen ohne Kompensation klimaneutral und an einer Kreislaufwirtschaft orientiert herzustellen und zu betreiben.“ Auch auf immer weiter verbreitete automatisierte Entscheidungssysteme gehen die Forderungen ein, denn diese werfen aus Sicht einer nachhaltigen Entwicklung viele Fragen auf. Korbun: „Wir fordern, dass Mitbestimmungs- und Grundrechte in den Daten und Algorithmen gewahrt werden, die der Entscheidungsfindung zugrunde liegen. Prüfkommissionen unter zivilgesellschaftlicher Aufsicht sollten dies sicherstellen, Auflagen formulieren und Nichteinhaltung sanktionieren können.“
 
@@ -44,10 +44,10 @@ Die Veranstaltung wird gefördert durch die Deutsche Bundesstiftung Umwelt (DBU)
 
 **Kontakt und weitere Informationen**
 
-**Politische Forderungen:** [Zum Download des Forderungspapiers](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/08/Bits%20%26%20B%C3%A4ume_Politische%20Forderungen_deutsch.pdf)
+**Politische Forderungen:** [Zum Download des Forderungspapiers](https://raw.githubusercontent.com/okfde/okfn.de/main/static/files/blog/2022/08/Bits%20%26%20B%C3%A4ume_Politische%20Forderungen_deutsch.pdf)
 
 **Konferenzprogramm:** [https://bits-und-baeume.org/konferenz-2022/programm/](https://bits-und-baeume.org/konferenz-2022/programm)
 
 **Ticketverkauf:** https://events.fairetickets.de/gedlv/
 
-**E-Mail*:** presse@bits-und-baeume.org
+**E-Mail\*:** presse@bits-und-baeume.org

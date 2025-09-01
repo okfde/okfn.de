@@ -1,14 +1,14 @@
 ---
 authors:
-- Walter Palmetshofer
+  - Walter Palmetshofer
 image:
   src: /files/blog/2018/07/20180713-psi-screenshot.png
   title: PSI-Directive
 tags:
-- Open Data
-- PSI
-- Policy
-- international
+  - Open Data
+  - PSI
+  - Policy
+  - international
 type: post
 layout: post
 card: true
@@ -16,13 +16,12 @@ title: PSI Directive - joint effort by OKF and friends
 publishedDate: 2018-07-13
 ---
 
-Updates: 
-[25.08.18 Stellungnahme zur PSI Richtlinie](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/Stellungnahme-OKFDE-PSI-Richtlinie.pdf)<br>
+Updates:
+[25.08.18 Stellungnahme zur PSI Richtlinie](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2018/08/Stellungnahme-OKFDE-PSI-Richtlinie.pdf)<br>
 
-
-A short update on the PSI directive (the 
-proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the re-use of public sector information (recast). 
-Today the joint [Open Knowledge comment for the PSI directive recast was submitted](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/OKF-PSI-Directive-amendments.pdf).
+A short update on the PSI directive (the
+proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the re-use of public sector information (recast).
+Today the joint [Open Knowledge comment for the PSI directive recast was submitted](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2018/08/OKF-PSI-Directive-amendments.pdf).
 
 Thanks to [Open Knowledge International](https://blog.okfn.org/2018/06/21/europes-proposed-psi-directive-a-good-baseline-for-future-open-data-policies/), [OK Finnland](http://okf.fi) and [OK Austria](https://okfn.at) for the combined effort.
 
@@ -30,11 +29,11 @@ More background information and a rough timeline of the next steps:
 
 The committee responsible for the PSI Directive is [ITRE](http://www.europarl.europa.eu/committees/en/itre/home.html), the Industry, Research and Energy Committee.
 
-The report is expected towards the end of October, rapporteur is [Neoklis Sylikiotis](http://www.europarl.europa.eu/meps/nl/124689/NEOKLIS_SYLIKIOTIS_home.html) (GUE/NGL).<br> 
+The report is expected towards the end of October, rapporteur is [Neoklis Sylikiotis](http://www.europarl.europa.eu/meps/nl/124689/NEOKLIS_SYLIKIOTIS_home.html) (GUE/NGL).<br>
 <i>(Hint: Anybody from the Greek open data scene is highly welcome to talk to us or to Neoklis Sylikiotis.)</i>
 
 ITRE shadow rapporteurs are: EPP: [Michal Boni](http://www.europarl.europa.eu/meps/nl/124896/MICHAL_BONI_home.html), S&D [Razvan Popa](http://www.europarl.europa.eu/meps/en/189490/Răzvan_POPA_home.html), ALDE [Morten Helveg Petersen](http://www.europarl.europa.eu/meps/en/124872/MORTEN+HELVEG_PETERSEN_home.html), Greens: [Felix Reda](http://www.europarl.europa.eu/meps/nl/124816/JULIA_REDA_home.html)
-[More details here:](http://www.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=&reference=2018/0111(COD))
+[More details here:](<http://www.europarl.europa.eu/oeil/popups/ficheprocedure.do?lang=&reference=2018/0111(COD)>)
 
 IMCO has special competence, which is why it is also good to address these shadow rapporteurs:
 
@@ -51,7 +50,6 @@ If the Austrians want to have a good say during their presidency, the Council sh
 
 Anybody interested in the process please contact me.
 We will coordinate the Open Knowledge Network and friends.
-
 
 <b>Updates:</b><br>
 12.09.2018 [ITRE Draft](http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-623.664+01+DOC+PDF+V0//EN&language=EN)<br>

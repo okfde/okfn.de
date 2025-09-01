@@ -1,13 +1,13 @@
 ---
 authors:
-- Walter Palmetshofer
+  - Walter Palmetshofer
 image:
   src: /files/blog/2019/rollup-offenedatenfueralle.png
   title: Offene Daten für Alle
 tags:
-- PSI
-- Policy
-- Opendata
+  - PSI
+  - Policy
+  - Opendata
 type: post
 layout: post
 card: true
@@ -16,30 +16,34 @@ publishedDate: 2019-02-14
 ---
 
 Demnächst wird in Brüssel über die Open Data Verordnung (ehemals PSI Richtlinie) abgestimmt,
-Bericht siehe [hier](xxx), aktuell wird in Deutschland über ["Daten für alle"](https://www.spd.de/aktuelles/daten-fuer-alle-gesetz/) gesprochen und wir sind zur [heutigen Veranstaltung](https://www.spd.de/presse/pressemitteilungen/detail/news/andrea-nahles-diskutiert-ueber-digitalen-fortschritt-durch-ein-daten-fuer-alle-gesetz/13/02/2019/) eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss.<br> [Update: Video von der Veranstaltung](https://www.youtube.com/watch?v=_ulOQTGwSzY) 
+Bericht siehe [hier](xxx), aktuell wird in Deutschland über ["Daten für alle"](https://www.spd.de/aktuelles/daten-fuer-alle-gesetz/) gesprochen und wir sind zur [heutigen Veranstaltung](https://www.spd.de/presse/pressemitteilungen/detail/news/andrea-nahles-diskutiert-ueber-digitalen-fortschritt-durch-ein-daten-fuer-alle-gesetz/13/02/2019/) eingeladen. Es ist ja an sich ja überfälliger und erfreulicher Debattenanstoss.<br> [Update: Video von der Veranstaltung](https://www.youtube.com/watch?v=_ulOQTGwSzY)
 
 tl;dr:
 
 Ein kurzer Kommentar u.a. zu grundlegenderen offenen Punkte in diesem Zusammenhang:
 
-## 1. Allgemein: (offene) Daten für alle. 
+## 1. Allgemein: (offene) Daten für alle.
+
 Wer Daten für alle fordert, sollte selbst auch die eigenen Daten liefern. Daher offene Daten für alle, ein OpenData Gesetz 2.0 (pro-aktive Umsetzung der Open Data Richtlinie), also ein Transparenzgesetz!
 
-## 2. Zuerst faire Besteuerung der Digitalunternehmen 
+## 2. Zuerst faire Besteuerung der Digitalunternehmen
+
 Die Digitalsteuer im Jahr 2018 ist gescheitert, es gibt weiterhin massive Steuerlöcher. Daher müssten wir IT-Konzerne steuern - durch faire Besteuerung.
 
-## 3. Wettbewerbsgrundlagen sichern 
+## 3. Wettbewerbsgrundlagen sichern
+
 Martkeintrittschancen gewährleisten
 
 ## 4. Diskussion über Daten, Datasharing und alternative Vorschläge
+
 Konkrete alternative Modelle wären u.a. Technologische Souveränität, mydata/ourdata, ...
 
 Update folgt. [Live-Doc](https://docs.google.com/document/d/1Gu0YC3TvTytMI9iaK1vrk8yrlOwxGeIfqLFloOm9gZk/edit)<br>
 
-
 Also der Reihe nach:
 
 ## 1. Wer von Firmen einen geregelten Zugang zu deren (nicht
+
 persönlichen) Daten fordert, auch wenn diese Monopolisten sind, sollte
 dies auch selbst erbringen.
 
@@ -50,17 +54,17 @@ Wir reden hier von einem notwendigen Open Data Gesetz 2.0. Ist im [Koalitionsver
 angekündigt](https://www.cdu.de/system/tdf/media/dokumente/koalitionsvertrag_2018.pdf?file=1).
 Zur Umsetzung bleiben noch weniger als 2 Jahre.
 
-(Interessant hier auch, im [*Entwurf des Koalitionsvertrages Stand 11:30
-05.02.2017*](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf)
+(Interessant hier auch, im [_Entwurf des Koalitionsvertrages Stand 11:30
+05.02.2017_](http://www.rp-online.de/polopoly_fs/entwurf-des-koalitionsvertrags-als-pdf-dokument-1.7372625.1517927616!file/1.pdf)
 war es noch strittig, ob es nur ein “zweites \#OpenData-Gesetz oder ein
 \#Transparenzgesetz geben soll:
 
-*1568 Strittig intern: Formulierungsvorschlag SPD: Um den Open
+_1568 Strittig intern: Formulierungsvorschlag SPD: Um den Open
 Data-Gedanken zu stärken werden wir die gegenwärtig nebeneinander
 bestehenden Informationsfreiheitsgesetze (Informationsfreiheitsgesetz,
 Umweltinformationsgesetz, Verbraucherinformationsgesetz) werden wir
 zusammenführen in einem Transparenzgesetz. Der Bürger soll einen
-Rechtsanspruch auf Open Data haben.”* Dies war vor 2 Jahren. Dieser
+Rechtsanspruch auf Open Data haben.”_ Dies war vor 2 Jahren. Dieser
 Koalitionsvertrag ist ein Jahr und 6 Tage alt, nach einem Viertel liegt
 die Umsetzungsquote bei den digitalen Themen bei ¯\\\_(ツ)\_/¯. )
 
@@ -83,7 +87,7 @@ die Offenlegung von Parteisponsoring.)
 Deutschland könnte, wenn es wollte, als Novum eine Vorreiterrolle bei
 der anstehenden Umsetzung der Open Data Verordnung übernehmen. Das
 bedeutet, die Umsetzung der Verordnung mit der [Liste der High Value
-Data Sets](https://github.com/okfde/okfn.de/blob/master/files/blog/2018/08/PSI-high-value-data-sets.csv)
+Data Sets](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2018/08/PSI-high-value-data-sets.csv)
 als Anlass für ein Open Data Gesetz 2.0 nehmen und den großen
 Digitalisierungankündigungen bis spätestens Sommer 2021 auch Taten
 folgen lassen.
@@ -169,7 +173,7 @@ Also:
 
 Letzte Woche gab es die Premiere, dass sich eine Wettbewerbsbehörde
 erstmalig zu dem [Thema Datenmacht geäussert
-hat](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2019/07\_02\_2019\_Facebook.html).
+hat](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2019/07_02_2019_Facebook.html).
 U.a. zu einer Firma die solch eine Marktmacht hat, dass sie die
 Bedingungen diktieren kann und NutzerInnen keine Wahl haben. Dies war
 ein erster, längst überfälliger zaghafter Schritt. Dieser Vorgang sollte
@@ -202,13 +206,13 @@ genannt, vollkommene Zustimmung, jedoch wird in anderen Fällen die
 Angelegenheit durchaus komplexer (z.B. Interoperabilität bei Socialmedia
 UX).
 
-***Fassen wir zusammen, die notwendigen deutschen Vorbedingungen für
+**_Fassen wir zusammen, die notwendigen deutschen Vorbedingungen für
 einen unabhängigen dritten europäischen Datenwirtschaftansatz, erstens
 der eigene kleine Datenschatz von möglichen offenen Daten wird nicht
 gehoben, zweitens die eigene digitale Infrastruktur liegt am Boden,
 drittens steuerrechtlich fehlt es an der Durch- und Umsetzung und
 viertens Wettbewerbsbehörden kommen erst jetzt bei der Thematik in die
-Gänge.***
+Gänge._**
 
 Diese Punkte sollten adressiert werden bevor man den Hauptpunkt angeht.
 Jedoch sind diese genannten Maßnahmen alleine für die anstehende Aufgabe
@@ -227,7 +231,7 @@ zu fördern.
 Wie dieser Weg aussehen könnte, versuchten wir u.a. hier im
 zivilgesellschaftlichen CityLab Berlin aufzuzeigen.["Manifest zur
 Förderung der technologischen Souveränität und der digitalen
-Rechte"]([*http://citylab.berlin/docs/Tech-Souveraenitaets-Manifestv02.html*](http://citylab.berlin/docs/Tech-Souveraenitaets-Manifestv02.html))
+Rechte"](<[*http://citylab.berlin/docs/Tech-Souveraenitaets-Manifestv02.html*](http://citylab.berlin/docs/Tech-Souveraenitaets-Manifestv02.html)>)
 auf Stadtebene, adaptierbar auch für Deutschland.
 
 Exkurs: Zum einfacheren Verständnis versuche ich diese Datenproblematik
@@ -255,7 +259,7 @@ europäischen Verkehrsunternehmen würden einmal gemeinsam an solch
 brauchbaren Lösung arbeiten.
 
 - [Mobility Data Specification - Los
-Angeles](https://github.com/CityOfLosAngeles/mobility-data-specification)
+  Angeles](https://github.com/CityOfLosAngeles/mobility-data-specification)
 
 Kurzfassung: An der US-Westküste gab es E-Scooter-Boom, dann standen
 dort wie in Berlin die Bikes am Gehsteig rum, daher hat die Stadt Los
@@ -265,7 +269,7 @@ werden dürfen (also die öffentliche Infrastruktur verwenden), wenn sie
 selbst die Echtzeit(positions)daten wieder (offen) an die Stadt selbst
 zugänglich machen. Damit schafft man brauchbaren multimodalen ÖPNV.
 
-- [Austin, Texas]([*http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/*](http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/))
+- [Austin, Texas](<[*http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/*](http://locusmag.com/2019/01/cory-doctorow-disruption-for-thee-but-not-for-me/)>)
 
 Die Stadt Austin in Texas verwies Uber und Lyft in die Schranken, mit
 dem Ergebnis 25% mehr Lohn für die Taxi-Fahrer vor Ort.
@@ -327,7 +331,7 @@ Datenkapitalismus vor sich selbst.
 
 Im übrigen bin ich der Meinung, dass man Facebook vergesellschaften muß.
 
-*PS: Für weitere Details zur Datenwirtschaftslage mit persönlichen Daten
-empfehle ich auf [Wolfie Christl](https://twitter.com/wolfiechristl).*
+_PS: Für weitere Details zur Datenwirtschaftslage mit persönlichen Daten
+empfehle ich auf [Wolfie Christl](https://twitter.com/wolfiechristl)._
 
-*PPS: Am [15. Mai findet bei der SPD Netzpolitik eine Diskussion](https://spdnetz.de/event/daten-fuer-alle/) dazu statt.
+\*PPS: Am [15. Mai findet bei der SPD Netzpolitik eine Diskussion](https://spdnetz.de/event/daten-fuer-alle/) dazu statt.
