@@ -12,8 +12,6 @@ featured: blue
 title: '(EN) Developing decision-making structures - How we organise our collaboration'
 publishedDate: 2025-08-24
 ---
-
-
 **In this article, we show how we organise ourselves internally. We describe the structures we use to promote co-determination and distribute power.**
 
  In our work, we strive for a democratic, sustainable and resilient future based on openness, participation and transparency. In order to live up to this aspiration within our organisation, we need to organise our internal collaboration accordingly: we need a solid governance model. 
@@ -52,13 +50,11 @@ The **decision-making forum** makes cross-organisational decisions that go beyon
 
 We have a number of policies and guidelines. These include our [**code of conduct**](/codeofconduct) and our [**whistleblowing policy**](files/documents/OKF_WhistleblowingPolicy_Verfahrensordnung.pdf).
 
-
 Our internal **handbook** and accompanying guidelines contain as much information as possible in writing: from the contact details of our caretaker and best practices for grant applications to an overview of our salary model. The management team maintains the handbook, but every team member can access it, correct errors and make additions (and notify the caretaker immediately if, for example, a ceiling light in the conference room is broken). This reduces the workload of our small administrative team, makes knowledge less dependent on individual employees and helps new colleagues find their feet more quickly.
 
 We have special exchange formats to maintain and discuss our organisational culture and gauge the mood: we learn from each other at the Know Lunch, discuss complex issues in a discussion forum, and go on an annual OKF team retreat to the countryside.
 
 Our internal structures are never finished; they evolve with us. We have to continuously reflect and adapt. By the time this article is finished, we may already be trying something new.
-
 
 ## Why all this?
 **A good governance model...**
