@@ -11,8 +11,7 @@ featured: yellow
 title: 'Machtstrukturen aufdecken - Eine Übung, um über Macht zu sprechen'
 publishedDate: 2025-08-25
 ---
-
-**In diesem Artikel teilen wir die Anleitung zu einer Übung,  mit der wir Gespräche über Machtstrukturen in unserer Organisation führen.** 
+**In diesem Artikel teilen wir die Anleitung zu einer Übung, mit der wir Gespräche über Machtstrukturen in unserer Organisation führen.** 
 
 Für eine demokratische, nachhaltige und resiliente Zukunft fordern wir von der Politik Transparenz, Teilhabe und Zusammenarbeit auf Augenhöhe. Diese Werte versuchen wir in unserer Organisation nicht nur nach außen zu vertreten, sondern auch nach innen zu leben. 
 
@@ -22,15 +21,12 @@ Wir haben eine kleine Übung entwickelt, mit der sich Machtstrukturen innerhalb 
 
 Macht ist nicht automatisch schlecht: Macht bedeutet, dass man etwas bewegen kann. Jede Organisation braucht Machtzentren, damit Entscheidungen funktionieren. Diese Zentren der Macht müssen jedoch möglichst transparent und offen sein, damit niemand ausgeschlossen wird.
 
-
 ## Anleitung zum Gespräch über Machtstrukturen
 
 Das Ziel der Übung ist, herauszufinden, welche Machtstrukturen, Machtinstrumente und andere Faktoren in Bezug auf Macht in der Organisation vorhanden sind. Es geht darum, ein Gespräch darüber zu führen. Wir müssen keine Lösung finden, und es gibt in dieser Übung keinen Anspruch, dass etwas verändert wird. Der Wert liegt im Sichtbarmachen und im Ansprechen.
 Die Übung dauert 60 bis 90 Minuten, je nachdem, wie viele Leute ihr seid und wie viel Zeit ihr euch für den Austausch nehmen wollt.
 
-
 Als Material braucht ihr eine Fläche, die ihr in vier Quadranten teilt (das könnt ihr mit Stiften auf einem Whiteboard machen, mit Kreide auf dem Boden oder mit Klebeband auf einem Tisch, alles ist möglich), Karten oder große Klebezettel, Stifte und optional Klebepunkte sowie Klebeband, Pins oder Magneten, um die Karten zu befestigen. 
-
 
 Ihr teilt die Fläche in vier Quadranten, indem ihr zwei Achsen aufzeichnet. Eine Achse verläuft von informell (nicht festgeschrieben) bis formell (offiziell vereinbart), die andere Achse verläuft von innen (wie es intern abläuft) bis außen (was man von außen sieht). 
 
@@ -67,7 +63,6 @@ Für eine Reflexion im gesamten Team markieren wir Karten (z. B. mit Klebepunkte
 Auch wenn es bei der Übung keinen konkreten Outcome gibt: Der Wert liegt allein schon darin, dass wir über Macht sprechen. Wenn wir offen über Macht sprechen, schaffen wir ein Klima, in dem Kritik besser möglich ist. Es zahlt sich aus, so eine Reflexion regelmäßig zu machen. Machtverhältnisse verändern sich, während sich die Organisation, das Team, die Gesellschaft, unsere Communities, die Förderlandschaft sich verändert. Wir müssen also regelmäßig einchecken und über eigene Strukturen reflektieren, auch wenn gerade kein besonderes Problem ansteht. So schaffen wir eine Gesprächsbasis, die uns hilft, in einer nächsten Konfliktsituation besser zu reagieren. Mit regelmäßigen Reflexionen über Machtverhältnisse lassen sich auch die Ergebnisse über die Zeit vergleichen, und vielleicht auch Erfolge und Verbesserungen erkennen, die es zu feiern lohnt. 
 
 ## Warum das alles?
-
 **Wir decken Machtstrukturen auf...**
 
 ... damit wir unsere Ansprüche an **Transparenz und Gerechtigkeit** auch intern einlösen.
@@ -81,4 +76,3 @@ Auch wenn es bei der Übung keinen konkreten Outcome gibt: Der Wert liegt allein
 ---
 **PDF Download**: Ihr könnt die Übung **Machtstrukturen aufdecken** als PDF herunterladen. 
 **Die Lizenz** dafür ist CC-BY SA 4.0, d. h., ihr dürft sie verwenden und remixen, aber müsst uns als Urheberin nennen. Wir freuen uns auf eure Rückmeldungen, wenn ihr es einsetzt, auf eure Erfahrungsberichte und Verbesserungsvorschläge.
-
