@@ -12,7 +12,6 @@ featured: yellow
 title: '(EN) Uncovering power structures – An exercise for talking about power'
 publishedDate: 2025-08-25
 ---
-
 **In this article, we share instructions for an exercise we developed to facilitate conversations about power structures in our organisation.** 
 
 For a democratic, sustainable and resilient future, we demand transparency, participation and cooperation on an equal footing from politicians. In our organisation, we strive to not only represent these values externally, but also to live them internally.
@@ -22,7 +21,6 @@ It is important to talk openly and calmly about power structures so that we can 
 We have developed a small exercise that reveals power structures within a team. We have repeated this exercise at our annual team retreat. It helps us to create a common understanding of current structures and allows us to address power relations that are otherwise often taboo.
 
 Power is not automatically bad: power means you can make things happen. Every organisation needs centres of power so that decisions can be made. However, these centres of power must be as transparent and open as possible so that no one is excluded.
-
 
 ## Guidelines for discussing power structures
 
@@ -34,14 +32,12 @@ You will need a surface that you can divide into four quadrants (you can do this
 
 Divide the space into four quadrants by drawing two axes. One axis runs from informal (not written down) to formal (officially agreed), the other axis runs from inside (how it works internally) to outside (what can be seen from the outside).
 
-
 ![Illustration of four axes as black lines on a white background with labels: outside-inside (vertical axis), informal-formal (horizontal axis)](/files/blog/2025/2025-09-power-axes.png)<br>
  *Illustration of the axes outside-inside, informal-formal for the exercise Uncovering power structures*
 
 After the introduction, you divide into small groups of up to four people. Write down on the cards any structures, instruments and other factors that come to mind that grant power in your organisation. Record your observations as neutrally as possible.
 
 After about 30 minutes, everyone comes back together and places the cards on the quadrants. It is not always clear where a card belongs. For example, community members in positions of power can be placed either inside or outside, depending on how closely the community is integrated into your organisation. In this case, you can duplicate the card or decide on a field. It does not have to be perfect; some ambiguity is okay.
-
 
 A few examples:
   - **·	Internal, informal**
@@ -58,7 +54,6 @@ We have identified power through social privileges such as being white, origin, 
 ![Photograph of people seated around a wooden table, laying cards down](/files/blog/2025/2025-09-Machtstrukturen.jpg)<br>
 *Photo: Team and board members do the exercise on power structures at our retreat.*
 
-
 Once all the cards have been placed, look at the overall picture: Are there quadrants with a particularly large number of cards, while others have very few?
 
 In our experience, we have always collected more on informal power than on formal structures. We have very flat hierarchies on the outside, but are quite complex on the inside, with many stakeholders in large networks.
@@ -70,7 +65,6 @@ For reflection within the entire team, we mark cards (e.g. with sticky dots) tha
 Even if there is no concrete outcome to the exercise, its value lies in the fact that we are talking about power. When we talk openly about power, we create a climate in which criticism is easier. It pays off to engage in this kind of reflection on a regular basis. Power relations change as the organisation, the team, society, our communities and the funding landscape change. We therefore need to check in regularly and reflect on our own structures, even if there are no particular problems at the moment. This creates a basis for discussion that helps us to respond better in the next conflict situation. Regular reflection on power relations also allows us to compare results over time and perhaps identify successes and improvements that are worth celebrating.
 
 ## Why all this?
-
 **We uncover power structures...**
 
 ... so that we can live up to our standards of **transparency and fairness** internally as well as externally.
