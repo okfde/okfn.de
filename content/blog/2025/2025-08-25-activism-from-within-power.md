@@ -69,9 +69,6 @@ For reflection within the entire team, we mark cards (e.g. with sticky dots) tha
 
 Even if there is no concrete outcome to the exercise, its value lies in the fact that we are talking about power. When we talk openly about power, we create a climate in which criticism is easier. It pays off to engage in this kind of reflection on a regular basis. Power relations change as the organisation, the team, society, our communities and the funding landscape change. We therefore need to check in regularly and reflect on our own structures, even if there are no particular problems at the moment. This creates a basis for discussion that helps us to respond better in the next conflict situation. Regular reflection on power relations also allows us to compare results over time and perhaps identify successes and improvements that are worth celebrating.
 
-**PDF download:** You can download the exercise **Uncovering Power Structures** as a PDF file.
-**The licence** for this is CC-BY SA 4.0, which means you can use and remix it, but you must credit us as the author. We look forward to your feedback if you use it, your experiences and suggestions for improvement.
-
 ## Why all this?
 
 **We uncover power structures...**
@@ -83,3 +80,8 @@ Even if there is no concrete outcome to the exercise, its value lies in the fact
 ... to create a climate in which **criticism is possible and acceptable**.
 
 ... because power, when distributed well and used correctly, can **achieve a lot of good**.
+
+---
+**PDF download:** You can download the exercise **Uncovering Power Structures** as a PDF file.
+**The licence** for this is CC-BY SA 4.0, which means you can use and remix it, but you must credit us as the author. We look forward to your feedback if you use it, your experiences and suggestions for improvement.
+
