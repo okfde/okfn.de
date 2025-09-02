@@ -9,7 +9,7 @@ tags:
 type: post
 layout: post
 featured: yellow
-title: 'Uncovering power structures – An exercise for talking about power'
+title: '(EN) Uncovering power structures – An exercise for talking about power'
 publishedDate: 2025-08-25
 ---
 
@@ -75,6 +75,7 @@ Even if there is no concrete outcome to the exercise, its value lies in the fact
 ## Why all this?
 
 **We uncover power structures...**
+
 ... so that we can live up to our standards of **transparency and fairness** internally as well as externally.
 
 ... to check whether power is actually **distributed fairly** within our organisation, as we would like it to be in theory.
