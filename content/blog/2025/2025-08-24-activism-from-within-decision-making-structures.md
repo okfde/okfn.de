@@ -3,7 +3,6 @@ authors:
 - Sonja Fischbauer
 image:
   src: /files/blog/2025/2025-09-entscheidungsstrukturenplatzhalter.jpg
-  title: Illustration
 tags:
 - Activism from Within
 - Aktivismus von innen
