@@ -72,6 +72,7 @@ Auch wenn es bei der Übung keinen konkreten Outcome gibt: Der Wert liegt allein
 ## Warum das alles?
 
 **Wir decken Machtstrukturen auf...**
+
 ... damit wir unsere Ansprüche an **Transparenz und Gerechtigkeit** auch intern einlösen.
 
 ... um zu prüfen, ob Macht bei uns tatsächlich so **fair verteilt** ist, wie wir uns das theoretisch wünschen.
