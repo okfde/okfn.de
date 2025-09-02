@@ -14,23 +14,23 @@ Wenn du das Hugo binary manuell installierst, achte darauf die `extended` versio
 
 Developement Server laufen lassen:
 
-``` bash
+```bash
 $ hugo serve
 ```
 
-Dann auf `localhost:1313`  die Seite anschauen. (Die Suche wird hier nicht funktionieren, weil die Indexe fehlen)
+Dann auf `localhost:1313` die Seite anschauen. (Die Suche wird hier nicht funktionieren, weil die Indexe fehlen)
 
 ### Seite lokal laufen lassen mit Suche
 
 Die Seite benutzt [pagefind](http://pagefind.app) für die Suche. Wenn du lokal die Suche testen möchtest,
 musst du den Index bauen. Das geht so:
 
-``` bash
+```bash
 $ hugo && \
   npx --yes pagefind@1.3.0 --site public
 ```
-Dann in `/public` einen HTTP-Server starten.
 
+Dann in `/public` einen HTTP-Server starten.
 
 ### Seite deployen
 
@@ -62,7 +62,6 @@ Erstelle eine neue Datei in `content/blog/<jahr>/` und kopiere die Dummydaten au
 - `title`: der Titel des Posts
 - `featured`: siehe unten
 
-
 #### Featured!
 
 _Featured_ ist ein neues Feature.
@@ -82,7 +81,7 @@ Alle Teammitglieder und Vorstände sind in `data/team.yml` zu finden.
 Um ein neues Mitglied hinzuzufügen, kopiere einen Listeneintrag (oder das leere Beispiel) und setze ihn an das Ende der Datei.
 Die folgenden Felder werden unterstützt:
 
-``` yaml
+```yaml
 - name:
   title:
   img:
@@ -97,8 +96,8 @@ Die folgenden Felder werden unterstützt:
   twitter:
   mastodon:
   website:
-
 ```
+
 Die 0 und 1 werden als true und false Werte behandelt. Sprich, `staff: 1` bedeutet aktives Teammitglied, `staff: 0` bedeutet ehemaliges Teammitglied
 
 Die Übersetzungen der Bio und der Position sind direkt hier mit dabei.
@@ -123,7 +122,6 @@ Hier kurz Erklärungen zu den einzelnen Feldern:
 - `categories` ist nur für die englischsprachige Seite wichtig und kann auf der deutschen gelöscht werden. Es soll eine Liste mit ein oder mehreren KAtegorien sein, nach denen auf der englischen Projektseite gefiltert werden kann.
 - `tile` bestimmt wie das Projekt auf der Projektübersichtsseite dargestellt wird. `Single` beschreibt eine kleine Fläche, `double` die doppelt so große. Soll ein Projekt nur unter "Weitere Projekte" gelistet werden, dann kannst du dieses Feld löschen
 - `website` die url zur Website des Projektes
-
 
 ### Jobs
 
@@ -174,7 +172,6 @@ Das zugehörige Partial template ist zur Zeit unter `layouts/partials/downloads/
 
 Für einen neuen Eintrag, einfach einen alten kopieren, an den _Anfang_ der Datei setzen (es wird nicht extra sortiert, die Reihenfolge in der Datei ist wichtig) und anpassen.
 
-
 Die Grafiken werden dynamisch aus CSV-Dateien erstellt, die sich in `/static/okf/finanzierung` befinden.
 Pro Grafik existiert eine CSV-Datei, deren Inhalte jeweils angepasst werden können. Die Dateinahmen und das Schema dürfen nicht verändert werden, weil sonst das Script kaput geht.
 
@@ -207,12 +204,11 @@ Ein Bild das in `/static/bild.png` liegt wird direkt unter `okfn.de/bild.png` ve
 
 Du kannst für einen Post oder eine Seite einen 'Alias' anlegen. Hugo wird dann von diesem Alias auf die aktuelle Seite weiterleiten. Das funktioniert über das `aliases:` keyword im Frontmatter.
 
-``` yaml
+```yaml
 aliases:
   - /blog/old-post-url/
   - /blog/maybe-even-older/url/
 ```
-
 
 ### Was ist mit package.json?
 
@@ -222,42 +218,28 @@ Das hat den Vorteil das Menschen nicht extra Node/npm lokal installieren müssen
 
 Package.json dient damit eher als informative Liste, was so benutzt wird.
 
-### Suche und Suchindexe
+### Suche
 
-Die seitenweite und Blogsuche funktionieren komplett clientseitig mit [lunr.js](https://lunrjs.com/).
-Dafür generiert Hugo zwei JSON-Dateien, einmal mit allen Blogposts und einmal mit allen Inhalten der Seite.
-
-Diese JSON-Dateien werden auf Travis mit Node-Scripten (siehe `/scripts/ci/*`) in Suchindexe geparst und serialisiert (siehe `/scripts/lunr/*`) und wieder als JSON gespeichert.
-
-Die serialisierten Suchindexe können im Browser direkt von lunr gelesen und verwendet werden, das spart die Indexierung 'on the fly' bei jedem Seitenaufruf.
-
-Leider sind die Suchindexe sehr groß, was sich auf die Ladegeschwindigkeit der Seite auswirkt.
-
-Es gibt die Möglichkeit Seiten explizit aus der Suche auszuschließen. Setze hierfür `layout: none` im Frontmatter.
-
-Es gibt auch die Möglichkeit extra Suchwörter als Tags auf einer Seite anzugeben. Setze hierfür Begriffe als Liste im Frontmatter:
-
-``` yaml
-search_keys:
-  - custom
-  - keyword
-```
+Die seitenweite Suche und Blogsuche funktionieren komplett clientseitig mit PageFind.
 
 ### Buildprozess
 
 Der Buildprozess verläuft in mehreren Stufen:
-1. der Push wird von GitHub registriert und stößt einen Build bei [Travis CI](https://travis-ci.com/okfde/okfn.de) an
-  - hier wird die Seite mit Hugo gebaut
-  - zwei Nodescripte erstellen die Suchindexe (als .json) für die seitenweite und die Blogsuche
-  - (wegen dieser Scripte brauchen wir Travis, Hookay kann das nicht alleine)
-  - der Atom und RSS feed wird an die selben Stellen kopiert, auf der sie auf der alten Seite zu finden waren
-2. ist ein Travis-Build auf dem Master branch erfolgreich, pusht Travis die gebaute Seite zurück zu GitHub, aber auf den [Release branch](https://github.com/okfde/okfn.de/tree/release)
-  - dieser Badge zeigt den Status des letzten Builds an [![Build Status](https://travis-ci.com/okfde/okfn.de.svg?branch=master)](https://travis-ci.com/okfde/okfn.de)
-  - ist der Badge rot ist schon was beim bauen der Seite schief gelaufen. Vermutlich was mit Hugo in den Templates, hier musst du debuggen!
-3. hat Travis auf den Release branch gepusht, sendet GitHub einen Webhook an [Hookay](https://lab.okfn.de/build-status/)
-  - Hookay klont den Release branch auf unseren Server und kopiert ihn an die richtige Stelle
-    - es kann sein, dass die Webhook-payload von GitHub sehr groß ist und Hookay dann einen Fehler wwirft. Das kannst du [hier](https://github.com/okfde/okfn.de/settings/hooks/) (sofern du die Rechte hast) nachsehen.
-    - Ist beim letzten senden eines Webhooks was schief gelaufen (Fehler 413) dann kannst du über Hookay die Seite manuell neu bauen. Die gebaute Seite liegt ja schon bei GitHub und muss nur kopiert werden.
+
+1. der Push wird von GitHub registriert und stößt einen GitHub-Actions-Build an
+
+- hier wird die Seite mit Hugo gebaut
+- zwei Nodescripte erstellen die Suchindexe für die seitenweite und die Blogsuche
+- der Atom und RSS feed wird an die selben Stellen kopiert, auf der sie auf der alten Seite zu finden waren
+
+2. ist der Build erfolgreich, pusht GitHub-Actions die gebaute Seite auf den [Release branch](https://github.com/okfde/okfn.de/tree/release)
+
+- tritt beim build ein Fehler auf, bekommst du eine E-Mail. Vermutlich was mit Hugo in den Templates, hier musst du debuggen!
+
+3. wurde auf den Release branch gepusht, sendet GitHub einen Webhook an [Hookay](https://lab.okfn.de/build-status/)
+
+- Hookay klont den Release branch auf unseren Server und kopiert ihn an die richtige Stelle
+  - es kann sein, dass die Webhook-payload von GitHub sehr groß ist und Hookay dann einen Fehler wwirft. Das kannst du [hier](https://github.com/okfde/okfn.de/settings/hooks/) (sofern du die Rechte hast) nachsehen.
+  - Ist beim letzten senden eines Webhooks was schief gelaufen (Fehler 413) dann kannst du über Hookay die Seite manuell neu bauen. Die gebaute Seite liegt ja schon bei GitHub und muss nur kopiert werden.
 
 Wenn alles geklappt hat, sind dein Änderungen jetzt online!
-

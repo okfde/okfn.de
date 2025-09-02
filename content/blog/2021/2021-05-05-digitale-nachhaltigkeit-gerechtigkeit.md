@@ -1,14 +1,14 @@
 ---
 authors:
-- Claudia Jach
+  - Claudia Jach
 image:
   src: /files/blog/2021/04/climate_justice_by_markus_spiske_unsplash.jpg
   title: null
   license: null
   license_url: null
 tags:
-- Open-knowledge
-- Policy
+  - Open-knowledge
+  - Policy
 type: post
 layout: post
 featured: blue
@@ -16,7 +16,7 @@ title: Digitale Nachhaltigkeit nur mit digitaler Gerechtigkeit!
 publishedDate: 2021-05-05
 ---
 
-Das Buzzword Nachhaltigkeit begleitet uns überall. Doch was bedeutet Nachhaltigkeit im Kontext der Arbeit der OKF? Ermöglicht durch eine Projektförderung der [Postcode Lotterie](https://codefor.de/blog/code-for-climate-open-data-day/) konnten wir uns intensiver mit dem Thema auseinandersetzen und mögliche Handlungsfelder für unsere Arbeit herausarbeiten. Im Folgenden stellen wir einige der Ideen kurz vor. [Die vollständige Publikation kann hier heruntergeladen werden.](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2021/05/Digitale%20Nachhaltigkeit%20nur%20mit%20digitaler%20Gerechtigkeit.pdf)
+Das Buzzword Nachhaltigkeit begleitet uns überall. Doch was bedeutet Nachhaltigkeit im Kontext der Arbeit der OKF? Ermöglicht durch eine Projektförderung der [Postcode Lotterie](https://codefor.de/blog/code-for-climate-open-data-day/) konnten wir uns intensiver mit dem Thema auseinandersetzen und mögliche Handlungsfelder für unsere Arbeit herausarbeiten. Im Folgenden stellen wir einige der Ideen kurz vor. [Die vollständige Publikation kann hier heruntergeladen werden.](https://raw.githubusercontent.com/okfde/okfn.de/main/static/files/blog/2021/05/Digitale%20Nachhaltigkeit%20nur%20mit%20digitaler%20Gerechtigkeit.pdf)
 
 ### Zugänge zu digitaler Nachhaltigkeit
 

@@ -1,17 +1,17 @@
 ---
 authors:
-- Felix Reda
+  - Felix Reda
 image:
   src: /files/blog/2020/03/2020-03-23-Prototyp-und-dann.jpg
   title: Photo by Charles Deluvio on Unsplash
 tags:
-- Open Source
-- Basistechnologien
-- Infrastruktur
+  - Open Source
+  - Basistechnologien
+  - Infrastruktur
 type: post
 layout: post
 featured: yellow
-title: 'Sovereign Tech Fund: Bundestag muss Open Source im Haushalt verankern'
+title: "Sovereign Tech Fund: Bundestag muss Open Source im Haushalt verankern"
 publishedDate: 2022-03-28
 ---
 
@@ -25,7 +25,7 @@ publishedDate: 2022-03-28
 
 Open-Source-Elemente sind integraler Bestandteil kritischer digitaler Basistechnologien und ihre Skalierung häufig größer, als es die Ressourcen der Entwickler:innen zulassen. Es wird daher höchste Zeit, die Relevanz von Wartung und Absicherung Offener Digitaler Basistechnologien zu erkennen und die Aufmerksamkeit nicht nur auf die Förderung von Innovationen zu legen. Die Sicherheit und Qualität offener Softwarekomponenten wird maßgeblich mitbestimmen, wie resilient und wettbewerbsfähig das Software-Ökosystem in Deutschland und Europa in Zukunft ist. Unterstützungsleistungen müssen flexibel an eine diverse Gruppe an Empfänger:innen fließen könnten, da digitale Basistechnologien dezentral von Einzelpersonen, in Communitys sowie von Unternehmen entwickelt und gepflegt werden.
 
-Der [gemeinsame offene Brief](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2022/03/2022-03-28_Offener_Brief_Bundeshaushalt_OpenSource.pdf) wurde neben der Open Knowledge Foundation Deutschland von der Open Source Business Alliance, der Free Software Foundation Europe, Wikimedia Deutschland, D64 – Zentrum für digitalen Fortschritt und Vitako – Bundes-Arbeitsgemeinschaft der kommunalen IT-Dienstleister unterzeichnet und fordert neben der Finanzierung des Sovereign Tech Fund auch eine Bereitstellung von Haushaltsmitteln für das Zentrum für Digitale Souveränität, das die Nutzung von Open-Source-Software in der Verwaltung koordinieren soll.
+Der [gemeinsame offene Brief](https://raw.githubusercontent.com/okfde/okfn.de/main/static/files/blog/2022/03/2022-03-28_Offener_Brief_Bundeshaushalt_OpenSource.pdf) wurde neben der Open Knowledge Foundation Deutschland von der Open Source Business Alliance, der Free Software Foundation Europe, Wikimedia Deutschland, D64 – Zentrum für digitalen Fortschritt und Vitako – Bundes-Arbeitsgemeinschaft der kommunalen IT-Dienstleister unterzeichnet und fordert neben der Finanzierung des Sovereign Tech Fund auch eine Bereitstellung von Haushaltsmitteln für das Zentrum für Digitale Souveränität, das die Nutzung von Open-Source-Software in der Verwaltung koordinieren soll.
 
 +++
 

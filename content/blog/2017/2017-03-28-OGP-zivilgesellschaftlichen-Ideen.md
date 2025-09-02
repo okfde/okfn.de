@@ -1,22 +1,22 @@
 ---
 authors:
-- Johanna zum Felde
-- Walter Palmetshofer
+  - Johanna zum Felde
+  - Walter Palmetshofer
 image:
   src: /files/blog/2017/03/Timeline2.png
   title: null
-  license: 'Source: BMI (Stand 28.03.2017)'
+  license: "Source: BMI (Stand 28.03.2017)"
   license_url: http://www.verwaltung-innovativ.de/DE/Internationales/OGP/zeitlicher_ablauf/zeitlicher_ablauf_node.html
 tags:
-- OGP
-- Transparenz
-- Offene Daten
-- Open Government
-- EITI
+  - OGP
+  - Transparenz
+  - Offene Daten
+  - Open Government
+  - EITI
 type: post
 layout: post
 card: true
-title: 'Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan'
+title: "Open Government Partnership: Unsere Vorschläge für den Nationalen Aktionsplan"
 publishedDate: 2017-03-28 01:00:00
 ---
 
@@ -24,52 +24,51 @@ publishedDate: 2017-03-28 01:00:00
 
 Für den Nationalen Aktionsplan Open Government Partnership wurden in den letzten Wochen 270 konkrete Ideen gesammelt. Die [Ergebnisse dieser zivilgesellschaftlichen Ideensammlung](https://opengovpartnership.de/files/2017/03/170323_Zivilgesellschaftliche_Empfehlungen_NAP_OGP.pdf) wurden nun der Bundesregierung übergeben. Wir sind Teil des [Arbeitskreis Open Government Partnership](https://opengovpartnership.de/), haben den Prozess koordiniert und werden weiterhin folgende Teilbereiche vorantreiben:
 
-* [Offene Daten](https://pad.okfn.de/p/NAP-offeneDaten)
-* [Informationsfreiheit und Transparenz](https://pad.okfn.de/p/NAP-Informationsfreiheit_Transparenz) 
-* [Offene Vergabe (Open Contract)](https://pad.okfn.de/p/NAP-offenevergabe)
-* [Offene Entwicklungspolitik (Open Aid)](https://pad.okfn.de/p/NAP-openaid)
-* [Offene Ernährungspolitik und offene Landwirtschaftspolitik](https://pad.okfn.de/p/NAP-offeneLandwirtschaft)
+- [Offene Daten](https://pad.okfn.de/p/NAP-offeneDaten)
+- [Informationsfreiheit und Transparenz](https://pad.okfn.de/p/NAP-Informationsfreiheit_Transparenz)
+- [Offene Vergabe (Open Contract)](https://pad.okfn.de/p/NAP-offenevergabe)
+- [Offene Entwicklungspolitik (Open Aid)](https://pad.okfn.de/p/NAP-openaid)
+- [Offene Ernährungspolitik und offene Landwirtschaftspolitik](https://pad.okfn.de/p/NAP-offeneLandwirtschaft)
 
-Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und  [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
+Von der OKF und Community bearbeitete Themen sind außerdem [Kompetenzaufbau und Qualifizierung](https://pad.okfn.de/p/NAP-Kompetenzaufbau), [Energiepolitik und EITI](https://pad.okfn.de/p/NAP-offeneenergie), [Offenes Parlament und OParl](https://pad.okfn.de/p/NAP-offenesparlament) und [Transport- und Verkehrspolitik](https://pad.okfn.de/p/NAP-offenerTransport).
 
 <a id="Update-Termine"></a>
 Favorisierte und weitere Maßnahmen können diese Woche mit den Twitter-Hashtags #myNAPask #Germany versehen werden. Großer Dank für Mitarbeit und Feedback geht an dieser Stelle an die Community!
 
 <a id="Update-AKOGP-Treffen"></a>
-Weitere Termine: 
-* ~~Ende Mai findet der Dialogworkshop mit Zivilgesellschaft und Bundesregierung für den nationalen Aktionsplan OGP statt, der Termin wird noch vom Bundesinnenministerium bekannt gegeben.~~
-* Ende Juni wird der Nationale Aktionsplan OGP per Kabinettsbeschluss verabschiedet.
+Weitere Termine:
 
-## Update von der Zusammenkunft des Arbeitskreis OGP am 24.04.17 in Berlin: 
-- [Einladung](https://opengovpartnership.de/2017/04/24-april-2017-der-arbeitskreis-ogp-tagt-in-berlin/) 
-- Bilder vom Workshop [Aktivitäten](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-overview.jpg), [Arbeitsablauf](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-timeline-new.jpg), [Workshop-Planung](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/AKOGP-workshopplanung.jpg). 
-Kompakt auch die ursprünglichen [270 Forderungen]
-<a id="Update-Dialogworkshop"></a>
-(https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen-V2.csv) bzw. hier die [neueste Version vom 24.04.2017 - Hinweis ist Work in Progress](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/04/OGP_%C3%9Cbersicht_270_Empfehlungen-Update-24-04-17.csv).
+- ~~Ende Mai findet der Dialogworkshop mit Zivilgesellschaft und Bundesregierung für den nationalen Aktionsplan OGP statt, der Termin wird noch vom Bundesinnenministerium bekannt gegeben.~~
+- Ende Juni wird der Nationale Aktionsplan OGP per Kabinettsbeschluss verabschiedet.
 
+## Update von der Zusammenkunft des Arbeitskreis OGP am 24.04.17 in Berlin:
+
+- [Einladung](https://opengovpartnership.de/2017/04/24-april-2017-der-arbeitskreis-ogp-tagt-in-berlin/)
+- Bilder vom Workshop [Aktivitäten](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2017/04/AKOGP-overview.jpg), [Arbeitsablauf](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2017/04/AKOGP-timeline-new.jpg), [Workshop-Planung](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2017/04/AKOGP-workshopplanung.jpg).
+  Kompakt auch die ursprünglichen [270 Forderungen]
+  <a id="Update-Dialogworkshop"></a>
+  (https://github.com/okfde/okfn.de/blob/main/static/files/blog/2017/04/OGP_%C3%9Cbersicht_Empfehlungen-V2.csv) bzw. hier die [neueste Version vom 24.04.2017 - Hinweis ist Work in Progress](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2017/04/OGP_%C3%9Cbersicht_270_Empfehlungen-Update-24-04-17.csv).
 
 Demnächst kommt es zum Priorisierungsprozess für den nächsten Workshop beim BMI.
 
-
-
-
-
 ## Save the date 1. Juni 2017
+
 "Dialogworkshop" beim @BMI_Bund 1. Juni 2017 10:00 - 12.30 mehr Informationen folgen.
 
 Am 19.05 um 10:00 erfuhren wir vom festgelegten Termin. Die kurzfristige Ankündigung (unter 2 Wochen) ohne Terminkoordination ist leider suboptimal. Einige der Kern-Mitglieder z.B. JvL sind dadurch leider verhindert.
 
-Fahrplan in Kürze: 
+Fahrplan in Kürze:
 Der nationale Aktionsplan soll Mitte Juni verabschiedet werden, danach erfolgt die Übersetzung damit die Überreichung an die OGP bis 30. Juni erfolgt. Wann die erste Veröffentlich des Plans stattfindet steht noch nicht fest.
 
-Ein Hinweis sei noch für die unmittelbaren betroffenen Ministerien des OGP Aktionsplan gestattet: 
+Ein Hinweis sei noch für die unmittelbaren betroffenen Ministerien des OGP Aktionsplan gestattet:
 OGP ist nicht nur Open Data, sondern ist breiter gefasst.
 
 <a id="Auflistung"></a>
 
 Für die Vorbereitung die seitens des Ministeriums übermittelten PDFs vom 30.05.2017:
-- [Ergebnis der Bewertung der Ideen von der Zivilgesellschaft](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/Antwort_Bewertungsergebnis_OGP_Ideen_ZivilG_170530.pdf)
-- [Bereites existente Maßnahmen](https://github.com/okfde/okfn.de/blob/master/files/blog/2017/05/170529_Anlage_Existente%20Ma%C3%9Fnahmen.pdf)
+
+- [Ergebnis der Bewertung der Ideen von der Zivilgesellschaft](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2017/05/Antwort_Bewertungsergebnis_OGP_Ideen_ZivilG_170530.pdf)
+- [Bereites existente Maßnahmen](https://github.com/okfde/okfn.de/blob/main/static/files/blog/2017/05/170529_Anlage_Existente%20Ma%C3%9Fnahmen.pdf)
 
 # Aus dem 1. Schreiben - Auflistung der geeigneten Punkte für den 1. NAP:
 
@@ -82,31 +81,31 @@ Auflistung der Punkte (Danke an Oliver Rack)
 11.) Die Bundesregierung veröffentlicht ab sofort alle Daten, die im Rahmen des
 Open Data Barometer (http://opendatabarometer.org/) und des Open Data Index
 (http://index.okfn.org/dataset/) evaluiert werden, um die Datenöffnung
-voranzutreiben. *****
+voranzutreiben. **\***
 
 14.) Systematische Bereitstellung und Erschließung von weiteren öffentlichen
 Datenbeständen in allen Bundesministerien und im nachgeordneten Bereich bis
 Ende 2018, um über das Datenportal govdata.de auch alle offenen Datenbestände
-des Bundes ganz im Sinne des Open-Data-Gesetzes zu erschließen. *****
+des Bundes ganz im Sinne des Open-Data-Gesetzes zu erschließen. **\***
 
 15.) Mitwirkung in der OGP-Arbeitsgruppe "Open Data Working Group"
 [Arbeitsgruppe Open Data der OGP:
-http://www.opengovpartnership.org/groups/opendata] *****
+http://www.opengovpartnership.org/groups/opendata] **\***
 
 19.) Deutschland adaptiert die International Open Data Charter (Anmerkung: Im
-Open-Data-Gesetz wird bereits darauf Bezug genommen.) ***
+Open-Data-Gesetz wird bereits darauf Bezug genommen.) \*\*\*
 
 20.) Erfassung des Umsetzungsstands des Nationalen Aktionsplans zur Umsetzung
 der G8 Open-Data-Charta aus dem Jahr 2014 und Veröffentlichung des
-Ergebnisses. ***
+Ergebnisses. \*\*\*
 
 21.) Durchführung eines Collaborative Design-Workshops zu offenen (Verwaltungs-)
-Daten bis Juni 2018, damit Bürger, die Zivilgesellschaft sowie weitere relevante 
+Daten bis Juni 2018, damit Bürger, die Zivilgesellschaft sowie weitere relevante
 
 22.) Mit der Fortsetzung der Standardisierung von offenen Daten erfolgt auch eine
 Erarbeitung eines Datenschutzrahmenwerks (Privacy Frameworks) für die
 Veröffentlichung offener Daten bis 2018 um dem Schutz der Privatsphäre
-Rechnung tragen. (Datenschutzgruppe im Rahmen der OGP) ***
+Rechnung tragen. (Datenschutzgruppe im Rahmen der OGP) \*\*\*
 
 23.) Systematische Überprüfung sämtlicher 54 Handlungsempfehlungen aus der im
 Jahr 2012 für das BMI erarbeitete Studie Open Government Data Deutschland
@@ -114,13 +113,13 @@ Jahr 2012 für das BMI erarbeitete Studie Open Government Data Deutschland
 dass die vor fünf Jahren vorgelegten Handlungsempfehlungen nun im Sinne des
 Open Data Gesetzes von der Bundesverwaltung aufgegriffen und geprüft, deren
 Wirkungen reflektiert bzw. deren Ablehnung und Nichtverfolgung überzeugend
-begründet werden. **
+begründet werden. \*\*
 
 38.) Durchführung einer breiten Beteiligung von Bürgern und Vertretern der
 Zivilgesellschaft bei der Erarbeitung eines zweiten Nationalen Aktionsplans
 Open Government bis zum Juni 2019, damit auch alle relevanten Einrichtungen
 der Zivilgesellschaft sich in den Prozess einbringen können und nicht zu viele
-Zufälle die Agenda bestimmen. 
+Zufälle die Agenda bestimmen.
 
 46.) Durchführung von weiteren Zukunftsdialogen in den Jahren 2018-2020, um
 externe Experten und Betroffene Lösungen zu den folgenden drängenden
@@ -146,13 +145,13 @@ weiterhin einzufordern.
 enger Verzahnung mit Kompetenzaufbau, da mit der generellen Kommunikation
 zu einem Open Government Vorgehen der Bundesregierung der
 Kompetenzaufbau schon beginnt und die Kompetenz der verantwortlichen
-Kommunikateure zu Open Government ohnehin sichergestellt sein muss. *
+Kommunikateure zu Open Government ohnehin sichergestellt sein muss. \*
 
 115.) Institutionalisierung des Austausches innerhalb der Verwaltung und mit
 der Zivilgesellschaft: Dazu wird eine Fachgruppe von Bundesbehörden zu einer
 offenen Entwicklungspolitik eingerichtet, die mindestens zweimal im Jahr einen
 verwaltungsinternen Austausch ermöglicht und das Themenfeld schrittweise
-weiter erschließt. Durch diese Fachgruppe sollen auf Seiten der öffentlichen 
+weiter erschließt. Durch diese Fachgruppe sollen auf Seiten der öffentlichen
 Arbeitskreis Open Government Partnership Deutschland (AK OGPD) / http://www.opengovpartnership.de / CC-BY-DE 4.0 / Seite K47
 Verwaltung Mitarbeiter als Gestalter und Thementreiber aufgebaut sowie
 Unterstützer in allen Ebenen gefunden, gefördert und eingebunden werden
@@ -174,7 +173,7 @@ vorliegen zu haben.
 141.) Umsetzung des EITI-Standards (Extractive Industry Transparency
 Initiative) in Deutschland bis Ende 2018. Dazu zählen Darlegung der
 Zahlungsströme im Rohstoffsektor in Deutschland und Offenlegung der
-Verträge.***
+Verträge.\*\*\*
 
 172.) Einrichtung einer Fachgruppe von Bundes-, Landes- und
 Kommunalverwaltungen zu einem offenen Transport- und Verkehrswesen
@@ -184,15 +183,14 @@ zu verstehen und schrittweise zu erschließen. Durch diese Fachgruppe sollen auf
 Seiten der öffentlichen Verwaltung Mitarbeiter als Gestalter und Thementreiber
 aufgebaut sowie Unterstützer in allen Ebenen gefunden, gefördert und
 eingebunden werden. Zusätzliche Informationsflüsse brauchen zusätzliche
-Haushaltsmittel und Planstellen (im Haushaltsentwurf 2019, zum Januar 2018).****
-
+Haushaltsmittel und Planstellen (im Haushaltsentwurf 2019, zum Januar 2018).\*\*\*\*
 
 175.) Durchführung eines Collaborative Design-Workshops zur offenen
 Mobilität bis Juni 2018, damit Bürger, die Zivilgesellschaft sowie weitere
 relevante Zielgruppen im Sinne einer nutzer- und mehrwertorientierten
 Gestaltung von offenen elektronischen Dienstangeboten sich einbringen können,
 um eine strukturierte Sammlung von Vorstellungen für künftige Umsetzungen
-vorliegen zu haben. ****
+vorliegen zu haben. \*\*\*\*
 
 177.) Fortsetzung der Modernitätsfonds-Aktivitäten (MFund) des BMVI in
 bewährter Höhe auch in den Haushaltsjahren 2018, 2019 und 2020, um Open
@@ -200,21 +198,21 @@ Innovation in Bereich des offenen Transports- und Verkehrswesen und Mobilität
 4.0 (smarte Mobilität/Internet der Dinge) zu fördern und um mit Unterstützung
 der Wirtschaftsförderung (auf Bundes-, Landes- und kommunaler Ebene) aus Ideen
 über Inkubatoren und Start-Up-Zentren erfolgreiche Unternehmensgründungen
-zu machen. *****
+zu machen. **\***
 
 252.) Durchführung von Ideenwettbewerben bis Ende 2018 zur kollaborativen,
 multisektoralen Entwicklung prototypischer Modelle, Methoden und Verfahren
 des Open Government in den verschiedenen politischen Handlungsfeldern.
 
 253.) Langfristig angelegter, offener Co-Creation Prozess zum Design des
-zweiten Nationalen Open Government Aktionsplans ab Januar 2018. *****
+zweiten Nationalen Open Government Aktionsplans ab Januar 2018. **\***
 
 256.) Durchführung eines Collaborative Design-Workshops zur Open
 Government Partnership bis Juni 2018, damit Bürger, die Zivilgesellschaft sowie
 weitere relevante Zielgruppen im Sinne einer nutzer- und mehrwertorientierten
 Gestaltung von offenen elektronischen Dienstangeboten sich einbringen können,
 um eine strukturierte Sammlung von Vorstellungen für künftige Umsetzungen
-vorliegen zu haben. ***** (methodischer Anstatz für 6.5. und 6.6.)
+vorliegen zu haben. **\*** (methodischer Anstatz für 6.5. und 6.6.)
 
 257.) Adäquate Bereitstellung von Reise- und Finanzmitteln aller für Open
 Government zuständiger Behörden in den Haushalten für 2018, 2019 und 2020,
@@ -228,11 +226,11 @@ sind neue Formen des Zugangs für die Zivilgesellschaft zu definieren, die
 sicherstellen, dass auch Vertreter der Zivilgesellschaft beteiligt sind, wenn
 "Zivilgesellschaft" drauf steht und nicht eine weitere Verengung des Zugangs
 durch gemeinwohlorganisierte Lobbyisten (in der Hauptstadt) erfolgt. Dies setzt
-die Möglichkeit zur Erstattung von Reisekosten und Bildungsurlaub voraus. *****
+die Möglichkeit zur Erstattung von Reisekosten und Bildungsurlaub voraus. **\***
 
 258.) Förderung der Entwicklung von Open Source Software zur
 Unterstützung kollaborativer Verfahren aller Art, um den Austausch und die
-Zusammenarbeit in der Gesellschaft zu fördern. ***
+Zusammenarbeit in der Gesellschaft zu fördern. \*\*\*
 
 261.) Einrichtung eines Arbeitskreises von Verwaltung und Zivilgesellschaft
 zur transparenten KI und Algorithmenkontrolle, damit mindestens zweimal im
@@ -245,7 +243,7 @@ Wissenschaft in die öffentliche Verwaltung und indirekt in die Politik.
 
 264.) Algorithmische Verfahren und smarte KI-Technologien verändern die Art
 und Weise, wie digitale Medien produziert und konsumiert werden. Dies hat auch
-Auswirkungen auf unsere Demokratie, die im wesentlichen Sinne auch durch 
+Auswirkungen auf unsere Demokratie, die im wesentlichen Sinne auch durch
 Arbeitskreis Open Government Partnership Deutschland (AK OGPD) / http://www.opengovpartnership.de / CC-BY-DE 4.0 / Seite K92
 Meinungsbildung gestaltet und vitalisiert wird. Es braucht eine Studie zur
 Untersuchung der Auswirkungen, Innovationspotenziale sowie
@@ -254,11 +252,9 @@ Konsumenten, wie sich algorithmische Nachrichten, Social Bots und
 automatisierter Journalismus auf die demokratische Meinungsbildung
 auswirken.
 
-
-
 <br>
 
-*Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:*
+_Der Arbeitskreis hat eine gemeinsame Pressemitteilung dazu veröffentlicht:_
 
 Berlin, 28. März 2017 - 270 konkrete Vorschläge für einen Nationalen Aktionsplan Open Government Partnership (OGP) liegen jetzt auf dem Tisch der Bundesregierung. Sie sind das Ergebnis eines mehrwöchigen Partizipationsprozesses, im Laufe dessen Ideen und Expertise aus der Zivilgesellschaft gesammelt, diskutiert und priorisiert wurden. Der Prozess wurde durch einen Workshop im Bundesinnenministerium gestartet und vom zivilgesellschaftlichen Arbeitskreis Open Government Partnership Deutschland begleitet.
 

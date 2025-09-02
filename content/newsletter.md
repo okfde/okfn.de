@@ -15,3 +15,7 @@ Hier kannst du dich einfach anmelden:
     <span style="position: absolute; left: -5000px;"></span>
   </span>
 </form>
+
+<p align="left" style="margin-top:2em;">
+  <img src="/files/images/newsletter1.jpg" alt="illustration" width="1000">
+</p>

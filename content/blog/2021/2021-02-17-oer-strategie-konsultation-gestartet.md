@@ -1,14 +1,14 @@
 ---
 authors:
-- Maximilian Voigt
+  - Maximilian Voigt
 image:
   src: https://edulabs.de/assets/img/blog/2018/Mai/squarelet/squarelet.jpg
   title: null
   license: null
   license_url: null
 tags:
-- Open Education
-- Bildungspolitik
+  - Open Education
+  - Bildungspolitik
 type: post
 layout: post
 featured: yellow
@@ -16,7 +16,7 @@ title: Konsultation zur bundesweiten OER-Strategie gestartet
 publishedDate: 2021-02-21
 ---
 
-Im vergangenen Jahr hat die OKF gemeinsam mit dem Bündnis Freie Bildung an einem [Entwurf für die lange überfällige OER-Strategie](https://okfn.de/blog/2020/09/open-education-strategie-unser-vorschlag/) des Bundes gearbeitet und den Prozess maßgeblich mitgestaltet. Nun ist es endlich soweit und die Strategie wird angegangen. Dazu hat das BMBF einen neuartigen Konsultationsprozess aufgelegt. Wir sind beteiligt und haben notwendige Entwicklungsbereiche im Bildungsbereich in [unserem Beitrag](https://raw.githubusercontent.com/okfde/okfn.de/master/static/files/blog/2021/01/Konsultation_OER-Strategie_Themenbereich_Gesellschaft_OKF_DE.pdf) benannt, damit Bildung partizipativer, gerechter und offener wird. 
+Im vergangenen Jahr hat die OKF gemeinsam mit dem Bündnis Freie Bildung an einem [Entwurf für die lange überfällige OER-Strategie](https://okfn.de/blog/2020/09/open-education-strategie-unser-vorschlag/) des Bundes gearbeitet und den Prozess maßgeblich mitgestaltet. Nun ist es endlich soweit und die Strategie wird angegangen. Dazu hat das BMBF einen neuartigen Konsultationsprozess aufgelegt. Wir sind beteiligt und haben notwendige Entwicklungsbereiche im Bildungsbereich in [unserem Beitrag](https://raw.githubusercontent.com/okfde/okfn.de/main/static/files/blog/2021/01/Konsultation_OER-Strategie_Themenbereich_Gesellschaft_OKF_DE.pdf) benannt, damit Bildung partizipativer, gerechter und offener wird.
 
 Offenen Bildungsmaterialien wird vor allem im Rahmen von digital gestütztem Lehren und Lernen eine besondere Rolle zugeschrieben. Wie diese Rolle aussehen könnte und wie OER bundesweit gefördert werden kann, soll nun gemeinsam erarbeitet werden.
 

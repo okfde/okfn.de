@@ -15,7 +15,7 @@ publishedDate: 2025-08-29
 
 *Wir veröffentlichen eine [Kurzstudie zu den Potenzialen von Schuldaten für ein lernendes Schulsystem](https://okfn.de/publikationen/black-box-bildung/)*
 
-Das deutsche Schulsystem ist eine Blackbox. Es gibt kaum Länder, die so wenig über ihre Schulen wissen, wie Deutschland. Dabei werden in Deutschland durchaus Daten erhoben und das schon seit Jahren. Doch die sind oft nicht miteinander vergleichbar, nur bruchstückhaft vorhanden, werden nicht bereitgestellt oder haben schlicht keine gute Qualität. Dies gilt sowohl im Vergleich zu Schuldaten vieler anderer Länder als auch im Vergleich zu anderen Daten, die in Deutschland erhoben werden, etwa Arbeitsmarktdaten, welche von sehr hoher Qualität sind und professionell verwaltet werden. “Wir sind ein absolutes Entwicklungsland, was das Monitoring unserer Bildungsergebnisse angeht und liegen auch im internationalen Vergleich weit hinter Ländern wie den Niederlanden, den USA oder Großbritannien.”, [kritisiert etwa der Bildungssoziologe Marcel Helbig](https://www.campus-schulmanagement.de/magazin/studie-zum-corona-aufholprogramm-gezielte-investitionen-wurden-in-den-meisten-bundeslaendern-vermieden).
+Das deutsche Schulsystem ist eine Blackbox. Es gibt kaum Länder, die so wenig über ihre Schulen wissen, wie Deutschland. Dabei werden in Deutschland durchaus Daten erhoben und das schon seit Jahren. Doch die sind oft nicht miteinander vergleichbar, nur bruchstückhaft vorhanden, werden nicht bereitgestellt oder haben schlicht keine gute Qualität. Dies gilt sowohl im Vergleich zu Schuldaten vieler anderer Länder als auch im Vergleich zu anderen Daten, die in Deutschland erhoben werden, etwa Arbeitsmarktdaten, welche von sehr hoher Qualität sind und professionell verwaltet werden. “Wir sind [unterentwickelt]¹, was das Monitoring unserer Bildungsergebnisse angeht und liegen auch im internationalen Vergleich weit hinter Ländern wie den Niederlanden, den USA oder Großbritannien.”, [kritisiert etwa der Bildungssoziologe Marcel Helbig](https://www.campus-schulmanagement.de/magazin/studie-zum-corona-aufholprogramm-gezielte-investitionen-wurden-in-den-meisten-bundeslaendern-vermieden).
 
 Warum sind Schuldaten in Deutschland von häufig schlechter Qualität? Wie ließe sich die Datenlage verbessern? Wer genau sollte Zugang zu welchen Daten haben? Diese und weitere Fragen haben wir im Rahmen der nun veröffentlichten Kurzstudie zehn Expert\*innen in halbstrukturierten Interviews gestellt, um einen Einblick in deren Einschätzung der **Barrieren, Verbesserungsmöglichkeiten und normativen Grundsätze im Umgang mit Schuldaten** in Deutschland zu bekommen. Unser Ziel war es, dadurch etwas Licht auf das zu werfen, was Datennutzer\*innen normalerweise nicht zu Gesicht bekommen, nämlich die tägliche Datenpraxis von Akteuren an Schulen, in Behörden, Landesinstituten für Schulentwicklung, Elternvertretungen, in der außerschulischen Bildungsarbeit sowie in der Bildungsforschung.
 
@@ -36,14 +36,17 @@ Wie erwähnt wurden im Rahmen der Kurzstudie zehn Expert\*innen befragt. Unter d
 
 Wie lässt sich der Status quo verbessern? Nach Vorschlägen dazu befragt, wie Schuldaten für Unterrichts-, Schul- und Systementwicklung fruchtbarer gemacht werden können, wurden von den Befragten folgende Maßnahmen genannt:
 
-- **Entlastung der Schulleitung** durch organisationale Veränderungen, z.B. durch eine Doppelspitze aus administrativer sowie pädagogischer Leitung
+- **Entlastung der Schulleitung** durch organisationale Veränderungen, z. B. durch eine Doppelspitze aus administrativer sowie pädagogischer Leitung
 - **Benutzerfreundliche,** **einheitliche Softwarelösungen** zur Verarbeitung und zum Austausch von Daten zwischen Schulen und Behörden
-- **Stärkung der Datenkompetenzen** in Schulen und Schulverwaltungen, z.B. durch Anpassungen in Studienplänen und Fortbildungen
-- **Bessere Unterstützung der Schulen** bei der Interpretation der Daten und Ableitung von Handlungsempfehlungen, z.B. durch Datenbeauftragte
+- **Stärkung der Datenkompetenzen** in Schulen und Schulverwaltungen, z. B. durch Anpassungen in Studienplänen und Fortbildungen
+- **Bessere Unterstützung der Schulen** bei der Interpretation der Daten und Ableitung von Handlungsempfehlungen, z. B. durch Datenbeauftragte
 - **Mehr Autonomie** für Schulen in der Anpassung ihrer Prozesse
-- **Kulturwandel** hin zu einer datengestützten Schulentwicklung, z.B. durch Steigerung des Bewusstseins von Schulleitungen für die Möglichkeiten datengestützter Schulentwicklung
+- **Kulturwandel** hin zu einer datengestützten Schulentwicklung, z. B. durch Steigerung des Bewusstseins von Schulleitungen für die Möglichkeiten datengestützter Schulentwicklung
 - **Vollerhebungen zu standardisierten Messungen von Schüler\*innenkompetenzen** über die Zeit und zentrale, deutschlandweite Verwaltung der Daten sowie Zugänglichkeit dieser Daten für die Wissenschaft
 
 Details zur Einschätzung der Potenziale von Schuldaten, der Risiken sowie zu Handlungsempfehlungen finden sich in der [Kurzstudie](https://okfn.de/publikationen/black-box-bildung/) von Mira Fischer und Maximilian Voigt.
 
 Bei Rückfragen zu den Ergebnissen: Maximilian Voigt, maximilian.voigt@okfn.de
+
+
+¹ Die originale und nicht mehr zeitgemäße Formulierung “ein absolutes Entwicklungsland” wurde hier durch "unterentwickelt”  ersetzt. Für Details siehe: [Was ist eigentlich (ein) Entwicklung(land)? – Kritische Perspektiven auf den Begriff „Entwicklung“](https://www.plura.uni-bayreuth.de/pool/Unterrichtsmaterialien/Was-ist-Entwicklung.pdf)
