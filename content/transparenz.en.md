@@ -74,7 +74,7 @@ Project funding from the German Federal Ministry of Education and Research to fi
 
 ### Internal ethics officer
 
-Since 2017, we have had the office of ethics officer in the team. The ethics officer is the first point of contact for internal and external ethical questions. In addition, the ethics officer is the first point of contact for team members who have concerns and uncertainties of any kind. The ethics officer ensures that requests are forwarded to the right places (e.g. board or director) and supervises the process. The current ethics officer is Giulia Norberti. External inquiries can be sent to ethics@okfn.de. [<a href="/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
+Since 2017, we have had the office of ethics officer in the team. The ethics officer is the first point of contact for internal and external ethical questions. In addition, the ethics officer is the first point of contact for team members who have concerns and uncertainties of any kind. The ethics officer ensures that requests are forwarded to the right places (e.g. board or director) and supervises the process. The current ethics officer is Sonja Fischbauer. External inquiries can be sent to ethics@okfn.de. [<a href="/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
 
 ### Whistleblowing Policy
 
