@@ -11,8 +11,6 @@ featured: blue
 title: 'Entscheidungsstrukturen entwickeln - Wie wir unsere Zusammenarbeit organisieren'
 publishedDate: 2025-08-24
 ---
-
-
 **In diesem Artikel zeigen wir, wie wir uns intern organisieren. Wir beschreiben unsere Strukturen, mit denen wir Mitbestimmung fördern und Macht verteilen.**
 
  In unserer inhaltlichen Arbeit streben wir nach einer demokratischen, nachhaltigen und resilienten Zukunft, die auf Offenheit, Teilhabe und Transparenz basiert. Damit wir dem Anspruch auch innerhalb unserer Organisation gerecht werden, müssen wir unsere interne Zusammenarbeit gut organisieren: Wir brauchen ein solides Governance-Modell. 
