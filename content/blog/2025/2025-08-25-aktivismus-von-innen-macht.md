@@ -66,9 +66,6 @@ Für eine Reflexion im gesamten Team markieren wir Karten (z. B. mit Klebepunkte
 
 Auch wenn es bei der Übung keinen konkreten Outcome gibt: Der Wert liegt allein schon darin, dass wir über Macht sprechen. Wenn wir offen über Macht sprechen, schaffen wir ein Klima, in dem Kritik besser möglich ist. Es zahlt sich aus, so eine Reflexion regelmäßig zu machen. Machtverhältnisse verändern sich, während sich die Organisation, das Team, die Gesellschaft, unsere Communities, die Förderlandschaft sich verändert. Wir müssen also regelmäßig einchecken und über eigene Strukturen reflektieren, auch wenn gerade kein besonderes Problem ansteht. So schaffen wir eine Gesprächsbasis, die uns hilft, in einer nächsten Konfliktsituation besser zu reagieren. Mit regelmäßigen Reflexionen über Machtverhältnisse lassen sich auch die Ergebnisse über die Zeit vergleichen, und vielleicht auch Erfolge und Verbesserungen erkennen, die es zu feiern lohnt. 
 
-**PDF Download**: Ihr könnt die Übung **Machtstrukturen aufdecken** als PDF herunterladen. 
-**Die Lizenz** dafür ist CC-BY SA 4.0, d. h., ihr dürft sie verwenden und remixen, aber müsst uns als Urheberin nennen. Wir freuen uns auf eure Rückmeldungen, wenn ihr es einsetzt, auf eure Erfahrungsberichte und Verbesserungsvorschläge.
-
 ## Warum das alles?
 
 **Wir decken Machtstrukturen auf...**
@@ -80,3 +77,8 @@ Auch wenn es bei der Übung keinen konkreten Outcome gibt: Der Wert liegt allein
 ... um ein Klima zu schaffen, in dem **Kritik möglich und okay** ist.
 
 ... weil Macht, wenn sie gut verteilt und richtig eingesetzt ist, **viel Gutes bewirken** kann.
+
+---
+**PDF Download**: Ihr könnt die Übung **Machtstrukturen aufdecken** als PDF herunterladen. 
+**Die Lizenz** dafür ist CC-BY SA 4.0, d. h., ihr dürft sie verwenden und remixen, aber müsst uns als Urheberin nennen. Wir freuen uns auf eure Rückmeldungen, wenn ihr es einsetzt, auf eure Erfahrungsberichte und Verbesserungsvorschläge.
+
