@@ -73,9 +73,4 @@ Even if there is no concrete outcome to the exercise, its value lies in the fact
 
 ... to create a climate in which **criticism is possible and acceptable**.
 
-... because power, when distributed well and used correctly, can **achieve a lot of good**.
-
----
-**PDF download:** You can download the exercise **Uncovering Power Structures** as a PDF file.
-**The licence** for this is CC-BY SA 4.0, which means you can use and remix it, but you must credit us as the author. We look forward to your feedback if you use it, your experiences and suggestions for improvement.
-
+... because power, when distributed well and used correctly, can **achieve a lot of good**
