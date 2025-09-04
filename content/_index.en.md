@@ -8,8 +8,7 @@ breakout:
     In NGOs and non-profit organisations, the focus is often on external impact.
     But those who call for change must also live it internally.
     In this series, we share experiences, challenges and tools from building an organisation
-    that puts its values into practice internally.<br><br>
-  link: "[Activism from Within](/en/aktivismus-von-innen/)"
+    that puts its values into practice internally.<br><br>[–> Activism from Within](/en/aktivismus-von-innen/)
 donate_title: Support our mission now!
 donate_text: Our work is independent, non-partisan, interdisciplinary and non-commercial. With a donation you can help us and our community.
 meta: Open Knowledge Foundation Germany e. V.
