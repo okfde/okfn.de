@@ -9,10 +9,8 @@ type: post
 layout: post
 featured: blue
 title: 'Konflikte bearbeiten - Eine Anleitung, um Spannungen im Team routiniert zu lösen'
-publishedDate: 2025-08-26
+publishedDate: 2025-09-22
 ---
-
-
 **In diesem Artikel teilen wir unsere erste Version einer Konfliktroutine: eine Anleitung, wie man vorgeht, wenn man sich in einem Konflikt befindet.**
 
 Es ist leicht, alle teilhaben zu lassen, wenn alles rund läuft. Schwieriger wird es, wenn Spannungen entstehen. Genau dann zeigt sich, ob unsere Werte im Alltag bestehen. Wenn wir uns für eine demokratische, nachhaltige und resiliente Zukunft einsetzen, müssen wir auch intern Räume schaffen, in denen Konflikte angesprochen, ausgehalten und bearbeitet werden können. Konflikte können eine Chance für persönliches Wachstum, bessere Zusammenarbeit und strukturelle Entwicklung sein.
