@@ -21,13 +21,13 @@ intro:
     international Open Knowledge Network. Our [Code of Conduct](/codeofconduct) applies
     to everyone who participates in our work.
 breakout:
-  title: Activism from within
+  title: Activism from Within
   copy: |
     In NGOs and non-profit organisations, the focus is often on external impact.
     But those who call for change must also live it internally.
     In this series, we share experiences, challenges and tools from building an organisation
     that puts its values into practice internally.
-  link: Activism from within
+  link: Activism from Within
 finances:
   title: Funding
   copy: |
