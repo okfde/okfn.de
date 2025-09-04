@@ -45,7 +45,22 @@
         </div>
       </div>
     </div>
-
+    
+    <section class="l__content__bg--grey l__breakout my-d">
+        <div class="container">
+            <img src="/okf/verein/avi2.jpg" alt="Illustration" width="255">
+            <div class="mt-s">
+                <h3>{{ .Params.breakout.title }} </h3>
+                <p>
+                    {{ .Params.breakout.copy | markdownify }}
+                    <a style="display: block" href="../aktivismus-von-innen">
+                    {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} {{ .Params.breakout.link }}
+                    </a>
+                </p>
+            </div>
+        </div>
+    </section>
+    
     <section class="container mt-l">
       <div class="row justify-between align-items-baseline">
         <div class="col col-10 col-sm-9 col-lg-10 mb-s">
