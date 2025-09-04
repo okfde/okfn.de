@@ -10,7 +10,7 @@ type: post
 layout: post
 featured: blue
 title: '(EN) Dealing with conflicts – A guide to routinely resolving tensions within the team'
-publishedDate: 2025-08-26
+publishedDate: 2025-09-22
 ---
 
 **In this article, we share our first version of a conflict routine: a guide on how to proceed when you find yourself in a conflict.**
