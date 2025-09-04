@@ -46,20 +46,26 @@
       </div>
     </div>
     
-    <section class="l__content__bg--grey l__breakout my-d">
-        <div class="container">
-            <img src="/okf/verein/avi2.jpg" alt="Illustration" width="255">
-            <div class="mt-s">
-                <h3>{{ .Params.breakout.title }} </h3>
-                <p style="font-size: 1.2em;">
-                    {{ .Params.breakout.copy | markdownify }}
-                    <a style="display: block" href="../aktivismus-von-innen">
-                    {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} {{ .Params.breakout.link }}
+<section class="l__content__bg--grey l__breakout my-d">
+    <div class="container">
+        <img src="/okf/verein/avi2.jpg" alt="Illustration" width="255">
+        <div class="mt-s">
+            <h3>{{ .Params.breakout.title }} </h3>
+            <p style="font-size: 1.2em;">
+                {{ .Params.breakout.copy | markdownify }}
+
+                {{/* Hugo will get the correct page for the current language */}}
+                {{ $page := site.GetPage "section" "aktivismus-von-innen" }}
+                {{ if $page }}
+                    <a style="display: block" href="{{ $page.RelPermalink }}">
+                        {{ readFile "static/files/icons/arrow_right.svg" | safeHTML }} {{ .Params.breakout.link }}
                     </a>
-                </p>
-            </div>
+                {{ end }}
+
+            </p>
         </div>
-    </section>
+    </div>
+</section>
     
     <section class="container mt-l">
       <div class="row justify-between align-items-baseline">
