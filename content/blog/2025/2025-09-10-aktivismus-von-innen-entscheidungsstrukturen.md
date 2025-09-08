@@ -9,7 +9,7 @@ type: post
 layout: post
 featured: blue
 title: 'Entscheidungsstrukturen entwickeln - Wie wir unsere Zusammenarbeit organisieren'
-publishedDate: 2025-09-09
+publishedDate: 2025-09-10
 ---
 **In diesem Artikel zeigen wir, wie wir uns intern organisieren. Wir beschreiben unsere Strukturen, mit denen wir Mitbestimmung fördern und Macht verteilen.**
 
