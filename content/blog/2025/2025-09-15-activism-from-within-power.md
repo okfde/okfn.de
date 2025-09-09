@@ -4,12 +4,11 @@ authors:
 image:
   src: /files/blog/2025/2025-09-machtplatzhalter.jpg
 tags:
-- Aktivismus von innen
 - Activism from Within
 type: post
 layout: post
 featured: yellow
-title: '(EN) Uncovering power structures – An exercise for talking about power'
+title: 'Uncovering power structures – An exercise for talking about power'
 publishedDate: 2025-09-15
 ---
 **In this article, we share instructions for an exercise we developed to facilitate conversations about power structures in our organisation.** 
