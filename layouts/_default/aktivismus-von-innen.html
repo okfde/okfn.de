@@ -27,7 +27,15 @@
 
 <div class="container mt-d">
     {{ $blogposts := (where .Site.AllPages "Section" "blog") }}
-    {{ $filtered  := (where $blogposts "Params.tags" "intersect" (slice "Aktivismus von innen")) }}
+
+    {{ $tag := "" }}
+    {{ if eq .Site.Language.Lang "de" }}
+       {{ $tag = "Aktivismus von innen" }}
+    {{ else if eq .Site.Language.Lang "en" }}
+        {{ $tag = "Activism from Within" }}
+    {{ end }}
+
+{{ $filtered := where $blogposts "Params.tags" "intersect" (slice $tag) }}
 
     <ul class="l__aktivismus-von-innen__blogposts">
         {{ range $filtered}}
