@@ -5,11 +5,10 @@ image:
   src: /files/blog/2025/2025-09-entscheidungsstrukturenplatzhalter.jpg
 tags:
 - Activism from Within
-- Aktivismus von innen
 type: post
 layout: post
 featured: blue
-title: '(EN) Developing decision-making structures - How we organise our collaboration'
+title: 'Developing decision-making structures - How we organise our collaboration'
 publishedDate: 2025-09-10
 ---
 **In this article, we show how we organise ourselves internally. We describe the structures we use to promote co-determination and distribute power.**

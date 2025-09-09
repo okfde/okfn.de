@@ -4,12 +4,11 @@ authors:
 image:
   src: /files/blog/2025/2025-09-konflikteplatzhalter.jpg
 tags:
-- Aktivismus von innen
 - Activism from Within
 type: post
 layout: post
 featured: blue
-title: '(EN) Dealing with conflicts – A guide to routinely resolving tensions within the team'
+title: 'Dealing with conflicts – A guide to routinely resolving tensions within the team'
 publishedDate: 2025-09-22
 ---
 
