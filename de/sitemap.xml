@@ -124,8 +124,14 @@
                 href="https://okfn.de/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/aktivismus-von-innen/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2025/09/aktivismus-von-innen-einleitung/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -135,6 +141,32 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/sonja-fischbauer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/sonja-fischbauer/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/bildungsdaten/</loc>
@@ -148,19 +180,6 @@
   </url><url>
     <loc>https://okfn.de/tags/open-data/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-08-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/black-box-bildung/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
@@ -374,19 +393,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2025/03/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/</loc>
     <lastmod>2025-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
-    <lastmod>2025-03-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/sonja-fischbauer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/sonja-fischbauer/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/taiwan/</loc>
     <lastmod>2025-03-24T00:00:00+00:00</lastmod>
