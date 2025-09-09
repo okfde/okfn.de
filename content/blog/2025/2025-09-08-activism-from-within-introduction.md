@@ -4,7 +4,6 @@ authors:
 image:
   src: /files/blog/2025/2025-09-avi-einleitung.png
 tags:
-- Aktivismus von innen
 - Activism from Within
 type: post
 layout: post
