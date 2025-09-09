@@ -2,7 +2,7 @@
 authors:
 - Sonja Fischbauer
 image:
-  src: /files/blog/2025/2025-09-entscheidungsstrukturenplatzhalter.jpg
+  src: /files/blog/2025/2025-09-avi-entscheidungsstrukturen.png
 tags:
 - Activism from Within
 type: post
