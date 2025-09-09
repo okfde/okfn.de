@@ -8,7 +8,7 @@ copy: |
 
   <h3>In this series, we share experiences, challenges and tools for implementing our social demands internally.</h3>
 
-  <img src="https://okfn.de/files/images/avi2.jpg" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 250px;"><br>
+  <img src="https://okfn.de/files/images/avi2.png" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 250px;"><br>
   We address topics such as power, decision-making and conflict, and describe how we deal with them structurally. We describe small steps and concrete measures in everyday work.
 
   **Organisational development is never complete, and we still have a lot of room for improvement. But it is worthwhile to share unfinished, imperfect things in order to open up a conversation and grow together.**<br>
