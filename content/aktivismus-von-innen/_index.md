@@ -8,7 +8,7 @@ copy: |
   
   <h3>In dieser Serie teilen wir Erfahrungen, Herausforderungen und Tools, wie wir unsere gesellschaftlichen Forderungen intern umsetzen.</h3>
   
-  <img src="https://okfn.de/files/images/avi2.jpg" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 250px;"><br>
+  <img src="https://okfn.de/files/images/avi2.png" alt="illustration" style="float: left; margin: 1em 1em 1em 1em; width: 250px;"><br>
   Wir widmen uns Themen wie Macht, Entscheidungen und Konflikte und beschreiben, wie wir damit strukturell umgehen. Wir beschreiben kleine Schritte und konkrete Maßnahmen im
   Arbeitsalltag. 
    
