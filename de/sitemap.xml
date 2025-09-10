@@ -124,9 +124,6 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/activism-from-within/</loc>
-    <lastmod>2025-09-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/tags/aktivismus-von-innen/</loc>
     <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -142,9 +139,6 @@
                 hreflang="de"
                 href="https://okfn.de/authors/"
                 />
-  </url><url>
-    <loc>https://okfn.de/blog/2025/09/developing-decision-making-structures-how-we-organise-our-collaboration/</loc>
-    <lastmod>2025-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/09/entscheidungsstrukturen-entwickeln-wie-wir-unsere-zusammenarbeit-organisieren/</loc>
     <lastmod>2025-09-10T00:00:00+00:00</lastmod>
@@ -175,7 +169,13 @@
                 href="https://okfn.de/tags/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/activism-from-within/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/blog/2025/09/aktivismus-von-innen-einleitung/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2025/09/developing-decision-making-structures-how-we-organise-our-collaboration/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/09/activism-from-within-introduction/</loc>
