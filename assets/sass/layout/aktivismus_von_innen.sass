@@ -2,8 +2,9 @@
   @include base-styles
 
 .l__aktivismus-von-innen__blogposts
+  margin-top: $space * 4
   display: flex
-  gap: $space
+  gap: $space * 2
   flex-direction: column
 
   li a
@@ -11,6 +12,10 @@
     grid-template-areas: "img" "title" "snippet"
     color: black
     gap: $space / 2
+    text-decoration: none
+
+    &:hover h2
+      color: $blue
 
     @include media-breakpoint-up(md)
       display: grid
@@ -21,6 +26,7 @@
     h2
       grid-area: title
       font-size: 1.25rem
+      text-decoration: underline
 
     img
       width: 100%
