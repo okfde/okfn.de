@@ -9,7 +9,7 @@ type: post
 layout: post
 featured: blue
 title: 'Developing decision-making structures - How we organise our collaboration'
-publishedDate: 2025-09-09
+publishedDate: 2025-09-10T00:00:01
 ---
 **In this article, we show how we organise ourselves internally. We describe the structures we use to promote co-determination and distribute power.**
 
