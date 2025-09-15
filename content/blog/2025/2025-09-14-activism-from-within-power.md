@@ -9,7 +9,7 @@ type: post
 layout: post
 featured: yellow
 title: 'Uncovering power structures – An exercise for talking about power'
-publishedDate: 2025-09-15
+publishedDate: 2025-09-14
 ---
 **In this article, we share instructions for an exercise we developed to facilitate conversations about power structures in our organisation.** 
 
