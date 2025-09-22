@@ -9,7 +9,7 @@ type: post
 layout: post
 featured: blue
 title: 'Konflikte bearbeiten - Eine Anleitung, um Spannungen im Team routiniert zu lösen'
-publishedDate: 2025-09-22
+publishedDate: 2025-09-30
 ---
 **In diesem Artikel teilen wir unsere erste Version einer Konfliktroutine: eine Anleitung, wie man vorgeht, wenn man sich in einem Konflikt befindet.**
 
