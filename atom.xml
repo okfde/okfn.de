@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-09-15T00:00:00+0000</updated>
+  <updated>2025-09-25T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Das EnVKG darf die Zivilgesellschaft nicht benachteiligen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/09/das-envkg-darf-die-zivilgesellschaft-nicht-benachteiligen/"/>
+    <id>https://okfn.de/blog/2025/09/das-envkg-darf-die-zivilgesellschaft-nicht-benachteiligen/</id>
+    <published>2025-09-25T00:00:00+0000</published>
+    <updated>2025-09-25T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Aktuell laufen die Stellungnahmen zum Energieverbrauchskennzeichnungsgesetz (EnVKG). Bis zum 26.09., 18 Uhr können noch Stellungnahmen eingereicht werden. Wir &lt;a href=&#34;https://okfn.de/publikationen/stellungnahme-envkg/&#34; target=&#34;_blank&#34;&gt;veröffentlichen unsere Position&lt;/a&gt; bereits heute.&lt;/p&gt;
+&lt;p&gt;Das Gesetz soll einerseits EU-Recht national umsetzen und will andererseits zivilgesellschaftlichen Reparateuren Zugang zu reparaturrelevanten Informationen und Ersatzteilen verschaffen. Damit würde ein entscheidender Schritt getan werden, um die Vielfalt an Reparaturakteuren – von wirtschaftlich tätigen Betrieben bis hin zu ehrenamtlich getragenen Initiativen – gleichberechtigt einzubeziehen und ihre Rolle im Reparaturökosystem zu stärken. Das ist längst überfällig, denn der Erhalt von Produkten ist eine riesige Aufgabe, die nicht ohne eine kompetente Zivilgesellschaft zu leisten ist.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Machtstrukturen aufdecken - Eine Übung, um über Macht zu sprechen</title>
@@ -152,20 +162,6 @@ In &lt;strong&gt;part 1&lt;/strong&gt;, we show how we organise ourselves intern
     <updated>2025-05-28T00:00:00+0000</updated>
     <summary>&lt;p&gt;Das &lt;a href=&#34;https://opendataranking.de/&#34; target=&#34;_blank&#34;&gt;Open Data Ranking&lt;/a&gt; bekommt ein Update! Zum zweiten Mal werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze. Die Analyse der rechtlichen Rahmenbedingungen, der Datenqualität und des Open-Data-Ökosystems für das letzte Jahr hat gezeigt: Allzu große Veränderungen gab es 2024 nicht.&lt;/p&gt;
 &lt;p&gt;Behörden aller staatlichen Ebenen – von der Bundes- bis zur Kommunalverwaltung – produzieren täglich eine Vielzahl von Informationen. Allerdings wird nur ein vergleichsweise geringer Anteil davon unter freien Lizenzen in offenen und maschinenlesbaren Formaten automatisiert bereitgestellt. Mit dem Open Data Ranking haben wir im letzten Jahr eine erste Bestandsaufnahme des Status quo von Open Data in Deutschland vorgenommen, um die Diskussion über offene Daten im Land auf eine breitere Basis stellen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Triff die OKF auf der re:publica 2025!</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/05/triff-die-okf-auf-der-republica-2025/"/>
-    <id>https://okfn.de/blog/2025/05/triff-die-okf-auf-der-republica-2025/</id>
-    <published>2025-05-21T00:00:00+0000</published>
-    <updated>2025-05-21T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die &lt;a href=&#34;https://re-publica.com/de&#34; target=&#34;_blank&#34;&gt;re:publica&lt;/a&gt; steht wieder an: Das Festival für die digitale Gesellschaft (dieses Jahr unter dem Motto „Generation XYZ“) findet vom 26.-28. Mai 2025 in der &lt;a href=&#34;https://www.station-berlin.de/de/lage-anfahrt/lage.html&#34; target=&#34;_blank&#34;&gt;STATION Berlin&lt;/a&gt; statt. Die OKF wird mit vielen verschiedenen Themen und Formaten dabei sein. Kommt vorbei und trefft uns hier:&lt;/p&gt;
-&lt;p&gt;Durchgehend an allen drei Tagen am &lt;a href=&#34;https://buendnis-f5.de/&#34; target=&#34;_blank&#34;&gt;Bündnis F5&lt;/a&gt; Stand mit vielfältigem &lt;a href=&#34;https://re-publica.com/de/standprogramm?field_date_value=1&amp;amp;has_partner=3003&#34; target=&#34;_blank&#34;&gt;Standprogramm&lt;/a&gt;. Unseren Stand mit der Nummer D1 könnt ihr hier im &lt;a href=&#34;https://re-publica.com/de/lageplan&#34; target=&#34;_blank&#34;&gt;Lageplan&lt;/a&gt; finden.&lt;/p&gt;
-&lt;h2 id=&#34;montag-26052025&#34;&gt;Montag, 26.05.2025&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;13:00-13:30&lt;/strong&gt;&lt;br&gt;
-F5 Stand&lt;br&gt;
-Sabrina Winter&lt;br&gt;&lt;/p&gt;</summary>
   </entry>
   
 </feed>
