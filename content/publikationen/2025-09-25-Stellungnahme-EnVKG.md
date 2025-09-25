@@ -1,6 +1,6 @@
 ---
 title: Das EnVKG darf die Zivilgesellschaft nicht benachteiligen
-subtitle: Die Potenziale von Schuldaten für ein lernendes Schulsystem
+subtitle: Stellungnahme der OKF DE und der Open Hardware Allianz zum EnVKG
 layout: publikation
 image:
   src: /files/images/Jahresbericht1.png
