@@ -10,7 +10,7 @@ type: post
 layout: post
 featured: blue
 title: 'Das EnVKG darf die Zivilgesellschaft nicht benachteiligen'
-publishedDate: 2025-08-29
+publishedDate: 2025-09-25
 ---
 
 Aktuell laufen die Stellungnahmen zum Energieverbrauchskennzeichnungsgesetz (EnVKG). Bis zum 26.09., 18 Uhr können noch Stellungnahmen eingereicht werden. Wir [veröffentlichen unsere Position](https://okfn.de/publikationen/stellungnahme-envkg/) bereits heute. 
