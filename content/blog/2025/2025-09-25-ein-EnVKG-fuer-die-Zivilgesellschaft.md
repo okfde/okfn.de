@@ -13,7 +13,7 @@ title: 'Das EnVKG darf die Zivilgesellschaft nicht benachteiligen'
 publishedDate: 2025-09-25
 ---
 
-Aktuell laufen die Stellungnahmen zum Energieverbrauchskennzeichnungsgesetz (EnVKG). Bis zum 26.09., 18 Uhr können noch Stellungnahmen eingereicht werden. Wir [veröffentlichen unsere Position](https://okfn.de/publikationen/stellungnahme-envkg/) bereits heute. 
+Aktuell laufen die Stellungnahmen zum [Entwurf des Energieverbrauchskennzeichnungsgesetz](https://github.com/okfde/okfn.de/blob/main/static/files/documents/20250723_MASTER_G-Entwurf_z_Modernisierung_d_nat_Umsetzung_ED%2BEL.pdf) (EnVKG). Bis zum 26.09., 18 Uhr können noch Stellungnahmen eingereicht werden. Wir [veröffentlichen unsere Position](https://okfn.de/publikationen/stellungnahme-envkg/) bereits heute. 
 
 Das Gesetz soll einerseits EU-Recht national umsetzen und will andererseits zivilgesellschaftlichen Reparateuren Zugang zu reparaturrelevanten Informationen und Ersatzteilen verschaffen. Damit würde ein entscheidender Schritt getan werden, um die Vielfalt an Reparaturakteuren – von wirtschaftlich tätigen Betrieben bis hin zu ehrenamtlich getragenen Initiativen – gleichberechtigt einzubeziehen und ihre Rolle im Reparaturökosystem zu stärken. Das ist längst überfällig, denn der Erhalt von Produkten ist eine riesige Aufgabe, die nicht ohne eine kompetente Zivilgesellschaft zu leisten ist.
 
