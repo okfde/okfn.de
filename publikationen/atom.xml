@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2025-08-28T00:00:00+0000</updated>
+  <updated>2025-09-25T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Das EnVKG darf die Zivilgesellschaft nicht benachteiligen</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/stellungnahme-envkg/"/>
+    <id>https://okfn.de/publikationen/stellungnahme-envkg/</id>
+    <published>2025-09-25T00:00:00+0000</published>
+    <updated>2025-09-25T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Das ist die Stellungnahme der OKF DE und der Open Hardware Allianz zum Energieverbrauchskennzeichnungsgesetz (EnVKG). Im Fokus steht die Kritik, dass der aktuelle Entwurf der Zivilgesellschaft Zugänge zu technischen Informationen und Ersatzteilen erschwert.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Black Box Bildung</title>
@@ -153,15 +162,6 @@
     <published>2024-04-18T00:00:00+0000</published>
     <updated>2024-04-18T00:00:00+0000</updated>
     <summary>&lt;p&gt;Mit der Gründung der ersten Digitalministerkonferenz (DMK) am 19. April 2024 in Potsdam setzen sich die 16 Bundesländer das gemeinsame Ziel, die digitale Transformation zum Wohle der Bürger*innen zu gestalten. Die Vision eines offenen, freien, verlässlichen und sicheren Internets kann nur durch eine gemeinwohlorientierte Digitalpolitik unter Einbeziehung der Zivilgesellschaft Wirklichkeit werden. F5 appelliert an die Verantwortlichen der DMK, die in unserem Forderungspapier ausgeführten Anliegen politisch umzusetzen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Diskussionspapier Open Circularity</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/"/>
-    <id>https://okfn.de/publikationen/2023_diskussionspapier_offene_technologien_f%C3%BCr_die_kreislaufgesellschaft/</id>
-    <published>2023-12-06T00:00:00+0000</published>
-    <updated>2023-12-06T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Mit der Nationalen Kreislaufwirtschaftsstrategie und dem Circular Economy Action Plan arbeiten die Bundesregierung und die EU an Maßnahmen zur Entwicklung zirkulärer Wirtschafts- und Gesellschaftsformen. Dabei dürfen Informationstransparenz und die Bedarfe der Zivilgesellschaft nicht unter den Tisch fallen. Im Diskussionspapier zeigen wir auf, wie offene Technologien bestehende Herausforderungen effektiv lösen und die Zivilgesellschaft stärken.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

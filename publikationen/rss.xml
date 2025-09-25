@@ -5,10 +5,19 @@
     <description>Publikationen on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Das EnVKG darf die Zivilgesellschaft nicht benachteiligen</title>
+      <link>https://okfn.de/publikationen/stellungnahme-envkg/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/stellungnahme-envkg/</guid>
+      <description>&lt;p&gt;Das ist die Stellungnahme der OKF DE und der Open Hardware Allianz zum Energieverbrauchskennzeichnungsgesetz (EnVKG). Im Fokus steht die Kritik, dass der aktuelle Entwurf der Zivilgesellschaft Zugänge zu technischen Informationen und Ersatzteilen erschwert.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Black Box Bildung</title>

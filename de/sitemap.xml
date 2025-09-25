@@ -98,6 +98,35 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/publikationen/stellungnahme-envkg/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
     <loc>https://okfn.de/tags/aktivismus-von-innen/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -129,19 +158,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2025/09/machtstrukturen-aufdecken-eine-%C3%BCbung-um-%C3%BCber-macht-zu-sprechen/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/sonja-fischbauer/</loc>
     <lastmod>2025-09-15T00:00:00+00:00</lastmod>
@@ -201,19 +217,6 @@
   </url><url>
     <loc>https://okfn.de/publikationen/black-box-bildung/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/ben-burmeister/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
