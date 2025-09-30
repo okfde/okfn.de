@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-09-25T00:00:00+0000</updated>
+  <updated>2025-09-30T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Konflikte bearbeiten – Eine Anleitung, um Spannungen im Team routiniert zu lösen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/09/konflikte-bearbeiten-eine-anleitung-um-spannungen-im-team-routiniert-zu-l%C3%B6sen/"/>
+    <id>https://okfn.de/blog/2025/09/konflikte-bearbeiten-eine-anleitung-um-spannungen-im-team-routiniert-zu-l%C3%B6sen/</id>
+    <published>2025-09-30T00:00:00+0000</published>
+    <updated>2025-09-30T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;In diesem Artikel teilen wir unsere erste Version einer Konfliktroutine: eine Anleitung, wie man vorgeht, wenn man sich in einem Konflikt befindet.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Es ist leicht, alle teilhaben zu lassen, wenn alles rund läuft. Schwieriger wird es, wenn Spannungen entstehen. Genau dann zeigt sich, ob unsere Werte im Alltag bestehen. Wenn wir uns für eine demokratische, nachhaltige und resiliente Zukunft einsetzen, müssen wir auch intern Räume schaffen, in denen Konflikte angesprochen, ausgehalten und bearbeitet werden können. Konflikte können eine Chance für persönliches Wachstum, bessere Zusammenarbeit und strukturelle Entwicklung sein.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Das EnVKG darf die Zivilgesellschaft nicht benachteiligen</title>
@@ -152,16 +162,6 @@ In &lt;strong&gt;part 1&lt;/strong&gt;, we show how we organise ourselves intern
     <updated>2025-06-04T00:00:00+0000</updated>
     <summary>&lt;h2 id=&#34;invitation&#34;&gt;Invitation&lt;/h2&gt;
 &lt;p&gt;The idea of openness has had a decisive influence on the digital age. Whether open source software, open standards or freely licensed content — many foundations are based on principles of accessibility, participation and transparency. Openness, understood as free access, free use, modification and sharing of knowledge, has established itself as a driver of innovation and social progress. However, despite all its successes, the concept of openness seems to be going through a crisis. Between political appropriation, economic instrumentalisation and technological upheaval, the concept of openness is coming under increasing pressure and threatens to become diluted. The reasons for this include contradictory definitions, the enormous concentration of power in a few tech companies, geopolitical tensions and internal conflicts in openness communities.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Open Data Ranking – Update 2025</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/05/open-data-ranking-update-2025/"/>
-    <id>https://okfn.de/blog/2025/05/open-data-ranking-update-2025/</id>
-    <published>2025-05-28T00:00:00+0000</published>
-    <updated>2025-05-28T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Das &lt;a href=&#34;https://opendataranking.de/&#34; target=&#34;_blank&#34;&gt;Open Data Ranking&lt;/a&gt; bekommt ein Update! Zum zweiten Mal werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze. Die Analyse der rechtlichen Rahmenbedingungen, der Datenqualität und des Open-Data-Ökosystems für das letzte Jahr hat gezeigt: Allzu große Veränderungen gab es 2024 nicht.&lt;/p&gt;
-&lt;p&gt;Behörden aller staatlichen Ebenen – von der Bundes- bis zur Kommunalverwaltung – produzieren täglich eine Vielzahl von Informationen. Allerdings wird nur ein vergleichsweise geringer Anteil davon unter freien Lizenzen in offenen und maschinenlesbaren Formaten automatisiert bereitgestellt. Mit dem Open Data Ranking haben wir im letzten Jahr eine erste Bestandsaufnahme des Status quo von Open Data in Deutschland vorgenommen, um die Diskussion über offene Daten im Land auf eine breitere Basis stellen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
