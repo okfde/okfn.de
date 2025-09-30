@@ -2,7 +2,7 @@
 authors:
 - Sonja Fischbauer
 image:
-  src: /files/blog/2025/2025-09-avi-entscheidungsstrukturen.png
+  src: /files/blog/2025/2025-09-avi-konflikte.png
 tags:
 - Aktivismus von innen
 type: post
