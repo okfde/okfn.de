@@ -256,3 +256,9 @@
   startdate: "2025-10-31"
   venue: Theater an der Parkaue
   show: true
+- name: Protoype Fund Demo Day
+  url: https://www.prototypefund.de/events/demo-day-jahrgang-01
+  enddate:
+  startdate: "2025-11-28"
+  venue: bUm, Berlin
+  show: true
