@@ -12,7 +12,6 @@ featured: yellow
 title: 'Checkliste: Linked Open Data für Verwaltungen'
 publishedDate: 2025-10-09
 ---
-
 *Die Forderung nach mehr Linked Data aus der Verwaltung ist nicht neu und wird seit Jahren von Stimmen aus der CodeFor-Community und der OKF vorgetragen. Dennoch gibt es bislang nur wenige Beispiele, bei denen Daten der öffentlichen Hand verlinkbar gemacht und an gemeinsamen Ontologien gearbeitet wurde. Umso mehr hat es uns gefreut, als sich die Senatsverwaltung für Finanzen des Landes Berlin vor mehr als zwei Jahren mit dem Vorhaben, ihre Haushaltsdaten als Linked Data zu veröffentlichen, an uns wendete und fragte: wie geht das eigentlich?* 
 
 ## Linked Data für Verwaltungen – wie geht das eigentlich? 
