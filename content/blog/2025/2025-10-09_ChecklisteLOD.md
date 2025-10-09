@@ -1,0 +1,41 @@
+---
+authors:
+- Dénes Jäger
+image: 
+  src: /files/blog/2025/2025-10-09_ChecklisteLOD.jpg
+  title:
+tags:
+- Linked Open Data
+- Use Case
+type: post
+layout: post
+featured: yellow
+title: "Checkliste: Linked Open Data für Verwaltungen"
+publishedDate: 2025-10-09
+---
+
+
+*Die Forderung nach mehr Linked Data aus der Verwaltung ist nicht neu und wird seit Jahren von Stimmen aus der CodeFor-Community und der OKF vorgetragen. Dennoch gibt es bislang nur wenige Beispiele, bei denen Daten der öffentlichen Hand verlinkbar gemacht und an gemeinsamen Ontologien gearbeitet wurde. Umso mehr hat es uns gefreut, als sich die Senatsverwaltung für Finanzen des Landes Berlin vor mehr als zwei Jahren mit dem Vorhaben, ihre Haushaltsdaten als Linked Data zu veröffentlichen, an uns wendete und fragte: wie geht das eigentlich?* 
+
+## Linked Data für Verwaltungen – wie geht das eigentlich? ## 
+
+Während es einige Beispiele etwa aus dem Bibliothekswesen oder im Bereich Umweltdaten gibt, fehlten Vorbilder aus der Verwaltungspraxis. Erfreulicherweise beschäftigte sich die Open Data Informationsstelle Berlin zeitgleich auch mit dem Thema. Zudem konnte mit der Staatskanzlei des Landes Schleswig-Holstein schnell eine weitere Partnerschaft eingegangen werden, so dass die Entwicklung eines landesübergreifenden Vokabulars nicht im luftleeren Raum stattfinden musste. Beide Länder gingen im Rahmen des [4. Nationalen Aktionsplans Open Government Partnership](https://www.open-government-deutschland.de/opengov-de/ogp/aktionsplaene-und-berichte/4-nap) eine Selbstverpflichtung ein; die OKF war dabei, um das Projekt zu dokumentieren und so Materialien für weitere am Thema Interessierte zu schaffen. 
+
+In zwei [Barcamps](https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/) bei der Senatsverwaltung für Finanzen in Berlin, vielen Konferenzcalls und Arbeitssitzungen zwischen technischer und fachlicher Ebene entstanden ein [gemeinsames Vokabular](https://okfde.github.io/lod-budget-vocab/) und [zwei](https://berlin.github.io/lod-budget/) verlinkte [Landeshaushalte](https://gitlab.opencode.de/sh/zit/opendata/budget2lod). Als [lebendes Dokument](https://opendata.okfn.de/books/open-data-in-der-praxis/chapter/use-case-haushaltsdaten-als-linked-data) haben wir die einzelnen Schritte vom Barcamp zum Auftakt bis zur Veröffentlichung dokumentiert – die wir nun in einer kurzen Übersicht zur Verfügung stellen. In der Checkliste finden sich Fragen, die man sich an den verschiedenen Zeitpunkten stellen könnte. Akteur:innen aus der Verwaltung müssen so nicht bei Null anfangen, wenn sie sich ebenfalls mit Linked Data befassen möchten. 
+
+## Der wahre Schatz waren die Freund:innen, die sie auf dem Weg gemacht haben ##
+
+Als zentrale Erkenntnis aus zwei Jahren Projektarbeit bleibt, dass sich behördenübergreifende Zusammenarbeit und eine frühe Einbeziehung der Zivilgesellschaft lohnt – gerade bei einem kollaborativen Ansatz wie Linked Data. Zudem wurde mit dem aufgebauten Wissen der Grundstein für zukünftige Datenprojekte gelegt. Weil bei der Senatsverwaltung für Finanzen eigene Data Scientists tätig sind, konnte das Projekt ohne extra Ausschreibung durchgeführt werden. Die so gewonnene Umsetzungspraxis kann auch ein Anknüpfungspunkt für weitere Stellen aus dem Land Berlin sein.
+
+## Wo ist der Bundesnamespace? Wer kümmert sich um Ontologien? ##
+
+Gleichzeitig wurden durch die Pionierarbeit viele neue Fragen rund um das neu entwickelte Vokabular aufgeworfen. Wohin soll etwa für bundesweit genutzte Konzepte im Haushalt wie z.B. [„Titel“](https://okfde.github.io/lod-budget-vocab/titel) verwiesen werden? Aktuell gibt es keinen  einheitlichen Namespace der Bundesverwaltung, so dass wir als vorübergehenden Workaround das Vokabular selbst bei der OKF hosten. In der Schweiz gibt es beispielsweise mit [ld.admin.ch]( https://lindas.admin.ch/governance/namespaces/) eine solche Stelle, mit dem einheitliche und stabile Identifier für Daten aus der Verwaltung gewährleistet werden. Neben dem Ort stellt sich auch die Frage, wer das Vokabular zukünftig pflegt – ist etwa grundsätzlich die FitKo zuständig, die zwischen den Verwaltungsebenen koordiniert oder in diesem Fall das Bundesfinanzministerium, das den Standard vorgibt? Im Fall des vorliegenden Haushaltsdatenvokabulars haben wir das Hosting derzeit übernommen – sehen hier aber die Behörden in der Pflicht.  
+
+## Herzlichen Glückwunsch, Sie haben ein Infrastrukturprojekt abgeschlossen - und jetzt? ##
+
+Trotz positiven Feedbacks und mit dem Projekt einhergehenden Fortschritten für Infrastruktur und Datenkompetenzen ist die Sichtbarkeit im Vergleich zu anderen IT-Vorhaben gering. Bislang gibt es bei Behörden nur wenige andere Datensätze, die sich direkt verlinken ließen; zudem ist das fertige Produkt – verlinkte Datenpunkte und ein nachnutzbarer Standard – im Vergleich zu interaktiven Dashboards oder einem wie auch immer gearteten Chatbot für Nicht-Eingeweihte wenig spektakulär. Dabei bieten semantisch strukturierte Daten für staatliche Stellen ein großes Potential, gerade im Vergleich zu generativer KI (siehe hierzu die Publikation [„Generative KI für die Verwaltung?“](https://upload.wikimedia.org/wikipedia/commons/0/0e/Generative_KI_f%C3%BCr_die_Verwaltung%3F_2025.pdf) von wikimedia Deutschland ).  
+Auch der Abschlussbericht der Projektgruppe [„Semantische Interoperabilität“](https://www.it-planungsrat.de/fileadmin/beschluesse/2025/Beschluss_2025_09_AL_PG_Semantische_Interoperabilit%C3%A4t_Bericht.pdf) des IT-Planungsrats zeichnet die Vision eines „umfassenden Wissensgraphen, der über die bloße Datenverknüpfung hinausgeht“ und so einen „Quantensprung“ von isolierten Datensilos hin zu einem lebendigen Wissensnetzwerk bedeuten könnte. In demselben Dokument wird die Erstellung von Handlungsempfehlungen für Entwickler:innen und Verwaltungsmitarbeitende gefordert. Wir möchten mit der Publikation einen kleinen Beitrag zur Community of Practice leisten und freuen uns über Anfragen weiterer Bundesländer, die sich anschließen möchten. 
+
+Die Checkliste kann [hier](https://raw.githubusercontent.com/okfde/okfn.de/main/static/files/publikationen/2025-10-09_ChecklisteLOD.pdf) heruntergeladen werden.
+
+Kontakt : Dénes Jäger, denes.jaeger@okfn.de 
