@@ -3,7 +3,7 @@ title: Black Box Bildung
 subtitle: Die Potenziale von Schuldaten für ein lernendes Schulsystem
 layout: publikation
 image:
-  src: /files/blog/2025/black-box-bildung-aufmacher.jpg
+  src: /files/images/Studie2.jpg
 kategorien: Studien 
 categories: Studies
 people:
