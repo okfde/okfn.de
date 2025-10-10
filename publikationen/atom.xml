@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2025-09-25T00:00:00+0000</updated>
+  <updated>2025-10-09T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Checklist - Linked Open Data für Verwaltungen</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/checkliste-lod/"/>
+    <id>https://okfn.de/publikationen/checkliste-lod/</id>
+    <published>2025-10-09T00:00:00+0000</published>
+    <updated>2025-10-09T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Die Forderung nach mehr Linked Data aus der Verwaltung ist nicht neu. In der vorliegenden Checkliste haben wir die Gelingensbedingungen für die Veröffentlichung von LOD dokumentiert um Anhaltspunkte für Verwaltungen zu liefern, die sich auch auf den Weg zu mehr verlinkten Daten machen möchten.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Das EnVKG darf die Zivilgesellschaft nicht benachteiligen</title>
@@ -153,15 +162,6 @@
     <updated>2024-05-22T00:00:00+0000</updated>
     <summary>&lt;p&gt;Die Europäische Union hat sich als wegweisende Akteurin in der Digitalpolitik etabliert. In den letzten fünf Jahren wurden bedeutende Gesetze auf den Weg gebracht, um die Macht von Big-Tech Unternehmen einzudämmen und die Einhaltung von Grund- und Menschenrechten im Digitalen zu stärken. Gleichzeitig ist die europäische Digitalpolitik zu oft von technischen Trends und gewinnorientierten Interessen getrieben. Der Fokus auf das Gemeinwohl geht dabei verloren.&lt;/p&gt;
 &lt;p&gt;Im &lt;a href=&#34;https://buendnis-f5.de/&#34; target=&#34;_blank&#34;&gt;Bündnis F5&lt;/a&gt; sind wir überzeugt: Die Vision eines offenen, freien, verlässlichen, nachhaltigen und sicheren Internets sowie innovativer Entwicklungen, die reale gesellschaftliche Bedarfe bedienen, lässt sich nur durch eine gemeinwohlorientierte Digitalpolitik realisieren. Dabei müssen der Schutz demokratischer Strukturen, die Förderung digitaler öffentlicher Gemeingüter, die konsequente Einhaltung der Menschenrechte und die Priorisierung der Bedürfnisse von Internet-Nutzer*innen, Medienschaffenden, und vulnerablen und marginalisierten Gruppen im digitalen Zeitalter im Mittelpunkt der europäischen Digitalpolitik stehen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Forderungen des Bündnis F5 zur ersten Digitalministerkonferenz</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/f5-forderungen-dmk/"/>
-    <id>https://okfn.de/publikationen/f5-forderungen-dmk/</id>
-    <published>2024-04-18T00:00:00+0000</published>
-    <updated>2024-04-18T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Mit der Gründung der ersten Digitalministerkonferenz (DMK) am 19. April 2024 in Potsdam setzen sich die 16 Bundesländer das gemeinsame Ziel, die digitale Transformation zum Wohle der Bürger*innen zu gestalten. Die Vision eines offenen, freien, verlässlichen und sicheren Internets kann nur durch eine gemeinwohlorientierte Digitalpolitik unter Einbeziehung der Zivilgesellschaft Wirklichkeit werden. F5 appelliert an die Verantwortlichen der DMK, die in unserem Forderungspapier ausgeführten Anliegen politisch umzusetzen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
