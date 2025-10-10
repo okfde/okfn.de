@@ -1,5 +1,5 @@
 ---
-title: Checklist: Linked Open Data für Verwaltungen
+title: Checklist - Linked Open Data für Verwaltungen
 layout: publikation
 image:
   src: /files/images/learning7.jpg
