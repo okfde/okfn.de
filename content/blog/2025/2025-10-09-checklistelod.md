@@ -26,7 +26,7 @@ Als zentrale Erkenntnis aus zwei Jahren Projektarbeit bleibt, dass sich behörde
 
 ## Wo ist der Bundesnamespace? Wer kümmert sich um Ontologien?
 
-Gleichzeitig wurden durch die Pionierarbeit viele neue Fragen rund um das neu entwickelte Vokabular aufgeworfen. Wohin soll etwa für bundesweit genutzte Konzepte im Haushalt wie z.B. [„Titel“](https://okfde.github.io/lod-budget-vocab/titel) verwiesen werden? Aktuell gibt es keinen  einheitlichen Namespace der Bundesverwaltung, so dass wir als vorübergehenden Workaround das Vokabular selbst bei der OKF hosten. In der Schweiz gibt es beispielsweise mit [ld.admin.ch]( https://lindas.admin.ch/governance/namespaces/) eine solche Stelle, mit dem einheitliche und stabile Identifier für Daten aus der Verwaltung gewährleistet werden. Neben dem Ort stellt sich auch die Frage, wer das Vokabular zukünftig pflegt – ist etwa grundsätzlich die FitKo zuständig, die zwischen den Verwaltungsebenen koordiniert oder in diesem Fall das Bundesfinanzministerium, das den Standard vorgibt? Im Fall des vorliegenden Haushaltsdatenvokabulars haben wir das Hosting derzeit übernommen – sehen hier aber die Behörden in der Pflicht.  
+Gleichzeitig wurden durch die Pionierarbeit viele neue Fragen rund um das neu entwickelte Vokabular aufgeworfen. Wohin soll etwa für bundesweit genutzte Konzepte im Haushalt wie z. B. [„Titel“](https://okfde.github.io/lod-budget-vocab/titel) verwiesen werden? Aktuell gibt es keinen  einheitlichen Namespace der Bundesverwaltung, so dass wir als vorübergehenden Workaround das Vokabular selbst bei der OKF hosten. In der Schweiz gibt es beispielsweise mit [ld.admin.ch]( https://lindas.admin.ch/governance/namespaces/) eine solche Stelle, mit dem einheitliche und stabile Identifier für Daten aus der Verwaltung gewährleistet werden. Neben dem Ort stellt sich auch die Frage, wer das Vokabular zukünftig pflegt – ist etwa grundsätzlich die FitKo zuständig, die zwischen den Verwaltungsebenen koordiniert oder in diesem Fall das Bundesfinanzministerium, das den Standard vorgibt? Im Fall des vorliegenden Haushaltsdatenvokabulars haben wir das Hosting derzeit übernommen – sehen hier aber die Behörden in der Pflicht.  
 
 ## Herzlichen Glückwunsch, Sie haben ein Infrastrukturprojekt abgeschlossen - und jetzt?
 
@@ -35,4 +35,4 @@ Auch der Abschlussbericht der Projektgruppe [„Semantische Interoperabilität�
 
 Die Checkliste kann [hier](https://okfn.de/publikationen/checkliste-lod/) heruntergeladen werden.
 
-Kontakt : Dénes Jäger, denes.jaeger@okfn.de 
+Kontakt: Dénes Jäger, denes.jaeger@okfn.de 
