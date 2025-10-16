@@ -10,7 +10,7 @@ people:
 file: /files/publikationen/2025-ActivismFromWithin.pdf
 format: pdf
 pages: 20
-size: 6,09MB
+size: 9,11MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 date: 2025-10-16
