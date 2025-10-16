@@ -72,4 +72,4 @@ Even if there is no concrete outcome to the exercise, its value lies in the fact
 
 ... to create a climate in which **criticism is possible and acceptable**.
 
-... because power, when distributed well and used correctly, can **achieve a lot of good**
+... because power, when distributed well and used correctly, can **achieve a lot of good**.
