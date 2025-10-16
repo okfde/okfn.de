@@ -1,5 +1,5 @@
 ---
-title: Aktivism from within
+title: Activism from within
 layout: publikation
 image:
   src: /files/images/Learning7.jpg
