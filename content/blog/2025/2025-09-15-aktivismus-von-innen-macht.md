@@ -38,16 +38,16 @@ Nach der Einführung teilt ihr euch in Kleingruppen von bis zu vier Personen. Ih
 Nach etwa 30 Minuten kommen alle wieder zusammen und verorten die Karten auf den Quadranten. Es ist nicht immer eindeutig, wo eine Karte hinpasst. Beispielsweise Community-Mitglieder in Machtposition lassen sich entweder innen oder außen verorten, je nachdem, wie nahe die Community in eure Organisation eingebunden ist. Ihr könnt in dem Fall die Karte duplizieren oder euch für ein Feld entscheiden. Es muss nicht perfekt sein, Unschärfe ist okay.
 
 Ein paar Beispiele:
-  - **Innen, informell**
+**Innen, informell**
     - Freundschaften/Beziehungen im Team; Projektgründer:innen (wenn damit kein formeller Titel verbunden ist), Sitzplatznähe und damit kurzer Draht zur Chefin;
-  - **Innen, formell**
+**Innen, formell**
     - Finanzierungsstruktur; freie Mittel vs. Projektgelder mit Auflagen; interne Gremien, in denen Entscheidungen fallen; 
-  - **Außen, informell**
+**Außen, informell**
     - eine starke Community, deren Meinung die Entscheidungsträger:innen im Team beeinflusst; ein:e Kolleg:in, die öffentlich sehr bekannt ist;
-  - **Außen, formell**
+**Außen, formell**
     - klassische Rollen und Governance-Organe wie Board, Geschäftsführung, Mitgliederversammlung, Teamleitungen und Projektleitungen;
 
-Macht durch gesellschaftliche Privilegien wie *weiß*-sein, Herkunft, Gender, etc. haben wir als informelle Macht verortet, an der Grenze zwischen innen und außen. 
+Macht durch gesellschaftliche Privilegien wie *weiß*-sein, Herkunft, Gender etc. haben wir als informelle Macht verortet, an der Grenze zwischen innen und außen. 
 
 ![Foto von Menschen, die um einen Holztisch sitzen und Karten auflegen](/files/blog/2025/2025-09-Machtstrukturen.jpg)<br>
 *Foto: Team- und Boardmitglieder machen die Übung zu Machtstrukturen auf unserem Retreat.*
