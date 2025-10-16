@@ -39,16 +39,16 @@ After the introduction, you divide into small groups of up to four people. Write
 After about 30 minutes, everyone comes back together and places the cards on the quadrants. It is not always clear where a card belongs. For example, community members in positions of power can be placed either inside or outside, depending on how closely the community is integrated into your organisation. In this case, you can duplicate the card or decide on a field. It does not have to be perfect; some ambiguity is okay.
 
 A few examples:
-  - **·	Internal, informal**
+**·	Internal, informal**
     - Friendships/relationships within the team; project founders (if no formal title is associated with this), a desk close to the boss and therefore a direct line of communication;
-  - **Interal, formal**
+**Interal, formal**
     - Financing structure; unrestricted funds vs. project funds with conditions; internal committees where decisions are made;
-  - **External, informal**
+**External, informal**
     - A strong community whose opinion influences decision-makers within the team; a colleague who is well known publicly;
-  - **External, formal**
+**External, formal**
     - Traditional roles and governance bodies such as the board, management, general meeting, team leads and project managers;
 
-We have identified power through social privileges such as being white, origin, gender, etc. as informal power, on the border between internal and external. 
+We have identified power through social privileges such as being *white*, origin, gender etc. as informal power, on the border between internal and external. 
 
 ![Photograph of people seated around a wooden table, laying cards down](/files/blog/2025/2025-09-Machtstrukturen.jpg)<br>
 *Photo: Team and board members do the exercise on power structures at our retreat.*
