@@ -32,6 +32,6 @@ Im Sinne des Bürokratieabbaus wäre es, wenn sich das Gesetz auf die Kategorie 
 
 ## Open Source als Methode für langlebige Produkte
 
-Der Zugang zu reparaturrelevanten Informationen und Ersatzteilen ist ein Mindestmaß. Für eine effektive Kreislaufgesellschaft muss Technologie grundsätzlich neu gedacht werden. Auf diesen Umstand haben wir bereits zu anderen Anlässen zahlreich hingewiesen, wie z.B. zur [NKWS](https://okfn.de/blog/2024/12/open-source-als-methode-f%C3%BCr-langlebige-produkte/) oder zum sogenannten [Recht auf Reparatur](https://okfn.de/blog/2024/04/eu-parlament-schafft-ein-rechtchen-auf-reparatur/).
+Der Zugang zu reparaturrelevanten Informationen und Ersatzteilen ist ein Mindestmaß. Für eine effektive Kreislaufgesellschaft muss Technologie grundsätzlich neu gedacht werden. Auf diesen Umstand haben wir bereits zu anderen Anlässen zahlreich hingewiesen, wie z. B. zur [NKWS](https://okfn.de/blog/2024/12/open-source-als-methode-f%C3%BCr-langlebige-produkte/) oder zum sogenannten [Recht auf Reparatur](https://okfn.de/blog/2024/04/eu-parlament-schafft-ein-rechtchen-auf-reparatur/).
 
 **[Zur Stellungnahme der Open Knowledge Foundation und der Open Hardware Allianz](https://okfn.de/publikationen/stellungnahme-envkg/)**
