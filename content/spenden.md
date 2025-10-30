@@ -20,5 +20,5 @@ inheritance_text: >
   Erbschaften sind eine besondere Möglichkeit, positiven Einfluss zu hinterlassen. 
   Falls ihr euch nun fragt: „Vererben, aber wie?“ – schaut gerne auf [unserem Blogbeitrag](https://okfn.de/blog/2024/09/spenden-und-erbschaften-f%C3%BCr-die-okf/) vorbei.
 thanks: Dankeschön!
-thanks_copy: "Folgt uns gerne auf unseren Social-Media-Kanälen, um über unsere Arbeit auf dem Laufenden zu sein. Und abonniert gerne unseren Newsletter!"
+thanks_copy: "Folgt uns gerne auf unseren Social-Media-Kanälen und abonniert den Newsletter, um über unsere Arbeit auf dem Laufenden zu sein."
 ---
