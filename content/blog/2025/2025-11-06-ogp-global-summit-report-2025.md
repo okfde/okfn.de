@@ -2,7 +2,7 @@
 authors:
 - Dénes Jäger
 image: 
-  src: /files/blog/2025/2025-11-06_OGPSummit25OKF.jpg
+  src: /files/blog/2025/2025-11-06_OGPSummit25OKF.jpeg
   title: Vertreter:innen aus dem internationalen Open Knowledge Foundation Netzwerk beim Gipfel in Vitoria-Gasteiz
   license: cc by Open Knowledge Foundation
   license_url: https://creativecommons.org/licenses/by/4.0/
