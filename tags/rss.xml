@@ -6,8 +6,22 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OGP</title>
+      <link>https://okfn.de/tags/ogp/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/ogp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenGovernment</title>
+      <link>https://okfn.de/tags/opengovernment/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/opengovernment/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Linked Open Data</title>
       <link>https://okfn.de/tags/linked-open-data/</link>
@@ -1175,13 +1189,6 @@
       <link>https://okfn.de/tags/dst18/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/dst18/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OGP</title>
-      <link>https://okfn.de/tags/ogp/</link>
-      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/ogp/</guid>
       <description></description>
     </item>
     <item>
