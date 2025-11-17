@@ -262,3 +262,9 @@
   startdate: "2025-11-28"
   venue: bUm, Berlin
   show: true
+- name: Jugend hackt in Mannheim
+  url: https://jugendhackt.org/events/rhein-neckar/
+  enddate: "2026-02-08"
+  startdate: "2026-02-06"
+  venue: Jugendkulturzentrum
+  show: true
