@@ -98,6 +98,35 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/okf_stellungnahme_digibeschlg/</loc>
+    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -136,19 +165,6 @@
     <loc>https://okfn.de/blog/2025/11/ogp-global-summit-in-the-basque-country-open-government-remains-a-work-in-progress/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/opengovernment/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -176,19 +192,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/publikationen/aktivismusvoninnen/"
-                />
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
                 />
   </url><url>
     <loc>https://okfn.de/blog/2025/10/checkliste-linked-open-data-f%C3%BCr-verwaltungen/</loc>

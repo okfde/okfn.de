@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2025-10-16T00:00:00+0000</updated>
+  <updated>2025-11-28T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Stellungnahme zum Digitalisierungsbeschleunigungsgesetz Schleswig-Holstein</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/okf_stellungnahme_digibeschlg/"/>
+    <id>https://okfn.de/publikationen/okf_stellungnahme_digibeschlg/</id>
+    <published>2025-11-28T00:00:00+0000</published>
+    <updated>2025-11-28T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Schleswig-Holstein hat einen umfassenden Gesetzentwurf vorgelegt, um die Digitalisierung der Verwaltung voranzutreiben. Im Rahmen des Konsultationsverfahren nehmen wir Stellung zu den Änderungen am EGovG, dem Informationszugangsgesetz, Open-Data-Gesetz und Landesdatenschutzgesetz. Dabei diskutieren wir grundlegende Fragen rund um den Einsatz von Open Source in der Verwaltung, mögliche Verbesserungen bei der Datennutzung, sowie kritisieren weitergehende Verschärfungen am Zugang zu Informationen.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Aktivismus von innen</title>
@@ -152,15 +161,6 @@
     <published>2024-06-20T00:00:00+0000</published>
     <updated>2024-06-20T00:00:00+0000</updated>
     <summary>&lt;p&gt;Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland im Jahr 2023. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Open Data Ranking Deutschland 2024</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/opendataranking24/"/>
-    <id>https://okfn.de/publikationen/opendataranking24/</id>
-    <published>2024-05-29T00:00:00+0000</published>
-    <updated>2024-05-29T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Wir veröffentlichen das erste Open Data Ranking! In Anlehnung an das Transparenzranking blicken wir auf die Open-Data-Landschaft in Deutschland und gehen über das reine Datensätzezählen hinaus. Die Analyse der rechtlichen Rahmenbedingungen, Datenqualität und personellen Ausstattung zeigen, dass es innerhalb Deutschlands erhebliche Unterschiede in Bezug auf Open Data gibt. Während sich einzelne Bundesländer auch schon um Linked Data kümmern, fehlen bei anderen noch jegliche Grundlagen für die Datenbereitstellung.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

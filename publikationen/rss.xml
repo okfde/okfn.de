@@ -5,10 +5,19 @@
     <description>Publikationen on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 16 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stellungnahme zum Digitalisierungsbeschleunigungsgesetz Schleswig-Holstein</title>
+      <link>https://okfn.de/publikationen/okf_stellungnahme_digibeschlg/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/okf_stellungnahme_digibeschlg/</guid>
+      <description>&lt;p&gt;Schleswig-Holstein hat einen umfassenden Gesetzentwurf vorgelegt, um die Digitalisierung der Verwaltung voranzutreiben. Im Rahmen des Konsultationsverfahren nehmen wir Stellung zu den Änderungen am EGovG, dem Informationszugangsgesetz, Open-Data-Gesetz und Landesdatenschutzgesetz. Dabei diskutieren wir grundlegende Fragen rund um den Einsatz von Open Source in der Verwaltung, mögliche Verbesserungen bei der Datennutzung, sowie kritisieren weitergehende Verschärfungen am Zugang zu Informationen.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Aktivismus von innen</title>
