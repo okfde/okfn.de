@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Der Deutschland-Stack: Ein guter Ansatz mit vielen offenen Fragen</title>
+      <link>https://okfn.de/blog/2025/12/der-deutschland-stack-ein-guter-ansatz-mit-vielen-offenen-fragen/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2025/12/der-deutschland-stack-ein-guter-ansatz-mit-vielen-offenen-fragen/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Der Deutschland-Stack: Mit großem Titel und eigener Abteilung im BMDS will das Ministerium Bewegung in die Verwaltungsdigitalisierung bringen. Zu der Frage, was sich hinter dem Namen verbirgt und was das Ministerium vorhat, gibt es seit Anfang Oktober erste Informationen aus dem Ministerium, inklusive eigener Webseite. Dabei bleiben für uns aktuell noch viele Fragen offen.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Die Idee einer umfassenden Betrachtung der IT-Architektur der Verwaltung hat viel Potenzial, Abhängigkeiten entschieden zu bearbeiten und wichtige Basiskomponenten als Teil der Daseinsvorsorge zentral bereitzustellen. Dabei könnte auch neue Bewegung in die dringend notwendige Grundlagenarbeit kommen, insbesondere beim Datenmanagement. Inwiefern der große Wurf nun aber tatsächlich kommen wird, bleibt schwierig abzuschätzen, auch weil es weiterhin an einer klaren Definition mit Zielbild und konkreten Maßnahmen fehlt. Unsere umfassende Kommentierung im Rahmen des Konsultationsverfahrens gibt es &lt;a href=&#34;https://buendnis-f5.de/assets/data/251128_Stellungnahme%20D-Stack%20F5.pdf&#34; target=&#34;_blank&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>OGP Global Summit im Baskenland – Open Goverment bleibt Handarbeit</title>

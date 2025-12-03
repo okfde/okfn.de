@@ -98,8 +98,43 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/ben-burmeister/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2025/12/der-deutschland-stack-ein-guter-ansatz-mit-vielen-offenen-fragen/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -109,6 +144,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
@@ -127,32 +175,6 @@
     <loc>https://okfn.de/publikationen/okf_stellungnahme_digibeschlg/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
-  </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
     <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -167,19 +189,6 @@
   </url><url>
     <loc>https://okfn.de/tags/opengovernment/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/aktivismusvoninnen/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
@@ -275,9 +284,6 @@
   </url><url>
     <loc>https://okfn.de/publikationen/black-box-bildung/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/ben-burmeister/</loc>
-    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/anregungen-staatsmodernisierung/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
@@ -417,9 +423,6 @@
                 hreflang="de"
                 href="https://okfn.de/publikationen/fromsoftwaretosociety/"
                 />
-  </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/05/effizienzmaschine-staat-die-neue-digitalpolitik-soll-jetzt-endlich-liefern.-aber-bitte-auch-f%C3%BCr-alle/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
