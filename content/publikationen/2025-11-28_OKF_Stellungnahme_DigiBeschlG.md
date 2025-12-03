@@ -6,7 +6,7 @@ image:
   src: /files/images/Policy5.jpg
 kategorien: Stellungnahmen
 people:
-- name: Henriette Litta, Ben Burmeister, Denés Jäger
+- name: Henriette Litta, Ben Burmeister, Dénes Jäger
 file: /files/publikationen/2025-11-28_OKF_Stellungnahme_DigiBeschlG.pdf
 format: pdf
 pages: 8
