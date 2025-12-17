@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -111,11 +111,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/ben-burmeister/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -127,14 +124,14 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2025/12/der-deutschland-stack-ein-guter-ansatz-mit-vielen-offenen-fragen/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/jahresr%C3%BCckblick/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -146,8 +143,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
+    <loc>https://okfn.de/blog/2025/12/okf-jahresr%C3%BCckblick-das-war-unser-jahr-2025/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -158,6 +158,15 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/ben-burmeister/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2025/12/der-deutschland-stack-ein-guter-ansatz-mit-vielen-offenen-fragen/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
@@ -1384,9 +1393,6 @@
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/02/10-jahre-okf-zahlen-und-fakten/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/okf/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2021/02/die-okf-wird-10-jahre-alt/</loc>

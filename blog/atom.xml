@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-12-03T00:00:00+0000</updated>
+  <updated>2025-12-17T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>OKF Jahresrückblick: Das war unser Jahr 2025!</title>
+    <link rel="alternate" href="https://okfn.de/blog/2025/12/okf-jahresr%C3%BCckblick-das-war-unser-jahr-2025/"/>
+    <id>https://okfn.de/blog/2025/12/okf-jahresr%C3%BCckblick-das-war-unser-jahr-2025/</id>
+    <published>2025-12-17T00:00:00+0000</published>
+    <updated>2025-12-17T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Das Jahr neigt sich dem Ende zu, und wir blicken auf zwölf ereignisreiche und politisch turbulente Monate zurück. In diesem Rückblick richten wir den Fokus auf unsere Bereiche Policy, Open Data und Organisationsentwicklung, in denen wir viel geschafft und vorangetrieben haben.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mit unserer Arbeit stellen wir destruktiven Kräften eine positive Vision entgegen: eine demokratische, transparente und widerstandsfähige Gesellschaft durch Offenheit, kollaborative Prozesse und zivilgesellschaftliches Engagement. Die Bereiche Policy, Open Data und Organisationsentwicklung leisten einen wichtigen Beitrag in enger Zusammenarbeit mit unseren Projekten wie FragDenStaat, Jugend hackt und dem Prototype Fund. Sie stärken die Strukturen und das Engagement der OKF maßgeblich und bestimmen, wie belastbar und zukunftsfähig unser Gesamtengagement ist. Sie schaffen somit die Voraussetzungen dafür, dass all unsere Programme und Projekte wirken können.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Der Deutschland-Stack: Ein guter Ansatz mit vielen offenen Fragen</title>
@@ -151,16 +161,6 @@ In &lt;strong&gt;part 1&lt;/strong&gt;, we show how we organise ourselves intern
     <updated>2025-08-29T00:00:00+0000</updated>
     <summary>&lt;p&gt;&lt;em&gt;Wir veröffentlichen eine &lt;a href=&#34;https://okfn.de/publikationen/black-box-bildung/&#34; target=&#34;_blank&#34;&gt;Kurzstudie zu den Potenzialen von Schuldaten für ein lernendes Schulsystem&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Das deutsche Schulsystem ist eine Blackbox. Es gibt kaum Länder, die so wenig über ihre Schulen wissen, wie Deutschland. Dabei werden in Deutschland durchaus Daten erhoben und das schon seit Jahren. Doch die sind oft nicht miteinander vergleichbar, nur bruchstückhaft vorhanden, werden nicht bereitgestellt oder haben schlicht keine gute Qualität. Dies gilt sowohl im Vergleich zu Schuldaten vieler anderer Länder als auch im Vergleich zu anderen Daten, die in Deutschland erhoben werden, etwa Arbeitsmarktdaten, welche von sehr hoher Qualität sind und professionell verwaltet werden. “Wir sind [unterentwickelt]¹, was das Monitoring unserer Bildungsergebnisse angeht und liegen auch im internationalen Vergleich weit hinter Ländern wie den Niederlanden, den USA oder Großbritannien.”, &lt;a href=&#34;https://www.campus-schulmanagement.de/magazin/studie-zum-corona-aufholprogramm-gezielte-investitionen-wurden-in-den-meisten-bundeslaendern-vermieden&#34; target=&#34;_blank&#34;&gt;kritisiert etwa der Bildungssoziologe Marcel Helbig&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Handlungsfähigkeit und Vertrauen zusammendenken – Anregungen für die Staatsmodernisierung</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/08/handlungsf%C3%A4higkeit-und-vertrauen-zusammendenken-anregungen-f%C3%BCr-die-staatsmodernisierung/"/>
-    <id>https://okfn.de/blog/2025/08/handlungsf%C3%A4higkeit-und-vertrauen-zusammendenken-anregungen-f%C3%BCr-die-staatsmodernisierung/</id>
-    <published>2025-08-19T00:00:00+0000</published>
-    <updated>2025-08-19T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Der deutsche Staat soll handlungsfähiger werden – so sieht es der Koalitionsvertrag vor, so forderten es verschiedenste Akteur:innen in den letzten Monaten ein. Mit der gewaltigen Aufgabe der Staatsmodernisierung muss sich in dieser Legislaturperiode das neue Bundesministerium für Digitales und Staatsmodernisierung befassen, welches im Herbst seine Arbeitsagenda für den Bericht vorstellen möchte.&lt;/p&gt;
-&lt;p&gt;In der bisherigen Debatten wird dabei ein klarer Fokus auf die Frage der Handlungsfähigkeit gelenkt. Das laut Koalitionsvertrag damit verbundene Ziel – mehr Vertrauen der Bürger:innen – wird lediglich als Ergebnis einer erfolgreichen Politik verstanden.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
