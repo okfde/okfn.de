@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2025-12-17T00:00:00+0000</updated>
+  <updated>2026-01-08T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Das war die PIAZZA 2025</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/01/das-war-die-piazza-2025/"/>
+    <id>https://okfn.de/blog/2026/01/das-war-die-piazza-2025/</id>
+    <published>2026-01-08T00:00:00+0000</published>
+    <updated>2026-01-08T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Am 06.11.2025 fand wieder die PIAZZA-Konferenz für digitale Verwaltung und Gesellschaft statt. Zum fünften Mal trafen sich online Teilnehmer:innen aus Verwaltung, Wissenschaft und Zivilgesellschaft, um in acht interaktiven Workshops, zentrale Fragen der digitalen Transformation von Staat und Gesellschaft zu diskutieren. Ziel der Konferenz ist die Entwicklung von gemeinsamen Lösungsansätzen über Sektor- und Disziplingrenzen hinweg.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Auch die Open Knowledge Foundation war wieder als Trägerorganisation dabei, neben dem Kompetenzzentrum Öffentliche IT (ÖFIT), NExT e. V. und der Gesellschaft für Informatik e. V. Zum Auftakt der Veranstaltung begrüßte unsere Geschäftsführerin Dr. Henriette Litta dabei insbesondere, dass die PIAZZA über die reine Problembenennung hinausgehe und konkrete, praxisnahe Lösungen biete. Ein moderner Staat müsse mehr leisten als Effizienzsteigerung: Offenheit, Partizipation und Lernfähigkeit seien zentrale Voraussetzungen für nachhaltige digitale Transformation. Eine Schlüsselrolle spielten dabei der Kompetenzaufbau und die Zusammenarbeit über föderale Ebenen hinweg.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>OKF Jahresrückblick: Das war unser Jahr 2025!</title>
@@ -151,16 +161,6 @@ In &lt;strong&gt;part 1&lt;/strong&gt;, we show how we organise ourselves intern
     <updated>2025-09-09T00:00:00+0000</updated>
     <summary>&lt;p&gt;NGOs und gemeinnützige Organisationen arbeiten stets daran, die Gesellschaft nachhaltig zu verändern. Auch die OKF arbeitet in ihren vielen Projekten an sozialer Gerechtigkeit und Teilhabe auf vielen Ebenen. Oft fehlt Organisationen jedoch der Blick nach innen. Mit dieser neuen Serie möchten wir transparent darstellen: &lt;em&gt;Wie treffen wir Entscheidungen? Wie verteilen wir Macht? Wie gestalten wir Zusammenarbeit?&lt;/em&gt; &lt;a href=&#34;https://okfn.de/aktivismus-von-innen/&#34; target=&#34;_blank&#34;&gt;„Aktivismus von innen“&lt;/a&gt; setzt genau da an.&lt;/p&gt;
 &lt;p&gt;In den kommenden drei Wochen geben wir euch einen Einblick in unsere Strukturen und teilen Erfahrungen, Herausforderungen und Tools, wie wir unsere gesellschaftlichen Forderungen intern umsetzen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Ergebnisse der Studie „Black Box Bildung“</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/08/ergebnisse-der-studie-black-box-bildung/"/>
-    <id>https://okfn.de/blog/2025/08/ergebnisse-der-studie-black-box-bildung/</id>
-    <published>2025-08-29T00:00:00+0000</published>
-    <updated>2025-08-29T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;em&gt;Wir veröffentlichen eine &lt;a href=&#34;https://okfn.de/publikationen/black-box-bildung/&#34; target=&#34;_blank&#34;&gt;Kurzstudie zu den Potenzialen von Schuldaten für ein lernendes Schulsystem&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Das deutsche Schulsystem ist eine Blackbox. Es gibt kaum Länder, die so wenig über ihre Schulen wissen, wie Deutschland. Dabei werden in Deutschland durchaus Daten erhoben und das schon seit Jahren. Doch die sind oft nicht miteinander vergleichbar, nur bruchstückhaft vorhanden, werden nicht bereitgestellt oder haben schlicht keine gute Qualität. Dies gilt sowohl im Vergleich zu Schuldaten vieler anderer Länder als auch im Vergleich zu anderen Daten, die in Deutschland erhoben werden, etwa Arbeitsmarktdaten, welche von sehr hoher Qualität sind und professionell verwaltet werden. “Wir sind [unterentwickelt]¹, was das Monitoring unserer Bildungsergebnisse angeht und liegen auch im internationalen Vergleich weit hinter Ländern wie den Niederlanden, den USA oder Großbritannien.”, &lt;a href=&#34;https://www.campus-schulmanagement.de/magazin/studie-zum-corona-aufholprogramm-gezielte-investitionen-wurden-in-den-meisten-bundeslaendern-vermieden&#34; target=&#34;_blank&#34;&gt;kritisiert etwa der Bildungssoziologe Marcel Helbig&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

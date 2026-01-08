@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -112,7 +112,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,14 +124,14 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/jahresr%C3%BCckblick/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2026/01/das-war-die-piazza-2025/</loc>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/okf/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -143,11 +143,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2025/12/okf-jahresr%C3%BCckblick-das-war-unser-jahr-2025/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/piazza/</loc>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -158,6 +158,18 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/verwaltung/</loc>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/jahresr%C3%BCckblick/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2025/12/okf-jahresr%C3%BCckblick-das-war-unser-jahr-2025/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/ben-burmeister/</loc>
     <lastmod>2025-12-03T00:00:00+00:00</lastmod>
@@ -440,12 +452,6 @@
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/04/piazza-konferenz-2025-call-for-workshops/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/verwaltung/</loc>
-    <lastmod>2025-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/zivilgesellschaft/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/04/beyond-education-die-bildungskonferenz-von-jugend-hackt/</loc>
