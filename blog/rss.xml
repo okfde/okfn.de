@@ -5,10 +5,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Menstrual Leave Policy</title>
+      <link>https://okfn.de/blog/2026/01/menstrual-leave-policy/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2026/01/menstrual-leave-policy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Die &lt;a href=&#34;https://taz.de/Geschlechtergerechte-Arbeitswelt/!6143993/&#34; target=&#34;_blank&#34;&gt;taz&lt;/a&gt; hat über die OKF berichtet: In vielen Ländern und Unternehmen wird diskutiert, ob Menstruationsschmerzen und zyklusbedingte Beschwerden durch zusätzliche freie Tage als Teil einer geschlechtergerechten Arbeitswelt anerkannt werden sollten.&lt;/strong&gt; Solche Regelungen gibt es in einigen Ländern gesetzlich (z. B. in Japan, Südkorea und Taiwan) und in vielen Unternehmen freiwillig. &lt;strong&gt;Bei uns gibt es dieses Modell bereits seit 2021, verankert in unserer Menstrual Leave Policy. Wir haben mit Sonja, unserer Organisationsentwicklerin, darüber gesprochen.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Das war die PIAZZA 2025</title>
