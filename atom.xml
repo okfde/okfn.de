@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-01-14T00:00:00+0000</updated>
+  <updated>2026-01-15T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Menstrual Leave Policy – english</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/01/menstrual-leave-policy-english/"/>
+    <id>https://okfn.de/blog/2026/01/menstrual-leave-policy-english/</id>
+    <published>2026-01-15T00:00:00+0000</published>
+    <updated>2026-01-15T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://taz.de/Geschlechtergerechte-Arbeitswelt/!6143993/&#34; target=&#34;_blank&#34;&gt;taz&lt;/a&gt; newspaper reported on OKF: In many countries and companies, there is a debate about whether menstrual pain and cycle-related discomfort should be recognised as grounds for additional days off as part of a gender-equitable working environment.&lt;/strong&gt; Such regulations exist in some countries by law (e.g. in Japan, South Korea and Taiwan) and voluntarily in many companies. &lt;strong&gt;We have had this model in place since 2021, anchored in our Menstrual Leave Policy. We spoke to Sonja Fischbauer, our organisational developer, about it.&lt;/strong&gt;&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Menstrual Leave Policy</title>
@@ -149,17 +158,6 @@
     <summary>&lt;p&gt;&lt;strong&gt;In diesem Artikel zeigen wir, wie wir uns intern organisieren. Wir beschreiben unsere Strukturen, mit denen wir Mitbestimmung fördern und Macht verteilen.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In unserer inhaltlichen Arbeit streben wir nach einer demokratischen, nachhaltigen und resilienten Zukunft, die auf Offenheit, Teilhabe und Transparenz basiert. Damit wir dem Anspruch auch innerhalb unserer Organisation gerecht werden, müssen wir unsere interne Zusammenarbeit gut organisieren: Wir brauchen ein solides Governance-Modell.&lt;/p&gt;
 &lt;p&gt;Ein Governance-Modell ist ein Plan dafür, wie Menschen in einer Gruppe Entscheidungen treffen. Es regelt Fragen wie: &lt;em&gt;Wer darf was entscheiden? Wer ist wofür verantwortlich?&lt;/em&gt;&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Activism from Within - Introduction</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/09/activism-from-within-introduction/"/>
-    <id>https://okfn.de/blog/2025/09/activism-from-within-introduction/</id>
-    <published>2025-09-09T00:00:00+0000</published>
-    <updated>2025-09-09T00:00:00+0000</updated>
-    <summary>&lt;p&gt;NGOs and non-profit organisations are constantly working to bring about lasting change in society. OKF also works towards social justice and participation on many levels in its numerous projects. However, organisations often lack an inward perspective. With this new series, we want to provide transparency: &lt;em&gt;How do we make decisions? How do we distribute power? How do we shape collaboration?&lt;/em&gt;&lt;br&gt; &lt;a href=&#34;https://okfn.de/aktivismus-von-innen/&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;Activism from Within&amp;rsquo;&lt;/a&gt; addresses precisely these issues.&lt;/p&gt;
-&lt;p&gt;Over the next three weeks, we will give you an insight into our structures and share experiences, challenges and tools for implementing our social demands internally.
-In &lt;strong&gt;part 1&lt;/strong&gt;, we show how we organise ourselves internally. We describe the structures we use to promote co-determination and distribute power. In &lt;strong&gt;part 2&lt;/strong&gt;, we share instructions for an exercise we use to facilitate discussions about power structures in our organisation. And finally, in &lt;strong&gt;part 3&lt;/strong&gt;, we share our first version of a conflict routine: instructions on how to proceed when you find yourself in a conflict.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
