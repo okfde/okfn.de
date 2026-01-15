@@ -5,6 +5,7 @@ image:
   src: /files/blog/2026/2026-01-Menstrual Leave Policy.png
 tags:
 - Menstrual Leave Policy
+- Aktivismus von innen
 - Interview
 type: post
 layout: post
