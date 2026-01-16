@@ -12,8 +12,6 @@ website: https://hardware.prototypefund.de/
 people:
   - name: Maximilian Voigt
     role: Project lead
-  - name: Jules Strahlmann
-    role: Student assistant
 contact:
   twitter:
   mail: maximilian.voigt@okfn.de
@@ -24,6 +22,7 @@ years: 2021 - heute
 weight: 2
 partners:
 financing:
+  - BMBF
   - BMUV
 more_text: |-
     
