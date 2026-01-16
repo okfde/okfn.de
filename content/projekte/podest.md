@@ -4,6 +4,7 @@ kategorien:
 title: PODEST
 subtitle: Potentiale von Open Source Hardware für die dezentrale Energieversorgung
 layout: project
+img_header: projects/podest.png
 people:
   - name: Maximilian Voigt
     role: Projektleiter
