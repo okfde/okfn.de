@@ -2,7 +2,7 @@
 authors:
 - Maximilian Voigt
 image:
-  src: /files/projects/podest_header.png
+  src: /files/projects/podest.png
 tags:
 - Open Hardware
 - Energietechnik
