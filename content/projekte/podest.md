@@ -2,17 +2,15 @@
 kategorien:
   - Civic Tech
 title: PODEST
+subtitle: Potentiale von Open Source Hardware für die dezentrale Energieversorgung
 layout: project
 people:
   - name: Maximilian Voigt
     role: Projektleiter
 contact:
   mail: maximilian.voigt@okfn.de
-
-subtitle: Potentiale von Open Source Hardware für die dezentrale Energieversorgung
 contact_person: maximilianvoigt
 years: 2025 - heute
-weight: 2
 partners: TU-Berlin, BTU Cottbus
 financing:
   - BMWE
