@@ -98,11 +98,8 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/activism-from-within/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -115,7 +112,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -126,6 +123,60 @@
                 hreflang="de"
                 href="https://okfn.de/blog/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/civic-tech/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/civic-tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/civic-tech/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/energietechnik/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2026/01/projektstart-podest-offene-hardware-f%C3%BCr-eine-demokratische-energiewende/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/activism-from-within/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/interview/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
@@ -138,32 +189,6 @@
   </url><url>
     <loc>https://okfn.de/authors/okf/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/aktivismus-von-innen/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
@@ -277,9 +302,6 @@
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/stellungnahme-envkg/</loc>
-    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/produkttransparenz/</loc>
@@ -594,27 +616,11 @@
     <loc>https://okfn.de/tags/nkws/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2024/12/open-source-als-methode-f%C3%BCr-langlebige-produkte/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/11/bewerbungsstart-f%C3%BCr-jahrgang-01-des-prototype-fund/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/civic-tech/</loc>
-    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/civic-tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/civic-tech/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2024/10/prototpye-fund-hardware-runde-2-open-hardware-f%C3%BCr-den-umweltschutz/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
