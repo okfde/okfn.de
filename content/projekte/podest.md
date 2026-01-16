@@ -11,7 +11,9 @@ contact:
   mail: maximilian.voigt@okfn.de
 contact_person: maximilianvoigt
 years: 2025 - heute
-partners: "TU-Berlin, BTU Cottbus"
+partners:
+  - TU-Berlin
+  - BTU Cottbus
 financing:
   - BMWE
 more_text: |-
