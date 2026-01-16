@@ -3,8 +3,6 @@ kategorien:
   - Civic Tech
 title: PODEST
 layout: project
-img: projects/pf_oshw.png
-img_header: projects/pf-hardware-pattern.png
 people:
   - name: Maximilian Voigt
     role: Projektleiter
