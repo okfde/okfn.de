@@ -4,6 +4,7 @@ authors:
 - Dénes Jäger
 image: 
   src: /files/blog/2026/2026-01-Resilienz_Cc Erik van Dijk.png
+  license: CC by Erik van Dijk
   title:
 tags:
 - Infrastruktur
