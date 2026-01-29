@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-01-16T00:00:00+0000</updated>
+  <updated>2026-01-29T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Transparenz ist nicht das Problem: Öffentliche Stellen brauchen widerstandsfähige Strukturen und Informationsmanagement</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/01/transparenz-ist-nicht-das-problem-%C3%B6ffentliche-stellen-brauchen-widerstandsf%C3%A4hige-strukturen-und-informationsmanagement/"/>
+    <id>https://okfn.de/blog/2026/01/transparenz-ist-nicht-das-problem-%C3%B6ffentliche-stellen-brauchen-widerstandsf%C3%A4hige-strukturen-und-informationsmanagement/</id>
+    <published>2026-01-29T00:00:00+0000</published>
+    <updated>2026-01-29T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Nach Angriffen auf Kritische Infrastruktur (KRITIS), wie jüngst auf die Berliner Stromversorgung, mehren sich Rufe aus der Politik nach einer Neubewertung von Transparenz und Offenheit. Statt um den Aufbau resilienter Strukturen geht es um einen Abbau von Veröffentlichungspflichten. Dabei ist ein besserer Informationsfluss für die Erstellung eines großen Lagebilds im Krisenfall unabdingbar. Auch nichtstaatliche Akteur:innen spielen bei Prävention und Versorgung eine große Rolle und müssen darüber hinaus in der Lage sein, die Vorkehrungen des Staates überprüfen zu können.&lt;/strong&gt;&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Projektstart PODEST: Offene Hardware für eine demokratische Energiewende</title>
@@ -146,17 +155,6 @@
     <summary>&lt;p&gt;&lt;strong&gt;In this article, we share instructions for an exercise we developed to facilitate conversations about power structures in our organisation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;For a democratic, sustainable and resilient future, we demand transparency, participation and cooperation on an equal footing from politicians. In our organisation, we strive to not only represent these values externally, but also to live them internally.&lt;/p&gt;
 &lt;p&gt;It is important to talk openly and calmly about power structures so that we can fulfil our demands for transparency and justice internally. This is an honourable approach, but one that is often difficult to implement in practice. Even if we have flat, transparent hierarchies, unspoken power relations and routines will form outside the official channels. The less they are addressed, the more entrenched they become. We must review formal structures to ensure that they have sufficient counterbalances and control mechanisms. We must recognise and name informal power so that it is not distributed unfairly.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Developing decision-making structures - How we organise our collaboration</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/09/developing-decision-making-structures-how-we-organise-our-collaboration/"/>
-    <id>https://okfn.de/blog/2025/09/developing-decision-making-structures-how-we-organise-our-collaboration/</id>
-    <published>2025-09-10T00:00:00+0000</published>
-    <updated>2025-09-10T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;strong&gt;In this article, we show how we organise ourselves internally. We describe the structures we use to promote co-determination and distribute power.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In our work, we strive for a democratic, sustainable and resilient future based on openness, participation and transparency. In order to live up to this aspiration within our organisation, we need to organise our internal collaboration accordingly: we need a solid governance model.&lt;/p&gt;
-&lt;p&gt;A governance model is a plan for how people in a group make decisions. It regulates questions such as: &lt;em&gt;Who is allowed to decide what? Who is responsible for what?&lt;/em&gt;&lt;/p&gt;</summary>
   </entry>
   
 </feed>

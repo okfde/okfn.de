@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -112,7 +112,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -123,6 +123,50 @@
                 hreflang="de"
                 href="https://okfn.de/blog/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/christina-willems/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/infrastruktur/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/resilienz/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/transparenz/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2026/01/transparenz-ist-nicht-das-problem-%C3%B6ffentliche-stellen-brauchen-widerstandsf%C3%A4hige-strukturen-und-informationsmanagement/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/civic-tech/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
@@ -143,37 +187,11 @@
     <loc>https://okfn.de/authors/maximilian-voigt/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/open-hardware/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2026/01/projektstart-podest-offene-hardware-f%C3%BCr-eine-demokratische-energiewende/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/activism-from-within/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
@@ -238,9 +256,6 @@
   </url><url>
     <loc>https://okfn.de/publikationen/okf_stellungnahme_digibeschlg/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/ogp/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
@@ -591,9 +606,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/christina-willems/</loc>
-    <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
@@ -1180,9 +1192,6 @@
     <loc>https://okfn.de/authors/felix-reda/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/infrastruktur/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/2022/03/sovereign-tech-fund-bundestag-muss-open-source-im-haushalt-verankern/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -1193,9 +1202,6 @@
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2022/03/neu-wir-starten-koalitionstracker-um-regierungsarbeit-zu-kontrollieren/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/transparenz/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/advocacy/</loc>

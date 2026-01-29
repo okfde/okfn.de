@@ -5,10 +5,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Transparenz ist nicht das Problem: Öffentliche Stellen brauchen widerstandsfähige Strukturen und Informationsmanagement</title>
+      <link>https://okfn.de/blog/2026/01/transparenz-ist-nicht-das-problem-%C3%B6ffentliche-stellen-brauchen-widerstandsf%C3%A4hige-strukturen-und-informationsmanagement/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2026/01/transparenz-ist-nicht-das-problem-%C3%B6ffentliche-stellen-brauchen-widerstandsf%C3%A4hige-strukturen-und-informationsmanagement/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Nach Angriffen auf Kritische Infrastruktur (KRITIS), wie jüngst auf die Berliner Stromversorgung, mehren sich Rufe aus der Politik nach einer Neubewertung von Transparenz und Offenheit. Statt um den Aufbau resilienter Strukturen geht es um einen Abbau von Veröffentlichungspflichten. Dabei ist ein besserer Informationsfluss für die Erstellung eines großen Lagebilds im Krisenfall unabdingbar. Auch nichtstaatliche Akteur:innen spielen bei Prävention und Versorgung eine große Rolle und müssen darüber hinaus in der Lage sein, die Vorkehrungen des Staates überprüfen zu können.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Projektstart PODEST: Offene Hardware für eine demokratische Energiewende</title>
