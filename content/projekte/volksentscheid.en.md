@@ -24,7 +24,6 @@ people:
   role: Initiatorin
 - name: Leonard Wolf
   role: Initiator
-website: https://volksentscheid-transparenz.de
 contact:
   github: https://github.com/okfde/volksentscheid-transparenz.de
   twitter: transparenzBER

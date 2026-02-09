@@ -6,7 +6,6 @@ website: https://openbudgets.eu
 img: projects/openbudgets.png
 layout: project
 background: backgrounds/openbudgets.png
-years: 2011-heute
 financing:
   - EU Horizon 2020
 years: 2015-2017

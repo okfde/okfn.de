@@ -10,7 +10,6 @@ people:
     role: Koordination
 financing:
   -  volunteer project
-website: https://refugeephrasebook.de
 contact:
   twitter: info_rpb
   github: https://github.com/refugee-phrasebook/

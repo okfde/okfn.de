@@ -4,7 +4,6 @@ title: BIG
 website: https://big-project.eu
 img: projects/big.jpg
 layout: project
-website: http://big-project.eu
 financing:
   -  FP7
 years: 2012 - 2014

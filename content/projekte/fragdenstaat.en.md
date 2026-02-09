@@ -1,5 +1,4 @@
 ---
-type: politics
 categories:
   - Open Government
   - community

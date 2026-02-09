@@ -19,7 +19,6 @@ years: 2018 - 2019
 people:
   - name: Bela Seeger
     role: Projektleitung
-website: https://turing-bus.de
 contact:
   mail: bela.seeger@okfn.de
 ---

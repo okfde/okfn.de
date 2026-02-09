@@ -1,5 +1,4 @@
 ---
-type: politics
 kategorien:
   - Offenes Regierungshandeln
   - Community

@@ -10,8 +10,6 @@ kategorien:
 categories:
   - Community
   - Civic Tech
-tile: double
-layout: project
 img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
