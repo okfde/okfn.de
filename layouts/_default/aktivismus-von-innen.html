@@ -26,7 +26,7 @@
 </div>
 
 <div class="container mt-d">
-    {{ $blogposts := (where .Site.AllPages "Section" "blog") }}
+    {{ $blogposts := (where .Site.RegularPages "Section" "blog") }}
 
     {{ $tag := "" }}
     {{ if eq .Site.Language.Lang "de" }}

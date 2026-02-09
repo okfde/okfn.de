@@ -40,16 +40,6 @@
     </div>
   </header>
 
-  {{ if eq .Lang "en"}}
-  <div class="container mb-d">
-    <div class="row">
-      <p class="col col-sm-10 col-md-6">Please note that we usually do not translate our blog posts. <br>For this reason we're displaying all blog posts regardless of their language.</p>
-    </div>
-  </div>
-  {{ end }}
-
-
-
   <div id="js-blog-index">
     {{ $nate := .Paginate (where .Site.RegularPages "Section" "blog") }}
 

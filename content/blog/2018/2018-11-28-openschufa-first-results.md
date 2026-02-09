@@ -14,6 +14,7 @@ layout: post
 card: true
 title: 'OpenSchufa: The first results'
 publishedDate: 2018-11-28
+translationKey: openschufa-results-blogpost
 ---
 
 Today the first analyses of OpenSchufa dataset are published. The data teams and editorial offices of Bayerischer Rundfunk and SpiegelOnline  have evaluated the anonymous data that we have collected with the help of our "mydata" project [OpenSchufa](https://okfn.de/blog/tags/openschufa/) since this spring.

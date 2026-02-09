@@ -15,6 +15,7 @@ layout: post
 card: true
 title: 'Finally: Open Company Data!'
 publishedDate: 2019-02-06
+translationKey: handelsregister-blogpost
 ---
 
 Today, together with [OpenCorporates](https://blog.opencorporates.com/2019/02/06/german-company-data-now-available-for-download-via-open-knowledge-deutschland/), we make information from the German company register and its announcements accessible as open data on [OffeneRegister.de](https://offeneregister.de/). For the first time, data such as the registered office, legal form and authorised representatives of 5.1 million German companies, foundations and associations are openly and freely available on the Internet.
