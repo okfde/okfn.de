@@ -13,7 +13,6 @@ tags:
 - CCC
 - Chaos Communication Congress
 title: "Die OKF-Familie auf dem 32C3" 
-type: post
 ---
 
 *Zwischen Hamburg und Berlin, 31.12.2015* – Chaos, Spaß und Kommunikation: Wir waren in Hamburg beim [32. Chaos Communication Congress oder kurz 32C3](http://www.ccc.de). Der [Chaos Communication Congress](https://de.wikipedia.org/wiki/Chaos_Communication_Congress) ist ein mehrtägiges, in Deutschland stattfindendes Treffen der internationalen Hackerszene, das vom Chaos Computer Club (CCC) ausgerichtet und organisiert wird. Der Kongress widmet sich in zahlreichen Vorträgen und Workshops technischen und gesellschaftspolitischen Themen. Über 13.000 Teilnehmer\*innen waren Ende Dezember 2015 in Hamburg mit dabei. 

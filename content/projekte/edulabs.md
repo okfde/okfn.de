@@ -1,5 +1,4 @@
 ---
-type: education
 kategorien:
   - Bildung
 categories:

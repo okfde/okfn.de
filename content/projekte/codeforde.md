@@ -8,8 +8,6 @@ tileclass: dark
 kategorien:
   - Community
   - Civic Tech
-tile: double
-layout: project
 weight: 5
 img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png

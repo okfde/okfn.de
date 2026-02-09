@@ -1,14 +1,12 @@
 ---
 title: Prototype Fund
 subtitle: Ideen erproben - Offenheit schaffen
-type: research
 kategorien:
   - Civic Tech
   - Community
   - Public Interest Tech
 tile: double
 type: featured
-website: https://prototypefund.de
 img: projects/PrototypeFund_Projektuebersicht_bigTile.png
 img_square: projects/PrototypeFund_logo_icon_dark.svg
 img_header: projects/PrototypeFund_Header.png
