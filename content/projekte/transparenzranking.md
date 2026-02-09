@@ -9,7 +9,6 @@ kategorien:
 categories:
   - Open Government
   - Informationsfreiheit
-img: projects/dummy_Projektuebersicht_smallTile.png
 img_header: projects/Transparenzranking_Header.png
 img: projects/Transparenzranking_Projektuebersicht_smallTile.png
 layout: project

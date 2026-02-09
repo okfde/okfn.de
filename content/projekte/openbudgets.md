@@ -15,8 +15,6 @@ categories:
   - Civic Tech
 background: backgrounds/openbudgets.png
 img_header: projects/OpenBudgets_Header.png
-img: projects/openbudgets_Projektuebersicht_smallTile.png
-years: 2011-heute
 financing:
   - EU Horizon 2020
 years: 2015-2017

@@ -16,7 +16,6 @@ people:
 years: 2011 - 2020
 financing:
   - ehrenamtliches Projekt
-website: https://kleineanfragen.de
 contact:
   website: https://kleineanfragen.de
   twitter: kleineanfragen

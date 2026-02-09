@@ -1,7 +1,6 @@
 ---
 type: archive
 title: Refugeephrasebook
-website: https://refugeephrasebook.de
 img: projects/refugeephrasebook.jpg
 years: 2015 - 2016
 layout: project
