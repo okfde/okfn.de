@@ -10,6 +10,7 @@ tags:
 type: post
 layout: post
 card: true
+translationKey: openschufa-blogpost
 title: 'Get involved: We crack the Schufa!'
 publishedDate: 2018-02-14
 ---

@@ -11,6 +11,7 @@ tags:
 type: post
 layout: post
 card: true
+translationKey: openschufa-blogpost
 title: "Jetzt mitmachen: Wir knacken die Schufa! (Update)" 
 ---
 

@@ -21,16 +21,21 @@
       </li>
       {{ end }}
 
-      {{ $langList := (.Page.AllTranslations) }}
-      {{ $currentLang := .Language}}
-      {{ $lenLangList := len $langList}}
-      <li>{{ range $index, $translation := $langList }}
-        <a href="{{ $translation.Permalink }}" class="{{ if ne $currentLang .Language}}inactive{{ end }}">{{ $translation.Language.LanguageName }}</a>
-        {{ if (eq $index 0) }}|{{ end }}
-        {{ if (eq $lenLangList 1)}}
-        <a href="{{ $translation.Permalink}}">EN</a>
-        {{ end }}
-        {{ end }}
+      <li class="c__nav-list--lang">
+        {{- $currentPage := . -}}
+        {{- range .Site.Languages -}}
+          {{- $lang := . -}}
+          {{- if eq $lang.Lang $.Site.Language.Lang -}}
+            <span class="active">{{ $lang.LanguageName }}</span>
+          {{- else -}}
+            {{- $translation := index (where $currentPage.Translations "Lang" $lang.Lang) 0 -}}
+            {{- if $translation -}}
+              <a href="{{ $translation.Permalink }}">{{ $lang.LanguageName }}</a>
+            {{- else -}}
+              <span class="disabled">{{ $lang.LanguageName }}</span>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
       </li>
       <li class="l__search__btn">
         <button class="" id="js-search-button">
