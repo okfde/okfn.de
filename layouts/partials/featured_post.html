@@ -1,4 +1,4 @@
-{{ range first 1 (where .Site.AllPages.ByDate.Reverse "Params.featured" "ne" nil) }}
+{{ range first 1 (where .Site.RegularPages.ByDate.Reverse "Params.featured" "ne" nil) }}
 <a class="c__post--featured c__post__bg--{{.Params.featured}}" href="{{ .Permalink }}" title="{{ .Title }}">
     <h2 class="h3">{{ .Title }}</h2>
     <time datetime="{{.Date}}">{{ .Date.Format "02.01.2006" }}</time>

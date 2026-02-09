@@ -15,6 +15,7 @@ card: true
 title: 'Jetzt mitmachen: Topf Secret!'
 featured: yellow
 publishedDate: 2019-01-14
+translationKey: topf-secret-blogpost
 ---
 
 Heute launchen wir gemeinsam mit foodwatch „Topf Secret“ – eine Plattform gegen Geheimniskrämerei bei Lebensmittelbehörden. Auf ihr können Verbraucher*innen Ergebnisse von Hygienekontrollen in Restaurants, Bäckereien, Supermärkten & Co. abfragen.
