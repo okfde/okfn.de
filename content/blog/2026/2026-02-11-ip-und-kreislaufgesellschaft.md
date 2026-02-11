@@ -2,7 +2,7 @@
 authors:
 - Maximilian Voigt
 image:
-  src: /files/blog/2026/iphone-mit-pentalobe-schraube.jpg
+  src: /files/blog/2026/iphone-mit-pentalobe-schraube_small.jpg
 tags:
 - Kreislaufgesellschaft
 - IP-Recht
