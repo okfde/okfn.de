@@ -3,8 +3,6 @@ authors:
 - Maximilian Voigt
 image:
   src: /files/blog/2026/iphone-mit-pentalobe-schraube.jpg
-  license: Pentalobe Schraube, cc by 4.0 OKF DE
-  license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 - Kreislaufgesellschaft
 - IP-Recht
