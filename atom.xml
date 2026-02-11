@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-01-29T00:00:00+0000</updated>
+  <updated>2026-02-11T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Zu gut geschützt: Wie geistige Eigentumsrechte die Kreislaufgesellschaft ausbremsen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/02/zu-gut-gesch%C3%BCtzt-wie-geistige-eigentumsrechte-die-kreislaufgesellschaft-ausbremsen/"/>
+    <id>https://okfn.de/blog/2026/02/zu-gut-gesch%C3%BCtzt-wie-geistige-eigentumsrechte-die-kreislaufgesellschaft-ausbremsen/</id>
+    <published>2026-02-11T00:00:00+0000</published>
+    <updated>2026-02-11T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Die Kreislaufgesellschaft gilt als Schlüssel für Klima- und Ressourcenschutz. Produkte sollen langlebig, reparierbar und wiederverwendbar sein und Materialien so lange wie möglich in der Nutzung gehalten werden. Dafür ist es notwendig, dass sich möglichst viele daran beteiligen können, dafür braucht es zahlreiche technische Informationen und die Möglichkeit, diese rechtssicher einzusetzen. Doch die Realität sieht anders aus: In der EU liegt der Anteil zirkulär genutzter Materialien gerade einmal bei 11,5 Prozent. Gleichzeitig werden viele Produkte immer kurzlebiger. Ein zentrales, bislang unterschätztes Hindernis: geistige Eigentumsrechte.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Transparenz ist nicht das Problem: Öffentliche Stellen brauchen widerstandsfähige Strukturen und Informationsmanagement</title>
@@ -144,17 +153,6 @@
     <summary>&lt;p&gt;&lt;strong&gt;In diesem Artikel teilen wir die Anleitung zu einer Übung, mit der wir Gespräche über Machtstrukturen in unserer Organisation führen.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Für eine demokratische, nachhaltige und resiliente Zukunft fordern wir von der Politik Transparenz, Teilhabe und Zusammenarbeit auf Augenhöhe. Diese Werte versuchen wir in unserer Organisation nicht nur nach außen zu vertreten, sondern auch nach innen zu leben. &lt;/p&gt;
 &lt;p&gt;Über Machtstrukturen offen und entspannt zu sprechen ist wichtig, damit wir unsere Ansprüche an Transparenz und Gerechtigkeit auch intern einlösen. Das ist ein ehrenhafter Ansatz, der in der Praxis oft schwierig umzusetzen ist. Auch wenn wir flache, transparente Hierarchien haben, bilden sich unausgesprochene Machtverhältnisse und Routinen außerhalb der offiziellen Wege. Je weniger sie angesprochen werden, desto stärker verfestigen sie sich. Formelle Strukturen müssen wir darauf überprüfen, ob sie genug Gegengewichte und Kontrollmechanismen haben. Informelle Macht müssen wir erkennen und benennen, damit sie sich nicht ungerecht verteilt.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Uncovering power structures – An exercise for talking about power</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/09/uncovering-power-structures-an-exercise-for-talking-about-power/"/>
-    <id>https://okfn.de/blog/2025/09/uncovering-power-structures-an-exercise-for-talking-about-power/</id>
-    <published>2025-09-14T00:00:00+0000</published>
-    <updated>2025-09-14T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;strong&gt;In this article, we share instructions for an exercise we developed to facilitate conversations about power structures in our organisation.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;For a democratic, sustainable and resilient future, we demand transparency, participation and cooperation on an equal footing from politicians. In our organisation, we strive to not only represent these values externally, but also to live them internally.&lt;/p&gt;
-&lt;p&gt;It is important to talk openly and calmly about power structures so that we can fulfil our demands for transparency and justice internally. This is an honourable approach, but one that is often difficult to implement in practice. Even if we have flat, transparent hierarchies, unspoken power relations and routines will form outside the official channels. The less they are addressed, the more entrenched they become. We must review formal structures to ensure that they have sufficient counterbalances and control mechanisms. We must recognise and name informal power so that it is not distributed unfairly.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

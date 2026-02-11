@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -112,7 +112,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,17 +124,17 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/christina-willems/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/ip-recht/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/kreislaufgesellschaft/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/infrastruktur/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -146,11 +146,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/resilienz/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/open-hardware/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -161,6 +161,21 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/blog/2026/02/zu-gut-gesch%C3%BCtzt-wie-geistige-eigentumsrechte-die-kreislaufgesellschaft-ausbremsen/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/christina-willems/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/infrastruktur/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/resilienz/</loc>
+    <lastmod>2026-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/transparenz/</loc>
     <lastmod>2026-01-29T00:00:00+00:00</lastmod>
@@ -182,12 +197,6 @@
                 />
   </url><url>
     <loc>https://okfn.de/tags/energietechnik/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-hardware/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2026/01/projektstart-podest-offene-hardware-f%C3%BCr-eine-demokratische-energiewende/</loc>
