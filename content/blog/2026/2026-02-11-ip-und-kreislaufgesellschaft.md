@@ -39,6 +39,6 @@ Ersatzteile sind oft nur über Hersteller erhältlich, zu hohen Preisen oder gar
 
 Ohne strukturelle Änderungen bleibt der Ersatzteilmarkt ein Engpass der Kreislaufgesellschaft. Das sogenannte Recht auf Reparatur und die Neuauflage der Ökodesignregeln sind Schritte in die richtige Richtung, doch reichen sie noch nicht.
 
-### Innovation: Anreiz oder Blockade?
+### Patente: Anreiz oder Blockade?
 
 Patente sollen Innovationsanreize schaffen. Gleichzeitig können sie die Verbreitung ressourcenschonender Technologien bremsen, wenn nachhaltige Verfahren exklusiv geschützt werden oder eben Effekte entstehen, wie oben gezeigt. Eine Option wäre, öffentliche Fördermittel stärker an Open-Source- oder Open-Hardware-Bedingungen zu knüpfen und insgesamt Geschäftsmodelle zu fördern, die auf offene Produktkonzepte ausgerichtet sind, die technische Informationstransparenz mitdenken. Wer mit Steuergeld Innovationen entwickelt, sollte deren gesellschaftliche Nutzbarkeit mitdenken.
