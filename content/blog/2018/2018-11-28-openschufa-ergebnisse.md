@@ -14,6 +14,7 @@ layout: post
 card: true
 title: 'OpenSchufa: Die Ergebnisse (Updates)'
 publishedDate: 2018-11-28 09:10:00
+translationKey: openschufa-results-blogpost
 ---
 
 Lange hat es gedauert, aber heute werden die ersten Analysen des OpenSchufa-Datensatzes veröffentlicht. Die Redaktionen vom [SpiegelOnline](http://www.spiegel.de/wirtschaft/service/schufa-so-funktioniert-deutschlands-einflussreichste-auskunftei-a-1239214.html) und dem [Bayerischen Rundfunk](https://www.br.de/nachrichten/wirtschaft/schufa-score-wie-menschen-unverschuldet-zum-risikofall-werden,RAheWGP) haben die anonymisierten Daten, die wir mithilfe von [OpenSchufa](https://okfn.de/blog/tags/openschufa/) im Frühjahr gesammelt haben, ausgewertet.  Herzlichen Dank an alle Personen, die uns für das Projekt [Geld](https://www.startnext.com/openschufa), Zeit und [Daten](https://www.openschufa.de/) gespendet haben!

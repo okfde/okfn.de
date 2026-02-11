@@ -67,10 +67,35 @@
     border-bottom: 2px solid transparent
     transition: all 300ms ease-in-out
   a:hover,
-  a:active
+  a:active,
+  a.active
     color: $anchor
     padding-bottom: 1px
     border-bottom: 2px solid $anchor
+
+.c__nav-list--lang
+  margin-inline: 1ch
+  display: flex
+  gap: 0.5ch
+  color: $grey
+  align-items: center
+
+  a:hover, a.active
+    border-bottom: 2px solid transparent
+
+  .active
+    color: $grey
+    text-decoration: underline
+
+  .disabled
+    text-decoration: line-through
+    cursor: not-allowed
+
+  * + *::before
+    content: "|"
+    margin-right: 0.5ch
+    display: inline-block
+    color: $black
 
 .c__nav-list--report
   a

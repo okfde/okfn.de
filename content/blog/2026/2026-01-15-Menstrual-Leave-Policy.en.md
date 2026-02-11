@@ -10,6 +10,7 @@ tags:
 type: post
 layout: post
 featured: yellow
+translationKey: menstrual-leave-blogpost
 title: 'Menstrual Leave Policy – english'
 publishedDate: 2026-01-15
 ---
