@@ -10,7 +10,7 @@ tags:
 type: post
 layout: post
 featured: yellow
-title: 'Menstrual Leave Policy – english'
+title: 'Menstrual Leave Policy'
 publishedDate: 2026-01-15
 ---
 **[taz](https://taz.de/Geschlechtergerechte-Arbeitswelt/!6143993/) newspaper reported on OKF: In many countries and companies, there is a debate about whether menstrual pain and cycle-related discomfort should be recognised as grounds for additional days off as part of a gender-equitable working environment.** Such regulations exist in some countries by law (e.g. in Japan, South Korea and Taiwan) and voluntarily in many companies. **We have had this model in place since 2021, anchored in our Menstrual Leave Policy. We spoke to Sonja Fischbauer, our organisational developer, about it.**
