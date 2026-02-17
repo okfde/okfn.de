@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-02-11T00:00:00+0000</updated>
+  <updated>2026-02-17T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Der Deutschland-Stack braucht mehr als eine Liste an Standards</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/02/der-deutschland-stack-braucht-mehr-als-eine-liste-an-standards/"/>
+    <id>https://okfn.de/blog/2026/02/der-deutschland-stack-braucht-mehr-als-eine-liste-an-standards/</id>
+    <published>2026-02-17T00:00:00+0000</published>
+    <updated>2026-02-17T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Das BMDS hat Anfang des Jahres klarer gestellt, was es im Rahmen des Deutschland-Stacks vorhat. Die nun vorliegende Liste an technischen Elementen ist zwar größtenteils schlüssig, offen bleibt für uns aber weiterhin, wie der versprochene Neustart gestaltet werden soll. Besonders wichtig dabei: Das Projekt darf vergangene Fehler nicht wiederholen. Es braucht dringend eine Erhebung der Bedarfe und Hürden für eine umfassende IT-Architektur. Und selbst wenn der Deutschland-Stack einen reinen Verwaltungsfokus hat: (auch) offene Technologien für die Gesellschaft brauchen ihren Platz.&lt;/strong&gt;&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Zu gut geschützt: Wie geistige Eigentumsrechte die Kreislaufgesellschaft ausbremsen</title>
@@ -142,17 +151,6 @@
     <updated>2025-09-25T00:00:00+0000</updated>
     <summary>&lt;p&gt;Aktuell laufen die Stellungnahmen zum &lt;a href=&#34;https://github.com/okfde/okfn.de/blob/main/static/files/documents/20250723_MASTER_G-Entwurf_z_Modernisierung_d_nat_Umsetzung_ED%2BEL.pdf&#34; target=&#34;_blank&#34;&gt;Entwurf des Energieverbrauchskennzeichnungsgesetz&lt;/a&gt; (EnVKG). Bis zum 26.09., 18 Uhr können noch Stellungnahmen eingereicht werden. Wir &lt;a href=&#34;https://okfn.de/publikationen/stellungnahme-envkg/&#34; target=&#34;_blank&#34;&gt;veröffentlichen unsere Position&lt;/a&gt; bereits heute.&lt;/p&gt;
 &lt;p&gt;Das Gesetz soll einerseits EU-Recht national umsetzen und will andererseits zivilgesellschaftlichen Reparateuren Zugang zu reparaturrelevanten Informationen und Ersatzteilen verschaffen. Damit würde ein entscheidender Schritt getan werden, um die Vielfalt an Reparaturakteuren – von wirtschaftlich tätigen Betrieben bis hin zu ehrenamtlich getragenen Initiativen – gleichberechtigt einzubeziehen und ihre Rolle im Reparaturökosystem zu stärken. Das ist längst überfällig, denn der Erhalt von Produkten ist eine riesige Aufgabe, die nicht ohne eine kompetente Zivilgesellschaft zu leisten ist.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Machtstrukturen aufdecken - Eine Übung, um über Macht zu sprechen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/09/machtstrukturen-aufdecken-eine-%C3%BCbung-um-%C3%BCber-macht-zu-sprechen/"/>
-    <id>https://okfn.de/blog/2025/09/machtstrukturen-aufdecken-eine-%C3%BCbung-um-%C3%BCber-macht-zu-sprechen/</id>
-    <published>2025-09-15T00:00:00+0000</published>
-    <updated>2025-09-15T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;strong&gt;In diesem Artikel teilen wir die Anleitung zu einer Übung, mit der wir Gespräche über Machtstrukturen in unserer Organisation führen.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Für eine demokratische, nachhaltige und resiliente Zukunft fordern wir von der Politik Transparenz, Teilhabe und Zusammenarbeit auf Augenhöhe. Diese Werte versuchen wir in unserer Organisation nicht nur nach außen zu vertreten, sondern auch nach innen zu leben. &lt;/p&gt;
-&lt;p&gt;Über Machtstrukturen offen und entspannt zu sprechen ist wichtig, damit wir unsere Ansprüche an Transparenz und Gerechtigkeit auch intern einlösen. Das ist ein ehrenhafter Ansatz, der in der Praxis oft schwierig umzusetzen ist. Auch wenn wir flache, transparente Hierarchien haben, bilden sich unausgesprochene Machtverhältnisse und Routinen außerhalb der offiziellen Wege. Je weniger sie angesprochen werden, desto stärker verfestigen sie sich. Formelle Strukturen müssen wir darauf überprüfen, ob sie genug Gegengewichte und Kontrollmechanismen haben. Informelle Macht müssen wir erkennen und benennen, damit sie sich nicht ungerecht verteilt.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
