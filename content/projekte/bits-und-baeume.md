@@ -21,7 +21,6 @@ financing:
   - Spenden
 contact_alternate_email: claudia.jach@okfn.de
 years: 2018 - 2022
-website: https://bits-und-baeume.org/de
 contact:
   twitter: bitsundbaeume
 ---

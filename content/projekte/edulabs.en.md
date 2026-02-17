@@ -1,5 +1,4 @@
 ---
-type: education
 categories:
   - education
   - community

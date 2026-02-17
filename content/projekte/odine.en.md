@@ -2,7 +2,6 @@
 type: archive
 title: ODINE
 subtitle: Open Data Incubator Europe
-website: https://www.d-eiti.de/de/
 img: projects/odine-logo.png
 layout: project
 years: 2015 - 2016
