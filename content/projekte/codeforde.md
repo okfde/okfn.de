@@ -38,14 +38,3 @@ Code for Germany ist ein Netzwerk von ehrenamtlich engagierten Menschen, die sic
 Code for Germany hat rund 20 regionale Gruppen, die sich regelmäßig in lokalen OK Labs, kurz für Open Knowledge Labs, treffen.
 
 Die Open Knowledge Foundation Deutschland bietet das rechtliche Zuhause und die IT-Infrastuktur für das ansonsten selbstverwaltete Netzwerk. Die einzelnen Communitymitglieder entscheiden selbst, woran sie arbeiten und wie sie sich organisieren.
-
-<div class="two-img offset-lg-2">
-  <figure class="license">
-        <img alt="Bild vom Event" src="/files/projects/codefor_img_1.jpg">
-        <figcaption>Foto:</figcaption>
-    </figure>
-    <figure class="license">
-        <img alt="Bild vom Event" src="/files/projects/codefor_img_2.jpg">
-        <figcaption>Foto: </figcaption>
-    </figure>
-</div>
