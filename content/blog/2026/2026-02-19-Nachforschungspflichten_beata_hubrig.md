@@ -13,7 +13,7 @@ featured: yellow
 title: 'Nachforschungspflichten – Urheberrechtliche Haftung von Anschlussinhabern' 
 publishedDate: 2026-02-19
 ---
-Obwohl die Störerhaftung für Anschlussinhaber seit 2017 offiziell abgeschafft ist, werden  jedes Jahr immer noch tausende Menschen wegen Urheberrechtsverletzungen zu hohen Schadensersatzzahlungen verurteilt. Dies geschieht allein auf Grundlage der Vermutung, dass sie selbst die Täter:innen waren. Wie kann es sein, dass eine Person für das Verhalten Dritter haftet, obwohl es keine gesetzliche Auskunftspflicht gibt. Welche Rechte bleiben Anschlussinhaber:innen in diesen Verfahren? Dazu gibt es heute einen **Gastbeitrag von Beata Hubrig**. Sie ist Rechtsanwältin aus Berlin. Der Schwerpunkt ihrer Kanzlei liegt im Zivilprozessrecht, mit Fokus auf Datenschutz und Urheberrecht.
+Obwohl die Störerhaftung für Anschlussinhaber seit 2017 offiziell abgeschafft ist, werden  jedes Jahr immer noch tausende Menschen wegen Urheberrechtsverletzungen zu hohen Schadensersatzzahlungen verurteilt. Dies geschieht allein auf Grundlage der Vermutung, dass sie selbst die Täter:innen waren. Wie kann es sein, dass eine Person für das Verhalten Dritter haftet, obwohl es keine gesetzliche Auskunftspflicht gibt? Welche Rechte bleiben Anschlussinhaber:innen in diesen Verfahren? Dazu gibt es heute einen **Gastbeitrag von Beata Hubrig**. Sie ist Rechtsanwältin aus Berlin. Der Schwerpunkt ihrer Kanzlei liegt im Zivilprozessrecht, mit Fokus auf Datenschutz und Urheberrecht.
  
 ## A. Anschlussinhaber als Täter
 
