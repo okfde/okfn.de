@@ -1,6 +1,6 @@
 ---
 title: Code for Germany
-subtitle: "Community mit Hunderten freiwilligen Stadtentwickler:innen"
+subtitle: "Netzwerk von ehrenamtlich engagierten Menschen, die sich für eine gemeinwohlorientierte digitale Zukunft einsetzen"
 layout: project
 tile: double
 type: featured
@@ -14,43 +14,27 @@ weight: 5
 img: projects/codefor_BigTile.gif
 img_header: projects/codefor_Header.png
 people:
-  - name: Sonja Fischbauer  
-    role: 
-  - name: ca. 500 Ehrenamtliche in ganz Deutschland
+  - name: ca. 300 Ehrenamtliche in ganz Deutschland
     role:
-contact_person: sonjafischbauer
+contact_person: 
 years: 2014 - heute
 partners:
   - Code for All
 website: https://codefor.de
 contact:
-  twitter: codeforde
+  twitter: 
   github: https://github.com/codeforgermany
-  mailinglist: https://lists.okfn.org/mailman/listinfo/codeforde
+  mailinglist: 
   g+: https://plus.google.com/communities/101049062262477568057?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
 cta: Mitmachen
 cta_text: |-
-    Wo gerade welche Anwendungen und Projekte entstehen, wann das nächste Treffen stattfindet und wie man mitmachen kann, erfährst Du durch einen Klick auf die jeweilige Stadt auf unserer <a href="https://codefor.de/">Deutschlandkarte</a>.
+    Die Labs sind die erste Anlaufstelle für alle Interessierten. Über die <a href="https://codefor.de/community">Karte</a> kommst du zu den Unterseiten der einzelnen Gruppen. Dort erfährst du mehr über Termine und Kontaktpersonen.
 more_text: |-
     Weitere Infos gibt es auf der <a href="https://codefor.de/">Website</a> von Code for Germany.
 ---
 
-Code for Germany ist ein Netzwerk von ehrenamtlichen Menschen, die an nachhaltigen digitalen Projekten für eine offene und gerechte Gesellschaft arbeiten. Zentrales Thema ist dabei, wie Daten, Informationen und Wissen so aufbereitet werden können, dass sie möglichst vielen Menschen zugänglich sind. Dadurch wird die Beteiligung von Bürger:innen an demokratischen Prozessen gestärkt und ihr Lebensalltag erleichtert. Um dies zu ermöglichen, treffen sich Freiwillige regelmäßig in ihren Städten in den Open Knowledge Labs (OK-Labs). Sie diskutieren über Strategien des Open Government und entwickeln digitale Lösungen für Probleme und Bedürfnisse, die sie in ihren Städten und Nachbarschaften identifiziert haben.
+Code for Germany ist ein Netzwerk von ehrenamtlich engagierten Menschen, die sich für eine gemeinwohlorientierte digitale Zukunft einsetzen. Das Netzwerk besteht aus rund 300 Communitymitgliedern in Deutschland und darüber hinaus. Sie setzen sich mit dem Stand der Digitalisierung in ihrer Stadt, Kommune und Region auseinander. Sie bauen hilfreiche Soft- und Hardware-Projekte. Sie analysieren aktuelle technologische Entwicklungen nach ihrem Nutzen für die Gesellschaft. Sie zeigen den Wert von Offenen Daten und leisten Überzeugungsarbeit für eine nachhaltige Digitalisierung der Verwaltung.
 
-<div class="two-img offset-lg-2">
-  <figure class="license">
-        <img alt="Bild vom Event" src="/files/projects/codefor_img_1.jpg">
-        <figcaption>Foto:</figcaption>
-    </figure>
-    <figure class="license">
-        <img alt="Bild vom Event" src="/files/projects/codefor_img_2.jpg">
-        <figcaption>Foto: </figcaption>
-    </figure>
-</div>
+Code for Germany hat rund 20 regionale Gruppen, die sich regelmäßig in lokalen OK Labs, kurz für Open Knowledge Labs, treffen.
 
-Einige Städte haben bereits Open Data Programme und stellen Datensätze offen zur Verfügung, vielerorts mangelt es jedoch noch an Anwendungen und Beispielen, die den praktischen Nutzen von offenen Daten aufzeigen – genau hier setzt Code for Germany an. Neben Software Projekten wird auch an „Do it yourself“ Hardware Projekten gearbeitet wie dem Netzwerk an Feinstaubsensoren oder dem Long Range Wide Area Network (LoRaWan).
-
-Gestartet wurde das Programm im Februar 2014 mit der Gründung von Open Knowledge Labs in 8 Städten. Mittlerweile ist das Netzwerk auf rund 20 Labs angewachsen und umfasst eine Community von über 500 Freiwilligen. 
-
-<b> Fördergeber:innen und Finanzierung: </b>
-Im Jahr 2024 wird das Netzwerk im Projekt von der Deutschen Postcode Lotterie unterstützt.
+Die Open Knowledge Foundation Deutschland bietet das rechtliche Zuhause und die IT-Infrastuktur für das ansonsten selbstverwaltete Netzwerk. Die einzelnen Communitymitglieder entscheiden selbst, woran sie arbeiten und wie sie sich organisieren.
