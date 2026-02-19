@@ -1,7 +1,7 @@
 ---
 authors:
 - Beata Hubrig
-image:
+image: 
   src: /files/blog/2026/2026-02-Nachforschungspflichten_Mohamed_Hassan.png
   license: CC by Mohamed Hassan
   title:
