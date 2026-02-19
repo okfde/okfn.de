@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -111,11 +111,11 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/ben-burmeister/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/beata-hubrig/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -127,14 +127,14 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/blog/2026/02/der-deutschland-stack-braucht-mehr-als-eine-liste-an-standards/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/nachforschungspflichten/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/blog/2026/02/nachforschungspflichten-urheberrechtliche-haftung-von-anschlussinhabern/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -147,7 +147,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -158,6 +158,18 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/urheberrechtliche-haftung/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/ben-burmeister/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2026/02/der-deutschland-stack-braucht-mehr-als-eine-liste-an-standards/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/ip-recht/</loc>
     <lastmod>2026-02-11T00:00:00+00:00</lastmod>
@@ -1236,9 +1248,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2022/01/prototype-fund-hardware-gestartet/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/beata-hubrig/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/datenschutz/</loc>
     <lastmod>2022-01-11T00:00:00+00:00</lastmod>
