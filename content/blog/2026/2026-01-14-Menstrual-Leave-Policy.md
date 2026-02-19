@@ -13,7 +13,7 @@ featured: blue
 title: 'Menstrual Leave Policy'
 publishedDate: 2026-01-14
 ---
-**Die [taz](https://taz.de/Geschlechtergerechte-Arbeitswelt/!6143993/) hat über die OKF berichtet: In vielen Ländern und Unternehmen wird diskutiert, ob Menstruationsschmerzen und zyklusbedingte Beschwerden durch zusätzliche freie Tage als Teil einer geschlechtergerechten Arbeitswelt anerkannt werden sollten.** Solche Regelungen gibt es in einigen Ländern gesetzlich (z. B. in Japan, Südkorea und Taiwan) und in vielen Unternehmen freiwillig. **Bei uns gibt es dieses Modell bereits seit 2021, verankert in unserer Menstrual Leave Policy. Wir haben mit Sonja Fischbauer, unserer Organisationsentwicklerin, darüber gesprochen.**
+**In vielen Ländern und Unternehmen wird diskutiert, ob Menstruationsschmerzen und zyklusbedingte Beschwerden durch zusätzliche freie Tage als Teil einer geschlechtergerechten Arbeitswelt anerkannt werden sollten.** Solche Regelungen gibt es in einigen Ländern gesetzlich (z. B. in Japan, Südkorea und Taiwan) und in vielen Unternehmen freiwillig. **Bei uns gibt es dieses Modell bereits seit 2021, verankert in unserer Menstrual Leave Policy. Wir haben mit Sonja Fischbauer, unserer Organisationsentwicklerin, darüber gesprochen.**
 
 ## Liebe Sonja, seit wann gibt es eine Menstrual Leave Policy in unserer Organisation und warum haben wir sie eingeführt?
 
