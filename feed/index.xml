@@ -5,10 +5,19 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stellungnahme des Bündnis F5 zum Digitalen Omnibus</title>
+      <link>https://okfn.de/blog/2026/02/stellungnahme-des-b%C3%BCndnis-f5-zum-digitalen-omnibus/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2026/02/stellungnahme-des-b%C3%BCndnis-f5-zum-digitalen-omnibus/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Mit dem Digitalen Omnibus steht aktuell eine umfassende Neustrukturierung der Daten- und KI-Gesetzgebung auf der EU-Ebene. Die Europäische Kommission gibt dabei als Ziel an, bestehende digitale Regelwerke zu vereinfachen und ihre Anwendung zu harmonisieren. Die vorgeschlagenen Änderungen an der Datenschutz-Grundverordnung, KI-Verordnung, und den Datenrechtsakten erreichen dieses Ziel jedoch nur vereinzelt. Die Änderungen sind an vielen Stellen keine technischen Klarstellungen, sondern umfassende Änderungsvorschläge, die auch grundrechtliche Schutzstandards betreffen. Das Bündnis F5 – ein Zusammenschluss von Reporter ohne Grenzen, Algorithm Watch, Wikimedia Deutschland, Gesellschaft für Freiheitsrechte und Open Knowledge Foundation – hat infolgedessen im Februar eine Stellungnahme mit klaren Empfehlungen veröffentlicht.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Nachforschungspflichten – Urheberrechtliche Haftung von Anschlussinhabern</title>

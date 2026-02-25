@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-02-19T00:00:00+0000</updated>
+  <updated>2026-02-25T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Stellungnahme des Bündnis F5 zum Digitalen Omnibus</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/02/stellungnahme-des-b%C3%BCndnis-f5-zum-digitalen-omnibus/"/>
+    <id>https://okfn.de/blog/2026/02/stellungnahme-des-b%C3%BCndnis-f5-zum-digitalen-omnibus/</id>
+    <published>2026-02-25T00:00:00+0000</published>
+    <updated>2026-02-25T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Mit dem Digitalen Omnibus steht aktuell eine umfassende Neustrukturierung der Daten- und KI-Gesetzgebung auf der EU-Ebene. Die Europäische Kommission gibt dabei als Ziel an, bestehende digitale Regelwerke zu vereinfachen und ihre Anwendung zu harmonisieren. Die vorgeschlagenen Änderungen an der Datenschutz-Grundverordnung, KI-Verordnung, und den Datenrechtsakten erreichen dieses Ziel jedoch nur vereinzelt. Die Änderungen sind an vielen Stellen keine technischen Klarstellungen, sondern umfassende Änderungsvorschläge, die auch grundrechtliche Schutzstandards betreffen. Das Bündnis F5 – ein Zusammenschluss von Reporter ohne Grenzen, Algorithm Watch, Wikimedia Deutschland, Gesellschaft für Freiheitsrechte und Open Knowledge Foundation – hat infolgedessen im Februar eine Stellungnahme mit klaren Empfehlungen veröffentlicht.&lt;/strong&gt;&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Nachforschungspflichten – Urheberrechtliche Haftung von Anschlussinhabern</title>
@@ -143,16 +152,6 @@
     <updated>2025-09-30T00:00:00+0000</updated>
     <summary>&lt;p&gt;&lt;strong&gt;In this article, we share our first version of a conflict routine: a guide on how to proceed when you find yourself in a conflict.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It is easy to let everyone participate when everything is running smoothly. It gets harder when tensions arise. That is precisely when it becomes clear whether our values hold true in everyday life. If we are committed to a democratic, sustainable and resilient future, we must also create internal spaces where conflicts can be addressed, endured and resolved. Conflicts can be an opportunity for personal growth, better cooperation and structural development.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Konflikte bearbeiten – Eine Anleitung, um Spannungen im Team routiniert zu lösen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/09/konflikte-bearbeiten-eine-anleitung-um-spannungen-im-team-routiniert-zu-l%C3%B6sen/"/>
-    <id>https://okfn.de/blog/2025/09/konflikte-bearbeiten-eine-anleitung-um-spannungen-im-team-routiniert-zu-l%C3%B6sen/</id>
-    <published>2025-09-30T00:00:00+0000</published>
-    <updated>2025-09-30T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;strong&gt;In diesem Artikel teilen wir unsere erste Version einer Konfliktroutine: eine Anleitung, wie man vorgeht, wenn man sich in einem Konflikt befindet.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Es ist leicht, alle teilhaben zu lassen, wenn alles rund läuft. Schwieriger wird es, wenn Spannungen entstehen. Genau dann zeigt sich, ob unsere Werte im Alltag bestehen. Wenn wir uns für eine demokratische, nachhaltige und resiliente Zukunft einsetzen, müssen wir auch intern Räume schaffen, in denen Konflikte angesprochen, ausgehalten und bearbeitet werden können. Konflikte können eine Chance für persönliches Wachstum, bessere Zusammenarbeit und strukturelle Entwicklung sein.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

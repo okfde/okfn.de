@@ -99,7 +99,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -111,11 +111,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/beata-hubrig/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -127,14 +124,14 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/nachforschungspflichten/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/blog/2026/02/nachforschungspflichten-urheberrechtliche-haftung-von-anschlussinhabern/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/authors/okf/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -146,8 +143,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
+    <loc>https://okfn.de/blog/2026/02/stellungnahme-des-b%C3%BCndnis-f5-zum-digitalen-omnibus/</loc>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -159,6 +159,15 @@
                 href="https://okfn.de/tags/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/beata-hubrig/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/nachforschungspflichten/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2026/02/nachforschungspflichten-urheberrechtliche-haftung-von-anschlussinhabern/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/tags/urheberrechtliche-haftung/</loc>
     <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -166,9 +175,6 @@
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2026/02/der-deutschland-stack-braucht-mehr-als-eine-liste-an-standards/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
@@ -249,9 +255,6 @@
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2026/01/menstrual-leave-policy/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/okf/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/aktivismus-von-innen/</loc>
