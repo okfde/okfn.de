@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2025-11-28T00:00:00+0000</updated>
+  <updated>2026-02-17T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Zweite Stellungnahme zum Digitalen Omnibuspaket der EU-Kommission</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/f5_omnibus/"/>
+    <id>https://okfn.de/publikationen/f5_omnibus/</id>
+    <published>2026-02-17T00:00:00+0000</published>
+    <updated>2026-02-17T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Der Digitale Omnibus verfolgt laut der Europäischen Kommission das Ziel, bestehende digitale Regelwerke zu vereinfachen und ihre Anwendung zu harmonisieren. Die vorgeschlagenen Änderungen an der DSGVO, KI-VO, und den Datenrechtsakten erreichen dieses Ziel jedoch nur vereinzelt. In vielen Punkten bringt die Kommission umfassende Änderungsvorschläge ein, die auch grundrechtliche Schutzstandards betreffen. In dieser Kommentierung betrachten wir 14 wichtige Punkte der Gesetzespakete.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Stellungnahme zum Digitalisierungsbeschleunigungsgesetz Schleswig-Holstein</title>
@@ -152,15 +161,6 @@
     <published>2024-07-09T00:00:00+0000</published>
     <updated>2024-07-09T00:00:00+0000</updated>
     <summary>&lt;p&gt;Wir begrüßen den Entwurf einer Nationalen Kreislaufwirtschaftsstrategie (NKWS) des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) und sehen ihn als ersten wichtigen Schritt hin zu einer ressourcenschonenden und transparenten Kreislaufwirtschaft in Deutschland. Mit dem Netzwerk Ressourcenwende haben wir bereits die wichtigen Kernziele und Maßnahmen kommentiert. Wir unterstützen die dort bereits genannten Forderungen. Mit der vorliegenden Kommentierung fokussieren wir insbesondere die Rolle und Potenziale von Open Source, die stellenweise im aktuellen Entwurf enthalten sind. Neben Rohstoffkreisläufen sollten auch damit zusammenhängende Informationen im Zentrum stehen. Eine Kreislaufwirtschaft ist in erster Linie ein Kooperationsprojekt, das viele Akteure braucht. Informationen sind die wesentliche Triebkraft dabei. Dafür braucht es die allgemeine Ausrichtung auf das Zirkulieren von produkt- und rohstoffspezifischen Informationen und Anreize, offene Ansätze zu etablieren, die Produkttransparenz von Beginn an mitdenken (Open Source Hardware, Open Data, Open Source Software).&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2023</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2023-jahresbericht/"/>
-    <id>https://okfn.de/publikationen/2023-jahresbericht/</id>
-    <published>2024-06-20T00:00:00+0000</published>
-    <updated>2024-06-20T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland im Jahr 2023. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
