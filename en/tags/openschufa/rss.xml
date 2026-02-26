@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenSchufa on OKF DE</title>
+    <link>https://okfn.de/en/tags/openschufa/</link>
+    <description>Recent content in OpenSchufa on OKF DE</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/en/tags/openschufa/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenSchufa is live!</title>
+      <link>https://okfn.de/en/blog/2018/05/openschufa-is-live/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/en/blog/2018/05/openschufa-is-live/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s go! Today we launch the &lt;a href=&#34;https://www.openschufa.de&#34; target=&#34;_blank&#34;&gt;data donation platform for our crowdsourcing project OpenSCHUFA&lt;/a&gt;. At &lt;a href=&#34;https://www.openschufa.de&#34; target=&#34;_blank&#34;&gt;openschufa.de&lt;/a&gt; all people can upload the data they requested from the SCHUFA. We will then analyze them together with our partner AlgorithmWatch to crack the SCHUFA algorithm.&lt;/p&gt;&#xA;&lt;p&gt;More than 20,000 people have already applied for their free self-disclosure since the beginning of our campaign via &lt;a href=&#34;https://selbstauskunft.net/schufa&#34; target=&#34;_blank&#34;&gt;selbstauskunft.net/schufa&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.openschufa.de/&#34; target=&#34;_blank&#34;&gt;DATA DONATION&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One week of OpenSchufa - we crack the Schufa!</title>
+      <link>https://okfn.de/en/blog/2018/02/one-week-of-openschufa-we-crack-the-schufa/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/en/blog/2018/02/one-week-of-openschufa-we-crack-the-schufa/</guid>
+      <description>&lt;p&gt;Last week we launched our newest project &lt;a href=&#34;http://openschufa.de&#34; target=&#34;_blank&#34;&gt;OpenSCHUFA&lt;/a&gt; together with &lt;a href=&#34;https://algorithmwatch.org/de/&#34; target=&#34;_blank&#34;&gt;AlgorithmWatch&lt;/a&gt;.&lt;br&gt;&#xA;Inspired by &lt;a href=&#34;http://www.okf.fi&#34; target=&#34;_blank&#34;&gt;OKF Finland&lt;/a&gt; and the &lt;a href=&#34;http://mydata.org&#34; target=&#34;_blank&#34;&gt;„mydata“&lt;/a&gt; project, OpenSCHUFA is the first mydata project by the Open Knowledge Foundation Germany.&lt;/p&gt;&#xA;&lt;p&gt;Over the last 7 days, the campaign generated Germany-wide media attention &lt;a href=&#34;#media&#34;&gt;(see press listing)&lt;/a&gt;&#xA;and already over 8.000 individual Schufa data request (30.000 personal data requests in total).&lt;/p&gt;&#xA;&lt;p&gt;Congrats to &lt;a href=&#34;http://selbstauskunft.net&#34; target=&#34;_blank&#34;&gt;selbstauskunft.net&lt;/a&gt; for serving &lt;strong&gt;1 million&lt;/strong&gt; personal data requests!&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-we-started-openschufa-and-why-you-should-care-about-credit-scoring&#34;&gt;Why we started OpenSCHUFA and why you should care about credit scoring&lt;/h3&gt;&#xA;&lt;p&gt;Germany’s leading credit rating bureau, SCHUFA, has immense power over people’s lives. A low SCHUFA score means landlords will refuse to rent you an apartment, banks will reject your credit card application and network providers will say ‘&lt;a href=&#34;https://youtu.be/AJQ3TM-p2QI?t=45&#34; target=&#34;_blank&#34;&gt;computer says no&lt;/a&gt;’ to a new Internet contract. But what if your SCHUFA score is low because there are mistakes in your credit history? Or if the score is calculated by a mathematical model that is biased?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Get involved: We crack the Schufa!</title>
+      <link>https://okfn.de/en/blog/2018/02/get-involved-we-crack-the-schufa/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/en/blog/2018/02/get-involved-we-crack-the-schufa/</guid>
+      <description>&lt;p&gt;When applying for a loan, mobile phone contract, or even trying to rent an apartment in Germany, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Schufa&#34; target=&#34;_blank&#34;&gt;Schufa&lt;/a&gt; score - Germany&amp;rsquo;s credit rating - is decisive. If you have a few &amp;ldquo;points&amp;rdquo; too little, your application is refused. (Computer says &lt;a href=&#34;https://youtu.be/AJQ3TM-p2QI?t=45&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;No&amp;rdquo;&lt;/a&gt; to your new smartphone or apartment.) However, the calculation of these credit scores - done by the private Schufa company - is fully intransparent. The formula is a trade secret, and as such not open to the public.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

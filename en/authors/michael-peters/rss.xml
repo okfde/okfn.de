@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Peters on OKF DE</title>
+    <link>https://okfn.de/en/authors/michael-peters/</link>
+    <description>Recent content in Michael Peters on OKF DE</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://okfn.de/en/authors/michael-peters/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Germany ready for the OGP Steering Committee?</title>
+      <link>https://okfn.de/en/blog/2019/11/is-germany-ready-for-the-ogp-steering-committee/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/en/blog/2019/11/is-germany-ready-for-the-ogp-steering-committee/</guid>
+      <description>&lt;h3 id=&#34;a-critical-review-of-the-2nd-national-action-plan&#34;&gt;A critical review of the 2nd national action plan&lt;/h3&gt;&#xA;&lt;p&gt;In October 2019 Germany is officially joining OGP’s steering committee, together with Indonesia. However, after the release of the second national action plan, the steering committee seems like premature praise. Or what us Germans would call it: Vorschusslorbeeren, which literally translates to receiving a roman laurel — before you’ve won the competition.&lt;/p&gt;&#xA;&lt;p&gt;The action plan was adopted by the federal cabinet on 4 September and first announced in a video statement made by Chancellor Angela Merkel the weekend before. This created a lot of media attention, but does not hide the fact that the plan lacks high level commitments. But how did Germany do on the second action plan?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Germany finally has an Open Data Law</title>
+      <link>https://okfn.de/en/blog/2017/08/germany-finally-has-an-open-data-law/</link>
+      <pubDate>Wed, 02 Aug 2017 10:00:00 +0000</pubDate>
+      <guid>https://okfn.de/en/blog/2017/08/germany-finally-has-an-open-data-law/</guid>
+      <description>&lt;p&gt;On July 13, 2017 Germany’s first Open Data law came into effect, finally enabling free access to government data. The Open Data law is part of the change of the German E-Government law &lt;a href=&#34;https://www.gesetze-im-internet.de/egovg/__12a.html&#34; target=&#34;_blank&#34;&gt;(EGovG)&lt;/a&gt;, which we translated &lt;a href=&#34;https://okfn.de/blog/2017/07/Germany%27s-open-data-law-english/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. While it is neither part of the freedom of information act nor an actual transparency law, it provides the judicial foundation for obtaining data from all public authorities subject to the federal government. The authorities will provide raw data on publicly accessible networks, if it was stored in an electronically structured form and includes facts that regard circumstances outside of the administration. Furthermore, a central support agency for open data will be established.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Making European Subsidy Data Open</title>
+      <link>https://okfn.de/en/blog/2017/04/making-european-subsidy-data-open/</link>
+      <pubDate>Sun, 23 Apr 2017 12:00:00 +0000</pubDate>
+      <guid>https://okfn.de/en/blog/2017/04/making-european-subsidy-data-open/</guid>
+      <description>&lt;p&gt;One month after releasing &lt;a href=&#34;http://subsidystories.eu/&#34; target=&#34;_blank&#34;&gt;subsidystories.eu&lt;/a&gt; a joint project with Open Knowledge International, we have some great news to share. Due to the extensive outreach of our platform and the &lt;a href=&#34;https://okfn.de/blog/2017/04/esif-data-quality-index/&#34; target=&#34;_blank&#34;&gt;data quality report&lt;/a&gt; we published, new datasets have been directly sent to us by several administrations. We have recently added new data for Austria, the Netherlands, France and the United Kingdom. Furthermore, first Romanian data recently arrived and should be available in the near future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slovenia Ranks Highest in ESIF Data Quality Index by OpenBudgets.eu.</title>
+      <link>https://okfn.de/en/blog/2017/04/slovenia-ranks-highest-in-esif-data-quality-index-by-openbudgets.eu./</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/en/blog/2017/04/slovenia-ranks-highest-in-esif-data-quality-index-by-openbudgets.eu./</guid>
+      <description>&lt;p&gt;&#xA;Today, OpenBudgets.eu presents the &lt;a href=&#34;http://openbudgets.eu/assets/resources/Report-OpenBudgets-ESIF Data-Quality-Index.pdf&#34;&gt;European Structural Funds Data Quality Index&lt;/a&gt;.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;&#xA;Slovenia ranks highest, based on high data quality and high accessibility and usability of its portal. Denmark comes in second, they provide outstanding data quality in machine readable format, with the website being slightly harder to locate and access. Countries that have not published their 2014-2020 beneficiary data yet, were severely punished in the rankings. That is the case for Austria, Cyprus, Ireland and Spain, their websites are not up to date, no new data is included and hence none of the required EU variables are provided.&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

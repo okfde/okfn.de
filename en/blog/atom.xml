@@ -1,13 +1,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/en/blog/atom.xml"/>
-  <updated>2024-06-06T00:00:00+0000</updated>
+  <updated>2026-01-15T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Menstrual Leave Policy</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2026/01/menstrual-leave-policy/"/>
+    <id>https://okfn.de/en/blog/2026/01/menstrual-leave-policy/</id>
+    <published>2026-01-15T00:00:00+0000</published>
+    <updated>2026-01-15T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;In many countries and companies, there is a debate about whether menstrual pain and cycle-related discomfort should be recognised as grounds for additional days off as part of a gender-equitable working environment.&lt;/strong&gt; Such regulations exist in some countries by law (e.g. in Japan, South Korea and Taiwan) and voluntarily in many companies. &lt;strong&gt;We have had this model in place since 2021, anchored in our Menstrual Leave Policy. We spoke to Sonja Fischbauer, our organisational developer, about it.&lt;/strong&gt;&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>OGP Global Summit in the Basque Country – Open Government remains a work in progress</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2025/11/ogp-global-summit-in-the-basque-country-open-government-remains-a-work-in-progress/"/>
+    <id>https://okfn.de/en/blog/2025/11/ogp-global-summit-in-the-basque-country-open-government-remains-a-work-in-progress/</id>
+    <published>2025-11-06T00:00:00+0000</published>
+    <updated>2025-11-06T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;em&gt;In 2025, the goals of the &lt;a href=&#34;https://www.opengovpartnership.org/&#34; target=&#34;_blank&#34;&gt;Open-Government-Partnership-Initiative&lt;/a&gt; have lost none of their relevance. On the contrary, transparency, citizen participation, and spaces for civil society are indispensable for democracy to function, yet they can no longer be taken for granted.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;These very issues and challenges were at the heart of the OGP Global Summit in Vitoria-Gasteiz, Basque Country, which brought together people from politics, administration and civil society to share ideas and draw inspiration from examples from other countries and administrations. With over 2,000 participants showcasing best practices from 70 countries, inspiration was easy to find. However, it also became clear how open government is currently practised differently internationally.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Dealing with conflicts – A guide to routinely resolving tensions within the team</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2025/09/dealing-with-conflicts-a-guide-to-routinely-resolving-tensions-within-the-team/"/>
+    <id>https://okfn.de/en/blog/2025/09/dealing-with-conflicts-a-guide-to-routinely-resolving-tensions-within-the-team/</id>
+    <published>2025-09-30T00:00:00+0000</published>
+    <updated>2025-09-30T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;In this article, we share our first version of a conflict routine: a guide on how to proceed when you find yourself in a conflict.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It is easy to let everyone participate when everything is running smoothly. It gets harder when tensions arise. That is precisely when it becomes clear whether our values hold true in everyday life. If we are committed to a democratic, sustainable and resilient future, we must also create internal spaces where conflicts can be addressed, endured and resolved. Conflicts can be an opportunity for personal growth, better cooperation and structural development.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Uncovering power structures – An exercise for talking about power</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2025/09/uncovering-power-structures-an-exercise-for-talking-about-power/"/>
+    <id>https://okfn.de/en/blog/2025/09/uncovering-power-structures-an-exercise-for-talking-about-power/</id>
+    <published>2025-09-15T00:00:00+0000</published>
+    <updated>2025-09-15T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;In this article, we share instructions for an exercise we developed to facilitate conversations about power structures in our organisation.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For a democratic, sustainable and resilient future, we demand transparency, participation and cooperation on an equal footing from politicians. In our organisation, we strive to not only represent these values externally, but also to live them internally.&lt;/p&gt;
+&lt;p&gt;It is important to talk openly and calmly about power structures so that we can fulfil our demands for transparency and justice internally. This is an honourable approach, but one that is often difficult to implement in practice. Even if we have flat, transparent hierarchies, unspoken power relations and routines will form outside the official channels. The less they are addressed, the more entrenched they become. We must review formal structures to ensure that they have sufficient counterbalances and control mechanisms. We must recognise and name informal power so that it is not distributed unfairly.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Developing decision-making structures - How we organise our collaboration</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2025/09/developing-decision-making-structures-how-we-organise-our-collaboration/"/>
+    <id>https://okfn.de/en/blog/2025/09/developing-decision-making-structures-how-we-organise-our-collaboration/</id>
+    <published>2025-09-10T00:00:00+0000</published>
+    <updated>2025-09-10T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;In this article, we show how we organise ourselves internally. We describe the structures we use to promote co-determination and distribute power.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In our work, we strive for a democratic, sustainable and resilient future based on openness, participation and transparency. In order to live up to this aspiration within our organisation, we need to organise our internal collaboration accordingly: we need a solid governance model.&lt;/p&gt;
+&lt;p&gt;A governance model is a plan for how people in a group make decisions. It regulates questions such as: &lt;em&gt;Who is allowed to decide what? Who is responsible for what?&lt;/em&gt;&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Activism from Within - Introduction</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2025/09/activism-from-within-introduction/"/>
+    <id>https://okfn.de/en/blog/2025/09/activism-from-within-introduction/</id>
+    <published>2025-09-09T00:00:00+0000</published>
+    <updated>2025-09-09T00:00:00+0000</updated>
+    <summary>&lt;p&gt;NGOs and non-profit organisations are constantly working to bring about lasting change in society. OKF also works towards social justice and participation on many levels in its numerous projects. However, organisations often lack an inward perspective. With this new series, we want to provide transparency: &lt;em&gt;How do we make decisions? How do we distribute power? How do we shape collaboration?&lt;/em&gt;&lt;br&gt; &lt;a href=&#34;https://okfn.de/aktivismus-von-innen/&#34; target=&#34;_blank&#34;&gt;&amp;lsquo;Activism from Within&amp;rsquo;&lt;/a&gt; addresses precisely these issues.&lt;/p&gt;
+&lt;p&gt;Over the next three weeks, we will give you an insight into our structures and share experiences, challenges and tools for implementing our social demands internally.
+In &lt;strong&gt;part 1&lt;/strong&gt;, we show how we organise ourselves internally. We describe the structures we use to promote co-determination and distribute power. In &lt;strong&gt;part 2&lt;/strong&gt;, we share instructions for an exercise we use to facilitate discussions about power structures in our organisation. And finally, in &lt;strong&gt;part 3&lt;/strong&gt;, we share our first version of a conflict routine: instructions on how to proceed when you find yourself in a conflict.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Presentation &amp; Expert Roundtable: &#39;From Software to Society — Openness in a changing world’</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2025/06/presentation-expert-roundtable-from-software-to-society-openness-in-a-changing-world/"/>
+    <id>https://okfn.de/en/blog/2025/06/presentation-expert-roundtable-from-software-to-society-openness-in-a-changing-world/</id>
+    <published>2025-06-04T00:00:00+0000</published>
+    <updated>2025-06-04T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;invitation&#34;&gt;Invitation&lt;/h2&gt;
+&lt;p&gt;The idea of openness has had a decisive influence on the digital age. Whether open source software, open standards or freely licensed content — many foundations are based on principles of accessibility, participation and transparency. Openness, understood as free access, free use, modification and sharing of knowledge, has established itself as a driver of innovation and social progress. However, despite all its successes, the concept of openness seems to be going through a crisis. Between political appropriation, economic instrumentalisation and technological upheaval, the concept of openness is coming under increasing pressure and threatens to become diluted. The reasons for this include contradictory definitions, the enormous concentration of power in a few tech companies, geopolitical tensions and internal conflicts in openness communities.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>From Software to Society — Openness in a changing world</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2025/05/from-software-to-society-openness-in-a-changing-world/"/>
+    <id>https://okfn.de/en/blog/2025/05/from-software-to-society-openness-in-a-changing-world/</id>
+    <published>2025-05-19T00:00:00+0000</published>
+    <updated>2025-05-19T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;from-software-to-society--openness-in-a-changing-world&#34;&gt;From Software to Society — Openness in a changing world&lt;/h2&gt;
+&lt;p&gt;The idea of openness has had a decisive influence on the digital age. Whether open source software, open standards or freely licensed content - many foundations are based on principles of accessibility, participation and transparency. Openness, understood as free access, free use, modification and sharing of knowledge, has established itself as a driver of innovation and social progress. However, despite all its successes, the concept of openness seems to be going through a crisis. Between political appropriation, economic instrumentalisation and technological upheaval, the concept of openness is coming under increasing pressure and threatens to become diluted. The reasons for this include contradictory definitions, the enormous concentration of power in a few tech companies, geopolitical tensions and internal conflicts in openness communities.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>RightsCon 2025 in Taipei – Insights on digital rights and activism</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2025/03/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/"/>
+    <id>https://okfn.de/en/blog/2025/03/rightscon-2025-in-taipei-insights-on-digital-rights-and-activism/</id>
+    <published>2025-03-24T00:00:00+0000</published>
+    <updated>2025-03-24T00:00:00+0000</updated>
+    <summary>&lt;h2 id=&#34;rightscon-2025-in-taipei--insights-on-digital-rights-and-activism&#34;&gt;RightsCon 2025 in Taipei – Insights on digital rights and activism&lt;/h2&gt;
+&lt;p&gt;Last month, &lt;a href=&#34;https://www.rightscon.org/&#34; target=&#34;_blank&#34;&gt;RightsCon&lt;/a&gt;, the international summit on human rights in the digital age, took place in Taipei, Taiwan, from 24th to 27th February. After its previous iteration in Costa Rica two years ago, RightsCon once again brought together a mix of large and small NGOs, tech companies, policy-makers, and activists.&lt;/p&gt;
+&lt;h2 id=&#34;event-overview&#34;&gt;Event overview&lt;/h2&gt;
+&lt;p&gt;The summit was attended by our team member Sonja Fischbauer, who leads organisational development at OKF Germany. After attending the &lt;a href=&#34;https://okfn.de/en/blog/2024/06/from-taipei-to-berlin-how-civic-tech-in-taiwan-inspires-digital-democracy/&#34; target=&#34;_blank&#34;&gt;g0v summit 2024 in Taipei&lt;/a&gt;, she returned to Taiwan for a longer stay, connecting with like-minded local organizations such as the &lt;a href=&#34;https://ocf.tw/en/&#34; target=&#34;_blank&#34;&gt;Open Culture Foundation&lt;/a&gt;. This Taiwanese nonprofit acts as a hub to connect the local open source community with human rights activists, civil society and government stakeholders. The Open Culture Foundation was this year’s local partner for the organizers behind RightsCon, the US-American NGO Access Now. &lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Global efforts to strengthen open source concepts – Insights from the OSPO conference at the United Nations</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2024/07/global-efforts-to-strengthen-open-source-concepts-insights-from-the-ospo-conference-at-the-united-nations/"/>
+    <id>https://okfn.de/en/blog/2024/07/global-efforts-to-strengthen-open-source-concepts-insights-from-the-ospo-conference-at-the-united-nations/</id>
+    <published>2024-07-16T00:00:00+0000</published>
+    <updated>2024-07-16T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Last week, the second edition of the conference &lt;a href=&#34;https://www.un.org/techenvoy/content/ospos-good-2024&#34; target=&#34;_blank&#34;&gt;Open Source Programme Offices for Good&lt;/a&gt; (#OSPOsForGood) took place in New York. At the invitation of the United Nations (UN), around 450 open source enthusiasts from all over the world traveled to the event - a huge success for the organizers, as there were around 80 participants in 2023. It was about nothing less than the role of open source software in achieving the Sustainable Development Goals - i.e. saving the world, the UN&amp;rsquo;s core task.&lt;/strong&gt;&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>From Taipei to Berlin: How Civic Tech in Taiwan Inspires Digital Democracy</title>
@@ -17,6 +120,54 @@
     <updated>2024-06-06T00:00:00+0000</updated>
     <summary>&lt;p&gt;Last month, we had the chance to learn more about the civic tech and open source scene in Taiwan and to exchange ideas with Taiwanese activists. The country is a model in the field of digital democracy with some success stories in the collaboration between government and civil society. Seven years ago, we reported on our first &lt;a href=&#34;https://codefor.de/blog/open-communities/&#34; target=&#34;_blank&#34;&gt;visit to Taiwan&lt;/a&gt; as part of an exchange program by Code for All.&lt;/p&gt;
 &lt;p&gt;In the international civic tech network, g0v is the Taiwanese counterpart to Code for Germany. The organization g0v is the Taiwanese counterpart to Code for Germany in Taiwan, g0v (pronounced “gov-zero”). Following the hands-on principle, the community develops open source technologies and civic tech projects for democratic participation. A well-known early project is the vTaiwan platform, which allows people to actively participate in legislation. The g0v hackathons take place every two months and each have 100 participants to this day.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>In Support of Gubad Ibadoghlu</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2024/02/in-support-of-gubad-ibadoghlu/"/>
+    <id>https://okfn.de/en/blog/2024/02/in-support-of-gubad-ibadoghlu/</id>
+    <published>2024-02-01T00:00:00+0000</published>
+    <updated>2024-02-01T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Statement from the Civil Society Members of the EITI Germany (DEITI) in Support of Gubad Ibadoghlu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The undersigned Civil Society members of the EITI Germany MSG express their deep concern for the arrest of economist and civil activist Gubad Ibadoghlu in Azerbaijan. Dr. Ibadoghlu has been a relentless champion of transparency and a key, active stakeholder in Azerbaijan’s EITI  journey.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are deeply disturbed by the reports we heard of the violent nature of his arrest, the harsh conditions of his detention, and the denial of access to medical services reported by his family in light of his rapidly deteriorating health. We urge the Azerbaijan authorities to uphold and respect the rights of civil society actors and the principles of freedom of expression and association.
+We urgently call for his release, for due process to be followed, in accordance with international best practice, and for measures to ensure his health and safety.
+We stand in solidarity with Dr. Ibadoughlu and others like him who promote transparency values at great personal risk.
+In solidarity,&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Is Germany ready for the OGP Steering Committee?</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2019/11/is-germany-ready-for-the-ogp-steering-committee/"/>
+    <id>https://okfn.de/en/blog/2019/11/is-germany-ready-for-the-ogp-steering-committee/</id>
+    <published>2019-11-12T00:00:00+0000</published>
+    <updated>2019-11-12T00:00:00+0000</updated>
+    <summary>&lt;h3 id=&#34;a-critical-review-of-the-2nd-national-action-plan&#34;&gt;A critical review of the 2nd national action plan&lt;/h3&gt;
+&lt;p&gt;In October 2019 Germany is officially joining OGP’s steering committee, together with Indonesia. However, after the release of the second national action plan, the steering committee seems like premature praise. Or what us Germans would call it: Vorschusslorbeeren, which literally translates to receiving a roman laurel — before you’ve won the competition.&lt;/p&gt;
+&lt;p&gt;The action plan was adopted by the federal cabinet on 4 September and first announced in a video statement made by Chancellor Angela Merkel the weekend before. This created a lot of media attention, but does not hide the fact that the plan lacks high level commitments. But how did Germany do on the second action plan?&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Copyright Censorship: We Got a Cease-and-Desist by the Government </title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2019/03/copyright-censorship-we-got-a-cease-and-desist-by-the-government/"/>
+    <id>https://okfn.de/en/blog/2019/03/copyright-censorship-we-got-a-cease-and-desist-by-the-government/</id>
+    <published>2019-03-20T00:00:00+0000</published>
+    <updated>2019-03-20T00:00:00+0000</updated>
+    <summary>&lt;p&gt;The German government has threatened us in order to depublish a government report on the risks of glyphosate. The responsible Federal Institute for Risk Assessment (BfR), which reports to the Ministry of Agriculture of Julia Klöckner (CDU), accuses us of copyright infringement and demands that we sign a cease-and-desist declaration.&lt;/p&gt;
+&lt;p&gt;Arne Semsrott, project lead of FragDenStaat: &amp;ldquo;It is shameful to see the Ministry of Agriculture abusing copyright to suppress unwelcome reporting. But we won&amp;rsquo;t be intimidated. If necessary, we will take the case to the European Court of Justice. Copyright must not become a censorship right.&amp;rdquo;&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <title>Open Data directive, the directive formerly known as PSI public sector information</title>
+    <link rel="alternate" href="https://okfn.de/en/blog/2019/01/open-data-directive-the-directive-formerly-known-as-psi-public-sector-information/"/>
+    <id>https://okfn.de/en/blog/2019/01/open-data-directive-the-directive-formerly-known-as-psi-public-sector-information/</id>
+    <published>2019-01-22T00:00:00+0000</published>
+    <updated>2019-01-22T00:00:00+0000</updated>
+    <summary>&lt;p&gt;It&amp;rsquo;s done. The Provisional Agreement for the PSI Directive soon to be known as Open Data Directive (directive on Open
+Data and the re-use of public sector information) is reached.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Deutsche Version &lt;a href=&#34;https://okfn.de/blog/2019/01/open-data-directive#deutsch&#34;&gt;hier&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Today, January 22 2019 the final trilogue between European Commission, Parliament, and Council came to the ratification of the updated PSI Directive. This law was last updated in 2013 and a lot has changed since then.
+Finally it will get the name it easier to explain: open data directive.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

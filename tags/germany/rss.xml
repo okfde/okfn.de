@@ -6,15 +6,8 @@
     <description>Recent content in Germany on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 02 Aug 2017 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jul 2017 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/germany/rss.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Germany finally has an Open Data Law</title>
-      <link>https://okfn.de/blog/2017/08/germany-finally-has-an-open-data-law/</link>
-      <pubDate>Wed, 02 Aug 2017 10:00:00 +0000</pubDate>
-      <guid>https://okfn.de/blog/2017/08/germany-finally-has-an-open-data-law/</guid>
-      <description>&lt;p&gt;On July 13, 2017 Germany’s first Open Data law came into effect, finally enabling free access to government data. The Open Data law is part of the change of the German E-Government law &lt;a href=&#34;https://www.gesetze-im-internet.de/egovg/__12a.html&#34; target=&#34;_blank&#34;&gt;(EGovG)&lt;/a&gt;, which we translated &lt;a href=&#34;https://okfn.de/blog/2017/07/Germany%27s-open-data-law-english/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. While it is neither part of the freedom of information act nor an actual transparency law, it provides the judicial foundation for obtaining data from all public authorities subject to the federal government. The authorities will provide raw data on publicly accessible networks, if it was stored in an electronically structured form and includes facts that regard circumstances outside of the administration. Furthermore, a central support agency for open data will be established.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>German Open Data Law in English</title>
       <link>https://okfn.de/blog/2017/07/german-open-data-law-in-english/</link>
