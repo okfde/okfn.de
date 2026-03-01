@@ -1,7 +1,19 @@
 {{ range first 1 (where .Site.RegularPages.ByDate.Reverse "Params.featured" "ne" nil) }}
-<a class="c__post--featured c__post__bg--{{.Params.featured}}" href="{{ .Permalink }}" title="{{ .Title }}">
+<a class="c__post--featured c__post__bg--{{.Params.featured}}" href="{{ .Permalink }}">
     <h2 class="h3">{{ .Title }}</h2>
     <time datetime="{{.Date}}">{{ .Date.Format "02.01.2006" }}</time>
-    {{- partial "blog_image_license" . -}}
+    {{/* This is pretty similar to `blog_image_license` but is built without `a`-tags since
+         we are in a link already and browsers do not allow nesting links. */}}
+    <figure class="license">
+        <img src="{{.Params.image.src}}" alt="">
+        {{ if (or .Params.image.license .Params.image.title) }}
+        <figcaption>
+            {{ with .Params.image.title }}{{.}}{{end}}
+            {{ if (and .Params.image.license .Params.image.title) }} von {{ end }}
+            {{ with .Params.image.license}}{{.}}{{ end }}
+            {{ with .Params.image.license_url }} ({{.}}) {{ end }}
+        </figcaption>
+        {{ end }}
+    </figure>
 </a>
 {{ end }}
