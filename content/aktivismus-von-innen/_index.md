@@ -20,3 +20,8 @@ copy: |
   *Die Serie wird von unserer Organisationsentwicklerin Sonja Fischbauer verfasst. Schreibt gern eine 
   [Mail an Sonja](mailto:sonja.fischbauer@okfn.de), wenn ihr Kommentare oder Rückfragen habt. Meldet euch bei uns, wir freuen uns auf den Austausch!*
 ---
+
+
+<iframe src="/pfad/zu/deinem/dokument.pdf" width="100%" height="600px">
+    <p>Dein Browser unterstützt keine PDFs. <a href="/pfad/zu/deinem/dokument.pdf">Hier klicken zum Herunterladen.</a></p>
+</iframe>
