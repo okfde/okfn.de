@@ -22,6 +22,6 @@ copy: |
 ---
 
 
-<iframe src="/pfad/zu/deinem/dokument.pdf" width="100%" height="600px">
+<iframe src="static/files/documents/OKF_WhistleblowingPolicy_Verfahrensordnung.pdf" width="100%" height="600px">
     <p>Dein Browser unterstützt keine PDFs. <a href="/pfad/zu/deinem/dokument.pdf">Hier klicken zum Herunterladen.</a></p>
 </iframe>
