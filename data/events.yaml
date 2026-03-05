@@ -268,3 +268,9 @@
   startdate: "2026-02-06"
   venue: Jugendkulturzentrum
   show: true
+- name: Hackathon für Jugendliche in Köln
+  url: hhttps://jugendhackt.org/events/koeln/
+  enddate: "2026-05-10"
+  startdate: "2026-05-08"
+  venue: eva-gGmbH, Köln Ehrenfeld
+  show: true
