@@ -14,7 +14,7 @@ title: "Kommunikationsmanagement im Projekt OpenEnergy (Teilzeit, ab sofort, 1 J
 
 ## Wen wir suchen
 
-Für das Projekt OpenEnergy sind wir auf der Suche nach einer selbstständigen, politik- und technikinteressierten Persönlichkeit, die sich für den Zusammenhang zwischen Technologie, Gesellschaft, Bildung und Demokratie begeistert. Wir suchen eine Person, mit ersten Erfahrungen im Kommunikationsmanagement und in der praktischen PR, Berufseinsteiger*innen sind ebenfalls willkommen. Deine Kompetenzen liegen im Bereich der Veranstaltungsorganisation und Öffentlichkeitsarbeit, im Besonderen Social Media. Du bist in der Lage, ein Kommunikationskonzept zu entwickeln, Kanäle von Grund auf neu aufzubauen und zielgruppengerecht Beiträge zur Energiewende und zu partizipativen Technologien zu verfassen. Du bist gut in der Bearbeitung von Texten, hast einen Blick für Bildmotive und besonderes Interesse an einem der folgenden Themenbereiche: Bürger*innenenergie, nachhaltige Produktentwicklung, Circular Design, Open Design, Open Source Hardware. Deine Begeisterung liegt in der Befähigung der Zivilgesellschaft und der Stärkung der Demokratie durch die Vermittlung energiepolitischer Handlungsansätze, mit Hilfe partizipativer Technologien. Von deinem bisherigen Arbeitsprofil passt du in eine gemeinnützige Organisation, die von viel ehren- und hauptamtlichem Herzblut getragen ist. 
+Für das Projekt OpenEnergy sind wir auf der Suche nach einer selbstständigen, politik- und technikinteressierten Persönlichkeit, die sich für den Zusammenhang zwischen Technologie, Gesellschaft, Bildung und Demokratie begeistert. Wir suchen eine Person, mit ersten Erfahrungen im Kommunikationsmanagement und in der praktischen PR, Berufseinsteiger\*innen sind ebenfalls willkommen. Deine Kompetenzen liegen im Bereich der Veranstaltungsorganisation und Öffentlichkeitsarbeit, im Besonderen Social Media. Du bist in der Lage, ein Kommunikationskonzept zu entwickeln, Kanäle von Grund auf neu aufzubauen und zielgruppengerecht Beiträge zur Energiewende und zu partizipativen Technologien zu verfassen. Du bist gut in der Bearbeitung von Texten, hast einen Blick für Bildmotive und besonderes Interesse an einem der folgenden Themenbereiche: Bürger\*innenenergie, nachhaltige Produktentwicklung, Circular Design, Open Design, Open Source Hardware. Deine Begeisterung liegt in der Befähigung der Zivilgesellschaft und der Stärkung der Demokratie durch die Vermittlung energiepolitischer Handlungsansätze, mit Hilfe partizipativer Technologien. Von deinem bisherigen Arbeitsprofil passt du in eine gemeinnützige Organisation, die von viel ehren- und hauptamtlichem Herzblut getragen ist. 
 
 ### Folgendes machst du gerne oder fällt dir leicht:
 * Akquise von Netzwerken und Einzelpersonen im Bereich der zivilgesellschaftlichen Stromerzeugung
@@ -38,8 +38,6 @@ Die Open Knowledge Foundation Deutschland ist ein gemeinnütziger Verein mit Sit
 Im Arbeitsbereich Open Hardware geht es um die Förderung offener, partizipativer Technologien, die die Zivilgesellschaft befähigen und eine resiliente Zukunftsvision realisieren. Das Projekt OpenEnergy fokussiert sich dabei auf die zivilgesellschaftliche Stromerzeugung und Vermittlung energiepolitischer Handlungsansätze. 
 
 ## Was wir bieten
-
-Wir bieten dir Folgendes an:
  
 * die Mitarbeit in einem neuen Themenbereich der Organisation, den du mitgestalten kannst
 * ein spannendes Arbeitsumfeld in Berlin
@@ -51,6 +49,6 @@ Die Stelle ist ab sofort, spätestens aber bis zum 15. April, zu besetzen. Bei d
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der Techszene unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
  
-Bitte schicke uns deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang (min. 20 Wochenstunden) bis zum 22. März per E-Mail an jobs@okfn.de, gerne auch PGP-verschlüsselt (Key). Hast du inhaltliche Fragen, melde Dich gern bei Maximilian unter maximilian.voigt@okfn.de. 
+Bitte schicke uns deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang (min. 20 Wochenstunden) bis zum 30. März per E-Mail an jobs@okfn.de, gerne auch PGP-verschlüsselt (Key). Hast du inhaltliche Fragen, melde Dich gern bei Maximilian unter maximilian.voigt@okfn.de. 
 
-Die Gespräche finden am 25., 26. und 27.3. in Berlin statt - wenn nötig, auch digital. 
+Die Gespräche finden zwischen dem 7. und 10. April in Berlin statt - wenn nötig, auch digital. 
