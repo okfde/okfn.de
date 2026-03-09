@@ -9,7 +9,7 @@ image:
   license_url: null
 tags: null
 title: "Kommunikationsmanagement im Projekt OpenEnergy (Teilzeit, ab sofort, 1 Jahr befristet, Vergütung nach TVL)"
-draft: 'true'
+
 ---
 
 ## Wen wir suchen
