@@ -45,7 +45,7 @@ Im Arbeitsbereich Open Hardware geht es um die Förderung offener, partizipative
 * eine nette Büroatmosphäre, gratis Getränke und oft aufgefüllte Snackbox
 * eine Vergütung nach TV-L 12/13-1 (je nach Erfahrung)
 
-Die Stelle ist ab sofort, spätestens aber bis zum 15. April, zu besetzen. Bei der Stelle handelt es sich um eine auf ein Jahr befristete Stelle, mit Ausblick auf Verlängerung, abhängig von der Beantragung und Bewilligung weiterer Projektmittel.
+Die Stelle ist ab sofort, spätestens aber bis zum 1. Mai, zu besetzen. Bei der Stelle handelt es sich um eine auf ein Jahr befristete Stelle, mit Ausblick auf Verlängerung, abhängig von der Beantragung und Bewilligung weiterer Projektmittel.
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der Techszene unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
  
