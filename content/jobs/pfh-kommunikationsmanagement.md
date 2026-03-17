@@ -49,6 +49,6 @@ Die Stelle ist ab sofort, spätestens aber bis zum 1. Mai, zu besetzen. Bei der 
 
 Wir freuen uns insbesondere über die Bewerbungen von Frauen, Menschen mit Migrationshintergrund und Menschen anderer Gruppen, die in der Techszene unterrepräsentiert sind. Von Bewerbungsfotos und Angaben zu Alter und Familienstand bitten wir abzusehen.
  
-Bitte schicke uns deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang (min. 20 Wochenstunden) bis zum 30. März per E-Mail an jobs@okfn.de, gerne auch PGP-verschlüsselt (Key). Hast du inhaltliche Fragen, melde Dich gern bei Maximilian unter maximilian.voigt@okfn.de. 
+Bitte schicke uns deine Bewerbung (Motivation, Erfahrungsnachweise, Lebenslauf) inkl. möglichem Beginn und bevorzugtem Stundenumfang (min. 20 Wochenstunden) bis zum 30. März per E-Mail an jobs@okfn.de. Hast du inhaltliche Fragen, melde Dich gern bei Maximilian unter maximilian.voigt@okfn.de. 
 
 Die Gespräche finden zwischen dem 7. und 10. April in Berlin statt - wenn nötig, auch digital. 
