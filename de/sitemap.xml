@@ -98,6 +98,35 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/stellungnahmeth%C3%BCrtg/</loc>
+    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -129,19 +158,6 @@
   </url><url>
     <loc>https://okfn.de/authors/maximilian-voigt/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2026-03-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
@@ -205,19 +221,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2026/02/der-deutschland-stack-braucht-mehr-als-eine-liste-an-standards/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/f5_omnibus/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
