@@ -17,6 +17,6 @@ copy: |
   
   Wir möchten damit auch andere Vereine, NGOs und Aktivist:innen ermutigen, einen Blick nach innen zu werfen und ihre Erfahrungen zu teilen.
   
-  *Die Serie wird von unserer Organisationsentwicklerin Sonja Fischbauer verfasst. Schreibt gern eine 
-  [Mail an Sonja](mailto:sonja.fischbauer@okfn.de), wenn ihr Kommentare oder Rückfragen habt. Meldet euch bei uns, wir freuen uns auf den Austausch!*
+  *Die Serie wurde von unserer Organisationsentwicklerin Sonja Fischbauer verfasst. Schreibt gern eine 
+  [Mail an die OKF](mailto:info@okfn.de), wenn ihr Kommentare oder Rückfragen habt. Meldet euch bei uns, wir freuen uns auf den Austausch!*
 ---
