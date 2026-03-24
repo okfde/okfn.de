@@ -15,6 +15,6 @@ copy: |
 
   We also want to encourage other associations, NGOs and activists to take a look inward and share their experiences.
 
-  *The series is written by our organisational development specialist Sonja Fischbauer. Feel free to send an 
-  [email to Sonja](mailto:sonja.fischbauer@okfn.de) if you have any comments or questions. Get in touch with us, we look forward to hearing from you!*
+  *The series was written by our organisational development specialist Sonja Fischbauer. Feel free to send an 
+  [email to the OKF](mailto:info@okfn.de) if you have any comments or questions. Get in touch with us, we look forward to hearing from you!*
 ---
