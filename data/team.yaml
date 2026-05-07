@@ -103,6 +103,21 @@
   website:
   github:
 
+- name: Rosanna Oehme
+  img: RosannaOehme
+  staff: 1
+  board: 0
+  advisory: 0
+  board_alumni: 0
+  position: Projektmanagerin Jugend hackt
+  position_en: project manager Jugend hackt
+  bio: "Rosanna Oehme (sie/ihr) ist Projektmanagerin bei Jugend hackt und arbeitet zu digitaler Demokratie, Überwachungstechnologien und Big Tech — mit einem Fokus auf kritische digitale Bildung."
+  bio_en: "Rosanna Oehme (she/her) is a project manager at Jugend hackt, working on digital democracy, surveillance technologies, and Big Tech, with a focus on critical digital education."
+  mail: rosanna.oehme@okfn.de
+  twitter:
+  website:
+  github:
+
 - name: Hannah Vos
   img: hannahvos
   staff: 1
