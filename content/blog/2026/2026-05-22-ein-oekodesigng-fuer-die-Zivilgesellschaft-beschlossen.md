@@ -28,7 +28,9 @@ Bisher waren private Reparateure immer außen vor, wenn es um den Zugang zu repa
 ### Die Eigenreparatur ist kein Randphänomen
 
 Im Streit um das sogenannte Recht auf Reparatur haben Industrievertreter\*innen immer wieder betont, dass die Eigenreparatur 1. dazu führe, dass große Sach- und Personenschäden durch inkompetente Laien entstehen würden und 2. diese in der Praxis eine Minderheit seien. In der Folge wurde ihnen der Zugang zu Ersatzteilen und Informationen, insbesondere die „sicherheitsrelevanten“ weitgehend verwehrt. Gemeinsam mit dem Runden Tisch für Reparatur haben wir Versicherungsverbände befragt und eine Kanzlei beauftragt, Gerichtsfälle zu recherchieren, die Sachschäden in Folge der Eigenreparatur dokumentieren. Die Recherche ergab keine Ergebnisse. Es gibt also keine Evidenz, dass die Eigenreparatur zu gefährlichen Sach- und Körperschäden führt. Offen blieb die Behauptung, die Eigenreparatur sei nur ein Randphänomen. Um dies zu prüfen beauftragten wir eine quantitative Befragung von mehr als 3000 Personen deutschlandweit, über alle Alters- und Einkommensgruppen hinweg. Die Ergebnisse werden in Kürze im Detail veröffentlicht.
-![](https://cyber4edu.org//pads/uploads/b83874dd-71e5-4e35-b43d-e7a671e6cae6.png)
+
+![](https://cyber4edu.org//pads/uploads/ed1b2958-0bbd-48c1-8b86-3c6ffd44b920.png)
+
 Sicher ist schon jetzt, dass mehr als 50% der Befragten selbst reparieren und das über diverse Produktgruppen hinweg. 25% der Befragten traut sich sogar zu, einzelne Bauelemente aus- und wieder einzulösen. Es werden also nicht nur Fahrräder selbst repariert. Damit ist die Eigenreparatur kein Randphänomen. Diese Tatsache wird von aktuellen EU-Regeln bisher viel zu wenig berücksichtigt. 
 
 ### Zum aktuellen Stand auf der re:publica
