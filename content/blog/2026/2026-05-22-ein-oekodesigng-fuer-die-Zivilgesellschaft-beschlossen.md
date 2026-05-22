@@ -2,7 +2,7 @@
 authors:
 - Maximilian Voigt
 image:
-  src: /files/blog/2024/rc2.JPG
+  src: https://fablab-cottbus.de/assets/img/blog/2016/11/repairCafe_1.jpg
 tags:
 - Recht auf Reparatur
 - Produkttransparenz
