@@ -31,7 +31,7 @@ Im Streit um das sogenannte Recht auf Reparatur haben Industrievertreter\*innen 
 
 ![](https://cyber4edu.org//pads/uploads/ed1b2958-0bbd-48c1-8b86-3c6ffd44b920.png)
 
-Sicher ist schon jetzt, dass mehr als 50% der Befragten selbst reparieren und das über diverse Produktgruppen hinweg. 25% der Befragten traut sich sogar zu, einzelne Bauelemente aus- und wieder einzulösen. Es werden also nicht nur Fahrräder selbst repariert. Damit ist die Eigenreparatur kein Randphänomen. Diese Tatsache wird von aktuellen EU-Regeln bisher viel zu wenig berücksichtigt. 
+Sicher ist schon jetzt, dass mehr als 50% der Befragten selbst reparieren und das über diverse Produktgruppen hinweg. 25% der Befragten traut sich sogar zu, einzelne Bauelemente aus- und wieder einzulöten. Es werden also nicht nur Fahrräder selbst repariert. Damit ist die Eigenreparatur kein Randphänomen. Diese Tatsache wird von aktuellen EU-Regeln bisher viel zu wenig berücksichtigt. 
 
 ### Zum aktuellen Stand auf der re:publica
 Im April 2024 hat das EU-Parlament nach langem Prozess das sogenannte “Recht auf Reparatur” verabschiedet. In diesem Jahr soll es in deutsches Recht gegossen werden. Das Ökodesign-Gesetz ist ein Teil dieser komplexen Neuregelung. Auf der [re:publica 2026 hat Maximilian Voigt einen Überblick über die Lobbyarbeit seitens der Zivilgesellschaft](https://re-publica.com/de/session/nach-vier-jahren-kampf-wohin-bringt-uns-das-recht-auf-reparatur) gegeben und den aktuellen Stand bewertet. Die [Präsentation des Vortrages "Nach vier Jahren Kampf: Wohin bringt uns das Recht auf Reparatur?" ist jetzt online](https://cyber4edu.org//pads/p/GViZ3pbbwW#/).
