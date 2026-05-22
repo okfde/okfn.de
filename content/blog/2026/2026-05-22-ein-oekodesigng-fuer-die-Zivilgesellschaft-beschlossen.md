@@ -21,7 +21,7 @@ Von jetzt an können Repair Cafés sich als fachkompetente Reparateure registrie
 2. Einhaltung von Vorschriften, welche für die Reparateure elektrischer Geräte gelten (Eigenerklärung), und
 3. Ein Versicherungsschutz, der die Haftung im Zusammenhang mit der Reparaturtätigkeit abdeckt
 
-### Indirekter Zugang zu Reparaturinformationen und Ersatzteile für alle
+### Indirekter Zugang zu Reparaturinformationen und Ersatzteilen für alle
 
 Bisher waren private Reparateure immer außen vor, wenn es um den Zugang zu reparaturrelevanten Ressourcen ging. Ersatzteile und technische Informationen bekommen nur fachlich kompetente Reparateure, keine sogenannten "Verbraucher\*innen". Mit dem Ökodesign-Gesetz ändert sich das nun indirekt. Denn über das Repair Café um die Ecke erhalten alle, die dort aktiv sind, indirekt den gleichen Zugang. Das stärkt die Reparaturinitiativen als Orte zivilgesellschaftlich organisierter Reparatur, aber auch alle anderen, die privat reparieren. Damit sinken indirekt auch die Kosten. Denn selbst zu reparieren spart teure Fachkräfte.
 
