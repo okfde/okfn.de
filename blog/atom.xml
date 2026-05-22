@@ -1,13 +1,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-05-13T00:00:00+0000</updated>
+  <updated>2026-05-22T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Bundestag stärkt zivilgesellschaftliche Reparateure</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/05/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/"/>
+    <id>https://okfn.de/blog/2026/05/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/</id>
+    <published>2026-05-22T00:00:00+0000</published>
+    <updated>2026-05-22T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Das gestern beschlossene Ökodesign-Gesetz ist ein Meilenstein für die nicht-kommerzielle Reparaturbewegung: &lt;strong&gt;Erstmals haben Mitglieder ehrenamtlicher Reparaturinitiativen einen gesetzlichen Anspruch auf Ersatzteile und Reparaturinformationen&lt;/strong&gt; und das relativ unbürokratisch. Damit sind unsere &lt;a href=&#34;https://okfn.de/blog/2025/09/das-%C3%B6kodesigng-darf-die-zivilgesellschaft-nicht-benachteiligen/&#34; target=&#34;_blank&#34;&gt;Forderungen vom 25.09.2025&lt;/a&gt; aufgenommen worden und nun rechtskräftig, die bereits im &lt;a href=&#34;https://okfn.de/blog/2026/02/kabinettsbeschluss-zum-%C3%B6kodesigng-wichtige-fortschritte-f%C3%BCr-reparaturinitiativen/&#34; target=&#34;_blank&#34;&gt;Kabinettsbeschluss vom 26. Januar 2026&lt;/a&gt; enthalten waren.&lt;/p&gt;
+&lt;p&gt;Von jetzt an können Repair Cafés sich als fachkompetente Reparateure registrieren. Dazu brauchen sie lediglich:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Nachweis über die Fachkunde zur Reparatur des betroffenen Ökodesign-Produktes, z.B. durch einen Schulungsnachweis als Elektrofachkräfte für festgelegte Tätigkeiten,&lt;/li&gt;
+&lt;li&gt;Einhaltung von Vorschriften, welche für die Reparateure elektrischer Geräte gelten (Eigenerklärung), und&lt;/li&gt;
+&lt;li&gt;Ein Versicherungsschutz, der die Haftung im Zusammenhang mit der Reparaturtätigkeit abdeckt&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;indirekter-zugang-zu-reparaturinformationen-und-ersatzteile-für-alle&#34;&gt;Indirekter Zugang zu Reparaturinformationen und Ersatzteile für alle&lt;/h3&gt;
+&lt;p&gt;Bisher waren private Reparateure immer außen vor, wenn es um den Zugang zu reparaturrelevanten Ressourcen ging. Ersatzteile und technische Informationen bekommen nur fachlich kompetente Reparateure, keine sogenannten &amp;ldquo;Verbraucher*innen&amp;rdquo;. Mit dem Ökodesign-Gesetz ändert sich das nun indirekt. Denn über das Repair Café um die Ecke erhalten alle, die dort aktiv sind, indirekt den gleichen Zugang. Das stärkt die Reparaturinitiativen als Orte zivilgesellschaftlich organisierter Reparatur, aber auch alle anderen, die privat reparieren. Damit sinken indirekt auch die Kosten. Denn selbst zu reparieren spart teure Fachkräfte.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Triff die OKF auf der re:publica 2026!</title>
@@ -144,16 +161,6 @@
     <published>2025-10-09T00:00:00+0000</published>
     <updated>2025-10-09T00:00:00+0000</updated>
     <summary>&lt;p&gt;&lt;em&gt;Die Forderung nach mehr Linked Data aus der Verwaltung ist nicht neu und wird seit Jahren von Stimmen aus der CodeFor-Community und der OKF vorgetragen. Dennoch gibt es bislang nur wenige Beispiele, bei denen Daten der öffentlichen Hand verlinkbar gemacht und an gemeinsamen Ontologien gearbeitet wurde. Umso mehr hat es uns gefreut, als sich die Senatsverwaltung für Finanzen des Landes Berlin vor mehr als zwei Jahren mit dem Vorhaben, ihre Haushaltsdaten als Linked Data zu veröffentlichen, an uns wendete und fragte: wie geht das eigentlich?&lt;/em&gt;&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Konflikte bearbeiten – Eine Anleitung, um Spannungen im Team routiniert zu lösen</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/09/konflikte-bearbeiten-eine-anleitung-um-spannungen-im-team-routiniert-zu-l%C3%B6sen/"/>
-    <id>https://okfn.de/blog/2025/09/konflikte-bearbeiten-eine-anleitung-um-spannungen-im-team-routiniert-zu-l%C3%B6sen/</id>
-    <published>2025-09-30T00:00:00+0000</published>
-    <updated>2025-09-30T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;strong&gt;In diesem Artikel teilen wir unsere erste Version einer Konfliktroutine: eine Anleitung, wie man vorgeht, wenn man sich in einem Konflikt befindet.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Es ist leicht, alle teilhaben zu lassen, wenn alles rund läuft. Schwieriger wird es, wenn Spannungen entstehen. Genau dann zeigt sich, ob unsere Werte im Alltag bestehen. Wenn wir uns für eine demokratische, nachhaltige und resiliente Zukunft einsetzen, müssen wir auch intern Räume schaffen, in denen Konflikte angesprochen, ausgehalten und bearbeitet werden können. Konflikte können eine Chance für persönliches Wachstum, bessere Zusammenarbeit und strukturelle Entwicklung sein.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

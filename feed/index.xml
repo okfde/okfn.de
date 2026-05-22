@@ -5,10 +5,27 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bundestag stärkt zivilgesellschaftliche Reparateure</title>
+      <link>https://okfn.de/blog/2026/05/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2026/05/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/</guid>
+      <description>&lt;p&gt;Das gestern beschlossene Ökodesign-Gesetz ist ein Meilenstein für die nicht-kommerzielle Reparaturbewegung: &lt;strong&gt;Erstmals haben Mitglieder ehrenamtlicher Reparaturinitiativen einen gesetzlichen Anspruch auf Ersatzteile und Reparaturinformationen&lt;/strong&gt; und das relativ unbürokratisch. Damit sind unsere &lt;a href=&#34;https://okfn.de/blog/2025/09/das-%C3%B6kodesigng-darf-die-zivilgesellschaft-nicht-benachteiligen/&#34; target=&#34;_blank&#34;&gt;Forderungen vom 25.09.2025&lt;/a&gt; aufgenommen worden und nun rechtskräftig, die bereits im &lt;a href=&#34;https://okfn.de/blog/2026/02/kabinettsbeschluss-zum-%C3%B6kodesigng-wichtige-fortschritte-f%C3%BCr-reparaturinitiativen/&#34; target=&#34;_blank&#34;&gt;Kabinettsbeschluss vom 26. Januar 2026&lt;/a&gt; enthalten waren.&lt;/p&gt;
+&lt;p&gt;Von jetzt an können Repair Cafés sich als fachkompetente Reparateure registrieren. Dazu brauchen sie lediglich:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Nachweis über die Fachkunde zur Reparatur des betroffenen Ökodesign-Produktes, z.B. durch einen Schulungsnachweis als Elektrofachkräfte für festgelegte Tätigkeiten,&lt;/li&gt;
+&lt;li&gt;Einhaltung von Vorschriften, welche für die Reparateure elektrischer Geräte gelten (Eigenerklärung), und&lt;/li&gt;
+&lt;li&gt;Ein Versicherungsschutz, der die Haftung im Zusammenhang mit der Reparaturtätigkeit abdeckt&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;indirekter-zugang-zu-reparaturinformationen-und-ersatzteile-für-alle&#34;&gt;Indirekter Zugang zu Reparaturinformationen und Ersatzteile für alle&lt;/h3&gt;
+&lt;p&gt;Bisher waren private Reparateure immer außen vor, wenn es um den Zugang zu reparaturrelevanten Ressourcen ging. Ersatzteile und technische Informationen bekommen nur fachlich kompetente Reparateure, keine sogenannten &amp;ldquo;Verbraucher*innen&amp;rdquo;. Mit dem Ökodesign-Gesetz ändert sich das nun indirekt. Denn über das Repair Café um die Ecke erhalten alle, die dort aktiv sind, indirekt den gleichen Zugang. Das stärkt die Reparaturinitiativen als Orte zivilgesellschaftlich organisierter Reparatur, aber auch alle anderen, die privat reparieren. Damit sinken indirekt auch die Kosten. Denn selbst zu reparieren spart teure Fachkräfte.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Triff die OKF auf der re:publica 2026!</title>
@@ -7828,23 +7845,6 @@ Internationale Tagung mit Hackday und Schulungsangebot zu Datenanalyse und -quel
       <description>&lt;p&gt;&lt;strong&gt;Wir möchten Sie herzlich zur feierliche Gründungszeremonie des deutschen Zweiges der &lt;a href=&#34;http://okfn.org/&#34; target=&#34;_blank&#34;&gt;Open Knowledge Foundation&lt;/a&gt; am 6. Mai auf dem Leipziger Semantic Web Tag 2010 einladen.&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;ziele&#34;&gt;Ziele&lt;/h3&gt;
 &lt;p&gt;Die Open Knowledge Foundation ist eine non-profit Organisiation, die sich für den freien und uneingeschränkten Zugang zu &lt;a href=&#34;http://opendefinition.org/1.0/Deutsch&#34; target=&#34;_blank&#34;&gt;offenem&lt;/a&gt; Wissen im digitalen Zeitalter einsetzt. Hierzulande wird die OKFN Projekte und Veranstaltungen zu open knowledge, open access, open data und open government in enger Zusammenarbeit mit dem &lt;a href=&#34;http://opendata-network.org/&#34; target=&#34;_blank&#34;&gt;Opendata Network&lt;/a&gt; und anderen Organisationen und Institutionen initiieren und fördern.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bundestag stärkt zivilgesellschaftliche Reparateure</title>
-      <link>https://okfn.de/blog/1/01/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://okfn.de/blog/1/01/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/</guid>
-      <description>&lt;p&gt;Das gestern beschlossene Ökodesign-Gesetz ist ein Meilenstein für die nicht-kommerzielle Reparaturbewegung: &lt;strong&gt;Erstmals haben Mitglieder ehrenamtlicher Reparaturinitiativen einen gesetzlichen Anspruch auf Ersatzteile und Reparaturinformationen&lt;/strong&gt; und das relativ unbürokratisch. Damit sind unsere &lt;a href=&#34;https://okfn.de/blog/2025/09/das-%C3%B6kodesigng-darf-die-zivilgesellschaft-nicht-benachteiligen/&#34; target=&#34;_blank&#34;&gt;Forderungen vom 25.09.2025&lt;/a&gt; aufgenommen worden und nun rechtskräftig, die bereits im &lt;a href=&#34;https://okfn.de/blog/2026/02/kabinettsbeschluss-zum-%C3%B6kodesigng-wichtige-fortschritte-f%C3%BCr-reparaturinitiativen/&#34; target=&#34;_blank&#34;&gt;Kabinettsbeschluss vom 26. Januar 2026&lt;/a&gt; enthalten waren.&lt;/p&gt;
-&lt;p&gt;Von jetzt an können Repair Cafés sich als fachkompetente Reparateure registrieren. Dazu brauchen sie lediglich:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Nachweis über die Fachkunde zur Reparatur des betroffenen Ökodesign-Produktes, z.B. durch einen Schulungsnachweis als Elektrofachkräfte für festgelegte Tätigkeiten,&lt;/li&gt;
-&lt;li&gt;Einhaltung von Vorschriften, welche für die Reparateure elektrischer Geräte gelten (Eigenerklärung), und&lt;/li&gt;
-&lt;li&gt;Ein Versicherungsschutz, der die Haftung im Zusammenhang mit der Reparaturtätigkeit abdeckt&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;indirekter-zugang-zu-reparaturinformationen-und-ersatzteile-für-alle&#34;&gt;Indirekter Zugang zu Reparaturinformationen und Ersatzteile für alle&lt;/h3&gt;
-&lt;p&gt;Bisher waren private Reparateure immer außen vor, wenn es um den Zugang zu reparaturrelevanten Ressourcen ging. Ersatzteile und technische Informationen bekommen nur fachlich kompetente Reparateure, keine sogenannten &amp;ldquo;Verbraucher*innen&amp;rdquo;. Mit dem Ökodesign-Gesetz ändert sich das nun indirekt. Denn über das Repair Café um die Ecke erhalten alle, die dort aktiv sind, indirekt den gleichen Zugang. Das stärkt die Reparaturinitiativen als Orte zivilgesellschaftlich organisierter Reparatur, aber auch alle anderen, die privat reparieren. Damit sinken indirekt auch die Kosten. Denn selbst zu reparieren spart teure Fachkräfte.&lt;/p&gt;</description>
     </item>
     
     <item>
