@@ -6,6 +6,7 @@ image:
 tags:
 - Recht auf Reparatur
 - Produkttransparenz
+- Ökodesigngesetz
 type: post
 layout: post
 featured: blue
