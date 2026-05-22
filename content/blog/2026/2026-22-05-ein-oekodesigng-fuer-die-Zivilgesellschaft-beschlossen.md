@@ -11,7 +11,7 @@ type: post
 layout: post
 featured: blue
 title: 'Bundestag stärkt zivilgesellschaftliche Reparateure'
-publishedDate: 2026-05-22
+publishedDate: 2026-22-05
 ---
 
 Das gestern beschlossene Ökodesign-Gesetz ist ein Meilenstein für die nicht-kommerzielle Reparaturbewegung: **Erstmals haben Mitglieder ehrenamtlicher Reparaturinitiativen einen gesetzlichen Anspruch auf Ersatzteile und Reparaturinformationen** und das relativ unbürokratisch. Damit sind unsere [Forderungen vom 25.09.2025](https://okfn.de/blog/2025/09/das-%C3%B6kodesigng-darf-die-zivilgesellschaft-nicht-benachteiligen/) aufgenommen worden und nun rechtskräftig, die bereits im [Kabinettsbeschluss vom 26. Januar 2026](https://okfn.de/blog/2026/02/kabinettsbeschluss-zum-%C3%B6kodesigng-wichtige-fortschritte-f%C3%BCr-reparaturinitiativen/) enthalten waren.
