@@ -14,7 +14,7 @@ size: 15MB
 license_type: CC-BY-SA 4.0
 license_link: https://creativecommons.org/licenses/by-sa/4.0/
 links:
-- url: '[https://2024.okfn.de](https://2024.okfn.de)'
+- url: '[https://2025.okfn.de](https://2025.okfn.de)'
 date: 2026-06-03
 ---
 
