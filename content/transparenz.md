@@ -29,6 +29,7 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 [comment]: # (!Achtung: Den aktuellen Bericht KEINESFALLS schon hier verlinken, bevor nicht 1. die Mitgliederversammlung ihn abgesegnet hat und 2. der Wirtschaftsprüfer die Zahlen freigegeben hat!)
 
+- [Jahresbericht 2025](https://2025.okfn.de/) <br>
 - [Jahresbericht 2024](https://2024.okfn.de/) <br>
 - [Jahresbericht 2023](https://2023.okfn.de/) <br>
 - [Jahresbericht 2022](https://2022.okfn.de/) <br>
@@ -46,14 +47,14 @@ Wer Transparenz fordert, muss auch selbst transparent sein, vor allem in der Fin
 
 ### Personalstruktur
 
-Die OKF DE beschäftigt neben der Geschäftsführung noch 42 hauptamtliche Teammitglieder (2024). Die Projektleitungen steuern ihre Projekte eigenständig und haben Projektteams mit Projektmanager:innen und Projektassistent:innen. Im Team der Geschäftsführung sind alle Personen angesiedelt, die für die Gesamtorganisation tätig sind. Die OKF DE zahlt allen Mitarbeitenden Gehälter angelehnt an den Tarifvertrag der Länder (TVL). Studierende erhalten eine Vergütung gemäß des Berliner Tarifvertrags für Studierende. Der Frauenanteil in der OKF DE liegt bei etwa 60 Prozent.
+Die OKF DE beschäftigt im Jahr 2025 neben der Geschäftsführung noch 55 hauptamtliche Teammitglieder. Die Projektleitungen steuern ihre Projekte eigenständig und haben Projektteams mit Projektmanager:innen und Projektassistent:innen. Im Team der Geschäftsführung sind alle Personen angesiedelt, die für die Gesamtorganisation tätig sind. Die OKF DE zahlt Mitarbeitenden Gehälter angelehnt an den Tarifvertrag der Länder (TVL). Studierende erhalten eine Vergütung gemäß des Berliner Tarifvertrags für Studierende. Der Frauenanteil in der OKF DE liegt bei etwa 75 Prozent.
 
 ### Finanzierung
 
 Seit unserer Gründung im Jahr 2011 finanzieren wir uns mehrheitlich über Projekte. Diese werden von wechselnden Mittelgebenden gefördert. Darüber hinaus erhalten wir Spendeneinnahmen sowie in geringerem Ausmaß wirtschaftliche Einnahmen. 
 
 #### Übersicht des aktuellen Geschäftsjahres
-Im Geschäftsjahr 2024 standen uns 3,742 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen Gesamtausgaben von insgesamt 2,959 Millionen Euro gegenüber.
+Im Geschäftsjahr 2025 standen uns 3,783 Millionen Euro für unsere Arbeit zur Verfügung. Dem standen  Gesamtausgaben von insgesamt 3,850 Millionen Euro gegenüber.
 
 #### Detaillierte Angaben zur Mittelherkunft & -verwendung
 
@@ -65,7 +66,7 @@ Hier finden sich Informationen zur finanziellen Entwicklung der Organisation sow
 An unserem Verein halten weder private noch juristische Personen Anteile. Dies ist auch nicht möglich. Es besteht keine Mitgliedschaft in einer anderen Organisationen. Wir sind mit keinen Organisationen juristisch verbunden und halten auch keine Anteile an anderen Organisationen.
 
 ### Namen von juristischen Personen, deren jährliche Zahlungen mehr als 10 % des Gesamtjahresbudgets ausmachen
-Die Projektförderung des Bundesministeriums für Bildung und Forschung zur Finanzierung des Prototype Funds entspricht etwa 14% der Gesamteinnahmen im Jahr 2024. Die Förderung des Arcadia Fund für FragDenStaat macht knapp 10% des Gesamtjahresbudgets aus. Alle weiteren Einnahmen liegen jeweils deutlich unter 10% der Gesamteinnahmen.
+Die Projektförderungen des Bundesministeriums für Forschung, Technologie und Raumfahrt für die Projekte Prototype Fund und Hack Your Education entsprechen etwa 26% der Gesamteinnahmen im Jahr 2025. Alle weiteren Einnahmen liegen jeweils deutlich unter 10% der Gesamteinnahmen.
 
 ### Interne:r Ethikbeauftragte:r
 Seit 2017 gibt es in der OKF das Amt der Ethikbeauftragten im Team. Die Ethikbeauftragte ist die erste Anlaufstelle für interne und externe ethische Fragen. Darüber hinaus ist die Ethikbeauftragte erste Anlaufstelle für Teammitglieder, die Sorgen und Unsicherheiten jeglicher Art haben. Die Ethikbeauftragte sorgt für die Weiterleitung der Anfragen an die richtigen Stellen (z. B. Board oder Geschäftsführung) und überwacht den Prozess. Derzeitiger Ethikbeauftragter ist Gregor Gilka. Externe Anfragen gehen an die Adresse ethics@okfn.de. [<a href="/okf/ethics_okfn_de_pub.asc">OpenPGP</a>]
