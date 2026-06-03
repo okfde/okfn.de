@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2026-03-18T00:00:00+0000</updated>
+  <updated>2026-06-03T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2025</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/2025-jahresbericht/"/>
+    <id>https://okfn.de/publikationen/2025-jahresbericht/</id>
+    <published>2026-06-03T00:00:00+0000</published>
+    <updated>2026-06-03T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland im Jahr 2025. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Stellungnahme zum Ersten Thüringer Entlastungsgesetz</title>
@@ -152,15 +161,6 @@
 &lt;li&gt;TRANSFORMATION offen &amp;amp; innovativ gestalten&lt;/li&gt;
 &lt;li&gt;DEMOKRATIE schützen &amp;amp; ZIVILGESELLSCHAFT stärken&lt;/li&gt;
 &lt;/ol&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Stellungnahme zur Reform des Öffentlich-Rechtlichen Rundfunks</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2024-okf_stellungnahme_rundfunk/"/>
-    <id>https://okfn.de/publikationen/2024-okf_stellungnahme_rundfunk/</id>
-    <published>2024-10-11T00:00:00+0000</published>
-    <updated>2024-10-11T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Die Open Knowledge Foundation Deutschland (OKF) beteiligt sich an der Konsultation zu den vorgelegten Änderungsvorschlägen des Reformstaatsvertrags. In Zeiten von Vertrauenskrise und Falschinformationen muss ein zeitgemäßes Medienangebot sicherstellen, dass faktenbasierte, gut recherchierte Informationen der Öffentlich-Rechtlichen gut auffindbar, breit gestreut und dauerhaft abrufbar sind. Die Pflicht zur Depublizierung für nicht-fiktionale Inhalte muss daher bedingungslos gestrichen werden. Im Zeitalter von immenser digitaler Desinformation, Fake News, Deep Fakes und Hassrede braucht es starke Player, die dagegen halten und Menschen mit gut recherchierten Informationen versorgen und zeitgemäße hochwertige online-Angebote bereitstellen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
