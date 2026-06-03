@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/en/publikationen/atom.xml"/>
-  <updated>2025-10-16T00:00:00+0000</updated>
+  <updated>2026-06-03T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Open Knowledge Foundation Germany e. V. - 2025 Annual report</title>
+    <link rel="alternate" href="https://okfn.de/en/publikationen/2025-jahresbericht/"/>
+    <id>https://okfn.de/en/publikationen/2025-jahresbericht/</id>
+    <published>2026-06-03T00:00:00+0000</published>
+    <updated>2026-06-03T00:00:00+0000</updated>
+    <summary>&lt;p&gt;The report looks back at the work of the Open Knowledge Foundation Germany in 2025. The report summarizes the most important activities, describes how the organization works, and presents all projects in brief. The final part of the annual report includes information on the organizational structure and finances.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Activism from within</title>
@@ -139,15 +148,6 @@
     <summary>&lt;p&gt;The draft law essentially deals with the implementation of the digital provision of administrative services in state law, which has become mandatory as a result of the Federal Law on Online Access (OZG).&lt;/p&gt;
 &lt;p&gt;In the view of the Open Knowledge Foundation Germany, the Hessian state government is implementing necessary changes in the area of user accounts and official mailboxes with the draft law, but is missing the opportunity, after more than four years, to formulate further-reaching regulations and objectives with a genuine amendment to the HEGovG as to how the digital transformation could contribute to an efficient and transparent administration.
 Further comments and criticisms can be found in this statement.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Funding for Future</title>
-    <link rel="alternate" href="https://okfn.de/en/publikationen/2022_handbuch-funding-for-future/"/>
-    <id>https://okfn.de/en/publikationen/2022_handbuch-funding-for-future/</id>
-    <published>2022-04-01T00:00:00+0000</published>
-    <updated>2022-04-01T00:00:00+0000</updated>
-    <summary>&lt;p&gt;In this handbook, the Prototype Fund offers a case study of open source software to demonstrate how individuals and small teams can benefit from unbureaucratic funding. The handbook examines the advantages of such funding and provides insights into its workings.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
