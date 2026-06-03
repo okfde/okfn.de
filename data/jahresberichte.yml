@@ -9,7 +9,17 @@ content:
     text: Our annual reports contain detailed information on the development of our organisation and our projects. As of 2017, our annual report is based on the [Social Reporting Standard](https://www.social-reporting-standard.de/).
 
 reports:
-  - year: 2024
+  - year: 2025
+    img: /okf/verein/Jahresbericht_2024.png
+    pdf: https://2025.okfn.de/
+    de:
+      title: Jahresbericht 2025
+      text: Der Bericht beschreibt neben der Finanzierung und Darstellung der Projekte aus dem Geschäftjahr 2025, die Herausforderungen für eine offene und gerechte Gesellschaft in Deutschland und den Beitrag, den wir dafür leisten möchten.
+    en:
+      title: Annual Report 2025
+      text: In addition to funding information and program activities from the 2025 financial year, the annual report describes the challenges for an open and just society in Germany as well as the contribution we would like to make to this end.
+
+ - year: 2024
     img: /okf/verein/Jahresbericht_2024.png
     pdf: https://2024.okfn.de/
     de:
