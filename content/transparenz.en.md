@@ -31,6 +31,7 @@ Kristina Klein is chairwoman of the board, Gabriele C. Klug is treasurer. Furthe
 
 Transparancy has to be lived and not just demanded, and thus, since 2017, we provide our annual financial and activity report following the guidelines of the Social Reporting Standard.
 
+- [Jahresbericht 2025](https://2025.okfn.de/) <br>
 - [Jahresbericht 2024](https://2024.okfn.de/) <br>
 - [Jahresbericht 2023](https://2023.okfn.de/) <br>
 - [Jahresbericht 2022](https://2022.okfn.de/) <br>
@@ -48,7 +49,7 @@ Transparancy has to be lived and not just demanded, and thus, since 2017, we pro
 
 ### Personnel structure
 
-In addition to the managing director, OKF DE employs 42 team members (2024). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes all personnel with responsibilities for the organization itself. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE’s’ is about 60 percent.
+In addition to the managing director, OKF DE employs 55 team members (2025). The project leads manage their projects independently and have project teams with project managers and project assistants. The team of the managing director includes all personnel with responsibilities for the organization itself. OKF DE pays salaries to its employees based on the collective agreement of the federal states in Germany (TVL). Students receive remuneration in accordance with the Berlin collective agreement for students. The proportion of female team members at OKF DE’s’ is about 75 percent.
 
 ### Finances
 
@@ -56,7 +57,7 @@ Since our launch in 2011, our funding is based on project work. Our projects are
 
 #### Overview of the recent financial year
 
-In the financial year 2024, we raised 3.742 million euros for our work. This was offset by total expenditure of 2.959 million euros.
+In the financial year 2025, we raised 3.783 million euros for our work. This was offset by total expenditure of 3.850 million euros.
 
 #### Detailed information on source & use of funds
 
@@ -70,7 +71,7 @@ Neither private nor legal persons hold shares in our association. This would not
 
 ### Names of legal entities whose annual payments account for more than 10% of the total annual budget.
 
-Project funding from the German Federal Ministry of Education and Research to finance the Prototype Fund corresponds to approximately 14% of the total income in 2024. Funding of the Arcadia Fund for FragDenStaat accounts for almost 10% of the total annual budget in 2024. All other income is well below 10% of the total income.
+Project funding from the German Federal Ministry of Research, Technology and Space to finance the projects Prototype Fund and Hack Your Education corresponds to approximately 26% of the total income in 2025. All other income is well below 10% of the total income.
 
 ### Internal ethics officer
 
