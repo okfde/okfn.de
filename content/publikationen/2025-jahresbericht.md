@@ -2,7 +2,7 @@
 title: Jahresbericht Open Knowledge Foundation Deutschland e. V. 2025
 layout: publikation
 image:
-  src: /files/images/Jahresbericht1.png
+  src: /files/images/Jahresbericht2025_bild.png
 kategorien: Jahresberichte
 categories: yearly reports
 people:
