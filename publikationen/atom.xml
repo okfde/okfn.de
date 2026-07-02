@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2026-06-03T00:00:00+0000</updated>
+  <updated>2026-07-02T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Zweite Stellungnahme zum Digitalisierungsbeschleunigungsgesetz Schleswig-Holstein</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/digibeschlg-sh-ii/"/>
+    <id>https://okfn.de/publikationen/digibeschlg-sh-ii/</id>
+    <published>2026-07-02T00:00:00+0000</published>
+    <updated>2026-07-02T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Schleswig-Holstein hat einen umfassenden Gesetzentwurf vorgelegt, um die Digitalisierung der Verwaltung voranzutreiben. Im Rahmen der schriftlichen Anhörung des Wirtschafts- und
+Digitalisierungsausschusses des Schleswig-Holsteinischen Landtags nehmen wir Stellung zum Entwurf für ein Gesetz zur Beschleunigung der Digitalisierung – Digitalisierungsbeschleunigungsgesetz (DigiBeschlG).&lt;/p&gt;
+&lt;p&gt;Dabei diskutieren wir grundlegende Fragen rund um den Einsatz von Open Source in der Verwaltung. Positiv heben wir die konsequente weitere Umsetzung der Open-Source-Strategie hervor und empfehlen weitere ambitionierte Maßnahmen zur Beschaffung von Open-Source-Software und zur Stärkung der Rolle des Open Source Program Office (OSPO). Zudem ist es aus Sicht der OKF richtig, dass ein besonderes Augenmerk auf die Bereitstellung und Nutzung von Daten gelegt wird.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2025</title>
@@ -146,21 +157,6 @@
     <published>2025-02-10T00:00:00+0000</published>
     <updated>2025-01-22T00:00:00+0000</updated>
     <summary>&lt;p&gt;Das Land NRW hat einen Erfahrungsbericht zum Umsetzungsstand von Open Data auf Landesebene veröffentlicht. Der Bericht wirft mehr Fragen auf, als er beantwortet. Wir empfehlen konkrete Maßnahmen, wie das Einbringen qualitativer Perspektiven, eine mögliche Fokussierung auf bestimmte Kerndatensätze und die Einbeziehung der Zivilgesellschaft.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Digitalpolitik für eine demokratische und resiliente Zukunft</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/"/>
-    <id>https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/</id>
-    <published>2024-12-16T00:00:00+0000</published>
-    <updated>2024-12-16T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Für eine demokratische und resiliente Zukunft ist die Gestaltung der Digitalpolitik, insbesondere der Umgang mit Daten und Informationen, von zentraler Bedeutung. Wir fordern politische Akteur:innen dazu auf, Digitalpolitik als Gesellschaftspolitik zu verstehen, die unsere demokratischen Werte schützt.  &lt;/p&gt;
-&lt;p&gt;Unsere Forderungen gruppieren sich um drei Kernaspekte, deren Umsetzung für eine demokratische, nachhaltige und resiliente Zukunft unabdingbar sind:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;HANDLUNGSFÄHIGKEIT stärken &amp;amp; VERTRAUEN zurückgewinnen&lt;/li&gt;
-&lt;li&gt;TRANSFORMATION offen &amp;amp; innovativ gestalten&lt;/li&gt;
-&lt;li&gt;DEMOKRATIE schützen &amp;amp; ZIVILGESELLSCHAFT stärken&lt;/li&gt;
-&lt;/ol&gt;</summary>
   </entry>
   
 </feed>
