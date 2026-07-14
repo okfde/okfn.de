@@ -3,9 +3,8 @@
   <img src="{{.Params.image.src}}" alt="">
   {{ if (or .Params.image.license .Params.image.title) }}
   <figcaption>{{ with .Params.image.title }}{{.}}{{end}}
-    {{ with .Params.image.license_url }}<a href="{{ . }}">{{ end }}
-    {{ with .Params.image.license}}{{.}}{{ end }}
-    {{ with .Params.image.license_url }}</a>{{ end }}
+      {{ with .Params.image.title }}{{ . }}{{ end }}
+      {{ with .Params.image.license }} ({{ . }}){{ end }}
   </figcaption>
   {{ end }}
 </figure>
