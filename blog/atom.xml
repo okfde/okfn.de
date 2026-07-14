@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-05-28T00:00:00+0000</updated>
+  <updated>2026-07-14T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Warum wir auch 2026 noch über Parlamentsdaten reden müssen</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/07/warum-wir-auch-2026-noch-%C3%BCber-parlamentsdaten-reden-m%C3%BCssen/"/>
+    <id>https://okfn.de/blog/2026/07/warum-wir-auch-2026-noch-%C3%BCber-parlamentsdaten-reden-m%C3%BCssen/</id>
+    <published>2026-07-14T00:00:00+0000</published>
+    <updated>2026-07-14T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Bereits im Jahr 2013 hieß es in der sogenannten &lt;a href=&#34;https://www.bremische-buergerschaft.de/fileadmin/user_upload/Dateien/Kremser_Erklaerung_11__Juni_2013.pdf&#34; target=&#34;_blank&#34;&gt;Kremser Erklärung&lt;/a&gt; der Präsidentinnen und Präsidenten der deutschen Landtage, dass „die moderne Informationsgesellschaft und ihre Instrumente den Landesparlamenten die Chance bieten, die Bürgerinnen und Bürger in neuer Qualität zu informieren und zu beteiligen“. Was in der Retrospektive hölzern an Angela Merkels berühmtes Neuland-Zitat
+aus demselben Jahr erinnert, wurde auch mehr als eine Dekade später nicht mit Leben gefüllt.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dass Parlamentsdaten überhaupt als Quelle im gesellschaftlichen Diskurs auftauchen, dürfte in vielen Fällen am zivilgesellschaftlichen Engagement gelegen haben. Mit &lt;a href=&#34;https://kleineanfragen.de/info/stilllegung&#34; target=&#34;_blank&#34;&gt;KleineAnfragen.de&lt;/a&gt; wurden 2014 zum ersten Mal die wertvollen Antworten auf parlamentarische Fragen in Landesparlamenten durchsuchbar, bis das Portal aus Protest gegen sich ständig verändernde technische Zugangshürden und das behördliche Unverständnis für Open Data Ende 2020 abgeschaltet wurde. 2025 machte &lt;a href=&#34;https://stateparl.de/&#34; target=&#34;_blank&#34;&gt;StateParl&lt;/a&gt; erstmalig Plenarprotokolle aller Bundesländer seit dem Jahr 2000 in einem wissenschaftlichen Datensatz und einer angedockten Analyseplattform zugänglich. In dem dazugehörigen transdisziplinären &lt;a href=&#34;https://stateparl.de/workshop-2025&#34; target=&#34;_blank&#34;&gt;Auftaktworkshop&lt;/a&gt; wurde festgestellt, dass ein einheitlicher Zugang zu allen Landesparlamenten helfen könne, „die Dynamiken der föderalen Demokratie besser zu verstehen und zu analysieren“. Die Daten stellen jedoch auch nur eine Momentaufnahme dar, da auch hier die Betreiber feststellen müssen, dass eine nachhaltige Finanzierung für das demokratische Infrastrukturprojekt fehlt.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Open Data Verordnung in Berlin – wir fordern mehr statt weniger Klarheit! </title>
@@ -153,16 +164,6 @@ Im Vorfeld der im Eilverfahren durchgebrachten &lt;a href=&#34;https://www.parla
     <updated>2025-12-03T00:00:00+0000</updated>
     <summary>&lt;p&gt;&lt;strong&gt;Der Deutschland-Stack: Mit großem Titel und eigener Abteilung im BMDS will das Ministerium Bewegung in die Verwaltungsdigitalisierung bringen. Zu der Frage, was sich hinter dem Namen verbirgt und was das Ministerium vorhat, gibt es seit Anfang Oktober erste Informationen aus dem Ministerium, inklusive eigener Webseite. Dabei bleiben für uns aktuell noch viele Fragen offen.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Die Idee einer umfassenden Betrachtung der IT-Architektur der Verwaltung hat viel Potenzial, Abhängigkeiten entschieden zu bearbeiten und wichtige Basiskomponenten als Teil der Daseinsvorsorge zentral bereitzustellen. Dabei könnte auch neue Bewegung in die dringend notwendige Grundlagenarbeit kommen, insbesondere beim Datenmanagement. Inwiefern der große Wurf nun aber tatsächlich kommen wird, bleibt schwierig abzuschätzen, auch weil es weiterhin an einer klaren Definition mit Zielbild und konkreten Maßnahmen fehlt. Unsere umfassende Kommentierung im Rahmen des Konsultationsverfahrens gibt es &lt;a href=&#34;https://buendnis-f5.de/assets/data/251128_Stellungnahme%20D-Stack%20F5.pdf&#34; target=&#34;_blank&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>OGP Global Summit im Baskenland – Open Goverment bleibt Handarbeit</title>
-    <link rel="alternate" href="https://okfn.de/blog/2025/11/ogp-global-summit-im-baskenland-open-goverment-bleibt-handarbeit/"/>
-    <id>https://okfn.de/blog/2025/11/ogp-global-summit-im-baskenland-open-goverment-bleibt-handarbeit/</id>
-    <published>2025-11-06T00:00:00+0000</published>
-    <updated>2025-11-06T00:00:00+0000</updated>
-    <summary>&lt;p&gt;&lt;em&gt;Auch im Jahr 2025 haben die Ziele der &lt;a href=&#34;https://www.opengovpartnership.org/&#34; target=&#34;_blank&#34;&gt;Open-Government-Partnership-Initiative&lt;/a&gt; nichts an Relevanz verloren. Im Gegenteil: Transparenz, Bürger:innenpartizipation und zivilgesellschaftliche Räume sind für das Funktionieren der Demokratie unabdingbar – und längst nicht mehr selbstverständlich.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Genau diese Themen und Herausforderungen standen beim &lt;a href=&#34;https://spain.ogpsummit.org/p/&#34; target=&#34;_blank&#34;&gt;OGP-Global-Summit&lt;/a&gt; in Vitoria-Gasteiz im Baskenland im Mittelpunkt. Zum neunten Mal trafen sich Personen aus Politik, Verwaltung und Zivilgesellschaft, um sich auszutauschen und sich von Beispielen aus anderen Ländern und Verwaltungen inspirieren zu lassen. Bei über 2.000 Teilnehmenden, die Best Practices aus 70 Ländern mitbrachten, fiel die Inspiration nicht schwer. Doch zeigte sich auch, wie unterschiedlich Open Government aktuell international ausgeprägt ist.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
