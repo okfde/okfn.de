@@ -2,7 +2,7 @@
   {{/* Empty alt tag because title is provided as figcaption */}}
   <img src="{{.Params.image.src}}" alt="">
   {{ if (or .Params.image.license .Params.image.title) }}
-  <figcaption>{{ with .Params.image.title }}{{.}}{{end}}
+  <figcaption>
       {{ with .Params.image.title }}{{ . }}{{ end }}
       {{ with .Params.image.license }} ({{ . }}){{ end }}
   </figcaption>
