@@ -27,11 +27,11 @@ Mit der Studie liefern der Runde Tisch Reparatur und die Open Knowledge Foundati
 * **Juristische Recherche zu Gerichtsentscheidungen:** Existieren Gerichtsentscheidungen, in denen Sach- oder Personenschäden infolge von Eigenreparaturen verhandelt wurden?
 * **Quantitative Befragung:** Ist die Eigenreparatur ein Randphänomen? Wie hoch ist das Interesse, wie verbreitet ist die Praxis, selbst zu reparieren, und welche Informationen und Ressourcen fehlen selbst Reparierenden?
 
-![](/files/publikationen/eigenreparaturstudie_ergebnisse_1.png)
+![](/files/blog/2026/eigenreparaturstudie_ergebnisse_1.png)
 
 Zusammenfassend repariert mehr als die Hälfte der 3.150 deutschlandweit Befragten Produkte selbst. Angesichts des Fachkräftemangels im Reparaturhandwerk und der häufig fehlenden Wirtschaftlichkeit gewerblicher Reparaturen – insbesondere bei preisgünstigen Produkten – spielt die Eigenreparatur eine zentrale Rolle für die Verlängerung der Produktlebensdauer. Zu diesem Schluss kommt auch die aktuelle [NIM-Studie:](https://www.nim.org/studien/detail/das-recht-auf-reparatur-im-realitaetscheck) „eher repariert wird insbesondere dann, wenn selbst repariert werden kann.“
 
-![](/files/publikationen/eigenreparaturstudie_ergebnisse_2.png)
+![](/files/blog/2026/eigenreparaturstudie_ergebnisse_2.png)
 
 Gleichzeitig findet sich in unserer Analyse für das häufig vorgebrachte Argument, Eigenreparaturen stellten ein besonderes Sicherheits- oder Haftungsrisiko dar, keine belastbare empirische Grundlage. Weder die ausgewerteten Haftungsfälle und Gerichtsentscheidungen noch die Ergebnisse der Befragung stützen diese Annahme. Die Studie kommt daher zu dem Schluss, dass die Eigenreparatur politisch bislang unterschätzt wird und bei der Weiterentwicklung des Rechts auf Reparatur deutlich stärker berücksichtigt werden sollte.
 
