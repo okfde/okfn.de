@@ -98,6 +98,35 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/eigenreparaturstudie/</loc>
+    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -135,19 +164,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/"
-                />
-  </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/open-data/</loc>
@@ -197,19 +213,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2026/07/warum-wir-auch-2026-noch-%C3%BCber-parlamentsdaten-reden-m%C3%BCssen/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2026-07-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/digibeschlg-sh-ii/</loc>
     <lastmod>2026-07-02T00:00:00+00:00</lastmod>

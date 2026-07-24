@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2026-07-02T00:00:00+0000</updated>
+  <updated>2026-07-24T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Zahlreich, aber politisch kaum beachtet: Menschen, die selbst reparieren</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/eigenreparaturstudie/"/>
+    <id>https://okfn.de/publikationen/eigenreparaturstudie/</id>
+    <published>2026-07-24T00:00:00+0000</published>
+    <updated>2026-07-24T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Das „Recht auf Reparatur“ hat den Zugang zu Reparaturen in der Europäischen Union verbessert. Privatpersonen, die Reparaturen selbst durchführen möchten, bleiben jedoch weitgehend ausgeschlossen, denn der Zugang zu vielen Ersatzteilen und technischen Informationen bleibt nach wie vor kommerziellen Anbietern vorbehalten, die ihre Professionalität nachzuweisen haben.
+Diese Publikation belegt, dass die Eigenreparatur kein Randphänomen ist und liefert konkrete Zahlen: Mehr als die Hälfte der 3.150 deutschlandweit Befragten repariert Produkte selbst. Angesichts des Fachkräftemangels im Reparaturhandwerk und der häufig fehlenden Wirtschaftlichkeit gewerblicher Reparaturen – insbesondere bei preisgünstigen Produkten – spielt die Eigenreparatur eine zentrale Rolle für die Verlängerung der Produktlebensdauer.
+Gleichzeitig findet sich für das häufig vorgebrachte Argument, Eigenreparaturen stellten ein besonderes Sicherheits- oder Haftungsrisiko dar, keine belastbare empirische Grundlage. Weder die ausgewerteten Haftungsfälle und Gerichtsentscheidungen noch die Ergebnisse der Befragung stützen diese Annahme. Die Studie kommt daher zu dem Schluss, dass die Eigenreparatur politisch bislang unterschätzt wird und bei der Weiterentwicklung des Rechts auf Reparatur deutlich stärker berücksichtigt werden sollte, insbesondere, wenn es um den breiten Zugang zu Ersatzteilen und Reparaturinformationen geht.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Zweite Stellungnahme zum Digitalisierungsbeschleunigungsgesetz Schleswig-Holstein</title>
@@ -148,15 +159,6 @@ Digitalisierungsausschusses des Schleswig-Holsteinischen Landtags nehmen wir Ste
 &lt;li&gt;Mehr Gemeinwohl auf Plattformen&lt;/li&gt;
 &lt;li&gt;Verlässliche Digital-Stacks&lt;/li&gt;
 &lt;/ul&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Stellungnahme zum Open-Data-Erfahrungsbericht des Landes Nordrhein-Westfalen</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/okf_stellungnahme_od-berichtnrw/"/>
-    <id>https://okfn.de/publikationen/okf_stellungnahme_od-berichtnrw/</id>
-    <published>2025-02-10T00:00:00+0000</published>
-    <updated>2025-01-22T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Das Land NRW hat einen Erfahrungsbericht zum Umsetzungsstand von Open Data auf Landesebene veröffentlicht. Der Bericht wirft mehr Fragen auf, als er beantwortet. Wir empfehlen konkrete Maßnahmen, wie das Einbringen qualitativer Perspektiven, eine mögliche Fokussierung auf bestimmte Kerndatensätze und die Einbeziehung der Zivilgesellschaft.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

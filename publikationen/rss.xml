@@ -5,10 +5,21 @@
     <description>Publikationen on OKF DE</description>
     
     
-    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zahlreich, aber politisch kaum beachtet: Menschen, die selbst reparieren</title>
+      <link>https://okfn.de/publikationen/eigenreparaturstudie/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/eigenreparaturstudie/</guid>
+      <description>&lt;p&gt;Das „Recht auf Reparatur“ hat den Zugang zu Reparaturen in der Europäischen Union verbessert. Privatpersonen, die Reparaturen selbst durchführen möchten, bleiben jedoch weitgehend ausgeschlossen, denn der Zugang zu vielen Ersatzteilen und technischen Informationen bleibt nach wie vor kommerziellen Anbietern vorbehalten, die ihre Professionalität nachzuweisen haben.
+Diese Publikation belegt, dass die Eigenreparatur kein Randphänomen ist und liefert konkrete Zahlen: Mehr als die Hälfte der 3.150 deutschlandweit Befragten repariert Produkte selbst. Angesichts des Fachkräftemangels im Reparaturhandwerk und der häufig fehlenden Wirtschaftlichkeit gewerblicher Reparaturen – insbesondere bei preisgünstigen Produkten – spielt die Eigenreparatur eine zentrale Rolle für die Verlängerung der Produktlebensdauer.
+Gleichzeitig findet sich für das häufig vorgebrachte Argument, Eigenreparaturen stellten ein besonderes Sicherheits- oder Haftungsrisiko dar, keine belastbare empirische Grundlage. Weder die ausgewerteten Haftungsfälle und Gerichtsentscheidungen noch die Ergebnisse der Befragung stützen diese Annahme. Die Studie kommt daher zu dem Schluss, dass die Eigenreparatur politisch bislang unterschätzt wird und bei der Weiterentwicklung des Rechts auf Reparatur deutlich stärker berücksichtigt werden sollte, insbesondere, wenn es um den breiten Zugang zu Ersatzteilen und Reparaturinformationen geht.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Zweite Stellungnahme zum Digitalisierungsbeschleunigungsgesetz Schleswig-Holstein</title>
