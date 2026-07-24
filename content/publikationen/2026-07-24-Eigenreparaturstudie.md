@@ -3,7 +3,7 @@ title: "Zahlreich, aber politisch kaum beachtet: Menschen, die selbst reparieren
 subtitle: Zahlen und Fakten zur Eigenreparatur
 layout: publikation
 image:
-  src: /files/publikationen/eigenreparaturstudie_img.png
+  src: /files/publikationen/eigenreparaturstudie_img_sq.png
 kategorien: Studie
 categories: study
 people:
