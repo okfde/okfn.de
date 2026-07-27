@@ -98,6 +98,19 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2026-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -111,6 +124,9 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2026-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -123,6 +139,31 @@
                 hreflang="de"
                 href="https://okfn.de/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/%C3%B6kodesigngesetz/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/produkttransparenz/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2026/07/zahlreich-aber-politisch-kaum-beachtet-menschen-die-selbst-reparieren/</loc>
+    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
     <lastmod>2026-07-24T00:00:00+00:00</lastmod>
@@ -139,19 +180,6 @@
   </url><url>
     <loc>https://okfn.de/publikationen/eigenreparaturstudie/</loc>
     <lastmod>2026-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
@@ -184,19 +212,6 @@
   </url><url>
     <loc>https://okfn.de/tags/politikdaten/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/tags/transparenz/</loc>
     <lastmod>2026-07-14T00:00:00+00:00</lastmod>
@@ -240,18 +255,6 @@
     <lastmod>2026-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2026/05/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/</loc>
-    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/maximilian-voigt/</loc>
-    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/%C3%B6kodesigngesetz/</loc>
-    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/produkttransparenz/</loc>
-    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/digitalezivilgesellschaft/</loc>
