@@ -20,3 +20,8 @@ copy: |
   *Die Serie wurde von unserer Organisationsentwicklerin Sonja Fischbauer verfasst. Schreibt gern eine 
   [Mail an die OKF](mailto:info@okfn.de), wenn ihr Kommentare oder Rückfragen habt. Meldet euch bei uns, wir freuen uns auf den Austausch!*
 ---
+
+
+<iframe src="static/files/documents/OKF_WhistleblowingPolicy_Verfahrensordnung.pdf" width="100%" height="600px">
+    <p>Dein Browser unterstützt keine PDFs. <a href="/pfad/zu/deinem/dokument.pdf">Hier klicken zum Herunterladen.</a></p>
+</iframe>
