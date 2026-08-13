@@ -11,7 +11,7 @@ website: "https://energie-selbermachen.de/"
 people:
   - name: Maximilian Voigt
     role: Projektleiter
-  - Stephanie Bergwinkle
+  - name: Stephanie Bergwinkle
     role: Kommunikationsmanagerin
 contact:
   twitter:
