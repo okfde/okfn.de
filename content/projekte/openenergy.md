@@ -6,7 +6,7 @@ tile: double
 layout: project
 tileclass: mixed
 img: projects/pf_oshw.png
-img_header: projects/openenergy.png
+img_header: projects/OpenEnergy_Header.png
 website: "https://energie-selbermachen.de/"
 people:
   - name: Maximilian Voigt
