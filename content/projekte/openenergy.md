@@ -7,7 +7,7 @@ layout: project
 tileclass: mixed
 img: projects/pf_oshw.png
 img_header: projects/openenergy.png
-website: https://energie-selbermachen.de/
+website: "https://energie-selbermachen.de/"
 people:
   - name: Maximilian Voigt
     role: Projektleiter
