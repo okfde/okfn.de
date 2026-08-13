@@ -29,6 +29,15 @@
   </entry>
   
   <entry>
+    <title>Open Energy</title>
+    <link rel="alternate" href="https://okfn.de/projekte/openenergy/"/>
+    <id>https://okfn.de/projekte/openenergy/</id>
+    <published>0001-01-01T00:00:00+0000</published>
+    <updated>0001-01-01T00:00:00+0000</updated>
+    <summary></summary>
+  </entry>
+  
+  <entry>
     <title>Prototype Fund</title>
     <link rel="alternate" href="https://okfn.de/projekte/prototypefund/"/>
     <id>https://okfn.de/projekte/prototypefund/</id>
@@ -140,16 +149,6 @@ An diesem Tag erarbeiteten Entwicklerinnen und Softwareexperten sowie Designerin
     <updated>0001-01-01T00:00:00+0000</updated>
     <summary>&lt;p&gt;Gemeinsam mit AlgorithmWatch, der Gesellschaft für Freiheitsrechte, Reporter ohne Grenzen und Wikimedia Deutschland haben wir uns im Bündnis F5 zusammengefunden, um für die Ideen, Forderungen und Belange der digitalen Zivilgesellschaft in Deutschland einzutreten.&lt;/p&gt;
 &lt;p&gt;Wir sind in dem Anspruch vereint, eine demokratische Digitalisierung zu fördern, die auf den Grundpfeilern Offenheit und Transparenz, Teilhabe und Zugang, Schutz der Grund- und Menschenrechte sowie dem Schutz der Belange von Verbraucherinnen und Verbrauchern aufbaut. Unser Ziel ist es, das Gemeinwohl in den Fokus der Digitalpolitik zu stellen und die Zukunftsfähigkeit einer demokratischen digitalen Gesellschaft zu gewährleisten. Daher bündeln wir unsere Expertise in den verschiedenen Themenbereichen der Digitalisierung.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Coding da Vinci</title>
-    <link rel="alternate" href="https://okfn.de/projekte/codingdavinci/"/>
-    <id>https://okfn.de/projekte/codingdavinci/</id>
-    <published>0001-01-01T00:00:00+0000</published>
-    <updated>0001-01-01T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Wir organisierten mit Coding da Vinci den ersten Kultur-Hackathon in Deutschland. Die Veranstaltung bringt Entwicklerinnen, Designerinnen und Gamerinnen zusammen, um in Kooperation mit Kultureinrichtungen aus offenen Daten und eigener Kreativität neue Anwendungen, mobile Apps, Spiele und Visualisierungen umzusetzen.&lt;/p&gt;
-&lt;p&gt;Ziel von Coding da Vinci war nicht nur das Etablieren und Vernetzen einer technikaffinen und kulturbegeisterten Community, sondern insbesondere das kreative Ausschöpfen der technischen Möglichkeiten, die in unserem digitalen Kulturerbe stecken. Wir setzten uns dabei für die freie Verfügbarkeit und Nutzbarkeit von Kulturdaten ein und stellten sicher, dass sie kreativen Menschen als Rohmaterial für ihre Ideen zur Verfügung stehen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

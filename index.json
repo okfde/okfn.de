@@ -34,6 +34,20 @@
  
    ,
      {
+       "url": "https://okfn.de/projekte/openenergy/",
+       "title": "Open Energy",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       "img": "projects/pf_oshw.png",
+       
+       
+       "content": []
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/projekte/prototypefund/",
        "title": "Prototype Fund",
        "section": "projekte",
