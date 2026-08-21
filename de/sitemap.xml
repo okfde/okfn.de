@@ -101,7 +101,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -111,6 +111,67 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/beata-hubrig/</loc>
+    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/demokratie/</loc>
+    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2026/08/demokratie-braucht-kontrolle.-kontrolle-braucht-informationen./</loc>
+    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/informationsfreiheit/</loc>
+    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/informationsfreiheit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/informationsfreiheit/"
+                />
+  </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/authors/giulia-norberti/</loc>
@@ -132,32 +193,6 @@
     <loc>https://okfn.de/jobs/gf-buchhaltung-2026/</loc>
     <lastmod>2026-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2026-08-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
     <loc>https://okfn.de/authors/maximilian-voigt/</loc>
     <lastmod>2026-07-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -169,19 +204,6 @@
   </url><url>
     <loc>https://okfn.de/tags/recht-auf-reparatur/</loc>
     <lastmod>2026-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-07-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
-                />
   </url><url>
     <loc>https://okfn.de/blog/2026/07/zahlreich-aber-politisch-kaum-beachtet-menschen-die-selbst-reparieren/</loc>
     <lastmod>2026-07-27T00:00:00+00:00</lastmod>
@@ -311,9 +333,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2026/02/stellungnahme-des-b%C3%BCndnis-f5-zum-digitalen-omnibus/</loc>
     <lastmod>2026-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/beata-hubrig/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/nachforschungspflichten/</loc>
     <lastmod>2026-02-19T00:00:00+00:00</lastmod>
@@ -781,9 +800,6 @@
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/digitaleinfrastrukturf5/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/demokratie/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2025/03/offener-brief-plattformen-regulieren-demokratie-sch%C3%BCtzen/</loc>
@@ -1555,19 +1571,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2021/08/kickoff-mofab-zivilgesellschaftlich-orientierte-offene-hardware-f%C3%B6rdern/</loc>
     <lastmod>2021-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/informationsfreiheit/</loc>
-    <lastmod>2021-08-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/informationsfreiheit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/informationsfreiheit/"
-                />
   </url><url>
     <loc>https://okfn.de/authors/judith-doleschal/</loc>
     <lastmod>2021-08-05T00:00:00+00:00</lastmod>
