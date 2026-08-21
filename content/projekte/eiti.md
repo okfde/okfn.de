@@ -1,5 +1,5 @@
 ---
-type: research
+type: archive
 title: D-EITI
 subtitle: Transparente und nachvollziehbare Rohstoffgewinnung
 img: projects/deiti-logo.png
