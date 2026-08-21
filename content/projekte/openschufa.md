@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 subtitle: Wir knacken die Schufa
 tile: single
 tileclass: mixed
