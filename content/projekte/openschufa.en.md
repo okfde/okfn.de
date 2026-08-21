@@ -1,5 +1,5 @@
 ---
-type: politics
+type: archive
 subtitle: We crack the Schufa!
 tile: single
 title: OpenSchufa
