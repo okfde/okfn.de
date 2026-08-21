@@ -1,5 +1,5 @@
 ---
-type: research
+type: archive
 title: D-EITI
 subtitle: The Extractive Industries Transparency Initiative
 img: projects/deiti-logo.png
