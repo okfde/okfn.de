@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2026-07-24T00:00:00+0000</updated>
+  <updated>2026-09-02T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Unabhängigkeit durch Offenheit</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/unabhaengigkeit-offenheit/"/>
+    <id>https://okfn.de/publikationen/unabhaengigkeit-offenheit/</id>
+    <published>2026-09-02T00:00:00+0000</published>
+    <updated>2026-08-28T00:00:00+0000</updated>
+    <summary>&lt;p&gt;OSPO Papier&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Zahlreich, aber politisch kaum beachtet: Menschen, die selbst reparieren</title>
@@ -143,21 +152,6 @@ Digitalisierungsausschusses des Schleswig-Holsteinischen Landtags nehmen wir Ste
 &lt;li&gt;Offene Innovationen und Infrastrukturen erfordern Investitionen.&lt;/li&gt;
 &lt;li&gt;Offenheit ist nicht neutral.&lt;/li&gt;
 &lt;li&gt;Monopole müssen eingeschränkt werden.&lt;/li&gt;
-&lt;/ul&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Bausteine für eine resiliente digitale Infrastruktur</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/digitaleinfrastrukturf5/"/>
-    <id>https://okfn.de/publikationen/digitaleinfrastrukturf5/</id>
-    <published>2025-03-05T00:00:00+0000</published>
-    <updated>2025-03-05T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Genau wie ein gut ausgebautes Schienennetzwerk, zugängliche Schulen oder ein verlässliches Energiesystem brauchen digitale Systeme ein stabiles Fundament – von der IT kommunaler Verwaltungen bis hin zu den großen Plattformen.&lt;/p&gt;
-&lt;p&gt;Dieses Dokument beinhaltet 20 elementare Bausteine einer resilienten digitalen Infrastruktur, die für die Erreichung folgender Ziele notwendig sind:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ein zukunftsorientierter digitaler Staat&lt;/li&gt;
-&lt;li&gt;Mehr Gemeinwohl auf Plattformen&lt;/li&gt;
-&lt;li&gt;Verlässliche Digital-Stacks&lt;/li&gt;
 &lt;/ul&gt;</summary>
   </entry>
   

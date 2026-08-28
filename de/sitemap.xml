@@ -100,6 +100,35 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/</loc>
+    <lastmod>2026-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/</loc>
+    <lastmod>2026-08-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/publikationen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/publikationen/"
+                />
+  </url><url>
+    <loc>https://okfn.de/publikationen/unabhaengigkeit-offenheit/</loc>
+    <lastmod>2026-08-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/authors/</loc>
     <lastmod>2026-08-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -148,19 +177,6 @@
                 href="https://okfn.de/tags/informationsfreiheit/"
                 />
   </url><url>
-    <loc>https://okfn.de/</loc>
-    <lastmod>2026-08-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/"
-                />
-  </url><url>
     <loc>https://okfn.de/tags/</loc>
     <lastmod>2026-08-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -207,19 +223,6 @@
   </url><url>
     <loc>https://okfn.de/blog/2026/07/zahlreich-aber-politisch-kaum-beachtet-menschen-die-selbst-reparieren/</loc>
     <lastmod>2026-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/publikationen/</loc>
-    <lastmod>2026-07-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/publikationen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/publikationen/"
-                />
   </url><url>
     <loc>https://okfn.de/publikationen/eigenreparaturstudie/</loc>
     <lastmod>2026-07-24T00:00:00+00:00</lastmod>

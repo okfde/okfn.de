@@ -5,10 +5,19 @@
     <description>Publikationen on OKF DE</description>
     
     
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/publikationen/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unabhängigkeit durch Offenheit</title>
+      <link>https://okfn.de/publikationen/unabhaengigkeit-offenheit/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/publikationen/unabhaengigkeit-offenheit/</guid>
+      <description>&lt;p&gt;OSPO Papier&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Zahlreich, aber politisch kaum beachtet: Menschen, die selbst reparieren</title>
