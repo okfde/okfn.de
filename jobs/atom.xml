@@ -1,13 +1,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/jobs/atom.xml"/>
-  <updated>2026-08-06T00:00:00+0000</updated>
+  <updated>2026-09-22T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Der Prototype Fund sucht eine Person für das Eventmanagement (Laufzeit: 6 Monate)</title>
+    <link rel="alternate" href="https://okfn.de/jobs/ptf-eventmanagement/"/>
+    <id>https://okfn.de/jobs/ptf-eventmanagement/</id>
+    <published>2026-09-22T00:00:00+0000</published>
+    <updated>2026-09-22T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Zur Unterstützung unseres Teams suchen wir eine Person, die die Vorbereitung, Durchführung und Nachbereitung einer unserer Veranstaltungen am 11. Juni 2027 verantwortet. Dieses Event findet zum zehnjährigen Geburtstag des Prototype Fund statt. Wir wollen auf die letzten zehn Jahre zurückblicken, uns über große Themen der freien und Open-Source-Software sowie zur Bedeutung öffentlicher FOSS-Förderung austauschen und den Alumni*ae unserer über 400 Förderprojekte einen Ort zum Netzwerken bieten. Geplant sind Panels, Keynotes, Lightning Talks, Demos, Gelegenheiten zum Austauschen und Kennenlernen und natürlich zum Feiern mit ca. 500 Teilnehmenden. Dafür kümmerst du dich beispielsweise um die Koordination mit der Eventlocation in Berlin, kommunizierst mit Gästen und Speaker*innen, behältst am Tag des Events selbst den Überblick und kümmerst dich im Nachgang um die Abrechnung und Dokumentation.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Mitarbeiter:in im Bereich Finanzen / Buchhaltung (TVL E12/S1 mit 28-40h/Woche, ab sofort, 2 Jahre befristet)</title>
