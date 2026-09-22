@@ -9,7 +9,6 @@ image:
   license_url: null
 tags: null
 title: 'Der Prototype Fund sucht eine Person für das Eventmanagement (Laufzeit: 6 Monate)'
-draft: 'false'
 ---
 
 Zur Unterstützung unseres Teams suchen wir eine Person, die die Vorbereitung, Durchführung und Nachbereitung einer unserer Veranstaltungen am 11. Juni 2027 verantwortet. Dieses Event findet zum zehnjährigen Geburtstag des Prototype Fund statt. Wir wollen auf die letzten zehn Jahre zurückblicken, uns über große Themen der freien und Open-Source-Software sowie zur Bedeutung öffentlicher FOSS-Förderung austauschen und den Alumni\*ae unserer über 400 Förderprojekte einen Ort zum Netzwerken bieten. Geplant sind Panels, Keynotes, Lightning Talks, Demos, Gelegenheiten zum Austauschen und Kennenlernen und natürlich zum Feiern mit ca. 500 Teilnehmenden. Dafür kümmerst du dich beispielsweise um die Koordination mit der Eventlocation in Berlin, kommunizierst mit Gästen und Speaker\*innen, behältst am Tag des Events selbst den Überblick und kümmerst dich im Nachgang um die Abrechnung und Dokumentation.
