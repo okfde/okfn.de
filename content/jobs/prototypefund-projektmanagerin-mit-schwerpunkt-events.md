@@ -4,11 +4,11 @@ authors:
 date: 2026-10-05
 image:
   src: static/files/images/PTF_Projektbetreuung Events.png 
-  title: 
-  license:
-  license_url:
+  title: null
+  license: null
+  license_url: null
 title: 'Prototype Fund sucht Verstärkung: Projektbetreuung und Events (40 h/Woche) 
-draft: 
+draft: 'true'
 ---
 
 
