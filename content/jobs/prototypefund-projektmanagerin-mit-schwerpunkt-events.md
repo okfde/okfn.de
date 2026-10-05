@@ -8,7 +8,7 @@ image:
   license: null
   license_url: null
 title: 'Prototype Fund sucht Verstärkung: Projektbetreuung und Events (40 h/Woche)'
-draft: 'true'
+draft: 'false'
 ---
 
 
