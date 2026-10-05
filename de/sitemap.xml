@@ -100,6 +100,19 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
     <loc>https://okfn.de/jobs/</loc>
     <lastmod>2026-10-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -126,18 +139,11 @@
                 href="https://okfn.de/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/"
-                />
+    <loc>https://okfn.de/authors/patricia-leu/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/jobs/prototypefund-projektmanagerin-mit-schwerpunkt-events/</loc>
+    <lastmod>2026-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
@@ -175,9 +181,6 @@
                 />
   </url><url>
     <loc>https://okfn.de/jobs/ptf-eventmanagement/</loc>
-    <lastmod>2026-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/authors/patricia-leu/</loc>
     <lastmod>2026-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/</loc>
