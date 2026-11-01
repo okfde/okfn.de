@@ -4,6 +4,9 @@ authors:
 - Ben Burmeister
 image:
   src: /files/blog/2026/2026-11-gesellschafts-stack.png
+  title: Digital Nomads Beyond the Cubicle, Yutong Liu & Digit, Better Images of AI
+  license: CC-BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/
 tags:
 - Digitalpolitik
 type: post
