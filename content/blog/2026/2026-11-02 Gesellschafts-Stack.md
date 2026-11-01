@@ -3,14 +3,14 @@ authors:
 - OKF
 - Ben Burmeister
 image:
-  src: /files/images/gesellschafts-stack.jpg
+  src: /files/blog/2026/2026-11-gesellschafts-stack.png
 tags:
 - Digitalpolitik
 type: post
 layout: post
 featured: blue
 title: 'Digitalpolitik, gibts das auch für die Gesellschaft?'
-publishedDate: 2026-11-02
+publishedDate: 2026-11-03
 ---
 Digitalpolitik ist Gesellschaftspolitik. Wer unsere digitalen Räume und Werkzeuge gestaltet, gestaltet auch die Art, wie wir zusammenleben. Die OKF wie die breitere digitalpolitische Zivilgesellschaft bringt dieses Argument seit Jahren vor und setzt sich für Wege der demokratischen, gerechten und grundrechtskonformen Technikgestaltung ein. Mit KI, dem Bau von Rechenzentren und der Nachfrage nach Chips hat sich das Thema nun auch auf die physische Infrastruktur unserer Gesellschaft ausgeweitet. 
 
@@ -19,7 +19,7 @@ In der Digitalpolitik dominieren heute aber andere Narrative. Auch das noch jung
 ## Der Gesellschafts-Stack
 Eine digital mündige demokratische Gesellschaft braucht Technologien, die sie stärkt und nicht einschränkt. Mit dem Bild des Tech-Stacks hat sich in der deutschen und europäischen Digitalpolitik in der letzten Zeit die Idee etabliert, die verschiedenen Ebenen der Digitalpolitik in den Blick zu nehmen und wirksame Maßnahmen von infrastrukturellen Grundlagen bis Endanwendungen vorzulegen. Der Fokus dieser Programme liegt jedoch nicht auf der Frage, welche digitale Technologien eigentlich für den Erhalt und die Stärkung einer demokratischen Gesellschaft notwendig wären, sondern wie eine europäische Digitalwirtschaft gestärkt werden könnte. 
 
-Wir sehen aktuell klare Lücken in der aktuellen Digitalpolitik: 
+Wir sehen aktuell klare Lücken in der Digitalpolitik: 
 *	**Die Stärkung alternativer digitaler Plattformen und Anwendungen**, die nicht primär auf Aufmerksamkeit, Werbung oder Daten ausgerichtet sind, sondern primär ihre Aufgabe erfüllen. Ob ImmoScout24, Doctolib oder die sozialen Medien – es braucht gemeinwohlorientierte Alternativen und eine Politik, die sie unterstützt.
 *	**Anwendungen für eine starke Zivilgesellschaft**, ob Clouds, Webseiten oder Anwendungen für Vereine, Plattformen zur Beteiligung, Kulturkalender oder gute Chatplattformen. Es braucht leicht nutzbare, funktionierende und langfristig tragfähige offene Lösungen.
 *	**Offene Standards, die Platz für Alternativen schaffen**. Ob bei der Interoperabilität von Messengerdiensten, Standards im Cloudbereich oder neuen Entwicklungen im Bereich KI – die Rolle digitaler Standards wird immer sichtbarer. Eine Ausrichtung dieser auf das Gemeinwohl stehen jedoch viele Hürden gegenüber, die systematisch angegangen werden müssen.
