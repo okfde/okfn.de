@@ -13,7 +13,7 @@ type: post
 layout: post
 featured: blue
 title: 'Digitalpolitik, gibts das auch für die Gesellschaft?'
-publishedDate: 2026-11-03
+publishedDate: 2026-11-02
 ---
 Digitalpolitik ist Gesellschaftspolitik. Wer unsere digitalen Räume und Werkzeuge gestaltet, gestaltet auch die Art, wie wir zusammenleben. Die OKF wie die breitere digitalpolitische Zivilgesellschaft bringt dieses Argument seit Jahren vor und setzt sich für Wege der demokratischen, gerechten und grundrechtskonformen Technikgestaltung ein. Mit KI, dem Bau von Rechenzentren und der Nachfrage nach Chips hat sich das Thema nun auch auf die physische Infrastruktur unserer Gesellschaft ausgeweitet. 
 
