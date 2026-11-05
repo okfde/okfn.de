@@ -101,7 +101,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -113,11 +113,8 @@
                 href="https://okfn.de/authors/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/ben-burmeister/</loc>
-    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://okfn.de/blog/</loc>
-    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,14 +126,11 @@
                 href="https://okfn.de/blog/"
                 />
   </url><url>
-    <loc>https://okfn.de/tags/digitalpolitik/</loc>
-    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/blog/2026/11/digitalpolitik-gibts-das-auch-f%C3%BCr-die-gesellschaft/</loc>
-    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/okf/</loc>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/authors/okf/</loc>
-    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -149,7 +143,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/</loc>
-    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -162,7 +156,7 @@
                 />
   </url><url>
     <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -173,6 +167,21 @@
                 hreflang="de"
                 href="https://okfn.de/tags/"
                 />
+  </url><url>
+    <loc>https://okfn.de/tags/vorstand/</loc>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2026/11/wechsel-im-vorstandsvorsitz-der-okf/</loc>
+    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/authors/ben-burmeister/</loc>
+    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/digitalpolitik/</loc>
+    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/blog/2026/11/digitalpolitik-gibts-das-auch-f%C3%BCr-die-gesellschaft/</loc>
+    <lastmod>2026-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/jobs/</loc>
     <lastmod>2026-10-05T00:00:00+00:00</lastmod>
@@ -896,9 +905,6 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2024/10/neuwahl-des-vorstands-pressemitteilung/</loc>
-    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/vorstand/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/erbschaften/</loc>
@@ -1962,9 +1968,6 @@
     <lastmod>2020-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/tags/codeforgermany/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/okf/</loc>
     <lastmod>2020-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/blog/2020/01/okf-2020-ein-brief-zum-jahresbeginn/</loc>

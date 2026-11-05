@@ -5,10 +5,20 @@
     <description>Blog on OKF DE</description>
     
     
-    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://okfn.de/blog/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wechsel im Vorstandsvorsitz der OKF</title>
+      <link>https://okfn.de/blog/2026/11/wechsel-im-vorstandsvorsitz-der-okf/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://okfn.de/blog/2026/11/wechsel-im-vorstandsvorsitz-der-okf/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Elina Eickstädt übernimmt den Vorsitz des Vorstands der Open Knowledge Foundation Deutschland. Sie folgt auf Kristina Klein, die der Organisation seit 2021 vorsaß.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Die Open Knowledge Foundation Deutschland (OKF) hat eine neue Vorstandsvorsitzende: Elina Eickstädt übernimmt den Vorsitz von Kristina Klein. Der Vorstand erklärt: „Mit dem Wechsel verbinden wir Kontinuität in den Zielen der OKF mit einem neuen Impuls für die Arbeit an einer offenen, demokratischen und gemeinwohlorientierten Gesellschaft im digitalen Zeitalter. Mit Elina haben wir für unsere Ziele genau die richtige Vorsitzende an Bord und freuen uns auf die gemeinsame Arbeit.“&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Digitalpolitik, gibts das auch für die Gesellschaft?</title>

@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-11-02T00:00:00+0000</updated>
+  <updated>2026-11-05T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Wechsel im Vorstandsvorsitz der OKF</title>
+    <link rel="alternate" href="https://okfn.de/blog/2026/11/wechsel-im-vorstandsvorsitz-der-okf/"/>
+    <id>https://okfn.de/blog/2026/11/wechsel-im-vorstandsvorsitz-der-okf/</id>
+    <published>2026-11-05T00:00:00+0000</published>
+    <updated>2026-11-05T00:00:00+0000</updated>
+    <summary>&lt;p&gt;&lt;strong&gt;Elina Eickstädt übernimmt den Vorsitz des Vorstands der Open Knowledge Foundation Deutschland. Sie folgt auf Kristina Klein, die der Organisation seit 2021 vorsaß.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Die Open Knowledge Foundation Deutschland (OKF) hat eine neue Vorstandsvorsitzende: Elina Eickstädt übernimmt den Vorsitz von Kristina Klein. Der Vorstand erklärt: „Mit dem Wechsel verbinden wir Kontinuität in den Zielen der OKF mit einem neuen Impuls für die Arbeit an einer offenen, demokratischen und gemeinwohlorientierten Gesellschaft im digitalen Zeitalter. Mit Elina haben wir für unsere Ziele genau die richtige Vorsitzende an Bord und freuen uns auf die gemeinsame Arbeit.“&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Digitalpolitik, gibts das auch für die Gesellschaft?</title>
@@ -153,16 +163,6 @@ Im Vorfeld der im Eilverfahren durchgebrachten &lt;a href=&#34;https://www.parla
     <published>2026-01-29T00:00:00+0000</published>
     <updated>2026-01-29T00:00:00+0000</updated>
     <summary>&lt;p&gt;&lt;strong&gt;Nach Angriffen auf Kritische Infrastruktur (KRITIS), wie jüngst auf die Berliner Stromversorgung, mehren sich Rufe aus der Politik nach einer Neubewertung von Transparenz und Offenheit. Statt um den Aufbau resilienter Strukturen geht es um einen Abbau von Veröffentlichungspflichten. Dabei ist ein besserer Informationsfluss für die Erstellung eines großen Lagebilds im Krisenfall unabdingbar. Auch nichtstaatliche Akteur:innen spielen bei Prävention und Versorgung eine große Rolle und müssen darüber hinaus in der Lage sein, die Vorkehrungen des Staates überprüfen zu können.&lt;/strong&gt;&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Projektstart PODEST: Offene Hardware für eine demokratische Energiewende</title>
-    <link rel="alternate" href="https://okfn.de/blog/2026/01/projektstart-podest-offene-hardware-f%C3%BCr-eine-demokratische-energiewende/"/>
-    <id>https://okfn.de/blog/2026/01/projektstart-podest-offene-hardware-f%C3%BCr-eine-demokratische-energiewende/</id>
-    <published>2026-01-16T00:00:00+0000</published>
-    <updated>2026-01-16T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Wir leben in einer Zeit, in der die Gestaltung der Zukunft von rückwärtsgewandten Kräften in Gefahr gebracht wird. 2026 starten wir mit dem Willen, an Transformation festzuhalten. Gemeinsam mit Partner*innen aus Technik- und Sozialwissenschaften erforschen wir in den kommenden drei Jahren, wie Open Source Hardware einen konkreten Beitrag zu einer gerechteren, partizipativeren und resilienteren Energiewende leisten kann.&lt;/p&gt;
-&lt;p&gt;In Kooperation mit der TU Berlin und BTU Cottbus-Senftenberg sowie zivilgesellschaftlichen Projektteams soll dabei einerseits bestehende offene Hardware - wie das BMS von &lt;a href=&#34;https://libre.solar/&#34; target=&#34;_blank&#34;&gt;Libre Solar&lt;/a&gt; oder das Propellerdesign des &lt;a href=&#34;https://git.erni-kollektiv.org/erni/windkit&#34; target=&#34;_blank&#34;&gt;Windkits&lt;/a&gt; - verbessert und für einen breiteren Einsatz vorbereitet werden und andererseits die praktische Anwendung von offener Energietechnik durch technische Laien soziologisch begleitet werden.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

@@ -6,8 +6,22 @@
     <description>Recent content in Tags on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OKF</title>
+      <link>https://okfn.de/tags/okf/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/okf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vorstand</title>
+      <link>https://okfn.de/tags/vorstand/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/tags/vorstand/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Digitalpolitik</title>
       <link>https://okfn.de/tags/digitalpolitik/</link>
@@ -440,13 +454,6 @@
       <link>https://okfn.de/tags/pressemitteilung/</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/pressemitteilung/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vorstand</title>
-      <link>https://okfn.de/tags/vorstand/</link>
-      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/vorstand/</guid>
       <description></description>
     </item>
     <item>
@@ -1000,13 +1007,6 @@
       <link>https://okfn.de/tags/codeforgermany/</link>
       <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://okfn.de/tags/codeforgermany/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Okf</title>
-      <link>https://okfn.de/tags/okf/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://okfn.de/tags/okf/</guid>
       <description></description>
     </item>
     <item>
