@@ -6,8 +6,15 @@
     <description>Recent content in Open Data on OKF</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://okfn.de/tags/open-data/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Data Ranking 2026</title>
+      <link>https://okfn.de/blog/2026/11/open-data-ranking-2026/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://okfn.de/blog/2026/11/open-data-ranking-2026/</guid>
+      <description>&lt;p&gt;Wir veröffentlichen zum dritten Mal das &lt;a href=&#34;https://opendataranking.de/&#34; target=&#34;_blank&#34;&gt;Open Data Ranking&lt;/a&gt;! Erneut werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze.&lt;/p&gt;&#xA;&lt;p&gt;Behörden aller staatlichen Ebenen – von der Bundes- bis zur Kommunalverwaltung – produzieren täglich eine Vielzahl von Informationen. Allerdings wird nur ein vergleichsweise geringer Anteil davon unter freien Lizenzen in offenen und maschinenlesbaren Formaten automatisiert bereitgestellt. Mit dem Open Data Ranking haben wir 2024 und 2025 erste Bestandsaufnahmen des Status quo von Open Data in Deutschland vorgenommen, um die Diskussion über offene Daten im Land auf eine breitere Basis stellen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Warum wir auch 2026 noch über Parlamentsdaten reden müssen</title>
       <link>https://okfn.de/blog/2026/07/warum-wir-auch-2026-noch-%C3%BCber-parlamentsdaten-reden-m%C3%BCssen/</link>
