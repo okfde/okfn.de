@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/blog/atom.xml"/>
-  <updated>2026-11-05T00:00:00+0000</updated>
+  <updated>2026-11-25T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
@@ -13,8 +13,8 @@
     <title>Open Data Ranking 2026</title>
     <link rel="alternate" href="https://okfn.de/blog/2026/11/open-data-ranking-2026/"/>
     <id>https://okfn.de/blog/2026/11/open-data-ranking-2026/</id>
-    <published>2026-11-05T00:00:00+0000</published>
-    <updated>2026-11-05T00:00:00+0000</updated>
+    <published>2026-11-25T00:00:00+0000</published>
+    <updated>2026-11-25T00:00:00+0000</updated>
     <summary>&lt;p&gt;Wir veröffentlichen zum dritten Mal das &lt;a href=&#34;https://opendataranking.de/&#34; target=&#34;_blank&#34;&gt;Open Data Ranking&lt;/a&gt;! Erneut werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze.&lt;/p&gt;
 &lt;p&gt;Behörden aller staatlichen Ebenen – von der Bundes- bis zur Kommunalverwaltung – produzieren täglich eine Vielzahl von Informationen. Allerdings wird nur ein vergleichsweise geringer Anteil davon unter freien Lizenzen in offenen und maschinenlesbaren Formaten automatisiert bereitgestellt. Mit dem Open Data Ranking haben wir 2024 und 2025 erste Bestandsaufnahmen des Status quo von Open Data in Deutschland vorgenommen, um die Diskussion über offene Daten im Land auf eine breitere Basis stellen.&lt;/p&gt;</summary>
   </entry>

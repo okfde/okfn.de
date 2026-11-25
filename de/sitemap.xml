@@ -100,6 +100,45 @@
                 href="https://okfn.de/projekte/jugendhackt/"
                 />
   </url><url>
+    <loc>https://okfn.de/authors/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/blog/"
+                />
+  </url><url>
+    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/authors/d%C3%A9nes-j%C3%A4ger/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/"
+                />
+  </url><url>
     <loc>https://okfn.de/</loc>
     <lastmod>2026-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -112,6 +151,25 @@
                 hreflang="de"
                 href="https://okfn.de/"
                 />
+  </url><url>
+    <loc>https://okfn.de/authors/okf-de/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://okfn.de/tags/open-data/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://okfn.de/en/tags/open-data/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://okfn.de/tags/open-data/"
+                />
+  </url><url>
+    <loc>https://okfn.de/blog/2026/11/open-data-ranking-2026/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://okfn.de/publikationen/opendataranking26/</loc>
     <lastmod>2026-11-25T00:00:00+00:00</lastmod>
@@ -126,6 +184,9 @@
                 href="https://okfn.de/publikationen/opendataranking26/"
                 />
   </url><url>
+    <loc>https://okfn.de/tags/opendataranking/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://okfn.de/publikationen/</loc>
     <lastmod>2026-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -139,43 +200,17 @@
                 href="https://okfn.de/publikationen/"
                 />
   </url><url>
-    <loc>https://okfn.de/authors/</loc>
-    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
+    <loc>https://okfn.de/tags/</loc>
+    <lastmod>2026-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://okfn.de/en/authors/"
+                href="https://okfn.de/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://okfn.de/authors/"
-                />
-  </url><url>
-    <loc>https://okfn.de/blog/</loc>
-    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/blog/"
-                />
-  </url><url>
-    <loc>https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/</loc>
-    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/authors/d%C3%A9nes-j%C3%A4ger/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/authors/d%C3%A9nes-j%C3%A4ger/"
+                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/okf/</loc>
@@ -192,41 +227,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://okfn.de/authors/okf/"
-                />
-  </url><url>
-    <loc>https://okfn.de/authors/okf-de/</loc>
-    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/open-data/</loc>
-    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/open-data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/open-data/"
-                />
-  </url><url>
-    <loc>https://okfn.de/blog/2026/11/open-data-ranking-2026/</loc>
-    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/opendataranking/</loc>
-    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://okfn.de/tags/</loc>
-    <lastmod>2026-11-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://okfn.de/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://okfn.de/tags/"
                 />
   </url><url>
     <loc>https://okfn.de/tags/vorstand/</loc>
