@@ -4,8 +4,8 @@ subtitle: Zahlen und Fakten zur Eigenreparatur
 layout: publikation
 image:
   src: /files/images/Studie2.jpg
-kategorien: Studie
-categories: study
+kategorien: Studien
+categories: Studies
 people:
 - name: Maximilian Voigt, Katrin Meyer, Tom Hansing, Franz Streibl
 file: /files/publikationen/Eigenreparaturstudie_2026_final.pdf
