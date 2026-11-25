@@ -132,6 +132,18 @@
  
    ,
      {
+       "url": "https://okfn.de/en/publikationen/opendataranking26/",
+       "title": "Open Data Ranking Germany 2026",
+       "section": "publikationen",
+       "date": "2026-11-25 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Once","again,","we","take","a","look","at","the","open","data","landscape","in","Germany,","looking","beyond","the","mere","number","of","datasets.","Whilst","progress","has","been","made","at","state","level","–","for","example","in","Hesse","–","the","issue","has","stagnated","at","federal","level.","In","addition,","a","survey","was","conducted","for","the","first","time","amongst","all","open","data","offices","in","the","country."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/en/publikationen/2025-jahresbericht/",
        "title": "Open Knowledge Foundation Germany e. V. - 2025 Annual report",
        "section": "publikationen",

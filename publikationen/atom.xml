@@ -10,6 +10,15 @@
   <id>https://okfn.de</id>
   
   <entry>
+    <title>Open Data Ranking Deutschland 2026</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/opendataranking26/"/>
+    <id>https://okfn.de/publikationen/opendataranking26/</id>
+    <published>2026-11-25T00:00:00+0000</published>
+    <updated>2026-11-25T00:00:00+0000</updated>
+    <summary>&lt;p&gt;Wir veröffentlichen zum dritten Mal das Open Data Ranking! Erneut werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze. Während es auf Landesebene z.B. in Hessen Fortschritte gab, stagniert das Thema im Bund. Zudem gab es erstmals eine Umfrage unter allen Open-Data-Stellen im Land.&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
     <title>Unabhängigkeit durch Offenheit</title>
     <link rel="alternate" href="https://okfn.de/publikationen/unabhaengigkeit-offenheit/"/>
     <id>https://okfn.de/publikationen/unabhaengigkeit-offenheit/</id>
@@ -137,15 +146,6 @@ Digitalisierungsausschusses des Schleswig-Holsteinischen Landtags nehmen wir Ste
     <published>2025-08-05T00:00:00+0000</published>
     <updated>2025-08-05T00:00:00+0000</updated>
     <summary>&lt;p&gt;Das Open Data Ranking bekommt ein Update! Zum zweiten Mal werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze. Die Analyse der rechtlichen Rahmenbedingungen, der Datenqualität und des Open-Data-Ökosystems für das letzte Jahr hat gezeigt: Allzu große Veränderungen gab es 2024 nicht.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Jahresbericht Open Knowledge Foundation Deutschland e. V. 2024</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/2024-jahresbericht/"/>
-    <id>https://okfn.de/publikationen/2024-jahresbericht/</id>
-    <published>2025-06-23T00:00:00+0000</published>
-    <updated>2025-06-23T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Der folgende Bericht blickt zurück auf die Arbeit der Open Knowledge Foundation Deutschland im Jahr 2024. Im Bericht werden die wichtigsten Aktivitäten zusammengefasst, die Arbeitsweise der Organisation beschrieben sowie alle Projekte in Kürze dargestellt. Der abschließende Teil des Berichts umfasst Informationen zur Organisationsstruktur und den Finanzen.&lt;/p&gt;</summary>
   </entry>
   
 </feed>

@@ -132,6 +132,18 @@
  
    ,
      {
+       "url": "https://okfn.de/publikationen/opendataranking26/",
+       "title": "Open Data Ranking Deutschland 2026",
+       "section": "publikationen",
+       "date": "2026-11-25 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Wir","veröffentlichen","zum","dritten","Mal","das","Open","Data","Ranking!","Erneut","werfen","wir","einen","Blick","auf","die","Open-Data-Landschaft","in","Deutschland","und","betrachten","dabei","mehr","als","nur","die","reine","Anzahl","der","Datensätze.","Während","es","auf","Landesebene","z.B.","in","Hessen","Fortschritte","gab,","stagniert","das","Thema","im","Bund.","Zudem","gab","es","erstmals","eine","Umfrage","unter","allen","Open-Data-Stellen","im","Land."]
+       
+     }
+ 
+   ,
+     {
        "url": "https://okfn.de/blog/2026/11/open-data-ranking-2026/",
        "title": "Open Data Ranking 2026",
        "section": "blog",
