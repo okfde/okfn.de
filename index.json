@@ -34,20 +34,6 @@
  
    ,
      {
-       "url": "https://okfn.de/projekte/openenergy/",
-       "title": "Open Energy",
-       "section": "projekte",
-       "date": "0001-01-01 00:00:00 +0000 UTC",
-       
-       "img": "projects/pf_oshw.png",
-       
-       
-       "content": []
-       
-     }
- 
-   ,
-     {
        "url": "https://okfn.de/projekte/prototypefund/",
        "title": "Prototype Fund",
        "section": "projekte",
@@ -9677,6 +9663,18 @@
        
        
        "content": ["OpenBudgets","ist","ein","EU-Horizon2020","gefördertes","Projekt,","das","europaweit","die","Daten","des","öffentlichen","Haushalts","in","zentraler","und","transparenter","Form","zugänglich","machen","möchte.","Der","derzeitige","Mangel","an","offenen","Haushalts-","und","Transaktionsdaten","erschwert","es","den","Bürgern","und","anderen","Beteiligten","sehr,","sich","einen","Überblick","über","die","öffentlichen","Ausgaben","zu","verschaffen.","Noch","schwieriger","erweist","sich","der","Vergleich","der","Haushalte","zwischen","Verwaltungsregionen","und","anderen","Regierungsebenen.","Foto:","Leonard","Wolf","CC-BY-SA","4.0","Foto:","Leonard","Wolf","CC-BY-SA","4.0","Die","OpenBudgets-Plattform","ist","für","öffentliche","Verwaltungen,","Bürger,","NGOs,","Medienorganisationen,","öffentliche","Dienstleistungsunternehmen","und","Interessengruppen,","die","mit","Steuerdaten","arbeiten,","konzipiert.","Die","größte","Herausforderung","bestand","darin,","eine","skalierbare","Plattform","bereitzustellen,","die","einfach","zu","bedienen,","flexibel","und","attraktiv","für","all","diese","verschiedenen","Benutzertypen","ist.","Dies","wird","durch","die","Bereitstellung","eines","Open-Source-Software-Frameworks","und","einer","begleitenden","Software-As-As-A-Service","(SAAS)-Plattform","rund","um","steuerliche","Transparenz","und","offene","Budgets","realisiert."]
+       
+     }
+ 
+   ,
+     {
+       "url": "https://okfn.de/projekte/openenergy/",
+       "title": "Open Energy",
+       "section": "projekte",
+       "date": "0001-01-01 00:00:00 +0000 UTC",
+       
+       
+       "content": ["Mit","dem","Projekt","Open","Energy","möchten","wir","das","Wissen","rund","um","Solar-","und","Windstrom","zugänglicher","machen","und","eine","Plattform","aufbauen,","auf","der","du","alle","wichtigen","Informationen","findest,","um","deine","eigene","Anlage","aufzubauen.","Dabei","setzen","wir","auf","Technik,","die","vollständig","in","deinen","Händen","liegt.","Das","bedeutet,","dass","du","nicht","nur","das","Gerät","besitzt,","sondern","auch","alle","Informationen,","wie","du","es","reparieren","oder","an","deine","Bedürfnisse","anpassen","kannst.","Genau","das","ermöglicht","Open","Source","Hardware","(OSH).","Mehr","auf","energie-selbermachen.de"]
        
      }
  

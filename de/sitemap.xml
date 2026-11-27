@@ -26,8 +26,6 @@
                 href="https://okfn.de/projekte/ogp/"
                 />
   </url><url>
-    <loc>https://okfn.de/projekte/openenergy/</loc>
-  </url><url>
     <loc>https://okfn.de/projekte/prototypefund/</loc>
     <xhtml:link
                 rel="alternate"
@@ -5306,6 +5304,8 @@
                 hreflang="de"
                 href="https://okfn.de/projekte/openbudgets/"
                 />
+  </url><url>
+    <loc>https://okfn.de/projekte/openenergy/</loc>
   </url><url>
     <loc>https://okfn.de/projekte/openschufa/</loc>
     <xhtml:link
