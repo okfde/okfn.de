@@ -48,6 +48,20 @@
 
 # Hauptamtlich Mitarbeitende
 
+- name: Stephanie Bergwinkl
+  title:
+  img: StephanieBergwinkl
+  staff: 1
+  board: 0
+  advisory: 0
+  position: Kommunikationsmanagement OpenEnergy
+  position_en: Communications Management at OpenEnergy
+  bio: "Stephanie Bergwinkl ist verantwortlich für die Kommunikation des Projekts Open Energy. Sie setzt sich mit verschiedenen Medien strategisch sowie künstlerisch für das Klima sowie für Self-Empowerment ein. Stephanie studierte Zeitbasierte Medien sowie Kommunikations- und Wirtschaftswissenschaften."
+  bio_en: "Stephanie Bergwinkl is responsible for communications for the Open Energy project. She uses various media, both strategically and artistically, to advocate for climate action and self-empowerment. She studied time-based media, communication, and economics."
+  mail: stephanie.bergwinkl@okfn.de
+  twitter:
+  website:
+  
 - name: Sophia Schulze Schleithoff
   title:
   img: SophiaSchulzeSchleithoff
