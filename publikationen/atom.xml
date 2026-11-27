@@ -1,13 +1,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Knowledge Foundation DE</title>
   <link rel="self" href="https://okfn.de/publikationen/atom.xml"/>
-  <updated>2026-11-25T00:00:00+0000</updated>
+  <updated>2026-11-27T00:00:00+0000</updated>
   <author>
     <name>Open Knowledge Foundation DE</name>
     <email>info@okfn.de</email>
     <uri>https://okfn.de</uri>
   </author>
   <id>https://okfn.de</id>
+  
+  <entry>
+    <title>Numerous, yet largely overlooked in politics: self-repairers</title>
+    <link rel="alternate" href="https://okfn.de/publikationen/self-repair-study/"/>
+    <id>https://okfn.de/publikationen/self-repair-study/</id>
+    <published>2026-11-27T00:00:00+0000</published>
+    <updated>2026-11-27T00:00:00+0000</updated>
+    <summary>&lt;p&gt;The &amp;lsquo;Right to Repair&amp;rsquo; has improved access to repairs in the European Union. However, individuals who wish to perform repairs themselves are still largely excluded, as access to many replacement parts and technical information remains reserved for professional commercial providers.
+This publication demonstrates that DIY repairs are not a marginal phenomenon, providing concrete figures to support this claim. More than half of the 3,150 people surveyed in Germany repair products themselves. In light of the shortage of skilled workers in the repair industry and the frequent lack of cost-effectiveness of commercial repairs, especially for low-cost products, do-it-yourself repairs play a pivotal role in extending product lifespans.
+At the same time, there is no solid empirical basis for the frequently cited argument that DIY repairs pose a particular safety or liability risk. Neither the analysed liability cases and court decisions nor the survey results support this assumption. The study therefore concludes that policymakers have underestimated DIY repairs to date, and they should be given significantly greater consideration in the further development of the right to repair — particularly with regard to broad access to replacement parts and repair information.&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <title>Open Data Ranking Deutschland 2026</title>
@@ -137,15 +148,6 @@ Digitalisierungsausschusses des Schleswig-Holsteinischen Landtags nehmen wir Ste
     <published>2025-08-19T00:00:00+0000</published>
     <updated>2025-08-18T00:00:00+0000</updated>
     <summary>&lt;p&gt;Ein moderner Staat muss nicht nur handlungsfähig, sondern auch vertrauenswürdig sein. Mit Blick auf die Staatsmodernisierungsagenda des BMDS unterbreiten wir in den drei zentralen Themenbereichen Strategisches Handeln, Daten &amp;amp; KI, Gesetzgebung Anregungen für Reformen.&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <title>Open Data Ranking Deutschland 2025</title>
-    <link rel="alternate" href="https://okfn.de/publikationen/opendataranking25/"/>
-    <id>https://okfn.de/publikationen/opendataranking25/</id>
-    <published>2025-08-05T00:00:00+0000</published>
-    <updated>2025-08-05T00:00:00+0000</updated>
-    <summary>&lt;p&gt;Das Open Data Ranking bekommt ein Update! Zum zweiten Mal werfen wir einen Blick auf die Open-Data-Landschaft in Deutschland und betrachten dabei mehr als nur die reine Anzahl der Datensätze. Die Analyse der rechtlichen Rahmenbedingungen, der Datenqualität und des Open-Data-Ökosystems für das letzte Jahr hat gezeigt: Allzu große Veränderungen gab es 2024 nicht.&lt;/p&gt;</summary>
   </entry>
   
 </feed>
