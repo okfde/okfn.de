@@ -2,10 +2,7 @@
 kategorien:
   - Civic Tech
 title: Open Energy
-tile: double
 layout: project
-tileclass: mixed
-img: projects/pf_oshw.png
 img_header: projects/OpenEnergy_Header.png
 website: "https://energie-selbermachen.de/"
 people:
@@ -20,7 +17,6 @@ contact:
 subtitle: Mit offenen Technologien Energie selbermachen
 contact_person: maximilianvoigt
 years: 2026 - heute
-weight: 2
 partners:
 financing:
   - Postcode Lotterie
@@ -30,4 +26,4 @@ more_text: |-
 
 ---
 
-
+Mit dem Projekt Open Energy möchten wir das Wissen rund um Solar- und Windstrom zugänglicher machen und eine Plattform aufbauen, auf der du alle wichtigen Informationen findest, um deine eigene Anlage aufzubauen. Dabei setzen wir auf Technik, die vollständig in deinen Händen liegt. Das bedeutet, dass du nicht nur das Gerät besitzt, sondern auch alle Informationen, wie du es reparieren oder an deine Bedürfnisse anpassen kannst. Genau das ermöglicht Open Source Hardware (OSH). Mehr auf [energie-selbermachen.de](https://energie-selbermachen.de/)
